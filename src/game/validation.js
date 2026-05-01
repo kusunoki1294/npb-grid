@@ -8,10 +8,16 @@ export function playerMatchesCategory(player, category) {
       return player.positions.includes(category.value);
     case 'award':
       return player.awards.includes(category.value);
-    case 'battingMilestone':
-      return player.battingMilestones.includes(category.value);
-    case 'pitchingMilestone':
-      return player.pitchingMilestones.includes(category.value);
+    case 'battingSeasonMilestone':
+      return player.battingSeasonMilestones.includes(category.value);
+    case 'battingCareerMilestone':
+      return player.battingCareerMilestones.includes(category.value);
+    case 'pitchingSeasonMilestone':
+      return player.pitchingSeasonMilestones.includes(category.value);
+    case 'pitchingCareerMilestone':
+      return player.pitchingCareerMilestones.includes(category.value);
+    case 'specialCategory':
+      return player.specialCategories.includes(category.value);
     default:
       return false;
   }

@@ -18,41 +18,63 @@ const team = (value, franchiseNames) =>
     history: franchiseNames,
   });
 
-const award = (value, subtitle) =>
+const award = (value) =>
   createCategory('award', value, {
-    heading: 'Award Rule',
-    subtitle,
+    heading: 'Award / Honor',
+    subtitle: value,
     note:
-      'If this is paired with a team, the player must have won the award while playing for that team in the sample data. If it is paired with a non-team category, the player only needs to satisfy both categories somewhere in the sample data.',
+      'If this is paired with a team, the player must have earned this award or honor while playing for that team in the sample data. If it is paired with a non-team category, the player only needs to satisfy both categories somewhere in the sample data.',
   });
 
-const position = (value, subtitle) =>
+const position = (value) =>
   createCategory('position', value, {
     heading: 'Position Rule',
-    subtitle,
+    subtitle: value,
     note:
       'The player must be listed at this position in the local sample data. It does not need to be from the same season as another non-team category.',
   });
 
-const battingMilestone = (value, subtitle) =>
-  createCategory('battingMilestone', value, {
-    heading: 'Batting Milestone',
-    subtitle,
+const battingSeasonMilestone = (value) =>
+  createCategory('battingSeasonMilestone', value, {
+    heading: 'Batting Season Category',
+    subtitle: value,
     note:
-      'If this is paired with a team, the player must have reached this batting milestone with that team in the sample data. If it is paired with a non-team category, the milestone can come from any season in the sample data.',
+      'If this is paired with a team, the player must have reached this batting season stat with that team in the sample data. If it is paired with a non-team category, it can come from any season in the sample data.',
   });
 
-const pitchingMilestone = (value, subtitle) =>
-  createCategory('pitchingMilestone', value, {
-    heading: 'Pitching Milestone',
-    subtitle,
+const battingCareerMilestone = (value) =>
+  createCategory('battingCareerMilestone', value, {
+    heading: 'Batting Career Category',
+    subtitle: value,
     note:
-      'If this is paired with a team, the player must have reached this pitching milestone with that team in the sample data. If it is paired with a non-team category, the milestone can come from any season in the sample data.',
+      'Career categories use the player career markers in the local sample data. When paired with a team, the player still must have played for that team.',
   });
 
-// One shared category list powers every board. New categories can be added
-// here without changing the generator or the UI.
-export const categoryPool = [
+const pitchingSeasonMilestone = (value) =>
+  createCategory('pitchingSeasonMilestone', value, {
+    heading: 'Pitching Season Category',
+    subtitle: value,
+    note:
+      'If this is paired with a team, the player must have reached this pitching season stat with that team in the sample data. If it is paired with a non-team category, it can come from any season in the sample data.',
+  });
+
+const pitchingCareerMilestone = (value) =>
+  createCategory('pitchingCareerMilestone', value, {
+    heading: 'Pitching Career Category',
+    subtitle: value,
+    note:
+      'Career categories use the player career markers in the local sample data. When paired with a team, the player still must have played for that team.',
+  });
+
+const specialCategory = (value) =>
+  createCategory('specialCategory', value, {
+    heading: 'Special Category',
+    subtitle: value,
+    note:
+      'Special categories use curated tags in the local sample data. When paired with a team, the player still must have played for that team.',
+  });
+
+const teamCategories = [
   team('Yomiuri Giants', ['Yomiuri Giants']),
   team('Hanshin Tigers', ['Hanshin Tigers']),
   team('Yakult Swallows', ['Yakult Swallows', 'Sankoku Atoms', 'Yakult Atoms']),
@@ -82,24 +104,151 @@ export const categoryPool = [
     'Hokkaido Nippon-Ham Fighters',
     'Nippon-Ham Fighters',
   ]),
-  award('MVP Winner', 'Won an NPB Most Valuable Player award'),
-  position('Pitcher', 'Listed as a pitcher'),
-  position('Catcher', 'Listed as a catcher'),
-  position('Left Fielder', 'Listed as a left fielder'),
-  position('Center Fielder', 'Listed as a center fielder'),
-  position('Right Fielder', 'Listed as a right fielder'),
-  position('First Baseman', 'Listed as a first baseman'),
-  position('Second Baseman', 'Listed as a second baseman'),
-  position('Third Baseman', 'Listed as a third baseman'),
-  position('Shortstop', 'Listed as a shortstop'),
-  position('Designated Hitter', 'Listed as a designated hitter'),
-  battingMilestone('30+ HR Season', 'Had a season with 30 or more home runs'),
-  battingMilestone('100+ RBI Season', 'Had a season with 100 or more RBI'),
-  pitchingMilestone('15+ Win Season', 'Had a season with 15 or more wins'),
-  pitchingMilestone('200+ Strikeouts', 'Had a season with 200 or more strikeouts'),
 ];
 
-let playableBoardsCache = null;
+const awardCategories = [
+  'MVP Winner',
+  'Sawamura Award Winner',
+  'Rookie of the Year',
+  'Best Nine',
+  'Golden Glove',
+  'All-Star',
+  'Japan Series Champion',
+  'Japan Series MVP',
+  'Climax Series MVP',
+  'Batting Champion',
+  'Home Run Leader',
+  'RBI Leader',
+  'Stolen Base Leader',
+  'ERA Leader',
+  'Wins Leader',
+  'Strikeout Leader',
+  'Saves Leader',
+  'Holds Leader',
+].map(award);
+
+const positionCategories = [
+  'Pitcher',
+  'Catcher',
+  'Left Fielder',
+  'Center Fielder',
+  'Right Fielder',
+  'First Baseman',
+  'Second Baseman',
+  'Third Baseman',
+  'Shortstop',
+  'Designated Hitter',
+].map(position);
+
+const battingSeasonCategories = [
+  '.300+ AVG Season',
+  '.320+ AVG Season',
+  '20+ HR Season',
+  '30+ HR Season',
+  '40+ HR Season',
+  '50+ HR Season',
+  '80+ RBI Season',
+  '100+ RBI Season',
+  '100+ Runs Season',
+  '150+ Hits Season',
+  '180+ Hits Season',
+  '200+ Hits Season',
+  '20+ SB Season',
+  '30+ SB Season',
+  '40+ SB Season',
+  '20+ HR / 20+ SB Season',
+  '30+ HR / 30+ SB Season',
+  'Triple Crown Season',
+].map(battingSeasonMilestone);
+
+const battingCareerCategories = [
+  '1,000+ Career Hits',
+  '1,500+ Career Hits',
+  '2,000+ Career Hits',
+  '2,500+ Career Hits',
+  '100+ Career HR',
+  '200+ Career HR',
+  '300+ Career HR',
+  '400+ Career HR',
+  '500+ Career HR',
+  '500+ Career RBI',
+  '1,000+ Career RBI',
+  '1,500+ Career RBI',
+  '500+ Career Runs',
+  '1,000+ Career Runs',
+  '100+ Career SB',
+  '200+ Career SB',
+  '300+ Career SB',
+  '500+ Career SB',
+  '.280+ Career AVG',
+  '.300+ Career AVG',
+  '.400+ Career OBP',
+  '.500+ Career SLG',
+].map(battingCareerMilestone);
+
+const pitchingSeasonCategories = [
+  '10+ Win Season',
+  '15+ Win Season',
+  '20+ Win Season',
+  '150+ Strikeout Season',
+  '200+ Strikeout Season',
+  '<=2.00 ERA Season',
+  '<=2.50 ERA Season',
+  '30+ Save Season',
+  '40+ Save Season',
+  '50+ Save Season',
+  '30+ Hold Season',
+  '40+ Hold Season',
+  '200+ IP Season',
+].map(pitchingSeasonMilestone);
+
+const pitchingCareerCategories = [
+  '50+ Career Wins',
+  '100+ Career Wins',
+  '150+ Career Wins',
+  '200+ Career Wins',
+  '500+ Career Strikeouts',
+  '1,000+ Career Strikeouts',
+  '1,500+ Career Strikeouts',
+  '2,000+ Career Strikeouts',
+  '100+ Career Saves',
+  '200+ Career Saves',
+  '250+ Career Saves',
+  '100+ Career Holds',
+  '200+ Career Holds',
+  '500+ Games Pitched',
+  '1,000+ Career IP',
+  '1,500+ Career IP',
+  '2,000+ Career IP',
+  'Sub-3.00 Career ERA',
+  '50+ Career Complete Games',
+  '100+ Career Complete Games',
+  '10+ Career Shutouts',
+  '20+ Career Shutouts',
+].map(pitchingCareerMilestone);
+
+const specialCategories = [
+  'Played for Only One NPB Franchise',
+  'Played in MLB',
+  'Foreign-Born Player',
+  'Japanese-Born Player',
+  'Switch Hitter',
+  'No-Hitter',
+  'Perfect Game',
+  'Japan Baseball Hall of Fame',
+  'Meikyukai Member',
+].map(specialCategory);
+
+export const categoryPool = [
+  ...teamCategories,
+  ...awardCategories,
+  ...positionCategories,
+  ...battingSeasonCategories,
+  ...battingCareerCategories,
+  ...pitchingSeasonCategories,
+  ...pitchingCareerCategories,
+  ...specialCategories,
+];
 
 function shuffle(items) {
   const nextItems = [...items];
@@ -112,6 +261,10 @@ function shuffle(items) {
   return nextItems;
 }
 
+function sameCategory(left, right) {
+  return left.type === right.type && left.value === right.value;
+}
+
 function hasValidIntersection(players, rowCategory, columnCategory) {
   return players.some(
     (player) =>
@@ -120,95 +273,37 @@ function hasValidIntersection(players, rowCategory, columnCategory) {
   );
 }
 
-function isPlayableGrid(players, rows, columns) {
-  return rows.every((rowCategory) =>
-    columns.every((columnCategory) =>
-      hasValidIntersection(players, rowCategory, columnCategory),
-    ),
+function getUsableCategories(players) {
+  return categoryPool.filter((category) =>
+    players.some((player) => playerMatchesCategory(player, category)),
   );
 }
 
-function getPlayableBoards(players) {
-  if (playableBoardsCache) {
-    return playableBoardsCache;
-  }
-
-  const playableBoards = [];
-
-  for (let first = 0; first < categoryPool.length - 5; first += 1) {
-    for (let second = first + 1; second < categoryPool.length - 4; second += 1) {
-      for (let third = second + 1; third < categoryPool.length - 3; third += 1) {
-        for (let fourth = third + 1; fourth < categoryPool.length - 2; fourth += 1) {
-          for (let fifth = fourth + 1; fifth < categoryPool.length - 1; fifth += 1) {
-            for (let sixth = fifth + 1; sixth < categoryPool.length; sixth += 1) {
-              const selected = [
-                categoryPool[first],
-                categoryPool[second],
-                categoryPool[third],
-                categoryPool[fourth],
-                categoryPool[fifth],
-                categoryPool[sixth],
-              ];
-
-              const arrangements = [
-                { rows: selected.slice(0, 3), columns: selected.slice(3, 6) },
-                {
-                  rows: [selected[0], selected[1], selected[3]],
-                  columns: [selected[2], selected[4], selected[5]],
-                },
-                {
-                  rows: [selected[0], selected[2], selected[4]],
-                  columns: [selected[1], selected[3], selected[5]],
-                },
-                {
-                  rows: [selected[0], selected[4], selected[5]],
-                  columns: [selected[1], selected[2], selected[3]],
-                },
-              ];
-
-              arrangements.forEach(({ rows, columns }) => {
-                if (isPlayableGrid(players, rows, columns)) {
-                  playableBoards.push({ rows, columns });
-                }
-              });
-            }
-          }
-        }
-      }
-    }
-  }
-
-  playableBoardsCache = playableBoards;
-  return playableBoardsCache;
-}
-
 export function createRandomGrid(players) {
-  const playableBoards = getPlayableBoards(players);
+  const usableCategories = getUsableCategories(players);
 
-  if (playableBoards.length > 0) {
-    const selectedBoard =
-      playableBoards[Math.floor(Math.random() * playableBoards.length)];
+  for (let attempt = 0; attempt < 2500; attempt += 1) {
+    const rows = shuffle(usableCategories).slice(0, 3);
+    const viableColumns = usableCategories.filter(
+      (candidate) =>
+        !rows.some((row) => sameCategory(row, candidate)) &&
+        rows.every((row) => hasValidIntersection(players, row, candidate)),
+    );
+
+    if (viableColumns.length < 3) {
+      continue;
+    }
 
     return {
-      id: `random-grid-${Date.now()}`,
-      name: 'Random NPB Grid',
-      rows: shuffle(selectedBoard.rows),
-      columns: shuffle(selectedBoard.columns),
+      id: `random-grid-${Date.now()}-${attempt}`,
+      rows,
+      columns: shuffle(viableColumns).slice(0, 3),
     };
   }
 
   return {
     id: 'fallback-grid',
-    name: 'Fallback NPB Grid',
-    rows: [
-      team('Yomiuri Giants', ['Yomiuri Giants']),
-      team('Hanshin Tigers', ['Hanshin Tigers']),
-      team('Yakult Swallows', ['Yakult Swallows', 'Sankoku Atoms', 'Yakult Atoms']),
-    ],
-    columns: [
-      award('MVP Winner', 'Won an NPB Most Valuable Player award'),
-      battingMilestone('30+ HR Season', 'Had a season with 30 or more home runs'),
-      position('Pitcher', 'Listed as a pitcher'),
-    ],
+    rows: teamCategories.slice(0, 3),
+    columns: [award('MVP Winner'), battingSeasonMilestone('30+ HR Season'), position('Pitcher')],
   };
 }

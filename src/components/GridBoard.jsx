@@ -1,19 +1,19 @@
-function GridCell({ cell, onClick }) {
+function GridCell({ cell, onClick, emptyLabel }) {
   const stateClassName = cell.result
     ? cell.result === 'correct'
       ? 'grid-cell correct'
       : 'grid-cell incorrect'
     : 'grid-cell';
+  const answerClassName = cell.playerName ? 'cell-answer' : 'cell-answer empty';
 
   return (
     <button className={stateClassName} onClick={onClick} disabled={cell.locked}>
-      <span className="cell-answer">
-        {cell.playerName || 'Select player'}
+      <span className={answerClassName}>
+        {cell.playerName || emptyLabel}
       </span>
       <span className="cell-status">
         {cell.result === 'correct' && 'Correct'}
         {cell.result === 'incorrect' && 'Try again'}
-        {!cell.result && 'Open'}
       </span>
     </button>
   );
@@ -21,20 +21,26 @@ function GridCell({ cell, onClick }) {
 
 function AxisCard({ category, className, onClick }) {
   return (
-    <button className={`axis-card ${className}`} onClick={() => onClick(category)}>
+    <button
+      className={`axis-card ${className} axis-card-${category.type}`}
+      onClick={() => onClick(category)}
+    >
       {category.label}
     </button>
   );
 }
 
-export default function GridBoard({ grid, cells, onCellClick, onCategoryClick }) {
+export default function GridBoard({
+  grid,
+  cells,
+  onCellClick,
+  onCategoryClick,
+  emptyLabel,
+}) {
   return (
     <section className="board-shell">
       <div className="board-grid">
-        <div className="corner-card">
-          <span>NPB</span>
-          <strong>{grid.name}</strong>
-        </div>
+        <div className="corner-spacer" aria-hidden="true" />
 
         {grid.columns.map((column) => (
           <AxisCard
@@ -62,6 +68,7 @@ export default function GridBoard({ grid, cells, onCellClick, onCategoryClick })
                   key={`${row.label}-${column.label}`}
                   cell={cell}
                   onClick={() => onCellClick(rowIndex, columnIndex)}
+                  emptyLabel={emptyLabel}
                 />
               );
             })}
