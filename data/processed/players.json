@@ -1,0 +1,1196 @@
+{
+  "sadaharu-oh": {
+    "id": "sadaharu-oh",
+    "name": "Sadaharu Oh",
+    "nameJapanese": "王 貞治",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yomiuri Giants"
+    ],
+    "positions": [
+      "First Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": true,
+    "meikyukai": true,
+    "switchHitter": false
+  },
+  "shigeo-nagashima": {
+    "id": "shigeo-nagashima",
+    "name": "Shigeo Nagashima",
+    "nameJapanese": "長嶋 茂雄",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yomiuri Giants"
+    ],
+    "positions": [
+      "Third Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": true,
+    "meikyukai": true,
+    "switchHitter": false
+  },
+  "hayato-sakamoto": {
+    "id": "hayato-sakamoto",
+    "name": "Hayato Sakamoto",
+    "nameJapanese": "坂本 勇人",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yomiuri Giants"
+    ],
+    "positions": [
+      "Shortstop"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "kazuma-okamoto": {
+    "id": "kazuma-okamoto",
+    "name": "Kazuma Okamoto",
+    "nameJapanese": "岡本 和真",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yomiuri Giants"
+    ],
+    "positions": [
+      "Third Baseman",
+      "First Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "koji-uehara": {
+    "id": "koji-uehara",
+    "name": "Koji Uehara",
+    "nameJapanese": "上原 浩治",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yomiuri Giants"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": true,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "tomoyuki-sugano": {
+    "id": "tomoyuki-sugano",
+    "name": "Tomoyuki Sugano",
+    "nameJapanese": "菅野 智之",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yomiuri Giants"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "alex-ramirez": {
+    "id": "alex-ramirez",
+    "name": "Alex Ramirez",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Foreign-born",
+    "teams": [
+      "Yakult Swallows"
+    ],
+    "positions": [
+      "Left Fielder"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "nobuhiro-matsuda": {
+    "id": "nobuhiro-matsuda",
+    "name": "Nobuhiro Matsuda",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "SoftBank Hawks"
+    ],
+    "positions": [
+      "Third Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "randy-bass": {
+    "id": "randy-bass",
+    "name": "Randy Bass",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Foreign-born",
+    "teams": [
+      "Hanshin Tigers"
+    ],
+    "positions": [
+      "First Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "yutaka-enatsu": {
+    "id": "yutaka-enatsu",
+    "name": "Yutaka Enatsu",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Hanshin Tigers"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": true,
+    "meikyukai": true,
+    "switchHitter": false
+  },
+  "koji-chikamoto": {
+    "id": "koji-chikamoto",
+    "name": "Koji Chikamoto",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Hanshin Tigers"
+    ],
+    "positions": [
+      "Center Fielder"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "toru-murayama": {
+    "id": "toru-murayama",
+    "name": "Toru Murayama",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Hanshin Tigers"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "akinobu-okada": {
+    "id": "akinobu-okada",
+    "name": "Akinobu Okada",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Hanshin Tigers"
+    ],
+    "positions": [
+      "Second Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "tetsuya-yoneda": {
+    "id": "tetsuya-yoneda",
+    "name": "Tetsuya Yoneda",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Hanshin Tigers"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "masayuki-kakefu": {
+    "id": "masayuki-kakefu",
+    "name": "Masayuki Kakefu",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Hanshin Tigers"
+    ],
+    "positions": [
+      "Third Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "munetaka-murakami": {
+    "id": "munetaka-murakami",
+    "name": "Munetaka Murakami",
+    "nameJapanese": "村上 宗隆",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yakult Swallows"
+    ],
+    "positions": [
+      "Third Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "tetsuto-yamada": {
+    "id": "tetsuto-yamada",
+    "name": "Tetsuto Yamada",
+    "nameJapanese": "山田 哲人",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yakult Swallows"
+    ],
+    "positions": [
+      "Second Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "wladimir-balentien": {
+    "id": "wladimir-balentien",
+    "name": "Wladimir Balentien",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Foreign-born",
+    "teams": [
+      "Yakult Swallows"
+    ],
+    "positions": [
+      "Right Fielder",
+      "Designated Hitter"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "yoshinobu-okugawa": {
+    "id": "yoshinobu-okugawa",
+    "name": "Yoshinobu Okugawa",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yakult Swallows"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "tetsuya-iida": {
+    "id": "tetsuya-iida",
+    "name": "Tetsuya Iida",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yakult Swallows"
+    ],
+    "positions": [
+      "Center Fielder"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "shingo-takatsu": {
+    "id": "shingo-takatsu",
+    "name": "Shingo Takatsu",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yakult Swallows"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "atsuya-furuta": {
+    "id": "atsuya-furuta",
+    "name": "Atsuya Furuta",
+    "nameJapanese": "古田 敦也",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yakult Swallows"
+    ],
+    "positions": [
+      "Catcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": true,
+    "meikyukai": true,
+    "switchHitter": false
+  },
+  "tsuyoshi-wada": {
+    "id": "tsuyoshi-wada",
+    "name": "Tsuyoshi Wada",
+    "nameJapanese": "和田 毅",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "SoftBank Hawks"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": true,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "kodai-senga": {
+    "id": "kodai-senga",
+    "name": "Kodai Senga",
+    "nameJapanese": "千賀 滉大",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "SoftBank Hawks"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": true,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "yuki-yanagita": {
+    "id": "yuki-yanagita",
+    "name": "Yuki Yanagita",
+    "nameJapanese": "柳田 悠岐",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "SoftBank Hawks"
+    ],
+    "positions": [
+      "Center Fielder",
+      "Left Fielder",
+      "Right Fielder",
+      "Designated Hitter"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "tadahito-iguchi": {
+    "id": "tadahito-iguchi",
+    "name": "Tadahito Iguchi",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "SoftBank Hawks",
+      "Chiba Lotte Marines"
+    ],
+    "positions": [
+      "Second Baseman"
+    ],
+    "playedInMLB": true,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "kazuhiro-kiyohara": {
+    "id": "kazuhiro-kiyohara",
+    "name": "Kazuhiro Kiyohara",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Seibu Lions"
+    ],
+    "positions": [
+      "First Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "katsuya-nomura": {
+    "id": "katsuya-nomura",
+    "name": "Katsuya Nomura",
+    "nameJapanese": "野村 克也",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "SoftBank Hawks"
+    ],
+    "positions": [
+      "Catcher",
+      "Designated Hitter"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": true,
+    "meikyukai": true,
+    "switchHitter": false
+  },
+  "hiroki-kokubo": {
+    "id": "hiroki-kokubo",
+    "name": "Hiroki Kokubo",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "SoftBank Hawks"
+    ],
+    "positions": [
+      "First Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "yoshinobu-yamamoto": {
+    "id": "yoshinobu-yamamoto",
+    "name": "Yoshinobu Yamamoto",
+    "nameJapanese": "山本 由伸",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Orix Buffaloes"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "masataka-yoshida": {
+    "id": "masataka-yoshida",
+    "name": "Masataka Yoshida",
+    "nameJapanese": "吉田 正尚",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Orix Buffaloes"
+    ],
+    "positions": [
+      "Left Fielder",
+      "Designated Hitter"
+    ],
+    "playedInMLB": true,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "yutaka-fukumoto": {
+    "id": "yutaka-fukumoto",
+    "name": "Yutaka Fukumoto",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Orix Buffaloes"
+    ],
+    "positions": [
+      "Center Fielder"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "ichiro-suzuki": {
+    "id": "ichiro-suzuki",
+    "name": "Ichiro Suzuki",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Orix Buffaloes"
+    ],
+    "positions": [
+      "Center Fielder",
+      "Right Fielder"
+    ],
+    "playedInMLB": true,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "hisashi-yamada": {
+    "id": "hisashi-yamada",
+    "name": "Hisashi Yamada",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Orix Buffaloes"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "tuffy-rhodes": {
+    "id": "tuffy-rhodes",
+    "name": "Tuffy Rhodes",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Orix Buffaloes"
+    ],
+    "positions": [
+      "Left Fielder",
+      "Right Fielder",
+      "Center Fielder",
+      "Designated Hitter"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "takuya-asao": {
+    "id": "takuya-asao",
+    "name": "Takuya Asao",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Chunichi Dragons"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "hiromitsu-ochiai": {
+    "id": "hiromitsu-ochiai",
+    "name": "Hiromitsu Ochiai",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Chiba Lotte Marines"
+    ],
+    "positions": [
+      "First Baseman",
+      "Third Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": true,
+    "meikyukai": true,
+    "switchHitter": false
+  },
+  "daisuke-yamai": {
+    "id": "daisuke-yamai",
+    "name": "Daisuke Yamai",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Chunichi Dragons"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "kosuke-fukudome": {
+    "id": "kosuke-fukudome",
+    "name": "Kosuke Fukudome",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Chunichi Dragons"
+    ],
+    "positions": [
+      "Right Fielder",
+      "Center Fielder"
+    ],
+    "playedInMLB": true,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "kenshin-kawakami": {
+    "id": "kenshin-kawakami",
+    "name": "Kenshin Kawakami",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Chunichi Dragons"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "shinichi-sato": {
+    "id": "shinichi-sato",
+    "name": "Shinichi Sato",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Chunichi Dragons"
+    ],
+    "positions": [
+      "Left Fielder"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "koji-yamamoto": {
+    "id": "koji-yamamoto",
+    "name": "Koji Yamamoto",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Hiroshima Toyo Carp"
+    ],
+    "positions": [
+      "Center Fielder"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": true,
+    "meikyukai": true,
+    "switchHitter": false
+  },
+  "seiya-suzuki": {
+    "id": "seiya-suzuki",
+    "name": "Seiya Suzuki",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Hiroshima Toyo Carp"
+    ],
+    "positions": [
+      "Right Fielder"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "kris-johnson": {
+    "id": "kris-johnson",
+    "name": "Kris Johnson",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Hiroshima Toyo Carp"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "takahiro-arai": {
+    "id": "takahiro-arai",
+    "name": "Takahiro Arai",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Hiroshima Toyo Carp"
+    ],
+    "positions": [
+      "First Baseman",
+      "Third Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "tomonori-maeda": {
+    "id": "tomonori-maeda",
+    "name": "Tomonori Maeda",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Hiroshima Toyo Carp"
+    ],
+    "positions": [
+      "Right Fielder",
+      "Left Fielder"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "roki-sasaki": {
+    "id": "roki-sasaki",
+    "name": "Roki Sasaki",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Chiba Lotte Marines"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "katsuya-kakunaka": {
+    "id": "katsuya-kakunaka",
+    "name": "Katsuya Kakunaka",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Chiba Lotte Marines"
+    ],
+    "positions": [
+      "Left Fielder"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "kazuya-fukuura": {
+    "id": "kazuya-fukuura",
+    "name": "Kazuya Fukuura",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Chiba Lotte Marines"
+    ],
+    "positions": [
+      "First Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "kazuhiro-wada": {
+    "id": "kazuhiro-wada",
+    "name": "Kazuhiro Wada",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Seibu Lions"
+    ],
+    "positions": [
+      "Left Fielder",
+      "Catcher",
+      "Designated Hitter"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "koji-akiyama": {
+    "id": "koji-akiyama",
+    "name": "Koji Akiyama",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Seibu Lions"
+    ],
+    "positions": [
+      "Center Fielder"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": true,
+    "meikyukai": true,
+    "switchHitter": false
+  },
+  "daisuke-matsuzaka": {
+    "id": "daisuke-matsuzaka",
+    "name": "Daisuke Matsuzaka",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Seibu Lions"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": true,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "takeya-nakamura": {
+    "id": "takeya-nakamura",
+    "name": "Takeya Nakamura",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Seibu Lions"
+    ],
+    "positions": [
+      "First Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "kazuhisa-inao": {
+    "id": "kazuhisa-inao",
+    "name": "Kazuhisa Inao",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Seibu Lions"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": true,
+    "meikyukai": true,
+    "switchHitter": false
+  },
+  "takuro-ishii": {
+    "id": "takuro-ishii",
+    "name": "Takuro Ishii",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yokohama DeNA BayStars"
+    ],
+    "positions": [
+      "Shortstop"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "takahiro-saeki": {
+    "id": "takahiro-saeki",
+    "name": "Takahiro Saeki",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yokohama DeNA BayStars"
+    ],
+    "positions": [
+      "Left Fielder",
+      "First Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "shun-yamaguchi": {
+    "id": "shun-yamaguchi",
+    "name": "Shun Yamaguchi",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yokohama DeNA BayStars"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "daisuke-miura": {
+    "id": "daisuke-miura",
+    "name": "Daisuke Miura",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yokohama DeNA BayStars"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "yoshitomo-tsutsugo": {
+    "id": "yoshitomo-tsutsugo",
+    "name": "Yoshitomo Tsutsugo",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yokohama DeNA BayStars"
+    ],
+    "positions": [
+      "Left Fielder",
+      "First Baseman"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "masahiro-tanaka": {
+    "id": "masahiro-tanaka",
+    "name": "Masahiro Tanaka",
+    "nameJapanese": "田中 将大",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Rakuten Eagles"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": true,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "kazuo-matsui": {
+    "id": "kazuo-matsui",
+    "name": "Kazuo Matsui",
+    "nameJapanese": "松井 稼頭央",
+    "bats": "S",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Rakuten Eagles"
+    ],
+    "positions": [
+      "Shortstop"
+    ],
+    "playedInMLB": true,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": true
+  },
+  "hideto-asamura": {
+    "id": "hideto-asamura",
+    "name": "Hideto Asamura",
+    "nameJapanese": "",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Rakuten Eagles"
+    ],
+    "positions": [
+      "Second Baseman",
+      "First Baseman",
+      "Designated Hitter"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "shohei-ohtani": {
+    "id": "shohei-ohtani",
+    "name": "Shohei Ohtani",
+    "nameJapanese": "大谷 翔平",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Nippon-Ham Fighters"
+    ],
+    "positions": [
+      "Pitcher",
+      "Designated Hitter"
+    ],
+    "playedInMLB": true,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "yu-darvish": {
+    "id": "yu-darvish",
+    "name": "Yu Darvish",
+    "nameJapanese": "ダルビッシュ 有",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Nippon-Ham Fighters"
+    ],
+    "positions": [
+      "Pitcher"
+    ],
+    "playedInMLB": true,
+    "hallOfFame": false,
+    "meikyukai": false,
+    "switchHitter": false
+  },
+  "atsunori-inaba": {
+    "id": "atsunori-inaba",
+    "name": "Atsunori Inaba",
+    "nameJapanese": "稲葉 篤紀",
+    "bats": "",
+    "throws": "",
+    "birthCountry": "Japan",
+    "teams": [
+      "Yakult Swallows"
+    ],
+    "positions": [
+      "Left Fielder",
+      "Right Fielder"
+    ],
+    "playedInMLB": false,
+    "hallOfFame": false,
+    "meikyukai": true,
+    "switchHitter": false
+  }
+}

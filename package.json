@@ -6,7 +6,13 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "data:bootstrap": "node scripts/bootstrapProcessedSample.js",
+    "data:sample-csv": "node scripts/exportSampleCsv.js",
+    "data:import": "node scripts/importStats.js",
+    "data:career": "node scripts/buildCareerStats.js",
+    "data:eligibility": "node scripts/buildEligibility.js",
+    "data:build": "npm run data:import && npm run data:career && npm run data:eligibility"
   },
   "dependencies": {
     "react": "^18.3.1",

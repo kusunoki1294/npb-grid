@@ -1,0 +1,38 @@
+export const teamAliases = {
+  'Yomiuri Giants': 'Yomiuri Giants',
+  Giants: 'Yomiuri Giants',
+  'Hanshin Tigers': 'Hanshin Tigers',
+  'Yakult Swallows': 'Yakult Swallows',
+  'Tokyo Yakult Swallows': 'Yakult Swallows',
+  'Sankoku Atoms': 'Yakult Swallows',
+  'Yakult Atoms': 'Yakult Swallows',
+  'Chunichi Dragons': 'Chunichi Dragons',
+  'Hiroshima Carp': 'Hiroshima Toyo Carp',
+  'Hiroshima Toyo Carp': 'Hiroshima Toyo Carp',
+  'Yokohama DeNA BayStars': 'Yokohama DeNA BayStars',
+  'Yokohama BayStars': 'Yokohama DeNA BayStars',
+  'Taiyo Whales': 'Yokohama DeNA BayStars',
+  'SoftBank Hawks': 'SoftBank Hawks',
+  'Fukuoka SoftBank Hawks': 'SoftBank Hawks',
+  'Fukuoka Daiei Hawks': 'SoftBank Hawks',
+  'Nankai Hawks': 'SoftBank Hawks',
+  'Orix Buffaloes': 'Orix Buffaloes',
+  'ORIX Buffaloes': 'Orix Buffaloes',
+  'Orix BlueWave': 'Orix Buffaloes',
+  'Orix Braves': 'Orix Buffaloes',
+  'Hankyu Braves': 'Orix Buffaloes',
+  'Kintetsu Buffaloes': 'Orix Buffaloes',
+  'Chiba Lotte Marines': 'Chiba Lotte Marines',
+  'Lotte Orions': 'Chiba Lotte Marines',
+  'Seibu Lions': 'Seibu Lions',
+  'Saitama Seibu Lions': 'Seibu Lions',
+  'Nishitetsu Lions': 'Seibu Lions',
+  'Rakuten Eagles': 'Rakuten Eagles',
+  'Tohoku Rakuten Golden Eagles': 'Rakuten Eagles',
+  'Nippon-Ham Fighters': 'Nippon-Ham Fighters',
+  'Hokkaido Nippon-Ham Fighters': 'Nippon-Ham Fighters',
+};
+
+export function normalizeTeamName(value) {
+  return teamAliases[value] ?? value;
+}

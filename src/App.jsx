@@ -1,12 +1,9 @@
 import { useState } from 'react';
 import GridBoard from './components/GridBoard';
-import { createRandomGrid } from './data/grids';
-import { players } from './data/players';
-import {
-  findPlayerByName,
-  isPlayerAlreadyUsed,
-  validatePlayerForCell,
-} from './game/validation';
+import { createRandomGridFromEligibility } from './data/categories';
+import { findPlayerByName, isPlayerAlreadyUsed, validateAnswer } from './lib/validateAnswer';
+import playersById from '../data/processed/players.json';
+import eligibility from '../data/processed/eligibility.json';
 
 const MAX_GUESSES = 9;
 
@@ -21,7 +18,7 @@ const copy = {
     reset: 'Reset',
     defaultMessage: 'Pick a square and enter an NPB player.',
     openMessage: 'Type or tap a player name, then submit your guess.',
-    missingPlayer: 'That player is not in the local sample dataset yet.',
+    missingPlayer: 'That player is not in the processed dataset yet.',
     duplicatePlayer: (name) => `${name} is already used in another square.`,
     correct: (name) => `${name} matches both categories.`,
     incorrect: (name) =>
@@ -62,7 +59,7 @@ const copy = {
     reset: 'リセット',
     defaultMessage: 'マスを選んで選手名を入力してください。',
     openMessage: '選手名を入力するか候補を選んで送信してください。',
-    missingPlayer: 'その選手はローカルのサンプルデータに入っていません。',
+    missingPlayer: 'その選手は加工済みデータに入っていません。',
     duplicatePlayer: (name) => `${name} は別の正解マスで使われています。`,
     correct: (name) => `${name} は両方の条件を満たしています。`,
     incorrect: (name) =>
@@ -75,7 +72,7 @@ const copy = {
       '各マスに、行と列の条件を両方満たす日本プロ野球の選手を入れてください。マスを選んでローカルのサンプルデータにある選手を入力すると、その選手が行と列の両方の条件を満たすか判定します。各ボードは、球団、受賞、ポジション、記録の共通カテゴリープールから生成されます。予想する前に、行または列のカテゴリーボックスをクリックすると条件や球団メモを確認できます。使える予想は合計 9 回です。',
     close: '閉じる',
     enterPlayer: '選手を入力',
-    submitGuess: '送信',
+    submitGuess: '選択',
     cancel: 'キャンセル',
     placeholder: '例: 村上 宗隆',
     selectPlayer: '選手を選択',
@@ -369,7 +366,9 @@ function SummaryScreen({ cells, score, locale }) {
 
 function GameScreen({ locale }) {
   const text = copy[locale];
-  const [activeGrid, setActiveGrid] = useState(() => createRandomGrid(players));
+  const [activeGrid, setActiveGrid] = useState(() =>
+    createRandomGridFromEligibility(eligibility),
+  );
   const [cells, setCells] = useState(createEmptyCells);
   const [selectedCell, setSelectedCell] = useState(null);
   const [selectedCategory, setSelectedCategory] = useState(null);
@@ -389,10 +388,15 @@ function GameScreen({ locale }) {
     rows: activeGrid.rows.map((category) => localizeCategory(category, locale)),
     columns: activeGrid.columns.map((category) => localizeCategory(category, locale)),
   };
+  const allPlayers = Object.values(playersById);
   const query = draftName.trim().toLowerCase();
   const suggestions = (query
-    ? players.filter((player) => player.name.toLowerCase().includes(query))
-    : players
+    ? allPlayers.filter((player) => {
+        const english = (player.name ?? '').toLowerCase();
+        const japanese = (player.nameJapanese ?? '').toLowerCase();
+        return english.includes(query) || japanese.includes(query);
+      })
+    : allPlayers
   ).slice(0, 8);
 
   function handleCellClick(rowIndex, columnIndex) {
@@ -428,7 +432,7 @@ function GameScreen({ locale }) {
       return;
     }
 
-    const player = findPlayerByName(players, draftName);
+    const player = findPlayerByName(playersById, draftName);
     const cellKey = getCellKey(selectedCell.rowIndex, selectedCell.columnIndex);
 
     if (!player) {
@@ -437,7 +441,7 @@ function GameScreen({ locale }) {
       return;
     }
 
-    if (isPlayerAlreadyUsed(cells, player.name, cellKey)) {
+    if (isPlayerAlreadyUsed(cells, player.id, cellKey)) {
       const duplicateMessage = text.duplicatePlayer(player.name);
       setEditorNotice(duplicateMessage);
       setMessage(duplicateMessage);
@@ -446,13 +450,19 @@ function GameScreen({ locale }) {
 
     const rowCategory = activeGrid.rows[selectedCell.rowIndex];
     const columnCategory = activeGrid.columns[selectedCell.columnIndex];
-    const isCorrect = validatePlayerForCell(player, rowCategory, columnCategory);
+    const isCorrect = validateAnswer(
+      player.id,
+      rowCategory.id,
+      columnCategory.id,
+      eligibility,
+    );
     const nextGuessCount = guessCount + 1;
     const nextScore = isCorrect ? score + 1 : score;
 
     setCells((currentCells) => ({
       ...currentCells,
       [cellKey]: {
+        playerId: player.id,
         playerName: player.name,
         result: isCorrect ? 'correct' : 'incorrect',
         locked: isCorrect,
@@ -487,7 +497,7 @@ function GameScreen({ locale }) {
   }
 
   function handleNewGrid() {
-    setActiveGrid(createRandomGrid(players));
+    setActiveGrid(createRandomGridFromEligibility(eligibility));
     setCells(createEmptyCells());
     setGuessCount(0);
     setSelectedCell(null);

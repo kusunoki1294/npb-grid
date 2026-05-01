@@ -1,0 +1,518 @@
+{
+  "sadaharu-oh": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 500,
+      "runsBattedIn": 100,
+      "runs": 100,
+      "avg": 0.32,
+      "obp": 0.4,
+      "slg": 0.5
+    },
+    "pitching": {}
+  },
+  "shigeo-nagashima": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 400,
+      "runsBattedIn": 100,
+      "runs": 100,
+      "avg": 0.32,
+      "obp": 0.4,
+      "slg": 0.5
+    },
+    "pitching": {}
+  },
+  "hayato-sakamoto": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 200,
+      "runsBattedIn": 500,
+      "runs": 100,
+      "stolenBases": 100,
+      "avg": 0.3
+    },
+    "pitching": {}
+  },
+  "kazuma-okamoto": {
+    "batting": {
+      "homeRuns": 200,
+      "runsBattedIn": 100,
+      "runs": 100
+    },
+    "pitching": {}
+  },
+  "alex-ramirez": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 300,
+      "runsBattedIn": 100,
+      "runs": 100,
+      "avg": 0.3
+    },
+    "pitching": {}
+  },
+  "nobuhiro-matsuda": {
+    "batting": {
+      "homeRuns": 30
+    },
+    "pitching": {}
+  },
+  "randy-bass": {
+    "batting": {
+      "homeRuns": 100,
+      "runsBattedIn": 100,
+      "avg": 0.32,
+      "obp": 0.4,
+      "slg": 0.5
+    },
+    "pitching": {}
+  },
+  "akinobu-okada": {
+    "batting": {
+      "homeRuns": 30
+    },
+    "pitching": {}
+  },
+  "masayuki-kakefu": {
+    "batting": {
+      "homeRuns": 30,
+      "runsBattedIn": 100
+    },
+    "pitching": {}
+  },
+  "munetaka-murakami": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 200,
+      "runsBattedIn": 100,
+      "runs": 100,
+      "avg": 0.32
+    },
+    "pitching": {}
+  },
+  "tetsuto-yamada": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 100,
+      "runsBattedIn": 100,
+      "runs": 100,
+      "stolenBases": 200,
+      "avg": 0.3
+    },
+    "pitching": {}
+  },
+  "wladimir-balentien": {
+    "batting": {
+      "homeRuns": 200,
+      "runsBattedIn": 100,
+      "runs": 100
+    },
+    "pitching": {}
+  },
+  "atsuya-furuta": {
+    "batting": {
+      "hits": 150,
+      "runsBattedIn": 500,
+      "avg": 0.3
+    },
+    "pitching": {}
+  },
+  "yuki-yanagita": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 200,
+      "runsBattedIn": 100,
+      "runs": 100,
+      "stolenBases": 100,
+      "avg": 0.32,
+      "obp": 0.4
+    },
+    "pitching": {}
+  },
+  "tadahito-iguchi": {
+    "batting": {
+      "hits": 300,
+      "homeRuns": 400,
+      "runsBattedIn": 1000,
+      "runs": 200,
+      "stolenBases": 200,
+      "avg": 0.3
+    },
+    "pitching": {}
+  },
+  "kazuhiro-kiyohara": {
+    "batting": {
+      "homeRuns": 30,
+      "runsBattedIn": 100
+    },
+    "pitching": {}
+  },
+  "katsuya-nomura": {
+    "batting": {
+      "homeRuns": 500,
+      "runsBattedIn": 100,
+      "runs": 100,
+      "avg": 0.3,
+      "obp": 0.4,
+      "slg": 0.5
+    },
+    "pitching": {}
+  },
+  "hiroki-kokubo": {
+    "batting": {
+      "homeRuns": 30,
+      "runsBattedIn": 100
+    },
+    "pitching": {}
+  },
+  "masataka-yoshida": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 100,
+      "runsBattedIn": 80,
+      "runs": 100,
+      "avg": 0.32,
+      "obp": 0.4
+    },
+    "pitching": {}
+  },
+  "ichiro-suzuki": {
+    "batting": {
+      "hits": 200,
+      "runs": 500,
+      "stolenBases": 200,
+      "avg": 0.32,
+      "obp": 0.4
+    },
+    "pitching": {}
+  },
+  "tuffy-rhodes": {
+    "batting": {
+      "homeRuns": 30,
+      "runsBattedIn": 100
+    },
+    "pitching": {}
+  },
+  "hiromitsu-ochiai": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 400,
+      "runsBattedIn": 100,
+      "runs": 100,
+      "avg": 0.32,
+      "obp": 0.4,
+      "slg": 0.5
+    },
+    "pitching": {}
+  },
+  "kosuke-fukudome": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 100,
+      "runsBattedIn": 500,
+      "runs": 100,
+      "stolenBases": 100,
+      "avg": 0.3
+    },
+    "pitching": {}
+  },
+  "shinichi-sato": {
+    "batting": {
+      "homeRuns": 30,
+      "runsBattedIn": 100
+    },
+    "pitching": {}
+  },
+  "koji-yamamoto": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 300,
+      "runsBattedIn": 100,
+      "runs": 100,
+      "avg": 0.3,
+      "obp": 0.4,
+      "slg": 0.5
+    },
+    "pitching": {}
+  },
+  "seiya-suzuki": {
+    "batting": {
+      "homeRuns": 30,
+      "runsBattedIn": 100
+    },
+    "pitching": {}
+  },
+  "takahiro-arai": {
+    "batting": {
+      "homeRuns": 30,
+      "runsBattedIn": 100
+    },
+    "pitching": {}
+  },
+  "tomonori-maeda": {
+    "batting": {
+      "homeRuns": 30
+    },
+    "pitching": {}
+  },
+  "kazuhiro-wada": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 300,
+      "runsBattedIn": 100,
+      "runs": 100,
+      "avg": 0.3
+    },
+    "pitching": {}
+  },
+  "koji-akiyama": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 400,
+      "runsBattedIn": 100,
+      "runs": 100,
+      "stolenBases": 200,
+      "avg": 0.3
+    },
+    "pitching": {}
+  },
+  "takeya-nakamura": {
+    "batting": {
+      "homeRuns": 30,
+      "runsBattedIn": 100
+    },
+    "pitching": {}
+  },
+  "takahiro-saeki": {
+    "batting": {
+      "homeRuns": 30
+    },
+    "pitching": {}
+  },
+  "yoshitomo-tsutsugo": {
+    "batting": {
+      "homeRuns": 30,
+      "runsBattedIn": 100
+    },
+    "pitching": {}
+  },
+  "kazuo-matsui": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 100,
+      "runs": 100,
+      "stolenBases": 300,
+      "avg": 0.3
+    },
+    "pitching": {}
+  },
+  "hideto-asamura": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 200,
+      "runsBattedIn": 100,
+      "runs": 100,
+      "avg": 0.3
+    },
+    "pitching": {}
+  },
+  "shohei-ohtani": {
+    "batting": {
+      "homeRuns": 100,
+      "runsBattedIn": 100,
+      "stolenBases": 20,
+      "avg": 0.3
+    },
+    "pitching": {
+      "wins": 15,
+      "strikeouts": 150,
+      "gamesPitched": 1,
+      "era": 2.5
+    }
+  },
+  "atsunori-inaba": {
+    "batting": {
+      "hits": 150,
+      "homeRuns": 100,
+      "runsBattedIn": 100,
+      "runs": 100,
+      "avg": 0.3
+    },
+    "pitching": {}
+  },
+  "koji-uehara": {
+    "batting": {},
+    "pitching": {
+      "wins": 20,
+      "strikeouts": 150,
+      "inningsPitched": 200,
+      "gamesPitched": 1,
+      "era": 2.5
+    }
+  },
+  "tomoyuki-sugano": {
+    "batting": {},
+    "pitching": {
+      "wins": 15,
+      "strikeouts": 150,
+      "inningsPitched": 200,
+      "gamesPitched": 1,
+      "era": 2
+    }
+  },
+  "yutaka-enatsu": {
+    "batting": {},
+    "pitching": {
+      "wins": 20,
+      "strikeouts": 200,
+      "inningsPitched": 200,
+      "completeGames": 100,
+      "shutouts": 20,
+      "gamesPitched": 1,
+      "era": 2.5
+    }
+  },
+  "toru-murayama": {
+    "batting": {},
+    "pitching": {
+      "wins": 15,
+      "gamesPitched": 1
+    }
+  },
+  "tetsuya-yoneda": {
+    "batting": {},
+    "pitching": {
+      "wins": 15,
+      "strikeouts": 200,
+      "gamesPitched": 1
+    }
+  },
+  "tsuyoshi-wada": {
+    "batting": {},
+    "pitching": {
+      "wins": 20,
+      "strikeouts": 150,
+      "inningsPitched": 200,
+      "gamesPitched": 1,
+      "era": 2.5
+    }
+  },
+  "kodai-senga": {
+    "batting": {},
+    "pitching": {
+      "wins": 15,
+      "strikeouts": 200,
+      "gamesPitched": 1
+    }
+  },
+  "yoshinobu-yamamoto": {
+    "batting": {},
+    "pitching": {
+      "wins": 20,
+      "strikeouts": 200,
+      "inningsPitched": 200,
+      "gamesPitched": 1,
+      "era": 2
+    }
+  },
+  "hisashi-yamada": {
+    "batting": {},
+    "pitching": {
+      "wins": 15,
+      "gamesPitched": 1
+    }
+  },
+  "takuya-asao": {
+    "batting": {},
+    "pitching": {
+      "holds": 40,
+      "gamesPitched": 1
+    }
+  },
+  "daisuke-yamai": {
+    "batting": {},
+    "pitching": {
+      "wins": 15,
+      "gamesPitched": 1
+    }
+  },
+  "kenshin-kawakami": {
+    "batting": {},
+    "pitching": {
+      "wins": 15,
+      "gamesPitched": 1
+    }
+  },
+  "kris-johnson": {
+    "batting": {},
+    "pitching": {
+      "wins": 15,
+      "gamesPitched": 1
+    }
+  },
+  "roki-sasaki": {
+    "batting": {},
+    "pitching": {
+      "strikeouts": 200,
+      "gamesPitched": 1,
+      "era": 2.5
+    }
+  },
+  "daisuke-matsuzaka": {
+    "batting": {},
+    "pitching": {
+      "wins": 20,
+      "strikeouts": 200,
+      "inningsPitched": 200,
+      "gamesPitched": 1,
+      "era": 2.5
+    }
+  },
+  "kazuhisa-inao": {
+    "batting": {},
+    "pitching": {
+      "wins": 20,
+      "strikeouts": 200,
+      "inningsPitched": 200,
+      "completeGames": 100,
+      "shutouts": 20,
+      "gamesPitched": 1,
+      "era": 2
+    }
+  },
+  "shun-yamaguchi": {
+    "batting": {},
+    "pitching": {
+      "wins": 15,
+      "gamesPitched": 1
+    }
+  },
+  "daisuke-miura": {
+    "batting": {},
+    "pitching": {
+      "wins": 15,
+      "gamesPitched": 1
+    }
+  },
+  "masahiro-tanaka": {
+    "batting": {},
+    "pitching": {
+      "wins": 20,
+      "strikeouts": 200,
+      "inningsPitched": 200,
+      "gamesPitched": 1,
+      "era": 2
+    }
+  },
+  "yu-darvish": {
+    "batting": {},
+    "pitching": {
+      "wins": 15,
+      "strikeouts": 200,
+      "inningsPitched": 200,
+      "gamesPitched": 1,
+      "era": 2
+    }
+  }
+}
