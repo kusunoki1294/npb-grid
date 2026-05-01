@@ -1,5 +1,6 @@
 import path from 'node:path';
 import { players as legacyPlayers } from '../src/data/players.js';
+import { sampleJapaneseNames } from './_sampleJapaneseNames.js';
 import {
   createStablePlayerId,
   normalizePosition,
@@ -10,29 +11,6 @@ import {
 
 // Temporary bootstrap so the app can run on processed JSON before you add real
 // CSV exports under data/raw. Once real CSVs exist, use the import/build steps.
-
-const japaneseNameByEnglish = {
-  'Sadaharu Oh': '王 貞治',
-  'Shigeo Nagashima': '長嶋 茂雄',
-  'Hayato Sakamoto': '坂本 勇人',
-  'Kazuma Okamoto': '岡本 和真',
-  'Koji Uehara': '上原 浩治',
-  'Tomoyuki Sugano': '菅野 智之',
-  'Munetaka Murakami': '村上 宗隆',
-  'Tetsuto Yamada': '山田 哲人',
-  'Atsuya Furuta': '古田 敦也',
-  'Tsuyoshi Wada': '和田 毅',
-  'Kodai Senga': '千賀 滉大',
-  'Yuki Yanagita': '柳田 悠岐',
-  'Katsuya Nomura': '野村 克也',
-  'Yoshinobu Yamamoto': '山本 由伸',
-  'Masataka Yoshida': '吉田 正尚',
-  'Masahiro Tanaka': '田中 将大',
-  'Kazuo Matsui': '松井 稼頭央',
-  'Shohei Ohtani': '大谷 翔平',
-  'Yu Darvish': 'ダルビッシュ 有',
-  'Atsunori Inaba': '稲葉 篤紀',
-};
 
 function unique(values) {
   return [...new Set(values.filter(Boolean))];
@@ -259,7 +237,7 @@ async function main() {
     players[id] = {
       id,
       name: legacyPlayer.name,
-      nameJapanese: legacyPlayer.nameJapanese ?? japaneseNameByEnglish[legacyPlayer.name] ?? '',
+      nameJapanese: legacyPlayer.nameJapanese ?? sampleJapaneseNames[legacyPlayer.name] ?? '',
       teams,
       positions,
       bats: specialCategories.includes('Switch Hitter') ? 'S' : '',

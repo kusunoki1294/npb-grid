@@ -351,6 +351,29 @@
   "award:holds-leader": [
     "takuya-asao"
   ],
+  "award:japan-baseball-hall-of-fame": [
+    "atsuya-furuta",
+    "hiromitsu-ochiai",
+    "katsuya-nomura",
+    "kazuhisa-inao",
+    "koji-akiyama",
+    "koji-yamamoto",
+    "sadaharu-oh",
+    "shigeo-nagashima",
+    "yutaka-enatsu"
+  ],
+  "award:meikyukai-member": [
+    "atsunori-inaba",
+    "atsuya-furuta",
+    "hiromitsu-ochiai",
+    "katsuya-nomura",
+    "kazuhisa-inao",
+    "koji-akiyama",
+    "koji-yamamoto",
+    "sadaharu-oh",
+    "shigeo-nagashima",
+    "yutaka-enatsu"
+  ],
   "position:pitcher": [
     "daisuke-matsuzaka",
     "daisuke-miura",
@@ -1270,28 +1293,5 @@
   ],
   "specialCategory:perfect-game": [
     "roki-sasaki"
-  ],
-  "specialCategory:japan-baseball-hall-of-fame": [
-    "atsuya-furuta",
-    "hiromitsu-ochiai",
-    "katsuya-nomura",
-    "kazuhisa-inao",
-    "koji-akiyama",
-    "koji-yamamoto",
-    "sadaharu-oh",
-    "shigeo-nagashima",
-    "yutaka-enatsu"
-  ],
-  "specialCategory:meikyukai-member": [
-    "atsunori-inaba",
-    "atsuya-furuta",
-    "hiromitsu-ochiai",
-    "katsuya-nomura",
-    "kazuhisa-inao",
-    "koji-akiyama",
-    "koji-yamamoto",
-    "sadaharu-oh",
-    "shigeo-nagashima",
-    "yutaka-enatsu"
   ]
 }

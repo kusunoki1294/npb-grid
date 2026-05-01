@@ -1,9 +1,13 @@
 import { useState } from 'react';
 import GridBoard from './components/GridBoard';
-import { createRandomGridFromEligibility } from './data/categories';
+import {
+  buildGridFromCategoryIds,
+  createRandomGridFromEligibility,
+} from './data/categories';
 import { findPlayerByName, isPlayerAlreadyUsed, validateAnswer } from './lib/validateAnswer';
 import playersById from '../data/processed/players.json';
 import eligibility from '../data/processed/eligibility.json';
+import todayBoard from '../data/processed/todayBoard.json';
 
 const MAX_GUESSES = 9;
 
@@ -96,15 +100,32 @@ const jaCategoryLabels = {
   'Yomiuri Giants': '読売ジャイアンツ',
   'Hanshin Tigers': '阪神タイガース',
   'Yakult Swallows': '東京ヤクルトスワローズ',
+  'Sankoku Atoms': 'サンケイアトムズ',
+  'Yakult Atoms': 'ヤクルトアトムズ',
   'Chunichi Dragons': '中日ドラゴンズ',
+  'Hiroshima Carp': '広島カープ',
   'Hiroshima Toyo Carp': '広島東洋カープ',
   'Yokohama DeNA BayStars': '横浜DeNAベイスターズ',
+  'Yokohama BayStars': '横浜ベイスターズ',
+  'Taiyo Whales': '大洋ホエールズ',
   'SoftBank Hawks': '福岡ソフトバンクホークス',
+  'Fukuoka SoftBank Hawks': '福岡ソフトバンクホークス',
+  'Fukuoka Daiei Hawks': '福岡ダイエーホークス',
+  'Nankai Hawks': '南海ホークス',
   'Orix Buffaloes': 'オリックス・バファローズ',
+  'Orix BlueWave': 'オリックス・ブルーウェーブ',
+  'Orix Braves': 'オリックス・ブレーブス',
+  'Hankyu Braves': '阪急ブレーブス',
+  'Kintetsu Buffaloes': '近鉄バファローズ',
   'Chiba Lotte Marines': '千葉ロッテマリーンズ',
+  'Lotte Orions': 'ロッテオリオンズ',
   'Seibu Lions': '埼玉西武ライオンズ',
+  'Saitama Seibu Lions': '埼玉西武ライオンズ',
+  'Nishitetsu Lions': '西鉄ライオンズ',
   'Rakuten Eagles': '東北楽天ゴールデンイーグルス',
+  'Tohoku Rakuten Golden Eagles': '東北楽天ゴールデンイーグルス',
   'Nippon-Ham Fighters': '北海道日本ハムファイターズ',
+  'Hokkaido Nippon-Ham Fighters': '北海道日本ハムファイターズ',
   'MVP Winner': 'MVP受賞',
   'Sawamura Award Winner': '沢村賞受賞',
   'Rookie of the Year': '新人王',
@@ -276,6 +297,19 @@ function getCellKey(rowIndex, columnIndex) {
   return `${rowIndex}-${columnIndex}`;
 }
 
+function getPlayerDisplayName(player, locale) {
+  if (locale === 'ja') {
+    return player.nameJapanese || player.name;
+  }
+
+  return player.name;
+}
+
+function getSnapshotGrid() {
+  const grid = buildGridFromCategoryIds(todayBoard.rowIds ?? [], todayBoard.columnIds ?? []);
+  return grid ?? createRandomGridFromEligibility(eligibility);
+}
+
 function localizeCategory(category, locale) {
   if (locale !== 'ja') {
     return category;
@@ -287,7 +321,9 @@ function localizeCategory(category, locale) {
     details: {
       ...category.details,
       ...(jaCategoryDetails[category.type] ?? {}),
-      history: category.details.history,
+      history: category.details.history?.map(
+        (entry) => jaCategoryLabels[entry] ?? entry,
+      ),
     },
   };
 }
@@ -367,7 +403,7 @@ function SummaryScreen({ cells, score, locale }) {
 function GameScreen({ locale }) {
   const text = copy[locale];
   const [activeGrid, setActiveGrid] = useState(() =>
-    createRandomGridFromEligibility(eligibility),
+    getSnapshotGrid(),
   );
   const [cells, setCells] = useState(createEmptyCells);
   const [selectedCell, setSelectedCell] = useState(null);
@@ -442,7 +478,7 @@ function GameScreen({ locale }) {
     }
 
     if (isPlayerAlreadyUsed(cells, player.id, cellKey)) {
-      const duplicateMessage = text.duplicatePlayer(player.name);
+      const duplicateMessage = text.duplicatePlayer(getPlayerDisplayName(player, locale));
       setEditorNotice(duplicateMessage);
       setMessage(duplicateMessage);
       return;
@@ -463,7 +499,7 @@ function GameScreen({ locale }) {
       ...currentCells,
       [cellKey]: {
         playerId: player.id,
-        playerName: player.name,
+        playerName: getPlayerDisplayName(player, locale),
         result: isCorrect ? 'correct' : 'incorrect',
         locked: isCorrect,
       },
@@ -473,8 +509,8 @@ function GameScreen({ locale }) {
       nextGuessCount >= MAX_GUESSES
         ? text.gameOver(nextScore)
         : isCorrect
-          ? text.correct(player.name)
-          : text.incorrect(player.name),
+          ? text.correct(getPlayerDisplayName(player, locale))
+          : text.incorrect(getPlayerDisplayName(player, locale)),
     );
 
     if (nextGuessCount >= MAX_GUESSES) {
@@ -486,6 +522,7 @@ function GameScreen({ locale }) {
   }
 
   function handleReset() {
+    setActiveGrid(getSnapshotGrid());
     setCells(createEmptyCells());
     setGuessCount(0);
     setSelectedCell(null);
@@ -611,11 +648,11 @@ function GameScreen({ locale }) {
                   key={player.name}
                   className="suggestion-chip"
                   onClick={() => {
-                    setDraftName(player.name);
+                    setDraftName(getPlayerDisplayName(player, locale));
                     setEditorNotice('');
                   }}
                 >
-                  {player.name}
+                  {getPlayerDisplayName(player, locale)}
                 </button>
               ))}
             </div>

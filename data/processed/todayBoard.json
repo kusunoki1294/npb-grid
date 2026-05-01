@@ -1,0 +1,31 @@
+{
+  "date": "2026-05-01",
+  "source": "sqlite",
+  "rowIds": [
+    "award:wins-leader",
+    "battingSeasonMilestone:320-avg-season",
+    "award:stolen-base-leader"
+  ],
+  "columnIds": [
+    "award:japan-series-champion",
+    "award:japan-baseball-hall-of-fame",
+    "specialCategory:played-in-mlb"
+  ],
+  "cellCounts": [
+    [
+      6,
+      2,
+      4
+    ],
+    [
+      6,
+      3,
+      2
+    ],
+    [
+      3,
+      1,
+      3
+    ]
+  ]
+}

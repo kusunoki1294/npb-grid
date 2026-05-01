@@ -20,6 +20,12 @@ If you later add real CSV files under `data/raw/`, rebuild processed data with:
 npm run data:build
 ```
 
+For the first real import pass, start with:
+
+- [data/raw/FIRST_IMPORT_GUIDE.md](/Users/shugo/Desktop/npb/data/raw/FIRST_IMPORT_GUIDE.md)
+- [data/raw/registry/registry-template.csv](/Users/shugo/Desktop/npb/data/raw/registry/registry-template.csv)
+- [data/raw/batting/batting-template.csv](/Users/shugo/Desktop/npb/data/raw/batting/batting-template.csv)
+
 ## Data pipeline
 
 - `data/raw/`: manually downloaded batting, pitching, fielding, awards, and registry CSV files

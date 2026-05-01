@@ -285,10 +285,7 @@ h1 {
   color: #8bd0ff;
 }
 
-.row-card.axis-card-team {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.axis-card-team {
   background: linear-gradient(180deg, rgba(86, 137, 201, 0.96), rgba(49, 95, 158, 0.96));
 }
 
@@ -297,8 +294,10 @@ h1 {
   color: #fff6d6;
 }
 
-.axis-card-battingMilestone,
-.axis-card-pitchingMilestone {
+.axis-card-battingSeasonMilestone,
+.axis-card-battingCareerMilestone,
+.axis-card-pitchingSeasonMilestone,
+.axis-card-pitchingCareerMilestone {
   background: linear-gradient(180deg, rgba(45, 156, 164, 0.96), rgba(24, 108, 115, 0.96));
 }
 

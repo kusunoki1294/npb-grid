@@ -12,7 +12,11 @@
     "data:import": "node scripts/importStats.js",
     "data:career": "node scripts/buildCareerStats.js",
     "data:eligibility": "node scripts/buildEligibility.js",
-    "data:build": "npm run data:import && npm run data:career && npm run data:eligibility"
+    "data:build": "npm run data:import && npm run data:career && npm run data:eligibility",
+    "data:sqlite": "node scripts/buildSqlite.js",
+    "data:today-board": "node scripts/buildTodayBoard.js",
+    "db:query": "node scripts/querySqlite.js",
+    "db:grid": "node scripts/generateGridSqlite.js"
   },
   "dependencies": {
     "react": "^18.3.1",

@@ -112,6 +112,8 @@ export const categories = [
     'Strikeout Leader',
     'Saves Leader',
     'Holds Leader',
+    'Japan Baseball Hall of Fame',
+    'Meikyukai Member',
   ].map(award),
   ...[
     'Pitcher',
@@ -216,14 +218,27 @@ export const categories = [
     'Switch Hitter',
     'No-Hitter',
     'Perfect Game',
-    'Japan Baseball Hall of Fame',
-    'Meikyukai Member',
   ].map(specialCategory),
 ];
 
 export const categoriesById = Object.fromEntries(
   categories.map((category) => [category.id, category]),
 );
+
+export function buildGridFromCategoryIds(rowIds, columnIds) {
+  const rows = rowIds
+    .map((id) => categoriesById[id])
+    .filter(Boolean);
+  const columns = columnIds
+    .map((id) => categoriesById[id])
+    .filter(Boolean);
+
+  if (rows.length !== 3 || columns.length !== 3) {
+    return null;
+  }
+
+  return { rows, columns };
+}
 
 function shuffle(items) {
   const nextItems = [...items];

@@ -1,30 +1,8 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { players as legacyPlayers } from '../src/data/players.js';
+import { sampleJapaneseNames } from './_sampleJapaneseNames.js';
 import { ensureBaseDataDirs, rawRoot } from './_shared.js';
-
-const japaneseNameByEnglish = {
-  'Sadaharu Oh': '王 貞治',
-  'Shigeo Nagashima': '長嶋 茂雄',
-  'Hayato Sakamoto': '坂本 勇人',
-  'Kazuma Okamoto': '岡本 和真',
-  'Koji Uehara': '上原 浩治',
-  'Tomoyuki Sugano': '菅野 智之',
-  'Munetaka Murakami': '村上 宗隆',
-  'Tetsuto Yamada': '山田 哲人',
-  'Atsuya Furuta': '古田 敦也',
-  'Tsuyoshi Wada': '和田 毅',
-  'Kodai Senga': '千賀 滉大',
-  'Yuki Yanagita': '柳田 悠岐',
-  'Katsuya Nomura': '野村 克也',
-  'Yoshinobu Yamamoto': '山本 由伸',
-  'Masataka Yoshida': '吉田 正尚',
-  'Masahiro Tanaka': '田中 将大',
-  'Kazuo Matsui': '松井 稼頭央',
-  'Shohei Ohtani': '大谷 翔平',
-  'Yu Darvish': 'ダルビッシュ 有',
-  'Atsunori Inaba': '稲葉 篤紀',
-};
 
 function escapeCsv(value) {
   const text = value == null ? '' : String(value);
@@ -44,7 +22,7 @@ function createRegistryRow(player) {
 
   return {
     name: player.name,
-    name_japanese: player.nameJapanese ?? japaneseNameByEnglish[player.name] ?? '',
+    name_japanese: player.nameJapanese ?? sampleJapaneseNames[player.name] ?? '',
     bats: specialCategories.includes('Switch Hitter') ? 'S' : '',
     throws: '',
     birth_country: specialCategories.includes('Foreign-Born Player') ? 'Foreign-born' : 'Japan',
@@ -89,7 +67,7 @@ function buildBattingRow(player) {
 
   return {
     name: player.name,
-    name_japanese: player.nameJapanese ?? japaneseNameByEnglish[player.name] ?? '',
+    name_japanese: player.nameJapanese ?? sampleJapaneseNames[player.name] ?? '',
     team: player.teams?.[0] ?? '',
     year: 2024,
     games: '',
@@ -127,7 +105,7 @@ function buildPitchingRow(player) {
 
   return {
     name: player.name,
-    name_japanese: player.nameJapanese ?? japaneseNameByEnglish[player.name] ?? '',
+    name_japanese: player.nameJapanese ?? sampleJapaneseNames[player.name] ?? '',
     team: player.teams?.[0] ?? '',
     year: 2024,
     w: maxMetric([...seasonLabels, ...careerLabels], 'Win Season') || maxMetric(careerLabels, 'Career Wins'),
@@ -155,7 +133,7 @@ function buildPitchingRow(player) {
 function buildFieldingRows(player) {
   return (player.positions ?? []).map((position) => ({
     name: player.name,
-    name_japanese: player.nameJapanese ?? japaneseNameByEnglish[player.name] ?? '',
+    name_japanese: player.nameJapanese ?? sampleJapaneseNames[player.name] ?? '',
     team: player.teams?.[0] ?? '',
     year: 2024,
     position,
@@ -171,7 +149,7 @@ function buildFieldingRows(player) {
 function buildAwardRows(player) {
   return (player.awards ?? []).map((award) => ({
     name: player.name,
-    name_japanese: player.nameJapanese ?? japaneseNameByEnglish[player.name] ?? '',
+    name_japanese: player.nameJapanese ?? sampleJapaneseNames[player.name] ?? '',
     team: player.teams?.[0] ?? '',
     year: 2024,
     award,
