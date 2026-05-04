@@ -78,12 +78,24 @@ const copy = {
     selectPlayer: 'Select player',
     summaryKicker: 'Game Complete',
     summaryHeading: 'Final Scorecard',
+    summaryClose: 'Close scorecard',
+    summaryReopen: 'View scorecard',
     summarySubheading: (score) =>
       score >= 7
         ? 'Strong finish'
         : score >= 4
           ? 'Solid middle innings'
           : 'Tough matchup today',
+    summaryLeaderboard: 'Daily Leaderboard',
+    leaderboardLoading: 'Loading leaderboard...',
+    leaderboardUnavailable: 'Leaderboard unavailable until Supabase is configured.',
+    leaderboardEmpty: 'No completed boards for this day yet.',
+    leaderboardRank: 'Rank',
+    leaderboardPlayer: 'Player',
+    leaderboardScore: 'Score',
+    leaderboardRarityScore: 'Rarity',
+    leaderboardRarityValue: (value) => `${value.toFixed(1)} avg matches`,
+    leaderboardScoreValue: (score) => `${score} / 9`,
     rarityOnly: 'Only one match',
     rarityRare: 'Rare',
     rarityTricky: 'Tricky',
@@ -96,6 +108,7 @@ const copy = {
     archive: 'Archive',
     archiveTitle: 'Grid Archive',
     archiveBack: 'Back to Grid',
+    archiveOpenBoard: 'Open board',
     archiveStatsTitle: 'My Grid Stats',
     archiveDate: 'Date',
     archiveScore: 'Score',
@@ -117,6 +130,7 @@ const copy = {
     avgRarityValue: (value) => `${value.toFixed(1)} matches`,
     archiveUpdated: 'Local archive built from saved daily boards.',
     archiveEmptyStat: 'No data yet',
+    returnToToday: 'Today',
     hits: 'Hits',
     misses: 'Misses',
     final: 'Final',
@@ -192,12 +206,24 @@ const copy = {
     selectPlayer: '選手を選択',
     summaryKicker: 'ゲーム終了',
     summaryHeading: '最終スコアカード',
+    summaryClose: 'スコアカードを閉じる',
+    summaryReopen: 'スコアカードを見る',
     summarySubheading: (score) =>
       score >= 7
         ? 'かなり好調です'
         : score >= 4
           ? 'まずまずの内容です'
           : '今日は苦戦しました',
+    summaryLeaderboard: 'デイリー順位',
+    leaderboardLoading: '順位を読み込んでいます...',
+    leaderboardUnavailable: 'Supabase が設定されると順位を表示できます。',
+    leaderboardEmpty: 'この日の完了ボードはまだありません。',
+    leaderboardRank: '順位',
+    leaderboardPlayer: 'プレイヤー',
+    leaderboardScore: 'スコア',
+    leaderboardRarityScore: 'レア度',
+    leaderboardRarityValue: (value) => `平均 ${value.toFixed(1)} 人`,
+    leaderboardScoreValue: (score) => `${score} / 9`,
     rarityOnly: '1人だけ',
     rarityRare: 'レア',
     rarityTricky: '難しめ',
@@ -210,6 +236,7 @@ const copy = {
     archive: 'アーカイブ',
     archiveTitle: 'グリッドアーカイブ',
     archiveBack: 'ゲームに戻る',
+    archiveOpenBoard: 'ボードを開く',
     archiveStatsTitle: 'マイグリッド統計',
     archiveDate: '日付',
     archiveScore: 'スコア',
@@ -231,6 +258,7 @@ const copy = {
     avgRarityValue: (value) => `平均 ${value.toFixed(1)} 人`,
     archiveUpdated: '保存されたデイリーボードをもとにしたローカルアーカイブです。',
     archiveEmptyStat: 'まだデータがありません',
+    returnToToday: '今日へ戻る',
     hits: '正解',
     misses: '不正解',
     final: '結果',
@@ -499,6 +527,34 @@ function getPlayerDisplayName(player, locale) {
   return player.name;
 }
 
+function computeResultRarityStats(cells, grid, eligibilityMap) {
+  let rarityTotal = 0;
+  let rarityHits = 0;
+
+  for (const [key, cell] of Object.entries(cells ?? {})) {
+    if (cell?.result !== 'correct') {
+      continue;
+    }
+
+    const [rowIndex, columnIndex] = key.split('-').map(Number);
+    const rowCategory = grid.rows[rowIndex];
+    const columnCategory = grid.columns[columnIndex];
+
+    if (!rowCategory || !columnCategory) {
+      continue;
+    }
+
+    rarityTotal += getEligibleIntersectionCount(rowCategory.id, columnCategory.id, eligibilityMap);
+    rarityHits += 1;
+  }
+
+  return {
+    rarityTotal,
+    rarityHits,
+    rarityAverage: rarityHits > 0 ? rarityTotal / rarityHits : null,
+  };
+}
+
 function serializeCells(cells) {
   // Store only stable IDs and outcomes so saved daily progress can be re-localized later.
   return Object.fromEntries(
@@ -647,11 +703,11 @@ function listStoredDailyResults(userId) {
   return results.sort((left, right) => right.puzzle_date.localeCompare(left.puzzle_date));
 }
 
-function getRecentPuzzleDates(todayDate, total = 18) {
+function getArchiveDatesFromStart(startDate, endDate) {
   const dates = [];
-  let cursor = todayDate;
+  let cursor = endDate;
 
-  for (let index = 0; index < total; index += 1) {
+  while (cursor >= startDate) {
     dates.push(cursor);
     cursor = getPreviousDateString(cursor);
   }
@@ -669,29 +725,21 @@ function formatArchiveDate(dateString, locale) {
   return formatter.format(new Date(`${dateString}T00:00:00`));
 }
 
-function computePerfectStreak(completedResults, todayDate) {
-  const perfectDates = new Set(
-    completedResults
-      .filter((result) => (result.score ?? 0) === 9)
-      .map((result) => result.puzzle_date),
-  );
-
-  let streak = 0;
-  let cursor = perfectDates.has(todayDate) ? todayDate : getPreviousDateString(todayDate);
-
-  while (perfectDates.has(cursor)) {
-    streak += 1;
-    cursor = getPreviousDateString(cursor);
-  }
-
-  return streak;
-}
-
 function createLeaderboard(items, limit = 4) {
   return Object.entries(items)
     .sort((left, right) => right[1] - left[1] || left[0].localeCompare(right[0]))
     .slice(0, limit)
     .map(([label, count]) => ({ label, count }));
+}
+
+function ScoreValue({ score, total = 9 }) {
+  return (
+    <span className="leaderboard-score-value">
+      <span className="leaderboard-score-part">{score}</span>
+      <span className="leaderboard-score-slash">/</span>
+      <span className="leaderboard-score-part">{total}</span>
+    </span>
+  );
 }
 
 function getPreviousDateString(dateString) {
@@ -732,16 +780,12 @@ function computeStreakStats(completedDates, todayDate) {
   return { currentStreak, bestStreak };
 }
 
-function mergeCompletedDatesWithLocal(completedDates, todayDate, userId) {
-  const localResult = readStoredDailyResult(todayDate, userId);
-  const completedHistory = readCompletedHistory(userId);
-  const mergedDates = [...completedDates, ...completedHistory];
+function mergePerfectDatesWithLocal(perfectDates, userId) {
+  const localPerfectDates = listStoredDailyResults(userId)
+    .filter((result) => (result.score ?? 0) === 9)
+    .map((result) => result.puzzle_date);
 
-  if (!localResult || (localResult.guess_count ?? 0) < MAX_GUESSES) {
-    return mergedDates;
-  }
-
-  return [...mergedDates, localResult.puzzle_date ?? todayDate];
+  return [...perfectDates, ...localPerfectDates];
 }
 
 function getInitialGrid(mode, dateString) {
@@ -768,13 +812,26 @@ function localizeCategory(category, locale) {
   };
 }
 
-function SummaryScreen({ cells, score, locale }) {
+function SummaryScreen({
+  cells,
+  score,
+  locale,
+  onClose,
+  isDailyMode,
+  leaderboardRows,
+  leaderboardLoading,
+  hasLeaderboardSupport,
+}) {
   const text = copy[locale];
   const cellList = Object.values(cells);
   const solvedPlayers = cellList.filter((cell) => cell.result === 'correct');
 
   return (
     <section className="summary-card">
+      <button className="summary-close" onClick={onClose} type="button">
+        <span aria-hidden="true">×</span>
+        <span className="sr-only">{text.summaryClose}</span>
+      </button>
       <p className="summary-kicker">{text.summaryKicker}</p>
       <h2 className="summary-heading">{text.summaryHeading}</h2>
       <p className="summary-subheading">{text.summarySubheading(score)}</p>
@@ -836,21 +893,55 @@ function SummaryScreen({ cells, score, locale }) {
           <p className="summary-note">{text.noSolved}</p>
         )}
       </div>
+
+      {isDailyMode && (
+        <div className="summary-leaderboard">
+          <p className="summary-notes-title">{text.summaryLeaderboard}</p>
+          {leaderboardLoading ? (
+            <p className="summary-note">{text.leaderboardLoading}</p>
+          ) : !hasLeaderboardSupport ? (
+            <p className="summary-note">{text.leaderboardUnavailable}</p>
+          ) : leaderboardRows.length === 0 ? (
+            <p className="summary-note">{text.leaderboardEmpty}</p>
+          ) : (
+            <div className="summary-leaderboard-table">
+              <div className="summary-leaderboard-head">
+                <span>{text.leaderboardRank}</span>
+                <span>{text.leaderboardPlayer}</span>
+                <span>{text.leaderboardScore}</span>
+                <span>{text.leaderboardRarityScore}</span>
+              </div>
+              {leaderboardRows.map((entry, index) => (
+                <div key={`${entry.display_name}-${index}`} className="summary-leaderboard-row">
+                  <span>{index + 1}</span>
+                  <div className="summary-leaderboard-player">
+                    <strong>{entry.display_name}</strong>
+                    {entry.rarity_average === null || entry.rarity_average === undefined ? null : (
+                      <small>{text.leaderboardRarityValue(Number(entry.rarity_average))}</small>
+                    )}
+                  </div>
+                  <span><ScoreValue score={entry.score} /></span>
+                  <span />
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      )}
     </section>
   );
 }
 
-function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame }) {
+function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame, onOpenBoard }) {
   const text = copy[locale];
   const storedResults = listStoredDailyResults(activeUser?.id);
   const resultMap = Object.fromEntries(
     storedResults.map((result) => [result.puzzle_date, result]),
   );
-  const archiveDates = getRecentPuzzleDates(puzzleDate);
+  const archiveDates = getArchiveDatesFromStart('2026-05-01', puzzleDate);
   const completedResults = storedResults.filter((result) => (result.guess_count ?? 0) >= MAX_GUESSES);
   const completedDates = completedResults.map((result) => result.puzzle_date);
   const streakStats = computeStreakStats(completedDates, puzzleDate);
-  const perfectStreak = computePerfectStreak(completedResults, puzzleDate);
 
   const playerCounts = {};
   const teamCounts = {};
@@ -987,7 +1078,7 @@ function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame }) {
 
             <div className="archive-streak-card">
               <span>{text.currentStreakLabel}: <strong>{text.streakDays(streakStats.currentStreak)}</strong></span>
-              <span>{text.perfectStreakLabel}: <strong>{text.perfectGames(perfectStreak)}</strong></span>
+              <span>{text.bestStreak}: <strong>{text.streakDays(streakStats.bestStreak)}</strong></span>
             </div>
           </section>
 
@@ -1056,7 +1147,16 @@ function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame }) {
             {archiveRows.map((row) => (
               <div key={row.dateString} className="archive-table-row">
                 <span>{formatArchiveDate(row.dateString, locale)}</span>
-                <span>{row.scoreLabel}</span>
+                <span>
+                  <button
+                    className="archive-score-button"
+                    type="button"
+                    onClick={() => onOpenBoard(row.dateString)}
+                    aria-label={`${text.archiveOpenBoard}: ${formatArchiveDate(row.dateString, locale)}`}
+                  >
+                    {row.scoreLabel}
+                  </button>
+                </span>
                 <span>{row.rarityLabel}</span>
               </div>
             ))}
@@ -1167,7 +1267,16 @@ function AuthModal({
   );
 }
 
-function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArchive }) {
+function GameScreen({
+  locale,
+  mode,
+  activeUser,
+  isVisible,
+  puzzleDate,
+  currentPuzzleDate,
+  onOpenArchive,
+  onReturnToToday,
+}) {
   const text = copy[locale];
   const [activeGrid, setActiveGrid] = useState(() =>
     getInitialGrid(mode, puzzleDate),
@@ -1184,6 +1293,9 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
   const [hasLocalDailyRestore, setHasLocalDailyRestore] = useState(false);
   const [streakStats, setStreakStats] = useState({ currentStreak: 0, bestStreak: 0 });
   const [showRarity, setShowRarity] = useState(true);
+  const [showSummary, setShowSummary] = useState(false);
+  const [leaderboardRows, setLeaderboardRows] = useState([]);
+  const [leaderboardLoading, setLeaderboardLoading] = useState(false);
 
   const score = Object.values(cells).filter(
     (cell) => cell.result === 'correct',
@@ -1191,6 +1303,8 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
   const guessesRemaining = MAX_GUESSES - guessCount;
   const isGameOver = guessCount >= MAX_GUESSES;
   const isDailyMode = mode === 'daily';
+  const isViewingArchiveDate = isDailyMode && puzzleDate !== currentPuzzleDate;
+  const hasLeaderboardSupport = Boolean(supabase);
   const localizedGrid = {
     ...activeGrid,
     rows: activeGrid.rows.map((category) => localizeCategory(category, locale)),
@@ -1226,7 +1340,7 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
 
   async function refreshStreakStats(userId) {
     if (!supabase) {
-      const mergedDates = mergeCompletedDatesWithLocal([], puzzleDate, userId);
+      const mergedDates = mergePerfectDatesWithLocal([], userId);
       setStreakStats(computeStreakStats(mergedDates, puzzleDate));
       return;
     }
@@ -1235,18 +1349,17 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
       .from('daily_results')
       .select('puzzle_date')
       .eq('user_id', userId)
-      .not('completed_at', 'is', null)
+      .eq('score', 9)
       .order('puzzle_date', { ascending: true });
 
     if (error) {
-      const mergedDates = mergeCompletedDatesWithLocal([], puzzleDate, userId);
+      const mergedDates = mergePerfectDatesWithLocal([], userId);
       setStreakStats(computeStreakStats(mergedDates, puzzleDate));
       return;
     }
 
-    const mergedDates = mergeCompletedDatesWithLocal(
+    const mergedDates = mergePerfectDatesWithLocal(
       data.map((row) => row.puzzle_date),
-      puzzleDate,
       userId,
     );
 
@@ -1254,6 +1367,49 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
       computeStreakStats(mergedDates, puzzleDate),
     );
   }
+
+  useEffect(() => {
+    if (!isDailyMode || !showSummary || !isGameOver) {
+      setLeaderboardRows([]);
+      setLeaderboardLoading(false);
+      return;
+    }
+
+    if (!supabase) {
+      setLeaderboardRows([]);
+      setLeaderboardLoading(false);
+      return;
+    }
+
+    let isMounted = true;
+
+    async function loadLeaderboard() {
+      setLeaderboardLoading(true);
+
+      const { data, error } = await supabase.rpc('get_daily_leaderboard', {
+        target_puzzle_date: puzzleDate,
+      });
+
+      if (!isMounted) {
+        return;
+      }
+
+      if (error) {
+        setLeaderboardRows([]);
+        setLeaderboardLoading(false);
+        return;
+      }
+
+      setLeaderboardRows(Array.isArray(data) ? data : []);
+      setLeaderboardLoading(false);
+    }
+
+    loadLeaderboard();
+
+    return () => {
+      isMounted = false;
+    };
+  }, [isDailyMode, isGameOver, puzzleDate, showSummary]);
 
   useEffect(() => {
     if (!isDailyMode || !isVisible) {
@@ -1301,6 +1457,7 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
       setSelectedCategory(null);
       setDraftName('');
       setEditorNotice('');
+      setShowSummary((localResult.guess_count ?? 0) >= MAX_GUESSES);
       setMessage(activeUser ? text.dailySyncLoaded : text.dailyGuestNotice);
     }
 
@@ -1310,6 +1467,7 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
         setHasLocalDailyRestore(false);
         setCells(createEmptyCells());
         setGuessCount(0);
+        setShowSummary(false);
       }
       setSelectedCell(null);
       setSelectedCategory(null);
@@ -1360,11 +1518,12 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
         setMessage(text.dailySyncLoaded);
       } else {
         if (!localResult) {
-          setHasLocalDailyRestore(false);
-          setCells(createEmptyCells());
-          setGuessCount(0);
-          setMessage(text.defaultMessage);
-        }
+        setHasLocalDailyRestore(false);
+        setCells(createEmptyCells());
+        setGuessCount(0);
+        setShowSummary(false);
+        setMessage(text.defaultMessage);
+      }
       }
 
       setSelectedCell(null);
@@ -1386,12 +1545,17 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
       return;
     }
 
+    const rarityStats = computeResultRarityStats(nextCells, activeGrid, eligibility);
+
     // One row per user per puzzle date keeps the daily board resumable across refreshes and languages.
     const payload = {
       puzzle_date: puzzleDate,
       score: nextScore,
       guess_count: nextGuessCount,
       cells: serializeCells(nextCells),
+      rarity_total: rarityStats.rarityTotal,
+      rarity_hits: rarityStats.rarityHits,
+      rarity_average: rarityStats.rarityAverage,
       completed_at: nextGuessCount >= MAX_GUESSES ? new Date().toISOString() : null,
       updated_at: new Date().toISOString(),
     };
@@ -1495,6 +1659,9 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
 
     setCells(nextCells);
     setGuessCount(nextGuessCount);
+    if (nextGuessCount >= MAX_GUESSES) {
+      setShowSummary(true);
+    }
     setMessage(
       nextGuessCount >= MAX_GUESSES
         ? text.gameOver(nextScore)
@@ -1523,6 +1690,7 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
     setShowHelp(false);
     setDraftName('');
     setEditorNotice('');
+    setShowSummary(false);
     setMessage(isDailyMode ? text.dailyResetMessage : text.resetMessage);
   }
 
@@ -1539,6 +1707,7 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
     setShowHelp(false);
     setDraftName('');
     setEditorNotice('');
+    setShowSummary(false);
     setMessage(text.newGridMessage);
   }
 
@@ -1565,6 +1734,11 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
             {isDailyMode && (
               <button className="info-button" onClick={onOpenArchive} type="button">
                 {text.archive}
+              </button>
+            )}
+            {isViewingArchiveDate && (
+              <button className="info-button" onClick={onReturnToToday} type="button">
+                {text.returnToToday}
               </button>
             )}
           </div>
@@ -1623,6 +1797,11 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
             {text.reset}
           </button>
         )}
+        {isGameOver && !showSummary && (
+          <button className="toolbar-button" onClick={() => setShowSummary(true)} type="button">
+            {text.summaryReopen}
+          </button>
+        )}
         <p className="status-text">{message}</p>
       </div>
 
@@ -1645,8 +1824,17 @@ function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArc
         </section>
       )}
 
-      {isGameOver ? (
-        <SummaryScreen cells={cells} score={score} locale={locale} />
+      {isGameOver && showSummary ? (
+        <SummaryScreen
+          cells={cells}
+          score={score}
+          locale={locale}
+          onClose={() => setShowSummary(false)}
+          isDailyMode={isDailyMode}
+          leaderboardRows={leaderboardRows}
+          leaderboardLoading={leaderboardLoading}
+          hasLeaderboardSupport={hasLeaderboardSupport}
+        />
       ) : (
         <GridBoard
           grid={localizedGrid}
@@ -1723,7 +1911,8 @@ export default function App() {
   const [activeLocale, setActiveLocale] = useState('ja');
   const [activeMode, setActiveMode] = useState('daily');
   const [activeView, setActiveView] = useState('game');
-  const [puzzleDate, setPuzzleDate] = useState(getCurrentPuzzleDate);
+  const [currentPuzzleDate, setCurrentPuzzleDate] = useState(getCurrentPuzzleDate);
+  const [selectedDailyDate, setSelectedDailyDate] = useState(null);
   const [authMode, setAuthMode] = useState(null);
   const [authNotice, setAuthNotice] = useState('');
   const [authLoading, setAuthLoading] = useState(false);
@@ -1778,7 +1967,7 @@ export default function App() {
 
   useEffect(() => {
     const intervalId = window.setInterval(() => {
-      setPuzzleDate((current) => {
+      setCurrentPuzzleDate((current) => {
         const next = getCurrentPuzzleDate();
         return current === next ? current : next;
       });
@@ -1788,6 +1977,20 @@ export default function App() {
       window.clearInterval(intervalId);
     };
   }, []);
+
+  const puzzleDate = selectedDailyDate ?? currentPuzzleDate;
+
+  function openArchiveBoard(dateString) {
+    setSelectedDailyDate(dateString);
+    setActiveMode('daily');
+    setActiveView('game');
+  }
+
+  function returnToTodayBoard() {
+    setSelectedDailyDate(null);
+    setActiveMode('daily');
+    setActiveView('game');
+  }
 
   async function handleAuthSubmit(event) {
     event.preventDefault();
@@ -1945,7 +2148,9 @@ export default function App() {
                 activeUser={activeUser}
                 isVisible={activeLocale === 'ja' && activeMode === 'daily'}
                 puzzleDate={puzzleDate}
+                currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
+                onReturnToToday={returnToTodayBoard}
               />
             </div>
             <div className={activeMode === 'practice' ? 'mode-panel active' : 'mode-panel'}>
@@ -1955,7 +2160,9 @@ export default function App() {
                 activeUser={activeUser}
                 isVisible={activeLocale === 'ja' && activeMode === 'practice'}
                 puzzleDate={puzzleDate}
+                currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
+                onReturnToToday={returnToTodayBoard}
               />
             </div>
           </div>
@@ -1967,7 +2174,9 @@ export default function App() {
                 activeUser={activeUser}
                 isVisible={activeLocale === 'en' && activeMode === 'daily'}
                 puzzleDate={puzzleDate}
+                currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
+                onReturnToToday={returnToTodayBoard}
               />
             </div>
             <div className={activeMode === 'practice' ? 'mode-panel active' : 'mode-panel'}>
@@ -1977,7 +2186,9 @@ export default function App() {
                 activeUser={activeUser}
                 isVisible={activeLocale === 'en' && activeMode === 'practice'}
                 puzzleDate={puzzleDate}
+                currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
+                onReturnToToday={returnToTodayBoard}
               />
             </div>
           </div>
@@ -1986,8 +2197,9 @@ export default function App() {
         <ArchiveScreen
           locale={activeLocale}
           activeUser={activeUser}
-          puzzleDate={puzzleDate}
+          puzzleDate={currentPuzzleDate}
           onBackToGame={() => setActiveView('game')}
+          onOpenBoard={openArchiveBoard}
         />
       )}
 
