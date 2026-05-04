@@ -14,6 +14,28 @@ npm run dev
 
 Then open the local Vite URL shown in the terminal.
 
+## Supabase auth setup
+
+The account modal now supports real Supabase Auth.
+
+1. Copy `.env.example` to `.env`
+2. Fill in:
+   - `VITE_SUPABASE_URL`
+   - `VITE_SUPABASE_ANON_KEY`
+3. Restart `npm run dev`
+
+Without those env vars, the auth modal still opens but shows a configuration notice instead of connecting to a backend.
+
+## Supabase daily result storage
+
+To save each signed-in user's daily puzzle progress, run the SQL in:
+
+- `db/supabase-daily-results.sql`
+
+Use the Supabase SQL Editor, paste the file contents, and run it once for your project.
+
+This creates a `daily_results` table with row-level security so each authenticated user can only read and write their own daily rows.
+
 If you later add real CSV files under `data/raw/`, rebuild processed data with:
 
 ```bash

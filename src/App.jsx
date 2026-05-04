@@ -1,20 +1,57 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import GridBoard from './components/GridBoard';
 import {
-  buildGridFromCategoryIds,
+  createDailyGridFromEligibility,
   createRandomGridFromEligibility,
 } from './data/categories';
 import { findPlayerByName, isPlayerAlreadyUsed, validateAnswer } from './lib/validateAnswer';
+import { hasSupabaseConfig, supabase } from './lib/supabase';
 import playersById from '../data/processed/players.json';
 import eligibility from '../data/processed/eligibility.json';
-import todayBoard from '../data/processed/todayBoard.json';
 
 const MAX_GUESSES = 9;
 
 const copy = {
   en: {
+    signIn: 'Sign in',
+    logIn: 'Log in',
+    authClose: 'Close',
+    authName: 'Display name',
+    authEmail: 'Email address',
+    authPassword: 'Password',
+    authConfirmPassword: 'Confirm password',
+    authNamePlaceholder: '',
+    authEmailPlaceholder: 'you@example.com',
+    authPasswordPlaceholder: 'Enter your password',
+    authConfirmPasswordPlaceholder: 'Confirm your password',
+    authLoginHeading: 'Log in to your account',
+    authLoginBlurb: 'Track your daily progress and save future stats once accounts go live.',
+    authSignupHeading: 'Create your account',
+    authSignupBlurb: 'Set up a profile so you can keep daily streaks and puzzle history later.',
+    authLoginSubmit: 'Log in',
+    authSignupSubmit: 'Create account',
+    authSwitchToSignup: 'Need an account? Sign in',
+    authSwitchToLogin: 'Already have an account? Log in',
+    authConfigMissing:
+      'Supabase is not configured yet. Add VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY to connect real accounts.',
+    authPasswordMismatch: 'Passwords do not match.',
+    authLoginSuccess: 'Logged in successfully.',
+    authSignupSuccess: 'Account created. Check your email if confirmation is enabled.',
+    authLogout: 'Log out',
+    authLoggedInAs: 'Signed in as',
+    authWorking: 'Working...',
+    dailySyncLoading: 'Loading your saved daily puzzle progress...',
+    dailySyncLoaded: 'Loaded your saved daily progress.',
+    dailySyncSaved: 'Saved your daily progress.',
+    dailySyncError: 'Could not sync your daily progress right now.',
+    dailyGuestNotice: 'Log in to save your daily puzzle progress.',
+    streak: 'Streak',
+    bestStreak: 'Best',
+    streakDays: (count) => `${count} day${count === 1 ? '' : 's'}`,
     eyebrow: 'Daily-style prototype',
     title: 'NPB Trivia Grid',
+    dailyTab: 'Daily',
+    practiceTab: 'Practice',
     score: 'Score',
     noGuesses: 'No guesses remaining.',
     guessesRemaining: (count) => `${count} guesses remaining.`,
@@ -47,15 +84,88 @@ const copy = {
         : score >= 4
           ? 'Solid middle innings'
           : 'Tough matchup today',
+    rarityOnly: 'Only one match',
+    rarityRare: 'Rare',
+    rarityTricky: 'Tricky',
+    rarityOpen: 'Open',
+    rarityCount: (count, band) => `${band} • ${count} eligible`,
+    rarityOn: 'Rarity On',
+    rarityOff: 'Rarity Off',
+    rarityToggleOn: 'Hide rarity',
+    rarityToggleOff: 'Show rarity',
+    archive: 'Archive',
+    archiveTitle: 'Grid Archive',
+    archiveBack: 'Back to Grid',
+    archiveStatsTitle: 'My Grid Stats',
+    archiveDate: 'Date',
+    archiveScore: 'Score',
+    archiveRarity: 'Rarity',
+    archiveMatches: 'Avg matches',
+    archivePlayNow: 'Play now',
+    archiveContinue: 'Continue',
+    archiveNoData: 'No archive results yet. Start a daily board to build your history.',
+    completedGrids: 'Completed Grids',
+    averageScore: 'Average Score',
+    averageRarity: 'Average Rarity',
+    currentStreakLabel: 'Current Streak',
+    perfectStreakLabel: 'Perfect Streak',
+    topPlayersTitle: 'Top Players',
+    topTeamsTitle: 'Top Teams',
+    topCategoriesTitle: 'Top Categories',
+    perfectGames: (count) => `${count} perfect`,
+    avgScoreValue: (value) => `${value.toFixed(1)} / 9`,
+    avgRarityValue: (value) => `${value.toFixed(1)} matches`,
+    archiveUpdated: 'Local archive built from saved daily boards.',
+    archiveEmptyStat: 'No data yet',
     hits: 'Hits',
     misses: 'Misses',
     final: 'Final',
     solvedSquares: 'Solved squares',
     noSolved: 'No correct players this round.',
+    dailyBoardLabel: (date) => `Daily board: ${date}`,
+    dailyBoardNotice: 'You can show or hide square rarity from the toolbar.',
+    dailyResetMessage: 'Daily board reset. Today\'s puzzle is loaded again.',
   },
   ja: {
+    signIn: '新規登録',
+    logIn: 'ログイン',
+    authClose: '閉じる',
+    authName: '表示名',
+    authEmail: 'メールアドレス',
+    authPassword: 'パスワード',
+    authConfirmPassword: 'パスワード確認',
+    authNamePlaceholder: '',
+    authEmailPlaceholder: 'you@example.com',
+    authPasswordPlaceholder: 'パスワードを入力',
+    authConfirmPasswordPlaceholder: 'もう一度パスワードを入力',
+    authLoginHeading: 'アカウントにログイン',
+    authLoginBlurb: 'アカウント機能が入ると、デイリー進捗や今後の成績保存に使えます。',
+    authSignupHeading: 'アカウントを作成',
+    authSignupBlurb: '今後、連続記録やプレー履歴を保存できるようにするための登録画面です。',
+    authLoginSubmit: 'ログイン',
+    authSignupSubmit: '登録する',
+    authSwitchToSignup: 'アカウントを作成する',
+    authSwitchToLogin: 'すでにアカウントをお持ちですか',
+    authConfigMissing:
+      'Supabase がまだ設定されていません。実際のアカウント連携には VITE_SUPABASE_URL と VITE_SUPABASE_ANON_KEY を追加してください。',
+    authPasswordMismatch: 'パスワードが一致していません。',
+    authLoginSuccess: 'ログインしました。',
+    authSignupSuccess: 'アカウントを作成しました。確認メールが有効な場合はメールを確認してください。',
+    authLogout: 'ログアウト',
+    authLoggedInAs: 'ログイン中',
+    authWorking: '処理中...',
+    dailySyncLoading: '保存済みのデイリー進捗を読み込んでいます...',
+    dailySyncLoaded: '保存済みのデイリー進捗を読み込みました。',
+    dailySyncSaved: 'デイリー進捗を保存しました。',
+    dailySyncError: 'デイリー進捗を同期できませんでした。',
+    dailyGuestNotice: 'デイリー進捗を保存するにはログインしてください。',
+    streak: '連続記録',
+    bestStreak: '最高',
+    streakDays: (count) => `${count}日`,
     eyebrow: 'デイリープロトタイプ',
     title: 'プロ野球グリッド',
+    dailyTab: 'デイリー',
+    practiceTab: '練習',
     score: 'スコア',
     noGuesses: '残り回数はありません。',
     guessesRemaining: (count) => `残り ${count} 回`,
@@ -88,11 +198,47 @@ const copy = {
         : score >= 4
           ? 'まずまずの内容です'
           : '今日は苦戦しました',
+    rarityOnly: '1人だけ',
+    rarityRare: 'レア',
+    rarityTricky: '難しめ',
+    rarityOpen: '広め',
+    rarityCount: (count, band) => `${band} • 該当 ${count} 人`,
+    rarityOn: 'レア度表示オン',
+    rarityOff: 'レア度表示オフ',
+    rarityToggleOn: 'レア度を隠す',
+    rarityToggleOff: 'レア度を表示',
+    archive: 'アーカイブ',
+    archiveTitle: 'グリッドアーカイブ',
+    archiveBack: 'ゲームに戻る',
+    archiveStatsTitle: 'マイグリッド統計',
+    archiveDate: '日付',
+    archiveScore: 'スコア',
+    archiveRarity: 'レア度',
+    archiveMatches: '平均該当数',
+    archivePlayNow: '今すぐ遊ぶ',
+    archiveContinue: '続きから',
+    archiveNoData: 'まだアーカイブ結果がありません。デイリーボードを始めると履歴が貯まります。',
+    completedGrids: '完了したグリッド',
+    averageScore: '平均スコア',
+    averageRarity: '平均レア度',
+    currentStreakLabel: '現在の連続記録',
+    perfectStreakLabel: '完全達成連続',
+    topPlayersTitle: 'よく使う選手',
+    topTeamsTitle: 'よく出る球団',
+    topCategoriesTitle: 'よく出るカテゴリ',
+    perfectGames: (count) => `完全達成 ${count} 回`,
+    avgScoreValue: (value) => `${value.toFixed(1)} / 9`,
+    avgRarityValue: (value) => `平均 ${value.toFixed(1)} 人`,
+    archiveUpdated: '保存されたデイリーボードをもとにしたローカルアーカイブです。',
+    archiveEmptyStat: 'まだデータがありません',
     hits: '正解',
     misses: '不正解',
     final: '結果',
     solvedSquares: '正解したマス',
     noSolved: '今回は正解した選手がいませんでした。',
+    dailyBoardLabel: (date) => `デイリーボード: ${date}`,
+    dailyBoardNotice: 'ツールバーから各マスのレア度表示を切り替えできます。',
+    dailyResetMessage: 'デイリーボードをリセットしました。今日の盤面を再読み込みしました。',
   },
 };
 
@@ -297,6 +443,54 @@ function getCellKey(rowIndex, columnIndex) {
   return `${rowIndex}-${columnIndex}`;
 }
 
+function getEligibleIntersectionCount(rowCategoryId, columnCategoryId, eligibilityMap) {
+  const rowEligible = eligibilityMap[rowCategoryId] ?? [];
+  const columnEligible = new Set(eligibilityMap[columnCategoryId] ?? []);
+  let count = 0;
+
+  for (const playerId of rowEligible) {
+    if (columnEligible.has(playerId)) {
+      count += 1;
+    }
+  }
+
+  return count;
+}
+
+function getRarityTone(count) {
+  if (count <= 1) {
+    return 'only';
+  }
+
+  if (count <= 3) {
+    return 'rare';
+  }
+
+  if (count <= 6) {
+    return 'tricky';
+  }
+
+  return 'open';
+}
+
+function getRarityBandLabel(count, text) {
+  const tone = getRarityTone(count);
+
+  if (tone === 'only') {
+    return text.rarityOnly;
+  }
+
+  if (tone === 'rare') {
+    return text.rarityRare;
+  }
+
+  if (tone === 'tricky') {
+    return text.rarityTricky;
+  }
+
+  return text.rarityOpen;
+}
+
 function getPlayerDisplayName(player, locale) {
   if (locale === 'ja') {
     return player.nameJapanese || player.name;
@@ -305,9 +499,255 @@ function getPlayerDisplayName(player, locale) {
   return player.name;
 }
 
-function getSnapshotGrid() {
-  const grid = buildGridFromCategoryIds(todayBoard.rowIds ?? [], todayBoard.columnIds ?? []);
-  return grid ?? createRandomGridFromEligibility(eligibility);
+function serializeCells(cells) {
+  // Store only stable IDs and outcomes so saved daily progress can be re-localized later.
+  return Object.fromEntries(
+    Object.entries(cells).map(([key, cell]) => [
+      key,
+      {
+        playerId: cell.playerId ?? null,
+        result: cell.result ?? null,
+        locked: Boolean(cell.locked),
+      },
+    ]),
+  );
+}
+
+function hydrateCells(savedCells, locale) {
+  const nextCells = createEmptyCells();
+
+  for (const [key, savedCell] of Object.entries(savedCells ?? {})) {
+    if (!savedCell) {
+      continue;
+    }
+
+    const player = savedCell.playerId ? playersById[savedCell.playerId] : null;
+
+    nextCells[key] = {
+      playerId: savedCell.playerId ?? undefined,
+      playerName: player ? getPlayerDisplayName(player, locale) : '',
+      result: savedCell.result ?? null,
+      locked: Boolean(savedCell.locked),
+    };
+  }
+
+  return nextCells;
+}
+
+function getCurrentPuzzleDate() {
+  const now = new Date();
+  const year = now.getFullYear();
+  const month = String(now.getMonth() + 1).padStart(2, '0');
+  const day = String(now.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
+function getSnapshotGrid(dateString) {
+  return createDailyGridFromEligibility(eligibility, dateString);
+}
+
+function getDailyStorageKey(dateString, userId) {
+  return `npb-daily-result:${dateString}:${userId ?? 'guest'}`;
+}
+
+function readStoredDailyResult(dateString, userId) {
+  if (typeof window === 'undefined') {
+    return null;
+  }
+
+  const raw = window.localStorage.getItem(getDailyStorageKey(dateString, userId));
+
+  if (!raw) {
+    return null;
+  }
+
+  try {
+    return JSON.parse(raw);
+  } catch {
+    return null;
+  }
+}
+
+function writeStoredDailyResult(dateString, userId, payload) {
+  if (typeof window === 'undefined') {
+    return;
+  }
+
+  window.localStorage.setItem(getDailyStorageKey(dateString, userId), JSON.stringify(payload));
+}
+
+function getCompletedHistoryKey(userId) {
+  return `npb-daily-completed-history:${userId ?? 'guest'}`;
+}
+
+function readCompletedHistory(userId) {
+  if (typeof window === 'undefined') {
+    return [];
+  }
+
+  const raw = window.localStorage.getItem(getCompletedHistoryKey(userId));
+
+  if (!raw) {
+    return [];
+  }
+
+  try {
+    const parsed = JSON.parse(raw);
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+}
+
+function writeCompletedHistory(userId, completedDates) {
+  if (typeof window === 'undefined') {
+    return;
+  }
+
+  const uniqueDates = [...new Set(completedDates)].sort();
+  window.localStorage.setItem(getCompletedHistoryKey(userId), JSON.stringify(uniqueDates));
+}
+
+function addCompletedHistoryDate(userId, dateString) {
+  const existing = readCompletedHistory(userId);
+  writeCompletedHistory(userId, [...existing, dateString]);
+}
+
+function listStoredDailyResults(userId) {
+  if (typeof window === 'undefined') {
+    return [];
+  }
+
+  const suffix = `:${userId ?? 'guest'}`;
+  const results = [];
+
+  for (let index = 0; index < window.localStorage.length; index += 1) {
+    const key = window.localStorage.key(index);
+
+    if (!key?.startsWith('npb-daily-result:') || !key.endsWith(suffix)) {
+      continue;
+    }
+
+    const raw = window.localStorage.getItem(key);
+
+    if (!raw) {
+      continue;
+    }
+
+    try {
+      const parsed = JSON.parse(raw);
+      if (parsed?.puzzle_date) {
+        results.push(parsed);
+      }
+    } catch {
+      // Ignore malformed local history rows.
+    }
+  }
+
+  return results.sort((left, right) => right.puzzle_date.localeCompare(left.puzzle_date));
+}
+
+function getRecentPuzzleDates(todayDate, total = 18) {
+  const dates = [];
+  let cursor = todayDate;
+
+  for (let index = 0; index < total; index += 1) {
+    dates.push(cursor);
+    cursor = getPreviousDateString(cursor);
+  }
+
+  return dates;
+}
+
+function formatArchiveDate(dateString, locale) {
+  const formatter = new Intl.DateTimeFormat(locale === 'ja' ? 'ja-JP' : 'en-US', {
+    month: 'short',
+    day: 'numeric',
+    year: 'numeric',
+  });
+
+  return formatter.format(new Date(`${dateString}T00:00:00`));
+}
+
+function computePerfectStreak(completedResults, todayDate) {
+  const perfectDates = new Set(
+    completedResults
+      .filter((result) => (result.score ?? 0) === 9)
+      .map((result) => result.puzzle_date),
+  );
+
+  let streak = 0;
+  let cursor = perfectDates.has(todayDate) ? todayDate : getPreviousDateString(todayDate);
+
+  while (perfectDates.has(cursor)) {
+    streak += 1;
+    cursor = getPreviousDateString(cursor);
+  }
+
+  return streak;
+}
+
+function createLeaderboard(items, limit = 4) {
+  return Object.entries(items)
+    .sort((left, right) => right[1] - left[1] || left[0].localeCompare(right[0]))
+    .slice(0, limit)
+    .map(([label, count]) => ({ label, count }));
+}
+
+function getPreviousDateString(dateString) {
+  const current = new Date(`${dateString}T00:00:00`);
+  current.setDate(current.getDate() - 1);
+  return current.toISOString().slice(0, 10);
+}
+
+function computeStreakStats(completedDates, todayDate) {
+  const uniqueDates = [...new Set(completedDates)].sort();
+  const dateSet = new Set(uniqueDates);
+
+  let currentStreak = 0;
+  let cursor = dateSet.has(todayDate) ? todayDate : getPreviousDateString(todayDate);
+
+  while (dateSet.has(cursor)) {
+    currentStreak += 1;
+    cursor = getPreviousDateString(cursor);
+  }
+
+  let bestStreak = 0;
+  let run = 0;
+  let previous = null;
+
+  for (const date of uniqueDates) {
+    if (!previous) {
+      run = 1;
+    } else if (getPreviousDateString(date) === previous) {
+      run += 1;
+    } else {
+      run = 1;
+    }
+
+    bestStreak = Math.max(bestStreak, run);
+    previous = date;
+  }
+
+  return { currentStreak, bestStreak };
+}
+
+function mergeCompletedDatesWithLocal(completedDates, todayDate, userId) {
+  const localResult = readStoredDailyResult(todayDate, userId);
+  const completedHistory = readCompletedHistory(userId);
+  const mergedDates = [...completedDates, ...completedHistory];
+
+  if (!localResult || (localResult.guess_count ?? 0) < MAX_GUESSES) {
+    return mergedDates;
+  }
+
+  return [...mergedDates, localResult.puzzle_date ?? todayDate];
+}
+
+function getInitialGrid(mode, dateString) {
+  return mode === 'daily'
+    ? getSnapshotGrid(dateString)
+    : createRandomGridFromEligibility(eligibility);
 }
 
 function localizeCategory(category, locale) {
@@ -400,10 +840,337 @@ function SummaryScreen({ cells, score, locale }) {
   );
 }
 
-function GameScreen({ locale }) {
+function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame }) {
+  const text = copy[locale];
+  const storedResults = listStoredDailyResults(activeUser?.id);
+  const resultMap = Object.fromEntries(
+    storedResults.map((result) => [result.puzzle_date, result]),
+  );
+  const archiveDates = getRecentPuzzleDates(puzzleDate);
+  const completedResults = storedResults.filter((result) => (result.guess_count ?? 0) >= MAX_GUESSES);
+  const completedDates = completedResults.map((result) => result.puzzle_date);
+  const streakStats = computeStreakStats(completedDates, puzzleDate);
+  const perfectStreak = computePerfectStreak(completedResults, puzzleDate);
+
+  const playerCounts = {};
+  const teamCounts = {};
+  const categoryCounts = {};
+  const averageRarityValues = [];
+
+  for (const result of storedResults) {
+    const grid = getSnapshotGrid(result.puzzle_date);
+    const cells = result.cells ?? {};
+    let rarityTotal = 0;
+    let rarityHits = 0;
+
+    for (const [key, cell] of Object.entries(cells)) {
+      if (cell?.result !== 'correct' || !cell.playerId) {
+        continue;
+      }
+
+      const [rowIndex, columnIndex] = key.split('-').map(Number);
+      const rowCategory = grid.rows[rowIndex];
+      const columnCategory = grid.columns[columnIndex];
+
+      if (!rowCategory || !columnCategory) {
+        continue;
+      }
+
+      const player = playersById[cell.playerId];
+      const rarityCount = getEligibleIntersectionCount(rowCategory.id, columnCategory.id, eligibility);
+
+      rarityTotal += rarityCount;
+      rarityHits += 1;
+
+      if (player) {
+        const playerLabel = getPlayerDisplayName(player, locale);
+        playerCounts[playerLabel] = (playerCounts[playerLabel] ?? 0) + 1;
+
+        for (const teamName of player.teams ?? []) {
+          const localizedTeam = locale === 'ja'
+            ? jaCategoryLabels[teamName] ?? teamName
+            : teamName;
+          teamCounts[localizedTeam] = (teamCounts[localizedTeam] ?? 0) + 1;
+        }
+      }
+    }
+
+    for (const category of [...grid.rows, ...grid.columns]) {
+      const localizedLabel = localizeCategory(category, locale).label;
+      categoryCounts[localizedLabel] = (categoryCounts[localizedLabel] ?? 0) + 1;
+    }
+
+    if (rarityHits > 0) {
+      averageRarityValues.push(rarityTotal / rarityHits);
+    }
+  }
+
+  const archiveRows = archiveDates.map((dateString) => {
+    const result = resultMap[dateString];
+
+    if (!result) {
+      return {
+        dateString,
+        scoreLabel: text.archivePlayNow,
+        rarityLabel: '—',
+      };
+    }
+
+    const score = result.score ?? 0;
+    const guessCount = result.guess_count ?? 0;
+    const grid = getSnapshotGrid(dateString);
+    const solvedCounts = Object.entries(result.cells ?? {})
+      .filter(([, cell]) => cell?.result === 'correct')
+      .map(([key]) => {
+        const [rowIndex, columnIndex] = key.split('-').map(Number);
+        const rowCategory = grid.rows[rowIndex];
+        const columnCategory = grid.columns[columnIndex];
+        return rowCategory && columnCategory
+          ? getEligibleIntersectionCount(rowCategory.id, columnCategory.id, eligibility)
+          : null;
+      })
+      .filter((value) => typeof value === 'number');
+
+    const averageMatches = solvedCounts.length > 0
+      ? solvedCounts.reduce((total, value) => total + value, 0) / solvedCounts.length
+      : null;
+
+    return {
+      dateString,
+      scoreLabel: guessCount >= MAX_GUESSES ? `${score} / 9` : text.archiveContinue,
+      rarityLabel: averageMatches ? text.avgRarityValue(averageMatches) : '—',
+    };
+  });
+
+  const averageScore = completedResults.length > 0
+    ? completedResults.reduce((total, result) => total + (result.score ?? 0), 0) / completedResults.length
+    : null;
+  const averageRarity = averageRarityValues.length > 0
+    ? averageRarityValues.reduce((total, value) => total + value, 0) / averageRarityValues.length
+    : null;
+  const topPlayers = createLeaderboard(playerCounts);
+  const topTeams = createLeaderboard(teamCounts);
+  const topCategories = createLeaderboard(categoryCounts, 5);
+
+  return (
+    <main className="archive-shell">
+      <section className="archive-hero">
+        <div>
+          <p className="eyebrow">{text.archive}</p>
+          <h1>{text.archiveTitle}</h1>
+          <p className="archive-note">{text.archiveUpdated}</p>
+        </div>
+        <button className="account-button primary" onClick={onBackToGame}>
+          {text.archiveBack}
+        </button>
+      </section>
+
+      <section className="archive-layout">
+        <div className="archive-stats-column">
+          <section className="archive-panel">
+            <h2 className="archive-panel-title">{text.archiveStatsTitle}</h2>
+
+            <div className="archive-stat-grid">
+              <article className="archive-stat-card">
+                <span>{text.completedGrids}</span>
+                <strong>{completedResults.length}</strong>
+              </article>
+              <article className="archive-stat-card">
+                <span>{text.averageScore}</span>
+                <strong>{averageScore === null ? '—' : text.avgScoreValue(averageScore)}</strong>
+              </article>
+              <article className="archive-stat-card">
+                <span>{text.averageRarity}</span>
+                <strong>{averageRarity === null ? '—' : text.avgRarityValue(averageRarity)}</strong>
+              </article>
+            </div>
+
+            <div className="archive-streak-card">
+              <span>{text.currentStreakLabel}: <strong>{text.streakDays(streakStats.currentStreak)}</strong></span>
+              <span>{text.perfectStreakLabel}: <strong>{text.perfectGames(perfectStreak)}</strong></span>
+            </div>
+          </section>
+
+          <section className="archive-panel">
+            <h2 className="archive-panel-title">{text.topPlayersTitle}</h2>
+            <div className="archive-player-grid">
+              {topPlayers.length > 0 ? topPlayers.map((player) => (
+                <article key={player.label} className="archive-player-card">
+                  <div className="archive-player-avatar">{player.label.slice(0, 1)}</div>
+                  <strong>{player.label}</strong>
+                  <span>{player.count}</span>
+                </article>
+              )) : (
+                <p className="archive-empty">{text.archiveEmptyStat}</p>
+              )}
+            </div>
+          </section>
+
+          <div className="archive-bottom-grid">
+            <section className="archive-panel">
+              <h2 className="archive-panel-title">{text.topTeamsTitle}</h2>
+              <div className="archive-badge-grid">
+                {topTeams.length > 0 ? topTeams.map((team) => (
+                  <article key={team.label} className="archive-badge-card">
+                    <strong>{team.label}</strong>
+                    <span>{team.count}</span>
+                  </article>
+                )) : (
+                  <p className="archive-empty">{text.archiveEmptyStat}</p>
+                )}
+              </div>
+            </section>
+
+            <section className="archive-panel">
+              <h2 className="archive-panel-title">{text.topCategoriesTitle}</h2>
+              <div className="archive-category-list">
+                {topCategories.length > 0 ? topCategories.map((category) => (
+                  <div key={category.label} className="archive-category-row">
+                    <span>{category.label}</span>
+                    <strong>{category.count}</strong>
+                  </div>
+                )) : (
+                  <p className="archive-empty">{text.archiveEmptyStat}</p>
+                )}
+              </div>
+            </section>
+          </div>
+        </div>
+
+        <section className="archive-panel archive-list-panel">
+          <div className="archive-list-header">
+            <h2 className="archive-panel-title">{text.archiveTitle}</h2>
+          </div>
+
+          {storedResults.length === 0 && (
+            <p className="archive-empty archive-list-empty">{text.archiveNoData}</p>
+          )}
+
+          <div className="archive-table">
+            <div className="archive-table-head">
+              <span>{text.archiveDate}</span>
+              <span>{text.archiveScore}</span>
+              <span>{text.archiveRarity}</span>
+            </div>
+
+            {archiveRows.map((row) => (
+              <div key={row.dateString} className="archive-table-row">
+                <span>{formatArchiveDate(row.dateString, locale)}</span>
+                <span>{row.scoreLabel}</span>
+                <span>{row.rarityLabel}</span>
+              </div>
+            ))}
+          </div>
+        </section>
+      </section>
+    </main>
+  );
+}
+
+function AuthModal({
+  locale,
+  mode,
+  form,
+  onChange,
+  onClose,
+  onSubmit,
+  onSwitchMode,
+  notice,
+  loading,
+}) {
+  const text = copy[locale];
+  const isSignup = mode === 'signup';
+
+  return (
+    <div className="auth-backdrop" onClick={onClose}>
+      <section className="auth-card" onClick={(event) => event.stopPropagation()}>
+        <button className="auth-close" onClick={onClose}>
+          {text.authClose}
+        </button>
+
+        <p className="auth-kicker">{isSignup ? text.signIn : text.logIn}</p>
+        <h2 className="auth-heading">
+          {isSignup ? text.authSignupHeading : text.authLoginHeading}
+        </h2>
+        <p className="auth-blurb">
+          {isSignup ? text.authSignupBlurb : text.authLoginBlurb}
+        </p>
+
+        <form className="auth-form" onSubmit={onSubmit}>
+          {isSignup && (
+            <label className="auth-field">
+              <span>{text.authName}</span>
+              <input
+                type="text"
+                value={form.name}
+                onChange={(event) => onChange('name', event.target.value)}
+                placeholder={text.authNamePlaceholder}
+                autoFocus
+              />
+            </label>
+          )}
+
+          <label className="auth-field">
+            <span>{text.authEmail}</span>
+            <input
+              type="email"
+              value={form.email}
+              onChange={(event) => onChange('email', event.target.value)}
+              placeholder={text.authEmailPlaceholder}
+              autoFocus={!isSignup}
+            />
+          </label>
+
+          <label className="auth-field">
+            <span>{text.authPassword}</span>
+            <input
+              type="password"
+              value={form.password}
+              onChange={(event) => onChange('password', event.target.value)}
+              placeholder={text.authPasswordPlaceholder}
+            />
+          </label>
+
+          {isSignup && (
+            <label className="auth-field">
+              <span>{text.authConfirmPassword}</span>
+              <input
+                type="password"
+                value={form.confirmPassword}
+                onChange={(event) => onChange('confirmPassword', event.target.value)}
+                placeholder={text.authConfirmPasswordPlaceholder}
+              />
+            </label>
+          )}
+
+          {notice && <p className="auth-notice">{notice}</p>}
+
+          <div className="auth-actions">
+            <button className="toolbar-button primary" type="submit" disabled={loading}>
+              {loading
+                ? text.authWorking
+                : isSignup
+                  ? text.authSignupSubmit
+                  : text.authLoginSubmit}
+            </button>
+            <button
+              className="auth-switch"
+              type="button"
+              onClick={() => onSwitchMode(isSignup ? 'login' : 'signup')}
+            >
+              {isSignup ? text.authSwitchToLogin : text.authSwitchToSignup}
+            </button>
+          </div>
+        </form>
+      </section>
+    </div>
+  );
+}
+
+function GameScreen({ locale, mode, activeUser, isVisible, puzzleDate, onOpenArchive }) {
   const text = copy[locale];
   const [activeGrid, setActiveGrid] = useState(() =>
-    getSnapshotGrid(),
+    getInitialGrid(mode, puzzleDate),
   );
   const [cells, setCells] = useState(createEmptyCells);
   const [selectedCell, setSelectedCell] = useState(null);
@@ -413,17 +1180,39 @@ function GameScreen({ locale }) {
   const [message, setMessage] = useState(text.defaultMessage);
   const [editorNotice, setEditorNotice] = useState('');
   const [guessCount, setGuessCount] = useState(0);
+  const [dailyResultLoading, setDailyResultLoading] = useState(false);
+  const [hasLocalDailyRestore, setHasLocalDailyRestore] = useState(false);
+  const [streakStats, setStreakStats] = useState({ currentStreak: 0, bestStreak: 0 });
+  const [showRarity, setShowRarity] = useState(true);
 
   const score = Object.values(cells).filter(
     (cell) => cell.result === 'correct',
   ).length;
   const guessesRemaining = MAX_GUESSES - guessCount;
   const isGameOver = guessCount >= MAX_GUESSES;
+  const isDailyMode = mode === 'daily';
   const localizedGrid = {
     ...activeGrid,
     rows: activeGrid.rows.map((category) => localizeCategory(category, locale)),
     columns: activeGrid.columns.map((category) => localizeCategory(category, locale)),
   };
+  const cellMeta = Object.fromEntries(
+    activeGrid.rows.flatMap((row, rowIndex) =>
+      activeGrid.columns.map((column, columnIndex) => {
+        const count = getEligibleIntersectionCount(row.id, column.id, eligibility);
+        const band = getRarityBandLabel(count, text);
+
+        return [
+          getCellKey(rowIndex, columnIndex),
+          {
+            count,
+            tone: getRarityTone(count),
+            label: text.rarityCount(count, band),
+          },
+        ];
+      }),
+    ),
+  );
   const allPlayers = Object.values(playersById);
   const query = draftName.trim().toLowerCase();
   const suggestions = (query
@@ -434,6 +1223,206 @@ function GameScreen({ locale }) {
       })
     : allPlayers
   ).slice(0, 8);
+
+  async function refreshStreakStats(userId) {
+    if (!supabase) {
+      const mergedDates = mergeCompletedDatesWithLocal([], puzzleDate, userId);
+      setStreakStats(computeStreakStats(mergedDates, puzzleDate));
+      return;
+    }
+
+    const { data, error } = await supabase
+      .from('daily_results')
+      .select('puzzle_date')
+      .eq('user_id', userId)
+      .not('completed_at', 'is', null)
+      .order('puzzle_date', { ascending: true });
+
+    if (error) {
+      const mergedDates = mergeCompletedDatesWithLocal([], puzzleDate, userId);
+      setStreakStats(computeStreakStats(mergedDates, puzzleDate));
+      return;
+    }
+
+    const mergedDates = mergeCompletedDatesWithLocal(
+      data.map((row) => row.puzzle_date),
+      puzzleDate,
+      userId,
+    );
+
+    setStreakStats(
+      computeStreakStats(mergedDates, puzzleDate),
+    );
+  }
+
+  useEffect(() => {
+    if (!isDailyMode || !isVisible) {
+      return;
+    }
+
+    if (!activeUser || !supabase) {
+      setStreakStats({ currentStreak: 0, bestStreak: 0 });
+      return;
+    }
+
+    let isMounted = true;
+
+    async function loadStreakStats() {
+      await refreshStreakStats(activeUser.id);
+
+      if (!isMounted) {
+        return;
+      }
+    }
+
+    loadStreakStats();
+
+    return () => {
+      isMounted = false;
+    };
+  }, [activeUser, isDailyMode, isVisible, puzzleDate]);
+
+  useEffect(() => {
+    if (!isDailyMode || !isVisible) {
+      return;
+    }
+
+    const localResult = readStoredDailyResult(puzzleDate, activeUser?.id);
+
+    if (localResult) {
+      setHasLocalDailyRestore(true);
+      if ((localResult.guess_count ?? 0) >= MAX_GUESSES) {
+        addCompletedHistoryDate(activeUser?.id, localResult.puzzle_date ?? puzzleDate);
+      }
+      setActiveGrid(getSnapshotGrid(puzzleDate));
+      setCells(hydrateCells(localResult.cells, locale));
+      setGuessCount(localResult.guess_count ?? 0);
+      setSelectedCell(null);
+      setSelectedCategory(null);
+      setDraftName('');
+      setEditorNotice('');
+      setMessage(activeUser ? text.dailySyncLoaded : text.dailyGuestNotice);
+    }
+
+    if (!activeUser || !supabase) {
+      setActiveGrid(getSnapshotGrid(puzzleDate));
+      if (!localResult) {
+        setHasLocalDailyRestore(false);
+        setCells(createEmptyCells());
+        setGuessCount(0);
+      }
+      setSelectedCell(null);
+      setSelectedCategory(null);
+      setDraftName('');
+      setEditorNotice('');
+      if (!localResult) {
+        setMessage(activeUser ? text.defaultMessage : text.dailyGuestNotice);
+      }
+      setDailyResultLoading(false);
+      return;
+    }
+
+    let isMounted = true;
+
+    async function loadDailyResult() {
+      setDailyResultLoading(true);
+      if (!localResult) {
+        setMessage(text.dailySyncLoading);
+      }
+
+      const { data, error } = await supabase
+        .from('daily_results')
+        .select('cells, guess_count')
+        .eq('user_id', activeUser.id)
+        .eq('puzzle_date', puzzleDate)
+        .maybeSingle();
+
+      if (!isMounted) {
+        return;
+      }
+
+      if (error) {
+        setDailyResultLoading(false);
+        setMessage(text.dailySyncError);
+        return;
+      }
+
+      setActiveGrid(getSnapshotGrid(puzzleDate));
+
+      if (data) {
+        setCells(hydrateCells(data.cells, locale));
+        setGuessCount(data.guess_count ?? 0);
+        writeStoredDailyResult(puzzleDate, activeUser.id, data);
+        if ((data.guess_count ?? 0) >= MAX_GUESSES) {
+          addCompletedHistoryDate(activeUser.id, puzzleDate);
+        }
+        setHasLocalDailyRestore(true);
+        setMessage(text.dailySyncLoaded);
+      } else {
+        if (!localResult) {
+          setHasLocalDailyRestore(false);
+          setCells(createEmptyCells());
+          setGuessCount(0);
+          setMessage(text.defaultMessage);
+        }
+      }
+
+      setSelectedCell(null);
+      setSelectedCategory(null);
+      setDraftName('');
+      setEditorNotice('');
+      setDailyResultLoading(false);
+    }
+
+    loadDailyResult();
+
+    return () => {
+      isMounted = false;
+    };
+  }, [activeUser, isDailyMode, isVisible, locale, puzzleDate, text.dailyGuestNotice, text.dailySyncError, text.dailySyncLoaded, text.dailySyncLoading, text.defaultMessage]);
+
+  async function persistDailyResult(nextCells, nextGuessCount, nextScore) {
+    if (!isDailyMode) {
+      return;
+    }
+
+    // One row per user per puzzle date keeps the daily board resumable across refreshes and languages.
+    const payload = {
+      puzzle_date: puzzleDate,
+      score: nextScore,
+      guess_count: nextGuessCount,
+      cells: serializeCells(nextCells),
+      completed_at: nextGuessCount >= MAX_GUESSES ? new Date().toISOString() : null,
+      updated_at: new Date().toISOString(),
+    };
+
+    writeStoredDailyResult(puzzleDate, activeUser?.id, payload);
+
+    if (nextGuessCount >= MAX_GUESSES) {
+      addCompletedHistoryDate(activeUser?.id, puzzleDate);
+      void refreshStreakStats(activeUser?.id);
+    }
+
+    if (!activeUser || !supabase) {
+      return;
+    }
+
+    payload.user_id = activeUser.id;
+
+    const { error } = await supabase.from('daily_results').upsert(payload, {
+      onConflict: 'user_id,puzzle_date',
+    });
+
+    if (error) {
+      setMessage(text.dailySyncError);
+      return;
+    }
+
+    if (nextGuessCount >= MAX_GUESSES) {
+      void refreshStreakStats(activeUser.id);
+    }
+
+  }
 
   function handleCellClick(rowIndex, columnIndex) {
     const cellKey = getCellKey(rowIndex, columnIndex);
@@ -494,16 +1483,17 @@ function GameScreen({ locale }) {
     );
     const nextGuessCount = guessCount + 1;
     const nextScore = isCorrect ? score + 1 : score;
-
-    setCells((currentCells) => ({
-      ...currentCells,
+    const nextCells = {
+      ...cells,
       [cellKey]: {
         playerId: player.id,
         playerName: getPlayerDisplayName(player, locale),
         result: isCorrect ? 'correct' : 'incorrect',
         locked: isCorrect,
       },
-    }));
+    };
+
+    setCells(nextCells);
     setGuessCount(nextGuessCount);
     setMessage(
       nextGuessCount >= MAX_GUESSES
@@ -519,10 +1509,13 @@ function GameScreen({ locale }) {
 
     setEditorNotice('');
     closeEditor();
+    void persistDailyResult(nextCells, nextGuessCount, nextScore);
   }
 
   function handleReset() {
-    setActiveGrid(getSnapshotGrid());
+    if (isDailyMode) {
+      setActiveGrid(getSnapshotGrid(puzzleDate));
+    }
     setCells(createEmptyCells());
     setGuessCount(0);
     setSelectedCell(null);
@@ -530,10 +1523,14 @@ function GameScreen({ locale }) {
     setShowHelp(false);
     setDraftName('');
     setEditorNotice('');
-    setMessage(text.resetMessage);
+    setMessage(isDailyMode ? text.dailyResetMessage : text.resetMessage);
   }
 
   function handleNewGrid() {
+    if (isDailyMode) {
+      return;
+    }
+
     setActiveGrid(createRandomGridFromEligibility(eligibility));
     setCells(createEmptyCells());
     setGuessCount(0);
@@ -551,19 +1548,59 @@ function GameScreen({ locale }) {
         <div className="hero-main">
           <p className="eyebrow">{text.eyebrow}</p>
           <h1>{text.title}</h1>
-          <button
-            className={showHelp ? 'info-button active' : 'info-button'}
-            onClick={() => setShowHelp((current) => !current)}
-          >
-            {text.howItWorks}
-          </button>
+          <div className="hero-actions">
+            <button
+              className={showHelp ? 'info-button active' : 'info-button'}
+              onClick={() => setShowHelp((current) => !current)}
+            >
+              {text.howItWorks}
+            </button>
+            <button
+              className={showRarity ? 'info-button active' : 'info-button'}
+              onClick={() => setShowRarity((current) => !current)}
+              type="button"
+            >
+              {showRarity ? text.rarityToggleOn : text.rarityToggleOff}
+            </button>
+            {isDailyMode && (
+              <button className="info-button" onClick={onOpenArchive} type="button">
+                {text.archive}
+              </button>
+            )}
+          </div>
+          {isDailyMode && (
+            <div className="daily-meta">
+              <p className="daily-meta-title">{text.dailyBoardLabel(puzzleDate)}</p>
+              <p className="daily-meta-note">{text.dailyBoardNotice}</p>
+              {activeUser && (
+                <div className="daily-stats">
+                  <div className="daily-stat-chip">
+                    <span>{text.streak}</span>
+                    <strong>{text.streakDays(streakStats.currentStreak)}</strong>
+                  </div>
+                  <div className="daily-stat-chip">
+                    <span>{text.bestStreak}</span>
+                    <strong>{text.streakDays(streakStats.bestStreak)}</strong>
+                  </div>
+                </div>
+              )}
+            </div>
+          )}
         </div>
 
         <div className="score-panel">
           <span>{text.score}</span>
           <strong>{score} / 9</strong>
           <small>
-            {isGameOver ? text.noGuesses : text.guessesRemaining(guessesRemaining)}
+            {dailyResultLoading
+              ? hasLocalDailyRestore
+                ? isGameOver
+                  ? text.noGuesses
+                  : text.guessesRemaining(guessesRemaining)
+                : text.dailySyncLoading
+              : isGameOver
+                ? text.noGuesses
+                : text.guessesRemaining(guessesRemaining)}
           </small>
         </div>
 
@@ -576,12 +1613,16 @@ function GameScreen({ locale }) {
       </section>
 
       <div className="toolbar">
-        <button className="toolbar-button primary" onClick={handleNewGrid}>
-          {text.newGrid}
-        </button>
-        <button className="toolbar-button" onClick={handleReset}>
-          {text.reset}
-        </button>
+        {!isDailyMode && (
+          <button className="toolbar-button primary" onClick={handleNewGrid}>
+            {text.newGrid}
+          </button>
+        )}
+        {!isDailyMode && (
+          <button className="toolbar-button" onClick={handleReset}>
+            {text.reset}
+          </button>
+        )}
         <p className="status-text">{message}</p>
       </div>
 
@@ -613,6 +1654,7 @@ function GameScreen({ locale }) {
           onCellClick={handleCellClick}
           onCategoryClick={setSelectedCategory}
           emptyLabel={text.selectPlayer}
+          cellMeta={showRarity ? cellMeta : undefined}
         />
       )}
 
@@ -627,6 +1669,11 @@ function GameScreen({ locale }) {
               {localizedGrid.rows[selectedCell.rowIndex].label} +{' '}
               {localizedGrid.columns[selectedCell.columnIndex].label}
             </p>
+            {showRarity && (
+              <p className="editor-rarity">
+                {cellMeta[getCellKey(selectedCell.rowIndex, selectedCell.columnIndex)]?.label}
+              </p>
+            )}
 
             <input
               className="player-input"
@@ -673,31 +1720,290 @@ function GameScreen({ locale }) {
 }
 
 export default function App() {
-  const [activeTab, setActiveTab] = useState('ja');
+  const [activeLocale, setActiveLocale] = useState('ja');
+  const [activeMode, setActiveMode] = useState('daily');
+  const [activeView, setActiveView] = useState('game');
+  const [puzzleDate, setPuzzleDate] = useState(getCurrentPuzzleDate);
+  const [authMode, setAuthMode] = useState(null);
+  const [authNotice, setAuthNotice] = useState('');
+  const [authLoading, setAuthLoading] = useState(false);
+  const [authSession, setAuthSession] = useState(null);
+  const [authForms, setAuthForms] = useState({
+    login: {
+      email: '',
+      password: '',
+    },
+    signup: {
+      name: '',
+      email: '',
+      password: '',
+      confirmPassword: '',
+    },
+  });
+
+  function handleAuthFieldChange(mode, field, value) {
+    setAuthForms((current) => ({
+      ...current,
+      [mode]: {
+        ...current[mode],
+        [field]: value,
+      },
+    }));
+  }
+
+  useEffect(() => {
+    if (!supabase) {
+      return undefined;
+    }
+
+    let isMounted = true;
+
+    supabase.auth.getSession().then(({ data }) => {
+      if (isMounted) {
+        setAuthSession(data.session ?? null);
+      }
+    });
+
+    const {
+      data: { subscription },
+    } = supabase.auth.onAuthStateChange((_, session) => {
+      setAuthSession(session ?? null);
+    });
+
+    return () => {
+      isMounted = false;
+      subscription.unsubscribe();
+    };
+  }, []);
+
+  useEffect(() => {
+    const intervalId = window.setInterval(() => {
+      setPuzzleDate((current) => {
+        const next = getCurrentPuzzleDate();
+        return current === next ? current : next;
+      });
+    }, 60_000);
+
+    return () => {
+      window.clearInterval(intervalId);
+    };
+  }, []);
+
+  async function handleAuthSubmit(event) {
+    event.preventDefault();
+
+    if (!authMode) {
+      return;
+    }
+
+    const text = copy[activeLocale];
+
+    if (!hasSupabaseConfig || !supabase) {
+      setAuthNotice(text.authConfigMissing);
+      return;
+    }
+
+    if (authMode === 'signup' && authForms.signup.password !== authForms.signup.confirmPassword) {
+      setAuthNotice(text.authPasswordMismatch);
+      return;
+    }
+
+    setAuthLoading(true);
+    setAuthNotice('');
+
+    try {
+      if (authMode === 'login') {
+        const { error } = await supabase.auth.signInWithPassword({
+          email: authForms.login.email,
+          password: authForms.login.password,
+        });
+
+        if (error) {
+          throw error;
+        }
+
+        setAuthNotice(text.authLoginSuccess);
+        setAuthMode(null);
+      } else {
+        const { data, error } = await supabase.auth.signUp({
+          email: authForms.signup.email,
+          password: authForms.signup.password,
+          options: {
+            data: {
+              display_name: authForms.signup.name,
+            },
+          },
+        });
+
+        if (error) {
+          throw error;
+        }
+
+        setAuthNotice(text.authSignupSuccess);
+        if (data.session) {
+          setAuthMode(null);
+        }
+      }
+    } catch (error) {
+      setAuthNotice(error.message);
+      return;
+    } finally {
+      setAuthLoading(false);
+    }
+  }
+
+  async function handleLogout() {
+    if (!supabase) {
+      return;
+    }
+
+    await supabase.auth.signOut();
+  }
+
+  function openAuthModal(nextMode) {
+    setAuthNotice('');
+    setAuthMode(nextMode);
+  }
+
+  function closeAuthModal() {
+    setAuthNotice('');
+    setAuthMode(null);
+  }
+
+  function switchAuthMode(nextMode) {
+    setAuthNotice('');
+    setAuthMode(nextMode);
+  }
+
+  const activeUser = authSession?.user ?? null;
+  const activeText = copy[activeLocale];
 
   return (
     <div className="page-shell">
-      <nav className="tab-bar" aria-label="Page tabs">
-        <button
-          className={activeTab === 'ja' ? 'tab-button active' : 'tab-button'}
-          onClick={() => setActiveTab('ja')}
-        >
-          日本語
-        </button>
-        <button
-          className={activeTab === 'en' ? 'tab-button active' : 'tab-button'}
-          onClick={() => setActiveTab('en')}
-        >
-          English
-        </button>
-      </nav>
+      <header className="top-bar">
+        <nav className="tab-bar" aria-label="Language tabs">
+          <button
+            className={activeLocale === 'ja' ? 'tab-button active' : 'tab-button'}
+            onClick={() => setActiveLocale('ja')}
+          >
+            日本語
+          </button>
+          <button
+            className={activeLocale === 'en' ? 'tab-button active' : 'tab-button'}
+            onClick={() => setActiveLocale('en')}
+          >
+            English
+          </button>
+        </nav>
 
-      <div className={activeTab === 'ja' ? 'tab-panel active' : 'tab-panel'}>
-        <GameScreen locale="ja" />
-      </div>
-      <div className={activeTab === 'en' ? 'tab-panel active' : 'tab-panel'}>
-        <GameScreen locale="en" />
-      </div>
+        <div className="account-actions">
+          {activeUser ? (
+            <>
+              <div className="account-badge">
+                <span>{activeText.authLoggedInAs}</span>
+                <strong>{activeUser.user_metadata?.display_name || activeUser.email}</strong>
+              </div>
+              <button className="account-button secondary" onClick={handleLogout}>
+                {activeText.authLogout}
+              </button>
+            </>
+          ) : (
+            <>
+              <button className="account-button secondary" onClick={() => openAuthModal('login')}>
+                {activeText.logIn}
+              </button>
+              <button className="account-button primary" onClick={() => openAuthModal('signup')}>
+                {activeText.signIn}
+              </button>
+            </>
+          )}
+        </div>
+      </header>
+
+      {activeView === 'game' ? (
+        <>
+          <nav className="mode-switch" aria-label="Game mode tabs">
+            <button
+              className={activeMode === 'daily' ? 'mode-switch-button active' : 'mode-switch-button'}
+              onClick={() => setActiveMode('daily')}
+            >
+              {copy[activeLocale].dailyTab}
+            </button>
+            <button
+              className={activeMode === 'practice' ? 'mode-switch-button active' : 'mode-switch-button'}
+              onClick={() => setActiveMode('practice')}
+            >
+              {copy[activeLocale].practiceTab}
+            </button>
+          </nav>
+
+          <div className={activeLocale === 'ja' ? 'tab-panel active' : 'tab-panel'}>
+            <div className={activeMode === 'daily' ? 'mode-panel active' : 'mode-panel'}>
+              <GameScreen
+                locale="ja"
+                mode="daily"
+                activeUser={activeUser}
+                isVisible={activeLocale === 'ja' && activeMode === 'daily'}
+                puzzleDate={puzzleDate}
+                onOpenArchive={() => setActiveView('archive')}
+              />
+            </div>
+            <div className={activeMode === 'practice' ? 'mode-panel active' : 'mode-panel'}>
+              <GameScreen
+                locale="ja"
+                mode="practice"
+                activeUser={activeUser}
+                isVisible={activeLocale === 'ja' && activeMode === 'practice'}
+                puzzleDate={puzzleDate}
+                onOpenArchive={() => setActiveView('archive')}
+              />
+            </div>
+          </div>
+          <div className={activeLocale === 'en' ? 'tab-panel active' : 'tab-panel'}>
+            <div className={activeMode === 'daily' ? 'mode-panel active' : 'mode-panel'}>
+              <GameScreen
+                locale="en"
+                mode="daily"
+                activeUser={activeUser}
+                isVisible={activeLocale === 'en' && activeMode === 'daily'}
+                puzzleDate={puzzleDate}
+                onOpenArchive={() => setActiveView('archive')}
+              />
+            </div>
+            <div className={activeMode === 'practice' ? 'mode-panel active' : 'mode-panel'}>
+              <GameScreen
+                locale="en"
+                mode="practice"
+                activeUser={activeUser}
+                isVisible={activeLocale === 'en' && activeMode === 'practice'}
+                puzzleDate={puzzleDate}
+                onOpenArchive={() => setActiveView('archive')}
+              />
+            </div>
+          </div>
+        </>
+      ) : (
+        <ArchiveScreen
+          locale={activeLocale}
+          activeUser={activeUser}
+          puzzleDate={puzzleDate}
+          onBackToGame={() => setActiveView('game')}
+        />
+      )}
+
+      {authMode && (
+        <AuthModal
+          locale={activeLocale}
+          mode={authMode}
+          form={authForms[authMode]}
+          onChange={(field, value) => handleAuthFieldChange(authMode, field, value)}
+          onClose={closeAuthModal}
+          onSubmit={handleAuthSubmit}
+          onSwitchMode={switchAuthMode}
+          notice={authNotice}
+          loading={authLoading}
+        />
+      )}
     </div>
   );
 }

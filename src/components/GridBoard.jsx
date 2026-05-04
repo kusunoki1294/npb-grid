@@ -1,4 +1,4 @@
-function GridCell({ cell, onClick, emptyLabel }) {
+function GridCell({ cell, onClick, emptyLabel, meta }) {
   const stateClassName = cell.result
     ? cell.result === 'correct'
       ? 'grid-cell correct'
@@ -8,6 +8,11 @@ function GridCell({ cell, onClick, emptyLabel }) {
 
   return (
     <button className={stateClassName} onClick={onClick} disabled={cell.locked}>
+      {meta && (
+        <span className={`cell-rarity-chip ${meta.tone}`}>
+          {meta.label}
+        </span>
+      )}
       <span className={answerClassName}>
         {cell.playerName || emptyLabel}
       </span>
@@ -36,6 +41,7 @@ export default function GridBoard({
   onCellClick,
   onCategoryClick,
   emptyLabel,
+  cellMeta,
 }) {
   return (
     <section className="board-shell">
@@ -69,11 +75,12 @@ export default function GridBoard({
                   cell={cell}
                   onClick={() => onCellClick(rowIndex, columnIndex)}
                   emptyLabel={emptyLabel}
+                  meta={cellMeta?.[cellKey]}
                 />
               );
             })}
-          </div>
-        ))}
+        </div>
+      ))}
       </div>
     </section>
   );
