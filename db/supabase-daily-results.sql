@@ -39,6 +39,7 @@ with check (auth.uid() = user_id);
 
 create or replace function public.get_daily_leaderboard(target_puzzle_date date)
 returns table (
+  user_id uuid,
   display_name text,
   score integer,
   rarity_average numeric
@@ -49,6 +50,7 @@ set search_path = public, auth
 as $$
   with completed_boards as (
     select
+      dr.user_id,
       coalesce(
         nullif(u.raw_user_meta_data ->> 'display_name', ''),
         split_part(u.email, '@', 1),
@@ -63,6 +65,7 @@ as $$
       and dr.guess_count >= 9
   ),
     select
+      user_id,
       display_name,
       score,
       rarity_average

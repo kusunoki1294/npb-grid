@@ -636,6 +636,10 @@ function getCompletedHistoryKey(userId) {
   return `npb-daily-completed-history:${userId ?? 'guest'}`;
 }
 
+function getGuestMigrationKey(userId) {
+  return `npb-guest-migration:${userId}`;
+}
+
 function readCompletedHistory(userId) {
   if (typeof window === 'undefined') {
     return [];
@@ -703,6 +707,24 @@ function listStoredDailyResults(userId) {
   return results.sort((left, right) => right.puzzle_date.localeCompare(left.puzzle_date));
 }
 
+function pickPreferredDailyResult(currentResult, nextResult) {
+  if (!currentResult) {
+    return nextResult;
+  }
+
+  const currentGuessCount = currentResult.guess_count ?? 0;
+  const nextGuessCount = nextResult.guess_count ?? 0;
+
+  if (nextGuessCount !== currentGuessCount) {
+    return nextGuessCount > currentGuessCount ? nextResult : currentResult;
+  }
+
+  const currentUpdatedAt = currentResult.updated_at ?? '';
+  const nextUpdatedAt = nextResult.updated_at ?? '';
+
+  return nextUpdatedAt >= currentUpdatedAt ? nextResult : currentResult;
+}
+
 function getArchiveDatesFromStart(startDate, endDate) {
   const dates = [];
   let cursor = endDate;
@@ -740,6 +762,64 @@ function ScoreValue({ score, total = 9 }) {
       <span className="leaderboard-score-part">{total}</span>
     </span>
   );
+}
+
+function buildLeaderboardSlots(rows, totalSlots = 5) {
+  return Array.from({ length: totalSlots }, (_, index) => rows[index] ?? null);
+}
+
+function getLeaderboardIdentity(user) {
+  if (!user) {
+    return { userId: null, displayName: null };
+  }
+
+  return {
+    userId: user.id ?? null,
+    displayName:
+      user.user_metadata?.display_name ||
+      user.email?.split('@')[0] ||
+      null,
+  };
+}
+
+function mergeDailyResultsByDate(...resultSets) {
+  const merged = new Map();
+
+  for (const results of resultSets) {
+    for (const result of results ?? []) {
+      if (!result?.puzzle_date) {
+        continue;
+      }
+
+      const existing = merged.get(result.puzzle_date);
+      const nextUpdatedAt = result.updated_at ?? '';
+      const existingUpdatedAt = existing?.updated_at ?? '';
+
+      if (!existing || nextUpdatedAt >= existingUpdatedAt) {
+        merged.set(result.puzzle_date, result);
+      }
+    }
+  }
+
+  return [...merged.values()].sort((left, right) => right.puzzle_date.localeCompare(left.puzzle_date));
+}
+
+function dedupeLeaderboardRowsByDisplayName(rows) {
+  const seenNames = new Set();
+  const deduped = [];
+
+  for (const row of rows ?? []) {
+    const key = (row?.display_name ?? '').trim().toLowerCase();
+
+    if (!key || seenNames.has(key)) {
+      continue;
+    }
+
+    seenNames.add(key);
+    deduped.push(row);
+  }
+
+  return deduped;
 }
 
 function getPreviousDateString(dateString) {
@@ -821,10 +901,13 @@ function SummaryScreen({
   leaderboardRows,
   leaderboardLoading,
   hasLeaderboardSupport,
+  activeUserId,
+  activeUserDisplayName,
 }) {
   const text = copy[locale];
   const cellList = Object.values(cells);
   const solvedPlayers = cellList.filter((cell) => cell.result === 'correct');
+  const leaderboardSlots = buildLeaderboardSlots(leaderboardRows);
 
   return (
     <section className="summary-card">
@@ -901,8 +984,6 @@ function SummaryScreen({
             <p className="summary-note">{text.leaderboardLoading}</p>
           ) : !hasLeaderboardSupport ? (
             <p className="summary-note">{text.leaderboardUnavailable}</p>
-          ) : leaderboardRows.length === 0 ? (
-            <p className="summary-note">{text.leaderboardEmpty}</p>
           ) : (
             <div className="summary-leaderboard-table">
               <div className="summary-leaderboard-head">
@@ -911,17 +992,27 @@ function SummaryScreen({
                 <span>{text.leaderboardScore}</span>
                 <span>{text.leaderboardRarityScore}</span>
               </div>
-              {leaderboardRows.map((entry, index) => (
-                <div key={`${entry.display_name}-${index}`} className="summary-leaderboard-row">
+              {leaderboardSlots.map((entry, index) => (
+                <div
+                  key={`${entry?.display_name ?? 'empty'}-${index}`}
+                  className={
+                    (
+                      (entry?.user_id && entry.user_id === activeUserId) ||
+                      (entry?.display_name && activeUserDisplayName && entry.display_name === activeUserDisplayName)
+                    )
+                      ? 'summary-leaderboard-row current-user'
+                      : 'summary-leaderboard-row'
+                  }
+                >
                   <span>{index + 1}</span>
                   <div className="summary-leaderboard-player">
-                    <strong>{entry.display_name}</strong>
-                    {entry.rarity_average === null || entry.rarity_average === undefined ? null : (
+                    <strong>{entry?.display_name ?? '-'}</strong>
+                    {entry?.rarity_average === null || entry?.rarity_average === undefined ? null : (
                       <small>{text.leaderboardRarityValue(Number(entry.rarity_average))}</small>
                     )}
                   </div>
-                  <span><ScoreValue score={entry.score} /></span>
-                  <span />
+                  <span>{entry ? <ScoreValue score={entry.score} /> : '-'}</span>
+                  <span>-</span>
                 </div>
               ))}
             </div>
@@ -934,7 +1025,11 @@ function SummaryScreen({
 
 function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame, onOpenBoard }) {
   const text = copy[locale];
-  const storedResults = listStoredDailyResults(activeUser?.id);
+  const [remoteResults, setRemoteResults] = useState([]);
+  const storedResults = mergeDailyResultsByDate(
+    listStoredDailyResults(activeUser?.id),
+    remoteResults,
+  );
   const resultMap = Object.fromEntries(
     storedResults.map((result) => [result.puzzle_date, result]),
   );
@@ -1042,6 +1137,40 @@ function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame, onOpenBoa
   const topPlayers = createLeaderboard(playerCounts);
   const topTeams = createLeaderboard(teamCounts);
   const topCategories = createLeaderboard(categoryCounts, 5);
+
+  useEffect(() => {
+    if (!activeUser || !supabase) {
+      setRemoteResults([]);
+      return;
+    }
+
+    let isMounted = true;
+
+    async function loadArchiveResults() {
+      const { data, error } = await supabase
+        .from('daily_results')
+        .select('puzzle_date, score, guess_count, cells, rarity_average, updated_at')
+        .eq('user_id', activeUser.id)
+        .order('puzzle_date', { ascending: false });
+
+      if (!isMounted) {
+        return;
+      }
+
+      if (error) {
+        setRemoteResults([]);
+        return;
+      }
+
+      setRemoteResults(Array.isArray(data) ? data : []);
+    }
+
+    loadArchiveResults();
+
+    return () => {
+      isMounted = false;
+    };
+  }, [activeUser]);
 
   return (
     <main className="archive-shell">
@@ -1337,6 +1466,7 @@ function GameScreen({
       })
     : allPlayers
   ).slice(0, 8);
+  const leaderboardIdentity = getLeaderboardIdentity(activeUser);
 
   async function refreshStreakStats(userId) {
     if (!supabase) {
@@ -1400,7 +1530,9 @@ function GameScreen({
         return;
       }
 
-      setLeaderboardRows(Array.isArray(data) ? data : []);
+      setLeaderboardRows(
+        dedupeLeaderboardRowsByDisplayName(Array.isArray(data) ? data : []),
+      );
       setLeaderboardLoading(false);
     }
 
@@ -1834,6 +1966,8 @@ function GameScreen({
           leaderboardRows={leaderboardRows}
           leaderboardLoading={leaderboardLoading}
           hasLeaderboardSupport={hasLeaderboardSupport}
+          activeUserId={leaderboardIdentity.userId}
+          activeUserDisplayName={leaderboardIdentity.displayName}
         />
       ) : (
         <GridBoard
@@ -1929,6 +2063,7 @@ export default function App() {
       confirmPassword: '',
     },
   });
+  const activeUser = authSession?.user ?? null;
 
   function handleAuthFieldChange(mode, field, value) {
     setAuthForms((current) => ({
@@ -1977,6 +2112,96 @@ export default function App() {
       window.clearInterval(intervalId);
     };
   }, []);
+
+  useEffect(() => {
+    if (!activeUser || !supabase || typeof window === 'undefined') {
+      return;
+    }
+
+    if (window.localStorage.getItem(getGuestMigrationKey(activeUser.id)) === 'done') {
+      return;
+    }
+
+    let isMounted = true;
+
+    async function migrateGuestHistory() {
+      const guestResults = listStoredDailyResults();
+      const guestCompletedDates = readCompletedHistory();
+
+      if (guestResults.length === 0 && guestCompletedDates.length === 0) {
+        window.localStorage.setItem(getGuestMigrationKey(activeUser.id), 'done');
+        return;
+      }
+
+      const localUserResults = listStoredDailyResults(activeUser.id);
+      const { data: remoteResults, error } = await supabase
+        .from('daily_results')
+        .select('puzzle_date, score, guess_count, cells, rarity_total, rarity_hits, rarity_average, completed_at, updated_at')
+        .eq('user_id', activeUser.id);
+
+      if (!isMounted || error) {
+        return;
+      }
+
+      const mergedByDate = new Map();
+
+      for (const result of [...(remoteResults ?? []), ...localUserResults, ...guestResults]) {
+        if (!result?.puzzle_date) {
+          continue;
+        }
+
+        mergedByDate.set(
+          result.puzzle_date,
+          pickPreferredDailyResult(mergedByDate.get(result.puzzle_date), result),
+        );
+      }
+
+      const mergedResults = [...mergedByDate.values()];
+
+      for (const result of mergedResults) {
+        writeStoredDailyResult(result.puzzle_date, activeUser.id, {
+          ...result,
+          puzzle_date: result.puzzle_date,
+        });
+      }
+
+      writeCompletedHistory(
+        activeUser.id,
+        [...readCompletedHistory(activeUser.id), ...guestCompletedDates],
+      );
+
+      const rowsToUpsert = mergedResults.map((result) => ({
+        user_id: activeUser.id,
+        puzzle_date: result.puzzle_date,
+        score: result.score ?? 0,
+        guess_count: result.guess_count ?? 0,
+        cells: result.cells ?? {},
+        rarity_total: result.rarity_total ?? 0,
+        rarity_hits: result.rarity_hits ?? 0,
+        rarity_average: result.rarity_average ?? null,
+        completed_at: result.completed_at ?? ((result.guess_count ?? 0) >= MAX_GUESSES ? new Date().toISOString() : null),
+        updated_at: result.updated_at ?? new Date().toISOString(),
+      }));
+
+      if (rowsToUpsert.length > 0) {
+        const { error: upsertError } = await supabase.from('daily_results').upsert(rowsToUpsert, {
+          onConflict: 'user_id,puzzle_date',
+        });
+
+        if (!isMounted || upsertError) {
+          return;
+        }
+      }
+
+      window.localStorage.setItem(getGuestMigrationKey(activeUser.id), 'done');
+    }
+
+    migrateGuestHistory();
+
+    return () => {
+      isMounted = false;
+    };
+  }, [activeUser]);
 
   const puzzleDate = selectedDailyDate ?? currentPuzzleDate;
 
@@ -2078,8 +2303,8 @@ export default function App() {
     setAuthMode(nextMode);
   }
 
-  const activeUser = authSession?.user ?? null;
   const activeText = copy[activeLocale];
+  const leaderboardIdentity = getLeaderboardIdentity(activeUser);
 
   return (
     <div className="page-shell">
