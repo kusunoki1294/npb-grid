@@ -1,6 +1,10 @@
 import { execFileSync } from 'node:child_process';
 import path from 'node:path';
+import battingSeasons from '../data/processed/battingSeasons.json' with { type: 'json' };
+import pitchingSeasons from '../data/processed/pitchingSeasons.json' with { type: 'json' };
+import playerAwards from '../data/processed/playerAwards.json' with { type: 'json' };
 import { categories } from '../src/data/categories.js';
+import { getIntersectionPlayerIds } from '../src/lib/categoryIntersection.js';
 import { processedRoot } from './_shared.js';
 
 const databasePath = path.join(processedRoot, 'npb.sqlite');
@@ -41,9 +45,15 @@ function shuffle(items) {
   return nextItems;
 }
 
-function intersection(leftIds, rightIds) {
-  const rightSet = new Set(rightIds);
-  return leftIds.filter((id) => rightSet.has(id));
+function getPlayableIntersection(rowCategory, columnCategory, eligibility) {
+  return getIntersectionPlayerIds(
+    rowCategory,
+    columnCategory,
+    eligibility,
+    playerAwards,
+    battingSeasons,
+    pitchingSeasons,
+  );
 }
 
 function createRandomGridFromDatabase(eligibility) {
@@ -56,9 +66,7 @@ function createRandomGridFromDatabase(eligibility) {
     const viableColumns = usableCategories.filter(
       (candidate) =>
         !rows.some((row) => row.id === candidate.id) &&
-        rows.every((row) =>
-          intersection(eligibility[row.id] ?? [], eligibility[candidate.id] ?? []).length > 0,
-        ),
+        rows.every((row) => getPlayableIntersection(row, candidate, eligibility).length > 0),
     );
 
     if (viableColumns.length < 3) {
@@ -68,7 +76,7 @@ function createRandomGridFromDatabase(eligibility) {
     const columns = shuffle(viableColumns).slice(0, 3);
     const cellCounts = rows.map((row) =>
       columns.map((column) =>
-        intersection(eligibility[row.id] ?? [], eligibility[column.id] ?? []).length,
+        getPlayableIntersection(row, column, eligibility).length,
       ),
     );
 

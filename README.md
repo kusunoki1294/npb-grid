@@ -14,6 +14,39 @@ npm run dev
 
 Then open the local Vite URL shown in the terminal.
 
+## Deployment note
+
+The app now supports shareable archive URLs through query parameters instead of path-based routing.
+
+- Daily board URL: `?date=YYYY-MM-DD`
+- Archive view URL: `?view=archive`
+- English locale URL: `?lang=en`
+
+This is intentional for a future Vercel deployment: query-string navigation works on a static Vite deploy without adding SPA rewrite rules.
+If you later switch the archive to path-based routes, add a Vercel rewrite so all app routes fall back to `index.html`.
+
+## Deploy on Vercel
+
+This project is ready to deploy to Vercel as a static Vite app.
+
+1. Import the GitHub repo into Vercel.
+2. Let Vercel detect the framework as `Vite`.
+3. Use the default build settings:
+   - Install command: `npm install`
+   - Build command: `npm run build`
+   - Output directory: `dist`
+4. Add these project environment variables in Vercel if you want Supabase auth and synced daily history:
+   - `VITE_SUPABASE_URL`
+   - `VITE_SUPABASE_ANON_KEY`
+
+Because archive sharing uses query parameters like `?date=2026-05-05&lang=en`, no Vercel SPA rewrite is required for the current app.
+
+If Supabase auth is enabled for the deployed site:
+
+- Set Supabase `Site URL` to your production Vercel domain.
+- Add local and preview redirect URLs in Supabase, especially if you later add OAuth or passwordless flows.
+- For Vercel previews, a wildcard like `https://*-<your-team-or-account>.vercel.app/**` is the standard pattern in Supabase docs.
+
 ## Supabase auth setup
 
 The account modal now supports real Supabase Auth.
@@ -70,8 +103,8 @@ For the first real import pass, start with:
 
 - Imported players now include Japanese names from the ProEyeKyuu registry, so Japanese mode no longer falls back to English-only imported names for those players.
 
-- Historical awards are built from official NPB award pages for 2002 to 2025 and written to `data/processed/playerAwards.json`.
-  Award-driven eligibility such as `Best Nine`, `Golden Glove`, `MVP Winner`, `Sawamura Award Winner`, and league leader categories now comes from the rebuilt historical dataset instead of the sample awards CSV.
+- Historical awards are written to `data/processed/playerAwards.json`.
+  Note: only some awards are currently recorded from 2002 onward, so award-based categories are still incomplete.
 
 ## Next TODO
 

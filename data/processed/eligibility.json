@@ -888,13 +888,7 @@
     "93795136",
     "93795138",
     "93795151",
-    "93993868",
-    "hayato-sakamoto",
-    "kazuma-okamoto",
-    "koji-uehara",
-    "sadaharu-oh",
-    "shigeo-nagashima",
-    "tomoyuki-sugano"
+    "93993868"
   ],
   "team:hanshin-tigers": [
     "01003863",
@@ -1589,8 +1583,7 @@
     "93995136",
     "95293868",
     "randy-bass",
-    "toru-murayama",
-    "yutaka-enatsu"
+    "toru-murayama"
   ],
   "team:yakult-swallows": [
     "01003807",
@@ -2186,10 +2179,6 @@
     "95293868",
     "97393868",
     "alex-ramirez",
-    "atsunori-inaba",
-    "atsuya-furuta",
-    "munetaka-murakami",
-    "tetsuto-yamada",
     "wladimir-balentien"
   ],
   "team:chunichi-dragons": [
@@ -3004,10 +2993,7 @@
     "93595114",
     "93793800",
     "93795157",
-    "93995134",
-    "kenshin-kawakami",
-    "kosuke-fukudome",
-    "takuya-asao"
+    "93995134"
   ],
   "team:hiroshima-toyo-carp": [
     "01003843",
@@ -3741,8 +3727,7 @@
     "93595151",
     "93793868",
     "93795132",
-    "93995159",
-    "koji-yamamoto"
+    "93995159"
   ],
   "team:yokohama-dena-baystars": [
     "01003882",
@@ -4478,6 +4463,7 @@
     "31733882",
     "31833825",
     "31833886",
+    "31835133",
     "31933823",
     "31933825",
     "31933843",
@@ -4816,11 +4802,7 @@
     "93493868",
     "93793801",
     "93993868",
-    "katsuya-nomura",
-    "kodai-senga",
-    "tadahito-iguchi",
-    "tsuyoshi-wada",
-    "yuki-yanagita"
+    "kodai-senga"
   ],
   "team:orix-buffaloes": [
     "01003804",
@@ -5866,11 +5848,7 @@
     "93693801",
     "93995132",
     "95693868",
-    "hisashi-yamada",
-    "ichiro-suzuki",
-    "masataka-yoshida",
-    "yoshinobu-yamamoto",
-    "yutaka-fukumoto"
+    "ichiro-suzuki"
   ],
   "team:chiba-lotte-marines": [
     "01003846",
@@ -6482,10 +6460,7 @@
     "93595135",
     "93595136",
     "93795134",
-    "93995155",
-    "hiromitsu-ochiai",
-    "roki-sasaki",
-    "tadahito-iguchi"
+    "93995155"
   ],
   "team:seibu-lions": [
     "01003806",
@@ -7225,12 +7200,7 @@
     "93395159",
     "93595118",
     "95393868",
-    "95593868",
-    "daisuke-matsuzaka",
-    "kazuhiro-wada",
-    "kazuhisa-inao",
-    "koji-akiyama",
-    "takeya-nakamura"
+    "95593868"
   ],
   "team:rakuten-eagles": [
     "01003886",
@@ -7569,10 +7539,7 @@
     "93395131",
     "93595151",
     "93795134",
-    "93995157",
-    "hideto-asamura",
-    "kazuo-matsui",
-    "masahiro-tanaka"
+    "93995157"
   ],
   "team:nippon-ham-fighters": [
     "01003849",
@@ -8158,14 +8125,13 @@
     "93395138",
     "93595150",
     "93595153",
-    "93795159",
-    "shohei-ohtani",
-    "yu-darvish"
+    "93795159"
   ],
   "award:mvp-winner": [
     "13315153",
     "21425116",
     "21425139",
+    "31835133",
     "33135133",
     "41045153",
     "41745135",
@@ -8174,8 +8140,7 @@
     "51955114",
     "53355134",
     "63965134",
-    "91495139",
-    "yuki-yanagita"
+    "91495139"
   ],
   "award:sawamura-award-winner": [
     "01103886",
@@ -8242,6 +8207,7 @@
     "31135133",
     "31335131",
     "31735138",
+    "31835133",
     "31835134",
     "41045153",
     "41445153",
@@ -8302,8 +8268,7 @@
     "91995134",
     "91995151",
     "93195137",
-    "kodai-senga",
-    "yuki-yanagita"
+    "kodai-senga"
   ],
   "award:golden-glove": [
     "01005113",
@@ -8372,6 +8337,7 @@
     "31733888",
     "31735112",
     "31735138",
+    "31835133",
     "31933884",
     "41045153",
     "41143880",
@@ -8473,8 +8439,7 @@
     "91995151",
     "93195137",
     "93395153",
-    "kodai-senga",
-    "yuki-yanagita"
+    "kodai-senga"
   ],
   "award:all-star": [],
   "award:japan-series-champion": [],
@@ -8486,6 +8451,7 @@
     "21625135",
     "31135133",
     "31735112",
+    "31835133",
     "41545114",
     "41745135",
     "41845136",
@@ -8497,8 +8463,7 @@
     "81085138",
     "81785137",
     "91495139",
-    "91995134",
-    "yuki-yanagita"
+    "91995134"
   ],
   "award:home-run-leader": [
     "03505136",
@@ -49418,45 +49383,11 @@
     "93995152",
     "93995153",
     "alex-ramirez",
-    "atsunori-inaba",
-    "atsuya-furuta",
-    "daisuke-matsuzaka",
-    "hayato-sakamoto",
-    "hideto-asamura",
-    "hiromitsu-ochiai",
-    "hisashi-yamada",
     "ichiro-suzuki",
-    "katsuya-nomura",
-    "kazuhiro-wada",
-    "kazuhisa-inao",
-    "kazuma-okamoto",
-    "kazuo-matsui",
-    "kenshin-kawakami",
     "kodai-senga",
-    "koji-akiyama",
-    "koji-uehara",
-    "koji-yamamoto",
-    "kosuke-fukudome",
-    "masahiro-tanaka",
-    "masataka-yoshida",
-    "munetaka-murakami",
     "randy-bass",
-    "roki-sasaki",
-    "sadaharu-oh",
-    "shigeo-nagashima",
-    "shohei-ohtani",
-    "takeya-nakamura",
-    "takuya-asao",
-    "tetsuto-yamada",
-    "tomoyuki-sugano",
     "toru-murayama",
-    "tsuyoshi-wada",
-    "wladimir-balentien",
-    "yoshinobu-yamamoto",
-    "yu-darvish",
-    "yuki-yanagita",
-    "yutaka-enatsu",
-    "yutaka-fukumoto"
+    "wladimir-balentien"
   ],
   "specialCategory:played-in-mlb": [],
   "specialCategory:foreign-born-player": [],
@@ -57507,46 +57438,11 @@
     "95693868",
     "97393868",
     "alex-ramirez",
-    "atsunori-inaba",
-    "atsuya-furuta",
-    "daisuke-matsuzaka",
-    "hayato-sakamoto",
-    "hideto-asamura",
-    "hiromitsu-ochiai",
-    "hisashi-yamada",
     "ichiro-suzuki",
-    "katsuya-nomura",
-    "kazuhiro-wada",
-    "kazuhisa-inao",
-    "kazuma-okamoto",
-    "kazuo-matsui",
-    "kenshin-kawakami",
     "kodai-senga",
-    "koji-akiyama",
-    "koji-uehara",
-    "koji-yamamoto",
-    "kosuke-fukudome",
-    "masahiro-tanaka",
-    "masataka-yoshida",
-    "munetaka-murakami",
     "randy-bass",
-    "roki-sasaki",
-    "sadaharu-oh",
-    "shigeo-nagashima",
-    "shohei-ohtani",
-    "tadahito-iguchi",
-    "takeya-nakamura",
-    "takuya-asao",
-    "tetsuto-yamada",
-    "tomoyuki-sugano",
     "toru-murayama",
-    "tsuyoshi-wada",
-    "wladimir-balentien",
-    "yoshinobu-yamamoto",
-    "yu-darvish",
-    "yuki-yanagita",
-    "yutaka-enatsu",
-    "yutaka-fukumoto"
+    "wladimir-balentien"
   ],
   "specialCategory:switch-hitter": [
     "01003863",

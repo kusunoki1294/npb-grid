@@ -29,7 +29,7 @@ const award = (label) =>
     heading: 'Award / Honor',
     subtitle: label,
     note:
-      'If this is paired with a team, the player must have earned this award or honor while playing for that team in the dataset. If it is paired with a non-team category, the player only needs to satisfy both categories somewhere in the dataset.',
+      'If this is paired with a team, the player must have earned this award or honor while playing for that team in the dataset. If it is paired with a non-team category, the player only needs to satisfy both categories somewhere in the dataset. Note: award categories are still incomplete and currently only cover some awards from 2002 onward.',
   });
 
 const position = (label) =>
@@ -37,7 +37,7 @@ const position = (label) =>
     heading: 'Position Rule',
     subtitle: label,
     note:
-      'The player must be listed at this position in the dataset. It does not need to be from the same season as another non-team category.',
+      'The player must have played this position for at least one game in the dataset. It does not need to be from the same season as another non-team category.',
   });
 
 const battingSeasonMilestone = (label) =>

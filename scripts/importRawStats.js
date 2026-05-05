@@ -343,8 +343,28 @@ function cleanSourceValue(value) {
   return normalizeName(decodeHtmlEntities(stripHtml(value)));
 }
 
+function canonicalizeEnglishName(value) {
+  const normalized = normalizeName(value ?? '');
+
+  if (!normalized.includes(',')) {
+    return normalized.toLowerCase();
+  }
+
+  const parts = normalized
+    .split(',')
+    .map((part) => part.trim())
+    .filter(Boolean);
+
+  if (parts.length < 2) {
+    return normalized.toLowerCase();
+  }
+
+  const [familyName, ...givenNames] = parts;
+  return [...givenNames, familyName].join(' ').toLowerCase();
+}
+
 function createNameIdentityKey(nameEn, nameJa) {
-  const english = normalizeName(nameEn ?? '').toLowerCase();
+  const english = canonicalizeEnglishName(nameEn);
   const japanese = normalizeName(nameJa ?? '').toLowerCase();
   return `${english}::${japanese}`;
 }

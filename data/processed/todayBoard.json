@@ -1,31 +1,31 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-05",
   "source": "sqlite",
   "rowIds": [
-    "award:wins-leader",
-    "battingSeasonMilestone:320-avg-season",
-    "award:stolen-base-leader"
+    "award:holds-leader",
+    "pitchingSeasonMilestone:200-strikeout-season",
+    "position:left-fielder"
   ],
   "columnIds": [
-    "award:japan-series-champion",
-    "award:japan-baseball-hall-of-fame",
-    "specialCategory:played-in-mlb"
+    "award:all-star",
+    "award:best-nine",
+    "specialCategory:played-for-only-one-npb-franchise"
   ],
   "cellCounts": [
     [
-      6,
-      2,
-      4
-    ],
-    [
-      6,
-      3,
-      2
-    ],
-    [
-      3,
       1,
-      3
+      1,
+      1
+    ],
+    [
+      8,
+      7,
+      9
+    ],
+    [
+      5,
+      5,
+      11
     ]
   ]
 }

@@ -19,6 +19,7 @@ import playersById from '../data/processed/players.json';
 import eligibility from '../data/processed/eligibility.json';
 
 const MAX_GUESSES = 9;
+const ARCHIVE_START_DATE = '2026-05-01';
 
 const copy = {
   en: {
@@ -61,6 +62,7 @@ const copy = {
     title: 'NPB Trivia Grid',
     dailyTab: 'Daily',
     practiceTab: 'Practice',
+    superHardTab: 'Super hard mode',
     score: 'Score',
     noGuesses: 'No guesses remaining.',
     guessesRemaining: (count) => `${count} guesses remaining.`,
@@ -68,7 +70,7 @@ const copy = {
     reset: 'Reset',
     defaultMessage: 'Pick a square and enter an NPB player.',
     openMessage: 'Type or tap a player name, then submit your guess.',
-    missingPlayer: 'That player is not in the processed dataset yet.',
+    missingPlayer: 'That player is not available yet.',
     duplicatePlayer: (name) => `${name} is already used in another square.`,
     correct: (name) => `${name} matches both categories.`,
     incorrect: (name) =>
@@ -78,7 +80,7 @@ const copy = {
     newGridMessage: 'Loaded a new random grid.',
     howItWorks: 'How it works',
     howText:
-      'Fill each square with a Nippon Professional Baseball player who matches both the row and column categories. Choose a square, enter a player from the local dataset, and the game checks whether that player satisfies both categories. Each new board is generated from one shared category pool of teams, awards, positions, and milestones. Click any row or column category box to view its criteria and team or franchise notes before making a guess. You get 9 total guesses for the board.',
+      'Fill each square with a Nippon Professional Baseball player who matches both the row and column categories. Choose a square, enter a player name, and the game checks whether that player satisfies both categories. Each new board is generated from one shared category pool of teams, awards, positions, and milestones. Note: award-based categories are still incomplete and currently only cover some awards from 2002 onward. Click any row or column category box to view its criteria and team or franchise notes before making a guess. You get 9 total guesses for the board.',
     close: 'Close',
     enterPlayer: 'Enter Player',
     submitGuess: 'Submit Guess',
@@ -139,6 +141,9 @@ const copy = {
     avgRarityValue: (value) => `${value.toFixed(1)} matches`,
     archiveUpdated: 'Local archive built from saved daily boards.',
     archiveEmptyStat: 'No data yet',
+    copyLink: 'Copy Link',
+    copyLinkSuccess: 'Shareable daily board link copied.',
+    copyLinkError: 'Could not copy the share link.',
     returnToToday: 'Today',
     hits: 'Hits',
     misses: 'Misses',
@@ -193,6 +198,7 @@ const copy = {
     title: 'プロ野球グリッド',
     dailyTab: 'デイリー',
     practiceTab: '練習',
+    superHardTab: '超難問',
     score: 'スコア',
     noGuesses: '残り回数はありません。',
     guessesRemaining: (count) => `残り ${count} 回`,
@@ -200,7 +206,7 @@ const copy = {
     reset: 'リセット',
     defaultMessage: 'マスを選んで選手名を入力してください。',
     openMessage: '選手名を入力するか候補を選んで送信してください。',
-    missingPlayer: 'その選手は加工済みデータに入っていません。',
+    missingPlayer: 'その選手はまだ使えません。',
     duplicatePlayer: (name) => `${name} は別の正解マスで使われています。`,
     correct: (name) => `${name} は両方の条件を満たしています。`,
     incorrect: (name) =>
@@ -210,7 +216,7 @@ const copy = {
     newGridMessage: '新しいランダムグリッドを読み込みました。',
     howItWorks: '遊び方',
     howText:
-      '各マスに、行と列の条件を両方満たす日本プロ野球の選手を入れてください。マスを選んでローカルのサンプルデータにある選手を入力すると、その選手が行と列の両方の条件を満たすか判定します。各ボードは、球団、受賞、ポジション、記録の共通カテゴリープールから生成されます。予想する前に、行または列のカテゴリーボックスをクリックすると条件や球団メモを確認できます。使える予想は合計 9 回です。',
+      '各マスに、行と列の条件を両方満たす日本プロ野球の選手を入れてください。マスを選んで選手名を入力すると、その選手が行と列の両方の条件を満たすか判定します。各ボードは、球団、受賞、ポジション、記録の共通カテゴリープールから生成されます。なお、受賞カテゴリはまだ不完全で、現在は 2002 年以降の一部の賞のみを収録しています。予想する前に、行または列のカテゴリーボックスをクリックすると条件や球団メモを確認できます。使える予想は合計 9 回です。',
     close: '閉じる',
     enterPlayer: '選手を入力',
     submitGuess: '選択',
@@ -269,8 +275,11 @@ const copy = {
     perfectGames: (count) => `完全達成 ${count} 回`,
     avgScoreValue: (value) => `${value.toFixed(1)} / 9`,
     avgRarityValue: (value) => `平均 ${value.toFixed(1)} 人`,
-    archiveUpdated: '保存されたデイリーボードをもとにしたローカルアーカイブです。',
+    archiveUpdated: '保存されたデイリーボードをもとにしたアーカイブです。',
     archiveEmptyStat: 'まだデータがありません',
+    copyLink: 'リンクをコピー',
+    copyLinkSuccess: '共有用のデイリーボードURLをコピーしました。',
+    copyLinkError: '共有リンクをコピーできませんでした。',
     returnToToday: '今日へ戻る',
     hits: '正解',
     misses: '不正解',
@@ -362,61 +371,61 @@ const jaCategoryDetails = {
     heading: '球団ルール',
     subtitle: 'その球団での出場経験が必要です',
     note:
-      '球団カテゴリと組み合わさる場合、ローカルのサンプルデータ上でその球団で少なくとも1試合出場している必要があります。',
+      '球団カテゴリと組み合わさる場合、その球団で少なくとも1試合出場している必要があります。',
   },
   award: {
     heading: '受賞ルール',
     subtitle: 'NPBでの受賞実績',
     note:
-      '球団カテゴリと組み合わさる場合、その球団在籍時にその賞を受賞している必要があります。球団以外のカテゴリとの組み合わせでは、サンプルデータ内のどこかで両方の条件を満たしていれば構いません。',
+      '球団カテゴリと組み合わさる場合、その球団在籍時にその賞を受賞している必要があります。球団以外のカテゴリとの組み合わせでは、どこかで両方の条件を満たしていれば構いません。なお、受賞カテゴリはまだ不完全で、現在は 2002 年以降の一部の賞のみを収録しています。',
   },
   position: {
     heading: 'ポジションルール',
     subtitle: 'そのポジションとして登録',
     note:
-      'ローカルのサンプルデータでそのポジションに登録されている必要があります。球団以外のカテゴリと同じシーズンである必要はありません。',
+      'そのポジションで少なくとも1試合出場している必要があります。球団以外のカテゴリと同じシーズンである必要はありません。',
   },
   battingMilestone: {
     heading: '打撃記録',
     subtitle: '打撃成績の条件',
     note:
-      '球団カテゴリと組み合わさる場合、その球団でこの打撃記録を達成している必要があります。球団以外のカテゴリとの組み合わせでは、サンプルデータ内のどのシーズンでも構いません。',
+      '球団カテゴリと組み合わさる場合、その球団でこの打撃記録を達成している必要があります。球団以外のカテゴリとの組み合わせでは、どのシーズンでも構いません。',
   },
   pitchingMilestone: {
     heading: '投手記録',
     subtitle: '投手成績の条件',
     note:
-      '球団カテゴリと組み合わさる場合、その球団でこの投手記録を達成している必要があります。球団以外のカテゴリとの組み合わせでは、サンプルデータ内のどのシーズンでも構いません。',
+      '球団カテゴリと組み合わさる場合、その球団でこの投手記録を達成している必要があります。球団以外のカテゴリとの組み合わせでは、どのシーズンでも構いません。',
   },
   battingSeasonMilestone: {
     heading: '打撃シーズン記録',
     subtitle: '打撃成績の条件',
     note:
-      '球団カテゴリと組み合わさる場合、その球団でこの打撃シーズン記録を達成している必要があります。球団以外のカテゴリとの組み合わせでは、サンプルデータ内のどのシーズンでも構いません。',
+      '球団カテゴリと組み合わさる場合、その球団でこの打撃シーズン記録を達成している必要があります。球団以外のカテゴリとの組み合わせでは、どのシーズンでも構いません。',
   },
   battingCareerMilestone: {
     heading: '通算打撃記録',
     subtitle: '通算打撃成績の条件',
     note:
-      '通算打撃記録はローカルのサンプルデータ内の通算タグを使います。球団カテゴリと組み合わさる場合でも、その球団での所属経験は必要です。',
+      '通算打撃記録を使います。球団カテゴリと組み合わさる場合でも、その球団での所属経験は必要です。',
   },
   pitchingSeasonMilestone: {
     heading: '投手シーズン記録',
     subtitle: '投手成績の条件',
     note:
-      '球団カテゴリと組み合わさる場合、その球団でこの投手シーズン記録を達成している必要があります。球団以外のカテゴリとの組み合わせでは、サンプルデータ内のどのシーズンでも構いません。',
+      '球団カテゴリと組み合わさる場合、その球団でこの投手シーズン記録を達成している必要があります。球団以外のカテゴリとの組み合わせでは、どのシーズンでも構いません。',
   },
   pitchingCareerMilestone: {
     heading: '通算投手記録',
     subtitle: '通算投手成績の条件',
     note:
-      '通算投手記録はローカルのサンプルデータ内の通算タグを使います。球団カテゴリと組み合わさる場合でも、その球団での所属経験は必要です。',
+      '通算投手記録を使います。球団カテゴリと組み合わさる場合でも、その球団での所属経験は必要です。',
   },
   specialCategory: {
     heading: '特別カテゴリ',
     subtitle: '特別な経歴や属性',
     note:
-      '特別カテゴリはローカルのサンプルデータ内のタグを使います。球団カテゴリと組み合わさる場合でも、その球団での所属経験は必要です。',
+      '特別カテゴリのタグを使います。球団カテゴリと組み合わさる場合でも、その球団での所属経験は必要です。',
   },
 };
 
@@ -617,6 +626,106 @@ function getCurrentPuzzleDate() {
   const month = String(now.getMonth() + 1).padStart(2, '0');
   const day = String(now.getDate()).padStart(2, '0');
   return `${year}-${month}-${day}`;
+}
+
+function isValidPuzzleDate(dateString, currentPuzzleDate) {
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(dateString ?? '')) {
+    return false;
+  }
+
+  const parsed = new Date(`${dateString}T00:00:00`);
+
+  if (Number.isNaN(parsed.getTime())) {
+    return false;
+  }
+
+  return dateString >= ARCHIVE_START_DATE && dateString <= currentPuzzleDate;
+}
+
+function readUrlState(currentPuzzleDate) {
+  if (typeof window === 'undefined') {
+    return {
+      locale: 'ja',
+      mode: 'daily',
+      view: 'game',
+      selectedDailyDate: null,
+    };
+  }
+
+  const params = new URLSearchParams(window.location.search);
+  const locale = params.get('lang') === 'en' ? 'en' : 'ja';
+  const requestedMode = params.get('mode');
+  const mode = requestedMode === 'practice' || requestedMode === 'super-hard'
+    ? requestedMode
+    : 'daily';
+  const view = params.get('view') === 'archive' ? 'archive' : 'game';
+  const requestedDate = params.get('date');
+
+  return {
+    locale,
+    mode,
+    view,
+    selectedDailyDate: isValidPuzzleDate(requestedDate, currentPuzzleDate)
+      ? requestedDate
+      : null,
+  };
+}
+
+function buildAppUrl({
+  locale,
+  mode,
+  view,
+  selectedDailyDate,
+  currentPuzzleDate,
+  forceShareDate = false,
+}) {
+  const url = new URL(window.location.href);
+  const params = new URLSearchParams();
+
+  if (locale === 'en') {
+    params.set('lang', 'en');
+  }
+
+  if (view === 'archive') {
+    params.set('view', 'archive');
+  }
+
+  if (mode === 'practice' || mode === 'super-hard') {
+    params.set('mode', mode);
+  }
+
+  const effectiveDate = forceShareDate
+    ? selectedDailyDate ?? currentPuzzleDate
+    : selectedDailyDate;
+
+  if (effectiveDate && isValidPuzzleDate(effectiveDate, currentPuzzleDate)) {
+    params.set('date', effectiveDate);
+  }
+
+  url.search = params.toString();
+  url.hash = '';
+  return url.toString();
+}
+
+async function copyTextToClipboard(value) {
+  if (navigator.clipboard?.writeText) {
+    await navigator.clipboard.writeText(value);
+    return;
+  }
+
+  const input = document.createElement('textarea');
+  input.value = value;
+  input.setAttribute('readonly', '');
+  input.style.position = 'absolute';
+  input.style.left = '-9999px';
+  document.body.appendChild(input);
+  input.select();
+
+  try {
+    document.execCommand('copy');
+  } finally {
+    document.body.removeChild(input);
+  }
 }
 
 function getSnapshotGrid(dateString) {
@@ -1077,7 +1186,7 @@ function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame, onOpenBoa
   const resultMap = Object.fromEntries(
     storedResults.map((result) => [result.puzzle_date, result]),
   );
-  const archiveDates = getArchiveDatesFromStart('2026-05-01', puzzleDate);
+  const archiveDates = getArchiveDatesFromStart(ARCHIVE_START_DATE, puzzleDate);
   const completedResults = storedResults.filter((result) => (result.guess_count ?? 0) >= MAX_GUESSES);
   const completedDates = completedResults.map((result) => result.puzzle_date);
   const streakStats = computeStreakStats(completedDates, puzzleDate);
@@ -1465,6 +1574,7 @@ function GameScreen({
   currentPuzzleDate,
   onOpenArchive,
   onReturnToToday,
+  onCopyBoardLink,
 }) {
   const text = copy[locale];
   const [activeGrid, setActiveGrid] = useState(() =>
@@ -1923,6 +2033,15 @@ function GameScreen({
     setMessage(text.newGridMessage);
   }
 
+  async function handleCopyBoardLink() {
+    try {
+      await onCopyBoardLink(puzzleDate, locale);
+      setMessage(text.copyLinkSuccess);
+    } catch {
+      setMessage(text.copyLinkError);
+    }
+  }
+
   return (
     <main className="app-shell">
       <section className="hero-card">
@@ -1946,6 +2065,11 @@ function GameScreen({
             {isDailyMode && (
               <button className="info-button" onClick={onOpenArchive} type="button">
                 {text.archive}
+              </button>
+            )}
+            {isDailyMode && (
+              <button className="info-button" onClick={handleCopyBoardLink} type="button">
+                {text.copyLink}
               </button>
             )}
             {isViewingArchiveDate && (
@@ -2122,11 +2246,13 @@ function GameScreen({
 }
 
 export default function App() {
-  const [activeLocale, setActiveLocale] = useState('ja');
-  const [activeMode, setActiveMode] = useState('daily');
-  const [activeView, setActiveView] = useState('game');
-  const [currentPuzzleDate, setCurrentPuzzleDate] = useState(getCurrentPuzzleDate);
-  const [selectedDailyDate, setSelectedDailyDate] = useState(null);
+  const initialPuzzleDate = getCurrentPuzzleDate();
+  const initialUrlState = readUrlState(initialPuzzleDate);
+  const [activeLocale, setActiveLocale] = useState(initialUrlState.locale);
+  const [activeMode, setActiveMode] = useState(initialUrlState.mode);
+  const [activeView, setActiveView] = useState(initialUrlState.view);
+  const [currentPuzzleDate, setCurrentPuzzleDate] = useState(initialPuzzleDate);
+  const [selectedDailyDate, setSelectedDailyDate] = useState(initialUrlState.selectedDailyDate);
   const [authMode, setAuthMode] = useState(null);
   const [authNotice, setAuthNotice] = useState('');
   const [authLoading, setAuthLoading] = useState(false);
@@ -2192,6 +2318,41 @@ export default function App() {
       window.clearInterval(intervalId);
     };
   }, []);
+
+  useEffect(() => {
+    function handlePopState() {
+      const nextState = readUrlState(getCurrentPuzzleDate());
+      setActiveLocale(nextState.locale);
+      setActiveMode(nextState.mode);
+      setActiveView(nextState.view);
+      setSelectedDailyDate(nextState.selectedDailyDate);
+    }
+
+    window.addEventListener('popstate', handlePopState);
+    return () => {
+      window.removeEventListener('popstate', handlePopState);
+    };
+  }, []);
+
+  useEffect(() => {
+    if (typeof window === 'undefined') {
+      return;
+    }
+
+    const nextUrl = buildAppUrl({
+      locale: activeLocale,
+      mode: activeMode,
+      view: activeView,
+      selectedDailyDate: activeMode === 'daily' || activeView === 'archive'
+        ? selectedDailyDate
+        : null,
+      currentPuzzleDate,
+    });
+
+    if (nextUrl !== window.location.href) {
+      window.history.replaceState({}, '', nextUrl);
+    }
+  }, [activeLocale, activeMode, activeView, selectedDailyDate, currentPuzzleDate]);
 
   useEffect(() => {
     if (!activeUser || !supabase || typeof window === 'undefined') {
@@ -2295,6 +2456,19 @@ export default function App() {
     setSelectedDailyDate(null);
     setActiveMode('daily');
     setActiveView('game');
+  }
+
+  async function copyBoardLink(dateString, locale) {
+    const shareUrl = buildAppUrl({
+      locale,
+      mode: 'daily',
+      view: 'game',
+      selectedDailyDate: dateString,
+      currentPuzzleDate,
+      forceShareDate: true,
+    });
+
+    await copyTextToClipboard(shareUrl);
   }
 
   async function handleAuthSubmit(event) {
@@ -2443,6 +2617,12 @@ export default function App() {
             >
               {copy[activeLocale].practiceTab}
             </button>
+            <button
+              className={activeMode === 'super-hard' ? 'mode-switch-button active' : 'mode-switch-button'}
+              onClick={() => setActiveMode('super-hard')}
+            >
+              {copy[activeLocale].superHardTab}
+            </button>
           </nav>
 
           <div className={activeLocale === 'ja' ? 'tab-panel active' : 'tab-panel'}>
@@ -2456,6 +2636,7 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
+                onCopyBoardLink={copyBoardLink}
               />
             </div>
             <div className={activeMode === 'practice' ? 'mode-panel active' : 'mode-panel'}>
@@ -2468,6 +2649,20 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
+                onCopyBoardLink={copyBoardLink}
+              />
+            </div>
+            <div className={activeMode === 'super-hard' ? 'mode-panel active' : 'mode-panel'}>
+              <GameScreen
+                locale="ja"
+                mode="super-hard"
+                activeUser={activeUser}
+                isVisible={activeLocale === 'ja' && activeMode === 'super-hard'}
+                puzzleDate={puzzleDate}
+                currentPuzzleDate={currentPuzzleDate}
+                onOpenArchive={() => setActiveView('archive')}
+                onReturnToToday={returnToTodayBoard}
+                onCopyBoardLink={copyBoardLink}
               />
             </div>
           </div>
@@ -2482,6 +2677,7 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
+                onCopyBoardLink={copyBoardLink}
               />
             </div>
             <div className={activeMode === 'practice' ? 'mode-panel active' : 'mode-panel'}>
@@ -2494,6 +2690,20 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
+                onCopyBoardLink={copyBoardLink}
+              />
+            </div>
+            <div className={activeMode === 'super-hard' ? 'mode-panel active' : 'mode-panel'}>
+              <GameScreen
+                locale="en"
+                mode="super-hard"
+                activeUser={activeUser}
+                isVisible={activeLocale === 'en' && activeMode === 'super-hard'}
+                puzzleDate={puzzleDate}
+                currentPuzzleDate={currentPuzzleDate}
+                onOpenArchive={() => setActiveView('archive')}
+                onReturnToToday={returnToTodayBoard}
+                onCopyBoardLink={copyBoardLink}
               />
             </div>
           </div>

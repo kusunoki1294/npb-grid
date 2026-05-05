@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-05T15:46:48.974Z",
+  "generatedAt": "2026-05-05T17:29:46.414Z",
   "rowCounts": {
     "registry": 8068,
     "batting": 51077,
     "pitching": 20436,
     "fielding": 61636,
     "awards": 252,
-    "players": 8086
+    "players": 8051
   },
   "skippedRows": {
     "registry": [],
