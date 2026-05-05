@@ -1,0 +1,542 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+1987,Regular Season,Yakult Swallows,2,"Lee, Leon",1B,120,492,453,0.300,0.352,0.481,0.833,60,73,136,99,14,1,22,218,0,0,37,4,60,19,0,0,2,01003846
+1987,Regular Season,Yakult Swallows,3,"Brouhard, Mark",CF,11,32,29,0.379,0.438,0.690,1.128,4,5,11,6,3,0,2,20,1,1,3,0,4,0,0,0,0,01003862
+1987,Regular Season,Hanshin Tigers,32,"Hikima, Katsuyuki",SS,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01003863
+1987,Regular Season,Yokohama Taiyo Whales,46,"Miyashita, Shiro",CF,1,1,1,1.000,1.000,3.000,4.000,0,0,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,01003864
+1987,Regular Season,Hankyu Braves,34,"Mori, Koji",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01003865
+1987,Regular Season,Kintetsu Buffaloes,7,"Awaguchi, Kenji",LF,102,316,287,0.240,0.304,0.341,0.645,24,30,69,53,9,1,6,98,0,2,27,5,37,8,0,0,2,01103843
+1987,Regular Season,Nippon-Ham Fighters,27,"Omiya, Tatsuo",PH,57,109,98,0.286,0.352,0.378,0.730,14,10,28,23,3,0,2,37,2,0,9,0,15,2,1,1,0,01103844
+1987,Regular Season,Chunichi Dragons,31,"Ishii, Akio",PH,56,60,54,0.204,0.283,0.241,0.524,1,8,11,9,2,0,0,13,0,0,5,0,14,2,1,0,0,01103846
+1987,Regular Season,Lotte Orions,27,"Ushijima, Kazuhiko",P,41,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103861
+1987,Regular Season,Lotte Orions,62,"Ito, Fumio",DH,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,01103862
+1987,Regular Season,Nankai Hawks,12,"Inoe, Yuji",P,46,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103863
+1987,Regular Season,Hanshin Tigers,17,"Inomata, Takashi",P,22,29,26,0.000,0.103,0.000,0.103,0,1,0,0,0,0,0,0,0,0,3,0,15,0,0,0,0,01103864
+1987,Regular Season,Hiroshima Toyo Carp,36,"Imai, Joji",PR,36,0,0,0.000,0.000,0.000,0.000,11,0,0,0,0,0,0,0,9,2,0,0,0,0,0,0,0,01103865
+1987,Regular Season,Nankai Hawks,39,"Fujimoto, Hiroshi",3B,26,48,41,0.244,0.340,0.390,0.730,2,3,10,4,6,0,0,16,0,0,6,0,8,0,0,1,0,01203860
+1987,Regular Season,Kintetsu Buffaloes,56,"Mitsuyama, Hidekazu",C,23,21,18,0.222,0.300,0.444,0.744,3,2,4,2,1,0,1,8,0,0,0,0,3,0,2,1,0,01203862
+1987,Regular Season,Seibu Lions,43,"Yokota, Hisanori",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01203864
+1987,Regular Season,Seibu Lions,48,"Maeda, Koji",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01203869
+1987,Regular Season,Yokohama Taiyo Whales,17,"Saito, Akio",P,39,11,10,0.100,0.100,0.100,0.200,0,2,1,1,0,0,0,1,0,0,0,0,4,0,0,1,0,01303844
+1987,Regular Season,Yokohama Taiyo Whales,15,"Kadota, Fumiaki",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01303846
+1987,Regular Season,Chunichi Dragons,23,"Kawamata, Yonetoshi",RF,123,420,376,0.253,0.320,0.444,0.764,40,57,95,59,16,4,16,167,6,2,37,6,33,5,0,7,0,01303848
+1987,Regular Season,Lotte Orions,34,"Kasahara, Eiichi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01303862
+1987,Regular Season,Kintetsu Buffaloes,4,"Oishi, Daijiro",2B,130,586,532,0.265,0.316,0.357,0.673,75,42,141,106,26,4,5,190,41,9,39,1,58,6,2,10,3,01303863
+1987,Regular Season,Hiroshima Toyo Carp,55,"Kito, Makoto",P,19,8,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,01303864
+1987,Japan Series,Seibu Lions,26,"Kanamori, Eiji",DH,3,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,2,,0,,,,,01303865
+1987,Regular Season,Seibu Lions,26,"Kanamori, Eiji",DH,91,291,268,0.243,0.279,0.321,0.600,21,22,65,49,13,1,2,86,3,1,13,1,25,6,1,8,1,01303865
+1987,Regular Season,Chunichi Dragons,18,"Kashima, Tadashi",P,14,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,01303869
+1987,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01403862
+1987,Regular Season,Yokohama Taiyo Whales,43,"Muraoka, Koichi",3B,18,17,14,0.143,0.200,0.429,0.629,5,2,2,0,1,0,1,6,1,0,1,0,2,0,0,2,0,01403867
+1987,Regular Season,Chunichi Dragons,54,"Komatsuzaki, Yoshihisa",PH,71,143,135,0.207,0.246,0.333,0.579,18,11,28,18,6,1,3,45,4,0,4,0,19,5,3,1,0,01503860
+1987,Regular Season,Yakult Swallows,48,"Sakurai, Shinichi",2B,57,142,132,0.258,0.267,0.295,0.562,13,7,34,30,3,1,0,39,1,0,2,1,26,4,0,7,1,01503862
+1987,Regular Season,Yokohama Taiyo Whales,60,"Sugiura, Koji",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01503864
+1987,Regular Season,Seibu Lions,44,"Kurohara, Yuji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01503867
+1987,Regular Season,Hiroshima Toyo Carp,6,"Kobayakawa, Takehiko",1B,124,470,420,0.286,0.351,0.502,0.853,57,93,120,78,17,1,24,211,5,4,37,5,96,11,8,0,5,01503869
+1987,Regular Season,Chunichi Dragons,19,"Yonemura, Akira",P,21,12,12,0.083,0.083,0.083,0.166,0,0,1,1,0,0,0,1,0,0,0,0,6,0,0,0,0,01603860
+1987,Japan Series,Seibu Lions,39,"Shirahata, Takahiro",DH,5,,10,0.200,,0.200,,,0,2,2,0,0,0,2,0,,0,,2,,,,,01703860
+1987,Regular Season,Seibu Lions,39,"Shirahata, Takahiro",DH,50,118,109,0.294,0.339,0.413,0.752,6,9,32,24,5,1,2,45,1,1,7,1,18,2,1,0,1,01703860
+1987,Regular Season,Yokohama Taiyo Whales,12,"Takahashi, Kazuhiko",P,51,10,9,0.222,0.300,0.222,0.522,0,0,2,2,0,0,0,2,0,0,1,0,6,0,0,0,0,01703862
+1987,Japan Series,Seibu Lions,9,"Seike, Masakazu",SS,6,,16,0.125,,0.312,,,1,2,1,0,0,1,5,0,,1,,2,,,,,01703863
+1987,Regular Season,Seibu Lions,9,"Seike, Masakazu",SS,72,174,152,0.224,0.256,0.263,0.519,18,8,34,28,6,0,0,40,1,1,7,0,29,2,0,14,1,01703863
+1987,Regular Season,Kintetsu Buffaloes,29,"Nakato, Yoshio",1B,16,36,35,0.286,0.306,0.314,0.620,4,0,10,9,1,0,0,11,0,0,1,0,8,1,0,0,0,01703864
+1987,Japan Series,Seibu Lions,21,"Higashio, Osamu",P,1,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,,,,01903828
+1987,Regular Season,Seibu Lions,21,"Higashio, Osamu",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903828
+1987,Regular Season,Hanshin Tigers,13,"Nakano, Satoru",PH,7,8,8,0.125,0.125,0.125,0.250,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,01903862
+1987,Regular Season,Chunichi Dragons,9,"Nakao, Takayoshi",C,94,299,275,0.291,0.330,0.527,0.857,34,40,80,50,11,3,16,145,4,0,15,4,49,6,2,5,2,01903863
+1987,Regular Season,Yomiuri Giants,28,"Hirota, Hiroaki",P,30,7,6,0.167,0.167,0.167,0.334,0,1,1,1,0,0,0,1,0,0,0,0,4,0,0,1,0,01903864
+1987,Regular Season,Nippon-Ham Fighters,23,"Tsusue, Hideaki",DH,70,170,145,0.214,0.329,0.324,0.653,15,13,31,23,3,2,3,47,0,1,25,0,34,6,0,0,0,01903867
+1987,Japan Series,Yomiuri Giants,15,"Yamakura, Kazuhiro",C,6,,20,0.100,,0.150,,,0,2,1,1,0,0,3,0,,1,,6,,,,,11013846
+1987,Regular Season,Yomiuri Giants,15,"Yamakura, Kazuhiro",C,128,458,395,0.273,0.362,0.486,0.848,46,66,108,69,16,1,22,192,3,3,55,24,74,10,1,5,2,11013846
+1987,Regular Season,Hanshin Tigers,7,"Mayumi, Akinobu",RF,119,500,455,0.270,0.334,0.466,0.800,60,53,123,81,18,1,23,212,4,3,44,3,55,3,0,0,1,11013847
+1987,Regular Season,Nankai Hawks,35,"Yoshida, Hiroyuki",C,98,291,259,0.274,0.331,0.405,0.736,24,24,71,55,7,0,9,105,0,1,21,1,42,8,2,7,2,11013848
+1987,Regular Season,Hiroshima Toyo Carp,39,"Nabeya, Michio",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11013860
+1987,Regular Season,Hanshin Tigers,47,"Fujiwara, Masashi",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11013861
+1987,Regular Season,Nankai Hawks,21,"Nishikawa, Yoshiaki",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11013862
+1987,Regular Season,Kintetsu Buffaloes,50,"Fukuchi, Tsuneto",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11013864
+1987,Regular Season,Nankai Hawks,25,"Nakajo, Yoshinobu",P,49,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11013867
+1987,Regular Season,Yokohama Taiyo Whales,37,"Hino, Yoshiaki",3B,14,26,23,0.261,0.320,0.304,0.624,4,1,6,5,1,0,0,7,1,0,2,0,6,0,0,1,0,11213860
+1987,Regular Season,Hanshin Tigers,38,"Yamakawa, Takeshi",C,30,32,31,0.194,0.219,0.419,0.638,2,3,6,3,1,0,2,13,0,0,0,0,10,1,1,0,0,11213861
+1987,Regular Season,Lotte Orions,10,"Furukawa, Shinichi",LF,80,242,221,0.222,0.271,0.430,0.701,26,34,49,28,8,1,12,95,9,1,14,1,56,7,2,2,3,11213862
+1987,Regular Season,Yokohama Taiyo Whales,11,"Horii, Tsuneo",P,23,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,11213863
+1987,Regular Season,Hanshin Tigers,14,"Yagi, Hiroshi",3B,69,125,120,0.175,0.202,0.250,0.452,8,11,21,16,3,0,2,30,0,1,3,0,35,1,1,1,0,11213864
+1987,Regular Season,Chunichi Dragons,1,"Fujio, Yasuharu",LF,18,36,34,0.235,0.278,0.353,0.631,2,3,8,6,1,0,1,12,0,0,2,1,4,1,0,0,0,11213869
+1987,Japan Series,Seibu Lions,45,"Okubo, Hiromoto",PH,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11313860
+1987,Regular Season,Seibu Lions,45,"Okubo, Hiromoto",PH,56,78,71,0.239,0.282,0.380,0.662,4,17,17,13,1,0,3,27,0,0,2,0,18,1,3,0,2,11313860
+1987,Regular Season,Yokohama Taiyo Whales,39,"Okamoto, Tetsushi",C,18,14,12,0.083,0.214,0.083,0.297,1,0,1,1,0,0,0,1,0,0,1,0,4,1,1,0,0,11313862
+1987,Regular Season,Kintetsu Buffaloes,13,"Ishimoto, Yoshiaki",P,50,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313863
+1987,Regular Season,Yokohama Taiyo Whales,8,"Ono, Yuji",1B,42,119,108,0.231,0.280,0.435,0.715,15,19,25,15,3,2,5,47,2,2,6,0,18,3,2,1,2,11313864
+1987,Japan Series,Seibu Lions,52,"Oda, Shinya",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11313869
+1987,Regular Season,Seibu Lions,52,"Oda, Shinya",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313869
+1987,Regular Season,Yakult Swallows,28,"Yaegashi, Yukio",C,120,437,400,0.280,0.322,0.398,0.720,35,47,112,84,18,1,9,159,2,5,24,4,69,16,3,5,5,11413843
+1987,Regular Season,Hanshin Tigers,25,"Yamamoto, Kazuyuki",P,34,3,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,11413845
+1987,Regular Season,Nankai Hawks,33,"Yamaguchi, Yuji",PR,20,1,0,0.000,1.000,0.000,1.000,7,0,0,0,0,0,0,0,3,4,1,0,0,0,0,0,0,11413862
+1987,Regular Season,Hiroshima Toyo Carp,41,"Yamanaka, Kiyoshi",C,32,30,27,0.296,0.310,0.370,0.680,1,3,8,6,2,0,0,10,0,0,1,0,3,2,0,1,1,11413863
+1987,Regular Season,Hankyu Braves,26,"Kobayashi, Shinya",PH,57,83,72,0.208,0.288,0.292,0.580,12,5,15,13,0,0,2,21,3,1,8,1,11,1,0,3,0,11513846
+1987,Regular Season,Hanshin Tigers,31,"Kakefu, Masayuki",3B,106,424,387,0.227,0.288,0.372,0.660,33,45,88,59,14,3,12,144,0,1,33,2,61,9,1,0,3,11513849
+1987,Regular Season,Nippon-Ham Fighters,62,"Kita, Yasuhiro",2B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513860
+1987,Regular Season,Yomiuri Giants,67,"Kinoshita, Tomohiro",P,13,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513861
+1987,Japan Series,Yomiuri Giants,18,"Kuwata, Masumi",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11513862
+1987,Regular Season,Yomiuri Giants,18,"Kuwata, Masumi",P,37,80,74,0.203,0.221,0.324,0.545,4,11,15,10,3,0,2,24,0,0,2,0,21,1,0,3,1,11513862
+1987,Regular Season,Hiroshima Toyo Carp,44,"Kataoka, Mitsuhiro",PH,42,73,66,0.318,0.366,0.561,0.927,8,12,21,15,1,0,5,37,0,0,5,0,18,0,0,2,0,11513863
+1987,Regular Season,Yomiuri Giants,40,"Sato, Hiroshi",3B,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11513864
+1987,Regular Season,Yokohama Taiyo Whales,40,"Okawa, Ryusai",PR,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513866
+1987,Regular Season,Hiroshima Toyo Carp,48,"Kiyokawa, Eiji",P,41,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513869
+1987,Regular Season,Yakult Swallows,1,"Wakamatsu, Tsutomu",PH,55,81,69,0.377,0.450,0.594,1.044,6,16,26,19,2,2,3,41,0,0,10,2,7,2,0,1,1,11613843
+1987,Regular Season,Kintetsu Buffaloes,34,"Murata, Tatsumi",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713840
+1987,Regular Season,Hiroshima Toyo Carp,2,"Takahashi, Yoshihiko",SS,118,521,462,0.281,0.338,0.407,0.745,65,53,130,96,21,2,11,188,28,8,40,2,61,4,2,9,5,11713842
+1987,Regular Season,Nankai Hawks,23,"Takayanagi, Hideki",LF,81,180,156,0.231,0.298,0.410,0.708,18,31,36,22,7,0,7,64,0,0,16,2,33,6,1,2,5,11713848
+1987,Regular Season,Nankai Hawks,0,"Sasaki, Makoto",CF,125,499,451,0.288,0.343,0.419,0.762,67,33,130,95,22,2,11,189,15,9,37,3,72,3,2,7,2,11713860
+1987,Regular Season,Nippon-Ham Fighters,29,"Shiba, Tadashi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713862
+1987,Japan Series,Yomiuri Giants,25,"Kono, Junki",SS,4,,11,0.091,,0.091,,,1,1,1,0,0,0,1,0,,1,,2,,,,,11713863
+1987,Regular Season,Yomiuri Giants,25,"Kono, Junki",SS,94,274,236,0.292,0.337,0.419,0.756,40,17,69,50,12,3,4,99,11,8,16,0,45,2,1,19,2,11713863
+1987,Regular Season,Hankyu Braves,57,"Takemoto, Osamu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713864
+1987,Regular Season,Kintetsu Buffaloes,22,"Sumitomo, Kazuya",P,44,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713865
+1987,Regular Season,Nippon-Ham Fighters,17,"Sato, Seiichi",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713867
+1987,Regular Season,Nippon-Ham Fighters,55,"Shimizu, Nobuaki",PH,4,5,4,0.250,0.400,0.500,0.900,0,1,1,0,1,0,0,2,0,0,1,0,2,0,0,0,0,11713869
+1987,Regular Season,Hiroshima Toyo Carp,19,"Niimi, Satoshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913847
+1987,Regular Season,Yokohama Taiyo Whales,14,"Masumoto, Hiroshi",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913848
+1987,Regular Season,Nippon-Ham Fighters,21,"Nishizaki, Yukihiro",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913864
+1987,Regular Season,Lotte Orions,3,"Nishimura, Norifumi",3B,114,491,440,0.264,0.311,0.320,0.631,55,27,116,99,11,4,2,141,41,14,29,0,49,4,2,18,2,11913865
+1987,Regular Season,Lotte Orions,5,"Lee, Leron",DH,104,422,379,0.272,0.341,0.383,0.724,41,41,103,79,15,0,9,145,3,1,41,11,52,9,0,0,2,21023844
+1987,Regular Season,Hanshin Tigers,1,"Hirota, Sumio",PH,5,5,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,21023845
+1987,Regular Season,Yakult Swallows,26,"Hata, Shinji",C,33,70,68,0.206,0.229,0.397,0.626,8,11,14,7,4,0,3,27,1,0,2,0,11,2,0,0,0,21023860
+1987,Japan Series,Seibu Lions,24,"Vukovich, George",RF,5,,17,0.118,,0.294,,,2,2,1,0,0,1,5,0,,0,,5,,,,,21023862
+1987,Regular Season,Seibu Lions,24,"Vukovich, George",RF,101,364,320,0.244,0.332,0.428,0.760,38,46,78,48,15,1,14,137,0,3,41,2,53,2,2,0,1,21023862
+1987,Regular Season,Hankyu Braves,9,"Motonishi, Atsuhiro",LF,114,234,207,0.242,0.295,0.300,0.595,35,14,50,42,6,0,2,62,10,3,13,1,36,4,3,10,1,21023864
+1987,Regular Season,Hankyu Braves,13,"Mori, Kozo",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21023865
+1987,Regular Season,Chunichi Dragons,51,"Hamada, Kazuo",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21023869
+1987,Regular Season,Kintetsu Buffaloes,31,"Ohara, Tetsuya",1B,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21123848
+1987,Japan Series,Yomiuri Giants,51,"Ishii, Masahiro",LF,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,21123860
+1987,Regular Season,Yomiuri Giants,51,"Ishii, Masahiro",LF,48,61,54,0.241,0.293,0.352,0.645,6,5,13,9,3,0,1,19,1,0,4,0,15,1,0,3,0,21123860
+1987,Regular Season,Nankai Hawks,1,"Ogawa, Hiroshi",SS,73,172,141,0.199,0.281,0.213,0.494,14,7,28,26,2,0,0,30,6,4,17,0,20,4,0,12,2,21123861
+1987,Regular Season,Lotte Orions,46,"Ito, Masaru",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21123862
+1987,Regular Season,Hanshin Tigers,40,"Iwakiri, Eiji",C,6,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21123864
+1987,Regular Season,Chunichi Dragons,27,"Iwamoto, Yoshihiro",2B,58,48,44,0.182,0.217,0.295,0.512,13,2,8,5,2,0,1,13,7,4,2,0,6,0,0,2,0,21123865
+1987,Regular Season,Seibu Lions,32,"Ishii, Takeshi",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21123867
+1987,Regular Season,Hiroshima Toyo Carp,31,"Ito, Toshifumi",PH,9,15,14,0.286,0.333,0.500,0.833,2,1,4,3,0,0,1,7,0,0,1,1,0,0,0,0,0,21123869
+1987,Regular Season,Nankai Hawks,15,"Moriwaki, Hiroshi",SS,91,198,172,0.203,0.262,0.262,0.524,22,11,35,31,1,0,3,45,3,2,12,0,36,4,2,11,1,21223863
+1987,Regular Season,Hiroshima Toyo Carp,45,"Lancellotti, Rick",LF,121,470,403,0.218,0.323,0.536,0.859,67,83,88,39,9,1,39,216,0,2,60,7,114,10,4,0,3,21223864
+1987,Regular Season,Hankyu Braves,44,"Wells, Boomer",1B,129,565,513,0.331,0.379,0.624,1.003,81,119,170,100,30,0,40,320,2,2,40,10,43,21,4,0,8,21223867
+1987,Japan Series,Yomiuri Giants,31,"Mizuno, Katsuhito",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,21223869
+1987,Regular Season,Yomiuri Giants,31,"Mizuno, Katsuhito",P,28,44,41,0.146,0.167,0.244,0.411,3,1,6,4,1,0,1,10,0,0,1,0,9,1,0,2,0,21223869
+1987,Regular Season,Hiroshima Toyo Carp,29,"Kobayashi, Seiji",P,16,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323842
+1987,Regular Season,Lotte Orions,9,"Saito, Ko",C,82,154,141,0.277,0.322,0.411,0.733,15,15,39,30,2,4,3,58,0,0,10,0,23,4,0,2,1,21323844
+1987,Regular Season,Kintetsu Buffaloes,16,"Kubo, Yasuo",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323846
+1987,Japan Series,Seibu Lions,18,"Kaku, Taigen",P,1,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,3,,,,,21323860
+1987,Regular Season,Seibu Lions,18,"Kaku, Taigen",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323860
+1987,Regular Season,Chunichi Dragons,53,"Kawabata, Yasuhiro",P,21,33,30,0.233,0.258,0.300,0.558,1,5,7,5,2,0,0,9,0,0,1,0,11,0,0,2,0,21323862
+1987,Regular Season,Yakult Swallows,24,"Okawa, Akira",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323863
+1987,Regular Season,Chunichi Dragons,13,"Kondo, Shinichi",P,11,20,19,0.105,0.105,0.105,0.210,1,1,2,2,0,0,0,2,0,0,0,0,6,2,0,1,0,21323864
+1987,Regular Season,Hiroshima Toyo Carp,47,"Kaneishi, Akihito",P,17,32,28,0.107,0.107,0.214,0.321,1,0,3,1,1,1,0,6,0,0,0,0,8,1,0,4,0,21323865
+1987,Japan Series,Yomiuri Giants,60,"Kawai, Masahiro",2B,1,,2,0.500,,1.000,,,0,1,0,1,0,0,2,0,,0,,0,,,,,21323869
+1987,Regular Season,Yomiuri Giants,60,"Kawai, Masahiro",2B,58,49,38,0.211,0.318,0.316,0.634,8,0,8,4,4,0,0,12,0,0,4,1,7,1,2,5,0,21323869
+1987,Regular Season,Chunichi Dragons,16,"Miyashita, Masami",P,50,20,17,0.176,0.222,0.176,0.398,1,1,3,3,0,0,0,3,0,0,0,0,7,0,1,2,0,21423860
+1987,Regular Season,Seibu Lions,2,"Yoshitake, Haruki",LF,77,222,200,0.265,0.288,0.355,0.643,23,16,53,45,3,0,5,71,4,6,6,0,35,4,1,14,1,21423863
+1987,Regular Season,Nankai Hawks,36,"Yamakawa, Shuichi",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21423867
+1987,Regular Season,Yokohama Taiyo Whales,36,"Koyama, Akiyoshi",C,6,4,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,21523860
+1987,Regular Season,Yakult Swallows,59,"Genoka, Masamitsu",PH,19,11,10,0.200,0.273,0.500,0.773,2,0,2,0,1,1,0,5,0,0,1,0,3,0,0,0,0,21523863
+1987,Regular Season,Lotte Orions,21,"Seki, Kiyokazu",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21523864
+1987,Regular Season,Lotte Orions,13,"Kuwata, Shigeru",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21523867
+1987,Regular Season,Hankyu Braves,22,"Kobayashi, Atsumi",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21523869
+1987,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",PH,54,59,53,0.245,0.286,0.321,0.607,8,2,13,11,1,0,1,17,3,2,3,0,9,2,0,3,0,21623860
+1987,Regular Season,Lotte Orions,20,"Nishina, Tokinari",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723844
+1987,Regular Season,Yakult Swallows,9,"Sugiura, Toru",LF,117,443,375,0.304,0.400,0.560,0.960,68,73,114,69,18,3,24,210,3,2,62,1,57,5,1,0,5,21723845
+1987,Regular Season,Lotte Orions,35,"Shoji, Tomohisa",RF,71,133,119,0.252,0.313,0.353,0.666,9,15,30,22,6,0,2,42,2,5,10,0,16,2,1,2,1,21723849
+1987,Regular Season,Yokohama Taiyo Whales,27,"Takeda, Mitsukuni",1B,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723862
+1987,Regular Season,Chunichi Dragons,47,"Sota, Yasuji",P,12,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723863
+1987,Regular Season,Yakult Swallows,53,"Naito, Naoyuki",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723864
+1987,Regular Season,Hiroshima Toyo Carp,18,"Shiratake, Yoshihisa",P,37,26,24,0.167,0.200,0.167,0.367,3,0,4,4,0,0,0,4,0,0,0,0,8,0,1,1,0,21723867
+1987,Regular Season,Lotte Orions,7,"Mizukami, Yoshio",SS,119,404,361,0.263,0.301,0.388,0.689,34,42,95,68,18,0,9,140,14,12,19,0,66,6,2,18,4,21923842
+1987,Regular Season,Hiroshima Toyo Carp,0,"Nagashima, Kiyoyuki",CF,128,507,462,0.288,0.333,0.450,0.783,54,53,133,93,20,5,15,208,5,6,30,0,80,5,1,12,0,21923861
+1987,Regular Season,Hiroshima Toyo Carp,16,"Nagadomi, Hiroshi",P,22,38,34,0.118,0.167,0.118,0.285,3,2,4,4,0,0,0,4,0,0,2,0,14,0,0,2,0,21923862
+1987,Regular Season,Hanshin Tigers,28,"Nakada, Yoshihiro",P,7,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21923863
+1987,Regular Season,Yomiuri Giants,64,"Fujimoto, Kenji",LF,37,11,11,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,21923864
+1987,Regular Season,Hankyu Braves,40,"Fukuhara, Mineo",2B,91,41,34,0.147,0.275,0.235,0.510,8,1,5,2,3,0,0,8,1,0,6,0,11,2,0,1,0,21923865
+1987,Regular Season,Hanshin Tigers,62,"Tomari, Katsunori",LF,43,141,137,0.270,0.279,0.438,0.717,17,17,37,25,6,1,5,60,3,0,0,0,25,4,2,1,1,21923869
+1987,Regular Season,Chunichi Dragons,42,"Nishii, Tetsuo",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31033841
+1987,Regular Season,Lotte Orions,44,"Yamamoto, Koji",1B,95,274,251,0.319,0.371,0.438,0.809,29,42,80,62,12,0,6,110,2,0,18,0,34,5,3,2,0,31033842
+1987,Regular Season,Chunichi Dragons,32,"Moriguchi, Masumitsu",P,21,11,11,0.273,0.273,0.273,0.546,0,0,3,3,0,0,0,3,0,0,0,0,7,0,0,0,0,31033844
+1987,Regular Season,Hiroshima Toyo Carp,1,"Yamasaki, Ryuzo",RF,130,568,487,0.294,0.366,0.417,0.783,79,43,143,109,20,2,12,203,21,2,55,3,72,4,2,21,3,31033846
+1987,Regular Season,Nippon-Ham Fighters,6,"Putnam, Pat",1B,115,420,382,0.241,0.302,0.377,0.679,39,43,92,64,16,0,12,144,0,1,31,2,59,17,4,0,3,31033862
+1987,Regular Season,Yakult Swallows,50,"Horner, Bob",3B,93,355,303,0.327,0.423,0.683,1.106,60,73,99,53,15,0,31,207,0,0,50,3,65,9,1,0,1,31033864
+1987,Regular Season,Hankyu Braves,32,"Minamimure, Toyozo",LF,2,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31033865
+1987,Regular Season,Hankyu Braves,23,"Nagamura, Hiroyuki",C,9,7,7,0.143,0.143,0.286,0.429,0,1,1,0,1,0,0,2,0,0,0,0,1,0,0,0,0,31033869
+1987,Regular Season,Chunichi Dragons,7,"Uno, Masaru",SS,130,534,471,0.270,0.352,0.503,0.855,72,80,127,77,20,0,30,237,9,10,61,4,75,21,0,0,2,31133844
+1987,Regular Season,Yokohama Taiyo Whales,50,"Aikawa, Hideaki",P,24,25,23,0.174,0.208,0.174,0.382,3,0,4,4,0,0,0,4,0,0,1,0,9,0,0,1,0,31133862
+1987,Regular Season,Lotte Orions,1,"Aiko, Takeshi",1B,105,316,292,0.260,0.304,0.425,0.729,39,31,76,46,20,2,8,124,2,5,18,1,44,8,1,3,2,31133863
+1987,Regular Season,Yokohama Taiyo Whales,5,"Adduci, Jim",LF,82,309,280,0.268,0.331,0.496,0.827,35,48,75,40,19,3,13,139,1,1,26,2,73,2,1,1,1,31133864
+1987,Japan Series,Seibu Lions,25,"Abe, Osamu",LF,6,,19,0.316,,0.421,,,2,6,4,2,0,0,8,0,,1,,4,,,,,31133869
+1987,Regular Season,Seibu Lions,25,"Abe, Osamu",LF,83,228,203,0.271,0.329,0.424,0.753,27,26,55,40,6,2,7,86,4,2,18,3,37,5,1,3,3,31133869
+1987,Regular Season,Chunichi Dragons,57,"Hikono, Toshikatsu",CF,101,341,311,0.254,0.297,0.434,0.731,51,30,79,46,21,1,11,135,2,5,17,0,77,4,3,8,2,31233860
+1987,Regular Season,Yokohama Taiyo Whales,7,"Ponce, Carlos",RF,130,550,492,0.323,0.387,0.616,1.003,75,98,159,89,31,4,35,303,9,2,46,16,73,5,8,0,4,31233862
+1987,Regular Season,Hankyu Braves,24,"Yamagoshi, Yoshihiro",SS,33,16,14,0.071,0.133,0.071,0.204,5,1,1,1,0,0,0,1,0,1,0,0,6,0,1,1,0,31233864
+1987,Regular Season,Nankai Hawks,45,"Yamada, Tsutomu",LF,87,188,162,0.278,0.352,0.346,0.698,23,11,45,38,5,0,2,56,0,6,18,0,24,1,1,6,1,31233865
+1987,Regular Season,Hanshin Tigers,35,"Hattori, Koichi",PR,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233867
+1987,Regular Season,Nippon-Ham Fighters,14,"Kawahara, Shoji",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333842
+1987,Japan Series,Yomiuri Giants,21,"Kato, Hajime",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31333845
+1987,Regular Season,Yomiuri Giants,21,"Kato, Hajime",P,19,34,29,0.207,0.233,0.207,0.440,1,8,6,6,0,0,0,6,0,0,1,0,15,1,0,4,0,31333845
+1987,Regular Season,Yakult Swallows,32,"Obana, Takao",P,33,74,62,0.129,0.182,0.129,0.311,1,4,8,8,0,0,0,8,0,0,4,0,24,1,0,8,0,31333846
+1987,Regular Season,Hanshin Tigers,33,"Ono, Hisashi",LF,82,101,95,0.232,0.253,0.347,0.600,14,8,22,14,5,3,0,33,5,3,3,0,17,0,0,2,1,31333860
+1987,Regular Season,Hanshin Tigers,16,"Okada, Akinobu",2B,130,518,474,0.255,0.315,0.407,0.722,54,58,121,80,24,3,14,193,5,2,40,2,75,12,2,0,2,31333861
+1987,Regular Season,Yokohama Taiyo Whales,33,"Ichikawa, Kazumasa",C,38,81,73,0.151,0.205,0.205,0.410,4,5,11,7,4,0,0,15,0,0,5,3,12,1,0,3,0,31333863
+1987,Regular Season,Chunichi Dragons,41,"Castillo, Bobby",P,2,3,3,0.667,0.667,0.667,1.334,1,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,31333864
+1987,Regular Season,Chunichi Dragons,2,"Onoe, Akira",PH,18,10,9,0.111,0.200,0.111,0.311,1,0,1,1,0,0,0,1,0,0,1,0,4,0,0,0,0,31333865
+1987,Regular Season,Nippon-Ham Fighters,33,"Oikawa, Mikio",PR,72,34,30,0.267,0.333,0.400,0.733,15,2,8,6,1,0,1,12,4,1,3,0,8,1,0,1,0,31333867
+1987,Regular Season,Kintetsu Buffaloes,26,"Ono, Kazuyoshi",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333869
+1987,Regular Season,Hankyu Braves,28,"Hoshino, Nobuyuki",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31433860
+1987,Japan Series,Yomiuri Giants,39,"Yamasaki, Akihiro",PH,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,1,,,,,31433862
+1987,Regular Season,Yomiuri Giants,39,"Yamasaki, Akihiro",PH,22,21,20,0.300,0.333,0.450,0.783,2,6,6,3,3,0,0,9,0,0,1,0,7,1,0,0,0,31433862
+1987,Japan Series,Yomiuri Giants,17,"Makihara, Hiromi",P,1,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,3,,,,,31433867
+1987,Regular Season,Yomiuri Giants,17,"Makihara, Hiromi",P,27,55,51,0.118,0.132,0.118,0.250,2,6,6,6,0,0,0,6,0,0,0,0,21,3,1,2,1,31433867
+1987,Regular Season,Nippon-Ham Fighters,8,"Shimada, Makoto",CF,122,520,472,0.263,0.310,0.337,0.647,64,30,124,101,16,2,5,159,14,9,31,0,61,4,2,14,1,31533844
+1987,Regular Season,Chunichi Dragons,20,"Komatsu, Tatsuo",P,28,72,68,0.235,0.246,0.324,0.570,7,1,16,10,6,0,0,22,0,0,1,0,15,2,0,3,0,31533846
+1987,Regular Season,Hanshin Tigers,53,"Saito, Naoya",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31533864
+1987,Regular Season,Chunichi Dragons,45,"Kawamoto, Tomonori",P,8,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,31533867
+1987,Japan Series,Yomiuri Giants,49,"Cromartie, Warren",CF,6,,25,0.320,,0.360,,,0,8,7,1,0,0,9,0,,0,,5,,,,,31533869
+1987,Regular Season,Yomiuri Giants,49,"Cromartie, Warren",CF,124,505,476,0.300,0.333,0.527,0.860,65,92,143,93,20,2,28,251,2,1,22,1,76,7,3,0,4,31533869
+1987,Regular Season,Lotte Orions,2,"Yokota, Masashi",CF,125,441,399,0.281,0.321,0.406,0.727,52,51,112,81,19,5,7,162,26,4,25,2,49,4,0,14,3,31633860
+1987,Regular Season,Hankyu Braves,48,"Wakukawa, Tsutomu",SS,37,16,13,0.231,0.286,0.231,0.517,3,0,3,3,0,0,0,3,0,2,1,0,5,1,0,2,0,31633867
+1987,Regular Season,Kintetsu Buffaloes,11,"Tani, Hiroaki",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733842
+1987,Regular Season,Hanshin Tigers,24,"Sato, Hideaki",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733860
+1987,Regular Season,Kintetsu Buffaloes,44,"Suzuki, Takahisa",RF,119,487,450,0.262,0.308,0.449,0.757,46,54,118,76,21,0,21,202,4,4,25,4,89,11,6,3,3,31733862
+1987,Regular Season,Nankai Hawks,58,"Tonda, Kunimitsu",PH,3,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31733864
+1987,Regular Season,Nippon-Ham Fighters,3,"Shirai, Kazuyuki",2B,130,573,499,0.265,0.322,0.395,0.717,77,63,132,98,18,1,15,197,21,5,41,0,78,6,2,30,1,31733869
+1987,Regular Season,Nippon-Ham Fighters,5,"Furuya, Hideo",3B,104,405,366,0.260,0.323,0.426,0.749,56,69,95,65,14,1,15,156,2,0,32,1,49,12,4,0,3,31933846
+1987,Regular Season,Kintetsu Buffaloes,3,"Hada, Koichi",1B,74,156,147,0.211,0.245,0.361,0.606,11,17,31,19,6,2,4,53,0,1,6,0,24,2,1,1,1,31933847
+1987,Regular Season,Seibu Lions,6,"Tanabe, Norio",SS,78,241,223,0.224,0.260,0.372,0.632,24,15,50,32,10,1,7,83,3,2,11,0,37,7,0,6,1,31933860
+1987,Regular Season,Nankai Hawks,9,"Hostetler, Dave",1B,124,446,391,0.251,0.332,0.417,0.749,42,68,98,68,12,1,17,163,1,4,44,7,91,17,6,0,5,31933862
+1987,Regular Season,Kintetsu Buffaloes,37,"Tanizaki, Koji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31933863
+1987,Regular Season,Yakult Swallows,21,"Nishioka, Tsuyoshi",P,27,7,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,0,31933864
+1987,Japan Series,Seibu Lions,5,"Tsuji, Hatsuhiko",2B,6,,16,0.188,,0.188,,,0,3,3,0,0,0,3,0,,1,,3,,,,,31933869
+1987,Regular Season,Seibu Lions,5,"Tsuji, Hatsuhiko",2B,51,136,125,0.200,0.242,0.304,0.546,9,9,25,17,5,1,2,38,10,1,5,0,21,2,2,4,0,31933869
+1987,Regular Season,Lotte Orions,29,"Murata, Choji",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043826
+1987,Regular Season,Lotte Orions,11,"Mizutani, Norihiro",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043828
+1987,Regular Season,Yokohama Taiyo Whales,1,"Yamashita, Daisuke",3B,94,196,172,0.186,0.238,0.267,0.505,12,11,32,24,5,0,3,46,3,3,12,1,15,1,0,11,1,41043849
+1987,Regular Season,Nippon-Ham Fighters,10,"Hayakawa, Kazuo",RF,64,191,169,0.278,0.339,0.396,0.735,13,16,47,34,8,3,2,67,1,3,15,2,27,1,1,5,1,41043860
+1987,Regular Season,Nippon-Ham Fighters,44,"Brewer, Tony",LF,129,555,478,0.303,0.391,0.577,0.968,85,98,145,85,24,1,35,276,2,3,71,2,74,9,1,0,5,41043862
+1987,Regular Season,Chunichi Dragons,3,"Hirano, Ken",CF,90,344,317,0.268,0.303,0.363,0.666,28,26,85,66,12,3,4,115,13,6,16,2,42,5,0,11,0,41043863
+1987,Regular Season,Nippon-Ham Fighters,57,"Mori, Noriyuki",3B,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043864
+1987,Regular Season,Nankai Hawks,24,"Yano, Minoru",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043865
+1987,Regular Season,Nankai Hawks,8,"Kono, Takayuki",2B,108,340,276,0.312,0.409,0.395,0.804,36,27,86,74,6,1,5,109,4,4,45,0,34,8,2,15,2,41143840
+1987,Regular Season,Yokohama Taiyo Whales,53,"Itakura, Kenji",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,41143860
+1987,Regular Season,Chunichi Dragons,8,"Oishi, Tomoyoshi",C,42,86,78,0.205,0.262,0.295,0.557,5,8,16,11,4,0,1,23,0,1,4,1,14,2,2,2,0,41143861
+1987,Regular Season,Hankyu Braves,20,"Ishii, Hiroshi",LF,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41143862
+1987,Japan Series,Seibu Lions,7,"Ishige, Hiromichi",3B,6,,23,0.348,,0.652,,,2,8,5,1,0,2,15,0,,3,,6,,,,,41143863
+1987,Regular Season,Seibu Lions,7,"Ishige, Hiromichi",3B,130,582,525,0.269,0.331,0.370,0.701,80,41,141,110,20,0,11,194,14,3,47,5,89,6,3,5,2,41143863
+1987,Regular Season,Chunichi Dragons,58,"Emoto, Koichi",P,36,9,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,0,0,41143864
+1987,Regular Season,Lotte Orions,18,"Ishikawa, Masaru",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41143867
+1987,Regular Season,Hankyu Braves,2,"Iizuka, Tomiji",LF,12,21,18,0.111,0.238,0.278,0.516,2,2,2,1,0,0,1,5,0,0,3,0,7,0,0,0,0,41143869
+1987,Regular Season,Nippon-Ham Fighters,19,"Mashiba, Shigekuni",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243841
+1987,Regular Season,Kintetsu Buffaloes,57,"Furukubo, Kenji",C,28,38,34,0.294,0.306,0.353,0.659,4,5,10,8,2,0,0,12,1,0,1,0,12,0,0,2,1,41243860
+1987,Regular Season,Lotte Orions,30,"Morita, Yoshihiko",PR,51,25,20,0.150,0.292,0.150,0.442,11,2,3,3,0,0,0,3,1,1,4,0,4,0,0,1,0,41243862
+1987,Regular Season,Yokohama Taiyo Whales,18,"Lezcano, Sixto",RF,20,72,69,0.217,0.250,0.348,0.598,4,7,15,12,0,0,3,24,0,1,3,1,17,3,0,0,0,41243864
+1987,Regular Season,Hankyu Braves,25,"Fujita, Hiromasa",C,104,281,260,0.235,0.257,0.365,0.622,22,44,61,45,7,0,9,95,0,1,6,0,36,13,3,9,3,41243867
+1987,Regular Season,Hankyu Braves,47,"Murakami, Shinichi",PR,5,4,4,0.500,0.500,0.500,1.000,1,1,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,41243869
+1987,Regular Season,Yakult Swallows,23,"Sakai, Keiichi",P,28,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41343844
+1987,Regular Season,Hanshin Tigers,26,"Kudo, Kazuhiko",P,32,29,27,0.222,0.214,0.222,0.436,1,1,6,6,0,0,0,6,0,1,0,0,10,0,0,1,1,41343846
+1987,Regular Season,Hanshin Tigers,2,"Kashiwabara, Junichi",PH,57,100,91,0.176,0.250,0.242,0.492,4,5,16,12,3,0,1,22,1,0,9,0,23,3,0,0,0,41343847
+1987,Japan Series,Seibu Lions,3,"Kiyohara, Kazuhiro",1B,6,,22,0.227,,0.409,,,3,5,3,1,0,1,9,0,,2,,6,,,,,41343862
+1987,Regular Season,Seibu Lions,3,"Kiyohara, Kazuhiro",1B,130,536,444,0.259,0.382,0.525,0.907,66,83,115,58,25,3,29,233,11,4,80,6,88,10,10,0,2,41343862
+1987,Japan Series,Seibu Lions,28,"Okamura, Takanori",RF,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,41343863
+1987,Regular Season,Seibu Lions,28,"Okamura, Takanori",RF,37,13,11,0.091,0.231,0.091,0.322,2,0,1,1,0,0,0,1,0,0,2,0,3,0,0,0,0,41343863
+1987,Regular Season,Chunichi Dragons,44,"Koyama, Kazuyoshi",RF,11,19,17,0.235,0.316,0.588,0.904,5,2,4,2,0,0,2,10,0,0,1,0,3,1,1,0,0,41343864
+1987,Regular Season,Kintetsu Buffaloes,6,"Kanemura, Yoshiaki",3B,130,531,469,0.243,0.300,0.367,0.667,51,61,114,86,12,2,14,172,4,3,42,2,101,11,1,8,11,41343865
+1987,Regular Season,Hiroshima Toyo Carp,33,"Kawabata, Jun",P,57,32,29,0.138,0.138,0.138,0.276,3,1,4,4,0,0,0,4,0,0,0,0,6,0,0,3,0,41343869
+1987,Regular Season,Yomiuri Giants,13,"Miyamoto, Kazutomo",P,8,2,2,0.500,0.500,0.500,1.000,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,41443860
+1987,Japan Series,Seibu Lions,33,"Tachibana, Yoshiie",PH,3,,5,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,3,,,,,41543846
+1987,Regular Season,Seibu Lions,33,"Tachibana, Yoshiie",PH,40,74,70,0.229,0.270,0.386,0.656,8,5,16,9,5,0,2,27,0,1,4,0,13,2,0,0,0,41543846
+1987,Regular Season,Chunichi Dragons,29,"Suzuki, Takamasa",P,30,45,41,0.146,0.186,0.146,0.332,0,0,6,6,0,0,0,6,0,0,2,0,10,2,0,2,0,41543847
+1987,Regular Season,Kintetsu Buffaloes,2,"Kurihashi, Shigeru",DH,73,200,181,0.298,0.360,0.464,0.824,20,19,54,36,12,0,6,84,2,0,16,0,39,1,2,0,1,41543849
+1987,Regular Season,Nippon-Ham Fighters,18,"Kono, Hirofumi",P,43,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543860
+1987,Regular Season,Nankai Hawks,43,"Sakaguchi, Chisen",SS,46,56,48,0.188,0.291,0.229,0.520,8,4,9,7,2,0,0,11,0,1,4,0,14,0,3,1,0,41543862
+1987,Regular Season,Hankyu Braves,52,"Takahashi, Satoshi",PH,28,60,54,0.278,0.350,0.519,0.869,6,9,15,10,1,0,4,28,0,0,6,1,23,1,0,0,0,41543864
+1987,Regular Season,Kintetsu Buffaloes,45,"Koyama, Masao",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543867
+1987,Regular Season,Yakult Swallows,60,"Goseki, Masahiko",PH,24,24,24,0.167,0.167,0.333,0.500,2,2,4,2,1,0,1,8,0,0,0,0,5,3,0,0,0,41543869
+1987,Regular Season,Yokohama Taiyo Whales,20,"Hirata, Kaoru",PH,30,52,50,0.160,0.173,0.240,0.413,3,7,8,6,1,0,1,12,0,0,1,0,12,1,0,0,1,41743846
+1987,Regular Season,Hanshin Tigers,37,"Nagao, Yasunori",PH,29,29,27,0.111,0.138,0.148,0.286,2,2,3,2,1,0,0,4,0,0,1,0,6,1,0,0,1,41743847
+1987,Regular Season,Hanshin Tigers,12,"Fukuma, Osamu",P,48,5,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,41743848
+1987,Regular Season,Lotte Orions,15,"So, Katsuo",P,44,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743860
+1987,Regular Season,Nippon-Ham Fighters,37,"Tanaka, Yukio",SS,112,351,325,0.203,0.250,0.320,0.570,36,33,66,46,11,0,9,104,1,5,19,2,80,10,2,3,2,41743862
+1987,Regular Season,Nippon-Ham Fighters,22,"Tamura, Fujio",C,125,498,454,0.275,0.333,0.394,0.727,49,60,125,96,16,1,12,179,5,2,37,2,70,20,2,5,0,41743863
+1987,Regular Season,Hanshin Tigers,65,"Nakatani, Tadami",PH,7,6,5,0.000,0.167,0.000,0.167,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,41743864
+1987,Regular Season,Hiroshima Toyo Carp,14,"Tsuda, Tsunemi",P,47,11,11,0.091,0.091,0.091,0.182,0,0,1,1,0,0,0,1,0,0,0,0,6,0,0,0,0,41743865
+1987,Regular Season,Hankyu Braves,10,"Tani, Ryoji",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743869
+1987,Regular Season,Hankyu Braves,1,"Minoda, Koji",RF,121,469,424,0.241,0.300,0.382,0.682,47,50,102,68,21,0,13,162,3,2,35,2,63,11,3,3,4,41943842
+1987,Regular Season,Yokohama Taiyo Whales,13,"Nagai, Tamotsu",P,39,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943845
+1987,Regular Season,Seibu Lions,11,"Mori, Shigekazu",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943848
+1987,Regular Season,Chunichi Dragons,40,"Fujinami, Yukio",PH,6,19,16,0.188,0.235,0.250,0.485,0,2,3,2,1,0,0,4,1,0,1,0,2,0,0,2,0,41943849
+1987,Regular Season,Hankyu Braves,38,"Fujii, Yasuo",PH,77,111,96,0.281,0.360,0.406,0.766,11,13,27,19,6,0,2,39,1,0,12,1,16,2,1,0,2,41943864
+1987,Regular Season,Hanshin Tigers,29,"Fukuya, Masaaki",P,14,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,41943865
+1987,Japan Series,Seibu Lions,8,"Yukizawa, Hisataka",3B,3,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51053842
+1987,Regular Season,Seibu Lions,8,"Yukizawa, Hisataka",3B,57,66,58,0.207,0.266,0.379,0.645,6,7,12,8,1,0,3,22,1,0,5,1,13,2,0,2,1,51053842
+1987,Regular Season,Seibu Lions,17,"Yamane, Kazuo",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053844
+1987,Regular Season,Nippon-Ham Fighters,26,"Nishimura, Motofumi",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053860
+1987,Regular Season,Hankyu Braves,33,"Harada, Kenji",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053862
+1987,Regular Season,Hiroshima Toyo Carp,27,"Hara, Shinji",PH,10,14,12,0.250,0.231,0.667,0.898,1,3,3,1,0,1,1,8,0,0,0,0,0,1,0,1,1,51053863
+1987,Regular Season,Kintetsu Buffaloes,12,"Makishi, Yasunaga",SS,77,136,122,0.148,0.180,0.205,0.385,12,6,18,15,1,0,2,25,2,1,5,0,28,2,0,8,1,51053864
+1987,Regular Season,Yakult Swallows,14,"Miyamoto, Kenji",P,38,28,23,0.130,0.231,0.130,0.361,4,1,3,3,0,0,0,3,0,0,3,0,11,1,0,2,0,51053865
+1987,Regular Season,Yakult Swallows,20,"Nakamoto, Shigeki",P,40,4,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,2,0,51053867
+1987,Regular Season,Seibu Lions,46,"Narita, Yukihiro",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053869
+1987,Regular Season,Kintetsu Buffaloes,9,"Arai, Hiromasa",CF,128,568,503,0.366,0.403,0.507,0.910,67,67,184,144,22,5,13,255,5,4,34,0,26,5,2,22,7,51153840
+1987,Regular Season,Nankai Hawks,34,"Aoyama, Hisato",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51153842
+1987,Regular Season,Yakult Swallows,29,"Ashizawa, Masaru",C,11,19,19,0.211,0.211,0.211,0.422,0,1,4,4,0,0,0,4,0,0,0,0,4,1,0,0,0,51153846
+1987,Regular Season,Nankai Hawks,27,"Iwaki, Satoshi",PR,20,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,51153848
+1987,Regular Season,Yakult Swallows,43,"Ai, Eijiro",P,36,17,16,0.125,0.125,0.125,0.250,0,0,2,2,0,0,0,2,0,0,0,0,5,0,0,1,0,51153860
+1987,Regular Season,Nippon-Ham Fighters,4,"Igarashi, Shinichi",PH,68,144,122,0.279,0.348,0.451,0.799,13,12,34,19,11,2,2,55,1,0,13,0,19,1,0,9,0,51153861
+1987,Regular Season,Yakult Swallows,10,"Arai, Yukio",LF,105,409,372,0.301,0.360,0.444,0.804,52,38,112,79,22,2,9,165,2,3,31,2,31,4,3,3,0,51153862
+1987,Japan Series,Seibu Lions,1,"Akiyama, Koji",CF,6,,21,0.286,,0.476,,,4,6,4,1,0,1,10,1,,4,,6,,,,,51153863
+1987,Regular Season,Seibu Lions,1,"Akiyama, Koji",CF,130,550,496,0.262,0.329,0.556,0.885,82,94,130,72,13,2,43,276,38,12,48,5,102,8,3,0,3,51153863
+1987,Regular Season,Kintetsu Buffaloes,14,"Awano, Hideyuki",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51153864
+1987,Regular Season,Hankyu Braves,17,"Yamada, Hisashi",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253828
+1987,Regular Season,Yokohama Taiyo Whales,22,"Wakana, Yoshiharu",C,81,255,229,0.301,0.356,0.415,0.771,23,27,69,52,12,1,4,95,1,0,20,10,23,9,0,5,1,51253849
+1987,Regular Season,Nankai Hawks,29,"Yamamoto, Kazunori",RF,104,414,357,0.252,0.334,0.356,0.690,44,38,90,67,16,0,7,127,7,2,35,2,53,10,10,10,2,51253861
+1987,Regular Season,Hankyu Braves,8,"Matsunaga, Hiromi",3B,114,444,393,0.290,0.367,0.440,0.807,59,45,114,79,22,2,11,173,9,4,45,1,64,12,3,2,1,51253863
+1987,Regular Season,Kintetsu Buffaloes,39,"Yamasaki, Shintaro",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253864
+1987,Japan Series,Yomiuri Giants,7,"Yoshimura, Sadaaki",RF,6,,23,0.304,,0.304,,,2,7,7,0,0,0,7,0,,2,,1,,,,,51253865
+1987,Regular Season,Yomiuri Giants,7,"Yoshimura, Sadaaki",RF,127,464,428,0.322,0.357,0.591,0.948,76,86,138,85,21,2,30,253,5,1,24,3,62,9,1,8,3,51253865
+1987,Regular Season,Nankai Hawks,20,"Fujimoto, Shuji",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253869
+1987,Regular Season,Hankyu Braves,21,"Imai, Yutaro",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353843
+1987,Regular Season,Yokohama Taiyo Whales,44,"Kato, Hirokazu",LF,97,231,198,0.268,0.342,0.343,0.685,26,15,53,41,10,1,1,68,7,7,22,1,30,2,1,9,1,51353845
+1987,Regular Season,Hiroshima Toyo Carp,9,"Osanai, Takashi",PH,54,114,105,0.229,0.289,0.295,0.584,9,7,24,19,4,0,1,31,1,0,7,0,36,0,2,0,0,51353861
+1987,Regular Season,Yomiuri Giants,57,"Kamogawa, Shigeharu",P,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51353864
+1987,Japan Series,Yomiuri Giants,45,"Okazaki, Kaoru",SS,4,,12,0.333,,0.417,,,1,4,3,1,0,0,5,0,,0,,2,,,,,51353865
+1987,Regular Season,Yomiuri Giants,45,"Okazaki, Kaoru",SS,117,359,297,0.249,0.314,0.306,0.620,40,14,74,57,17,0,0,91,0,1,28,0,61,4,1,31,2,51353865
+1987,Regular Season,Kintetsu Buffaloes,40,"Yamashita, Kazuhiko",C,116,324,286,0.217,0.270,0.308,0.578,31,24,62,48,8,0,6,88,0,3,18,0,79,4,3,17,0,51453862
+1987,Regular Season,Hiroshima Toyo Carp,26,"Yamamoto, Kazuo",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51453863
+1987,Regular Season,Lotte Orions,39,"Maruyama, Kazuhito",PH,50,80,72,0.292,0.354,0.486,0.840,12,13,21,13,5,0,3,35,1,0,5,0,13,3,2,1,0,51453867
+1987,Japan Series,Seibu Lions,41,"Watanabe, Hisanobu",P,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,51453869
+1987,Regular Season,Seibu Lions,41,"Watanabe, Hisanobu",P,30,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51453869
+1987,Regular Season,Yakult Swallows,5,"Sumi, Fujio",3B,68,183,166,0.217,0.257,0.343,0.600,18,12,36,26,4,1,5,57,0,0,8,0,24,5,1,8,0,51553842
+1987,Regular Season,Nippon-Ham Fighters,13,"Shibata, Yasumitsu",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553848
+1987,Regular Season,Chunichi Dragons,4,"Rajsich, Gary",1B,87,359,331,0.317,0.360,0.592,0.952,60,54,105,66,11,4,24,196,2,1,22,1,51,7,2,1,3,51553862
+1987,Regular Season,Hiroshima Toyo Carp,34,"Kawaguchi, Kazuhisa",P,31,66,60,0.100,0.115,0.133,0.248,3,3,6,4,2,0,0,8,0,0,0,0,29,0,1,5,0,51553863
+1987,Regular Season,Hiroshima Toyo Carp,42,"Johnson, Randy",3B,101,245,216,0.319,0.379,0.477,0.856,28,26,69,47,16,0,6,103,0,0,16,1,19,7,6,5,2,51553864
+1987,Japan Series,Seibu Lions,47,"Kudo, Kimiyasu",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51553865
+1987,Regular Season,Seibu Lions,47,"Kudo, Kimiyasu",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553865
+1987,Regular Season,Hanshin Tigers,22,"Kido, Katsuhiko",C,101,275,235,0.238,0.318,0.353,0.671,26,18,56,41,9,0,6,83,1,1,26,8,27,10,2,11,1,51553867
+1987,Regular Season,Kintetsu Buffaloes,36,"Yoshii, Masato",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51653860
+1987,Regular Season,Nankai Hawks,54,"Nakao, Akio",3B,45,17,16,0.125,0.176,0.125,0.301,2,0,2,2,0,0,0,2,0,0,1,0,2,0,0,0,0,51753844
+1987,Regular Season,Seibu Lions,38,"Soma, Katsuya",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51753862
+1987,Regular Season,Nippon-Ham Fighters,48,"Sasaki, Masayuki",PH,7,8,6,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,51753863
+1987,Regular Season,Yokohama Taiyo Whales,30,"Deni, Tomori",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51753864
+1987,Japan Series,Seibu Lions,15,"Matsunuma, Hirohisa",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51953848
+1987,Regular Season,Seibu Lions,15,"Matsunuma, Hirohisa",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953848
+1987,Regular Season,Hanshin Tigers,21,"Toyama, Shoji",P,9,6,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,51953862
+1987,Regular Season,Chunichi Dragons,60,"Nishimura, Hidetsugu",P,4,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953864
+1987,Regular Season,Nippon-Ham Fighters,11,"Tanaka, Tomio",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953867
+1987,Regular Season,Kintetsu Buffaloes,19,"Yamamoto, Masao",LF,42,64,60,0.233,0.281,0.350,0.631,6,7,14,9,4,0,1,21,0,0,4,1,17,1,0,0,0,61063849
+1987,Regular Season,Yakult Swallows,63,"Fujieda, Shinji",C,4,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61063862
+1987,Regular Season,Seibu Lions,30,"Hirohashi, Koju",DH,59,106,96,0.323,0.356,0.417,0.773,18,17,31,25,4,1,1,40,2,1,5,0,9,0,0,5,0,61063863
+1987,Regular Season,Nankai Hawks,22,"Mori, Hiroyuki",C,3,8,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,61063864
+1987,Regular Season,Hankyu Braves,12,"Yamaoki, Yukihiko",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61063865
+1987,Regular Season,Hanshin Tigers,44,"Bass, Randy",1B,123,518,453,0.320,0.403,0.607,1.010,60,79,145,91,15,2,37,275,1,0,60,13,70,8,4,0,1,61063867
+1987,Regular Season,Lotte Orions,25,"Hiranuma, Sadaharu",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61063869
+1987,Regular Season,Yakult Swallows,19,"Kajima, Kenichi",P,37,3,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,61163844
+1987,Japan Series,Yomiuri Giants,10,"Okamoto, Keisuke",PH,2,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,61163848
+1987,Regular Season,Yomiuri Giants,10,"Okamoto, Keisuke",PH,5,6,5,0.000,0.167,0.000,0.167,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,61163848
+1987,Regular Season,Yomiuri Giants,23,"Ueda, Kazuaki",SS,5,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,61163860
+1987,Regular Season,Hiroshima Toyo Carp,46,"Ueda, Yukihiro",PH,9,10,10,0.400,0.400,0.500,0.900,2,1,4,3,1,0,0,5,0,0,0,0,2,0,0,0,0,61163862
+1987,Regular Season,Yokohama Taiyo Whales,51,"Ishibashi, Mitsugu",LF,92,67,63,0.222,0.242,0.317,0.559,11,9,14,11,1,1,1,20,3,2,2,0,11,1,0,1,1,61163863
+1987,Regular Season,Kintetsu Buffaloes,10,"Oglivie, Ben",DH,110,459,413,0.300,0.359,0.538,0.897,62,74,124,75,24,1,24,222,5,2,37,3,64,16,4,0,5,61163864
+1987,Regular Season,Yakult Swallows,35,"Ogawa, Junji",LF,113,245,229,0.240,0.280,0.432,0.712,32,31,55,36,5,3,11,99,2,2,13,0,48,5,0,2,1,61163865
+1987,Regular Season,Seibu Lions,36,"Ichimura, Norio",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61163867
+1987,Regular Season,Hanshin Tigers,18,"Ikeda, Chikafusa",P,28,42,37,0.243,0.300,0.270,0.570,1,0,9,8,1,0,0,10,0,0,3,0,13,0,0,2,0,61163869
+1987,Regular Season,Hankyu Braves,35,"Furumizo, Katsuyuki",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61263860
+1987,Regular Season,Yakult Swallows,12,"Yano, Kazuya",P,28,25,19,0.158,0.200,0.158,0.358,1,0,3,3,0,0,0,3,0,0,1,0,8,0,0,5,0,61263862
+1987,Regular Season,Nankai Hawks,18,"Yamauchi, Kazuhiro",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61263863
+1987,Regular Season,Nippon-Ham Fighters,56,"Watanabe, Hiroshi",3B,13,25,25,0.200,0.200,0.320,0.520,3,1,5,4,0,0,1,8,1,0,0,0,5,0,0,0,0,61263864
+1987,Regular Season,Nippon-Ham Fighters,28,"Futamura, Tadami",RF,99,228,199,0.221,0.288,0.276,0.564,13,12,44,37,5,0,2,55,4,2,13,0,52,3,6,9,1,61263867
+1987,Regular Season,Kintetsu Buffaloes,5,"Murakami, Takayuki",SS,109,370,342,0.240,0.282,0.406,0.688,43,39,82,52,16,1,13,139,6,2,18,1,80,5,3,5,2,61263869
+1987,Regular Season,Nankai Hawks,7,"Kato, Hideji",DH,110,293,262,0.260,0.331,0.393,0.724,24,42,68,51,8,0,9,103,1,0,27,2,37,8,2,0,2,61363828
+1987,Regular Season,Nippon-Ham Fighters,58,"Sato, Fumihiko",DH,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,61363864
+1987,Regular Season,Lotte Orions,6,"Kamikawa, Seiji",2B,96,283,262,0.256,0.287,0.370,0.657,28,29,67,49,12,0,6,97,6,6,13,0,15,5,0,4,4,61363865
+1987,Regular Season,Kintetsu Buffaloes,30,"Kato, Tetsuro",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363867
+1987,Regular Season,Yokohama Taiyo Whales,59,"Yamazaki, Kenichi",PH,42,48,46,0.174,0.191,0.348,0.539,5,6,8,4,2,0,2,16,0,0,0,0,11,0,1,1,0,61463860
+1987,Regular Season,Hanshin Tigers,64,"Yamawaki, Koji",PR,7,4,3,0.333,0.333,0.333,0.666,2,0,1,1,0,0,0,1,0,0,0,0,1,1,0,1,0,61463867
+1987,Regular Season,Lotte Orions,4,"Tanokura, Toshio",PH,78,167,141,0.348,0.440,0.624,1.064,20,24,49,29,10,1,9,88,3,3,24,2,34,3,0,1,1,61563847
+1987,Regular Season,Nippon-Ham Fighters,2,"Takashiro, Nobuhiro",3B,58,180,147,0.197,0.309,0.252,0.561,17,17,29,25,2,0,2,37,2,5,25,2,27,3,0,5,3,61563848
+1987,Regular Season,Yokohama Taiyo Whales,61,"Shirai, Masakatsu",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563862
+1987,Regular Season,Nankai Hawks,26,"Tajima, Toshio",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563864
+1987,Regular Season,Nippon-Ham Fighters,38,"Suzuki, Takayuki",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563865
+1987,Japan Series,Yomiuri Giants,50,"Komada, Norihiro",RF,6,,22,0.273,,0.455,,,1,6,4,1,0,1,10,0,,1,,2,,,,,61563867
+1987,Regular Season,Yomiuri Giants,50,"Komada, Norihiro",RF,113,371,331,0.287,0.344,0.450,0.794,50,40,95,72,7,1,15,149,1,1,29,3,55,6,1,8,2,61563867
+1987,Regular Season,Kintetsu Buffaloes,51,"Sato, Junichi",RF,84,62,58,0.310,0.322,0.397,0.719,14,5,18,15,2,0,1,23,5,4,1,0,13,1,0,3,0,61563869
+1987,Regular Season,Hanshin Tigers,3,"Nagasaki, Keiji",PH,60,64,59,0.237,0.281,0.458,0.739,5,11,14,9,1,0,4,27,0,0,4,2,15,2,0,0,1,61763847
+1987,Regular Season,Yokohama Taiyo Whales,3,"Takagi, Yutaka",2B,127,560,509,0.291,0.337,0.428,0.765,75,52,148,107,24,5,12,218,21,10,36,0,68,4,2,8,5,61763863
+1987,Regular Season,Chunichi Dragons,39,"Nakamura, Takeshi",C,43,119,113,0.212,0.246,0.319,0.565,12,11,24,18,3,0,3,36,2,0,3,0,19,5,2,1,0,61763864
+1987,Regular Season,Yokohama Taiyo Whales,9,"Choshi, Toshio",3B,8,24,23,0.304,0.304,0.304,0.608,1,0,7,7,0,0,0,7,0,0,0,0,5,1,0,1,0,61763869
+1987,Japan Series,Yomiuri Giants,2,"Matsumoto, Tadashi",LF,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,61963844
+1987,Regular Season,Yomiuri Giants,2,"Matsumoto, Tadashi",LF,106,392,365,0.244,0.289,0.312,0.601,50,20,89,71,14,1,3,114,13,10,24,0,74,2,0,1,2,61963844
+1987,Regular Season,Yokohama Taiyo Whales,31,"Yashiki, Kaname",CF,130,558,526,0.291,0.321,0.395,0.716,77,57,153,121,18,5,9,208,48,8,25,0,86,6,0,3,4,61963846
+1987,Regular Season,Hanshin Tigers,48,"Nakada, Koji",P,28,53,48,0.104,0.140,0.167,0.307,3,4,5,4,0,0,1,8,0,0,2,0,11,0,0,3,0,61963860
+1987,Regular Season,Nankai Hawks,10,"Nakamura, Hiromichi",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963862
+1987,Regular Season,Seibu Lions,63,"Fujino, Seigo",SS,7,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963864
+1987,Japan Series,Seibu Lions,4,"Tomashino, Seiji",2B,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,61963867
+1987,Regular Season,Seibu Lions,4,"Tomashino, Seiji",2B,106,313,277,0.220,0.257,0.350,0.607,31,22,61,43,7,4,7,97,14,5,14,0,49,6,0,21,1,61963867
+1987,Regular Season,Hanshin Tigers,19,"Nakanishi, Kiyoki",P,61,12,12,0.167,0.167,0.167,0.334,0,0,2,2,0,0,0,2,0,0,0,0,4,0,0,0,0,61963869
+1987,Regular Season,Yokohama Taiyo Whales,4,"Yoshimoto, Hiroshi",PH,9,11,11,0.273,0.273,0.273,0.546,0,1,3,3,0,0,0,3,0,0,0,0,1,0,0,0,0,71073846
+1987,Regular Season,Chunichi Dragons,14,"Horai, Akihiko",PH,14,23,20,0.250,0.318,0.350,0.668,5,1,5,3,2,0,0,7,0,0,2,0,5,0,0,1,0,71073861
+1987,Regular Season,Nippon-Ham Fighters,1,"Hirose, Tetsuro",3B,44,35,30,0.200,0.273,0.267,0.540,11,3,6,4,2,0,0,8,3,0,2,0,4,1,1,2,0,71073862
+1987,Japan Series,Yomiuri Giants,8,"Hara, Tatsunori",3B,6,,25,0.240,,0.480,,,3,6,4,0,0,2,12,0,,0,,4,,,,,71073863
+1987,Regular Season,Yomiuri Giants,8,"Hara, Tatsunori",3B,123,489,433,0.307,0.372,0.596,0.968,80,95,133,79,17,3,34,258,7,2,44,6,61,11,5,0,7,71073863
+1987,Regular Season,Nankai Hawks,38,"Migita, Masahiko",LF,37,17,15,0.067,0.176,0.067,0.243,3,0,1,1,0,0,0,1,0,2,2,0,6,0,0,0,0,71073864
+1987,Regular Season,Lotte Orions,14,"Nagashima, Tetsuro",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71073867
+1987,Regular Season,Yomiuri Giants,38,"Nimura, Kaoru",RF,98,70,66,0.212,0.243,0.288,0.531,9,8,14,11,2,0,1,19,1,0,3,0,17,0,0,0,1,71073869
+1987,Regular Season,Yokohama Taiyo Whales,67,"Ikenoe, Toru",PH,62,107,97,0.268,0.311,0.361,0.672,10,5,26,19,5,2,0,35,0,2,4,0,12,2,2,4,0,71173842
+1987,Regular Season,Hanshin Tigers,20,"Ito, Fumitaka",P,19,21,19,0.105,0.105,0.263,0.368,1,2,2,1,0,0,1,5,0,0,0,0,8,0,0,2,0,71173846
+1987,Japan Series,Yomiuri Giants,9,"Arita, Shuzo",C,1,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71173847
+1987,Regular Season,Yomiuri Giants,9,"Arita, Shuzo",C,30,40,37,0.162,0.225,0.324,0.549,4,5,6,4,0,0,2,12,0,0,2,0,11,2,1,0,0,71173847
+1987,Regular Season,Hankyu Braves,50,"Lesley, Brad",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71173862
+1987,Regular Season,Hankyu Braves,41,"Azuma, Tetsuya",LF,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71173864
+1987,Japan Series,Seibu Lions,27,"Ito, Tsutomu",C,6,,19,0.316,,0.368,,,2,6,5,1,0,0,7,0,,2,,5,,,,,71173865
+1987,Regular Season,Seibu Lions,27,"Ito, Tsutomu",C,124,465,405,0.247,0.311,0.360,0.671,42,51,100,75,14,1,10,146,7,3,34,2,77,7,6,15,5,71173865
+1987,Regular Season,Yakult Swallows,11,"Araki, Daisuke",P,31,55,50,0.200,0.200,0.200,0.400,4,1,10,10,0,0,0,10,0,0,0,0,21,2,0,5,0,71173867
+1987,Regular Season,Yakult Swallows,8,"Hirosawa, Katsumi",RF,130,512,461,0.284,0.346,0.466,0.812,61,60,131,88,21,3,19,215,9,2,41,1,105,16,5,1,4,71273860
+1987,Regular Season,Hankyu Braves,36,"Yamamori, Masafumi",CF,87,112,97,0.186,0.262,0.299,0.561,13,9,18,14,0,1,3,29,1,1,7,0,21,4,3,5,0,71273861
+1987,Regular Season,Yokohama Taiyo Whales,29,"Matsumoto, Yutaka",P,31,44,38,0.158,0.256,0.158,0.414,2,4,6,6,0,0,0,6,0,0,5,0,19,0,0,1,0,71273862
+1987,Regular Season,Yomiuri Giants,22,"Yamada, Takeshi",P,10,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71273864
+1987,Regular Season,Hanshin Tigers,50,"Hamada, Tomoaki",P,23,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,71273867
+1987,Regular Season,Nippon-Ham Fighters,34,"Okabe, Noriaki",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373846
+1987,Japan Series,Yomiuri Giants,29,"Katori, Yoshitaka",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71373848
+1987,Regular Season,Yomiuri Giants,29,"Katori, Yoshitaka",P,63,19,17,0.294,0.294,0.294,0.588,1,1,5,5,0,0,0,5,0,0,0,0,3,0,0,2,0,71373848
+1987,Regular Season,Lotte Orions,38,"Okabe, Akihito",LF,43,104,95,0.242,0.298,0.379,0.677,10,13,23,18,1,0,4,36,0,0,8,0,13,4,0,0,1,71373860
+1987,Regular Season,Nankai Hawks,2,"Kagawa, Nobuyuki",C,88,229,204,0.250,0.302,0.431,0.733,24,32,51,36,4,0,11,88,0,0,15,2,43,8,1,7,2,71373861
+1987,Regular Season,Chunichi Dragons,43,"Katahira, Tetsuya",LF,12,32,28,0.393,0.419,0.571,0.990,4,10,11,8,2,0,1,16,0,1,1,0,7,0,1,1,1,71373864
+1987,Regular Season,Yokohama Taiyo Whales,16,"Kakehata, Mitsunori",P,32,33,31,0.290,0.333,0.419,0.752,3,4,9,5,4,0,0,13,0,0,2,0,8,1,0,0,0,71373865
+1987,Regular Season,Nankai Hawks,17,"Kato, Shinichi",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373869
+1987,Regular Season,Yakult Swallows,7,"Watanabe, Susumu",PH,36,27,24,0.042,0.148,0.042,0.190,1,1,1,1,0,0,0,1,0,0,2,0,9,2,1,0,0,71473845
+1987,Regular Season,Chunichi Dragons,30,"Yamada, Kazutoshi",3B,12,22,21,0.238,0.273,0.238,0.511,1,2,5,5,0,0,0,5,1,0,0,0,4,0,1,0,0,71473862
+1987,Regular Season,Yomiuri Giants,59,"Yamamoto, Katsura",RF,12,25,24,0.250,0.250,0.292,0.542,3,1,6,5,1,0,0,7,0,0,0,0,5,1,0,1,0,71473863
+1987,Regular Season,Hanshin Tigers,56,"Mikoshiba, Susumu",P,42,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,71473867
+1987,Regular Season,Hiroshima Toyo Carp,3,"Kinugasa, Sachio",3B,130,403,370,0.249,0.297,0.432,0.729,40,48,92,58,17,0,17,160,2,2,23,3,61,13,3,6,1,71573820
+1987,Regular Season,Nankai Hawks,60,"Kadota, Hiromitsu",DH,126,458,379,0.317,0.428,0.604,1.032,63,69,120,73,16,0,31,229,1,1,74,24,66,5,2,0,3,71573841
+1987,Regular Season,Hanshin Tigers,8,"Tao, Yasushi",CF,104,262,249,0.221,0.240,0.341,0.581,27,12,55,39,8,2,6,85,0,1,7,1,28,2,0,4,2,71573842
+1987,Regular Season,Yakult Swallows,41,"Sugimura, Shigeru",PH,10,16,15,0.133,0.125,0.133,0.258,0,1,2,2,0,0,0,2,0,0,0,0,3,0,0,0,1,71573844
+1987,Regular Season,Yakult Swallows,39,"Shibui, Keiichi",2B,118,385,324,0.198,0.251,0.275,0.526,45,19,64,52,5,1,6,89,6,3,22,0,70,9,2,35,2,71573846
+1987,Regular Season,Hankyu Braves,6,"Kumano, Terumitsu",LF,111,383,327,0.291,0.380,0.440,0.820,51,40,95,68,16,0,11,144,10,2,46,0,42,5,2,7,1,71573860
+1987,Regular Season,Hanshin Tigers,5,"Kitamura, Terufumi",CF,106,363,319,0.248,0.297,0.379,0.676,45,23,79,54,16,1,8,121,12,4,21,0,55,3,3,16,4,71573861
+1987,Regular Season,Yomiuri Giants,20,"Sanchez, Luis",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71573862
+1987,Regular Season,Nippon-Ham Fighters,9,"Kimura, Takashi",PR,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71573863
+1987,Regular Season,Yokohama Taiyo Whales,52,"Shiozaki, Kenichi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71573864
+1987,Regular Season,Yakult Swallows,46,"Kuriyama, Hideki",CF,72,99,92,0.196,0.229,0.228,0.457,13,5,18,16,1,1,0,21,0,1,3,1,7,3,1,3,0,71573869
+1987,Regular Season,Kintetsu Buffaloes,21,"Yanagida, Yutaka",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71673841
+1987,Regular Season,Nankai Hawks,5,"Yamamura, Yoshinori",LF,100,276,244,0.254,0.317,0.340,0.657,22,26,62,51,6,0,5,83,1,3,21,0,35,5,3,5,3,71773840
+1987,Regular Season,Lotte Orions,36,"Sato, Masao",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773843
+1987,Japan Series,Yomiuri Giants,24,"Nakahata, Kiyoshi",1B,6,,20,0.150,,0.300,,,3,3,2,0,0,1,6,0,,2,,2,,,,,71773844
+1987,Regular Season,Yomiuri Giants,24,"Nakahata, Kiyoshi",1B,110,413,371,0.321,0.367,0.437,0.804,37,40,119,89,23,1,6,162,6,3,29,1,46,13,1,7,5,71773844
+1987,Regular Season,Hanshin Tigers,9,"Sano, Noriyoshi",LF,100,316,300,0.240,0.275,0.357,0.632,20,33,72,57,5,0,10,107,2,0,15,0,29,11,0,0,1,71773849
+1987,Regular Season,Hanshin Tigers,27,"Shimada, Munehiko",C,69,155,146,0.199,0.217,0.315,0.532,9,10,29,21,3,1,4,46,0,0,3,2,31,2,1,3,2,71773860
+1987,Regular Season,Chunichi Dragons,37,"Suzuki, Yasutomo",2B,79,110,97,0.186,0.231,0.247,0.478,10,6,18,12,6,0,0,24,3,0,6,0,24,1,0,6,1,71773861
+1987,Regular Season,Lotte Orions,28,"Sonokawa, Kazumi",P,45,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773862
+1987,Regular Season,Yakult Swallows,38,"Dobashi, Katsuyuki",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71773864
+1987,Regular Season,Hankyu Braves,31,"Shibahara, Minoru",RF,5,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,71773867
+1987,Regular Season,Lotte Orions,17,"Fukazawa, Yoshio",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973844
+1987,Japan Series,Seibu Lions,16,"Matsunuma, Masayuki",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71973848
+1987,Regular Season,Seibu Lions,16,"Matsunuma, Masayuki",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973848
+1987,Regular Season,Yokohama Taiyo Whales,32,"Takahashi, Masahiro",SS,128,507,438,0.237,0.296,0.285,0.581,45,24,104,90,9,3,2,125,14,9,36,7,102,6,2,27,4,71973860
+1987,Regular Season,Nankai Hawks,4,"Hammond, Steve",3B,115,352,318,0.274,0.333,0.390,0.723,25,29,87,69,8,1,9,124,1,1,25,1,41,14,5,1,3,71973864
+1987,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",SS,126,454,418,0.261,0.299,0.318,0.617,30,21,109,91,15,0,3,133,3,2,21,0,42,16,2,13,0,71973865
+1987,Regular Season,Kintetsu Buffaloes,15,"Davis, Richard",1B,91,385,341,0.337,0.408,0.522,0.930,44,49,115,84,15,0,16,178,2,1,40,7,39,12,2,0,2,71973869
+1987,Regular Season,Seibu Lions,31,"Moriyama, Ryoji",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81083864
+1987,Regular Season,Nankai Hawks,32,"Hashimoto, Keiji",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81083867
+1987,Regular Season,Yokohama Taiyo Whales,24,"Endo, Kazuhiko",P,30,72,67,0.104,0.130,0.164,0.294,4,7,7,5,0,2,0,11,0,0,2,0,25,0,0,3,0,81183846
+1987,Regular Season,Chunichi Dragons,6,"Ochiai, Hiromitsu",3B,125,519,432,0.331,0.435,0.602,1.037,83,85,143,82,33,0,28,260,1,4,81,10,51,10,2,0,4,81183848
+1987,Regular Season,Lotte Orions,26,"Ogawa, Hiroshi",P,51,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81183860
+1987,Regular Season,Hankyu Braves,14,"Uchida, Tsuyoshi",C,75,163,147,0.272,0.299,0.361,0.660,13,11,40,30,8,1,1,53,0,2,5,0,22,1,1,9,1,81183862
+1987,Regular Season,Hankyu Braves,29,"Ishimine, Kazuhiko",DH,127,543,495,0.317,0.372,0.572,0.944,65,91,157,99,24,0,34,283,1,0,37,4,69,10,8,0,3,81183863
+1987,Regular Season,Seibu Lions,34,"Ogawa, Munenao",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81183864
+1987,Regular Season,Hiroshima Toyo Carp,7,"Ogawa, Tatsuaki",PH,37,61,53,0.264,0.333,0.358,0.691,2,10,14,11,2,0,1,19,2,0,5,1,9,2,1,1,1,81183865
+1987,Regular Season,Yakult Swallows,36,"Ikeyama, Takahiro",SS,127,453,400,0.250,0.317,0.415,0.732,42,46,100,61,25,1,13,166,3,1,37,13,112,8,3,11,2,81183869
+1987,Regular Season,Yakult Swallows,52,"Yanada, Masao",PR,74,17,17,0.235,0.235,0.235,0.470,7,0,4,4,0,0,0,4,0,2,0,0,2,0,0,0,0,81283862
+1987,Regular Season,Nankai Hawks,19,"Yamauchi, Takanori",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81283863
+1987,Regular Season,Yokohama Taiyo Whales,35,"Horiba, Hidetaka",C,45,122,109,0.266,0.344,0.394,0.738,14,12,29,21,5,0,3,43,1,0,9,2,28,3,4,0,0,81283867
+1987,Regular Season,Nippon-Ham Fighters,7,"Okaji, Kazuhiko",DH,97,280,243,0.309,0.392,0.486,0.878,29,36,75,50,16,0,9,118,0,1,34,5,44,7,0,2,1,81383841
+1987,Regular Season,Chunichi Dragons,5,"Oshima, Yasunori",LF,111,313,283,0.269,0.328,0.477,0.805,31,49,76,48,12,1,15,135,0,0,25,1,46,9,1,2,2,81383843
+1987,Japan Series,Yomiuri Giants,6,"Shinozuka, Kazunori",2B,6,,22,0.409,,0.591,,,3,9,7,1,0,1,13,0,,0,,3,,,,,81383844
+1987,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",2B,115,454,429,0.333,0.353,0.455,0.808,69,49,143,108,25,3,7,195,4,1,14,0,52,8,1,7,3,81383844
+1987,Regular Season,Lotte Orions,23,"Sato, Kenichi",2B,116,367,315,0.229,0.292,0.381,0.673,47,33,72,44,17,2,9,120,11,2,28,0,45,6,2,18,4,81383848
+1987,Regular Season,Nankai Hawks,44,"Kishikawa, Katsuya",PH,7,4,3,0.333,0.500,1.333,1.833,1,1,1,0,0,0,1,4,1,0,1,0,2,0,0,0,0,81383860
+1987,Regular Season,Yokohama Taiyo Whales,10,"Kida, Isamu",P,15,11,11,0.091,0.091,0.091,0.182,1,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,81383861
+1987,Regular Season,Chunichi Dragons,33,"Kaku, Genji",P,59,18,17,0.176,0.176,0.294,0.470,1,2,3,1,2,0,0,5,0,0,0,0,5,0,0,1,0,81383863
+1987,Regular Season,Lotte Orions,57,"Sato, Yukihiko",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,81383864
+1987,Regular Season,Yokohama Taiyo Whales,38,"Kawano, Yasuhiko",PH,3,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81383865
+1987,Regular Season,Chunichi Dragons,50,"Kaneda, Susumu",C,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383867
+1987,Regular Season,Seibu Lions,53,"Kawamura, Kazuaki",LF,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383869
+1987,Regular Season,Nankai Hawks,14,"Yugamidani, Hiroshi",2B,99,340,291,0.237,0.286,0.330,0.616,30,25,69,55,6,3,5,96,14,5,19,0,53,5,1,29,0,81483860
+1987,Regular Season,Hanshin Tigers,34,"Miyamoto, Shiro",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583840
+1987,Regular Season,Hiroshima Toyo Carp,40,"Tatsukawa, Mitsuo",C,130,480,418,0.256,0.327,0.356,0.683,40,34,107,81,18,0,8,149,2,3,38,14,40,16,7,15,2,81583846
+1987,Regular Season,Kintetsu Buffaloes,17,"Sasaki, Osamu",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583860
+1987,Regular Season,Hankyu Braves,46,"Shirai, Takayuki",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583862
+1987,Regular Season,Chunichi Dragons,46,"Kojima, Masanobu",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583863
+1987,Regular Season,Hankyu Braves,19,"Takagi, Koji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583864
+1987,Regular Season,Yomiuri Giants,41,"Saito, Masaki",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583869
+1987,Regular Season,Kintetsu Buffaloes,25,"Fukiishi, Tokuichi",1B,60,84,76,0.197,0.215,0.197,0.412,5,4,15,15,0,0,0,15,1,1,2,0,13,0,0,5,1,81783842
+1987,Regular Season,Yokohama Taiyo Whales,6,"Takagi, Yoshikazu",PH,17,16,16,0.188,0.188,0.188,0.376,0,2,3,3,0,0,0,3,0,0,0,0,4,1,0,0,0,81783845
+1987,Regular Season,Lotte Orions,31,"Takazawa, Hideaki",RF,128,514,455,0.292,0.351,0.418,0.769,64,50,133,100,20,2,11,190,27,11,33,4,54,10,10,13,3,81783861
+1987,Regular Season,Nippon-Ham Fighters,16,"Takada, Hirohisa",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783862
+1987,Regular Season,Nankai Hawks,59,"Nishi, Kiyotaka",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783864
+1987,Japan Series,Seibu Lions,23,"Nishioka, Yoshihiro",RF,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,81783865
+1987,Regular Season,Seibu Lions,23,"Nishioka, Yoshihiro",RF,93,171,154,0.247,0.275,0.390,0.665,17,21,38,26,7,0,5,60,7,5,6,0,17,1,0,11,0,81783865
+1987,Regular Season,Hanshin Tigers,36,"Suzuki, Nobuyoshi",PH,5,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,81783867
+1987,Regular Season,Nippon-Ham Fighters,30,"Tsuno, Hiroshi",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783869
+1987,Regular Season,Hankyu Braves,7,"Fukumoto, Yutaka",CF,101,386,349,0.287,0.346,0.418,0.764,53,33,100,67,25,3,5,146,6,3,33,1,35,0,0,2,2,81983828
+1987,Regular Season,Kintetsu Buffaloes,8,"Nashida, Masataka",C,35,71,64,0.234,0.271,0.406,0.677,4,7,15,8,5,0,2,26,1,3,4,0,19,0,0,1,2,81983845
+1987,Regular Season,Kintetsu Buffaloes,35,"Yanagihara, Takahiro",PH,7,10,10,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,81983846
+1987,Regular Season,Seibu Lions,37,"Nakada, Hideshi",C,23,29,27,0.074,0.107,0.074,0.181,2,1,2,2,0,0,0,2,1,1,0,0,10,0,1,1,0,81983860
+1987,Regular Season,Lotte Orions,32,"Fujikura, Kazumasa",PH,3,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,81983861
+1987,Japan Series,Yomiuri Giants,27,"Fukuo, Akihito",PH,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,81983864
+1987,Regular Season,Yomiuri Giants,27,"Fukuo, Akihito",PH,16,12,12,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,81983864
+1987,Regular Season,Lotte Orions,47,"Migita, Kazuhiko",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81983865
+1987,Regular Season,Yokohama Taiyo Whales,28,"Niura, Hisao",P,35,57,54,0.148,0.148,0.204,0.352,3,4,8,6,1,1,0,11,0,0,0,0,25,0,0,3,0,91093843
+1987,Regular Season,Nippon-Ham Fighters,46,"Mizusawa, Masahiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91093864
+1987,Regular Season,Hiroshima Toyo Carp,28,"Nishida, Shinji",PH,62,76,73,0.274,0.303,0.397,0.700,5,9,20,13,6,0,1,29,0,0,3,0,13,1,0,0,0,91093867
+1987,Regular Season,Chunichi Dragons,24,"Nimura, Toru",2B,122,498,439,0.287,0.328,0.426,0.754,61,40,126,91,20,4,11,187,6,6,21,0,56,10,6,31,1,91093869
+1987,Regular Season,Nippon-Ham Fighters,35,"Iwai, Takayuki",SS,41,90,77,0.286,0.313,0.364,0.677,7,14,22,18,3,0,1,28,1,2,3,0,13,3,0,10,0,91193842
+1987,Regular Season,Hiroshima Toyo Carp,24,"Ono, Yutaka",P,25,64,59,0.288,0.283,0.373,0.656,6,8,17,14,2,0,1,22,1,0,0,0,19,0,0,4,1,91193844
+1987,Japan Series,Yomiuri Giants,30,"Egawa, Suguru",P,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,0,,,,,91193848
+1987,Regular Season,Yomiuri Giants,30,"Egawa, Suguru",P,29,64,60,0.217,0.242,0.300,0.542,6,5,13,10,2,0,1,18,0,0,2,0,19,1,0,2,0,91193848
+1987,Regular Season,Yakult Swallows,4,"Aoshima, Kenta",3B,58,39,34,0.147,0.256,0.235,0.491,6,3,5,4,0,0,1,8,0,0,5,2,12,1,0,0,0,91193860
+1987,Regular Season,Yakult Swallows,18,"Ito, Akimitsu",P,31,78,71,0.085,0.108,0.085,0.193,5,2,6,6,0,0,0,6,0,0,2,0,24,0,0,4,1,91193862
+1987,Regular Season,Kintetsu Buffaloes,54,"Ikeue, Koichi",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193864
+1987,Regular Season,Lotte Orions,19,"Ibe, Yasuji",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193867
+1987,Regular Season,Hankyu Braves,51,"Fukura, Junichi",2B,130,536,463,0.263,0.343,0.369,0.712,58,40,122,90,23,1,8,171,12,1,45,0,49,12,12,14,2,91293860
+1987,Regular Season,Hankyu Braves,45,"Yonemura, Osamu",PH,41,46,42,0.190,0.244,0.286,0.530,2,2,8,6,1,0,1,12,0,0,3,0,6,3,0,1,0,91293861
+1987,Regular Season,Chunichi Dragons,26,"Miura, Masaaki",P,7,1,1,1.000,1.000,3.000,4.000,0,0,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,91293862
+1987,Regular Season,Yakult Swallows,66,"Yamada, Tsutomu",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91293864
+1987,Regular Season,Hiroshima Toyo Carp,20,"Kitabeppu, Manabu",P,29,68,60,0.150,0.190,0.200,0.390,2,4,9,6,3,0,0,12,0,0,3,0,23,2,0,5,0,91393842
+1987,Regular Season,Hankyu Braves,11,"Sato, Yoshinori",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393844
+1987,Regular Season,Yokohama Taiyo Whales,2,"Katahira, Shinsaku",1B,102,308,275,0.298,0.371,0.498,0.869,36,36,82,53,16,0,13,137,0,2,28,0,41,10,4,1,0,91393845
+1987,Japan Series,Yomiuri Giants,12,"Okamoto, Ko",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91393860
+1987,Regular Season,Yomiuri Giants,12,"Okamoto, Ko",P,26,5,5,0.200,0.200,0.400,0.600,1,0,1,0,1,0,0,2,0,0,0,0,2,0,0,0,0,91393860
+1987,Regular Season,Seibu Lions,51,"Okada, Hirokazu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393862
+1987,Japan Series,Seibu Lions,13,"Ono, Kazuyuki",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91393863
+1987,Regular Season,Seibu Lions,13,"Ono, Kazuyuki",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393863
+1987,Regular Season,Hanshin Tigers,4,"Keough, Matt",P,27,57,51,0.137,0.170,0.216,0.386,3,3,7,3,4,0,0,11,0,0,2,0,19,1,0,4,0,91393864
+1987,Regular Season,Nippon-Ham Fighters,20,"Kanazawa, Tsugio",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393865
+1987,Regular Season,Nankai Hawks,52,"Otsubo, Yukio",1B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393867
+1987,Regular Season,Yakult Swallows,45,"Kato, Takaaki",LF,5,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,91393869
+1987,Regular Season,Nippon-Ham Fighters,59,"Matsura, Hiroaki",P,48,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91493860
+1987,Regular Season,Hankyu Braves,5,"Yumioka, Keijiro",SS,127,405,366,0.246,0.284,0.325,0.609,37,22,90,71,14,0,5,119,3,4,18,2,33,7,2,18,1,91493863
+1987,Regular Season,Yokohama Taiyo Whales,26,"Tashiro, Tomio",3B,82,243,229,0.245,0.285,0.376,0.661,19,28,56,37,13,1,5,86,4,2,13,1,46,6,0,1,0,91593842
+1987,Regular Season,Yomiuri Giants,11,"Sumi, Mitsuo",P,57,6,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,91593846
+1987,Regular Season,Hiroshima Toyo Carp,25,"Kinoshita, Tomio",3B,46,21,15,0.133,0.278,0.133,0.411,2,0,2,2,0,0,0,2,1,1,3,0,2,2,0,3,0,91593849
+1987,Regular Season,Chunichi Dragons,12,"Saito, Manabu",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593862
+1987,Regular Season,Hankyu Braves,55,"Shimabukuro, Osamu",C,4,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91593864
+1987,Regular Season,Hiroshima Toyo Carp,10,"Saito, Hiroyuki",LF,6,15,15,0.133,0.133,0.200,0.333,0,0,2,1,1,0,0,3,0,0,0,0,7,0,0,0,0,91593865
+1987,Regular Season,Kintetsu Buffaloes,48,"Yoshida, Takashi",SS,20,10,9,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,2,0,0,0,3,1,0,1,0,91693860
+1987,Regular Season,Lotte Orions,24,"Yoshioka, Toshiaki",PH,39,55,50,0.160,0.218,0.260,0.478,3,8,8,5,2,0,1,13,1,0,4,0,14,0,0,0,1,91793840
+1987,Japan Series,Yomiuri Giants,26,"Nishimoto, Takashi",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91793842
+1987,Regular Season,Yomiuri Giants,26,"Nishimoto, Takashi",P,33,43,37,0.135,0.179,0.297,0.476,4,3,5,3,0,0,2,11,0,0,2,0,9,1,0,4,0,91793842
+1987,Regular Season,Lotte Orions,12,"Hakamada, Hidetoshi",C,117,304,264,0.212,0.276,0.269,0.545,23,16,56,47,6,0,3,71,3,1,17,0,38,10,7,14,2,91793846
+1987,Regular Season,Nankai Hawks,3,"Sadaoka, Chiaki",2B,35,41,34,0.147,0.237,0.147,0.384,1,3,5,5,0,0,0,5,0,0,4,0,13,0,0,3,0,91793849
+1987,Regular Season,Hiroshima Toyo Carp,4,"Shoda, Kozo",2B,123,458,393,0.333,0.387,0.405,0.792,55,26,131,107,20,4,0,159,30,11,24,0,35,6,11,29,1,91793860
+1987,Regular Season,Hankyu Braves,15,"Sekiguchi, Tomoyuki",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793861
+1987,Regular Season,Yokohama Taiyo Whales,54,"Daimon, Kazuhiko",P,28,16,14,0.071,0.071,0.071,0.142,0,0,1,1,0,0,0,1,0,0,0,0,5,0,0,2,0,91793862
+1987,Regular Season,Chunichi Dragons,21,"Sugimoto, Tadashi",P,28,59,50,0.080,0.132,0.140,0.272,3,2,4,1,3,0,0,7,0,0,3,0,22,0,0,6,0,91793863
+1987,Regular Season,Hankyu Braves,53,"Nakajima, Satoshi",C,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91793864
+1987,Regular Season,Nippon-Ham Fighters,12,"Tanaka, Yukio",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793865
+1987,Regular Season,Nippon-Ham Fighters,39,"Shimada, Nobutoshi",LF,35,22,18,0.111,0.200,0.111,0.311,5,1,2,2,0,0,0,2,0,0,2,0,12,0,0,2,0,91793867
+1987,Regular Season,Yakult Swallows,34,"Takano, Hikaru",P,38,45,34,0.088,0.139,0.118,0.257,3,0,3,2,1,0,0,4,0,0,2,0,12,0,0,9,0,91793869
+1987,Regular Season,Chunichi Dragons,25,"Toyoda, Seisuke",LF,107,139,124,0.315,0.360,0.403,0.763,19,8,39,30,8,0,1,50,4,1,10,0,15,2,0,3,2,91993861
+1987,Regular Season,Yokohama Taiyo Whales,19,"Nakayama, Hiroaki",P,36,38,34,0.029,0.029,0.029,0.058,0,1,1,1,0,0,0,1,0,0,0,0,13,0,0,3,1,91993862
+1987,Regular Season,Seibu Lions,10,"Hanyuda, Tadakatsu",PR,13,0,0,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,91993864

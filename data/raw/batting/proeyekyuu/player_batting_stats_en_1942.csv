@@ -1,0 +1,195 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+1942,Regular Season,Nagoya Club,15,"Yoshida, Kazuo",LF,103,420,382,0.194,0.267,0.259,0.526,29,26,74,56,12,5,1,99,20,6,38,,28,,0,0,,01003878
+1942,Regular Season,Asahi Baseball Club,2,"Asahara, Naoto",RF,70,232,210,0.248,0.316,0.352,0.668,21,18,52,38,10,0,4,74,10,4,21,,26,,0,1,,01103872
+1942,Regular Season,Taiyo Baseball Club,7,"Ishii, Yutaka",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,,0,,0,0,,01103891
+1942,Regular Season,Nankai Club,19,"Kanda, Takeo",P,62,159,143,0.154,0.224,0.161,0.385,7,9,22,21,1,0,0,23,0,0,13,,8,,0,3,,01103893
+1942,Regular Season,Asahi Baseball Club,25,"Ikeda, Katsuhiko",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,,0,,0,0,,01103895
+1942,Regular Season,Asahi Baseball Club,21,"Iwata, Tsuguo",3B,89,324,292,0.209,0.276,0.250,0.526,19,15,61,51,9,0,1,73,8,2,26,,24,,1,5,,01303872
+1942,Regular Season,Tokyo Kyojin,16,"Kawakami, Tetsuharu",1B,72,321,274,0.266,0.374,0.347,0.721,22,27,73,60,7,3,3,95,5,2,46,,18,,1,0,,01303876
+1942,Regular Season,Nankai Club,7,"Okamura, Toshiaki",RF,103,409,341,0.196,0.322,0.267,0.589,21,25,67,49,12,6,0,91,7,8,61,,31,,2,5,,01303878
+1942,Regular Season,Nankai Club,21,"Kawasaki, Tokuji",P,48,121,108,0.139,0.225,0.157,0.382,5,5,15,14,0,1,0,17,1,0,12,,9,,0,1,,01303891
+1942,Regular Season,Nankai Club,23,"Kimura, Tadao",P,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,,0,,0,0,,01303895
+1942,Regular Season,Asahi Baseball Club,8,"Tsubochi, Michinori",CF,104,466,407,0.241,0.327,0.290,0.617,50,18,98,82,12,4,0,118,44,19,47,,17,,5,7,,01403872
+1942,Regular Season,Hankyu Club,21,"Mori, Kotaro",P,60,141,118,0.153,0.265,0.178,0.443,8,4,18,15,3,0,0,21,1,0,18,,13,,0,5,,01403874
+1942,Regular Season,Yamato Baseball Club,35,"Tani, Yoshio",CF,28,90,78,0.167,0.270,0.192,0.462,5,2,13,12,0,1,0,15,2,0,11,,11,,0,1,,01503891
+1942,Regular Season,Nagoya Club,27,"Tanaka, Kintaro",1B,21,38,37,0.081,0.081,0.081,0.162,0,0,3,3,0,0,0,3,0,0,0,,2,,0,1,,01503895
+1942,Regular Season,Tokyo Kyojin,18,"Nakao, Hiroshi",P,32,95,80,0.225,0.347,0.300,0.647,7,8,18,13,4,1,0,24,1,0,15,,19,,0,0,,01703878
+1942,Regular Season,Asahi Baseball Club,11,"Hayashi, Yasuo",P,83,244,231,0.203,0.237,0.294,0.531,16,19,47,33,8,5,1,68,5,2,10,,19,,0,3,,01703895
+1942,Regular Season,Hankyu Club,23,"Matsumoto, Riichi",RF,2,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,,1,,0,0,,01903891
+1942,Regular Season,Tokyo Kyojin,2,"Miyoshi, Chikara",3B,28,55,49,0.143,0.236,0.163,0.399,2,3,7,6,1,0,0,8,5,0,6,,12,,0,0,,01903895
+1942,Regular Season,Hanshin Club,11,"Fujii, Isamu",1B,69,302,269,0.253,0.334,0.338,0.672,21,25,68,54,7,5,2,91,5,5,32,,11,,1,0,,03103872
+1942,Regular Season,Nagoya Club,2,"Yamashita, Minoru",1B,23,83,74,0.135,0.229,0.176,0.405,2,3,10,9,0,0,1,13,0,0,9,,12,,0,0,,03703872
+1942,Regular Season,Nagoya Club,17,"Nishizawa, Michio",P,43,97,90,0.178,0.237,0.233,0.470,5,9,16,13,2,0,1,21,0,0,7,,4,,0,0,,11013874
+1942,Regular Season,Hanshin Club,31,"Yasui, Tamaichi",3B,65,147,134,0.201,0.262,0.246,0.508,9,4,27,21,6,0,0,33,2,2,11,,10,,0,1,,11013895
+1942,Regular Season,Hankyu Club,26,"Odano, Kashiwa",RF,43,139,129,0.147,0.203,0.163,0.366,5,3,19,18,0,1,0,21,1,2,9,,12,,0,1,,11313876
+1942,Regular Season,Tokyo Kyojin,13,"Koike, Shigeo",3B,50,105,91,0.077,0.192,0.077,0.269,2,4,7,7,0,0,0,7,0,0,13,,24,,0,1,,11313893
+1942,Regular Season,Asahi Baseball Club,12,"Oshima, Wataru",LF,22,37,35,0.086,0.135,0.114,0.249,2,1,3,2,1,0,0,4,1,0,2,,5,,0,0,,11313895
+1942,Regular Season,Tokyo Kyojin,28,"Hirose, Shuichi",P,36,108,101,0.168,0.200,0.168,0.368,8,11,17,17,0,0,0,17,0,0,3,,2,,1,3,,11513893
+1942,Regular Season,Asahi Baseball Club,17,"Saito, Tadaji",C,38,68,62,0.113,0.154,0.129,0.283,7,0,7,6,1,0,0,8,1,2,3,,4,,0,2,,11513895
+1942,Regular Season,Tokyo Kyojin,3,"Nakajima, Haruyasu",RF,105,462,426,0.261,0.317,0.364,0.681,57,60,111,85,15,4,7,155,12,5,33,,20,,2,1,,11613872
+1942,Regular Season,Nankai Club,28,"Naganuma, Kanao",P,5,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,,0,,0,0,,11713895
+1942,Regular Season,Hankyu Club,14,"Nishimura, Masao",RF,54,178,145,0.159,0.278,0.159,0.437,16,3,23,23,0,0,0,23,11,3,23,,6,,1,9,,11813872
+1942,Regular Season,Hanshin Club,22,"Tsukamoto, Hiromutsu",CF,94,363,309,0.214,0.323,0.278,0.601,31,20,66,53,7,5,1,86,20,12,50,,52,,0,4,,11913874
+1942,Regular Season,Yamato Baseball Club,26,"Furukawa, Tadamichi",PH,4,3,2,0.000,0.333,0.000,0.333,1,0,0,0,0,0,0,0,0,0,1,,0,,0,0,,11913895
+1942,Regular Season,Hanshin Club,30,"Wakabayashi, Tadashi",P,71,189,170,0.188,0.246,0.235,0.481,14,12,32,27,3,1,1,40,6,3,13,,11,,0,6,,13913872
+1942,Regular Season,Nagoya Club,20,"Iwamoto, Akira",RF,85,328,288,0.198,0.289,0.267,0.556,32,22,57,48,2,3,4,77,15,4,37,,34,,0,3,,21123876
+1942,Regular Season,Tokyo Kyojin,24,"Izumida, Kiyoshi",P,2,3,2,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,1,,1,,0,0,,21123891
+1942,Regular Season,Hanshin Club,21,"Kinoshita, Teiichi",2B,61,227,203,0.232,0.310,0.271,0.581,20,9,47,40,6,1,0,55,6,2,23,,14,,0,1,,21123893
+1942,Regular Season,Taiyo Baseball Club,14,"Itagaki, Shigeyasu",PR,6,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,1,0,,0,,0,0,,21123895
+1942,Regular Season,Hankyu Club,3,"Uno, Kinji",2B,2,6,4,0.250,0.500,0.250,0.750,3,0,1,1,0,0,0,1,0,0,2,,1,,0,0,,21323872
+1942,Regular Season,Taiyo Baseball Club,26,"Uno, Kinji",2B,22,51,48,0.104,0.140,0.104,0.244,2,0,5,5,0,0,0,5,0,0,2,,6,,0,1,,21323872
+1942,Regular Season,Hanshin Club,14,"Kinoshita, Isamu",P,24,43,38,0.105,0.171,0.105,0.276,1,2,4,4,0,0,0,4,0,0,3,,7,,0,2,,21323876
+1942,Regular Season,Nagoya Club,11,"Kawamura, Akira",P,42,90,79,0.203,0.276,0.203,0.479,2,7,16,16,0,0,0,16,0,0,8,,9,,0,3,,21323891
+1942,Regular Season,Nankai Club,6,"Tokushima, Tadahiko",PH,22,35,31,0.065,0.147,0.065,0.212,2,0,2,2,0,0,0,2,0,0,2,,7,,1,1,,21323893
+1942,Regular Season,Nagoya Club,32,"Kozuru, Makoto",RF,102,417,370,0.216,0.303,0.305,0.608,35,29,80,60,9,9,2,113,8,7,45,,49,,1,1,,21323895
+1942,Regular Season,Yamato Baseball Club,34,"Tamakoshi, Tadayoshi",3B,63,264,223,0.211,0.313,0.278,0.591,15,11,47,37,7,1,2,62,18,3,33,,18,,0,7,,21523891
+1942,Regular Season,Yamato Baseball Club,6,"Yoshimizu, Yukio",C,21,46,42,0.048,0.130,0.048,0.178,0,0,2,2,0,0,0,2,0,0,4,,6,,0,0,,21523893
+1942,Regular Season,Hankyu Club,18,"Takayanagi, Tsuneharu",3B,13,32,31,0.194,0.194,0.194,0.388,0,0,6,6,0,0,0,6,0,0,0,,4,,0,1,,21523895
+1942,Regular Season,Hanshin Club,12,"Tanaka, Yoshio",C,104,433,389,0.201,0.249,0.221,0.470,28,31,78,72,4,2,0,86,16,4,21,,14,,4,18,,21723874
+1942,Regular Season,Asahi Baseball Club,23,"Nakatani, Junji",1B,18,51,49,0.224,0.255,0.224,0.479,1,2,11,11,0,0,0,11,2,0,2,,5,,0,0,,21723876
+1942,Regular Season,Asahi Baseball Club,26,"Hara, Hideo",2B,30,110,102,0.167,0.198,0.186,0.384,4,2,17,16,0,1,0,19,4,3,4,,1,,0,4,,21723895
+1942,Regular Season,Nagoya Club,6,"Haga, Naokazu",3B,98,338,311,0.158,0.208,0.164,0.372,12,8,49,47,2,0,0,51,12,5,20,,16,,0,7,,21823872
+1942,Regular Season,Asahi Baseball Club,18,"Fukushi, Isamu",P,26,70,59,0.102,0.221,0.186,0.407,3,3,6,4,0,1,1,11,0,0,9,,8,,0,2,,21923876
+1942,Regular Season,Hanshin Club,38,"Miwa, Hachiro",P,19,22,19,0.105,0.190,0.105,0.295,1,0,2,2,0,0,0,2,0,0,1,,0,,1,1,,21923878
+1942,Regular Season,Taiyo Baseball Club,21,"Mitomi, Tsuneo",P,34,96,82,0.207,0.316,0.232,0.548,5,6,17,15,2,0,0,19,0,2,13,,0,,0,1,,21923891
+1942,Regular Season,Hanshin Club,24,"Miwa, Hiroaki",2B,58,120,95,0.105,0.234,0.105,0.339,6,2,10,10,0,0,0,10,7,3,16,,18,,0,9,,21923895
+1942,Regular Season,Tokyo Kyojin,9,"Yamamoto, Eiichiro",PR,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,,0,,0,0,,23723872
+1942,Regular Season,Nankai Club,2,"Muroi, Yutaka",C,28,107,92,0.217,0.321,0.228,0.549,6,12,20,19,1,0,0,21,1,0,12,,3,,2,1,,31033876
+1942,Regular Season,Asahi Baseball Club,20,"Murowaki, Masanobu",LF,78,276,246,0.191,0.260,0.228,0.488,13,15,47,40,5,2,0,56,8,8,21,,16,,2,6,,31033891
+1942,Regular Season,Hankyu Club,19,"Yasuda, Nobuo",PH,2,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,,2,,0,0,,31033895
+1942,Regular Season,Nankai Club,10,"Inoko, Toshio",SS,105,425,349,0.198,0.286,0.246,0.532,35,17,69,57,8,3,1,86,16,6,42,,28,,1,33,,31133893
+1942,Regular Season,Tokyo Kyojin,32,"Aota, Noboru",LF,42,135,124,0.355,0.389,0.411,0.800,20,18,44,39,4,0,1,51,7,5,7,,5,,0,2,,31133895
+1942,Regular Season,Tokyo Kyojin,8,"Shiraishi, Katsumi",SS,98,455,381,0.236,0.353,0.278,0.631,51,32,90,77,10,3,0,106,15,6,67,,37,,2,5,,31233872
+1942,Regular Season,Hankyu Club,5,"Ueda, Fujio",2B,95,418,359,0.201,0.291,0.209,0.500,35,19,72,69,3,0,0,75,11,8,43,,15,,3,13,,31333874
+1942,Regular Season,Taiyo Baseball Club,24,"Oribe, Yoshizo",CF,75,293,257,0.198,0.280,0.253,0.533,18,11,51,42,6,1,2,65,9,2,29,,20,,0,7,,31333878
+1942,Regular Season,Tokyo Kyojin,6,"Sakamoto, Shigeru",2B,101,379,328,0.210,0.300,0.256,0.556,45,21,69,58,7,4,0,84,15,4,40,,33,,2,9,,31333893
+1942,Regular Season,Asahi Baseball Club,25,"Ohashi, Ichiro",PH,3,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,,1,,0,0,,31333895
+1942,Regular Season,Hankyu Club,17,"Kasamatsu, Minoru",P,50,135,107,0.112,0.258,0.159,0.417,5,2,12,9,2,0,1,17,4,1,21,,15,,0,7,,31533874
+1942,Regular Season,Nagoya Club,21,"Kimura, Shinichi",SS,71,297,246,0.167,0.270,0.195,0.465,18,16,41,36,4,0,1,48,8,7,34,,29,,1,16,,31533878
+1942,Regular Season,Nankai Club,5,"Shimizu, Hideo",P,13,39,39,0.231,0.231,0.308,0.539,2,5,9,7,1,1,0,12,0,0,0,,1,,0,0,,31533891
+1942,Regular Season,Nagoya Club,24,"Furukawa, Seizo",C,101,426,394,0.216,0.273,0.330,0.603,44,44,85,60,13,4,8,130,14,10,31,,45,,0,1,,31533893
+1942,Regular Season,Taiyo Baseball Club,6,"Sadaike, Hiroki",2B,8,6,5,0.000,0.167,0.000,0.167,0,0,0,0,0,0,0,0,0,0,1,,3,,0,0,,31533895
+1942,Regular Season,Yamato Baseball Club,11,"Kaneko, Hiroshi",1B,65,219,195,0.231,0.312,0.297,0.609,14,13,45,36,5,4,0,58,6,0,23,,20,,0,1,,31733872
+1942,Regular Season,Hankyu Club,28,"Nakajima, Takashi",RF,59,244,215,0.181,0.261,0.256,0.517,20,19,39,27,9,2,1,55,5,2,22,,19,,1,6,,31733891
+1942,Regular Season,Hanshin Club,26,"Nishina, Eizo",1B,22,30,24,0.042,0.179,0.042,0.221,2,0,1,1,0,0,0,1,0,0,4,,5,,0,2,,31733895
+1942,Regular Season,Hankyu Club,12,"Hibino, Takeshi",C,89,292,261,0.169,0.249,0.203,0.452,11,14,44,37,6,0,1,53,1,0,27,,18,,1,3,,31933878
+1942,Regular Season,Nagoya Club,30,"Honda, Chikayoshi",1B,65,235,191,0.194,0.330,0.251,0.581,24,14,37,32,2,0,3,48,11,3,37,,20,,2,5,,31933891
+1942,Regular Season,Nankai Club,22,"Bessho, Takehiko",PH,11,20,18,0.111,0.200,0.111,0.311,0,1,2,2,0,0,0,2,0,0,2,,1,,0,0,,31933895
+1942,Regular Season,Nankai Club,1,"Iwamoto, Yoshiyuki",CF,104,439,358,0.274,0.401,0.397,0.798,51,46,98,71,17,3,7,142,37,16,71,,18,,5,5,,41143891
+1942,Regular Season,Yamato Baseball Club,8,"Kimura, Kohei",2B,100,384,351,0.236,0.270,0.256,0.526,24,12,83,77,5,1,0,90,11,7,15,,23,,1,17,,41143893
+1942,Regular Season,Hanshin Club,2,"Inui, Kunio",3B,34,71,53,0.151,0.338,0.170,0.508,2,0,8,7,1,0,0,9,2,0,15,,14,,0,3,,41143895
+1942,Regular Season,Yamato Baseball Club,24,"Matsumoto, Misao",P,37,69,63,0.254,0.309,0.286,0.595,3,4,16,15,0,1,0,18,0,0,5,,8,,0,1,,41243874
+1942,Regular Season,Yamato Baseball Club,22,"Kinoshita, Masafumi",C,104,435,397,0.141,0.212,0.199,0.411,13,26,56,42,9,1,4,79,7,1,35,,32,,1,2,,41343876
+1942,Regular Season,Asahi Baseball Club,15,"Kito, Seiichi",2B,76,312,261,0.207,0.317,0.253,0.570,20,17,54,45,7,1,1,66,4,7,41,,17,,1,9,,41343891
+1942,Regular Season,Hanshin Club,5,"Noguchi, Noboru",SS,105,409,350,0.206,0.300,0.246,0.546,25,22,72,62,7,2,1,86,8,8,47,,23,,0,12,,41343893
+1942,Regular Season,Yamato Baseball Club,18,"Komatsubara, Hiroki",LF,82,259,229,0.201,0.293,0.258,0.551,16,22,46,38,4,3,1,59,4,1,30,,32,,0,0,,41343895
+1942,Regular Season,Hanshin Club,19,"Doigaki, Takeshi",3B,72,311,277,0.249,0.331,0.339,0.670,37,23,69,54,6,8,1,94,9,0,34,,11,,0,0,,41543891
+1942,Regular Season,Yamato Baseball Club,16,"Watanabe, Jungo",CF,82,298,266,0.177,0.258,0.188,0.446,11,6,47,44,3,0,0,50,9,4,27,,19,,2,3,,41543893
+1942,Regular Season,Hanshin Club,25,"Takayama, Yasuo",PH,18,23,20,0.100,0.217,0.100,0.317,0,1,2,2,0,0,0,2,1,0,3,,7,,0,0,,41543895
+1942,Regular Season,Tokyo Kyojin,4,"Nagasawa, Fujio",1B,37,71,67,0.149,0.174,0.149,0.323,4,3,10,10,0,0,0,10,1,0,2,,9,,0,2,,41643872
+1942,Regular Season,Nankai Club,12,"Nakano, Masao",1B,95,342,310,0.174,0.243,0.200,0.443,18,24,54,47,6,1,0,62,4,4,28,,24,,0,4,,41743876
+1942,Regular Season,Yamato Baseball Club,7,"Hiroshima, Kiyomi",P,8,11,8,0.000,0.273,0.000,0.273,0,0,0,0,0,0,0,0,0,0,3,,1,,0,0,,41743895
+1942,Regular Season,Yamato Baseball Club,10,"Hatafuku, Toshihide",P,39,97,89,0.191,0.250,0.213,0.463,3,3,17,15,2,0,0,19,1,0,7,,9,,0,1,,41843872
+1942,Regular Season,Taiyo Baseball Club,14,"Muramatsu, Chotaro",LF,70,303,271,0.192,0.270,0.240,0.510,18,12,52,40,11,1,0,65,6,0,28,,36,,1,3,,41943878
+1942,Regular Season,Yamato Baseball Club,32,"Miyashita, Nobuaki",3B,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,,0,,0,0,,41943895
+1942,Regular Season,Taiyo Baseball Club,17,"Furuya, Kuranosuke",P,47,128,111,0.180,0.289,0.234,0.523,4,7,20,16,2,2,0,26,0,1,17,,7,,0,0,,43143872
+1942,Regular Season,Taiyo Baseball Club,9,"Sato, Takeo",C,84,310,283,0.159,0.215,0.219,0.434,13,20,45,36,5,0,4,62,0,0,20,,48,,0,7,,51053872
+1942,Regular Season,Hankyu Club,29,"Morita, Sadao",1B,94,361,318,0.160,0.254,0.214,0.468,26,24,51,39,9,1,2,68,3,3,38,,35,,2,3,,51053891
+1942,Regular Season,Hankyu Club,6,"Yoshikawa, Taizo",P,7,12,11,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,,1,,0,1,,51053895
+1942,Regular Season,Hankyu Club,30,"Inokawa, Toshiharu",1B,20,48,38,0.132,0.313,0.184,0.497,2,3,5,3,2,0,0,7,1,0,10,,5,,0,0,,51153891
+1942,Regular Season,Nagoya Club,26,"Ishimaru, Shinichi",P,65,167,147,0.116,0.182,0.136,0.318,4,8,17,14,3,0,0,20,0,1,12,,7,,0,8,,51153893
+1942,Regular Season,Nankai Club,23,"Araki, Tadashi",C,11,22,20,0.350,0.409,0.400,0.809,2,1,7,6,1,0,0,8,0,0,2,,1,,0,0,,51153895
+1942,Regular Season,Tokyo Kyojin,17,"Starffin, Victor",P,42,131,125,0.200,0.213,0.272,0.485,8,13,25,18,6,0,1,34,0,0,2,,5,,0,4,,51253872
+1942,Regular Season,Nankai Club,3,"Ishida, Mitsuhiko",P,35,74,68,0.162,0.208,0.176,0.384,4,3,11,10,1,0,0,12,0,0,4,,2,,0,2,,51353872
+1942,Regular Season,Hanshin Club,33,"Ueda, Tadashi",RF,63,128,112,0.125,0.222,0.152,0.374,7,3,14,12,1,1,0,17,4,3,12,,12,,2,2,,51353874
+1942,Regular Season,Nankai Club,11,"Yanagi, Tsuruji",3B,105,417,378,0.214,0.270,0.238,0.508,28,19,81,74,5,2,0,90,20,8,28,,25,,1,10,,51353878
+1942,Regular Season,Tokyo Kyojin,21,"Shimizu, Yoshiaki",C,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,,0,,0,0,,51353893
+1942,Regular Season,Hanshin Club,21,"Ohashi, Yasushi",2B,2,1,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,,0,,0,1,,51353895
+1942,Regular Season,Asahi Baseball Club,12,"Otomo, Kazuaki",PH,3,7,5,0.200,0.429,0.200,0.629,1,0,1,1,0,0,0,1,0,0,2,,0,,0,0,,51553872
+1942,Regular Season,Yamato Baseball Club,25,"Sugie, Bunji",CF,78,230,201,0.169,0.244,0.184,0.428,15,6,34,32,1,1,0,37,17,5,20,,10,,0,9,,51553895
+1942,Regular Season,Taiyo Baseball Club,15,"Karita, Hisanori",2B,27,113,100,0.140,0.211,0.150,0.361,5,4,14,13,1,0,0,15,2,2,9,,8,,0,4,,51753872
+1942,Regular Season,Yamato Baseball Club,30,"Karita, Hisanori",2B,18,75,63,0.143,0.260,0.175,0.435,3,2,9,7,2,0,0,11,1,2,10,,6,,0,2,,51753872
+1942,Regular Season,Taiyo Baseball Club,12,"Nishioka, Yoshiharu",RF,15,24,23,0.130,0.167,0.130,0.297,3,0,3,3,0,0,0,3,0,0,1,,0,,0,0,,51753891
+1942,Regular Season,Nagoya Club,7,"Noguchi, Masaaki",1B,40,110,104,0.163,0.209,0.231,0.440,5,5,17,14,1,0,2,24,1,0,6,,13,,0,0,,51753895
+1942,Regular Season,Taiyo Baseball Club,8,"Noguchi, Akira",1B,101,410,375,0.221,0.286,0.317,0.603,21,33,83,59,16,4,4,119,0,2,33,,31,,1,1,,51853872
+1942,Regular Season,Yamato Baseball Club,30,"Terauchi, Kazutaka",CF,18,51,39,0.205,0.392,0.308,0.700,3,6,8,6,1,0,1,12,1,2,12,,5,,0,0,,51953874
+1942,Regular Season,Nankai Club,26,"Beppu, Iwao",C,8,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,,0,,0,0,,51953895
+1942,Regular Season,Hanshin Club,15,"Misono, Takao",P,95,321,282,0.241,0.314,0.280,0.594,29,26,68,61,3,4,0,79,24,1,30,,19,,0,9,,53553872
+1942,Regular Season,Hanshin Club,8,"Yamaguchi, Masanobu",LF,40,154,127,0.228,0.359,0.283,0.642,15,11,29,25,2,1,1,36,9,3,25,,18,,1,1,,53753872
+1942,Regular Season,Taiyo Baseball Club,20,"Shigematsu, Michio",P,19,37,33,0.212,0.297,0.303,0.600,6,3,7,6,0,0,1,10,1,0,4,,7,,0,0,,61063872
+1942,Regular Season,Tokyo Kyojin,5,"Ito, Kentaro",LF,96,331,305,0.239,0.288,0.338,0.626,19,34,73,51,18,0,4,103,2,6,21,,25,,0,5,,61163872
+1942,Regular Season,Hankyu Club,8,"Ikeda, Hisayuki",C,59,172,155,0.219,0.297,0.239,0.536,4,11,34,32,1,1,0,37,0,3,16,,17,,1,0,,61163878
+1942,Regular Season,Nankai Club,16,"Kitahara, Noboru",2B,65,281,241,0.249,0.342,0.295,0.637,24,24,60,52,6,1,1,71,14,7,30,,4,,4,6,,61163893
+1942,Regular Season,Taiyo Baseball Club,22,"Ozaki, Ritsuo",3B,10,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,,0,,0,1,,61163895
+1942,Regular Season,Tokyo Kyojin,10,"Kumabe, Ichiro",C,8,13,12,0.167,0.231,0.167,0.398,0,0,2,2,0,0,0,2,0,0,1,,2,,0,0,,61363891
+1942,Regular Season,Nankai Club,20,"Hasegawa, Zenzo",SS,41,106,96,0.219,0.286,0.240,0.526,2,0,21,19,2,0,0,23,0,0,8,,11,,1,1,,61363893
+1942,Regular Season,Tokyo Kyojin,26,"Kogure, Rikizo",1B,49,102,91,0.143,0.235,0.209,0.444,5,7,13,10,1,1,1,19,0,1,11,,18,,0,0,,61363895
+1942,Regular Season,Hankyu Club,11,"Yamada, Den",CF,104,484,404,0.250,0.361,0.300,0.661,52,16,101,85,13,2,1,121,24,10,68,,15,,2,10,,61463874
+1942,Regular Season,Hanshin Club,23,"Watanabe, Seitaro",P,15,14,13,0.077,0.143,0.077,0.220,0,1,1,1,0,0,0,1,0,0,1,,2,,0,0,,61563893
+1942,Regular Season,Hankyu Club,22,"Tenpo, Yoshio",P,30,63,55,0.200,0.302,0.218,0.520,5,0,11,10,1,0,0,12,1,0,7,,13,,1,0,,61563895
+1942,Regular Season,Nankai Club,22,"Nakamura, Kinji",1B,12,24,19,0.158,0.304,0.158,0.462,0,0,3,3,0,0,0,3,0,0,4,,0,,0,1,,61763876
+1942,Regular Season,Nagoya Club,22,"Fujiwara, Tetsunosuke",C,10,19,17,0.118,0.211,0.118,0.329,0,1,2,2,0,0,0,2,0,0,1,,3,,1,0,,61763895
+1942,Regular Season,Asahi Baseball Club,1,"Gomi, Yoshio",SS,74,296,241,0.183,0.321,0.203,0.524,30,9,44,41,1,2,0,49,21,11,49,,33,,0,6,,61963872
+1942,Regular Season,Nankai Club,24,"Miyaguchi, Yoshikichi",1B,4,11,10,0.200,0.273,0.200,0.473,0,0,2,2,0,0,0,2,0,0,1,,6,,0,0,,61963876
+1942,Regular Season,Asahi Baseball Club,16,"Mori, Tsuneo",PH,10,10,8,0.250,0.400,0.250,0.650,0,0,2,2,0,0,0,2,0,0,2,,1,,0,0,,61963895
+1942,Regular Season,Nankai Club,9,"Matsumoto, Kozaburo",C,4,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,,1,,0,0,,63363872
+1942,Regular Season,Nagoya Club,23,"Morii, Shigeru",P,27,50,44,0.091,0.111,0.091,0.202,2,1,4,4,0,0,0,4,0,0,1,,3,,0,5,,63563872
+1942,Regular Season,Hankyu Club,15,"Hashimoto, Shogo",P,10,13,12,0.083,0.154,0.083,0.237,1,0,1,1,0,0,0,1,0,0,1,,2,,0,0,,71073874
+1942,Regular Season,Yamato Baseball Club,15,"Yamada, Kiyoshi",SS,97,410,309,0.162,0.359,0.178,0.537,28,9,50,45,5,0,0,55,16,11,95,,26,,0,6,,71073876
+1942,Regular Season,Taiyo Baseball Club,25,"Yamakawa, Takenori",2B,58,190,181,0.149,0.168,0.160,0.328,11,8,27,25,2,0,0,29,5,1,4,,27,,0,4,,71073891
+1942,Regular Season,Hanshin Club,4,"Watanabe, Keizo",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,,1,,0,0,,71073895
+1942,Regular Season,Taiyo Baseball Club,21,"Watanabe, Keizo",RF,10,13,12,0.167,0.231,0.167,0.398,0,0,2,2,0,0,0,2,0,0,1,,3,,0,0,,71073895
+1942,Regular Season,Taiyo Baseball Club,19,"Asaoka, Saburo",LF,101,425,379,0.198,0.281,0.243,0.524,28,24,75,62,10,2,1,92,8,1,43,,42,,1,2,,71173872
+1942,Regular Season,Hankyu Club,6,"Ishii, Takeo",1B,13,20,19,0.105,0.105,0.211,0.316,1,3,2,1,0,1,0,4,0,0,0,,4,,0,1,,71173876
+1942,Regular Season,Asahi Baseball Club,22,"Isegawa, Masumi",C,78,318,294,0.163,0.204,0.211,0.415,20,16,48,38,7,2,1,62,3,4,14,,19,,1,9,,71173891
+1942,Regular Season,Hankyu Club,25,"Eda, Takashi",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,,0,,0,0,,71173893
+1942,Regular Season,Nagoya Club,29,"Inoe, Jihei",PH,5,5,4,0.000,0.200,0.000,0.200,0,0,0,0,0,0,0,0,0,0,1,,1,,0,0,,71173895
+1942,Regular Season,Yamato Baseball Club,2,"Suzuki, Hideo",C,76,249,218,0.147,0.231,0.174,0.405,13,7,32,28,3,0,1,38,12,6,23,,19,,1,7,,71273872
+1942,Regular Season,Yamato Baseball Club,9,"Ishihara, Shigezo",P,62,182,173,0.133,0.162,0.156,0.318,3,3,23,20,2,1,0,27,1,1,6,,24,,0,3,,71373872
+1942,Regular Season,Tokyo Kyojin,20,"Tada, Fukuzo",C,31,67,60,0.133,0.212,0.183,0.395,1,7,8,5,3,0,0,11,0,1,6,,14,,0,1,,71373893
+1942,Regular Season,Hanshin Club,28,"Kaneda, Masayasu",CF,68,179,142,0.148,0.288,0.197,0.485,14,4,21,17,2,1,1,28,5,5,27,,22,,1,9,,71373895
+1942,Regular Season,Asahi Baseball Club,6,"Sakazawa, Seiji",SS,46,138,128,0.211,0.241,0.258,0.499,7,7,27,22,4,1,0,33,4,1,5,,9,,0,5,,71573876
+1942,Regular Season,Nankai Club,18,"Kunihisa, Shoichi",LF,105,451,401,0.204,0.277,0.237,0.514,48,24,82,71,9,2,0,95,28,4,38,,23,,2,10,,71573878
+1942,Regular Season,Nankai Club,5,"Murakami, Kazuharu",1B,6,25,22,0.318,0.375,0.545,0.920,2,3,7,4,2,0,1,12,1,0,2,,1,,0,1,,71573893
+1942,Regular Season,Yamato Baseball Club,28,"Sugiyama, Toyo",1B,49,123,113,0.168,0.230,0.177,0.407,1,4,19,18,1,0,0,20,3,1,9,,7,,0,1,,71573895
+1942,Regular Season,Taiyo Baseball Club,2,"Nakamura, Shinichi",3B,104,480,415,0.200,0.308,0.224,0.532,37,10,83,75,6,2,0,93,13,7,63,,25,,2,0,,71673872
+1942,Regular Season,Asahi Baseball Club,24,"Nomoto, Yoshio",2B,19,15,12,0.083,0.267,0.083,0.350,1,1,1,1,0,0,0,1,1,1,3,,2,,0,0,,71773895
+1942,Regular Season,Hankyu Club,24,"Kuroda, Kengo",3B,105,465,389,0.213,0.338,0.260,0.598,25,42,83,67,15,0,1,101,23,2,72,,32,,1,3,,71973872
+1942,Regular Season,Hanshin Club,16,"Maekawa, Masayoshi",2B,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,,1,,0,0,,71973895
+1942,Regular Season,Nagoya Club,12,"Ishimaru, Tokichi",2B,105,463,412,0.175,0.253,0.197,0.450,36,16,72,64,7,1,0,81,12,5,43,,25,,0,8,,81183874
+1942,Regular Season,Hanshin Club,29,"Oshima, Takeshi",1B,33,66,60,0.167,0.231,0.183,0.414,6,3,10,9,1,0,0,11,4,2,5,,9,,0,1,,81183895
+1942,Regular Season,Hankyu Club,20,"Mizobe, Takeo",P,7,13,11,0.273,0.385,0.273,0.658,2,0,3,3,0,0,0,3,0,0,2,,1,,0,0,,81283874
+1942,Regular Season,Hankyu Club,7,"Eguchi, Yukio",2B,25,94,84,0.131,0.207,0.131,0.338,7,3,11,11,0,0,0,11,0,0,7,,5,,1,2,,81383872
+1942,Regular Season,Nankai Club,8,"Okamoto, Toshizo",RF,16,22,21,0.286,0.318,0.333,0.651,0,1,6,5,1,0,0,7,1,0,1,,6,,0,0,,81383874
+1942,Regular Season,Tokyo Kyojin,12,"Kusunoki, Yasuo",C,90,386,299,0.227,0.397,0.318,0.715,40,26,68,49,12,6,1,95,3,1,82,,50,,2,3,,81383876
+1942,Regular Season,Hanshin Club,20,"Hirabayashi, Eiji",2B,39,92,83,0.181,0.244,0.229,0.473,2,4,15,12,2,1,0,19,4,1,7,,6,,0,2,,81383893
+1942,Regular Season,Taiyo Baseball Club,24,"Sasaki, Mitsuo",2B,20,45,39,0.128,0.227,0.128,0.355,1,1,5,5,0,0,0,5,1,0,5,,6,,0,1,,81383895
+1942,Regular Season,Asahi Baseball Club,19,"Naito, Kozo",RF,80,195,172,0.215,0.301,0.262,0.563,6,15,37,29,8,0,0,45,5,2,21,,35,,0,2,,81483872
+1942,Regular Season,Hankyu Club,10,"Nakamura, Sakae",SS,87,316,282,0.177,0.252,0.206,0.458,18,13,50,43,6,1,0,58,6,3,24,,12,,4,6,,81583895
+1942,Regular Season,Taiyo Baseball Club,18,"Noguchi, Jiro",P,91,327,315,0.216,0.245,0.251,0.496,26,23,68,58,9,1,0,79,6,0,12,,7,,0,0,,81783878
+1942,Regular Season,Hanshin Club,9,"Fujimura, Takao",P,25,34,29,0.207,0.258,0.276,0.534,0,0,6,4,2,0,0,8,0,0,2,,9,,0,3,,81783891
+1942,Regular Season,Tokyo Kyojin,35,"Fujimoto, Hideo",P,14,47,41,0.220,0.319,0.293,0.612,3,7,9,7,1,1,0,12,0,0,6,,3,,0,0,,81783895
+1942,Regular Season,Tokyo Kyojin,1,"Hayashi, Kiyomitsu",LF,48,62,55,0.218,0.283,0.218,0.501,8,5,12,12,0,0,0,12,1,0,5,,6,,0,2,,81883872
+1942,Regular Season,Yamato Baseball Club,31,"Somiya, Fusanosuke",2B,26,69,61,0.180,0.254,0.197,0.451,4,3,11,10,1,0,0,12,2,1,6,,3,,0,2,,81983891
+1942,Regular Season,Nankai Club,25,"Yagi, Susumu",C,79,238,210,0.148,0.235,0.162,0.397,6,4,31,28,3,0,0,34,2,2,23,,33,,1,4,,81983895
+1942,Regular Season,Hanshin Club,17,"Monzen, Masato",1B,33,129,105,0.171,0.326,0.257,0.583,7,13,18,12,4,1,1,27,1,1,23,,20,,1,0,,83583872
+1942,Regular Season,Asahi Baseball Club,14,"Yamamoto, Hideo",P,26,28,25,0.120,0.214,0.120,0.334,5,3,3,3,0,0,0,3,0,0,3,,1,,0,0,,91093891
+1942,Regular Season,Asahi Baseball Club,5,"Watanabe, Tokinobu",P,6,4,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,1,,0,,0,0,,91093895
+1942,Regular Season,Asahi Baseball Club,7,"Kageura, Kenichi",3B,38,70,59,0.136,0.261,0.153,0.414,2,1,8,7,1,0,0,9,2,1,9,,9,,1,1,,91193893
+1942,Regular Season,Yamato Baseball Club,17,"Inomata, Akira",C,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,,0,,0,0,,91193895
+1942,Regular Season,Nagoya Club,19,"Matsuo, Kozo",P,15,27,25,0.160,0.222,0.160,0.382,0,3,4,4,0,0,0,4,0,0,2,,8,,0,0,,91293874
+1942,Regular Season,Nankai Club,32,"Kato, Kisaku",SS,6,9,9,0.111,0.111,0.111,0.222,0,0,1,1,0,0,0,1,0,0,0,,0,,0,0,,91393891
+1942,Regular Season,Tokyo Kyojin,31,"Kawabata, Hiroshi",P,12,15,12,0.167,0.333,0.250,0.583,0,3,2,1,1,0,0,3,0,0,3,,0,,0,0,,91393895
+1942,Regular Season,Tokyo Kyojin,23,"Go, Shosei",CF,105,455,370,0.286,0.411,0.384,0.795,65,35,106,83,11,11,1,142,40,7,77,,35,,1,7,,91593874
+1942,Regular Season,Taiyo Baseball Club,23,"Sofue, Toichiro",RF,47,119,106,0.160,0.226,0.217,0.443,9,7,17,15,0,0,2,23,1,0,9,,16,,0,4,,91593895
+1942,Regular Season,Taiyo Baseball Club,25,"Nakamura, Tamio",C,18,54,51,0.216,0.259,0.275,0.534,3,3,11,10,0,0,1,14,1,0,3,,6,,0,0,,91693872
+1942,Regular Season,Taiyo Baseball Club,5,"Tomimatsu, Nobuhiko",CF,21,83,71,0.169,0.289,0.254,0.543,5,4,12,8,2,2,0,18,0,2,11,,11,,1,0,,91793878
+1942,Regular Season,Yamato Baseball Club,21,"Tomimatsu, Nobuhiko",RF,77,301,261,0.203,0.309,0.272,0.581,16,16,53,41,7,4,1,71,11,5,40,,32,,0,0,,91793878
+1942,Regular Season,Asahi Baseball Club,10,"Hayakawa, Heiichi",LF,78,182,170,0.176,0.222,0.188,0.410,6,6,30,28,2,0,0,32,5,3,10,,22,,0,2,,91793895
+1942,Regular Season,Taiyo Baseball Club,1,"Nonin, Wataru",SS,105,472,396,0.207,0.313,0.260,0.573,23,19,82,69,8,2,3,103,10,3,60,,33,,1,15,,91893872
+1942,Regular Season,Hanshin Club,7,"Matsuo, Goro",LF,58,191,169,0.237,0.314,0.296,0.610,16,20,40,33,4,3,0,50,8,2,19,,15,,0,3,,91993891
+1942,Regular Season,Nankai Club,14,"Masuda, Toshi",3B,22,66,60,0.150,0.203,0.200,0.403,4,3,9,8,0,0,1,12,0,0,4,,12,,0,2,,91993895
+1942,Regular Season,Asahi Baseball Club,3,"Hirota, Shuzo",1B,105,387,341,0.123,0.219,0.161,0.380,12,16,42,32,8,1,1,55,8,1,41,,69,,1,4,,93193872
+1942,Regular Season,Nagoya Club,25,"Masu, Kaichi",CF,85,343,291,0.223,0.327,0.237,0.564,25,24,65,63,1,0,1,69,4,5,45,,15,,0,7,,93393872
+1942,Regular Season,Tokyo Kyojin,19,"Mizuhara, Shigeru",3B,65,298,258,0.225,0.324,0.279,0.603,32,16,58,46,10,2,0,72,2,3,38,,8,,0,2,,93593872
+1942,Regular Season,Hankyu Club,16,"Yamashita, Koichi",LF,94,381,338,0.216,0.299,0.257,0.556,18,39,73,61,10,2,0,87,8,5,40,,33,,0,3,,93793872

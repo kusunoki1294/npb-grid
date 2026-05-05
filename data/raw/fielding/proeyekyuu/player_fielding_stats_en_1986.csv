@@ -1,0 +1,618 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+1986,Regular Season,Yakult Swallows,2,"Lee, Leon",1B,27,0.994,154,10,1,19,,01003846
+1986,Regular Season,Yakult Swallows,2,"Lee, Leon",3B,117,0.939,110,182,19,15,,01003846
+1986,Regular Season,Yakult Swallows,3,"Brouhard, Mark",OF,129,0.996,277,7,1,2,,01003862
+1986,Regular Season,Hankyu Braves,34,"Mori, Koji",P,35,1.000,3,9,0,0,,01003865
+1986,Regular Season,Yokohama Taiyo Whales,28,"Nishimura, Hiromi",OF,3,0.000,0,0,0,0,,01003867
+1986,Regular Season,Kintetsu Buffaloes,7,"Awaguchi, Kenji",OF,112,0.988,163,1,2,0,,01103843
+1986,Regular Season,Nippon-Ham Fighters,27,"Omiya, Tatsuo",C,4,1.000,24,0,0,0,0,01103844
+1986,Regular Season,Chunichi Dragons,31,"Ishii, Akio",OF,32,1.000,41,2,0,0,,01103846
+1986,Regular Season,Yomiuri Giants,52,"Inoe, Shinji",OF,3,1.000,2,0,0,0,,01103860
+1986,Regular Season,Chunichi Dragons,17,"Ushijima, Kazuhiko",P,35,1.000,1,8,0,0,,01103861
+1986,Regular Season,Nankai Hawks,12,"Inoe, Yuji",P,40,0.955,6,15,1,1,,01103863
+1986,Regular Season,Hiroshima Toyo Carp,36,"Imai, Joji",OF,6,1.000,1,0,0,0,,01103865
+1986,Regular Season,Nankai Hawks,39,"Fujimoto, Hiroshi",3B,1,1.000,0,1,0,0,,01203860
+1986,Regular Season,Kintetsu Buffaloes,56,"Mitsuyama, Hidekazu",C,42,1.000,149,11,0,1,0,01203862
+1986,Regular Season,Hanshin Tigers,54,"Maeda, Koji",P,2,0.000,0,0,0,0,,01203869
+1986,Regular Season,Yokohama Taiyo Whales,17,"Saito, Akio",P,44,1.000,6,20,0,0,,01303844
+1986,Regular Season,Yokohama Taiyo Whales,15,"Kadota, Fumiaki",P,35,0.963,4,22,1,1,,01303846
+1986,Regular Season,Chunichi Dragons,23,"Kawamata, Yonetoshi",1B,88,0.993,694,52,5,63,,01303848
+1986,Regular Season,Chunichi Dragons,23,"Kawamata, Yonetoshi",OF,24,0.929,25,1,2,0,,01303848
+1986,Regular Season,Yomiuri Giants,17,"Comstock, Keith",P,3,1.000,0,5,0,0,,01303860
+1986,Regular Season,Lotte Orions,34,"Kasahara, Eiichi",P,2,1.000,0,1,0,0,,01303862
+1986,Regular Season,Kintetsu Buffaloes,4,"Oishi, Daijiro",2B,130,0.979,312,376,15,90,,01303863
+1986,Regular Season,Seibu Lions,26,"Kanamori, Eiji",C,1,1.000,1,0,0,0,0,01303865
+1986,Regular Season,Seibu Lions,26,"Kanamori, Eiji",OF,107,0.994,169,2,1,0,,01303865
+1986,Regular Season,Nippon-Ham Fighters,0,"Ohata, Toru",P,7,1.000,0,1,0,1,,01303867
+1986,Regular Season,Chunichi Dragons,18,"Kashima, Tadashi",P,24,1.000,2,17,0,1,,01303869
+1986,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,1,0.000,0,0,0,0,,01403862
+1986,Regular Season,Yokohama Taiyo Whales,43,"Muraoka, Koichi",2B,64,0.993,52,95,1,9,,01403867
+1986,Regular Season,Yokohama Taiyo Whales,43,"Muraoka, Koichi",3B,18,0.909,2,8,1,2,,01403867
+1986,Regular Season,Yokohama Taiyo Whales,43,"Muraoka, Koichi",SS,4,1.000,1,2,0,1,,01403867
+1986,Regular Season,Chunichi Dragons,54,"Komatsuzaki, Yoshihisa",1B,1,1.000,1,0,0,0,,01503860
+1986,Regular Season,Chunichi Dragons,54,"Komatsuzaki, Yoshihisa",OF,2,1.000,2,0,0,0,,01503860
+1986,Regular Season,Yakult Swallows,48,"Sakurai, Shinichi",2B,8,0.800,3,1,1,0,,01503862
+1986,Regular Season,Yakult Swallows,48,"Sakurai, Shinichi",3B,2,0.000,0,0,0,0,,01503862
+1986,Regular Season,Yakult Swallows,48,"Sakurai, Shinichi",SS,8,0.929,8,5,1,1,,01503862
+1986,Regular Season,Seibu Lions,44,"Kurohara, Yuji",P,7,1.000,0,4,0,0,,01503867
+1986,Regular Season,Hiroshima Toyo Carp,6,"Kobayakawa, Takehiko",1B,13,0.986,63,6,1,6,,01503869
+1986,Regular Season,Hiroshima Toyo Carp,6,"Kobayakawa, Takehiko",2B,44,0.983,76,97,3,13,,01503869
+1986,Regular Season,Hiroshima Toyo Carp,6,"Kobayakawa, Takehiko",3B,2,1.000,1,3,0,0,,01503869
+1986,Regular Season,Chunichi Dragons,19,"Yonemura, Akira",P,29,1.000,2,10,0,0,,01603860
+1986,Regular Season,Seibu Lions,39,"Shirahata, Takahiro",C,7,1.000,9,1,0,0,1,01703860
+1986,Regular Season,Yokohama Taiyo Whales,12,"Takahashi, Kazuhiko",P,27,1.000,1,8,0,0,,01703862
+1986,Regular Season,Seibu Lions,54,"Seike, Masakazu",1B,1,1.000,4,1,0,1,,01703863
+1986,Regular Season,Seibu Lions,54,"Seike, Masakazu",3B,2,1.000,0,1,0,1,,01703863
+1986,Regular Season,Seibu Lions,54,"Seike, Masakazu",SS,1,1.000,3,2,0,1,,01703863
+1986,Regular Season,Hiroshima Toyo Carp,11,"Takagi, Nobuhiro",P,7,0.889,0,8,1,0,,01703865
+1986,Regular Season,Chunichi Dragons,38,"Shimada, Yoshiaki",1B,2,1.000,2,0,0,1,,01703867
+1986,Regular Season,Chunichi Dragons,38,"Shimada, Yoshiaki",OF,1,1.000,1,0,0,0,,01703867
+1986,Regular Season,Seibu Lions,21,"Higashio, Osamu",P,31,0.977,8,34,1,2,,01903828
+1986,Regular Season,Hanshin Tigers,13,"Nakano, Satoru",OF,2,1.000,1,0,0,0,,01903862
+1986,Regular Season,Chunichi Dragons,9,"Nakao, Takayoshi",C,97,0.991,524,35,5,7,1,01903863
+1986,Regular Season,Nippon-Ham Fighters,23,"Tsusue, Hideaki",1B,5,0.970,30,2,1,0,,01903867
+1986,Regular Season,Yomiuri Giants,15,"Yamakura, Kazuhiro",C,102,0.995,606,34,3,6,5,11013846
+1986,Regular Season,Hanshin Tigers,7,"Mayumi, Akinobu",3B,31,0.957,17,72,4,2,,11013847
+1986,Regular Season,Hanshin Tigers,7,"Mayumi, Akinobu",OF,91,0.993,145,6,1,1,,11013847
+1986,Regular Season,Nankai Hawks,35,"Yoshida, Hiroyuki",C,45,1.000,177,25,0,4,2,11013848
+1986,Regular Season,Hanshin Tigers,47,"Fujiwara, Masashi",P,25,1.000,4,14,0,0,,11013861
+1986,Regular Season,Nankai Hawks,21,"Nishikawa, Yoshiaki",P,26,0.973,3,33,1,3,,11013862
+1986,Regular Season,Nankai Hawks,13,"Nakajo, Yoshinobu",P,37,0.867,7,6,2,1,,11013867
+1986,Regular Season,Yokohama Taiyo Whales,37,"Hino, Yoshiaki",2B,1,0.000,0,0,0,0,,11213860
+1986,Regular Season,Yokohama Taiyo Whales,37,"Hino, Yoshiaki",3B,13,0.941,4,12,1,1,,11213860
+1986,Regular Season,Yokohama Taiyo Whales,37,"Hino, Yoshiaki",SS,5,1.000,6,5,0,1,,11213860
+1986,Regular Season,Hanshin Tigers,38,"Yamakawa, Takeshi",1B,8,0.923,11,1,1,1,,11213861
+1986,Regular Season,Hanshin Tigers,38,"Yamakawa, Takeshi",C,6,1.000,11,4,0,0,0,11213861
+1986,Regular Season,Lotte Orions,39,"Furukawa, Shinichi",OF,96,1.000,144,4,0,0,,11213862
+1986,Regular Season,Yokohama Taiyo Whales,11,"Horii, Tsuneo",P,47,1.000,5,16,0,1,,11213863
+1986,Regular Season,Nankai Hawks,11,"Hatayama, Hitoshi",P,3,1.000,2,2,0,0,,11213867
+1986,Regular Season,Chunichi Dragons,1,"Fujio, Yasuharu",1B,1,1.000,2,0,0,0,,11213869
+1986,Regular Season,Chunichi Dragons,1,"Fujio, Yasuharu",3B,20,0.902,13,24,4,3,,11213869
+1986,Regular Season,Yokohama Taiyo Whales,39,"Okamoto, Tetsushi",C,18,1.000,40,4,0,1,1,11313862
+1986,Regular Season,Kintetsu Buffaloes,13,"Ishimoto, Yoshiaki",P,64,0.943,8,25,2,4,,11313863
+1986,Regular Season,Seibu Lions,52,"Oda, Shinya",P,35,1.000,0,10,0,0,,11313869
+1986,Regular Season,Yakult Swallows,28,"Yaegashi, Yukio",C,116,0.978,536,78,14,6,15,11413843
+1986,Regular Season,Hanshin Tigers,25,"Yamamoto, Kazuyuki",P,49,0.964,2,25,1,1,,11413845
+1986,Regular Season,Nankai Hawks,33,"Yamaguchi, Yuji",OF,45,1.000,58,3,0,0,,11413862
+1986,Regular Season,Hiroshima Toyo Carp,41,"Yamanaka, Kiyoshi",C,15,1.000,43,3,0,0,1,11413863
+1986,Regular Season,Hankyu Braves,26,"Kobayashi, Shinya",OF,57,1.000,57,2,0,0,,11513846
+1986,Regular Season,Yomiuri Giants,37,"Sano, Motokuni",C,3,0.800,4,0,1,0,0,11513848
+1986,Regular Season,Hanshin Tigers,31,"Kakefu, Masayuki",3B,66,0.933,40,112,11,10,,11513849
+1986,Regular Season,Yomiuri Giants,67,"Kinoshita, Tomohiro",P,37,1.000,1,1,0,0,,11513861
+1986,Regular Season,Yomiuri Giants,18,"Kuwata, Masumi",P,15,1.000,2,11,0,1,,11513862
+1986,Regular Season,Yokohama Taiyo Whales,23,"Kikuchi, Kyoichi",OF,5,1.000,10,2,0,0,,11513865
+1986,Regular Season,Hiroshima Toyo Carp,48,"Kiyokawa, Eiji",P,50,1.000,3,7,0,1,,11513869
+1986,Regular Season,Yakult Swallows,1,"Wakamatsu, Tsutomu",OF,103,0.990,187,5,2,0,,11613843
+1986,Regular Season,Kintetsu Buffaloes,33,"Yota, Masahiko",P,40,0.966,6,22,1,0,,11613860
+1986,Regular Season,Kintetsu Buffaloes,34,"Murata, Tatsumi",P,30,1.000,6,39,0,6,,11713840
+1986,Regular Season,Hiroshima Toyo Carp,2,"Takahashi, Yoshihiko",SS,130,0.964,209,377,22,67,,11713842
+1986,Regular Season,Yomiuri Giants,5,"Kono, Kazumasa",2B,9,1.000,2,6,0,1,,11713843
+1986,Regular Season,Yomiuri Giants,5,"Kono, Kazumasa",3B,1,1.000,1,3,0,0,,11713843
+1986,Regular Season,Yomiuri Giants,5,"Kono, Kazumasa",SS,18,0.980,15,35,1,6,,11713843
+1986,Regular Season,Nankai Hawks,23,"Takayanagi, Hideki",OF,49,1.000,64,1,0,1,,11713848
+1986,Regular Season,Nankai Hawks,57,"Sasaki, Makoto",OF,68,0.984,121,2,2,0,,11713860
+1986,Regular Season,Nippon-Ham Fighters,29,"Shiba, Tadashi",P,1,0.000,0,0,0,0,,11713862
+1986,Regular Season,Yomiuri Giants,25,"Kono, Junki",2B,1,1.000,0,1,0,0,,11713863
+1986,Regular Season,Yomiuri Giants,25,"Kono, Junki",SS,57,0.981,77,132,4,22,,11713863
+1986,Regular Season,Kintetsu Buffaloes,22,"Sumitomo, Kazuya",P,18,1.000,1,7,0,1,,11713865
+1986,Regular Season,Nippon-Ham Fighters,17,"Sato, Seiichi",P,21,0.923,6,6,1,0,,11713867
+1986,Regular Season,Nippon-Ham Fighters,55,"Shimizu, Nobuaki",C,1,1.000,10,0,0,0,0,11713869
+1986,Regular Season,Nankai Hawks,26,"Fujita, Manabu",P,1,0.000,0,0,0,0,,11913842
+1986,Regular Season,Hiroshima Toyo Carp,19,"Niimi, Satoshi",P,12,1.000,1,8,0,0,,11913847
+1986,Regular Season,Yokohama Taiyo Whales,14,"Masumoto, Hiroshi",P,3,1.000,0,1,0,0,,11913848
+1986,Regular Season,Nankai Hawks,50,"Chuma, Kenji",C,1,1.000,0,1,0,0,0,11913862
+1986,Regular Season,Lotte Orions,32,"Nishimura, Norifumi",2B,101,0.977,224,291,12,67,,11913865
+1986,Regular Season,Lotte Orions,32,"Nishimura, Norifumi",OF,1,0.000,0,0,0,0,,11913865
+1986,Regular Season,Yokohama Taiyo Whales,21,"Sekine, Hirofumi",P,19,0.923,2,10,1,0,,11913867
+1986,Regular Season,Lotte Orions,5,"Lee, Leron",OF,2,1.000,6,0,0,0,,21023844
+1986,Regular Season,Hanshin Tigers,1,"Hirota, Sumio",OF,48,1.000,88,0,0,0,,21023845
+1986,Regular Season,Yakult Swallows,26,"Hata, Shinji",C,18,0.957,42,3,2,0,1,21023860
+1986,Regular Season,Yakult Swallows,26,"Hata, Shinji",OF,1,0.000,0,0,0,0,,21023860
+1986,Regular Season,Seibu Lions,20,"Vukovich, George",OF,112,0.992,238,7,2,3,,21023862
+1986,Regular Season,Seibu Lions,14,"Noguchi, Hiromi",P,2,1.000,1,2,0,0,,21023867
+1986,Regular Season,Kintetsu Buffaloes,31,"Ohara, Tetsuya",3B,1,0.000,0,0,0,0,,21123848
+1986,Regular Season,Yomiuri Giants,51,"Ishii, Masahiro",OF,42,1.000,26,0,0,0,,21123860
+1986,Regular Season,Nankai Hawks,1,"Ogawa, Hiroshi",2B,7,1.000,5,6,0,1,,21123861
+1986,Regular Season,Nankai Hawks,1,"Ogawa, Hiroshi",SS,127,0.968,181,424,20,69,,21123861
+1986,Regular Season,Lotte Orions,46,"Ito, Masaru",P,52,1.000,1,13,0,1,,21123862
+1986,Regular Season,Hankyu Braves,4,"Iwamoto, Yoshihiro",2B,29,1.000,37,61,0,14,,21123865
+1986,Regular Season,Hankyu Braves,4,"Iwamoto, Yoshihiro",OF,1,0.000,0,0,0,0,,21123865
+1986,Regular Season,Hankyu Braves,4,"Iwamoto, Yoshihiro",SS,23,0.913,6,15,2,4,,21123865
+1986,Regular Season,Seibu Lions,32,"Ishii, Takeshi",P,42,1.000,0,16,0,2,,21123867
+1986,Regular Season,Chunichi Dragons,11,"Furukawa, Toshiyuki",P,6,1.000,0,2,0,0,,21223860
+1986,Regular Season,Lotte Orions,53,"Momoi, Susumu",C,16,1.000,40,4,0,0,1,21223862
+1986,Regular Season,Hiroshima Toyo Carp,23,"Moriwaki, Hiroshi",2B,1,1.000,1,2,0,1,,21223863
+1986,Regular Season,Hankyu Braves,44,"Wells, Boomer",1B,126,0.996,1139,73,5,104,,21223867
+1986,Regular Season,Hankyu Braves,44,"Wells, Boomer",OF,2,1.000,2,0,0,0,,21223867
+1986,Regular Season,Yomiuri Giants,31,"Mizuno, Katsuhito",P,26,1.000,3,20,0,2,,21223869
+1986,Regular Season,Hiroshima Toyo Carp,29,"Kobayashi, Seiji",P,33,1.000,3,13,0,1,,21323842
+1986,Regular Season,Lotte Orions,9,"Saito, Ko",1B,46,0.994,306,18,2,29,,21323844
+1986,Regular Season,Lotte Orions,9,"Saito, Ko",C,37,0.992,110,17,1,1,9,21323844
+1986,Regular Season,Kintetsu Buffaloes,16,"Kubo, Yasuo",P,20,1.000,6,19,0,3,,21323846
+1986,Regular Season,Seibu Lions,12,"Kaku, Taigen",P,39,1.000,6,27,0,2,,21323860
+1986,Regular Season,Hankyu Braves,57,"Kanamoto, Seikichi",P,1,1.000,0,1,0,0,,21323861
+1986,Regular Season,Chunichi Dragons,53,"Kawabata, Yasuhiro",P,2,0.500,0,1,1,0,,21323862
+1986,Regular Season,Yakult Swallows,24,"Okawa, Akira",P,26,1.000,1,10,0,2,,21323863
+1986,Regular Season,Hiroshima Toyo Carp,47,"Kaneishi, Akihito",P,26,0.980,17,32,1,3,,21323865
+1986,Regular Season,Yomiuri Giants,60,"Kawai, Masahiro",2B,17,0.950,6,13,1,1,,21323869
+1986,Regular Season,Yomiuri Giants,60,"Kawai, Masahiro",3B,6,1.000,0,3,0,0,,21323869
+1986,Regular Season,Yomiuri Giants,60,"Kawai, Masahiro",SS,22,0.919,8,26,3,7,,21323869
+1986,Regular Season,Chunichi Dragons,60,"Miyashita, Masami",P,40,1.000,4,17,0,1,,21423860
+1986,Regular Season,Hanshin Tigers,39,"Yoshida, Yasuo",C,3,1.000,2,0,0,0,0,21423862
+1986,Regular Season,Hanshin Tigers,8,"Yoshitake, Haruki",OF,106,1.000,134,0,0,0,,21423863
+1986,Regular Season,Nankai Hawks,38,"Tamura, Isao",P,5,1.000,1,1,0,0,,21523842
+1986,Regular Season,Yokohama Taiyo Whales,36,"Koyama, Akiyoshi",C,6,1.000,14,1,0,0,0,21523860
+1986,Regular Season,Chunichi Dragons,45,"Kurioka, Hidetomo",2B,1,1.000,0,1,0,1,,21523861
+1986,Regular Season,Chunichi Dragons,45,"Kurioka, Hidetomo",3B,19,0.960,9,15,1,3,,21523861
+1986,Regular Season,Chunichi Dragons,45,"Kurioka, Hidetomo",OF,13,1.000,7,0,0,0,,21523861
+1986,Regular Season,Chunichi Dragons,45,"Kurioka, Hidetomo",SS,6,0.867,4,9,2,4,,21523861
+1986,Regular Season,Lotte Orions,40,"Sato, Kazuhito",SS,2,1.000,1,0,0,0,,21523862
+1986,Regular Season,Yakult Swallows,59,"Genoka, Masamitsu",OF,1,0.000,0,0,0,0,,21523863
+1986,Regular Season,Chunichi Dragons,32,"Kuwata, Shigeru",P,25,0.913,3,18,2,2,,21523867
+1986,Regular Season,Hankyu Braves,22,"Kobayashi, Atsumi",P,2,0.000,0,0,0,0,,21523869
+1986,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",SS,6,1.000,2,8,0,0,,21623860
+1986,Regular Season,Lotte Orions,20,"Nishina, Tokinari",P,25,0.976,7,33,1,3,,21723844
+1986,Regular Season,Yakult Swallows,9,"Sugiura, Toru",1B,4,1.000,25,1,0,2,,21723845
+1986,Regular Season,Yakult Swallows,9,"Sugiura, Toru",OF,36,1.000,66,1,0,0,,21723845
+1986,Regular Season,Kintetsu Buffaloes,20,"Nakane, Masahiro",OF,10,0.909,9,1,1,0,,21723847
+1986,Regular Season,Lotte Orions,35,"Shoji, Tomohisa",OF,16,1.000,10,0,0,0,,21723849
+1986,Regular Season,Yokohama Taiyo Whales,27,"Takeda, Mitsukuni",P,32,1.000,5,10,0,1,,21723862
+1986,Regular Season,Chunichi Dragons,22,"Sota, Yasuji",P,11,1.000,0,4,0,0,,21723863
+1986,Regular Season,Hiroshima Toyo Carp,18,"Shiratake, Yoshihisa",P,24,0.952,6,14,1,1,,21723867
+1986,Regular Season,Lotte Orions,7,"Mizukami, Yoshio",OF,1,1.000,1,0,0,0,,21923842
+1986,Regular Season,Lotte Orions,7,"Mizukami, Yoshio",SS,74,0.987,84,148,3,34,,21923842
+1986,Regular Season,Chunichi Dragons,28,"Miyako, Yujiro",P,23,0.957,5,17,1,0,,21923848
+1986,Regular Season,Hiroshima Toyo Carp,0,"Nagashima, Kiyoyuki",OF,130,0.985,256,6,4,1,,21923861
+1986,Regular Season,Hiroshima Toyo Carp,16,"Nagadomi, Hiroshi",P,30,1.000,6,27,0,1,,21923862
+1986,Regular Season,Hanshin Tigers,28,"Nakada, Yoshihiro",P,7,0.750,1,5,2,1,,21923863
+1986,Regular Season,Hankyu Braves,40,"Fukuhara, Mineo",2B,64,0.988,28,55,1,15,,21923865
+1986,Regular Season,Hankyu Braves,40,"Fukuhara, Mineo",SS,2,1.000,1,3,0,0,,21923865
+1986,Regular Season,Hanshin Tigers,62,"Tomari, Katsunori",1B,1,0.000,0,0,0,0,,21923869
+1986,Regular Season,Hanshin Tigers,62,"Tomari, Katsunori",3B,3,0.800,3,5,2,1,,21923869
+1986,Regular Season,Lotte Orions,21,"Nishii, Tetsuo",P,16,1.000,0,3,0,0,,31033841
+1986,Regular Season,Lotte Orions,44,"Yamamoto, Koji",1B,50,0.994,335,19,2,25,,31033842
+1986,Regular Season,Lotte Orions,44,"Yamamoto, Koji",OF,21,1.000,19,2,0,0,,31033842
+1986,Regular Season,Nankai Hawks,22,"Moriguchi, Masumitsu",P,2,0.000,0,0,1,0,,31033844
+1986,Regular Season,Hiroshima Toyo Carp,1,"Yamasaki, Ryuzo",OF,127,0.992,237,3,2,0,,31033846
+1986,Regular Season,Nippon-Ham Fighters,6,"Putnam, Pat",1B,126,0.993,1057,91,8,95,,31033862
+1986,Regular Season,Hankyu Braves,32,"Minamimure, Toyozo",OF,62,1.000,66,0,0,0,,31033865
+1986,Regular Season,Hankyu Braves,23,"Nagamura, Hiroyuki",C,12,1.000,25,2,0,1,0,31033869
+1986,Regular Season,Chunichi Dragons,7,"Uno, Masaru",3B,83,0.951,77,135,11,16,,31133844
+1986,Regular Season,Kintetsu Buffaloes,58,"Adachi, Toshiya",SS,1,1.000,0,1,0,0,,31133860
+1986,Regular Season,Yokohama Taiyo Whales,50,"Aikawa, Hideaki",P,25,1.000,4,13,0,0,,31133862
+1986,Regular Season,Lotte Orions,1,"Aiko, Takeshi",1B,25,0.992,125,3,1,11,,31133863
+1986,Regular Season,Lotte Orions,1,"Aiko, Takeshi",OF,89,0.977,125,4,3,0,,31133863
+1986,Regular Season,Chunichi Dragons,57,"Hikono, Toshikatsu",OF,9,0.917,11,0,1,0,,31233860
+1986,Regular Season,Kintetsu Buffaloes,18,"Yamamura, Tatsuya",P,3,1.000,0,1,0,0,,31233861
+1986,Regular Season,Yokohama Taiyo Whales,7,"Ponce, Carlos",1B,75,0.989,497,40,6,37,,31233862
+1986,Regular Season,Yokohama Taiyo Whales,7,"Ponce, Carlos",3B,58,0.867,39,72,17,3,,31233862
+1986,Regular Season,Yokohama Taiyo Whales,7,"Ponce, Carlos",OF,30,0.922,45,2,4,0,,31233862
+1986,Regular Season,Nankai Hawks,45,"Yamada, Tsutomu",OF,30,1.000,60,1,0,0,,31233865
+1986,Regular Season,Hanshin Tigers,35,"Hattori, Koichi",1B,15,1.000,30,1,0,4,,31233867
+1986,Regular Season,Nankai Hawks,55,"Fujimura, Masato",P,1,0.000,0,0,0,0,,31233869
+1986,Regular Season,Nippon-Ham Fighters,14,"Kawahara, Shoji",P,29,1.000,5,11,0,1,,31333842
+1986,Regular Season,Yomiuri Giants,21,"Kato, Hajime",P,26,0.947,6,48,3,4,,31333845
+1986,Regular Season,Yakult Swallows,32,"Obana, Takao",P,34,0.980,8,42,1,1,,31333846
+1986,Regular Season,Hanshin Tigers,33,"Ono, Hisashi",OF,22,1.000,12,0,0,0,,31333860
+1986,Regular Season,Hanshin Tigers,16,"Okada, Akinobu",2B,129,0.986,291,351,9,63,,31333861
+1986,Regular Season,Nankai Hawks,30,"Otsuka, Yoshiki",C,3,1.000,23,2,0,0,0,31333862
+1986,Regular Season,Yokohama Taiyo Whales,33,"Ichikawa, Kazumasa",C,30,0.974,67,9,2,0,0,31333863
+1986,Regular Season,Chunichi Dragons,2,"Onoe, Akira",2B,10,1.000,15,4,0,2,,31333865
+1986,Regular Season,Chunichi Dragons,2,"Onoe, Akira",3B,24,0.906,9,20,3,1,,31333865
+1986,Regular Season,Chunichi Dragons,2,"Onoe, Akira",SS,28,0.984,23,39,1,8,,31333865
+1986,Regular Season,Kintetsu Buffaloes,26,"Ono, Kazuyoshi",P,31,0.980,10,40,1,1,,31333869
+1986,Regular Season,Hankyu Braves,53,"Hoshino, Nobuyuki",P,35,1.000,10,40,0,3,,31433860
+1986,Regular Season,Yomiuri Giants,39,"Yamasaki, Akihiro",1B,1,1.000,6,1,0,0,,31433862
+1986,Regular Season,Yomiuri Giants,39,"Yamasaki, Akihiro",C,3,1.000,3,0,0,0,0,31433862
+1986,Regular Season,Yomiuri Giants,54,"Makihara, Hiromi",P,22,0.958,4,19,1,3,,31433867
+1986,Regular Season,Nippon-Ham Fighters,8,"Shimada, Makoto",OF,121,1.000,280,5,0,0,,31533844
+1986,Regular Season,Chunichi Dragons,20,"Komatsu, Tatsuo",P,24,0.978,9,36,1,2,,31533846
+1986,Regular Season,Seibu Lions,35,"Kushihara, Yasuo",P,1,0.000,0,0,0,0,,31533862
+1986,Regular Season,Yakult Swallows,30,"Kiminami, Takayoshi",C,11,1.000,17,2,0,0,1,31533865
+1986,Regular Season,Seibu Lions,49,"Kawamoto, Tomonori",P,17,1.000,1,10,0,1,,31533867
+1986,Regular Season,Yomiuri Giants,49,"Cromartie, Warren",OF,121,0.983,223,3,4,1,,31533869
+1986,Regular Season,Chunichi Dragons,41,"Yazawa, Kenichi",1B,58,1.000,403,25,0,36,,31633841
+1986,Regular Season,Lotte Orions,45,"Yokota, Masashi",OF,120,0.991,218,7,2,2,,31633860
+1986,Regular Season,Hankyu Braves,48,"Wakukawa, Tsutomu",3B,3,1.000,1,2,0,1,,31633867
+1986,Regular Season,Kintetsu Buffaloes,11,"Tani, Hiroaki",P,33,1.000,7,24,0,5,,31733842
+1986,Regular Season,Yakult Swallows,33,"Torihara, Koji",P,1,1.000,0,1,0,1,,31733846
+1986,Regular Season,Hanshin Tigers,24,"Sato, Hideaki",P,46,0.923,10,14,2,0,,31733860
+1986,Regular Season,Kintetsu Buffaloes,44,"Suzuki, Takahisa",OF,56,1.000,64,0,0,0,,31733862
+1986,Regular Season,Hiroshima Toyo Carp,5,"Sadaoka, Tetsuhisa",OF,5,1.000,3,0,0,0,,31733867
+1986,Regular Season,Nippon-Ham Fighters,3,"Shirai, Kazuyuki",2B,129,0.987,325,341,9,75,,31733869
+1986,Regular Season,Nippon-Ham Fighters,5,"Furuya, Hideo",3B,130,0.969,94,250,11,17,,31933846
+1986,Regular Season,Kintetsu Buffaloes,3,"Hada, Koichi",1B,20,0.993,124,13,1,18,,31933847
+1986,Regular Season,Kintetsu Buffaloes,3,"Hada, Koichi",3B,8,1.000,1,11,0,3,,31933847
+1986,Regular Season,Nankai Hawks,16,"Takeguchi, Akinori",P,36,0.938,2,13,1,0,,31933861
+1986,Regular Season,Nankai Hawks,61,"Hostetler, Dave",1B,130,0.993,1271,82,9,102,,31933862
+1986,Regular Season,Hiroshima Toyo Carp,21,"Tanaka, Kazuhiro",P,1,0.000,0,0,0,0,,31933867
+1986,Regular Season,Seibu Lions,5,"Tsuji, Hatsuhiko",2B,130,0.990,292,369,7,91,,31933869
+1986,Regular Season,Seibu Lions,5,"Tsuji, Hatsuhiko",SS,2,0.750,1,2,1,0,,31933869
+1986,Regular Season,Lotte Orions,29,"Murata, Choji",P,23,0.968,1,29,1,1,,41043826
+1986,Regular Season,Lotte Orions,11,"Mizutani, Norihiro",P,33,1.000,5,45,0,1,,41043828
+1986,Regular Season,Yokohama Taiyo Whales,1,"Yamashita, Daisuke",1B,1,1.000,3,0,0,0,,41043849
+1986,Regular Season,Yokohama Taiyo Whales,1,"Yamashita, Daisuke",2B,44,0.994,52,102,1,20,,41043849
+1986,Regular Season,Yokohama Taiyo Whales,1,"Yamashita, Daisuke",3B,84,0.988,44,122,2,6,,41043849
+1986,Regular Season,Yokohama Taiyo Whales,1,"Yamashita, Daisuke",SS,1,1.000,0,1,0,0,,41043849
+1986,Regular Season,Nippon-Ham Fighters,10,"Hayakawa, Kazuo",OF,10,1.000,1,0,0,0,,41043860
+1986,Regular Season,Nippon-Ham Fighters,44,"Brewer, Tony",OF,130,0.988,231,9,3,1,,41043862
+1986,Regular Season,Chunichi Dragons,3,"Hirano, Ken",OF,129,0.989,245,17,3,2,,41043863
+1986,Regular Season,Chunichi Dragons,3,"Hirano, Ken",SS,1,1.000,0,2,0,0,,41043863
+1986,Regular Season,Nankai Hawks,24,"Yano, Minoru",P,41,1.000,4,10,0,1,,41043865
+1986,Regular Season,Seibu Lions,67,"Hamamoto, Ryuji",C,1,0.000,0,0,0,0,0,41043869
+1986,Regular Season,Nankai Hawks,8,"Kono, Takayuki",2B,91,0.989,188,253,5,43,,41143840
+1986,Regular Season,Nankai Hawks,8,"Kono, Takayuki",3B,23,0.896,12,31,5,7,,41143840
+1986,Regular Season,Nankai Hawks,8,"Kono, Takayuki",OF,1,0.000,0,0,0,0,,41143840
+1986,Regular Season,Hankyu Braves,28,"Ikeuchi, Yutaka",P,5,0.000,0,0,0,0,,41143843
+1986,Regular Season,Chunichi Dragons,8,"Oishi, Tomoyoshi",C,54,1.000,201,18,0,3,1,41143861
+1986,Regular Season,Hankyu Braves,20,"Ishii, Hiroshi",P,7,1.000,0,9,0,1,,41143862
+1986,Regular Season,Seibu Lions,7,"Ishige, Hiromichi",SS,129,0.971,201,306,15,77,,41143863
+1986,Regular Season,Lotte Orions,18,"Ishikawa, Masaru",P,6,1.000,0,4,0,0,,41143867
+1986,Regular Season,Hankyu Braves,2,"Iizuka, Tomiji",1B,13,1.000,29,3,0,2,,41143869
+1986,Regular Season,Hankyu Braves,2,"Iizuka, Tomiji",OF,24,0.971,34,0,1,0,,41143869
+1986,Regular Season,Nippon-Ham Fighters,19,"Mashiba, Shigekuni",P,26,0.966,9,19,1,0,,41243841
+1986,Regular Season,Kintetsu Buffaloes,57,"Furukubo, Kenji",C,4,1.000,8,0,0,0,0,41243860
+1986,Regular Season,Lotte Orions,30,"Morita, Yoshihiko",3B,24,0.909,1,9,1,1,,41243862
+1986,Regular Season,Lotte Orions,30,"Morita, Yoshihiko",SS,29,0.963,21,31,2,6,,41243862
+1986,Regular Season,Hankyu Braves,25,"Fujita, Hiromasa",C,126,0.995,694,62,4,11,4,41243867
+1986,Regular Season,Hankyu Braves,47,"Murakami, Shinichi",OF,11,1.000,4,0,0,0,,41243869
+1986,Regular Season,Lotte Orions,27,"Tsuchiya, Masakatsu",P,36,1.000,3,12,0,1,,41343840
+1986,Regular Season,Yakult Swallows,23,"Sakai, Keiichi",P,2,1.000,0,3,0,0,,41343844
+1986,Regular Season,Hanshin Tigers,26,"Kudo, Kazuhiko",P,38,1.000,4,14,0,3,,41343846
+1986,Regular Season,Hanshin Tigers,2,"Kashiwabara, Junichi",1B,12,1.000,64,6,0,4,,41343847
+1986,Regular Season,Hanshin Tigers,2,"Kashiwabara, Junichi",3B,25,0.939,15,47,4,2,,41343847
+1986,Regular Season,Hanshin Tigers,2,"Kashiwabara, Junichi",OF,55,1.000,71,2,0,0,,41343847
+1986,Regular Season,Seibu Lions,3,"Kiyohara, Kazuhiro",1B,126,0.992,986,52,8,97,,41343862
+1986,Regular Season,Seibu Lions,28,"Okamura, Takanori",OF,76,1.000,43,1,0,1,,41343863
+1986,Regular Season,Kintetsu Buffaloes,28,"Kanemura, Yoshiaki",3B,128,0.959,92,281,16,34,,41343865
+1986,Regular Season,Hiroshima Toyo Carp,33,"Kawabata, Jun",P,32,1.000,3,18,0,1,,41343869
+1986,Regular Season,Yomiuri Giants,13,"Miyamoto, Kazutomo",P,22,1.000,1,13,0,0,,41443860
+1986,Regular Season,Yakult Swallows,67,"Ranbashi, Yukihito",P,6,0.000,0,0,1,0,,41443862
+1986,Regular Season,Seibu Lions,34,"Tachibana, Yoshiie",OF,21,1.000,25,1,0,0,,41543846
+1986,Regular Season,Chunichi Dragons,29,"Suzuki, Takamasa",P,26,1.000,10,42,0,4,,41543847
+1986,Regular Season,Nippon-Ham Fighters,18,"Kono, Hirofumi",P,36,1.000,8,20,0,1,,41543860
+1986,Regular Season,Nankai Hawks,43,"Sakaguchi, Chisen",2B,1,0.000,0,0,0,0,,41543862
+1986,Regular Season,Nankai Hawks,43,"Sakaguchi, Chisen",3B,1,0.000,0,0,0,0,,41543862
+1986,Regular Season,Nankai Hawks,43,"Sakaguchi, Chisen",SS,2,1.000,0,1,0,0,,41543862
+1986,Regular Season,Kintetsu Buffaloes,45,"Koyama, Masao",P,9,0.938,2,13,1,0,,41543867
+1986,Regular Season,Yokohama Taiyo Whales,20,"Hirata, Kaoru",1B,31,0.994,157,14,1,6,,41743846
+1986,Regular Season,Yokohama Taiyo Whales,20,"Hirata, Kaoru",2B,39,0.984,54,68,2,17,,41743846
+1986,Regular Season,Hanshin Tigers,37,"Nagao, Yasunori",2B,6,1.000,3,10,0,1,,41743847
+1986,Regular Season,Hanshin Tigers,37,"Nagao, Yasunori",3B,3,1.000,1,3,0,0,,41743847
+1986,Regular Season,Hanshin Tigers,37,"Nagao, Yasunori",SS,7,1.000,3,5,0,2,,41743847
+1986,Regular Season,Hanshin Tigers,12,"Fukuma, Osamu",P,6,1.000,0,5,0,0,,41743848
+1986,Regular Season,Lotte Orions,15,"So, Katsuo",P,49,1.000,4,33,0,3,,41743860
+1986,Regular Season,Nippon-Ham Fighters,37,"Tanaka, Yukio",SS,10,0.971,14,19,1,3,,41743862
+1986,Regular Season,Nippon-Ham Fighters,22,"Tamura, Fujio",C,128,0.993,791,74,6,7,9,41743863
+1986,Regular Season,Hiroshima Toyo Carp,14,"Tsuda, Tsunemi",P,49,1.000,6,14,0,2,,41743865
+1986,Regular Season,Hankyu Braves,10,"Tani, Ryoji",P,43,1.000,6,15,0,1,,41743869
+1986,Regular Season,Hankyu Braves,1,"Minoda, Koji",OF,67,1.000,115,3,0,1,,41943842
+1986,Regular Season,Seibu Lions,31,"Nagai, Tamotsu",P,5,1.000,1,1,0,0,,41943845
+1986,Regular Season,Chunichi Dragons,40,"Fujinami, Yukio",OF,17,1.000,5,0,0,0,,41943849
+1986,Regular Season,Lotte Orions,25,"Nakashima, Katsusuke",OF,5,1.000,2,0,0,0,,41943862
+1986,Regular Season,Hanshin Tigers,29,"Fukuya, Masaaki",P,12,1.000,2,6,0,1,,41943865
+1986,Regular Season,Seibu Lions,8,"Yukizawa, Hisataka",2B,7,1.000,2,4,0,0,,51053842
+1986,Regular Season,Seibu Lions,8,"Yukizawa, Hisataka",3B,54,0.952,24,35,3,5,,51053842
+1986,Regular Season,Hiroshima Toyo Carp,17,"Yamane, Kazuo",P,1,0.000,0,0,0,0,,51053844
+1986,Regular Season,Nippon-Ham Fighters,26,"Nishimura, Motofumi",P,26,1.000,1,7,0,0,,51053860
+1986,Regular Season,Hankyu Braves,67,"Harada, Kenji",P,17,0.900,0,9,1,1,,51053862
+1986,Regular Season,Hiroshima Toyo Carp,27,"Hara, Shinji",2B,3,1.000,2,1,0,0,,51053863
+1986,Regular Season,Yakult Swallows,14,"Miyamoto, Kenji",P,33,1.000,7,21,0,1,,51053865
+1986,Regular Season,Yakult Swallows,20,"Nakamoto, Shigeki",P,45,1.000,2,25,0,2,,51053867
+1986,Regular Season,Seibu Lions,33,"Narita, Yukihiro",P,13,0.750,0,3,1,0,,51053869
+1986,Regular Season,Kintetsu Buffaloes,9,"Arai, Hiromasa",OF,130,0.996,271,7,1,4,,51153840
+1986,Regular Season,Nankai Hawks,34,"Aoyama, Hisato",P,21,0.500,0,1,1,0,,51153842
+1986,Regular Season,Yakult Swallows,29,"Ashizawa, Masaru",C,23,0.969,86,7,3,0,1,51153846
+1986,Regular Season,Nankai Hawks,27,"Iwaki, Satoshi",C,45,0.982,137,23,3,4,1,51153848
+1986,Regular Season,Yakult Swallows,43,"Ai, Eijiro",P,43,0.971,8,26,1,1,,51153860
+1986,Regular Season,Nippon-Ham Fighters,4,"Igarashi, Shinichi",1B,4,0.900,9,0,1,1,,51153861
+1986,Regular Season,Nippon-Ham Fighters,4,"Igarashi, Shinichi",OF,6,1.000,7,0,0,0,,51153861
+1986,Regular Season,Yakult Swallows,10,"Arai, Yukio",OF,5,1.000,6,1,0,0,,51153862
+1986,Regular Season,Seibu Lions,24,"Akiyama, Koji",3B,108,0.957,76,149,10,10,,51153863
+1986,Regular Season,Seibu Lions,24,"Akiyama, Koji",OF,56,1.000,81,0,0,0,,51153863
+1986,Regular Season,Chunichi Dragons,13,"Ariga, Yoshihiro",OF,17,0.889,8,0,1,0,,51153865
+1986,Regular Season,Hiroshima Toyo Carp,54,"Abe, Keiji",2B,3,1.000,1,2,0,0,,51153869
+1986,Regular Season,Hiroshima Toyo Carp,54,"Abe, Keiji",3B,7,1.000,3,5,0,0,,51153869
+1986,Regular Season,Hankyu Braves,17,"Yamada, Hisashi",P,28,0.981,8,43,1,8,,51253828
+1986,Regular Season,Yokohama Taiyo Whales,9,"Wakana, Yoshiharu",C,121,0.993,649,51,5,10,13,51253849
+1986,Regular Season,Nankai Hawks,29,"Yamamoto, Kazunori",OF,126,0.989,248,13,3,4,,51253861
+1986,Regular Season,Nankai Hawks,46,"Matsuzaki, Hideaki",P,3,1.000,0,1,0,1,,51253862
+1986,Regular Season,Hankyu Braves,8,"Matsunaga, Hiromi",3B,127,0.953,106,299,20,19,,51253863
+1986,Regular Season,Hankyu Braves,8,"Matsunaga, Hiromi",SS,3,0.944,9,8,1,2,,51253863
+1986,Regular Season,Yomiuri Giants,7,"Yoshimura, Sadaaki",OF,127,0.983,221,4,4,0,,51253865
+1986,Regular Season,Nankai Hawks,20,"Fujimoto, Shuji",P,31,0.950,8,30,2,0,,51253869
+1986,Regular Season,Hankyu Braves,21,"Imai, Yutaro",P,31,0.930,9,31,3,4,,51353843
+1986,Regular Season,Yokohama Taiyo Whales,44,"Kato, Hirokazu",1B,7,1.000,20,4,0,1,,51353845
+1986,Regular Season,Yokohama Taiyo Whales,44,"Kato, Hirokazu",2B,6,0.909,5,5,1,1,,51353845
+1986,Regular Season,Yokohama Taiyo Whales,44,"Kato, Hirokazu",OF,73,1.000,100,7,0,4,,51353845
+1986,Regular Season,Hankyu Braves,27,"Ota, Toshiyuki",P,6,1.000,1,3,0,0,,51353860
+1986,Regular Season,Hiroshima Toyo Carp,9,"Osanai, Takashi",1B,114,0.996,946,85,4,66,,51353861
+1986,Regular Season,Hiroshima Toyo Carp,9,"Osanai, Takashi",OF,4,1.000,4,0,0,0,,51353861
+1986,Regular Season,Lotte Orions,49,"Okajima, Atsushi",C,1,1.000,6,0,0,0,0,51353862
+1986,Regular Season,Yomiuri Giants,45,"Okazaki, Kaoru",2B,14,1.000,16,22,0,7,,51353865
+1986,Regular Season,Yomiuri Giants,45,"Okazaki, Kaoru",3B,10,0.947,8,10,1,1,,51353865
+1986,Regular Season,Yomiuri Giants,45,"Okazaki, Kaoru",SS,75,0.968,85,159,8,31,,51353865
+1986,Regular Season,Kintetsu Buffaloes,40,"Yamashita, Kazuhiko",C,70,0.993,234,42,2,6,4,51453862
+1986,Regular Season,Hiroshima Toyo Carp,26,"Yamamoto, Kazuo",P,3,0.000,0,0,0,0,,51453863
+1986,Regular Season,Lotte Orions,2,"Maruyama, Kazuhito",2B,13,0.979,23,24,1,8,,51453867
+1986,Regular Season,Lotte Orions,2,"Maruyama, Kazuhito",3B,4,0.875,3,4,1,1,,51453867
+1986,Regular Season,Seibu Lions,41,"Watanabe, Hisanobu",P,39,1.000,8,32,0,0,,51453869
+1986,Regular Season,Yakult Swallows,5,"Sumi, Fujio",2B,67,0.984,152,160,5,32,,51553842
+1986,Regular Season,Yakult Swallows,5,"Sumi, Fujio",3B,23,1.000,10,21,0,3,,51553842
+1986,Regular Season,Hankyu Braves,38,"Kataoka, Shinnosuke",C,7,1.000,10,0,0,0,0,51553843
+1986,Regular Season,Nippon-Ham Fighters,13,"Shibata, Yasumitsu",P,33,1.000,12,25,0,3,,51553848
+1986,Regular Season,Chunichi Dragons,4,"Rajsich, Gary",1B,5,1.000,15,1,0,1,,51553862
+1986,Regular Season,Chunichi Dragons,4,"Rajsich, Gary",OF,126,0.995,187,4,1,0,,51553862
+1986,Regular Season,Hiroshima Toyo Carp,34,"Kawaguchi, Kazuhisa",P,24,0.911,11,30,4,1,,51553863
+1986,Regular Season,Seibu Lions,47,"Kudo, Kimiyasu",P,22,0.923,4,20,2,3,,51553865
+1986,Regular Season,Hanshin Tigers,22,"Kido, Katsuhiko",C,93,0.991,407,42,4,3,6,51553867
+1986,Regular Season,Kintetsu Buffaloes,36,"Yoshii, Masato",P,2,1.000,0,1,0,0,,51653860
+1986,Regular Season,Nankai Hawks,54,"Nakao, Akio",2B,1,1.000,0,1,0,0,,51753844
+1986,Regular Season,Nankai Hawks,54,"Nakao, Akio",3B,77,0.917,22,44,6,7,,51753844
+1986,Regular Season,Nankai Hawks,54,"Nakao, Akio",SS,1,0.000,0,0,0,0,,51753844
+1986,Regular Season,Hankyu Braves,39,"Nakade, Kenji",C,15,0.939,29,2,2,0,1,51753846
+1986,Regular Season,Hanshin Tigers,15,"Shimada, Akihiro",P,11,1.000,4,7,0,1,,51753860
+1986,Regular Season,Seibu Lions,61,"Soma, Katsuya",C,1,0.000,0,0,0,0,0,51753862
+1986,Regular Season,Nippon-Ham Fighters,48,"Sasaki, Masayuki",OF,8,1.000,16,0,0,0,,51753863
+1986,Regular Season,Seibu Lions,15,"Matsunuma, Hirohisa",P,20,1.000,1,18,0,1,,51953848
+1986,Regular Season,Nippon-Ham Fighters,45,"Takahashi, Koichi",P,1,0.000,0,0,0,0,,51953860
+1986,Regular Season,Lotte Orions,55,"Takenochi, Toru",OF,4,1.000,3,0,0,0,,51953861
+1986,Regular Season,Hanshin Tigers,21,"Toyama, Shoji",P,27,0.909,4,26,3,0,,51953862
+1986,Regular Season,Nippon-Ham Fighters,11,"Tanaka, Tomio",P,29,1.000,5,21,0,0,,51953867
+1986,Regular Season,Yomiuri Giants,44,"Yamamoto, Masao",1B,1,1.000,4,0,0,0,,61063849
+1986,Regular Season,Yomiuri Giants,44,"Yamamoto, Masao",OF,12,0.857,6,0,1,0,,61063849
+1986,Regular Season,Yakult Swallows,63,"Fujieda, Shinji",C,4,1.000,3,1,0,0,0,61063862
+1986,Regular Season,Seibu Lions,30,"Hirohashi, Koju",3B,1,1.000,1,2,0,1,,61063863
+1986,Regular Season,Hankyu Braves,12,"Yamaoki, Yukihiko",P,14,1.000,0,6,0,0,,61063865
+1986,Regular Season,Hanshin Tigers,44,"Bass, Randy",1B,125,0.989,1121,96,14,71,,61063867
+1986,Regular Season,Chunichi Dragons,46,"Hiranuma, Sadaharu",P,34,1.000,2,13,0,0,,61063869
+1986,Regular Season,Yakult Swallows,19,"Kajima, Kenichi",P,8,1.000,4,5,0,0,,61163844
+1986,Regular Season,Nankai Hawks,9,"Okamoto, Keisuke",1B,1,1.000,1,0,0,0,,61163848
+1986,Regular Season,Nankai Hawks,9,"Okamoto, Keisuke",OF,46,0.905,38,0,4,0,,61163848
+1986,Regular Season,Yokohama Taiyo Whales,45,"Okubo, Hiroshi",1B,6,1.000,28,3,0,4,,61163861
+1986,Regular Season,Yokohama Taiyo Whales,45,"Okubo, Hiroshi",2B,3,1.000,3,2,0,0,,61163861
+1986,Regular Season,Yokohama Taiyo Whales,45,"Okubo, Hiroshi",3B,2,1.000,1,0,0,0,,61163861
+1986,Regular Season,Yokohama Taiyo Whales,51,"Ishibashi, Mitsugu",OF,58,1.000,43,2,0,0,,61163863
+1986,Regular Season,Yakult Swallows,35,"Ogawa, Junji",OF,80,0.977,42,1,1,1,,61163865
+1986,Regular Season,Seibu Lions,36,"Ichimura, Norio",P,37,1.000,3,12,0,0,,61163867
+1986,Regular Season,Hanshin Tigers,18,"Ikeda, Chikafusa",P,11,0.889,8,8,2,0,,61163869
+1986,Regular Season,Hankyu Braves,35,"Furumizo, Katsuyuki",P,23,0.889,2,6,1,1,,61263860
+1986,Regular Season,Yakult Swallows,12,"Yano, Kazuya",P,34,0.833,4,11,3,2,,61263862
+1986,Regular Season,Nankai Hawks,18,"Yamauchi, Kazuhiro",P,28,0.936,9,35,3,0,,61263863
+1986,Regular Season,Nippon-Ham Fighters,28,"Futamura, Tadami",1B,1,1.000,1,0,0,0,,61263867
+1986,Regular Season,Nippon-Ham Fighters,28,"Futamura, Tadami",OF,89,0.987,150,6,2,1,,61263867
+1986,Regular Season,Kintetsu Buffaloes,46,"Murakami, Takayuki",SS,124,0.950,185,367,29,80,,61263869
+1986,Regular Season,Yomiuri Giants,10,"Kato, Hideji",1B,24,1.000,166,11,0,9,,61363828
+1986,Regular Season,Nankai Hawks,62,"Goodwin, Danny",OF,40,0.966,54,2,2,0,,61363862
+1986,Regular Season,Chunichi Dragons,6,"Kamikawa, Seiji",2B,129,0.985,342,422,12,88,,61363865
+1986,Regular Season,Kintetsu Buffaloes,30,"Kato, Tetsuro",P,23,1.000,4,11,0,1,,61363867
+1986,Regular Season,Hanshin Tigers,46,"Kawahara, Shinji",P,5,1.000,2,1,0,0,,61363869
+1986,Regular Season,Yokohama Taiyo Whales,59,"Yamazaki, Kenichi",OF,53,0.982,52,4,1,1,,61463860
+1986,Regular Season,Yokohama Taiyo Whales,5,"Loman, Doug",OF,126,0.980,239,5,5,1,,61463862
+1986,Regular Season,Hanshin Tigers,64,"Yamawaki, Koji",3B,17,0.824,4,10,3,1,,61463867
+1986,Regular Season,Hanshin Tigers,64,"Yamawaki, Koji",SS,26,1.000,22,42,0,8,,61463867
+1986,Regular Season,Lotte Orions,10,"Tanokura, Toshio",2B,12,0.967,11,18,1,3,,61563847
+1986,Regular Season,Lotte Orions,10,"Tanokura, Toshio",3B,24,0.885,5,18,3,3,,61563847
+1986,Regular Season,Nippon-Ham Fighters,2,"Takashiro, Nobuhiro",SS,111,0.980,129,310,9,52,,61563848
+1986,Regular Season,Yomiuri Giants,48,"Koda, Isao",P,13,1.000,0,3,0,0,,61563860
+1986,Regular Season,Yokohama Taiyo Whales,61,"Shirai, Masakatsu",P,2,1.000,0,1,0,0,,61563862
+1986,Regular Season,Yomiuri Giants,50,"Komada, Norihiro",1B,25,1.000,124,9,0,10,,61563867
+1986,Regular Season,Yomiuri Giants,50,"Komada, Norihiro",OF,18,1.000,17,2,0,2,,61563867
+1986,Regular Season,Kintetsu Buffaloes,51,"Sato, Junichi",OF,1,1.000,1,0,0,0,,61563869
+1986,Regular Season,Kintetsu Buffaloes,37,"Takahashi, Satoshi",P,1,1.000,0,1,0,0,,61763826
+1986,Regular Season,Hanshin Tigers,3,"Nagasaki, Keiji",OF,19,1.000,18,0,0,0,,61763847
+1986,Regular Season,Yakult Swallows,61,"Somemiya, Shuichi",P,9,1.000,0,1,0,0,,61763860
+1986,Regular Season,Nankai Hawks,28,"Taguchi, Ryuji",P,1,0.000,0,0,0,0,,61763862
+1986,Regular Season,Yokohama Taiyo Whales,3,"Takagi, Yutaka",SS,125,0.967,175,345,18,55,,61763863
+1986,Regular Season,Yomiuri Giants,2,"Matsumoto, Tadashi",OF,117,0.979,180,5,4,0,,61963844
+1986,Regular Season,Yokohama Taiyo Whales,31,"Yashiki, Kaname",OF,125,0.996,247,5,1,1,,61963846
+1986,Regular Season,Nankai Hawks,6,"Yamaguchi, Tetsuji",P,6,1.000,1,5,0,1,,61963848
+1986,Regular Season,Hanshin Tigers,48,"Nakada, Koji",P,32,0.892,7,26,4,0,,61963860
+1986,Regular Season,Nankai Hawks,10,"Nakamura, Hiromichi",P,14,1.000,0,2,0,0,,61963862
+1986,Regular Season,Seibu Lions,19,"Nishimoto, Kazuhito",P,2,1.000,0,1,0,0,,61963863
+1986,Regular Season,Seibu Lions,40,"Tomashino, Seiji",1B,1,0.000,0,0,0,0,,61963867
+1986,Regular Season,Seibu Lions,40,"Tomashino, Seiji",3B,21,0.925,11,26,3,3,,61963867
+1986,Regular Season,Seibu Lions,40,"Tomashino, Seiji",SS,1,1.000,2,3,0,1,,61963867
+1986,Regular Season,Hanshin Tigers,19,"Nakanishi, Kiyoki",P,61,0.952,12,28,2,2,,61963869
+1986,Regular Season,Yokohama Taiyo Whales,4,"Yoshimoto, Hiroshi",OF,2,1.000,1,0,0,0,,71073846
+1986,Regular Season,Nippon-Ham Fighters,1,"Hirose, Tetsuro",2B,3,1.000,1,0,0,0,,71073862
+1986,Regular Season,Nippon-Ham Fighters,1,"Hirose, Tetsuro",SS,25,0.987,31,46,1,14,,71073862
+1986,Regular Season,Yomiuri Giants,8,"Hara, Tatsunori",2B,2,1.000,3,3,0,0,,71073863
+1986,Regular Season,Yomiuri Giants,8,"Hara, Tatsunori",3B,109,0.959,101,177,12,17,,71073863
+1986,Regular Season,Lotte Orions,22,"Muto, Kazukuni",OF,7,1.000,6,0,0,0,,71073865
+1986,Regular Season,Yomiuri Giants,38,"Nimura, Kaoru",OF,21,1.000,10,0,0,0,,71073869
+1986,Regular Season,Nankai Hawks,15,"Ikenoe, Toru",1B,1,1.000,1,0,0,0,,71173842
+1986,Regular Season,Nankai Hawks,15,"Ikenoe, Toru",3B,2,1.000,1,3,0,0,,71173842
+1986,Regular Season,Hanshin Tigers,20,"Ito, Fumitaka",P,29,0.968,8,22,1,1,,71173846
+1986,Regular Season,Yomiuri Giants,9,"Arita, Shuzo",C,62,0.986,333,25,5,1,5,71173847
+1986,Regular Season,Lotte Orions,37,"Umezawa, Yoshikatsu",P,14,1.000,0,10,0,1,,71173848
+1986,Regular Season,Yokohama Taiyo Whales,41,"Aoki, Hideo",P,1,0.000,0,0,0,0,,71173860
+1986,Regular Season,Yakult Swallows,37,"Iwashita, Masaaki",OF,21,1.000,17,1,0,0,,71173861
+1986,Regular Season,Hankyu Braves,50,"Lesley, Brad",P,42,0.933,5,9,1,0,,71173862
+1986,Regular Season,Seibu Lions,27,"Ito, Tsutomu",C,129,0.996,834,62,4,9,3,71173865
+1986,Regular Season,Yakult Swallows,11,"Araki, Daisuke",P,32,1.000,7,21,0,3,,71173867
+1986,Regular Season,Hiroshima Toyo Carp,8,"Yamamoto, Koji",OF,125,0.983,163,9,3,1,,71273828
+1986,Regular Season,Nippon-Ham Fighters,21,"Misawa, Jun",P,5,1.000,3,1,0,0,,71273845
+1986,Regular Season,Yakult Swallows,8,"Hirosawa, Katsumi",1B,111,0.991,926,63,9,80,,71273860
+1986,Regular Season,Yakult Swallows,8,"Hirosawa, Katsumi",3B,1,0.000,0,0,0,0,,71273860
+1986,Regular Season,Hankyu Braves,36,"Yamamori, Masafumi",OF,99,0.980,94,4,2,2,,71273861
+1986,Regular Season,Yokohama Taiyo Whales,29,"Matsumoto, Yutaka",P,6,1.000,0,1,0,0,,71273862
+1986,Regular Season,Seibu Lions,25,"Ota, Takuji",OF,1,1.000,2,0,0,0,,71373828
+1986,Regular Season,Nippon-Ham Fighters,34,"Okabe, Noriaki",P,34,0.947,3,15,1,1,,71373846
+1986,Regular Season,Yomiuri Giants,29,"Katori, Yoshitaka",P,59,1.000,3,20,0,3,,71373848
+1986,Regular Season,Lotte Orions,38,"Okabe, Akihito",OF,7,1.000,8,0,0,0,,71373860
+1986,Regular Season,Nankai Hawks,2,"Kagawa, Nobuyuki",3B,21,0.966,7,21,1,0,,71373861
+1986,Regular Season,Nankai Hawks,2,"Kagawa, Nobuyuki",C,62,0.981,332,34,7,3,2,71373861
+1986,Regular Season,Nippon-Ham Fighters,31,"Oki, Yasushi",1B,5,1.000,11,1,0,0,,71373862
+1986,Regular Season,Nippon-Ham Fighters,31,"Oki, Yasushi",OF,1,1.000,2,0,0,0,,71373862
+1986,Regular Season,Yokohama Taiyo Whales,16,"Kakehata, Mitsunori",P,29,0.978,10,35,1,1,,71373865
+1986,Regular Season,Nankai Hawks,31,"Okubo, Manabu",P,1,0.000,0,0,0,0,,71373867
+1986,Regular Season,Nankai Hawks,17,"Kato, Shinichi",P,22,0.969,9,22,1,3,,71373869
+1986,Regular Season,Yakult Swallows,7,"Watanabe, Susumu",1B,17,1.000,87,12,0,2,,71473845
+1986,Regular Season,Yakult Swallows,7,"Watanabe, Susumu",2B,14,1.000,15,21,0,3,,71473845
+1986,Regular Season,Yakult Swallows,7,"Watanabe, Susumu",OF,1,0.000,0,0,0,0,,71473845
+1986,Regular Season,Yakult Swallows,7,"Watanabe, Susumu",SS,7,0.875,12,9,3,6,,71473845
+1986,Regular Season,Chunichi Dragons,52,"Matsura, Hidenobu",OF,19,1.000,10,0,0,0,,71473860
+1986,Regular Season,Hanshin Tigers,56,"Mikoshiba, Susumu",P,14,1.000,0,4,0,0,,71473867
+1986,Regular Season,Hiroshima Toyo Carp,3,"Kinugasa, Sachio",1B,29,0.993,137,8,1,10,,71573820
+1986,Regular Season,Hiroshima Toyo Carp,3,"Kinugasa, Sachio",3B,118,0.945,79,196,16,17,,71573820
+1986,Regular Season,Nankai Hawks,60,"Kadota, Hiromitsu",OF,3,1.000,3,0,0,0,,71573841
+1986,Regular Season,Seibu Lions,2,"Tao, Yasushi",OF,88,0.971,165,0,5,0,,71573842
+1986,Regular Season,Yakult Swallows,41,"Sugimura, Shigeru",2B,3,1.000,0,1,0,0,,71573844
+1986,Regular Season,Yakult Swallows,41,"Sugimura, Shigeru",SS,2,0.667,0,2,1,1,,71573844
+1986,Regular Season,Yakult Swallows,39,"Shibui, Keiichi",2B,24,1.000,35,46,0,9,,71573846
+1986,Regular Season,Yakult Swallows,39,"Shibui, Keiichi",SS,80,0.970,95,163,8,35,,71573846
+1986,Regular Season,Hankyu Braves,6,"Kumano, Terumitsu",OF,105,1.000,152,8,0,5,,71573860
+1986,Regular Season,Hanshin Tigers,5,"Kitamura, Terufumi",3B,1,0.333,0,1,2,0,,71573861
+1986,Regular Season,Hanshin Tigers,5,"Kitamura, Terufumi",OF,92,0.992,131,1,1,0,,71573861
+1986,Regular Season,Yomiuri Giants,20,"Sanchez, Luis",P,37,1.000,1,4,0,1,,71573862
+1986,Regular Season,Nippon-Ham Fighters,9,"Kimura, Takashi",OF,7,1.000,1,0,0,0,,71573863
+1986,Regular Season,Yakult Swallows,46,"Kuriyama, Hideki",OF,85,0.984,120,3,2,1,,71573869
+1986,Regular Season,Kintetsu Buffaloes,21,"Yanagida, Yutaka",P,25,1.000,5,17,0,1,,71673841
+1986,Regular Season,Nankai Hawks,5,"Yamamura, Yoshinori",3B,77,0.913,47,131,17,6,,71773840
+1986,Regular Season,Nankai Hawks,5,"Yamamura, Yoshinori",OF,45,0.985,62,4,1,1,,71773840
+1986,Regular Season,Lotte Orions,36,"Sato, Masao",P,36,1.000,3,10,0,0,,71773843
+1986,Regular Season,Yomiuri Giants,24,"Nakahata, Kiyoshi",1B,110,0.993,903,54,7,71,,71773844
+1986,Regular Season,Yomiuri Giants,24,"Nakahata, Kiyoshi",3B,17,0.944,4,30,2,1,,71773844
+1986,Regular Season,Yomiuri Giants,24,"Nakahata, Kiyoshi",SS,1,1.000,0,1,0,0,,71773844
+1986,Regular Season,Hanshin Tigers,9,"Sano, Noriyoshi",OF,92,0.972,138,0,4,0,,71773849
+1986,Regular Season,Hanshin Tigers,27,"Shimada, Munehiko",C,89,0.993,395,41,3,3,4,71773860
+1986,Regular Season,Chunichi Dragons,37,"Suzuki, Yasutomo",SS,118,0.968,170,313,16,68,,71773861
+1986,Regular Season,Lotte Orions,28,"Sonokawa, Kazumi",P,3,1.000,0,3,0,0,,71773862
+1986,Regular Season,Hankyu Braves,31,"Shibahara, Minoru",OF,69,1.000,49,0,0,0,,71773867
+1986,Regular Season,Nippon-Ham Fighters,24,"Tanaka, Manabu",P,1,0.000,0,0,0,0,,71773869
+1986,Regular Season,Hanshin Tigers,14,"Nomura, Osamu",P,15,1.000,2,7,0,0,,71973828
+1986,Regular Season,Lotte Orions,17,"Fukazawa, Yoshio",P,24,0.947,3,15,1,1,,71973844
+1986,Regular Season,Seibu Lions,16,"Matsunuma, Masayuki",P,25,0.952,4,16,1,0,,71973848
+1986,Regular Season,Yokohama Taiyo Whales,32,"Takahashi, Masahiro",2B,89,0.972,123,189,9,29,,71973860
+1986,Regular Season,Yokohama Taiyo Whales,32,"Takahashi, Masahiro",3B,2,1.000,0,1,0,0,,71973860
+1986,Regular Season,Yokohama Taiyo Whales,32,"Takahashi, Masahiro",SS,10,1.000,14,25,0,7,,71973860
+1986,Regular Season,Hankyu Braves,60,"Tomita, Isamu",P,1,1.000,0,1,0,0,,71973862
+1986,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",SS,123,0.988,169,406,7,57,,71973865
+1986,Regular Season,Yakult Swallows,44,"Takani, Hideharu",OF,67,0.990,98,2,1,0,,71973867
+1986,Regular Season,Kintetsu Buffaloes,15,"Davis, Richard",1B,117,0.993,1100,70,8,109,,71973869
+1986,Regular Season,Kintetsu Buffaloes,23,"Yamaoka, Masaru",P,10,1.000,1,8,0,1,,81083865
+1986,Regular Season,Yokohama Taiyo Whales,24,"Endo, Kazuhiko",P,31,0.957,14,52,3,3,,81183846
+1986,Regular Season,Lotte Orions,6,"Ochiai, Hiromitsu",1B,85,0.993,412,26,3,38,,81183848
+1986,Regular Season,Lotte Orions,6,"Ochiai, Hiromitsu",3B,87,0.965,55,140,7,14,,81183848
+1986,Regular Season,Lotte Orions,26,"Ogawa, Hiroshi",P,6,1.000,0,1,0,0,,81183860
+1986,Regular Season,Chunichi Dragons,27,"Uchida, Tsuyoshi",C,29,0.982,106,6,2,0,2,81183862
+1986,Regular Season,Hankyu Braves,29,"Ishimine, Kazuhiko",OF,14,1.000,8,1,0,1,,81183863
+1986,Regular Season,Hiroshima Toyo Carp,7,"Ogawa, Tatsuaki",OF,82,1.000,32,1,0,0,,81183865
+1986,Regular Season,Yakult Swallows,36,"Ikeyama, Takahiro",2B,1,1.000,1,0,0,0,,81183869
+1986,Regular Season,Yakult Swallows,36,"Ikeyama, Takahiro",3B,11,1.000,7,11,0,1,,81183869
+1986,Regular Season,Yakult Swallows,36,"Ikeyama, Takahiro",SS,52,0.968,80,133,7,35,,81183869
+1986,Regular Season,Chunichi Dragons,55,"Furutani, Morito",3B,1,0.000,0,0,0,0,,81283860
+1986,Regular Season,Yakult Swallows,52,"Yanada, Masao",2B,2,1.000,1,1,0,0,,81283862
+1986,Regular Season,Yakult Swallows,52,"Yanada, Masao",SS,4,1.000,1,1,0,0,,81283862
+1986,Regular Season,Nankai Hawks,19,"Yamauchi, Takanori",P,33,1.000,5,52,0,2,,81283863
+1986,Regular Season,Nippon-Ham Fighters,7,"Okaji, Kazuhiko",OF,38,1.000,49,2,0,1,,81383841
+1986,Regular Season,Chunichi Dragons,5,"Oshima, Yasunori",1B,21,1.000,58,5,0,4,,81383843
+1986,Regular Season,Chunichi Dragons,5,"Oshima, Yasunori",3B,2,0.750,1,2,1,0,,81383843
+1986,Regular Season,Chunichi Dragons,5,"Oshima, Yasunori",OF,90,0.993,144,5,1,0,,81383843
+1986,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",2B,127,0.982,260,350,11,64,,81383844
+1986,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",SS,1,0.000,0,0,0,0,,81383844
+1986,Regular Season,Kintetsu Buffaloes,38,"Keimoto, Hideaki",OF,11,1.000,8,0,0,0,,81383846
+1986,Regular Season,Lotte Orions,23,"Sato, Kenichi",2B,27,0.961,47,51,4,13,,81383848
+1986,Regular Season,Lotte Orions,23,"Sato, Kenichi",3B,59,0.986,19,51,1,3,,81383848
+1986,Regular Season,Lotte Orions,23,"Sato, Kenichi",SS,82,0.953,120,182,15,40,,81383848
+1986,Regular Season,Nankai Hawks,44,"Kishikawa, Katsuya",3B,19,0.846,7,26,6,0,,81383860
+1986,Regular Season,Yokohama Taiyo Whales,10,"Kida, Isamu",P,39,0.939,12,34,3,0,,81383861
+1986,Regular Season,Kintetsu Buffaloes,10,"Green, David",OF,61,0.975,116,2,3,0,,81383862
+1986,Regular Season,Chunichi Dragons,33,"Kaku, Genji",P,30,0.951,11,47,3,5,,81383863
+1986,Regular Season,Yokohama Taiyo Whales,38,"Kawano, Yasuhiko",OF,24,1.000,20,1,0,0,,81383865
+1986,Regular Season,Chunichi Dragons,50,"Kaneda, Susumu",C,4,1.000,11,1,0,0,0,81383867
+1986,Regular Season,Nankai Hawks,14,"Yugamidani, Hiroshi",2B,24,0.953,44,38,4,13,,81483860
+1986,Regular Season,Nankai Hawks,14,"Yugamidani, Hiroshi",SS,19,0.947,22,32,3,10,,81483860
+1986,Regular Season,Hankyu Braves,24,"Miyamoto, Shiro",P,18,1.000,0,6,0,1,,81583840
+1986,Regular Season,Hiroshima Toyo Carp,40,"Tatsukawa, Mitsuo",C,128,0.991,935,67,9,10,5,81583846
+1986,Regular Season,Kintetsu Buffaloes,17,"Sasaki, Osamu",P,28,1.000,9,17,0,1,,81583860
+1986,Regular Season,Hankyu Braves,46,"Shirai, Takayuki",P,11,1.000,2,11,0,0,,81583862
+1986,Regular Season,Yakult Swallows,25,"Suzuki, Masayuki",P,15,1.000,0,4,0,0,,81583865
+1986,Regular Season,Chunichi Dragons,21,"Kondo, Mitsuru",P,1,0.000,0,0,0,0,,81583867
+1986,Regular Season,Yomiuri Giants,41,"Saito, Masaki",P,35,1.000,4,24,0,0,,81583869
+1986,Regular Season,Kintetsu Buffaloes,25,"Fukiishi, Tokuichi",1B,4,0.917,10,1,1,1,,81783842
+1986,Regular Season,Kintetsu Buffaloes,25,"Fukiishi, Tokuichi",3B,4,0.833,1,4,1,0,,81783842
+1986,Regular Season,Kintetsu Buffaloes,25,"Fukiishi, Tokuichi",OF,4,1.000,3,0,0,0,,81783842
+1986,Regular Season,Kintetsu Buffaloes,25,"Fukiishi, Tokuichi",SS,69,0.972,35,70,3,16,,81783842
+1986,Regular Season,Yokohama Taiyo Whales,6,"Takagi, Yoshikazu",1B,14,1.000,55,3,0,3,,81783845
+1986,Regular Season,Yokohama Taiyo Whales,6,"Takagi, Yoshikazu",OF,13,1.000,6,1,0,0,,81783845
+1986,Regular Season,Lotte Orions,33,"Tago, Joji",P,12,0.889,0,8,1,0,,81783860
+1986,Regular Season,Lotte Orions,31,"Takazawa, Hideaki",OF,106,0.984,235,4,4,0,,81783861
+1986,Regular Season,Nippon-Ham Fighters,16,"Takada, Hirohisa",P,15,0.800,1,3,1,0,,81783862
+1986,Regular Season,Seibu Lions,23,"Nishioka, Yoshihiro",OF,101,1.000,122,3,0,0,,81783865
+1986,Regular Season,Nankai Hawks,32,"Suzuki, Nobuyoshi",C,2,1.000,1,0,0,0,0,81783867
+1986,Regular Season,Nankai Hawks,32,"Suzuki, Nobuyoshi",OF,4,1.000,3,0,0,0,,81783867
+1986,Regular Season,Nippon-Ham Fighters,30,"Tsuno, Hiroshi",P,30,0.943,15,35,3,2,,81783869
+1986,Regular Season,Hankyu Braves,7,"Fukumoto, Yutaka",OF,124,0.973,177,4,5,1,,81983828
+1986,Regular Season,Kintetsu Buffaloes,8,"Nashida, Masataka",C,77,0.995,359,43,2,6,4,81983845
+1986,Regular Season,Kintetsu Buffaloes,35,"Yanagihara, Takahiro",OF,43,1.000,54,4,0,0,,81983846
+1986,Regular Season,Seibu Lions,37,"Nakada, Hideshi",C,3,1.000,11,1,0,0,1,81983860
+1986,Regular Season,Lotte Orions,3,"Fujikura, Kazumasa",3B,9,1.000,3,13,0,0,,81983861
+1986,Regular Season,Lotte Orions,3,"Fujikura, Kazumasa",OF,1,0.000,0,0,0,0,,81983861
+1986,Regular Season,Yakult Swallows,54,"Nishizawa, Koichi",P,1,1.000,0,2,0,0,,81983862
+1986,Regular Season,Lotte Orions,47,"Migita, Kazuhiko",P,11,1.000,3,3,0,0,,81983865
+1986,Regular Season,Nankai Hawks,25,"Yoshizawa, Toshiyuki",OF,80,1.000,63,3,0,1,,91093844
+1986,Regular Season,Yakult Swallows,6,"Mizutani, Shintaro",2B,73,0.984,128,186,5,41,,91093849
+1986,Regular Season,Yakult Swallows,6,"Mizutani, Shintaro",SS,32,0.953,34,68,5,11,,91093849
+1986,Regular Season,Kintetsu Buffaloes,6,"Rivera, Bombo",OF,37,0.961,70,4,3,1,,91093860
+1986,Regular Season,Lotte Orions,52,"Higa, Yoshitomo",P,1,1.000,0,2,0,0,,91093862
+1986,Regular Season,Hiroshima Toyo Carp,28,"Nishida, Shinji",OF,1,0.000,0,0,0,0,,91093867
+1986,Regular Season,Chunichi Dragons,24,"Nimura, Toru",3B,19,1.000,3,15,0,2,,91093869
+1986,Regular Season,Chunichi Dragons,24,"Nimura, Toru",SS,20,0.926,18,32,4,4,,91093869
+1986,Regular Season,Lotte Orions,8,"Arito, Michiyo",3B,17,0.968,6,24,1,1,,91193828
+1986,Regular Season,Nippon-Ham Fighters,35,"Iwai, Takayuki",1B,3,1.000,14,3,0,2,,91193842
+1986,Regular Season,Nippon-Ham Fighters,35,"Iwai, Takayuki",2B,18,1.000,13,21,0,5,,91193842
+1986,Regular Season,Nippon-Ham Fighters,35,"Iwai, Takayuki",SS,12,0.978,9,35,1,7,,91193842
+1986,Regular Season,Hiroshima Toyo Carp,24,"Ono, Yutaka",P,15,0.889,2,22,3,3,,91193844
+1986,Regular Season,Yomiuri Giants,30,"Egawa, Suguru",P,26,0.981,12,39,1,5,,91193848
+1986,Regular Season,Yakult Swallows,4,"Aoshima, Kenta",2B,1,1.000,0,1,0,0,,91193860
+1986,Regular Season,Yakult Swallows,4,"Aoshima, Kenta",3B,1,1.000,1,0,0,0,,91193860
+1986,Regular Season,Yakult Swallows,4,"Aoshima, Kenta",SS,7,0.857,1,5,1,1,,91193860
+1986,Regular Season,Yakult Swallows,18,"Ito, Akimitsu",P,34,0.946,6,29,2,2,,91193862
+1986,Regular Season,Kintetsu Buffaloes,55,"Ishihara, Shuji",OF,2,0.000,0,0,0,0,,91193865
+1986,Regular Season,Lotte Orions,19,"Ibe, Yasuji",P,44,0.944,5,29,2,2,,91193867
+1986,Regular Season,Seibu Lions,50,"Aoyama, Michio",OF,1,1.000,1,0,0,0,,91193869
+1986,Regular Season,Hankyu Braves,51,"Fukura, Junichi",2B,111,0.977,226,283,12,60,,91293860
+1986,Regular Season,Hankyu Braves,51,"Fukura, Junichi",3B,2,1.000,1,3,0,0,,91293860
+1986,Regular Season,Hankyu Braves,45,"Yonemura, Osamu",1B,20,0.989,79,8,1,7,,91293861
+1986,Regular Season,Chunichi Dragons,26,"Miura, Masaaki",P,3,0.000,0,0,0,0,,91293862
+1986,Regular Season,Yokohama Taiyo Whales,13,"Hirose, Shintaro",P,3,0.000,0,0,0,0,,91293867
+1986,Regular Season,Kintetsu Buffaloes,12,"Suzuki, Yasujiro",P,21,1.000,2,13,0,2,,91393840
+1986,Regular Season,Hiroshima Toyo Carp,20,"Kitabeppu, Manabu",P,30,0.952,10,49,3,5,,91393842
+1986,Regular Season,Hankyu Braves,11,"Sato, Yoshinori",P,21,0.939,8,23,2,2,,91393844
+1986,Regular Season,Seibu Lions,4,"Katahira, Shinsaku",1B,20,0.991,100,6,1,7,,91393845
+1986,Regular Season,Yomiuri Giants,12,"Okamoto, Ko",P,8,1.000,0,2,0,0,,91393860
+1986,Regular Season,Seibu Lions,65,"Okada, Hirokazu",P,4,0.000,0,0,0,0,,91393862
+1986,Regular Season,Seibu Lions,13,"Ono, Kazuyuki",P,20,1.000,2,18,0,1,,91393863
+1986,Regular Season,Nippon-Ham Fighters,20,"Kanazawa, Tsugio",P,27,1.000,9,24,0,2,,91393865
+1986,Regular Season,Nippon-Ham Fighters,59,"Matsura, Hiroaki",P,1,0.000,0,0,0,0,,91493860
+1986,Regular Season,Hankyu Braves,59,"Yamamoto, Makoto",P,4,1.000,0,1,0,0,,91493862
+1986,Regular Season,Hankyu Braves,5,"Yumioka, Keijiro",SS,127,0.972,215,371,17,80,,91493863
+1986,Regular Season,Yokohama Taiyo Whales,26,"Tashiro, Tomio",1B,62,0.989,491,37,6,34,,91593842
+1986,Regular Season,Yokohama Taiyo Whales,26,"Tashiro, Tomio",OF,1,1.000,1,0,0,0,,91593842
+1986,Regular Season,Yomiuri Giants,11,"Sumi, Mitsuo",P,54,1.000,1,8,0,0,,91593846
+1986,Regular Season,Hiroshima Toyo Carp,25,"Kinoshita, Tomio",2B,55,1.000,67,84,0,17,,91593849
+1986,Regular Season,Hiroshima Toyo Carp,25,"Kinoshita, Tomio",3B,46,0.926,14,36,4,2,,91593849
+1986,Regular Season,Hanshin Tigers,45,"Gale, Rich",P,27,0.962,8,42,2,1,,91593860
+1986,Regular Season,Chunichi Dragons,12,"Saito, Manabu",P,6,1.000,1,2,0,1,,91593862
+1986,Regular Season,Yokohama Taiyo Whales,49,"Kubo, Fumio",P,22,1.000,0,6,0,0,,91593863
+1986,Regular Season,Yakult Swallows,22,"Kuroda, Shinji",P,10,1.000,0,6,0,0,,91593867
+1986,Regular Season,Kintetsu Buffaloes,48,"Yoshida, Takashi",SS,1,1.000,0,1,0,0,,91693860
+1986,Regular Season,Yomiuri Giants,19,"Takahashi, Naoki",P,4,1.000,1,2,0,1,,91793828
+1986,Regular Season,Lotte Orions,24,"Yoshioka, Toshiaki",OF,21,1.000,10,1,0,0,,91793840
+1986,Regular Season,Yomiuri Giants,26,"Nishimoto, Takashi",P,22,0.951,8,31,2,3,,91793842
+1986,Regular Season,Lotte Orions,12,"Hakamada, Hidetoshi",C,118,0.991,628,58,6,10,7,91793846
+1986,Regular Season,Nankai Hawks,3,"Sadaoka, Chiaki",2B,69,0.983,99,126,4,31,,91793849
+1986,Regular Season,Nankai Hawks,3,"Sadaoka, Chiaki",3B,7,0.833,2,3,1,1,,91793849
+1986,Regular Season,Nankai Hawks,3,"Sadaoka, Chiaki",SS,1,1.000,1,1,0,0,,91793849
+1986,Regular Season,Hiroshima Toyo Carp,4,"Shoda, Kozo",2B,87,0.988,147,187,4,28,,91793860
+1986,Regular Season,Hankyu Braves,15,"Sekiguchi, Tomoyuki",P,3,1.000,1,1,0,0,,91793861
+1986,Regular Season,Yokohama Taiyo Whales,54,"Daimon, Kazuhiko",P,28,1.000,3,24,0,2,,91793862
+1986,Regular Season,Chunichi Dragons,14,"Sugimoto, Tadashi",P,31,0.986,17,52,1,6,,91793863
+1986,Regular Season,Nippon-Ham Fighters,12,"Tanaka, Yukio",P,47,0.950,10,9,1,0,,91793865
+1986,Regular Season,Nippon-Ham Fighters,39,"Shimada, Nobutoshi",OF,68,0.986,67,3,1,1,,91793867
+1986,Regular Season,Yakult Swallows,34,"Takano, Hikaru",P,32,0.896,6,37,5,3,,91793869
+1986,Regular Season,Seibu Lions,55,"Takayama, Ikuo",P,1,0.000,0,0,0,0,,91993860
+1986,Regular Season,Chunichi Dragons,25,"Toyoda, Seisuke",OF,43,0.944,17,0,1,0,,91993861
+1986,Regular Season,Yokohama Taiyo Whales,19,"Nakayama, Hiroaki",P,18,0.909,2,8,1,0,,91993862

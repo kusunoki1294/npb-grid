@@ -1,0 +1,1159 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+2019,Regular Season,Chiba Lotte Marines,47,"Tanaka, Yasuhiro",P,44,1.000,1,9,0,1,,01005112
+2019,Regular Season,Yomiuri Giants,5,"Nakajima, Hiroyuki",1B,13,0.984,61,1,1,3,,01005113
+2019,Regular Season,Yomiuri Giants,5,"Nakajima, Hiroyuki",3B,10,0.667,2,2,2,0,,01005113
+2019,Regular Season,Tokyo Yakult Swallows,41,"Takai, Yuhei",OF,118,0.990,198,2,2,1,,01005117
+2019,Climax Series - Final Stage,Hanshin Tigers,9,"Takayama, Shun",OF,3,1.000,4,0,0,0,,01005132
+2019,Climax Series - First Stage,Hanshin Tigers,9,"Takayama, Shun",OF,3,1.000,1,0,0,0,,01005132
+2019,Regular Season,Hanshin Tigers,9,"Takayama, Shun",OF,84,0.991,114,2,1,0,,01005132
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,41,"Senga, Koudai",P,1,1.000,0,3,0,0,,01005133
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,41,"Senga, Koudai",P,1,1.000,2,3,0,0,,01005133
+2019,Japan Series,Fukuoka Softbank Hawks,41,"Senga, Koudai",P,1,1.000,0,1,0,0,,01005133
+2019,Regular Season,Fukuoka Softbank Hawks,41,"Senga, Koudai",P,26,0.892,10,23,4,1,,01005133
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,18,"Takeda, Shota",P,1,1.000,0,1,0,0,,01005135
+2019,Regular Season,Fukuoka Softbank Hawks,18,"Takeda, Shota",P,32,1.000,3,15,0,0,,01005135
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,28,"Takahashi, Rei",P,1,0.000,0,0,0,0,,01005136
+2019,Japan Series,Fukuoka Softbank Hawks,28,"Takahashi, Rei",P,1,1.000,1,1,0,0,,01005136
+2019,Regular Season,Fukuoka Softbank Hawks,28,"Takahashi, Rei",P,23,1.000,20,33,0,6,,01005136
+2019,Regular Season,Fukuoka Softbank Hawks,16,"Higashihama, Nao",P,7,1.000,4,5,0,0,,01005137
+2019,Regular Season,Yokohama DeNA Baystars,30,"Iizuka, Satoshi",P,5,0.000,0,0,0,0,,01105130
+2019,Regular Season,Tokyo Yakult Swallows,10,"Araki, Takahiro",1B,16,1.000,84,3,0,2,,01105131
+2019,Regular Season,Tokyo Yakult Swallows,10,"Araki, Takahiro",2B,3,1.000,3,5,0,2,,01105131
+2019,Regular Season,Tokyo Yakult Swallows,10,"Araki, Takahiro",3B,5,1.000,0,2,0,0,,01105131
+2019,Regular Season,Tokyo Yakult Swallows,10,"Araki, Takahiro",OF,19,1.000,14,0,0,0,,01105131
+2019,Regular Season,Yokohama DeNA Baystars,49,"Akama, Ken",P,7,1.000,2,2,0,0,,01105132
+2019,Regular Season,Yomiuri Giants,36,"Ishikawa, Shingo",OF,25,1.000,10,0,0,0,,01105135
+2019,Regular Season,Hanshin Tigers,56,"Iida, Yuya",P,3,0.000,0,0,0,0,,01105137
+2019,Regular Season,Fukuoka Softbank Hawks,53,"Izumi, Keisuke",P,14,1.000,0,2,0,0,,01105138
+2019,Regular Season,Chunichi Dragons,63,"Donoue, Naomichi",1B,11,1.000,22,1,0,1,,01205114
+2019,Regular Season,Chunichi Dragons,63,"Donoue, Naomichi",2B,28,0.980,40,58,2,12,,01205114
+2019,Regular Season,Chunichi Dragons,63,"Donoue, Naomichi",3B,19,1.000,15,33,0,6,,01205114
+2019,Regular Season,Chunichi Dragons,63,"Donoue, Naomichi",SS,13,0.978,18,26,1,5,,01205114
+2019,Regular Season,Hiroshima Toyo Carp,20,"Nagakawa, Katsuhiro",P,1,1.000,1,0,0,0,,01205117
+2019,Regular Season,Chiba Lotte Marines,29,"Nishino, Yuji",P,37,1.000,1,7,0,0,,01205118
+2019,Regular Season,Saitama Seibu Lions,71,"Togawa, Daisuke",1B,1,1.000,2,0,0,0,,01205130
+2019,Regular Season,Saitama Seibu Lions,71,"Togawa, Daisuke",OF,9,0.905,18,1,2,0,,01205130
+2019,Regular Season,Saitama Seibu Lions,40,"Tamura, Ichiro",P,6,0.667,0,2,1,0,,01205134
+2019,Regular Season,Chiba Lotte Marines,28,"Matsunaga, Takahiro",P,46,1.000,1,9,0,0,,01205137
+2019,Regular Season,Chiba Lotte Marines,48,"Nakamura, Toshiya",P,10,1.000,1,1,0,0,,01205138
+2019,Regular Season,Tohoku Rakuten Golden Eagles,8,"Imae, Toshiaki",1B,2,1.000,8,1,0,0,,01305115
+2019,Regular Season,Tohoku Rakuten Golden Eagles,8,"Imae, Toshiaki",3B,14,0.870,6,14,3,6,,01305115
+2019,Climax Series - First Stage,Hanshin Tigers,00,"Uemoto, Hiroki",2B,1,0.000,0,0,0,0,,01305118
+2019,Regular Season,Hanshin Tigers,00,"Uemoto, Hiroki",1B,4,1.000,4,0,0,0,,01305118
+2019,Regular Season,Hanshin Tigers,00,"Uemoto, Hiroki",2B,30,0.989,42,45,1,11,,01305118
+2019,Climax Series - Final Stage,Hanshin Tigers,62,"Ueda, Kai",2B,1,0.000,0,0,0,0,,01305130
+2019,Climax Series - Final Stage,Hanshin Tigers,62,"Ueda, Kai",SS,1,0.000,0,0,0,0,,01305130
+2019,Climax Series - First Stage,Hanshin Tigers,62,"Ueda, Kai",2B,1,0.000,0,0,0,0,,01305130
+2019,Climax Series - First Stage,Hanshin Tigers,62,"Ueda, Kai",SS,2,0.000,0,0,0,0,,01305130
+2019,Regular Season,Hanshin Tigers,62,"Ueda, Kai",2B,49,1.000,14,21,0,4,,01305130
+2019,Regular Season,Hanshin Tigers,62,"Ueda, Kai",OF,12,1.000,4,0,0,0,,01305130
+2019,Regular Season,Hanshin Tigers,62,"Ueda, Kai",SS,19,1.000,12,14,0,6,,01305130
+2019,Regular Season,Chunichi Dragons,8,"Ohshima, Yohei",OF,143,1.000,282,1,0,0,,01305131
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,21,"Imanaga, Shota",P,2,1.000,1,1,0,0,,01305132
+2019,Regular Season,Yokohama DeNA Baystars,21,"Imanaga, Shota",P,25,0.972,10,25,1,0,,01305132
+2019,Climax Series - Final Stage,Saitama Seibu Lions,30,"Enokida, Daiki",P,1,0.000,0,0,0,0,,01305133
+2019,Regular Season,Saitama Seibu Lions,30,"Enokida, Daiki",P,13,1.000,3,13,0,0,,01305133
+2019,Regular Season,Tokyo Yakult Swallows,15,"Ohshita, Yuma",P,31,1.000,2,4,0,0,,01305136
+2019,Regular Season,Yokohama DeNA Baystars,16,"Ohnuki, Shinichi",P,15,1.000,4,9,0,0,,01305138
+2019,Regular Season,Tohoku Rakuten Golden Eagles,36,"Uchida, Yasuhito",1B,1,1.000,6,2,0,1,,01305139
+2019,Regular Season,Hiroshima Toyo Carp,55,"Matsuyama, Ryuhei",1B,36,0.982,252,21,5,24,,01405116
+2019,Regular Season,Hiroshima Toyo Carp,55,"Matsuyama, Ryuhei",OF,45,0.966,56,0,2,0,,01405116
+2019,Regular Season,Hiroshima Toyo Carp,37,"Noma, Takayoshi",OF,109,0.987,154,1,2,0,,01405130
+2019,Regular Season,Orix Buffaloes,25,"Nishimura, Ryo",OF,15,1.000,23,0,0,0,,01405136
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,38,"Mori, Yuito",P,3,0.000,0,0,0,0,,01405139
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,38,"Mori, Yuito",P,2,0.000,0,0,0,0,,01405139
+2019,Japan Series,Fukuoka Softbank Hawks,38,"Mori, Yuito",P,4,0.000,0,0,0,0,,01405139
+2019,Regular Season,Fukuoka Softbank Hawks,38,"Mori, Yuito",P,54,1.000,4,4,0,0,,01405139
+2019,Regular Season,Tohoku Rakuten Golden Eagles,58,"Karashima, Wataru",P,27,1.000,4,25,0,0,,01505118
+2019,Regular Season,Fukuoka Softbank Hawks,67,"Kasaya, Shunsuke",P,2,0.000,0,0,0,0,,01505130
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,9,"Okoye, Louis",OF,3,1.000,3,0,0,0,,01505132
+2019,Regular Season,Tohoku Rakuten Golden Eagles,9,"Okoye, Louis",OF,49,1.000,70,1,0,0,,01505132
+2019,Regular Season,Orix Buffaloes,95,"Kambe, Fumiya",P,19,1.000,2,4,0,0,,01505134
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,63,"Kitaura, Ryuji",P,6,0.800,0,4,1,0,,01505136
+2019,Climax Series - Final Stage,Saitama Seibu Lions,8,"Kaneko, Yuji",OF,4,1.000,7,0,0,0,,01505137
+2019,Regular Season,Saitama Seibu Lions,8,"Kaneko, Yuji",OF,132,0.989,273,9,3,0,,01505137
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,45,"Hiranuma, Shota",2B,1,0.000,0,0,0,0,,01605132
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,45,"Hiranuma, Shota",3B,56,0.943,26,74,6,4,,01605132
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,45,"Hiranuma, Shota",SS,20,1.000,19,33,0,4,,01605132
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,15,"Mima, Manabu",P,1,0.000,0,0,0,0,,01605133
+2019,Regular Season,Tohoku Rakuten Golden Eagles,15,"Mima, Manabu",P,25,0.971,10,23,1,2,,01605133
+2019,Regular Season,Hanshin Tigers,40,"Fukunaga, Shungo",P,3,1.000,1,0,0,0,,01605134
+2019,Regular Season,Fukuoka Softbank Hawks,42,"Matsuda, Ryoma",P,51,1.000,2,7,0,0,,01605135
+2019,Regular Season,Orix Buffaloes,4,"Fukuda, Shuhei",2B,132,0.984,248,370,10,76,,01605136
+2019,Regular Season,Orix Buffaloes,4,"Fukuda, Shuhei",SS,8,0.939,13,18,2,6,,01605136
+2019,Regular Season,Fukuoka Softbank Hawks,31,"Kurihara, Ryoya",C,8,1.000,11,2,0,0,1,01705130
+2019,Regular Season,Fukuoka Softbank Hawks,31,"Kurihara, Ryoya",OF,5,1.000,5,0,0,0,,01705130
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,65,"Kuniyoshi, Yuki",P,2,1.000,0,1,0,0,,01705131
+2019,Regular Season,Yokohama DeNA Baystars,65,"Kuniyoshi, Yuki",P,53,1.000,5,10,0,1,,01705131
+2019,Regular Season,Tokyo Yakult Swallows,57,"Koga, Yudai",C,9,1.000,38,2,0,0,0,01705134
+2019,Regular Season,Saitama Seibu Lions,62,"Komazuki, Hitoto",C,7,1.000,16,0,0,0,1,01705135
+2019,Regular Season,Tohoku Rakuten Golden Eagles,12,"Kondoh, Hiroki",P,2,1.000,1,1,0,1,,01705136
+2019,Regular Season,Hiroshima Toyo Carp,51,"Kozono, Kaito",SS,55,0.950,57,113,9,22,,01705138
+2019,Regular Season,Chunichi Dragons,43,"Mitsuma, Takuya",P,29,1.000,3,3,0,0,,01805132
+2019,Regular Season,Tokyo Yakult Swallows,39,"Miyamoto, Takeshi",2B,1,1.000,1,2,0,0,,01805136
+2019,Regular Season,Tokyo Yakult Swallows,39,"Miyamoto, Takeshi",3B,8,1.000,4,9,0,2,,01805136
+2019,Regular Season,Tokyo Yakult Swallows,39,"Miyamoto, Takeshi",OF,2,1.000,2,0,0,0,,01805136
+2019,Regular Season,Yomiuri Giants,9,"Yamashita, Kota",1B,2,1.000,3,0,0,0,,01805138
+2019,Regular Season,Yomiuri Giants,9,"Yamashita, Kota",OF,3,1.000,3,0,0,0,,01805138
+2019,Regular Season,Tohoku Rakuten Golden Eagles,37,"Shima, Motohiro",C,57,0.994,315,29,2,2,0,01905114
+2019,Climax Series - Final Stage,Saitama Seibu Lions,34,"Sano, Yasuo",P,1,0.000,0,0,0,0,,01905130
+2019,Regular Season,Saitama Seibu Lions,34,"Sano, Yasuo",P,44,0.952,5,15,1,0,,01905130
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,1,"Saitoh, Yuki",P,11,1.000,2,3,0,0,,01905133
+2019,Regular Season,Orix Buffaloes,49,"Sawada, Keisuke",P,28,1.000,0,3,0,1,,01905134
+2019,Regular Season,Chunichi Dragons,50,"Shimizu, Tatsuya",P,8,1.000,1,5,0,0,,01905136
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,59,"Taira, Kentaro",P,1,1.000,0,3,0,0,,01905139
+2019,Regular Season,Yokohama DeNA Baystars,59,"Taira, Kentaro",P,15,0.933,3,11,1,1,,01905139
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,40,"Wheeler, Zelous",3B,1,1.000,0,1,0,0,,03105130
+2019,Regular Season,Tohoku Rakuten Golden Eagles,40,"Wheeler, Zelous",3B,81,0.945,51,120,10,7,,03105130
+2019,Regular Season,Tohoku Rakuten Golden Eagles,40,"Wheeler, Zelous",OF,1,0.000,0,0,0,0,,03105130
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Yokoo, Toshitake",1B,6,1.000,17,2,0,2,,03105132
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Yokoo, Toshitake",3B,59,0.950,28,67,5,6,,03105132
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Yokoo, Toshitake",OF,1,0.000,0,0,0,0,,03105132
+2019,Regular Season,Chunichi Dragons,59,"Yamamoto, Takumi",P,9,0.889,2,6,1,0,,03105136
+2019,Regular Season,Orix Buffaloes,42,"Eppler, Tyler",P,24,1.000,0,1,0,0,,03105138
+2019,Regular Season,Chunichi Dragons,31,"Watanabe, Masaru",OF,9,1.000,3,0,0,0,,03305132
+2019,Regular Season,Chiba Lotte Marines,85,"Mann, Brandon",P,14,1.000,0,2,0,0,,03305133
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,32,"Busenitz, Alan",P,1,0.000,0,0,0,0,,03305138
+2019,Regular Season,Tohoku Rakuten Golden Eagles,32,"Busenitz, Alan",P,54,0.857,5,7,2,1,,03305138
+2019,Climax Series - Final Stage,Hanshin Tigers,98,"Dolis, Rafael",P,1,0.000,0,0,0,0,,03505132
+2019,Climax Series - First Stage,Hanshin Tigers,98,"Dolis, Rafael",P,3,1.000,0,1,0,0,,03505132
+2019,Regular Season,Hanshin Tigers,98,"Dolis, Rafael",P,56,0.733,2,9,4,0,,03505132
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,99,"Soto, Neftali",2B,1,1.000,0,2,0,0,,03505136
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,99,"Soto, Neftali",OF,3,1.000,3,0,0,0,,03505136
+2019,Regular Season,Yokohama DeNA Baystars,99,"Soto, Neftali",2B,55,0.982,89,128,4,30,,03505136
+2019,Regular Season,Yokohama DeNA Baystars,99,"Soto, Neftali",OF,98,0.980,96,4,2,0,,03505136
+2019,Regular Season,Chunichi Dragons,70,"Romero, Enny",P,21,1.000,0,12,0,0,,03505138
+2019,Japan Series,Fukuoka Softbank Hawks,54,"Despaigne, Alfredo",OF,2,1.000,1,0,0,0,,03505139
+2019,Regular Season,Fukuoka Softbank Hawks,54,"Despaigne, Alfredo",OF,10,1.000,12,0,0,0,,03505139
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,53,"Patton, Spencer",P,1,0.000,0,0,0,0,,03705134
+2019,Regular Season,Yokohama DeNA Baystars,53,"Patton, Spencer",P,42,0.833,1,4,1,1,,03705134
+2019,Regular Season,Hanshin Tigers,42,"Solarte, Yangervis",1B,1,1.000,3,0,0,0,,03705138
+2019,Regular Season,Hanshin Tigers,42,"Solarte, Yangervis",2B,16,0.955,16,26,2,5,,03705138
+2019,Regular Season,Hanshin Tigers,42,"Solarte, Yangervis",OF,3,1.000,6,0,0,0,,03705138
+2019,Regular Season,Hanshin Tigers,42,"Solarte, Yangervis",SS,3,0.800,4,4,2,3,,03705138
+2019,Regular Season,Orix Buffaloes,46,"Naruse, Yoshihisa",P,6,1.000,0,2,0,0,,11015119
+2019,Regular Season,Tohoku Rakuten Golden Eagles,17,"Shiomi, Takahiro",P,9,1.000,3,6,0,2,,11015133
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,7,"Tatsumi, Ryosuke",OF,3,1.000,7,0,0,0,,11015138
+2019,Regular Season,Tohoku Rakuten Golden Eagles,7,"Tatsumi, Ryosuke",OF,121,0.991,204,6,2,3,,11015138
+2019,Regular Season,Orix Buffaloes,26,"Tohmei, Daiki",P,7,1.000,0,4,0,1,,11015139
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,7,"Nakamura, Akira",OF,3,1.000,6,0,0,0,,11215116
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,7,"Nakamura, Akira",OF,2,1.000,1,0,0,0,,11215116
+2019,Japan Series,Fukuoka Softbank Hawks,7,"Nakamura, Akira",1B,1,1.000,3,0,0,0,,11215116
+2019,Japan Series,Fukuoka Softbank Hawks,7,"Nakamura, Akira",OF,2,1.000,3,0,0,0,,11215116
+2019,Regular Season,Fukuoka Softbank Hawks,7,"Nakamura, Akira",1B,5,1.000,10,1,0,1,,11215116
+2019,Regular Season,Fukuoka Softbank Hawks,7,"Nakamura, Akira",OF,38,1.000,44,1,0,0,,11215116
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,9,"Nakashima, Takuya",SS,120,0.993,149,281,3,60,,11215118
+2019,Regular Season,Tokyo Yakult Swallows,67,"Hirai, Ryo",P,20,1.000,0,2,0,0,,11215131
+2019,Regular Season,Tohoku Rakuten Golden Eagles,25,"Tanaka, Kazuki",OF,54,0.990,97,1,1,0,,11215134
+2019,Regular Season,Fukuoka Softbank Hawks,32,"Tsukada, Masayoshi",1B,1,1.000,1,0,0,0,,11215135
+2019,Regular Season,Fukuoka Softbank Hawks,32,"Tsukada, Masayoshi",OF,7,1.000,3,0,0,0,,11215135
+2019,Climax Series - Final Stage,Hanshin Tigers,2,"Hojoh, Fumiya",3B,2,1.000,0,3,0,0,,11215137
+2019,Climax Series - Final Stage,Hanshin Tigers,2,"Hojoh, Fumiya",SS,2,1.000,6,5,0,2,,11215137
+2019,Climax Series - First Stage,Hanshin Tigers,2,"Hojoh, Fumiya",3B,2,0.000,0,0,1,0,,11215137
+2019,Climax Series - First Stage,Hanshin Tigers,2,"Hojoh, Fumiya",SS,2,1.000,3,2,0,0,,11215137
+2019,Regular Season,Hanshin Tigers,2,"Hojoh, Fumiya",3B,12,0.963,7,19,1,1,,11215137
+2019,Regular Season,Hanshin Tigers,2,"Hojoh, Fumiya",SS,46,0.933,54,98,11,22,,11215137
+2019,Regular Season,Fukuoka Softbank Hawks,43,"Egawa, Tomoaki",OF,7,1.000,4,0,0,0,,11315110
+2019,Regular Season,Tokyo Yakult Swallows,19,"Ishikawa, Masanori",P,23,1.000,4,20,0,0,,11315115
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,14,"Ishida, Kenta",P,2,1.000,1,1,0,0,,11315130
+2019,Regular Season,Yokohama DeNA Baystars,14,"Ishida, Kenta",P,40,0.938,3,12,1,2,,11315130
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,70,"Imai, Junnosuke",3B,2,0.750,1,2,1,0,,11315134
+2019,Regular Season,Saitama Seibu Lions,36,"Itoh, Sho",P,6,1.000,1,0,0,0,,11315136
+2019,Regular Season,Chiba Lotte Marines,44,"Inoue, Seiya",1B,70,0.995,538,35,3,42,,11315139
+2019,Regular Season,Hiroshima Toyo Carp,28,"Tokoda, Hiroki",P,25,0.982,17,39,1,4,,11415134
+2019,Regular Season,Saitama Seibu Lions,32,"Nagae, Kyohei",2B,1,0.000,0,0,0,0,,11415135
+2019,Regular Season,Saitama Seibu Lions,32,"Nagae, Kyohei",3B,13,1.000,1,5,0,0,,11415135
+2019,Regular Season,Saitama Seibu Lions,32,"Nagae, Kyohei",SS,12,0.943,14,19,2,3,,11415135
+2019,Regular Season,Fukuoka Softbank Hawks,69,"Mima, Yuki",1B,6,1.000,15,0,0,2,,11415137
+2019,Regular Season,Fukuoka Softbank Hawks,69,"Mima, Yuki",2B,2,1.000,3,6,0,1,,11415137
+2019,Regular Season,Fukuoka Softbank Hawks,69,"Mima, Yuki",OF,2,1.000,2,0,0,0,,11415137
+2019,Regular Season,Fukuoka Softbank Hawks,55,"Nomura, Daiju",3B,2,1.000,2,0,0,0,,11415138
+2019,Climax Series - Final Stage,Yomiuri Giants,17,"Ohtake, Kan",P,3,1.000,0,1,0,0,,11515115
+2019,Japan Series,Yomiuri Giants,17,"Ohtake, Kan",P,1,0.000,0,0,0,0,,11515115
+2019,Regular Season,Yomiuri Giants,17,"Ohtake, Kan",P,32,1.000,0,6,0,0,,11515115
+2019,Regular Season,Chunichi Dragons,64,"Oguma, Ryosuke",P,14,1.000,0,1,0,0,,11515118
+2019,Climax Series - Final Stage,Yomiuri Giants,25,"Okamoto, Kazuma",1B,3,1.000,24,0,0,1,,11515130
+2019,Climax Series - Final Stage,Yomiuri Giants,25,"Okamoto, Kazuma",3B,3,1.000,3,4,0,0,,11515130
+2019,Japan Series,Yomiuri Giants,25,"Okamoto, Kazuma",1B,2,1.000,17,0,0,0,,11515130
+2019,Japan Series,Yomiuri Giants,25,"Okamoto, Kazuma",3B,3,0.800,1,3,1,0,,11515130
+2019,Regular Season,Yomiuri Giants,25,"Okamoto, Kazuma",1B,116,1.000,689,31,0,64,,11515130
+2019,Regular Season,Yomiuri Giants,25,"Okamoto, Kazuma",3B,65,0.962,22,79,4,5,,11515130
+2019,Regular Season,Yomiuri Giants,25,"Okamoto, Kazuma",OF,21,1.000,24,0,0,0,,11515130
+2019,Regular Season,Chunichi Dragons,21,"Okada, Toshiya",P,53,1.000,1,8,0,2,,11515131
+2019,Regular Season,Orix Buffaloes,10,"Ohshiro, Koji",2B,1,1.000,0,1,0,0,,11515132
+2019,Regular Season,Orix Buffaloes,10,"Ohshiro, Koji",3B,2,0.000,0,0,0,0,,11515132
+2019,Regular Season,Orix Buffaloes,10,"Ohshiro, Koji",SS,89,0.970,132,229,11,45,,11515132
+2019,Regular Season,Chunichi Dragons,22,"Ohno, Yudai",P,25,0.977,11,32,1,3,,11515133
+2019,Regular Season,Yokohama DeNA Baystars,94,"Kasai, Takamasa",P,16,1.000,2,3,0,0,,11515134
+2019,Regular Season,Tokyo Yakult Swallows,29,"Ogawa, Yasuhiro",P,26,0.959,10,37,2,3,,11515137
+2019,Regular Season,Chiba Lotte Marines,43,"Ojima, Kazuya",P,10,1.000,4,15,0,0,,11515138
+2019,Regular Season,Chiba Lotte Marines,25,"Oka, Hiromi",1B,11,1.000,21,3,0,1,,11515139
+2019,Regular Season,Chiba Lotte Marines,25,"Oka, Hiromi",OF,76,0.975,77,1,2,0,,11515139
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,37,"Fukuda, Shuhei",OF,4,1.000,6,0,0,0,,11615114
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,37,"Fukuda, Shuhei",OF,2,1.000,1,0,0,0,,11615114
+2019,Japan Series,Fukuoka Softbank Hawks,37,"Fukuda, Shuhei",1B,1,1.000,3,0,0,0,,11615114
+2019,Japan Series,Fukuoka Softbank Hawks,37,"Fukuda, Shuhei",OF,3,1.000,0,1,0,0,,11615114
+2019,Regular Season,Fukuoka Softbank Hawks,37,"Fukuda, Shuhei",1B,6,1.000,5,0,0,1,,11615114
+2019,Regular Season,Fukuoka Softbank Hawks,37,"Fukuda, Shuhei",2B,1,1.000,0,2,0,0,,11615114
+2019,Regular Season,Fukuoka Softbank Hawks,37,"Fukuda, Shuhei",OF,64,1.000,67,0,0,0,,11615114
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,56,"Fujioka, Takahiro",P,2,0.000,0,0,0,0,,11615135
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,32,"Yachi, Ryota",1B,1,1.000,2,0,0,0,,11615137
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,32,"Yachi, Ryota",2B,5,1.000,3,10,0,2,,11615137
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,32,"Yachi, Ryota",3B,10,1.000,3,1,0,0,,11615137
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,32,"Yachi, Ryota",SS,8,1.000,5,6,0,2,,11615137
+2019,Climax Series - Final Stage,Hanshin Tigers,55,"Yohkawa, Naomasa",OF,1,1.000,1,0,0,0,,11615139
+2019,Regular Season,Hanshin Tigers,55,"Yohkawa, Naomasa",1B,11,1.000,62,5,0,4,,11615139
+2019,Regular Season,Hanshin Tigers,55,"Yohkawa, Naomasa",OF,11,0.875,7,0,1,0,,11615139
+2019,Regular Season,Fukuoka Softbank Hawks,63,"Kawahara, Hiroyuki",P,19,1.000,2,9,0,0,,11715131
+2019,Regular Season,Fukuoka Softbank Hawks,00,"Kawase, Hikaru",2B,14,0.946,19,16,2,2,,11715132
+2019,Regular Season,Fukuoka Softbank Hawks,00,"Kawase, Hikaru",SS,14,0.947,5,13,1,2,,11715132
+2019,Regular Season,Yokohama DeNA Baystars,48,"Kyoyama, Masaya",P,9,1.000,2,8,0,0,,11715134
+2019,Regular Season,Tokyo Yakult Swallows,22,"Kuramoto, Harutaka",P,8,1.000,0,1,0,0,,11715136
+2019,Regular Season,Tokyo Yakult Swallows,34,"Yamada, Hiroki",P,14,0.889,5,3,1,2,,11815114
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,21,"Wada, Tsuyoshi",P,1,1.000,1,0,0,0,,11815117
+2019,Japan Series,Fukuoka Softbank Hawks,21,"Wada, Tsuyoshi",P,1,0.000,0,0,0,0,,11815117
+2019,Regular Season,Fukuoka Softbank Hawks,21,"Wada, Tsuyoshi",P,12,1.000,3,7,0,0,,11815117
+2019,Regular Season,Orix Buffaloes,6,"Mune, Yuma",3B,2,1.000,0,2,0,0,,11815130
+2019,Regular Season,Orix Buffaloes,6,"Mune, Yuma",OF,53,1.000,95,3,0,0,,11815130
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,65,"Horiuchi, Kengo",C,2,1.000,11,2,0,0,0,11815132
+2019,Regular Season,Tohoku Rakuten Golden Eagles,65,"Horiuchi, Kengo",C,65,0.986,331,34,5,3,3,11815132
+2019,Regular Season,Tokyo Yakult Swallows,24,"Hoshi, Tomoya",P,10,1.000,2,1,0,0,,11815134
+2019,Regular Season,Hiroshima Toyo Carp,35,"Miyoshi, Takumi",2B,5,1.000,1,2,0,0,,11815135
+2019,Regular Season,Hiroshima Toyo Carp,35,"Miyoshi, Takumi",3B,26,1.000,11,17,0,3,,11815135
+2019,Regular Season,Hiroshima Toyo Carp,35,"Miyoshi, Takumi",SS,17,0.953,16,25,2,6,,11815135
+2019,Regular Season,Tohoku Rakuten Golden Eagles,24,"Miyoshi, Takumi",2B,1,1.000,0,1,0,0,,11815135
+2019,Regular Season,Tohoku Rakuten Golden Eagles,24,"Miyoshi, Takumi",SS,15,1.000,3,4,0,0,,11815135
+2019,Regular Season,Fukuoka Softbank Hawks,33,"Masuda, Shu",2B,2,1.000,1,0,0,0,,11815136
+2019,Regular Season,Fukuoka Softbank Hawks,33,"Masuda, Shu",3B,2,0.000,0,0,0,0,,11815136
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,66,"Mannami, Chusei",OF,1,0.000,0,0,0,0,,11815138
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,3,"Tanaka, Kensuke",1B,9,1.000,41,2,0,2,,11915111
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,3,"Tanaka, Kensuke",2B,2,1.000,1,6,0,1,,11915111
+2019,Regular Season,Orix Buffaloes,48,"Saitoh, Koki",P,11,0.500,0,1,1,0,,11915130
+2019,Regular Season,Hanshin Tigers,12,"Sakamoto, Seishiro",C,20,0.992,110,11,1,0,1,11915132
+2019,Regular Season,Hiroshima Toyo Carp,61,"Sakakura, Shogo",C,3,1.000,6,0,0,0,0,11915134
+2019,Regular Season,Hiroshima Toyo Carp,61,"Sakakura, Shogo",OF,12,1.000,5,0,0,0,,11915134
+2019,Regular Season,Yokohama DeNA Baystars,41,"Sakurai, Shuto",P,14,1.000,0,3,0,0,,11915136
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,0,"Takata, Tomoki",2B,1,1.000,0,1,0,0,,11915137
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,0,"Takata, Tomoki",SS,1,1.000,0,1,0,0,,11915137
+2019,Regular Season,Fukuoka Softbank Hawks,0,"Takata, Tomoki",1B,8,1.000,8,1,0,1,,11915137
+2019,Regular Season,Fukuoka Softbank Hawks,0,"Takata, Tomoki",2B,18,0.979,22,25,1,6,,11915137
+2019,Regular Season,Fukuoka Softbank Hawks,0,"Takata, Tomoki",SS,69,0.967,53,93,5,14,,11915137
+2019,Regular Season,Yokohama DeNA Baystars,47,"Sunada, Yoshiki",P,16,1.000,0,1,0,0,,11915139
+2019,Climax Series - Final Stage,Saitama Seibu Lions,42,"Martin, Kyle",P,1,0.000,0,0,0,0,,13015136
+2019,Regular Season,Saitama Seibu Lions,42,"Martin, Kyle",P,41,0.833,2,8,2,0,,13015136
+2019,Regular Season,Saitama Seibu Lions,52,"Yamada, Haruka",SS,4,1.000,4,8,0,2,,13115130
+2019,Regular Season,Orix Buffaloes,36,"Yamaashi, Tatsuya",2B,10,0.976,13,28,1,5,,13115136
+2019,Regular Season,Orix Buffaloes,36,"Yamaashi, Tatsuya",3B,10,1.000,8,5,0,1,,13115136
+2019,Regular Season,Orix Buffaloes,36,"Yamaashi, Tatsuya",SS,5,0.955,8,13,1,3,,13115136
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,18,"Yoshida, Kosei",P,4,0.000,0,0,0,0,,13115138
+2019,Regular Season,Orix Buffaloes,66,"Yoshida, Ryo",P,4,0.000,0,0,0,0,,13315132
+2019,Regular Season,Tokyo Yakult Swallows,4,"Balentien, Wladimir",OF,104,0.957,132,2,6,0,,13315133
+2019,Climax Series - Final Stage,Yomiuri Giants,60,"Wakabayashi, Akihiro",3B,2,0.900,2,7,1,1,,13315136
+2019,Japan Series,Yomiuri Giants,60,"Wakabayashi, Akihiro",3B,2,1.000,1,5,0,0,,13315136
+2019,Regular Season,Yomiuri Giants,60,"Wakabayashi, Akihiro",1B,2,1.000,1,0,0,0,,13315136
+2019,Regular Season,Yomiuri Giants,60,"Wakabayashi, Akihiro",2B,58,0.967,123,141,9,26,,13315136
+2019,Regular Season,Yomiuri Giants,60,"Wakabayashi, Akihiro",3B,17,1.000,6,20,0,3,,13315136
+2019,Regular Season,Yomiuri Giants,60,"Wakabayashi, Akihiro",OF,6,1.000,6,0,0,0,,13315136
+2019,Regular Season,Yomiuri Giants,60,"Wakabayashi, Akihiro",SS,1,1.000,0,1,0,0,,13315136
+2019,Climax Series - Final Stage,Saitama Seibu Lions,54,"Neal, Zach",P,1,1.000,0,1,0,0,,13315138
+2019,Regular Season,Saitama Seibu Lions,54,"Neal, Zach",P,17,1.000,8,12,0,1,,13315138
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,44,"Van Den Hurk, Rick",P,1,1.000,0,2,0,1,,13515130
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,44,"Van Den Hurk, Rick",P,1,1.000,0,1,0,0,,13515130
+2019,Japan Series,Fukuoka Softbank Hawks,44,"Van Den Hurk, Rick",P,1,0.000,0,0,0,0,,13515130
+2019,Regular Season,Fukuoka Softbank Hawks,44,"Van Den Hurk, Rick",P,3,1.000,2,1,0,0,,13515130
+2019,Regular Season,Chunichi Dragons,66,"Viciedo, Dayan",1B,142,0.995,1132,91,6,95,,13715132
+2019,Regular Season,Chiba Lotte Marines,86,"Bolsinger, Mike",P,20,0.824,3,11,3,0,,13715136
+2019,Regular Season,Hiroshima Toyo Carp,98,"Montilla, Emailin",P,2,0.000,0,0,0,0,,13715138
+2019,Regular Season,Yomiuri Giants,96,"Martinez, Jorge",3B,2,1.000,0,1,0,0,,13915134
+2019,Regular Season,Yomiuri Giants,96,"Martinez, Jorge",OF,2,1.000,3,0,0,0,,13915134
+2019,Regular Season,Yokohama DeNA Baystars,0,"Nakai, Daisuke",1B,3,1.000,8,0,0,1,,21025116
+2019,Regular Season,Yokohama DeNA Baystars,0,"Nakai, Daisuke",2B,44,0.977,73,94,4,18,,21025116
+2019,Regular Season,Yokohama DeNA Baystars,0,"Nakai, Daisuke",3B,8,1.000,1,7,0,1,,21025116
+2019,Regular Season,Yokohama DeNA Baystars,0,"Nakai, Daisuke",OF,1,0.000,0,0,0,0,,21025116
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,36,"Nakamura, Masaru",P,1,1.000,0,1,0,0,,21025131
+2019,Regular Season,Orix Buffaloes,21,"Takeyasu, Daichi",P,10,1.000,0,3,0,0,,21025132
+2019,Regular Season,Chunichi Dragons,12,"Tajima, Shinji",P,21,1.000,2,2,0,0,,21025135
+2019,Regular Season,Chunichi Dragons,24,"Fukutani, Koji",P,1,0.000,0,0,0,0,,21025137
+2019,Regular Season,Tohoku Rakuten Golden Eagles,38,"Nishimiya, Yusuke",P,14,1.000,0,2,0,0,,21025139
+2019,Climax Series - Final Stage,Yomiuri Giants,10,"Abe, Shinnosuke",1B,3,0.955,20,1,1,2,,21125113
+2019,Japan Series,Yomiuri Giants,10,"Abe, Shinnosuke",1B,2,1.000,11,0,0,1,,21125113
+2019,Regular Season,Yomiuri Giants,10,"Abe, Shinnosuke",1B,37,0.990,196,8,2,14,,21125113
+2019,Regular Season,Yomiuri Giants,10,"Abe, Shinnosuke",C,1,1.000,2,0,0,0,0,21125113
+2019,Regular Season,Chunichi Dragons,65,"Itoh, Junki",P,1,0.000,0,0,0,0,,21125118
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,38,"Ishii, Kazunari",2B,5,1.000,9,11,0,1,,21125134
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,38,"Ishii, Kazunari",3B,40,0.943,13,37,3,3,,21125134
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,38,"Ishii, Kazunari",SS,48,0.976,58,102,4,15,,21125134
+2019,Regular Season,Hiroshima Toyo Carp,30,"Ichioka, Ryuji",P,33,1.000,5,5,0,2,,21125135
+2019,Regular Season,Tokyo Yakult Swallows,12,"Ishiyama, Taichi",P,34,1.000,1,3,0,0,,21125137
+2019,Regular Season,Chunichi Dragons,30,"Achira, Takuma",P,7,1.000,3,4,0,0,,21125139
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,6,"Fujita, Kazuya",3B,2,1.000,1,3,0,0,,21225110
+2019,Regular Season,Tohoku Rakuten Golden Eagles,6,"Fujita, Kazuya",2B,4,1.000,8,5,0,2,,21225110
+2019,Regular Season,Tohoku Rakuten Golden Eagles,6,"Fujita, Kazuya",3B,21,1.000,3,12,0,1,,21225110
+2019,Regular Season,Tohoku Rakuten Golden Eagles,6,"Fujita, Kazuya",SS,22,0.974,17,59,2,11,,21225110
+2019,Regular Season,Yomiuri Giants,50,"Tone, Chiaki",P,26,1.000,2,7,0,1,,21225130
+2019,Regular Season,Chiba Lotte Marines,20,"Tojo, Taiki",P,58,0.750,4,5,3,1,,21225132
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,7,"Nishikawa, Haruki",OF,142,0.990,278,5,3,3,,21225133
+2019,Regular Season,Yokohama DeNA Baystars,93,"Nakagawa, Koh",P,3,1.000,1,2,0,0,,21225136
+2019,Regular Season,Chunichi Dragons,38,"Matsuba, Takahiro",P,1,0.000,0,0,0,0,,21225137
+2019,Regular Season,Orix Buffaloes,11,"Matsuba, Takahiro",P,5,1.000,2,4,0,0,,21225137
+2019,Regular Season,Tokyo Yakult Swallows,8,"Nakayama, Shota",OF,28,1.000,43,0,0,0,,21225138
+2019,Regular Season,Chiba Lotte Marines,64,"Futaki, Kota",P,22,0.958,5,18,1,0,,21225139
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,1,"Uchikawa, Seiichi",1B,4,0.967,28,1,1,1,,21325113
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,1,"Uchikawa, Seiichi",1B,3,1.000,25,3,0,1,,21325113
+2019,Japan Series,Fukuoka Softbank Hawks,1,"Uchikawa, Seiichi",1B,3,1.000,28,1,0,1,,21325113
+2019,Regular Season,Fukuoka Softbank Hawks,1,"Uchikawa, Seiichi",1B,130,1.000,1001,93,0,79,,21325113
+2019,Climax Series - First Stage,Hanshin Tigers,25,"Egoshi, Taiga",OF,1,0.000,0,0,0,0,,21325130
+2019,Regular Season,Hanshin Tigers,25,"Egoshi, Taiga",OF,41,1.000,17,0,0,0,,21325130
+2019,Climax Series - Final Stage,Hanshin Tigers,3,"Ohyama, Yusuke",3B,3,1.000,4,5,0,0,,21325134
+2019,Climax Series - First Stage,Hanshin Tigers,3,"Ohyama, Yusuke",1B,1,1.000,2,0,0,0,,21325134
+2019,Climax Series - First Stage,Hanshin Tigers,3,"Ohyama, Yusuke",3B,2,1.000,1,2,0,0,,21325134
+2019,Regular Season,Hanshin Tigers,3,"Ohyama, Yusuke",1B,39,1.000,118,13,0,12,,21325134
+2019,Regular Season,Hanshin Tigers,3,"Ohyama, Yusuke",3B,130,0.945,78,263,20,27,,21325134
+2019,Climax Series - Final Stage,Yomiuri Giants,46,"Ohshiro, Takumi",C,2,1.000,12,4,0,0,0,21325136
+2019,Japan Series,Yomiuri Giants,46,"Ohshiro, Takumi",1B,1,1.000,7,0,0,0,,21325136
+2019,Japan Series,Yomiuri Giants,46,"Ohshiro, Takumi",C,3,1.000,13,2,0,0,0,21325136
+2019,Regular Season,Yomiuri Giants,46,"Ohshiro, Takumi",1B,46,0.996,251,17,1,24,,21325136
+2019,Regular Season,Yomiuri Giants,46,"Ohshiro, Takumi",C,62,0.993,276,21,2,1,2,21325136
+2019,Climax Series - Final Stage,Hanshin Tigers,44,"Umeno, Ryutaro",C,4,0.964,26,1,1,0,0,21325139
+2019,Climax Series - First Stage,Hanshin Tigers,44,"Umeno, Ryutaro",C,3,1.000,28,4,0,0,0,21325139
+2019,Regular Season,Hanshin Tigers,44,"Umeno, Ryutaro",C,129,0.995,948,123,5,22,6,21325139
+2019,Regular Season,Chiba Lotte Marines,59,"Hosoya, Kei",1B,4,1.000,3,0,0,0,,21425112
+2019,Regular Season,Chiba Lotte Marines,59,"Hosoya, Kei",OF,3,1.000,7,0,0,0,,21425112
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,24,"Hasegawa, Yuya",OF,1,0.000,0,0,0,0,,21425114
+2019,Regular Season,Fukuoka Softbank Hawks,24,"Hasegawa, Yuya",OF,11,1.000,6,0,0,0,,21425114
+2019,Climax Series - Final Stage,Yomiuri Giants,8,"Maru, Yoshihiro",OF,4,1.000,1,0,0,0,,21425116
+2019,Japan Series,Yomiuri Giants,8,"Maru, Yoshihiro",OF,4,1.000,7,0,0,0,,21425116
+2019,Regular Season,Yomiuri Giants,8,"Maru, Yoshihiro",OF,141,0.993,285,2,2,0,,21425116
+2019,Regular Season,Hiroshima Toyo Carp,19,"Nomura, Yusuke",P,18,1.000,10,18,0,1,,21425135
+2019,Climax Series - Final Stage,Saitama Seibu Lions,33,"Yamakawa, Hotaka",1B,4,1.000,43,1,0,2,,21425139
+2019,Regular Season,Saitama Seibu Lions,33,"Yamakawa, Hotaka",1B,142,0.994,1303,86,8,120,,21425139
+2019,Regular Season,Chiba Lotte Marines,19,"Karakawa, Yuki",P,40,1.000,0,11,0,0,,21525116
+2019,Regular Season,Chiba Lotte Marines,57,"Katsuki, Kazuya",1B,7,1.000,16,2,0,1,,21525130
+2019,Regular Season,Chiba Lotte Marines,57,"Katsuki, Kazuya",3B,4,0.750,0,3,1,1,,21525130
+2019,Regular Season,Chiba Lotte Marines,99,"Kakinuma, Tomoya",C,34,1.000,187,28,0,4,2,21525132
+2019,Regular Season,Yomiuri Giants,52,"Kitamura, Takumi",3B,2,1.000,0,4,0,1,,21525136
+2019,Regular Season,Orix Buffaloes,58,"Kaneda, Kazuyuki",P,6,1.000,1,0,0,0,,21525137
+2019,Regular Season,Chunichi Dragons,41,"Katsuno, Akiyoshi",P,3,1.000,2,5,0,0,,21525138
+2019,Regular Season,Fukuoka Softbank Hawks,14,"Kajiya, Ren",P,30,1.000,5,6,0,0,,21525139
+2019,Regular Season,Hiroshima Toyo Carp,36,"Horie, Atsuya",P,11,0.800,1,3,1,0,,21625130
+2019,Regular Season,Tokyo Yakult Swallows,36,"Hirooka, Taishi",1B,2,1.000,3,0,0,0,,21625132
+2019,Regular Season,Tokyo Yakult Swallows,36,"Hirooka, Taishi",3B,29,0.929,13,26,3,3,,21625132
+2019,Regular Season,Tokyo Yakult Swallows,36,"Hirooka, Taishi",SS,58,0.948,66,116,10,27,,21625132
+2019,Regular Season,Yomiuri Giants,30,"Miyaguni, Ryosuke",P,28,0.800,0,4,1,0,,21625133
+2019,Regular Season,Chunichi Dragons,54,"Fujishima, Kento",P,32,1.000,2,3,0,0,,21625134
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,12,"Matsumoto, Go",OF,2,0.000,0,0,0,0,,21625135
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,42,"Kurobane, Toshiki",C,4,1.000,10,0,0,0,0,21725112
+2019,Regular Season,Saitama Seibu Lions,65,"Saito, Shogo",OF,1,1.000,1,0,0,0,,21725116
+2019,Regular Season,Tohoku Rakuten Golden Eagles,91,"Kubo, Yuya",P,22,1.000,1,7,0,1,,21725117
+2019,Climax Series - Final Stage,Saitama Seibu Lions,58,"Kumashiro, Masato",OF,1,0.000,0,0,0,0,,21725133
+2019,Regular Season,Saitama Seibu Lions,58,"Kumashiro, Masato",1B,1,1.000,2,0,0,0,,21725133
+2019,Regular Season,Saitama Seibu Lions,58,"Kumashiro, Masato",2B,1,1.000,1,1,0,0,,21725133
+2019,Regular Season,Saitama Seibu Lions,58,"Kumashiro, Masato",3B,8,1.000,1,2,0,0,,21725133
+2019,Regular Season,Saitama Seibu Lions,58,"Kumashiro, Masato",OF,10,0.800,4,0,1,0,,21725133
+2019,Regular Season,Saitama Seibu Lions,58,"Kumashiro, Masato",SS,4,1.000,3,3,0,1,,21725133
+2019,Regular Season,Orix Buffaloes,39,"Kobayashi, Keisuke",P,20,1.000,0,2,0,0,,21725134
+2019,Regular Season,Yokohama DeNA Baystars,24,"Saito, Shunsuke",P,16,1.000,1,4,0,0,,21725136
+2019,Regular Season,Orix Buffaloes,2,"Shirasaki, Hiroyuki",1B,9,0.982,51,5,1,3,,21725137
+2019,Regular Season,Orix Buffaloes,2,"Shirasaki, Hiroyuki",2B,2,0.933,7,7,1,5,,21725137
+2019,Regular Season,Orix Buffaloes,2,"Shirasaki, Hiroyuki",3B,13,0.833,2,8,2,1,,21725137
+2019,Regular Season,Hanshin Tigers,48,"Saitoh, Yukiya",P,1,0.000,0,0,0,0,,21725138
+2019,Regular Season,Tohoku Rakuten Golden Eagles,98,"Konno, Ryuta",P,4,1.000,1,3,0,0,,21725139
+2019,Climax Series - Final Stage,Yomiuri Giants,2,"Yoh, Daikan",OF,4,1.000,2,0,0,0,,21825112
+2019,Regular Season,Yomiuri Giants,2,"Yoh, Daikan",OF,93,1.000,99,3,0,1,,21825112
+2019,Regular Season,Orix Buffaloes,0,"Yamasaki, Sachiya",P,36,0.941,3,13,1,2,,21825130
+2019,Regular Season,Saitama Seibu Lions,59,"Minamikawa, Tadasuke",P,1,0.000,0,0,0,0,,21825132
+2019,Regular Season,Yomiuri Giants,00,"Yoshikawa, Daiki",2B,5,1.000,4,6,0,1,,21825133
+2019,Regular Season,Yomiuri Giants,00,"Yoshikawa, Daiki",3B,4,1.000,0,1,0,1,,21825133
+2019,Regular Season,Yomiuri Giants,00,"Yoshikawa, Daiki",SS,1,0.000,0,0,0,0,,21825133
+2019,Regular Season,Saitama Seibu Lions,4,"Yamanobe, Kakeru",2B,3,1.000,8,7,0,3,,21825138
+2019,Regular Season,Saitama Seibu Lions,4,"Yamanobe, Kakeru",3B,6,0.818,1,8,2,0,,21825138
+2019,Regular Season,Chiba Lotte Marines,9,"Fukura, Kazuya",1B,1,1.000,1,0,0,0,,21923889
+2019,Regular Season,Chiba Lotte Marines,32,"Takahama, Takuya",1B,2,0.000,0,0,0,0,,21925116
+2019,Regular Season,Chiba Lotte Marines,32,"Takahama, Takuya",2B,1,0.000,0,0,0,0,,21925116
+2019,Regular Season,Chiba Lotte Marines,32,"Takahama, Takuya",3B,1,1.000,0,1,0,0,,21925116
+2019,Regular Season,Chiba Lotte Marines,32,"Takahama, Takuya",SS,1,1.000,0,3,0,0,,21925116
+2019,Regular Season,Tokyo Yakult Swallows,42,"Sakaguchi, Tomotaka",1B,10,0.988,72,9,1,5,,21925117
+2019,Regular Season,Tokyo Yakult Swallows,42,"Sakaguchi, Tomotaka",OF,9,1.000,17,0,0,0,,21925117
+2019,Regular Season,Hanshin Tigers,1,"Toritani, Takashi",SS,14,0.976,12,28,1,11,,21925119
+2019,Climax Series - Final Stage,Yomiuri Giants,43,"Shigenobu, Shinnosuke",OF,2,1.000,1,0,0,0,,21925132
+2019,Japan Series,Yomiuri Giants,43,"Shigenobu, Shinnosuke",OF,1,1.000,3,0,0,0,,21925132
+2019,Regular Season,Yomiuri Giants,43,"Shigenobu, Shinnosuke",OF,81,0.985,64,2,1,0,,21925132
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,23,"Shuto, Ukyo",OF,3,1.000,1,0,0,0,,21925136
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,23,"Shuto, Ukyo",OF,3,0.000,0,0,0,0,,21925136
+2019,Japan Series,Fukuoka Softbank Hawks,23,"Shuto, Ukyo",OF,3,0.000,0,0,0,0,,21925136
+2019,Regular Season,Fukuoka Softbank Hawks,23,"Shuto, Ukyo",2B,5,1.000,13,10,0,3,,21925136
+2019,Regular Season,Fukuoka Softbank Hawks,23,"Shuto, Ukyo",3B,3,1.000,0,4,0,1,,21925136
+2019,Regular Season,Fukuoka Softbank Hawks,23,"Shuto, Ukyo",OF,82,0.969,62,0,2,0,,21925136
+2019,Regular Season,Tokyo Yakult Swallows,14,"Takanashi, Hirotoshi",P,21,1.000,3,12,0,1,,21925139
+2019,Regular Season,Yokohama DeNA Baystars,50,"Yamamoto, Yuudai",C,5,1.000,8,0,0,0,0,23125136
+2019,Regular Season,Yomiuri Giants,24,"Cook, Ryan",P,13,1.000,0,4,0,1,,23125138
+2019,Regular Season,Orix Buffaloes,27,"Albers, Andrew",P,13,0.917,1,10,1,1,,23325136
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,69,"Blash, Jabari",OF,1,1.000,1,0,0,0,,23325138
+2019,Regular Season,Tohoku Rakuten Golden Eagles,69,"Blash, Jabari",OF,47,0.987,74,1,1,0,,23325138
+2019,Regular Season,Chiba Lotte Marines,54,"Laird, Brandon",3B,113,0.972,57,155,6,13,,23525130
+2019,Regular Season,Chiba Lotte Marines,49,"Chen, Kuan-Yu",P,44,0.870,5,15,3,0,,23525133
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,99,"Wang, Po-Jung",OF,51,1.000,93,1,0,0,,23525138
+2019,Climax Series - Final Stage,Saitama Seibu Lions,68,"Heath, Deunte",P,3,0.000,0,0,0,0,,23525139
+2019,Regular Season,Saitama Seibu Lions,68,"Heath, Deunte",P,34,1.000,0,2,0,0,,23525139
+2019,Regular Season,Chiba Lotte Marines,79,"Martin, Leonys",OF,51,0.966,80,5,3,1,,23725138
+2019,Regular Season,Hiroshima Toyo Carp,95,"Batista, Xavier",1B,96,0.995,765,54,4,53,,23925132
+2019,Regular Season,Hiroshima Toyo Carp,95,"Batista, Xavier",OF,3,1.000,1,0,0,0,,23925132
+2019,Regular Season,Chunichi Dragons,97,"Martinez, Raidel",P,43,1.000,5,6,0,1,,23925134
+2019,Regular Season,Hiroshima Toyo Carp,62,"Hellweg, Johnny",P,5,1.000,0,2,0,0,,23925136
+2019,Regular Season,Chunichi Dragons,14,"Tanimoto, Keisuke",P,38,1.000,3,4,0,0,,31035118
+2019,Regular Season,Saitama Seibu Lions,20,"Takagi, Hayato",P,2,0.500,0,1,1,0,,31035130
+2019,Regular Season,Chiba Lotte Marines,58,"Takano, Keisuke",P,2,1.000,1,0,0,0,,31035132
+2019,Regular Season,Hanshin Tigers,30,"Takano, Keisuke",P,4,1.000,0,2,0,0,,31035132
+2019,Regular Season,Saitama Seibu Lions,46,"Suzuki, Shohei",OF,12,1.000,12,0,0,0,,31035134
+2019,Climax Series - Final Stage,Yomiuri Giants,57,"Takagi, Kyosuke",P,1,0.000,0,0,0,0,,31035135
+2019,Japan Series,Yomiuri Giants,57,"Takagi, Kyosuke",P,2,0.000,0,0,0,0,,31035135
+2019,Regular Season,Yomiuri Giants,57,"Takagi, Kyosuke",P,55,1.000,1,3,0,0,,31035135
+2019,Climax Series - Final Stage,Saitama Seibu Lions,61,"Taira, Kaima",P,3,1.000,0,1,0,0,,31035136
+2019,Regular Season,Saitama Seibu Lions,61,"Taira, Kaima",P,26,0.800,1,3,1,0,,31035136
+2019,Regular Season,Hiroshima Toyo Carp,27,"Aizawa, Tsubasa",C,123,0.998,794,65,2,7,2,31135114
+2019,Regular Season,Tokyo Yakult Swallows,23,"Aoki, Norichika",OF,128,0.992,234,6,2,0,,31135119
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,26,"Asama, Daiki",3B,9,0.857,5,7,2,0,,31135130
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,26,"Asama, Daiki",OF,4,1.000,3,0,0,0,,31135130
+2019,Climax Series - Final Stage,Saitama Seibu Lions,55,"Akiyama, Shogo",OF,4,1.000,4,0,0,0,,31135133
+2019,Regular Season,Saitama Seibu Lions,55,"Akiyama, Shogo",OF,143,0.983,283,8,5,3,,31135133
+2019,Regular Season,Hiroshima Toyo Carp,48,"Aduwa, Makoto",P,19,0.962,6,19,1,0,,31135134
+2019,Regular Season,Orix Buffaloes,3,"Adachi, Ryoichi",3B,19,0.931,6,21,2,3,,31135135
+2019,Regular Season,Orix Buffaloes,3,"Adachi, Ryoichi",SS,38,0.978,43,89,3,17,,31135135
+2019,Regular Season,Chiba Lotte Marines,24,"Azuma, Yusuke",P,24,1.000,4,2,0,1,,31135138
+2019,Regular Season,Chunichi Dragons,18,"Matsuzaka, Daisuke",P,2,1.000,1,0,0,0,,31233888
+2019,Regular Season,Hiroshima Toyo Carp,26,"Nakata, Ren",P,8,0.000,0,0,1,0,,31235118
+2019,Regular Season,Yomiuri Giants,69,"Tanaka, Takaya",C,1,0.000,0,0,0,0,0,31235130
+2019,Regular Season,Hiroshima Toyo Carp,21,"Nakazaki, Shota",P,36,0.923,3,9,1,0,,31235133
+2019,Regular Season,Fukuoka Softbank Hawks,25,"Tanaka, Seigi",P,1,0.000,0,0,0,0,,31235134
+2019,Regular Season,Hanshin Tigers,34,"Tanigawa, Masaki",P,4,0.667,1,1,1,0,,31235136
+2019,Regular Season,Fukuoka Softbank Hawks,17,"Iwasaki, Sho",P,2,0.000,0,0,0,0,,31335116
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,6,"Imamiya, Kenta",SS,4,1.000,7,7,0,1,,31335131
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,6,"Imamiya, Kenta",SS,3,1.000,5,12,0,2,,31335131
+2019,Japan Series,Fukuoka Softbank Hawks,6,"Imamiya, Kenta",SS,4,1.000,4,13,0,1,,31335131
+2019,Regular Season,Fukuoka Softbank Hawks,6,"Imamiya, Kenta",SS,104,0.986,174,259,6,58,,31335131
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,29,"Iguchi, Kazutomo",P,32,1.000,3,2,0,0,,31335132
+2019,Climax Series - Final Stage,Saitama Seibu Lions,11,"Imai, Tatsuya",P,1,1.000,0,1,0,0,,31335134
+2019,Regular Season,Saitama Seibu Lions,11,"Imai, Tatsuya",P,23,0.880,4,18,3,0,,31335134
+2019,Regular Season,Yomiuri Giants,45,"Imamura, Nobutaka",P,17,1.000,3,13,0,2,,31335135
+2019,Regular Season,Hiroshima Toyo Carp,0,"Uemoto, Takashi",2B,8,1.000,3,4,0,2,,31335137
+2019,Regular Season,Hiroshima Toyo Carp,0,"Uemoto, Takashi",3B,16,1.000,8,14,0,1,,31335137
+2019,Regular Season,Hiroshima Toyo Carp,0,"Uemoto, Takashi",SS,2,0.000,0,0,0,0,,31335137
+2019,Climax Series - Final Stage,Hanshin Tigers,67,"Iwazaki, Suguru",P,2,0.000,0,0,0,0,,31335139
+2019,Climax Series - First Stage,Hanshin Tigers,67,"Iwazaki, Suguru",P,3,0.000,0,0,0,0,,31335139
+2019,Regular Season,Hanshin Tigers,67,"Iwazaki, Suguru",P,48,1.000,1,2,0,0,,31335139
+2019,Regular Season,Tohoku Rakuten Golden Eagles,31,"Fukui, Yuya",P,8,1.000,1,7,0,0,,31435133
+2019,Regular Season,Chiba Lotte Marines,34,"Dohi, Seiya",P,6,1.000,1,4,0,0,,31435134
+2019,Regular Season,Orix Buffaloes,00,"Nishiura, Hayato",OF,73,0.993,130,7,1,0,,31435136
+2019,Regular Season,Yokohama DeNA Baystars,35,"Mikami, Tomoya",P,6,1.000,1,1,0,0,,31435139
+2019,Regular Season,Orix Buffaloes,50,"Oda, Yuya",OF,74,0.990,100,4,1,1,,31535130
+2019,Regular Season,Hanshin Tigers,13,"Okamoto, Yosuke",P,3,1.000,0,2,0,0,,31535131
+2019,Regular Season,Saitama Seibu Lions,53,"Takeda, Aito",OF,35,0.978,44,1,1,0,,31535132
+2019,Regular Season,Chunichi Dragons,47,"Kasahara, Shotaro",P,8,1.000,3,2,0,1,,31535134
+2019,Regular Season,Tohoku Rakuten Golden Eagles,21,"Kamata, Yoshinao",P,5,1.000,0,4,0,0,,31535135
+2019,Regular Season,Saitama Seibu Lions,37,"Okada, Masatoshi",C,23,0.992,112,8,1,0,0,31535139
+2019,Regular Season,Chiba Lotte Marines,18,"Wakui, Hideaki",P,18,1.000,2,14,0,1,,31635110
+2019,Regular Season,Chunichi Dragons,55,"Fukuda, Nobumasa",1B,31,0.980,48,1,1,6,,31635114
+2019,Regular Season,Chunichi Dragons,55,"Fukuda, Nobumasa",3B,13,0.974,5,32,1,2,,31635114
+2019,Regular Season,Chunichi Dragons,55,"Fukuda, Nobumasa",OF,62,1.000,101,3,0,0,,31635114
+2019,Regular Season,Chunichi Dragons,29,"Yamai, Daisuke",P,13,1.000,2,7,0,0,,31635115
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,31,"Murata, Toru",P,13,1.000,2,9,0,1,,31635116
+2019,Regular Season,Tokyo Yakult Swallows,16,"Hara, Juri",P,12,1.000,1,14,0,3,,31635132
+2019,Regular Season,Yomiuri Giants,31,"Hatake, Seishu",P,5,0.800,0,4,1,0,,31635134
+2019,Regular Season,Tokyo Yakult Swallows,68,"Yamanaka, Hirofumi",P,4,1.000,1,1,0,0,,31635137
+2019,Regular Season,Chiba Lotte Marines,2,"Fujiwara, Kyota",OF,5,1.000,13,1,0,0,,31635138
+2019,Regular Season,Tokyo Yakult Swallows,5,"Kawabata, Shingo",1B,13,0.973,70,2,2,5,,31735112
+2019,Regular Season,Tokyo Yakult Swallows,5,"Kawabata, Shingo",3B,3,1.000,0,8,0,0,,31735112
+2019,Regular Season,Hanshin Tigers,64,"Kuwahara, Kentaro",P,7,0.000,0,0,0,0,,31735116
+2019,Regular Season,Chunichi Dragons,35,"Kinoshita, Takuya",C,35,0.995,192,20,1,0,0,31735132
+2019,Regular Season,Fukuoka Softbank Hawks,65,"Kuki, Ryuhei",C,1,1.000,4,0,0,0,0,31735134
+2019,Regular Season,Yomiuri Giants,29,"Kuwahara, Takuya",P,15,1.000,0,2,0,0,,31735136
+2019,Climax Series - Final Stage,Hanshin Tigers,0,"Kinami, Seiya",2B,1,1.000,0,1,0,0,,31735138
+2019,Climax Series - Final Stage,Hanshin Tigers,0,"Kinami, Seiya",SS,4,1.000,2,4,0,2,,31735138
+2019,Climax Series - First Stage,Hanshin Tigers,0,"Kinami, Seiya",SS,3,1.000,2,2,0,1,,31735138
+2019,Regular Season,Hanshin Tigers,0,"Kinami, Seiya",1B,8,1.000,34,1,0,8,,31735138
+2019,Regular Season,Hanshin Tigers,0,"Kinami, Seiya",2B,8,1.000,7,9,0,1,,31735138
+2019,Regular Season,Hanshin Tigers,0,"Kinami, Seiya",SS,98,0.966,132,291,15,65,,31735138
+2019,Climax Series - Final Stage,Saitama Seibu Lions,45,"Honda, Keisuke",P,1,0.000,0,0,0,0,,31835132
+2019,Regular Season,Saitama Seibu Lions,45,"Honda, Keisuke",P,16,1.000,4,16,0,3,,31835132
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,9,"Yanagita, Yuki",OF,4,1.000,5,0,0,0,,31835133
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,9,"Yanagita, Yuki",OF,3,1.000,2,0,0,0,,31835133
+2019,Japan Series,Fukuoka Softbank Hawks,9,"Yanagita, Yuki",OF,4,1.000,9,0,0,0,,31835133
+2019,Regular Season,Fukuoka Softbank Hawks,9,"Yanagita, Yuki",OF,33,0.940,60,3,4,1,,31835133
+2019,Regular Season,Yokohama DeNA Baystars,52,"Hosokawa, Seiya",OF,20,0.968,28,2,1,0,,31835134
+2019,Climax Series - Final Stage,Yomiuri Giants,35,"Sakurai, Toshiki",P,1,1.000,0,1,0,0,,31935132
+2019,Japan Series,Yomiuri Giants,35,"Sakurai, Toshiki",P,1,1.000,0,1,0,0,,31935132
+2019,Regular Season,Yomiuri Giants,35,"Sakurai, Toshiki",P,29,1.000,2,15,0,0,,31935132
+2019,Regular Season,Hiroshima Toyo Carp,43,"Shimauchi, Sotaro",P,25,1.000,3,3,0,0,,31935138
+2019,Regular Season,Yokohama DeNA Baystars,63,"Sekine, Taiki",OF,26,1.000,9,0,0,0,,31935139
+2019,Regular Season,Orix Buffaloes,12,"Marrero, Chris",1B,27,0.990,190,13,2,18,,33035134
+2019,Regular Season,Tokyo Yakult Swallows,31,"Yamasaki, Kotaro",OF,65,0.989,86,1,1,1,,33135132
+2019,Regular Season,Fukuoka Softbank Hawks,68,"Mimori, Masaki",1B,9,1.000,38,1,0,3,,33135134
+2019,Regular Season,Fukuoka Softbank Hawks,68,"Mimori, Masaki",2B,13,0.959,19,28,2,5,,33135134
+2019,Regular Season,Tokyo Yakult Swallows,66,"Yoshida, Taisei",2B,2,1.000,1,1,0,1,,33135138
+2019,Regular Season,Tokyo Yakult Swallows,66,"Yoshida, Taisei",3B,9,1.000,7,9,0,3,,33135138
+2019,Regular Season,Tokyo Yakult Swallows,66,"Yoshida, Taisei",SS,1,1.000,2,2,0,0,,33135138
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,33,"Barbato, Johnny",P,15,0.750,3,3,2,0,,33335138
+2019,Climax Series - Final Stage,Hanshin Tigers,77,"Garcia, Onelki",P,2,1.000,0,1,0,0,,33535136
+2019,Climax Series - First Stage,Hanshin Tigers,77,"Garcia, Onelki",P,2,1.000,0,2,0,0,,33535136
+2019,Regular Season,Hanshin Tigers,77,"Garcia, Onelki",P,21,0.969,6,25,1,1,,33535136
+2019,Climax Series - Final Stage,Yomiuri Giants,42,"Mercedes, Cristopher Crisostomo",P,1,1.000,0,3,0,0,,33935134
+2019,Japan Series,Yomiuri Giants,42,"Mercedes, Cristopher Crisostomo",P,1,0.000,0,0,0,0,,33935134
+2019,Regular Season,Yomiuri Giants,42,"Mercedes, Cristopher Crisostomo",P,22,1.000,6,29,0,2,,33935134
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,12,"Takaya, Hiroaki",C,4,1.000,8,0,0,0,0,41045114
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,12,"Takaya, Hiroaki",C,2,1.000,9,0,0,0,0,41045114
+2019,Japan Series,Fukuoka Softbank Hawks,12,"Takaya, Hiroaki",C,4,1.000,7,2,0,0,0,41045114
+2019,Regular Season,Fukuoka Softbank Hawks,12,"Takaya, Hiroaki",C,55,1.000,152,11,0,1,0,41045114
+2019,Regular Season,Fukuoka Softbank Hawks,22,"Nishida, Tetsuro",SS,6,1.000,5,8,0,2,,41045131
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,4,"Taniguchi, Yuya",OF,14,0.929,13,0,1,0,,41045133
+2019,Regular Season,Tokyo Yakult Swallows,65,"Tashiro, Shotaro",OF,34,1.000,11,0,0,0,,41045135
+2019,Regular Season,Orix Buffaloes,29,"Tajima, Daiki",P,10,0.900,2,7,1,0,,41045136
+2019,Regular Season,Hanshin Tigers,19,"Fujinami, Shintaro",P,1,1.000,0,2,0,0,,41045137
+2019,Climax Series - Final Stage,Yomiuri Giants,68,"Togo, Shosei",P,1,0.000,0,0,0,0,,41045138
+2019,Japan Series,Yomiuri Giants,68,"Togo, Shosei",P,1,0.000,0,0,1,0,,41045138
+2019,Regular Season,Yomiuri Giants,68,"Togo, Shosei",P,2,1.000,0,1,0,0,,41045138
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,43,"Hakumura, Akihiro",OF,1,1.000,1,0,0,0,,41045139
+2019,Regular Season,Chunichi Dragons,9,"Ishikawa, Shun",1B,1,1.000,3,0,0,0,,41145130
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,44,"Adachi, Yuichi",C,1,1.000,11,0,0,0,0,41145132
+2019,Regular Season,Tohoku Rakuten Golden Eagles,44,"Adachi, Yuichi",C,21,0.989,83,7,1,1,1,41145132
+2019,Regular Season,Chunichi Dragons,32,"Ishigaki, Masami",OF,1,0.000,0,0,0,0,,41145134
+2019,Regular Season,Yokohama DeNA Baystars,4,"Itoh, Yukiya",2B,16,1.000,21,40,0,6,,41145138
+2019,Regular Season,Yokohama DeNA Baystars,4,"Itoh, Yukiya",3B,1,0.000,0,0,0,0,,41145138
+2019,Regular Season,Chiba Lotte Marines,12,"Ishikawa, Ayumu",P,27,1.000,8,18,0,2,,41145139
+2019,Climax Series - Final Stage,Saitama Seibu Lions,5,"Tonosaki, Shuta",2B,4,0.967,13,16,1,3,,41245130
+2019,Regular Season,Saitama Seibu Lions,5,"Tonosaki, Shuta",2B,142,0.983,361,456,14,97,,41245130
+2019,Regular Season,Saitama Seibu Lions,5,"Tonosaki, Shuta",OF,4,0.875,6,1,1,0,,41245130
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,10,"Tobashira, Yasutaka",C,1,1.000,10,1,0,0,0,41245132
+2019,Regular Season,Yokohama DeNA Baystars,10,"Tobashira, Yasutaka",C,42,0.996,239,27,1,4,2,41245132
+2019,Regular Season,Tokyo Yakult Swallows,30,"Nishida, Akihisa",1B,1,0.000,0,0,0,0,,41245133
+2019,Regular Season,Tokyo Yakult Swallows,30,"Nishida, Akihisa",C,15,0.984,51,9,1,1,1,41245133
+2019,Regular Season,Orix Buffaloes,98,"Cho, Yaku",P,8,1.000,0,4,0,0,,41245134
+2019,Regular Season,Chiba Lotte Marines,62,"Nagano, Shoji",P,5,1.000,0,2,0,0,,41245136
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,17,"Mishima, Kazuki",P,2,0.000,0,0,0,0,,41245137
+2019,Regular Season,Yokohama DeNA Baystars,17,"Mishima, Kazuki",P,71,1.000,2,14,0,0,,41245137
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,13,"Nabatame, Tsubasa",P,4,1.000,0,1,0,0,,41245138
+2019,Regular Season,Tohoku Rakuten Golden Eagles,60,"Furukawa, Yuri",P,8,1.000,1,3,0,1,,41245139
+2019,Regular Season,Yomiuri Giants,67,"Furukawa, Yuri",P,3,0.000,0,0,0,0,,41245139
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,19,"Kaneko, Chihiro",P,26,1.000,8,15,0,0,,41345110
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Ohta, Taishi",OF,130,0.989,253,5,3,1,,41345118
+2019,Regular Season,Chunichi Dragons,23,"Endoh, Issei",OF,94,0.985,62,2,1,0,,41345130
+2019,Regular Season,Chiba Lotte Marines,14,"Ohtani, Tomohisa",P,2,0.000,0,0,0,0,,41345131
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,20,"Uehara, Kenta",P,13,1.000,1,9,0,0,,41345132
+2019,Regular Season,Yokohama DeNA Baystars,33,"Otosaka, Tomo",OF,69,0.983,57,1,1,0,,41345135
+2019,Regular Season,Fukuoka Softbank Hawks,10,"Ohtake, Koutaro",P,17,1.000,8,22,0,1,,41345136
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,17,"Urano, Hiroshi",P,25,1.000,2,1,0,0,,41345139
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,25,"Miyanishi, Naoki",P,55,1.000,2,10,0,0,,41445116
+2019,Regular Season,Saitama Seibu Lions,23,"Noda, Shogo",P,23,1.000,1,5,0,0,,41445132
+2019,Regular Season,Hanshin Tigers,18,"Baba, Kosuke",P,2,0.000,0,0,0,0,,41445136
+2019,Regular Season,Chiba Lotte Marines,3,"Kakunaka, Katsuya",OF,101,0.994,170,3,1,1,,41545114
+2019,Regular Season,Hiroshima Toyo Carp,59,"Kikuchi, Yasunori",P,58,1.000,6,12,0,1,,41545116
+2019,Regular Season,Chunichi Dragons,52,"Katoh, Takuma",C,92,0.997,552,58,2,5,6,41545130
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,14,"Katoh, Takayuki",P,26,0.857,3,15,3,1,,41545132
+2019,Regular Season,Chunichi Dragons,98,"Kinoshita, Yusuke",P,5,1.000,0,2,0,0,,41545134
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,21,"Kiyomiya, Kotaro",1B,40,0.987,282,25,4,23,,41545136
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,21,"Kiyomiya, Kotaro",OF,16,1.000,25,0,0,0,,41545136
+2019,Regular Season,Chunichi Dragons,68,"Katsura, Iori",C,4,1.000,13,0,0,0,0,41545139
+2019,Regular Season,Chunichi Dragons,34,"Fuku, Hiroto",P,52,1.000,1,9,0,0,,41645132
+2019,Regular Season,Orix Buffaloes,24,"Miyazaki, Yuki",OF,9,1.000,4,0,0,0,,41645133
+2019,Regular Season,Chiba Lotte Marines,4,"Fujioka, Yudai",3B,1,0.000,0,0,0,0,,41645136
+2019,Regular Season,Chiba Lotte Marines,4,"Fujioka, Yudai",SS,81,0.980,134,201,7,41,,41645136
+2019,Regular Season,Chiba Lotte Marines,50,"Matsuda, Shin",3B,1,0.000,0,0,0,0,,41645138
+2019,Regular Season,Chiba Lotte Marines,50,"Matsuda, Shin",SS,1,1.000,2,0,0,0,,41645138
+2019,Regular Season,Orix Buffaloes,37,"Wakatsuki, Kenya",C,138,0.997,835,85,3,7,3,41645139
+2019,Climax Series - Final Stage,Saitama Seibu Lions,9,"Kimura, Fumikazu",OF,3,1.000,3,0,0,0,,41745114
+2019,Regular Season,Saitama Seibu Lions,9,"Kimura, Fumikazu",OF,128,0.985,193,9,3,0,,41745114
+2019,Regular Season,Hanshin Tigers,35,"Saiki, Hiroto",P,3,1.000,1,2,0,0,,41745134
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,8,"Kondoh, Kensuke",3B,30,0.905,22,35,6,0,,41745135
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,8,"Kondoh, Kensuke",OF,86,0.993,139,1,1,0,,41745135
+2019,Regular Season,Saitama Seibu Lions,19,"Saito, Hiromasa",P,9,1.000,0,2,0,0,,41745136
+2019,Japan Series,Yomiuri Giants,18,"Sugano, Tomoyuki",P,1,0.000,0,0,0,0,,41745137
+2019,Regular Season,Yomiuri Giants,18,"Sugano, Tomoyuki",P,22,0.944,3,14,1,0,,41745137
+2019,Regular Season,Tokyo Yakult Swallows,26,"Sakamoto, Koshiro",P,19,1.000,0,1,0,0,,41745138
+2019,Regular Season,Chunichi Dragons,19,"Yoshimi, Kazuki",P,5,1.000,2,6,0,0,,41845112
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,56,"Yoshikawa, Mitsuo",P,4,1.000,2,2,0,0,,41845114
+2019,Regular Season,Yomiuri Giants,47,"Yoshikawa, Mitsuo",P,9,1.000,1,1,0,1,,41845114
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,19,"Yamasaki, Yasuaki",P,2,1.000,0,1,0,0,,41845130
+2019,Regular Season,Yokohama DeNA Baystars,19,"Yamasaki, Yasuaki",P,61,0.917,4,7,1,1,,41845130
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,66,"Murabayashi, Itsuki",3B,1,0.000,0,0,0,0,,41845132
+2019,Regular Season,Tohoku Rakuten Golden Eagles,66,"Murabayashi, Itsuki",2B,1,1.000,0,2,0,0,,41845132
+2019,Regular Season,Tohoku Rakuten Golden Eagles,66,"Murabayashi, Itsuki",3B,11,1.000,2,1,0,1,,41845132
+2019,Regular Season,Tohoku Rakuten Golden Eagles,66,"Murabayashi, Itsuki",SS,39,0.974,16,22,1,2,,41845132
+2019,Regular Season,Tokyo Yakult Swallows,55,"Murakami, Munetaka",1B,124,0.995,949,60,5,92,,41845136
+2019,Regular Season,Tokyo Yakult Swallows,55,"Murakami, Munetaka",3B,28,0.857,18,42,10,3,,41845136
+2019,Regular Season,Saitama Seibu Lions,48,"Takekuma, Shota",P,10,1.000,1,5,0,2,,41945116
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,25,"Tsutsugo, Yoshitomo",OF,3,1.000,5,0,0,0,,41945131
+2019,Regular Season,Yokohama DeNA Baystars,25,"Tsutsugo, Yoshitomo",3B,27,0.981,14,37,1,2,,41945131
+2019,Regular Season,Yokohama DeNA Baystars,25,"Tsutsugo, Yoshitomo",OF,101,0.993,145,4,1,0,,41945131
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,31,"Shibata, Tatsuhiro",2B,3,1.000,10,8,0,1,,41945132
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,31,"Shibata, Tatsuhiro",SS,1,0.000,0,0,0,0,,41945132
+2019,Regular Season,Yokohama DeNA Baystars,31,"Shibata, Tatsuhiro",2B,89,0.994,71,104,1,17,,41945132
+2019,Regular Season,Yokohama DeNA Baystars,31,"Shibata, Tatsuhiro",3B,10,1.000,2,8,0,1,,41945132
+2019,Regular Season,Yokohama DeNA Baystars,31,"Shibata, Tatsuhiro",SS,21,0.984,20,40,1,8,,41945132
+2019,Regular Season,Chiba Lotte Marines,31,"Sugano, Tsuyoshi",OF,21,0.966,28,0,1,0,,41945136
+2019,Regular Season,Chiba Lotte Marines,22,"Tamura, Tatsuhiro",C,100,0.992,627,80,6,12,3,41945137
+2019,Climax Series - Final Stage,Yomiuri Giants,28,"Taguchi, Kazuto",P,2,1.000,1,1,0,0,,41945139
+2019,Japan Series,Yomiuri Giants,28,"Taguchi, Kazuto",P,2,0.000,0,0,0,0,,41945139
+2019,Regular Season,Yomiuri Giants,28,"Taguchi, Kazuto",P,55,0.929,2,11,1,0,,41945139
+2019,Regular Season,Saitama Seibu Lions,41,"Aiuchi, Makoto",P,2,1.000,1,0,0,0,,43145137
+2019,Regular Season,Chunichi Dragons,42,"Almonte, Zoilo",OF,43,1.000,61,0,0,0,,43345136
+2019,Regular Season,Tokyo Yakult Swallows,37,"Mcgough, Scott",P,65,0.857,10,8,3,0,,43345138
+2019,Climax Series - Final Stage,Yomiuri Giants,44,"Guerrero, Alex",OF,3,1.000,6,0,0,0,,43545134
+2019,Japan Series,Yomiuri Giants,44,"Guerrero, Alex",OF,3,1.000,6,0,0,0,,43545134
+2019,Regular Season,Yomiuri Giants,44,"Guerrero, Alex",OF,89,0.991,105,3,1,0,,43545134
+2019,Regular Season,Tokyo Yakult Swallows,28,"Buchanan, David",P,18,0.933,6,8,1,0,,43745134
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,41,"Rodriguez, Bryan",P,34,0.947,3,15,1,0,,43745136
+2019,Regular Season,Hiroshima Toyo Carp,96,"Mejia, Alejandro",1B,16,1.000,63,6,0,3,,43945132
+2019,Regular Season,Hiroshima Toyo Carp,96,"Mejia, Alejandro",3B,41,0.929,18,60,6,8,,43945132
+2019,Regular Season,Fukuoka Softbank Hawks,11,"Nakata, Kenichi",P,1,1.000,0,1,0,0,,51055110
+2019,Regular Season,Tokyo Yakult Swallows,54,"Nakazawa, Masato",P,1,0.000,0,0,0,0,,51055131
+2019,Regular Season,Tokyo Yakult Swallows,47,"Takahashi, Keiji",P,20,0.882,3,12,2,2,,51055132
+2019,Climax Series - Final Stage,Hanshin Tigers,69,"Shimamoto, Hiroya",P,2,0.000,0,0,0,0,,51055133
+2019,Climax Series - First Stage,Hanshin Tigers,69,"Shimamoto, Hiroya",P,2,0.000,0,0,0,0,,51055133
+2019,Regular Season,Hanshin Tigers,69,"Shimamoto, Hiroya",P,63,0.889,2,6,1,1,,51055133
+2019,Regular Season,Orix Buffaloes,22,"Takajoh, Shuto",C,5,1.000,29,5,0,1,0,51055135
+2019,Regular Season,Fukuoka Softbank Hawks,56,"Taura, Fumimaru",P,8,0.000,0,0,0,0,,51055136
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,14,"Norimoto, Takahiro",P,1,1.000,0,1,0,0,,51055137
+2019,Regular Season,Tohoku Rakuten Golden Eagles,14,"Norimoto, Takahiro",P,12,0.917,1,10,1,2,,51055137
+2019,Regular Season,Hiroshima Toyo Carp,38,"Akamatsu, Masato",OF,1,0.000,0,0,0,0,,51155110
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,3,"Asamura, Hideto",2B,3,1.000,4,1,0,0,,51155118
+2019,Regular Season,Tohoku Rakuten Golden Eagles,3,"Asamura, Hideto",1B,3,1.000,3,0,0,0,,51155118
+2019,Regular Season,Tohoku Rakuten Golden Eagles,3,"Asamura, Hideto",2B,136,0.989,285,365,7,67,,51155118
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,8,"Akashi, Kenji",1B,3,1.000,4,0,0,0,,51155119
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,8,"Akashi, Kenji",1B,1,0.000,0,0,0,0,,51155119
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,8,"Akashi, Kenji",2B,2,1.000,9,4,0,2,,51155119
+2019,Japan Series,Fukuoka Softbank Hawks,8,"Akashi, Kenji",1B,1,1.000,3,0,0,0,,51155119
+2019,Japan Series,Fukuoka Softbank Hawks,8,"Akashi, Kenji",2B,1,1.000,0,1,0,0,,51155119
+2019,Regular Season,Fukuoka Softbank Hawks,8,"Akashi, Kenji",1B,18,1.000,72,4,0,7,,51155119
+2019,Regular Season,Fukuoka Softbank Hawks,8,"Akashi, Kenji",2B,78,0.987,135,162,4,26,,51155119
+2019,Regular Season,Fukuoka Softbank Hawks,8,"Akashi, Kenji",OF,5,1.000,5,1,0,1,,51155119
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,16,"Arihara, Kohei",P,24,0.977,16,27,1,3,,51155130
+2019,Regular Season,Hanshin Tigers,46,"Akiyama, Takumi",P,10,1.000,4,8,0,0,,51155131
+2019,Regular Season,Chiba Lotte Marines,36,"Ariyoshi, Yuki",P,2,1.000,0,3,0,0,,51155134
+2019,Regular Season,Yokohama DeNA Baystars,11,"Azuma, Katsuki",P,7,1.000,1,9,0,1,,51155136
+2019,Regular Season,Orix Buffaloes,15,"Aranishi, Yudai",P,13,0.857,0,6,1,1,,51155138
+2019,Regular Season,Tokyo Yakult Swallows,52,"Nakamura, Yuhei",C,123,0.995,804,77,4,13,4,51255118
+2019,Regular Season,Hanshin Tigers,68,"Fujikawa, Shunsuke",OF,3,0.000,0,0,0,0,,51255131
+2019,Regular Season,Saitama Seibu Lions,18,"Tawata, Shinsaburo",P,12,1.000,5,13,0,0,,51255132
+2019,Climax Series - First Stage,Hanshin Tigers,60,"Nakatani, Masahiro",OF,2,1.000,2,0,0,0,,51255133
+2019,Regular Season,Hanshin Tigers,60,"Nakatani, Masahiro",1B,16,0.976,74,7,2,9,,51255133
+2019,Regular Season,Hanshin Tigers,60,"Nakatani, Masahiro",OF,44,0.981,52,0,1,0,,51255133
+2019,Regular Season,Fukuoka Softbank Hawks,64,"Masago, Yusuke",OF,10,1.000,11,1,0,1,,51255137
+2019,Regular Season,Orix Buffaloes,67,"Nakagawa, Keita",1B,41,1.000,250,22,0,20,,51255138
+2019,Regular Season,Orix Buffaloes,67,"Nakagawa, Keita",3B,33,1.000,17,34,0,4,,51255138
+2019,Regular Season,Orix Buffaloes,67,"Nakagawa, Keita",OF,50,1.000,64,0,0,0,,51255138
+2019,Regular Season,Yokohama DeNA Baystars,34,"Hirata, Shingo",P,8,0.000,0,0,0,0,,51255139
+2019,Regular Season,Hanshin Tigers,21,"Iwata, Minoru",P,14,0.967,7,22,1,3,,51355112
+2019,Regular Season,Hiroshima Toyo Carp,31,"Ishihara, Yoshiyuki",C,31,0.989,154,20,2,2,0,51355115
+2019,Regular Season,Hiroshima Toyo Carp,16,"Imamura, Takeru",P,27,1.000,0,2,0,0,,51355131
+2019,Regular Season,Tokyo Yakult Swallows,38,"Umeno, Yugo",P,68,0.941,4,12,1,0,,51355134
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,15,"Uwasawa, Naoyuki",P,11,0.857,2,4,1,0,,51355135
+2019,Climax Series - Final Stage,Hanshin Tigers,17,"Iwasada, Yuta",P,2,0.000,0,0,0,0,,51355139
+2019,Regular Season,Hanshin Tigers,17,"Iwasada, Yuta",P,8,1.000,1,7,0,0,,51355139
+2019,Regular Season,Chunichi Dragons,4,"Fujii, Atsushi",OF,34,1.000,49,1,0,0,,51455112
+2019,Regular Season,Tohoku Rakuten Golden Eagles,49,"Hashimoto, Itaru",OF,7,1.000,2,0,0,0,,51455118
+2019,Regular Season,Chiba Lotte Marines,8,"Nakamura, Shogo",2B,140,0.988,299,438,9,86,,51455130
+2019,Regular Season,Chunichi Dragons,38,"Matsui, Masato",C,18,1.000,78,10,0,1,0,51455131
+2019,Regular Season,Orix Buffaloes,33,"Matsui, Masato",C,23,1.000,98,7,0,3,0,51455131
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,51,"Miyazaki, Toshiro",3B,3,1.000,4,5,0,0,,51455137
+2019,Regular Season,Yokohama DeNA Baystars,51,"Miyazaki, Toshiro",3B,113,0.979,55,181,5,14,,51455137
+2019,Regular Season,Chiba Lotte Marines,37,"Miki, Ryo",1B,1,1.000,4,0,0,1,,51455139
+2019,Regular Season,Chiba Lotte Marines,37,"Miki, Ryo",2B,10,0.955,12,9,1,2,,51455139
+2019,Regular Season,Chiba Lotte Marines,37,"Miki, Ryo",3B,24,1.000,1,8,0,0,,51455139
+2019,Regular Season,Chiba Lotte Marines,37,"Miki, Ryo",SS,56,0.986,52,87,2,17,,51455139
+2019,Regular Season,Tohoku Rakuten Golden Eagles,28,"Ono, Fumiya",P,13,1.000,1,4,0,0,,51555130
+2019,Climax Series - Final Stage,Saitama Seibu Lions,44,"Ogawa, Ryuya",P,3,0.000,0,0,0,0,,51555131
+2019,Regular Season,Saitama Seibu Lions,44,"Ogawa, Ryuya",P,55,0.875,1,6,1,0,,51555131
+2019,Regular Season,Yomiuri Giants,2,"Katoh, Shuhei",OF,4,1.000,1,0,0,0,,51555134
+2019,Regular Season,Fukuoka Softbank Hawks,60,"Kamamoto, Go",OF,78,1.000,77,2,0,0,,51555135
+2019,Japan Series,Yomiuri Giants,32,"Kagiya, Yohei",P,1,0.000,0,0,0,0,,51555137
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,30,"Kagiya, Yohei",P,18,1.000,1,4,0,0,,51555137
+2019,Regular Season,Yomiuri Giants,32,"Kagiya, Yohei",P,27,1.000,1,2,0,0,,51555137
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,20,"Kaino, Hiroshi",P,3,1.000,0,1,0,0,,51555138
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,20,"Kaino, Hiroshi",P,2,1.000,1,0,0,0,,51555138
+2019,Japan Series,Fukuoka Softbank Hawks,20,"Kaino, Hiroshi",P,3,1.000,0,1,0,0,,51555138
+2019,Regular Season,Fukuoka Softbank Hawks,20,"Kaino, Hiroshi",P,65,1.000,3,11,0,1,,51555138
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",3B,4,1.000,2,4,0,0,,51655112
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",3B,1,1.000,0,1,0,0,,51655112
+2019,Japan Series,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",3B,4,1.000,4,7,0,1,,51655112
+2019,Regular Season,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",3B,143,0.963,101,207,12,16,,51655112
+2019,Regular Season,Hiroshima Toyo Carp,41,"Fujii, Kouya",P,4,1.000,0,1,0,0,,51655130
+2019,Regular Season,Chunichi Dragons,37,"Mitsumata, Taiki",2B,6,1.000,6,20,0,5,,51655133
+2019,Regular Season,Chunichi Dragons,37,"Mitsumata, Taiki",3B,1,1.000,0,2,0,0,,51655133
+2019,Regular Season,Chunichi Dragons,37,"Mitsumata, Taiki",SS,1,1.000,0,1,0,0,,51655133
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,26,"Hamaguchi, Haruhiro",P,1,1.000,0,2,0,0,,51655134
+2019,Regular Season,Yokohama DeNA Baystars,26,"Hamaguchi, Haruhiro",P,17,0.938,0,15,1,2,,51655134
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,90,"Sanematsu, Kazunari",C,5,1.000,4,1,0,0,0,51753888
+2019,Regular Season,Orix Buffaloes,18,"Kishida, Mamoru",P,1,0.000,0,0,0,0,,51755112
+2019,Climax Series - Final Stage,Saitama Seibu Lions,1,"Kuriyama, Takumi",OF,3,1.000,3,0,0,0,,51755115
+2019,Regular Season,Saitama Seibu Lions,1,"Kuriyama, Takumi",OF,17,1.000,19,2,0,0,,51755115
+2019,Regular Season,Hiroshima Toyo Carp,4,"Kokubo, Tetsuya",1B,4,1.000,5,0,0,1,,51755116
+2019,Regular Season,Hiroshima Toyo Carp,4,"Kokubo, Tetsuya",2B,1,1.000,2,3,0,1,,51755116
+2019,Regular Season,Hiroshima Toyo Carp,4,"Kokubo, Tetsuya",3B,42,0.968,21,40,2,6,,51755116
+2019,Regular Season,Tohoku Rakuten Golden Eagles,59,"Kumabara, Kento",P,1,1.000,1,1,0,0,,51755132
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,1,"Kuwahara, Masayuki",OF,1,0.000,0,0,0,0,,51755135
+2019,Regular Season,Yokohama DeNA Baystars,1,"Kuwahara, Masayuki",OF,57,0.980,47,1,1,0,,51755135
+2019,Regular Season,Orix Buffaloes,30,"Suzuki, Kohei",P,19,1.000,5,10,0,2,,51755136
+2019,Regular Season,Orix Buffaloes,53,"Gibo, Sho",2B,1,1.000,0,5,0,1,,51755138
+2019,Regular Season,Orix Buffaloes,53,"Gibo, Sho",SS,8,0.951,12,27,2,6,,51755138
+2019,Climax Series - Final Stage,Yomiuri Giants,11,"Yamaguchi, Shun",P,1,0.000,0,0,0,0,,51855112
+2019,Japan Series,Yomiuri Giants,11,"Yamaguchi, Shun",P,1,1.000,0,1,0,0,,51855112
+2019,Regular Season,Yomiuri Giants,11,"Yamaguchi, Shun",P,26,0.957,1,21,1,0,,51855112
+2019,Climax Series - Final Stage,Hanshin Tigers,43,"Moriya, Kouki",P,2,0.000,0,0,0,0,,51855130
+2019,Climax Series - First Stage,Hanshin Tigers,43,"Moriya, Kouki",P,2,0.000,0,0,0,0,,51855130
+2019,Regular Season,Hanshin Tigers,43,"Moriya, Kouki",P,57,0.917,4,7,1,2,,51855130
+2019,Climax Series - Final Stage,Yomiuri Giants,63,"Masuda, Daiki",2B,1,1.000,0,2,0,0,,51855132
+2019,Regular Season,Yomiuri Giants,63,"Masuda, Daiki",2B,21,0.971,27,41,2,6,,51855132
+2019,Regular Season,Yomiuri Giants,63,"Masuda, Daiki",3B,22,1.000,3,8,0,0,,51855132
+2019,Regular Season,Yomiuri Giants,63,"Masuda, Daiki",OF,4,1.000,1,0,0,0,,51855132
+2019,Regular Season,Yomiuri Giants,63,"Masuda, Daiki",SS,24,0.958,9,14,1,5,,51855132
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,34,"Hori, Mizuki",P,53,1.000,1,10,0,0,,51855134
+2019,Regular Season,Tokyo Yakult Swallows,32,"Matsumoto, Naoki",C,29,1.000,158,12,0,0,0,51855136
+2019,Regular Season,Orix Buffaloes,32,"Dickson, Brandon",P,37,1.000,3,3,0,0,,51855137
+2019,Climax Series - Final Stage,Yomiuri Giants,6,"Sakamoto, Hayato",SS,4,1.000,6,7,0,2,,51955114
+2019,Japan Series,Yomiuri Giants,6,"Sakamoto, Hayato",SS,4,1.000,4,10,0,0,,51955114
+2019,Regular Season,Yomiuri Giants,6,"Sakamoto, Hayato",SS,141,0.979,199,354,12,74,,51955114
+2019,Regular Season,Yomiuri Giants,6,"Sakamoto, Koki",P,2,1.000,0,1,0,0,,51955134
+2019,Regular Season,Fukuoka Softbank Hawks,34,"Shiino, Arata",P,36,1.000,2,6,0,0,,51955136
+2019,Regular Season,Hiroshima Toyo Carp,50,"Takahashi, Hiroki",OF,14,1.000,15,0,0,0,,51955137
+2019,Regular Season,Tokyo Yakult Swallows,17,"Shimizu, Noboru",P,11,1.000,1,4,0,0,,51955138
+2019,Regular Season,Hiroshima Toyo Carp,00,"Sone, Kaisei",2B,10,1.000,5,8,0,1,,51955139
+2019,Regular Season,Hiroshima Toyo Carp,00,"Sone, Kaisei",3B,28,1.000,6,4,0,0,,51955139
+2019,Regular Season,Hiroshima Toyo Carp,00,"Sone, Kaisei",OF,13,1.000,4,0,0,0,,51955139
+2019,Regular Season,Hiroshima Toyo Carp,00,"Sone, Kaisei",SS,2,1.000,1,3,0,1,,51955139
+2019,Regular Season,Hiroshima Toyo Carp,47,"Yamaguchi, Sho",P,9,1.000,0,7,0,0,,53155136
+2019,Regular Season,Hiroshima Toyo Carp,42,"Johnson, Kris",P,27,0.950,9,29,2,1,,53355130
+2019,Regular Season,Orix Buffaloes,43,"Yamamoto, Yoshinobu",P,20,1.000,8,23,0,4,,53355134
+2019,Regular Season,Chiba Lotte Marines,42,"Vargas, Kennys",1B,2,1.000,3,1,0,0,,53355138
+2019,Japan Series,Fukuoka Softbank Hawks,90,"Suarez, Robert",P,1,0.000,0,0,0,0,,53555132
+2019,Regular Season,Fukuoka Softbank Hawks,90,"Suarez, Robert",P,9,0.778,2,5,2,0,,53555132
+2019,Regular Season,Chiba Lotte Marines,00,"Ravin, Josh",P,2,0.000,0,0,0,0,,53555138
+2019,Regular Season,Chunichi Dragons,44,"Moya, Steven",OF,6,1.000,6,0,0,0,,53755136
+2019,Regular Season,Orix Buffaloes,1,"Moya, Steven",1B,56,0.989,413,25,5,41,,53755136
+2019,Regular Season,Orix Buffaloes,1,"Moya, Steven",OF,1,1.000,2,0,0,0,,53755136
+2019,Regular Season,Hiroshima Toyo Carp,97,"Franzua, Geronimo",P,67,0.895,4,13,2,0,,53955136
+2019,Climax Series - Final Stage,Hanshin Tigers,14,"Nohmi, Atsushi",P,1,0.000,0,0,0,0,,61065110
+2019,Climax Series - First Stage,Hanshin Tigers,14,"Nohmi, Atsushi",P,1,0.000,0,0,0,0,,61065110
+2019,Regular Season,Hanshin Tigers,14,"Nohmi, Atsushi",P,51,1.000,4,8,0,0,,61065110
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,6,"Nakata, Sho",1B,100,0.995,865,71,5,66,,61065116
+2019,Regular Season,Chunichi Dragons,39,"Takeyama, Shingo",C,29,1.000,104,10,0,1,0,61065117
+2019,Regular Season,Hanshin Tigers,94,"Haraguchi, Fumihito",1B,5,0.981,48,3,1,4,,61065131
+2019,Regular Season,Hanshin Tigers,94,"Haraguchi, Fumihito",C,17,1.000,70,11,0,1,1,61065131
+2019,Regular Season,Yomiuri Giants,37,"Tahara, Seiji",P,25,1.000,0,3,0,1,,61065135
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,46,"Tanaka, Eito",P,1,1.000,0,1,0,0,,61065136
+2019,Regular Season,Orix Buffaloes,23,"Fushimi, Torai",C,30,0.989,75,13,1,1,0,61065137
+2019,Regular Season,Orix Buffaloes,28,"Tomiyama, Ryoga",P,1,0.000,0,0,0,0,,61065138
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,51,"Ishikawa, Naoya",P,60,1.000,2,5,0,0,,61165130
+2019,Regular Season,Chunichi Dragons,5,"Abe, Toshiki",1B,12,1.000,34,1,0,5,,61165132
+2019,Regular Season,Chunichi Dragons,5,"Abe, Toshiki",2B,117,0.995,242,306,3,66,,61165132
+2019,Regular Season,Chunichi Dragons,5,"Abe, Toshiki",3B,1,0.000,0,0,0,0,,61165132
+2019,Regular Season,Tohoku Rakuten Golden Eagles,70,"Ishihara, Tsuyoshi",C,4,1.000,20,2,0,1,0,61165134
+2019,Regular Season,Yokohama DeNA Baystars,15,"Inoh, Shoichi",P,15,1.000,3,8,0,0,,61165137
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,29,"Ishikawa, Shuta",P,2,1.000,0,1,0,0,,61165139
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,29,"Ishikawa, Shuta",P,1,0.000,0,0,0,0,,61165139
+2019,Japan Series,Fukuoka Softbank Hawks,29,"Ishikawa, Shuta",P,1,1.000,0,2,0,0,,61165139
+2019,Regular Season,Fukuoka Softbank Hawks,29,"Ishikawa, Shuta",P,2,0.000,0,0,0,0,,61165139
+2019,Regular Season,Chunichi Dragons,6,"Hirata, Ryosuke",OF,94,0.987,147,5,2,2,,61265112
+2019,Regular Season,Fukuoka Softbank Hawks,13,"Niho, Akira",P,8,1.000,3,9,0,0,,61265118
+2019,Regular Season,Saitama Seibu Lions,0,"Mizuguchi, Daichi",2B,3,1.000,2,3,0,2,,61265137
+2019,Regular Season,Saitama Seibu Lions,0,"Mizuguchi, Daichi",3B,3,0.900,1,8,1,0,,61265137
+2019,Regular Season,Chunichi Dragons,16,"Matayoshi, Katsuki",P,26,1.000,2,11,0,3,,61265139
+2019,Regular Season,Orix Buffaloes,55,"Okada, Takahiro",1B,12,0.980,90,6,2,6,,61365112
+2019,Regular Season,Chunichi Dragons,27,"Ohno, Shota",C,33,0.993,132,12,1,0,1,61365118
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,30,"Usami, Shingo",C,40,0.995,161,33,1,2,1,61365132
+2019,Regular Season,Yomiuri Giants,32,"Usami, Shingo",C,3,0.900,9,0,1,0,0,61365132
+2019,Regular Season,Chiba Lotte Marines,53,"Emura, Naoya",C,23,1.000,99,8,0,1,0,61365133
+2019,Regular Season,Hanshin Tigers,27,"Onaka, Yuya",P,5,1.000,0,2,0,2,,61365134
+2019,Regular Season,Orix Buffaloes,47,"Kaida, Tomoyuki",P,55,1.000,1,9,0,0,,61365135
+2019,Regular Season,Fukuoka Softbank Hawks,61,"Okumura, Masato",P,12,1.000,1,1,0,0,,61365138
+2019,Regular Season,Hiroshima Toyo Carp,14,"Ohsera, Daichi",P,26,1.000,6,30,0,0,,61365139
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,9,"Yamato, Maeda",SS,3,0.917,5,6,1,1,,61465112
+2019,Regular Season,Yokohama DeNA Baystars,9,"Yamato, Maeda",SS,135,0.981,189,371,11,70,,61465112
+2019,Regular Season,Orix Buffaloes,57,"Yamada, Nobuyoshi",P,40,1.000,4,11,0,1,,61465131
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,36,"Makihara, Taisei",2B,4,0.963,11,15,1,0,,61465133
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,36,"Makihara, Taisei",OF,1,0.000,0,0,0,0,,61465133
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,36,"Makihara, Taisei",2B,1,1.000,2,1,0,0,,61465133
+2019,Japan Series,Fukuoka Softbank Hawks,36,"Makihara, Taisei",2B,4,1.000,6,6,0,1,,61465133
+2019,Regular Season,Fukuoka Softbank Hawks,36,"Makihara, Taisei",2B,59,0.987,100,134,3,23,,61465133
+2019,Regular Season,Fukuoka Softbank Hawks,36,"Makihara, Taisei",OF,65,1.000,86,2,0,0,,61465133
+2019,Regular Season,Fukuoka Softbank Hawks,36,"Makihara, Taisei",SS,21,0.957,25,41,3,9,,61465133
+2019,Regular Season,Tokyo Yakult Swallows,58,"Yagi, Shogo",P,1,0.000,0,0,0,0,,61465137
+2019,Regular Season,Orix Buffaloes,60,"Hidarisawa, Yu",P,4,1.000,0,2,0,0,,61465138
+2019,Regular Season,Yokohama DeNA Baystars,3,"Kajitani, Takayuki",OF,27,1.000,41,2,0,1,,61565114
+2019,Regular Season,Hiroshima Toyo Carp,33,"Kikuchi, Ryosuke",2B,138,0.985,272,387,10,80,,61565135
+2019,Regular Season,Yokohama DeNA Baystars,37,"Kusumoto, Taishi",OF,21,1.000,19,0,0,0,,61565136
+2019,Regular Season,Yomiuri Giants,13,"Morifuku, Masahiko",P,7,0.000,0,0,0,0,,61665114
+2019,Regular Season,Fukuoka Softbank Hawks,66,"Matsumoto, Yuki",P,7,0.778,1,6,2,0,,61665130
+2019,Regular Season,Yokohama DeNA Baystars,58,"Mutoh, Yuta",P,31,1.000,3,2,0,0,,61665133
+2019,Regular Season,Tohoku Rakuten Golden Eagles,19,"Fujihira, Shoma",P,3,0.000,0,0,0,0,,61665134
+2019,Regular Season,Tohoku Rakuten Golden Eagles,54,"Wada, Ren",1B,15,0.989,86,5,1,5,,61665139
+2019,Regular Season,Tohoku Rakuten Golden Eagles,54,"Wada, Ren",OF,16,1.000,18,0,0,0,,61665139
+2019,Regular Season,Chiba Lotte Marines,23,"Sakai, Tomohito",P,54,1.000,2,5,0,0,,61765134
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,57,"Sugiura, Toshihiro",P,14,1.000,1,2,0,0,,61765139
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,5,"Mogi, Eigoro",SS,3,1.000,7,4,0,0,,61865132
+2019,Regular Season,Tohoku Rakuten Golden Eagles,5,"Mogi, Eigoro",3B,48,1.000,9,35,0,0,,61865132
+2019,Regular Season,Tohoku Rakuten Golden Eagles,5,"Mogi, Eigoro",SS,122,0.978,171,323,11,55,,61865132
+2019,Regular Season,Tohoku Rakuten Golden Eagles,23,"Yuge, Hayato",P,8,0.889,1,7,1,2,,61865138
+2019,Climax Series - Final Stage,Hanshin Tigers,8,"Fukudome, Kosuke",OF,4,1.000,7,0,0,0,,61963888
+2019,Climax Series - First Stage,Hanshin Tigers,8,"Fukudome, Kosuke",OF,3,1.000,4,0,0,0,,61963888
+2019,Regular Season,Hanshin Tigers,8,"Fukudome, Kosuke",OF,98,0.984,122,2,2,1,,61963888
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,10,"Shimizu, Yushi",C,95,0.987,491,56,7,2,3,61965130
+2019,Regular Season,Hiroshima Toyo Carp,7,"Dohbayashi, Shota",1B,11,1.000,46,4,0,4,,61965131
+2019,Regular Season,Hiroshima Toyo Carp,7,"Dohbayashi, Shota",3B,3,0.800,3,1,1,0,,61965131
+2019,Regular Season,Orix Buffaloes,99,"Sugimoto, Yutaro",OF,15,0.950,19,0,1,0,,61965132
+2019,Regular Season,Yokohama DeNA Baystars,43,"Shindoh, Takuya",P,5,1.000,2,1,0,0,,61965134
+2019,Regular Season,Chunichi Dragons,46,"Suzuki, Hiroshi",P,25,1.000,1,4,0,0,,61965136
+2019,Climax Series - Final Stage,Yomiuri Giants,12,"Takahashi, Yuki",P,1,0.000,0,0,0,0,,61965138
+2019,Japan Series,Yomiuri Giants,12,"Takahashi, Yuki",P,1,0.000,0,0,0,0,,61965138
+2019,Regular Season,Yomiuri Giants,12,"Takahashi, Yuki",P,18,1.000,6,13,0,2,,61965138
+2019,Regular Season,Hiroshima Toyo Carp,2,"Tanaka, Kosuke",SS,96,0.975,116,241,9,52,,61965139
+2019,Regular Season,Saitama Seibu Lions,69,"Kuo, Junrin",P,2,1.000,0,1,0,0,,63165130
+2019,Regular Season,Orix Buffaloes,34,"Yoshida, Masataka",OF,98,0.987,149,5,2,0,,63165132
+2019,Regular Season,Chunichi Dragons,17,"Yanagi, Yuya",P,26,0.974,10,27,1,1,,63165134
+2019,Japan Series,Yomiuri Giants,20,"Mathieson, Scott",P,1,1.000,0,1,0,0,,63165135
+2019,Regular Season,Yomiuri Giants,20,"Mathieson, Scott",P,28,1.000,1,2,0,0,,63165135
+2019,Regular Season,Hanshin Tigers,52,"Johnson, Pierce",P,58,0.833,0,5,1,0,,63165138
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,62,"Escobar, Edwin",P,3,1.000,0,2,0,0,,63365134
+2019,Regular Season,Yokohama DeNA Baystars,62,"Escobar, Edwin",P,74,0.824,4,10,3,0,,63365134
+2019,Climax Series - Final Stage,Hanshin Tigers,31,"Marte, Jefry",1B,4,1.000,28,6,0,4,,63365138
+2019,Climax Series - First Stage,Hanshin Tigers,31,"Marte, Jefry",1B,3,1.000,25,0,0,1,,63365138
+2019,Regular Season,Hanshin Tigers,31,"Marte, Jefry",1B,103,0.993,893,62,7,78,,63365138
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,35,"Moinelo, Livan",P,3,0.000,0,0,0,0,,63965134
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,35,"Moinelo, Livan",P,3,1.000,0,3,0,0,,63965134
+2019,Japan Series,Fukuoka Softbank Hawks,35,"Moinelo, Livan",P,3,0.000,0,0,0,0,,63965134
+2019,Regular Season,Fukuoka Softbank Hawks,35,"Moinelo, Livan",P,60,1.000,1,8,0,0,,63965134
+2019,Regular Season,Fukuoka Softbank Hawks,19,"Miranda, Ariel",P,18,0.800,3,13,4,0,,63965136
+2019,Climax Series - Final Stage,Hanshin Tigers,22,"Fujikawa, Kyuji",P,2,1.000,1,0,0,0,,71073888
+2019,Climax Series - First Stage,Hanshin Tigers,22,"Fujikawa, Kyuji",P,2,1.000,0,1,0,0,,71073888
+2019,Regular Season,Hanshin Tigers,22,"Fujikawa, Kyuji",P,56,1.000,1,5,0,1,,71073888
+2019,Regular Season,Saitama Seibu Lions,13,"Takahashi, Kona",P,21,0.949,9,28,2,5,,71075130
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,47,"Takahashi, Jumpei",P,3,1.000,0,1,0,0,,71075132
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,47,"Takahashi, Jumpei",P,2,1.000,0,1,0,0,,71075132
+2019,Japan Series,Fukuoka Softbank Hawks,47,"Takahashi, Jumpei",P,1,0.000,0,0,0,0,,71075132
+2019,Regular Season,Fukuoka Softbank Hawks,47,"Takahashi, Jumpei",P,45,1.000,0,8,0,0,,71075132
+2019,Regular Season,Yomiuri Giants,53,"Takata, Hosei",P,2,0.000,0,0,0,0,,71075134
+2019,Climax Series - Final Stage,Hanshin Tigers,5,"Chikamoto, Koji",OF,4,1.000,15,0,0,0,,71075138
+2019,Climax Series - First Stage,Hanshin Tigers,5,"Chikamoto, Koji",OF,3,1.000,8,0,0,0,,71075138
+2019,Regular Season,Hanshin Tigers,5,"Chikamoto, Koji",OF,141,0.984,230,10,4,1,,71075138
+2019,Regular Season,Hiroshima Toyo Carp,67,"Nakamura, Yuta",P,2,0.000,0,0,0,0,,71075139
+2019,Regular Season,Chiba Lotte Marines,60,"Abe, Kazunari",P,4,1.000,0,1,0,0,,71175116
+2019,Regular Season,Tohoku Rakuten Golden Eagles,20,"Anraku, Tomohiro",P,9,1.000,1,5,0,0,,71175130
+2019,Climax Series - Final Stage,Hanshin Tigers,50,"Aoyagi, Koyo",P,1,1.000,0,1,0,0,,71175132
+2019,Climax Series - First Stage,Hanshin Tigers,50,"Aoyagi, Koyo",P,1,1.000,0,1,0,0,,71175132
+2019,Regular Season,Hanshin Tigers,50,"Aoyagi, Koyo",P,25,0.889,6,18,3,2,,71175132
+2019,Regular Season,Orix Buffaloes,45,"Iida, Daisuke",C,8,1.000,34,5,0,0,0,71175134
+2019,Regular Season,Saitama Seibu Lions,26,"Awatsu, Kaito",P,1,1.000,0,1,0,1,,71175138
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,22,"Tsuruoka, Shinya",C,33,0.989,158,16,2,3,2,71275117
+2019,Climax Series - Final Stage,Hanshin Tigers,16,"Nishi, Yuki",P,1,1.000,0,3,0,0,,71275118
+2019,Climax Series - First Stage,Hanshin Tigers,16,"Nishi, Yuki",P,1,0.000,0,0,0,0,,71275118
+2019,Regular Season,Hanshin Tigers,16,"Nishi, Yuki",P,26,1.000,9,34,0,4,,71275118
+2019,Regular Season,Chiba Lotte Marines,63,"Taneichi, Atsuki",P,26,0.923,1,11,1,1,,71275134
+2019,Regular Season,Tohoku Rakuten Golden Eagles,68,"Teraoka, Kanji",P,1,1.000,0,1,0,0,,71275136
+2019,Climax Series - Final Stage,Saitama Seibu Lions,14,"Masuda, Tatsushi",P,2,1.000,0,1,0,0,,71275137
+2019,Regular Season,Saitama Seibu Lions,14,"Masuda, Tatsushi",P,65,1.000,3,6,0,0,,71275137
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,33,"Akaminai, Ginji",1B,3,1.000,13,0,0,0,,71375112
+2019,Regular Season,Tohoku Rakuten Golden Eagles,33,"Akaminai, Ginji",1B,134,0.998,1138,66,3,85,,71375112
+2019,Regular Season,Tohoku Rakuten Golden Eagles,33,"Akaminai, Ginji",2B,4,0.909,5,5,1,1,,71375112
+2019,Regular Season,Tohoku Rakuten Golden Eagles,33,"Akaminai, Ginji",3B,9,1.000,7,18,0,1,,71375112
+2019,Regular Season,Tohoku Rakuten Golden Eagles,33,"Akaminai, Ginji",C,1,1.000,4,1,0,0,0,71375112
+2019,Regular Season,Tokyo Yakult Swallows,50,"Ueda, Tsuyoshi",OF,42,1.000,22,1,0,0,,71375114
+2019,Regular Season,Chunichi Dragons,26,"Iryo, Masataka",OF,26,1.000,27,1,0,0,,71375130
+2019,Regular Season,Tohoku Rakuten Golden Eagles,94,"Ishibashi, Ryota",P,28,0.968,9,21,1,1,,71375132
+2019,Regular Season,Orix Buffaloes,91,"Iwamoto, Akira",P,9,1.000,1,2,0,0,,71375133
+2019,Regular Season,Yomiuri Giants,64,"Ohe, Ryusei",P,8,1.000,0,4,0,0,,71375134
+2019,Regular Season,Hiroshima Toyo Carp,66,"Endoh, Atsushi",P,34,1.000,1,5,0,0,,71375136
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,2,"Ohta, Hikaru",C,3,1.000,8,1,0,0,0,71375138
+2019,Regular Season,Tohoku Rakuten Golden Eagles,2,"Ohta, Hikaru",C,53,0.990,261,31,3,3,2,71375138
+2019,Regular Season,Yokohama DeNA Baystars,68,"Fujioka, Yoshiaki",P,32,1.000,5,0,0,0,,71475112
+2019,Regular Season,Orix Buffaloes,62,"Yamazaki, Katsuki",C,24,0.977,41,1,1,0,0,71475113
+2019,Regular Season,Chiba Lotte Marines,55,"Hosokawa, Toru",C,31,1.000,53,7,0,0,1,71475115
+2019,Regular Season,Chunichi Dragons,56,"Matsui, Yusuke",OF,13,1.000,18,0,0,0,,71475131
+2019,Regular Season,Orix Buffaloes,56,"Matsui, Yusuke",OF,6,1.000,8,1,0,0,,71475131
+2019,Regular Season,Hiroshima Toyo Carp,63,"Nishikawa, Ryoma",1B,5,1.000,34,1,0,5,,71475132
+2019,Regular Season,Hiroshima Toyo Carp,63,"Nishikawa, Ryoma",OF,127,0.992,250,3,2,1,,71475132
+2019,Regular Season,Tohoku Rakuten Golden Eagles,64,"Fukuyama, Hiroyuki",P,7,1.000,1,2,0,0,,71475133
+2019,Regular Season,Tokyo Yakult Swallows,13,"Nakao, Hikaru",P,12,1.000,0,3,0,0,,71475134
+2019,Regular Season,Tohoku Rakuten Golden Eagles,67,"Nishimaki, Kenji",SS,2,1.000,1,0,0,0,,71475136
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,39,"Minei, Hiroki",C,1,1.000,3,0,0,0,0,71475139
+2019,Regular Season,Yokohama DeNA Baystars,39,"Minei, Hiroki",C,62,0.994,311,28,2,3,5,71475139
+2019,Regular Season,Chiba Lotte Marines,0,"Ogino, Takashi",OF,125,0.996,258,8,1,2,,71575131
+2019,Regular Season,Chunichi Dragons,11,"Ogasawara, Shinnosuke",P,7,1.000,4,6,0,2,,71575132
+2019,Regular Season,Hiroshima Toyo Carp,13,"Yasaki, Takuya",P,5,0.000,0,0,0,0,,71575134
+2019,Regular Season,Chunichi Dragons,53,"Kamezawa, Kyohei",2B,23,1.000,15,29,0,5,,71575135
+2019,Regular Season,Chunichi Dragons,53,"Kamezawa, Kyohei",3B,5,1.000,1,5,0,0,,71575135
+2019,Regular Season,Chunichi Dragons,53,"Kamezawa, Kyohei",OF,1,0.000,0,0,0,0,,71575135
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,8,"Kamizato, Kazuki",OF,3,1.000,5,0,0,0,,71575136
+2019,Regular Season,Yokohama DeNA Baystars,8,"Kamizato, Kazuki",OF,115,0.987,222,4,3,3,,71575136
+2019,Regular Season,Hanshin Tigers,36,"Hamachi, Masumi",P,21,0.833,2,3,1,0,,71675134
+2019,Regular Season,Chiba Lotte Marines,52,"Masuda, Naoya",P,60,1.000,3,11,0,1,,71675135
+2019,Regular Season,Orix Buffaloes,14,"Yoshida, Kazumasa",P,33,1.000,0,3,0,0,,71675139
+2019,Climax Series - Final Stage,Saitama Seibu Lions,6,"Genda, Sosuke",SS,4,0.944,4,13,1,3,,71775134
+2019,Regular Season,Saitama Seibu Lions,6,"Genda, Sosuke",SS,133,0.986,212,435,9,90,,71775134
+2019,Regular Season,Saitama Seibu Lions,29,"Koishi, Hirotaka",P,8,1.000,0,3,0,0,,71775135
+2019,Regular Season,Hiroshima Toyo Carp,29,"Kemna, Makoto",P,1,1.000,1,0,0,0,,71775136
+2019,Regular Season,Tohoku Rakuten Golden Eagles,0,"Shimai, Hirohito",OF,10,1.000,4,0,0,0,,71775137
+2019,Regular Season,Tokyo Yakult Swallows,61,"Kubo, Takuma",P,16,1.000,0,1,0,0,,71775138
+2019,Regular Season,Hiroshima Toyo Carp,12,"Kuri, Aren",P,27,1.000,10,24,0,1,,71775139
+2019,Regular Season,Tohoku Rakuten Golden Eagles,29,"Yamashita, Ayatsugu",1B,2,1.000,13,1,0,1,,71875133
+2019,Regular Season,Tohoku Rakuten Golden Eagles,29,"Yamashita, Ayatsugu",C,26,0.989,80,8,1,0,1,71875133
+2019,Regular Season,Tohoku Rakuten Golden Eagles,29,"Yamashita, Ayatsugu",OF,3,1.000,1,0,0,0,,71875133
+2019,Regular Season,Yomiuri Giants,95,"Horioka, Hayato",P,3,1.000,0,1,0,0,,71875134
+2019,Regular Season,Saitama Seibu Lions,28,"Moriwaki, Ryosuke",P,29,1.000,0,4,0,1,,71875138
+2019,Regular Season,Hanshin Tigers,41,"Takahashi, Akifumi",P,1,0.000,0,0,0,0,,71975115
+2019,Regular Season,Chunichi Dragons,25,"Satoh, Yu",P,7,1.000,0,2,0,0,,71975132
+2019,Regular Season,Chiba Lotte Marines,11,"Sasaki, Chihaya",P,7,1.000,0,7,0,1,,71975134
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,35,"Shimauchi, Hiroaki",OF,3,1.000,7,0,0,0,,71975135
+2019,Regular Season,Tohoku Rakuten Golden Eagles,35,"Shimauchi, Hiroaki",OF,130,1.000,264,4,0,2,,71975135
+2019,Regular Season,Tokyo Yakult Swallows,9,"Shiomi, Yasutaka",OF,37,0.982,55,0,1,0,,71975136
+2019,Regular Season,Tokyo Yakult Swallows,62,"Tagawa, Kengo",P,4,1.000,1,2,0,0,,71975137
+2019,Regular Season,Tohoku Rakuten Golden Eagles,34,"Yamasaki, Tsuyoshi",2B,4,1.000,3,8,0,1,,73175136
+2019,Regular Season,Tohoku Rakuten Golden Eagles,34,"Yamasaki, Tsuyoshi",3B,5,0.889,5,3,1,1,,73175136
+2019,Regular Season,Tohoku Rakuten Golden Eagles,34,"Yamasaki, Tsuyoshi",SS,3,1.000,2,1,0,0,,73175136
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,48,"Watanabe, Yoshiaki",OF,2,1.000,2,0,0,0,,73175138
+2019,Regular Season,Tohoku Rakuten Golden Eagles,48,"Watanabe, Yoshiaki",2B,3,0.000,0,0,0,0,,73175138
+2019,Regular Season,Tohoku Rakuten Golden Eagles,48,"Watanabe, Yoshiaki",3B,30,0.974,11,27,1,2,,73175138
+2019,Regular Season,Tohoku Rakuten Golden Eagles,48,"Watanabe, Yoshiaki",OF,40,0.981,50,2,1,0,,73175138
+2019,Regular Season,Tohoku Rakuten Golden Eagles,48,"Watanabe, Yoshiaki",SS,2,1.000,0,1,0,0,,73175138
+2019,Regular Season,Tokyo Yakult Swallows,49,"Watanabe, Daiki",OF,10,1.000,7,0,0,0,,73375132
+2019,Regular Season,Yomiuri Giants,0,"Yoshikawa, Naoki",2B,11,0.935,21,37,4,9,,73375134
+2019,Regular Season,Tohoku Rakuten Golden Eagles,47,"Watanabe, Yuuki",P,1,0.000,0,0,0,0,,73375136
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,28,"Hancock, Justin",P,8,1.000,1,2,0,0,,73375138
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,43,"Sung, Chia-Hao",P,3,0.000,0,0,0,0,,73575132
+2019,Regular Season,Tohoku Rakuten Golden Eagles,43,"Sung, Chia-Hao",P,48,1.000,2,10,0,0,,73575132
+2019,Regular Season,Hiroshima Toyo Carp,58,"Regnault, Kyle",P,52,0.917,0,11,1,0,,73575138
+2019,Regular Season,Yokohama DeNA Baystars,97,"Solis, Sammy",P,4,1.000,0,1,0,0,,73775138
+2019,Regular Season,Orix Buffaloes,9,"Romero, Stefen",OF,18,1.000,22,0,0,0,,73975134
+2019,Climax Series - Final Stage,Saitama Seibu Lions,60,"Nakamura, Takeya",3B,4,0.923,4,8,1,0,,81085115
+2019,Regular Season,Saitama Seibu Lions,60,"Nakamura, Takeya",3B,124,0.956,79,205,13,16,,81085115
+2019,Regular Season,Saitama Seibu Lions,64,"Nakata, Shota",C,2,1.000,12,0,0,0,0,81085116
+2019,Regular Season,Tokyo Yakult Swallows,25,"Tateyama, Shohei",P,2,1.000,0,1,0,0,,81085117
+2019,Regular Season,Orix Buffaloes,35,"Higa, Motoki",P,45,1.000,1,8,0,1,,81085131
+2019,Climax Series - Final Stage,Yomiuri Giants,51,"Tanaka, Shunta",2B,4,0.960,9,15,1,3,,81085136
+2019,Japan Series,Yomiuri Giants,51,"Tanaka, Shunta",2B,4,1.000,8,5,0,0,,81085136
+2019,Regular Season,Yomiuri Giants,51,"Tanaka, Shunta",2B,39,0.979,74,68,3,18,,81085136
+2019,Regular Season,Yomiuri Giants,51,"Tanaka, Shunta",3B,22,0.960,7,41,2,2,,81085136
+2019,Regular Season,Yomiuri Giants,51,"Tanaka, Shunta",SS,1,0.000,0,0,0,0,,81085136
+2019,Regular Season,Orix Buffaloes,44,"Tongu, Yuma",1B,2,1.000,6,0,0,0,,81085138
+2019,Regular Season,Orix Buffaloes,44,"Tongu, Yuma",3B,23,0.806,6,23,7,4,,81085138
+2019,Regular Season,Yokohama DeNA Baystars,56,"Hamaya, Kodai",P,2,1.000,1,0,0,0,,81085139
+2019,Regular Season,Tokyo Yakult Swallows,63,"Ino, Suguru",C,7,1.000,40,2,0,0,0,81185112
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,29,"Itoh, Hikaru",C,2,1.000,11,0,0,0,0,81185116
+2019,Regular Season,Yokohama DeNA Baystars,29,"Itoh, Hikaru",C,84,0.994,623,39,4,5,4,81185116
+2019,Regular Season,Chiba Lotte Marines,58,"Ishizaki, Tsuyoshi",P,2,0.000,0,0,0,0,,81185130
+2019,Regular Season,Hanshin Tigers,30,"Ishizaki, Tsuyoshi",P,2,0.000,0,0,0,0,,81185130
+2019,Regular Season,Hiroshima Toyo Carp,40,"Isomura, Yoshitaka",C,30,0.994,146,9,1,1,0,81185133
+2019,Climax Series - Final Stage,Hanshin Tigers,33,"Itohara, Kento",2B,4,1.000,5,10,0,4,,81185134
+2019,Climax Series - First Stage,Hanshin Tigers,33,"Itohara, Kento",2B,3,1.000,3,9,0,1,,81185134
+2019,Climax Series - First Stage,Hanshin Tigers,33,"Itohara, Kento",3B,2,1.000,0,2,0,0,,81185134
+2019,Regular Season,Hanshin Tigers,33,"Itohara, Kento",2B,124,0.993,242,349,4,81,,81185134
+2019,Regular Season,Hanshin Tigers,33,"Itohara, Kento",3B,37,0.978,14,30,1,1,,81185134
+2019,Regular Season,Hanshin Tigers,33,"Itohara, Kento",SS,10,0.905,8,11,2,2,,81185134
+2019,Regular Season,Chunichi Dragons,49,"Itoh, Kosuke",OF,10,0.929,12,1,1,0,,81185136
+2019,Regular Season,Chunichi Dragons,28,"Umetsu, Kodai",P,6,1.000,3,6,0,1,,81185138
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,68,"Ishikawa, Ryo",C,45,1.000,196,30,0,1,1,81185139
+2019,Regular Season,Yomiuri Giants,23,"Nogami, Ryoma",P,13,1.000,0,3,0,0,,81285118
+2019,Regular Season,Chunichi Dragons,62,"Tomonaga, Shota",OF,2,0.000,0,0,0,0,,81285130
+2019,Regular Season,Orix Buffaloes,17,"Masui, Hirotoshi",P,53,0.889,1,7,1,0,,81285131
+2019,Climax Series - Final Stage,Yomiuri Giants,41,"Nakagawa, Kota",P,3,1.000,0,1,0,0,,81285132
+2019,Japan Series,Yomiuri Giants,41,"Nakagawa, Kota",P,2,0.000,0,0,0,0,,81285132
+2019,Regular Season,Yomiuri Giants,41,"Nakagawa, Kota",P,67,1.000,1,15,0,1,,81285132
+2019,Regular Season,Tokyo Yakult Swallows,18,"Terashima, Naruki",P,3,0.000,0,0,1,0,,81285134
+2019,Regular Season,Yokohama DeNA Baystars,91,"Nakaushiro, Yuhei",P,4,0.000,0,0,0,0,,81285135
+2019,Regular Season,Chunichi Dragons,48,"Mizowaki, Hayato",2B,4,1.000,6,7,0,1,,81285137
+2019,Regular Season,Chunichi Dragons,7,"Neo, Akira",SS,2,1.000,2,3,0,1,,81285138
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,1,"Matsui, Yuki",P,2,0.000,0,0,0,0,,81285139
+2019,Regular Season,Tohoku Rakuten Golden Eagles,1,"Matsui, Yuki",P,68,0.900,0,9,1,0,,81285139
+2019,Climax Series - Final Stage,Yomiuri Giants,9,"Kamei, Yoshiyuki",OF,4,1.000,4,0,0,0,,81385110
+2019,Japan Series,Yomiuri Giants,9,"Kamei, Yoshiyuki",OF,4,1.000,5,0,0,0,,81385110
+2019,Regular Season,Yomiuri Giants,9,"Kamei, Yoshiyuki",1B,3,1.000,3,0,0,0,,81385110
+2019,Regular Season,Yomiuri Giants,9,"Kamei, Yoshiyuki",OF,126,0.995,187,6,1,1,,81385110
+2019,Regular Season,Tokyo Yakult Swallows,46,"Ohta, Kengo",1B,2,1.000,5,0,0,0,,81385130
+2019,Regular Season,Tokyo Yakult Swallows,46,"Ohta, Kengo",2B,7,0.917,3,8,1,1,,81385130
+2019,Regular Season,Tokyo Yakult Swallows,46,"Ohta, Kengo",3B,73,0.943,41,92,8,7,,81385130
+2019,Regular Season,Tokyo Yakult Swallows,46,"Ohta, Kengo",SS,17,0.925,18,31,4,4,,81385130
+2019,Regular Season,Saitama Seibu Lions,15,"Oishi, Tatsuya",P,2,0.000,0,0,0,0,,81385133
+2019,Regular Season,Hanshin Tigers,28,"Ono, Taiki",P,14,1.000,2,1,0,0,,81385134
+2019,Regular Season,Tohoku Rakuten Golden Eagles,51,"Ogoh, Yuya",OF,15,0.929,13,0,1,0,,81385138
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,7,"Fernando, Luciano",OF,1,0.000,0,0,0,0,,81485130
+2019,Regular Season,Tohoku Rakuten Golden Eagles,7,"Fernando, Luciano",OF,12,1.000,16,0,0,0,,81485130
+2019,Japan Series,Fukuoka Softbank Hawks,4,"Kawashima, Keizo",2B,2,1.000,3,7,0,0,,81585112
+2019,Regular Season,Fukuoka Softbank Hawks,4,"Kawashima, Keizo",1B,5,1.000,18,2,0,2,,81585112
+2019,Regular Season,Fukuoka Softbank Hawks,4,"Kawashima, Keizo",2B,23,1.000,18,30,0,6,,81585112
+2019,Regular Season,Fukuoka Softbank Hawks,4,"Kawashima, Keizo",OF,6,0.857,5,1,1,0,,81585112
+2019,Regular Season,Chunichi Dragons,1,"Kyoda, Yota",SS,139,0.985,202,384,9,78,,81585134
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,49,"Kumon, Katsuhiko",P,61,0.933,4,10,1,1,,81585137
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,27,"Kamichatani, Taiga",P,1,1.000,0,1,0,0,,81585138
+2019,Regular Season,Yokohama DeNA Baystars,27,"Kamichatani, Taiga",P,25,0.931,8,19,2,3,,81585138
+2019,Regular Season,Hanshin Tigers,32,"Yamazaki, Noriharu",1B,1,0.000,0,0,0,0,,81685118
+2019,Regular Season,Chiba Lotte Marines,61,"Mike, Kazuma",1B,1,1.000,1,0,0,0,,81685135
+2019,Regular Season,Chiba Lotte Marines,61,"Mike, Kazuma",OF,11,1.000,3,0,0,0,,81685135
+2019,Climax Series - Final Stage,Saitama Seibu Lions,17,"Matsumoto, Wataru",P,2,1.000,0,1,0,0,,81685138
+2019,Regular Season,Saitama Seibu Lions,17,"Matsumoto, Wataru",P,16,0.923,1,11,1,0,,81685138
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,23,"Watanabe, Ryo",2B,132,0.983,258,373,11,65,,81685139
+2019,Regular Season,Tohoku Rakuten Golden Eagles,63,"Satoh, Yoshinori",P,1,1.000,1,0,0,0,,81785116
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,2,"Sugiya, Kenshi",1B,14,0.982,53,2,1,1,,81785118
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,2,"Sugiya, Kenshi",2B,8,1.000,5,15,0,1,,81785118
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,2,"Sugiya, Kenshi",3B,12,0.875,4,10,2,0,,81785118
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,2,"Sugiya, Kenshi",OF,36,1.000,30,0,0,0,,81785118
+2019,Regular Season,Orix Buffaloes,20,"Kondoh, Taisuke",P,52,1.000,1,4,0,0,,81785132
+2019,Regular Season,Orix Buffaloes,8,"Gotoh, Shunta",OF,82,1.000,96,4,0,0,,81785133
+2019,Regular Season,Orix Buffaloes,61,"Sakakibara, Tsubasa",P,13,0.944,4,13,1,3,,81785134
+2019,Regular Season,Yokohama DeNA Baystars,12,"Sakaguchi, Kousuke",P,3,1.000,0,2,0,0,,81785136
+2019,Regular Season,Hiroshima Toyo Carp,1,"Suzuki, Seiya",OF,139,0.988,242,6,3,1,,81785137
+2019,Regular Season,Saitama Seibu Lions,31,"Satoh, Ryusei",3B,50,0.950,7,50,3,6,,81785138
+2019,Climax Series - Final Stage,Hanshin Tigers,61,"Mochizuki, Atsushi",P,1,0.000,0,0,0,0,,81885132
+2019,Regular Season,Hanshin Tigers,61,"Mochizuki, Atsushi",P,8,1.000,2,5,0,3,,81885132
+2019,Regular Season,Yomiuri Giants,39,"Tateoka, Soichiro",OF,19,1.000,10,0,0,0,,81985118
+2019,Regular Season,Orix Buffaloes,68,"Suzuki, Yu",P,1,0.000,0,0,0,0,,81985130
+2019,Regular Season,Tohoku Rakuten Golden Eagles,22,"Tomura, Kenji",P,6,0.750,0,3,1,0,,81985131
+2019,Regular Season,Orix Buffaloes,40,"Suzuki, Kohei",1B,6,1.000,16,1,0,0,,81985132
+2019,Regular Season,Orix Buffaloes,40,"Suzuki, Kohei",3B,31,0.944,2,15,1,0,,81985132
+2019,Regular Season,Orix Buffaloes,40,"Suzuki, Kohei",SS,14,0.931,12,15,2,4,,81985132
+2019,Climax Series - Final Stage,Yomiuri Giants,15,"Sawamura, Hirokazu",P,1,0.000,0,0,0,0,,81985133
+2019,Japan Series,Yomiuri Giants,15,"Sawamura, Hirokazu",P,2,1.000,0,1,0,0,,81985133
+2019,Regular Season,Yomiuri Giants,15,"Sawamura, Hirokazu",P,43,1.000,2,9,0,0,,81985133
+2019,Regular Season,Tohoku Rakuten Golden Eagles,45,"Sugahara, Shu",P,9,0.833,0,5,1,0,,81985134
+2019,Regular Season,Chiba Lotte Marines,7,"Suzuki, Daichi",1B,89,0.998,614,44,1,50,,81985135
+2019,Regular Season,Chiba Lotte Marines,7,"Suzuki, Daichi",2B,9,1.000,15,17,0,2,,81985135
+2019,Regular Season,Chiba Lotte Marines,7,"Suzuki, Daichi",3B,40,0.984,20,43,1,3,,81985135
+2019,Regular Season,Chiba Lotte Marines,7,"Suzuki, Daichi",OF,9,1.000,8,0,0,0,,81985135
+2019,Regular Season,Chiba Lotte Marines,7,"Suzuki, Daichi",SS,4,1.000,0,1,0,0,,81985135
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,50,"Suzuki, Ryotaro",P,1,0.000,0,0,0,0,,81985136
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,59,"Yoshida, Yuki",P,9,1.000,1,1,0,1,,83185132
+2019,Regular Season,Orix Buffaloes,13,"Yamaoka, Taisuke",P,26,0.975,15,24,1,2,,83185134
+2019,Regular Season,Tokyo Yakult Swallows,70,"Suarez, Albert",P,4,1.000,0,2,0,1,,83185138
+2019,Regular Season,Orix Buffaloes,33,"Meneses, Joey",1B,23,0.995,184,10,1,15,,83385138
+2019,Regular Season,Orix Buffaloes,33,"Meneses, Joey",OF,3,1.000,5,0,0,0,,83385138
+2019,Regular Season,Saitama Seibu Lions,99,"Mejia, Ernesto",1B,1,1.000,5,1,0,1,,83385139
+2019,Regular Season,Tokyo Yakult Swallows,45,"Huff, Dave",P,68,1.000,1,15,0,1,,83585136
+2019,Regular Season,Hiroshima Toyo Carp,99,"Santana, Juan",1B,9,1.000,49,6,0,3,,83585138
+2019,Regular Season,Hiroshima Toyo Carp,99,"Santana, Juan",2B,4,0.867,4,9,2,1,,83585138
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,42,"Barrios, Edison",P,1,0.000,0,0,0,0,,83785133
+2019,Regular Season,Yokohama DeNA Baystars,42,"Barrios, Edison",P,3,1.000,0,5,0,0,,83785133
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,27,"Gracial, Yurisbel",OF,4,1.000,4,0,0,0,,83785136
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,27,"Gracial, Yurisbel",3B,2,1.000,1,4,0,0,,83785136
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,27,"Gracial, Yurisbel",OF,1,1.000,1,0,0,0,,83785136
+2019,Japan Series,Fukuoka Softbank Hawks,27,"Gracial, Yurisbel",3B,2,1.000,0,1,0,0,,83785136
+2019,Japan Series,Fukuoka Softbank Hawks,27,"Gracial, Yurisbel",OF,4,0.800,4,0,1,0,,83785136
+2019,Regular Season,Fukuoka Softbank Hawks,27,"Gracial, Yurisbel",1B,1,0.938,15,0,1,0,,83785136
+2019,Regular Season,Fukuoka Softbank Hawks,27,"Gracial, Yurisbel",OF,99,0.964,129,3,5,0,,83785136
+2019,Regular Season,Yomiuri Giants,92,"Adames, Samuel",P,11,1.000,1,3,0,1,,83985132
+2019,Regular Season,Fukuoka Softbank Hawks,46,"Colas, Oscar",OF,5,1.000,5,0,0,0,,83985134
+2019,Regular Season,Chunichi Dragons,57,"Rodriguez, Joely",P,64,0.786,0,11,3,0,,83985136
+2019,Regular Season,Tokyo Yakult Swallows,35,"Terahara, Hayato",P,4,1.000,0,4,0,0,,91095115
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,53,"Takanashi, Yuhei",P,1,0.000,0,0,0,0,,91095134
+2019,Regular Season,Tohoku Rakuten Golden Eagles,53,"Takanashi, Yuhei",P,48,0.889,2,6,1,0,,91095134
+2019,Regular Season,Chunichi Dragons,3,"Takahashi, Shuhei",3B,116,0.971,68,200,8,13,,91095135
+2019,Climax Series - Final Stage,Hanshin Tigers,29,"Takahashi, Haruto",P,1,0.000,0,0,0,0,,91095136
+2019,Climax Series - First Stage,Hanshin Tigers,29,"Takahashi, Haruto",P,1,0.000,0,0,0,0,,91095136
+2019,Regular Season,Hanshin Tigers,29,"Takahashi, Haruto",P,19,0.968,8,22,1,2,,91095136
+2019,Regular Season,Tokyo Yakult Swallows,3,"Nishiura, Naomichi",SS,43,0.980,58,92,3,15,,91095139
+2019,Regular Season,Tokyo Yakult Swallows,53,"Igarashi, Ryota",P,45,0.923,4,8,1,0,,91193886
+2019,Regular Season,Yokohama DeNA Baystars,7,"Ishikawa, Takehiro",2B,33,0.992,44,77,1,16,,91195110
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,41,"Aoyama, Kouji",P,1,0.000,0,0,0,0,,91195112
+2019,Regular Season,Tohoku Rakuten Golden Eagles,41,"Aoyama, Kouji",P,62,1.000,1,7,0,0,,91195112
+2019,Regular Season,Hiroshima Toyo Carp,6,"Abe, Tomohiro",1B,37,1.000,74,6,0,6,,91195116
+2019,Regular Season,Hiroshima Toyo Carp,6,"Abe, Tomohiro",2B,2,1.000,1,1,0,0,,91195116
+2019,Regular Season,Hiroshima Toyo Carp,6,"Abe, Tomohiro",3B,74,0.935,37,106,10,13,,91195116
+2019,Regular Season,Hanshin Tigers,7,"Itoi, Yoshio",OF,96,0.985,130,0,2,0,,91195119
+2019,Regular Season,Hanshin Tigers,58,"Araki, Fumiya",1B,3,1.000,7,1,0,1,,91195133
+2019,Regular Season,Hanshin Tigers,58,"Araki, Fumiya",OF,5,1.000,3,0,0,0,,91195133
+2019,Regular Season,Yomiuri Giants,48,"Ikeda, Shun",P,2,0.000,0,0,0,0,,91195134
+2019,Regular Season,Chunichi Dragons,58,"Ishibashi, Kota",C,9,1.000,27,2,0,0,0,91195138
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,39,"Akiyoshi, Ryo",P,53,1.000,2,6,0,0,,91195139
+2019,Regular Season,Hiroshima Toyo Carp,64,"Nakamura, Kyohei",P,43,1.000,2,6,0,0,,91295133
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,54,"Tamai, Taisho",P,65,0.962,5,20,1,2,,91295134
+2019,Climax Series - Final Stage,Saitama Seibu Lions,21,"Togame, Ken",P,1,1.000,0,4,0,0,,91295135
+2019,Regular Season,Saitama Seibu Lions,21,"Togame, Ken",P,19,0.933,6,8,1,2,,91295135
+2019,Regular Season,Tokyo Yakult Swallows,0,"Fujii, Ryota",3B,4,1.000,1,3,0,0,,91295139
+2019,Regular Season,Tokyo Yakult Swallows,0,"Fujii, Ryota",OF,1,0.000,0,0,0,0,,91295139
+2019,Regular Season,Chiba Lotte Marines,46,"Iwashita, Daiki",P,21,0.967,11,18,1,2,,91395130
+2019,Regular Season,Orix Buffaloes,31,"Ohta, Ryo",SS,6,0.952,8,12,1,3,,91395138
+2019,Regular Season,Fukuoka Softbank Hawks,51,"Uebayashi, Seiji",OF,95,0.991,111,2,1,1,,91395139
+2019,Regular Season,Orix Buffaloes,5,"Nishino, Masahiro",2B,9,0.977,19,23,1,7,,91495130
+2019,Regular Season,Orix Buffaloes,5,"Nishino, Masahiro",3B,47,1.000,27,62,0,9,,91495130
+2019,Regular Season,Hanshin Tigers,39,"Nagasaka, Kenya",C,2,1.000,3,0,0,0,0,91495134
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,35,"Nishimura, Takahiro",P,35,1.000,0,8,0,0,,91495136
+2019,Regular Season,Tokyo Yakult Swallows,51,"Hamada, Taiki",OF,1,1.000,2,0,0,0,,91495138
+2019,Climax Series - Final Stage,Saitama Seibu Lions,10,"Mori, Tomoya",C,4,1.000,27,4,0,1,1,91495139
+2019,Regular Season,Saitama Seibu Lions,10,"Mori, Tomoya",C,128,0.990,782,89,9,7,12,91495139
+2019,Regular Season,Tokyo Yakult Swallows,2,"Obiki, Keiji",3B,46,0.952,23,56,4,3,,91595114
+2019,Regular Season,Tokyo Yakult Swallows,2,"Obiki, Keiji",SS,2,0.000,0,0,0,0,,91595114
+2019,Regular Season,Tokyo Yakult Swallows,64,"Kazahari, Ren",P,14,1.000,3,3,0,0,,91595130
+2019,Regular Season,Hiroshima Toyo Carp,17,"Okada, Akitake",P,3,0.000,0,0,0,0,,91595132
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,62,"Kai, Takuya",C,4,1.000,25,2,0,0,0,91595133
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,62,"Kai, Takuya",C,3,0.962,22,3,1,1,0,91595133
+2019,Japan Series,Fukuoka Softbank Hawks,62,"Kai, Takuya",C,4,1.000,29,0,0,0,0,91595133
+2019,Regular Season,Fukuoka Softbank Hawks,62,"Kai, Takuya",C,136,0.997,1015,101,3,13,8,91595133
+2019,Climax Series - Final Stage,Fukuoka Softbank Hawks,57,"Kayama, Shinya",P,3,0.000,0,0,0,0,,91595135
+2019,Climax Series - First Stage,Fukuoka Softbank Hawks,57,"Kayama, Shinya",P,3,1.000,0,1,0,0,,91595135
+2019,Japan Series,Fukuoka Softbank Hawks,57,"Kayama, Shinya",P,1,0.000,0,0,0,0,,91595135
+2019,Regular Season,Fukuoka Softbank Hawks,57,"Kayama, Shinya",P,54,1.000,1,9,0,1,,91595135
+2019,Regular Season,Yomiuri Giants,38,"Kishida, Yukinori",C,4,1.000,18,1,0,0,1,91595136
+2019,Regular Season,Chiba Lotte Marines,10,"Katoh, Shohei",OF,50,0.984,60,3,1,0,,91595137
+2019,Regular Season,Tokyo Yakult Swallows,00,"Okumura, Nobuyuki",2B,1,1.000,0,1,0,0,,91595139
+2019,Regular Season,Tokyo Yakult Swallows,00,"Okumura, Nobuyuki",3B,1,0.000,0,0,1,0,,91595139
+2019,Regular Season,Tokyo Yakult Swallows,00,"Okumura, Nobuyuki",OF,1,1.000,0,1,0,0,,91595139
+2019,Regular Season,Tokyo Yakult Swallows,00,"Okumura, Nobuyuki",SS,64,0.972,94,150,7,35,,91595139
+2019,Regular Season,Chiba Lotte Marines,13,"Hirasawa, Taiga",1B,1,1.000,1,0,0,0,,91695132
+2019,Regular Season,Chiba Lotte Marines,13,"Hirasawa, Taiga",OF,2,0.000,0,0,0,0,,91695132
+2019,Regular Season,Chiba Lotte Marines,13,"Hirasawa, Taiga",SS,50,0.971,59,108,5,23,,91695132
+2019,Regular Season,Chiba Lotte Marines,33,"Minami, Masaki",P,4,1.000,1,0,0,0,,91695133
+2019,Climax Series - Final Stage,Saitama Seibu Lions,25,"Hirai, Katsunori",P,2,1.000,0,1,0,0,,91695134
+2019,Regular Season,Saitama Seibu Lions,25,"Hirai, Katsunori",P,81,1.000,4,9,0,0,,91695134
+2019,Regular Season,Chiba Lotte Marines,39,"Yoshida, Yuta",C,32,0.977,152,20,4,2,0,91695139
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,11,"Kishi, Takayuki",P,1,0.000,0,0,0,0,,91795114
+2019,Regular Season,Tohoku Rakuten Golden Eagles,11,"Kishi, Takayuki",P,15,1.000,1,19,0,3,,91795114
+2019,Regular Season,Tokyo Yakult Swallows,20,"Kondoh, Kazuki",P,59,0.833,1,4,1,1,,91795115
+2019,Regular Season,Yokohama DeNA Baystars,5,"Kuramoto, Toshihiko",3B,6,1.000,0,2,0,0,,91795130
+2019,Regular Season,Yokohama DeNA Baystars,5,"Kuramoto, Toshihiko",SS,9,0.967,13,16,1,2,,91795130
+2019,Regular Season,Chiba Lotte Marines,1,"Kiyota, Ikuhiro",OF,80,1.000,108,4,0,1,,91795131
+2019,Regular Season,Saitama Seibu Lions,57,"Kokuba, Tsubasa",P,15,1.000,1,6,0,0,,91795132
+2019,Regular Season,Hokkaido Nippon-Ham Fighters,60,"Kohri, Takuya",C,2,1.000,6,2,0,0,0,91795134
+2019,Regular Season,Orix Buffaloes,38,"Kojima, Shuhei",1B,14,1.000,44,1,0,6,,91795135
+2019,Regular Season,Orix Buffaloes,38,"Kojima, Shuhei",2B,10,1.000,6,11,0,0,,91795135
+2019,Regular Season,Orix Buffaloes,38,"Kojima, Shuhei",3B,46,0.952,28,51,4,5,,91795135
+2019,Regular Season,Orix Buffaloes,38,"Kojima, Shuhei",OF,24,0.970,32,0,1,0,,91795135
+2019,Regular Season,Orix Buffaloes,38,"Kojima, Shuhei",SS,4,1.000,1,3,0,1,,91795135
+2019,Regular Season,Hiroshima Toyo Carp,35,"Shimozuru, Ko",OF,1,0.667,2,0,1,0,,91795137
+2019,Regular Season,Tohoku Rakuten Golden Eagles,46,"Shimozuru, Ko",OF,41,0.944,33,1,2,0,,91795137
+2019,Climax Series - Final Stage,Yomiuri Giants,22,"Kobayashi, Seiji",C,3,1.000,11,1,0,0,0,91795139
+2019,Japan Series,Yomiuri Giants,22,"Kobayashi, Seiji",C,3,1.000,18,3,0,1,0,91795139
+2019,Regular Season,Yomiuri Giants,22,"Kobayashi, Seiji",C,91,0.995,520,73,3,4,3,91795139
+2019,Regular Season,Hiroshima Toyo Carp,23,"Yabuta, Kazuki",P,4,1.000,0,3,0,0,,91895130
+2019,Regular Season,Saitama Seibu Lions,66,"Matsumoto, Naoaki",P,4,0.000,0,0,0,0,,91895132
+2019,Regular Season,Tokyo Yakult Swallows,1,"Yamada, Tetsuto",2B,142,0.989,297,417,8,84,,91895133
+2019,Climax Series - Final Stage,Yomiuri Giants,27,"Sumitani, Ginjiro",C,2,1.000,4,0,0,0,0,91995112
+2019,Japan Series,Yomiuri Giants,27,"Sumitani, Ginjiro",C,1,1.000,0,1,0,0,0,91995112
+2019,Regular Season,Yomiuri Giants,27,"Sumitani, Ginjiro",C,58,1.000,310,25,0,3,4,91995112
+2019,Regular Season,Orix Buffaloes,93,"Sano, Kodai",OF,52,1.000,69,3,0,0,,91995130
+2019,Regular Season,Hiroshima Toyo Carp,5,"Chono, Hisayoshi",OF,42,0.966,56,1,2,0,,91995131
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,44,"Sano, Keita",OF,1,0.000,0,0,0,0,,91995134
+2019,Regular Season,Yokohama DeNA Baystars,44,"Sano, Keita",1B,7,0.974,35,2,1,4,,91995134
+2019,Regular Season,Yokohama DeNA Baystars,44,"Sano, Keita",OF,55,0.986,68,0,1,0,,91995134
+2019,Regular Season,Hanshin Tigers,53,"Shimada, Kairi",OF,6,1.000,5,0,0,0,,91995136
+2019,Regular Season,Chunichi Dragons,56,"Takeda, Kengo",OF,19,1.000,16,0,0,0,,91995137
+2019,Regular Season,Orix Buffaloes,56,"Takeda, Kengo",OF,5,1.000,4,0,0,0,,91995137
+2019,Regular Season,Fukuoka Softbank Hawks,40,"Sugiyama, Kazuki",P,2,0.000,0,0,0,0,,91995138
+2019,Regular Season,Chunichi Dragons,33,"Sobue, Daisuke",P,44,1.000,2,11,0,0,,91995139
+2019,Regular Season,Hanshin Tigers,54,"Messenger, Randy",P,14,1.000,3,15,0,3,,93195131
+2019,Climax Series - Final Stage,Yomiuri Giants,56,"Yamamoto, Yasuhiro",2B,2,1.000,1,1,0,0,,93195132
+2019,Climax Series - Final Stage,Yomiuri Giants,56,"Yamamoto, Yasuhiro",3B,1,1.000,1,2,0,0,,93195132
+2019,Japan Series,Yomiuri Giants,56,"Yamamoto, Yasuhiro",2B,1,0.750,1,2,1,1,,93195132
+2019,Japan Series,Yomiuri Giants,56,"Yamamoto, Yasuhiro",3B,1,0.000,0,0,1,0,,93195132
+2019,Regular Season,Yomiuri Giants,56,"Yamamoto, Yasuhiro",2B,48,0.979,103,132,5,31,,93195132
+2019,Regular Season,Yomiuri Giants,56,"Yamamoto, Yasuhiro",3B,28,1.000,11,21,0,0,,93195132
+2019,Regular Season,Yomiuri Giants,56,"Yamamoto, Yasuhiro",SS,16,1.000,8,18,0,1,,93195132
+2019,Climax Series - First Stage,Tohoku Rakuten Golden Eagles,52,"Morihara, Kohei",P,2,1.000,0,1,0,0,,93195134
+2019,Regular Season,Tohoku Rakuten Golden Eagles,52,"Morihara, Kohei",P,64,0.933,4,10,1,0,,93195134
+2019,Climax Series - First Stage,Yokohama DeNA Baystars,2,"Lopez, Jose",1B,3,0.962,23,2,1,1,,93195137
+2019,Regular Season,Yokohama DeNA Baystars,2,"Lopez, Jose",1B,142,0.995,1206,88,7,97,,93195137
+2019,Regular Season,Saitama Seibu Lions,50,"Ryao, Renrei",P,3,1.000,2,1,0,0,,93395134
+2019,Regular Season,Yomiuri Giants,33,"Villanueva, Christian",1B,8,0.933,13,1,1,1,,93395138
+2019,Regular Season,Yomiuri Giants,33,"Villanueva, Christian",2B,3,0.000,0,0,1,0,,93395138
+2019,Regular Season,Yomiuri Giants,33,"Villanueva, Christian",3B,69,0.962,31,96,5,9,,93395138
+2019,Regular Season,Hiroshima Toyo Carp,70,"Lawrence, Casey",P,1,1.000,1,0,0,0,,93595138
+2019,Regular Season,Tohoku Rakuten Golden Eagles,42,"Herrmann, Frank",P,50,1.000,1,7,0,0,,93795134
+2019,Regular Season,Yomiuri Giants,49,"Jungmann, Taylor",P,10,0.833,3,2,1,0,,93795136
+2019,Climax Series - Final Stage,Yomiuri Giants,97,"De La Rosa, Rubby",P,3,0.000,0,0,0,0,,93795138
+2019,Japan Series,Yomiuri Giants,97,"De La Rosa, Rubby",P,1,0.000,0,0,0,0,,93795138
+2019,Regular Season,Yomiuri Giants,97,"De La Rosa, Rubby",P,26,1.000,2,3,0,0,,93795138
+2019,Regular Season,Hanshin Tigers,99,"Navarro, Efren",1B,11,1.000,96,5,0,11,,93995136

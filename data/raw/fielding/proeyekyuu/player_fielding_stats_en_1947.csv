@@ -1,0 +1,267 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+1947,Regular Season,Taiyo Robins,25,"Matsui, Nobukatsu",2B,12,0.961,23,26,2,9,,01003892
+1947,Regular Season,Taiyo Robins,25,"Matsui, Nobukatsu",SS,97,0.936,174,320,34,57,,01003892
+1947,Regular Season,Taiyo Robins,20,"Izutsu, Kenichi",P,34,0.946,3,50,3,4,,01103878
+1947,Regular Season,Hankyu Braves,16,"Imanishi, Rentaro",P,46,0.989,14,75,1,3,,01103892
+1947,Regular Season,Taiyo Robins,9,"Ikeda, Zenzo",P,30,0.915,10,44,5,5,,01103894
+1947,Regular Season,Chubu Nippon Dragons,4,"Osawa, Nobuo",1B,94,0.997,865,24,3,86,,01303874
+1947,Regular Season,Yomiuri Giants,16,"Kawakami, Tetsuharu",1B,119,0.997,1124,36,4,139,,01303876
+1947,Regular Season,Nankai Hawks,5,"Okamura, Toshiaki",OF,35,1.000,58,4,0,1,,01303878
+1947,Regular Season,Yomiuri Giants,21,"Kawasaki, Tokuji",OF,1,0.000,0,0,0,0,,01303891
+1947,Regular Season,Yomiuri Giants,21,"Kawasaki, Tokuji",P,51,0.988,19,65,1,9,,01303891
+1947,Regular Season,Nankai Hawks,27,"Kawanishi, Toshio",OF,107,0.989,260,12,3,5,,01303892
+1947,Regular Season,Yomiuri Giants,8,"Tanaka, Toshiaki",2B,1,1.000,1,2,0,0,,01303894
+1947,Regular Season,Yomiuri Giants,8,"Tanaka, Toshiaki",SS,109,0.946,216,323,31,69,,01303894
+1947,Regular Season,Kinsei Stars,30,"Tsubochi, Michinori",C,4,1.000,2,0,0,0,0,01403872
+1947,Regular Season,Kinsei Stars,30,"Tsubochi, Michinori",OF,119,0.989,366,7,4,3,,01403872
+1947,Regular Season,Hankyu Braves,21,"Mori, Kotaro",P,16,1.000,5,17,0,1,,01403874
+1947,Regular Season,Chubu Nippon Dragons,2,"Mizuno, Ryoichi",OF,3,1.000,6,0,0,0,,01503894
+1947,Regular Season,Yomiuri Giants,2,"Hagihara, Hiroshi",OF,86,0.984,182,7,3,2,,01503897
+1947,Regular Season,Yomiuri Giants,18,"Nakao, Hiroshi",OF,1,1.000,1,0,0,0,,01703878
+1947,Regular Season,Yomiuri Giants,18,"Nakao, Hiroshi",P,28,0.956,5,38,2,4,,01703878
+1947,Regular Season,Yomiuri Giants,6,"Takano, Hiroyoshi",P,19,0.944,4,13,1,1,,01703892
+1947,Regular Season,Taiyo Robins,11,"Fujii, Isamu",OF,119,0.980,234,10,5,3,,03103872
+1947,Regular Season,Kinsei Stars,23,"Nishizawa, Michio",1B,118,0.991,1172,39,11,108,,11013874
+1947,Regular Season,Kinsei Stars,23,"Nishizawa, Michio",P,1,0.000,0,0,0,0,,11013874
+1947,Regular Season,Tokyu Flyers,5,"Hitokoto, Taju",OF,109,0.966,277,9,10,4,,11013892
+1947,Regular Season,Tokyu Flyers,5,"Hitokoto, Taju",P,13,0.963,7,19,1,2,,11013892
+1947,Regular Season,Osaka Tigers,14,"Yasui, Tamaichi",1B,111,0.987,906,18,12,84,,11013895
+1947,Regular Season,Yomiuri Giants,28,"Ogata, Toshiaki",P,9,0.889,1,7,1,1,,11313894
+1947,Regular Season,Yomiuri Giants,17,"Kondo, Sadao",P,10,1.000,0,8,0,0,,11313897
+1947,Regular Season,Hankyu Braves,8,"Sakai, Toyoshi",3B,24,0.932,25,71,7,7,,11313899
+1947,Regular Season,Taiyo Robins,21,"Noda, Seiji",1B,1,1.000,4,0,0,2,,11513894
+1947,Regular Season,Yomiuri Giants,30,"Nakajima, Haruyasu",OF,34,0.986,67,3,1,1,,11613872
+1947,Regular Season,Hankyu Braves,9,"Tanaka, Naritaka",2B,1,1.000,1,2,0,0,,11713878
+1947,Regular Season,Hankyu Braves,9,"Tanaka, Naritaka",SS,107,0.943,188,342,32,47,,11713878
+1947,Regular Season,Tokyu Flyers,18,"Shiraki, Giichiro",1B,6,1.000,26,1,0,2,,11713892
+1947,Regular Season,Tokyu Flyers,18,"Shiraki, Giichiro",3B,3,1.000,2,1,0,0,,11713892
+1947,Regular Season,Tokyu Flyers,18,"Shiraki, Giichiro",OF,8,1.000,13,0,0,0,,11713892
+1947,Regular Season,Tokyu Flyers,18,"Shiraki, Giichiro",P,59,0.969,27,131,5,12,,11713892
+1947,Regular Season,Osaka Tigers,21,"Tsukamoto, Hiromutsu",OF,99,0.988,234,13,3,3,,11913874
+1947,Regular Season,Chubu Nippon Dragons,10,"Hattori, Tsuguhiro",3B,3,0.500,0,1,1,0,,11913878
+1947,Regular Season,Chubu Nippon Dragons,10,"Hattori, Tsuguhiro",P,39,1.000,10,61,0,2,,11913878
+1947,Regular Season,Osaka Tigers,6,"Togashi, Jun",2B,1,0.000,0,0,0,0,,11913892
+1947,Regular Season,Osaka Tigers,6,"Togashi, Jun",OF,68,0.969,148,8,5,3,,11913892
+1947,Regular Season,Osaka Tigers,30,"Wakabayashi, Tadashi",1B,1,1.000,3,0,0,0,,13913872
+1947,Regular Season,Osaka Tigers,30,"Wakabayashi, Tadashi",P,43,0.989,9,82,1,7,,13913872
+1947,Regular Season,Chubu Nippon Dragons,8,"Mimura, Isao",2B,1,0.000,0,0,0,0,,21023892
+1947,Regular Season,Chubu Nippon Dragons,8,"Mimura, Isao",3B,110,0.934,101,297,28,28,,21023892
+1947,Regular Season,Chubu Nippon Dragons,8,"Mimura, Isao",SS,14,0.863,12,32,7,5,,21023892
+1947,Regular Season,Chubu Nippon Dragons,20,"Iwamoto, Akira",OF,34,1.000,47,4,0,2,,21123876
+1947,Regular Season,Kinsei Stars,6,"Ezaki, Masayoshi",C,1,0.000,0,0,0,0,0,21123892
+1947,Regular Season,Kinsei Stars,6,"Ezaki, Masayoshi",OF,2,0.000,0,0,0,0,,21123892
+1947,Regular Season,Chubu Nippon Dragons,25,"Kasaishi, Tokugoro",1B,1,1.000,2,0,0,0,,21123897
+1947,Regular Season,Chubu Nippon Dragons,25,"Kasaishi, Tokugoro",OF,84,0.984,117,5,2,1,,21123897
+1947,Regular Season,Yomiuri Giants,12,"Takemiya, Toshiaki",3B,1,1.000,1,1,0,0,,21323894
+1947,Regular Season,Yomiuri Giants,12,"Takemiya, Toshiaki",C,56,0.953,154,48,10,7,1,21323894
+1947,Regular Season,Chubu Nippon Dragons,32,"Kozuru, Makoto",1B,48,0.995,380,9,2,39,,21323895
+1947,Regular Season,Chubu Nippon Dragons,32,"Kozuru, Makoto",3B,16,0.800,1,7,2,1,,21323895
+1947,Regular Season,Chubu Nippon Dragons,32,"Kozuru, Makoto",OF,66,1.000,136,5,0,1,,21323895
+1947,Regular Season,Taiyo Robins,6,"Kuramoto, Mitsuo",2B,3,1.000,2,2,0,1,,21323896
+1947,Regular Season,Taiyo Robins,6,"Kuramoto, Mitsuo",3B,4,0.786,4,7,3,2,,21323896
+1947,Regular Season,Taiyo Robins,6,"Kuramoto, Mitsuo",SS,18,0.836,19,37,11,14,,21323896
+1947,Regular Season,Kinsei Stars,8,"Tamakoshi, Tadayoshi",3B,2,0.333,1,0,2,0,,21523891
+1947,Regular Season,Kinsei Stars,8,"Tamakoshi, Tadayoshi",OF,40,0.973,102,7,3,2,,21523891
+1947,Regular Season,Kinsei Stars,7,"Sakamoto, Isao",OF,58,0.964,78,3,3,0,,21523892
+1947,Regular Season,Kinsei Stars,22,"Monma, Hiroshi",1B,1,1.000,4,0,0,0,,21523894
+1947,Regular Season,Kinsei Stars,22,"Monma, Hiroshi",OF,29,0.975,36,3,1,0,,21523894
+1947,Regular Season,Kinsei Stars,22,"Monma, Hiroshi",P,10,0.833,0,5,1,0,,21523894
+1947,Regular Season,Taiyo Robins,5,"Nakatani, Junji",3B,100,0.940,112,281,25,28,,21723876
+1947,Regular Season,Nankai Hawks,11,"Yasui, Naofumi",2B,114,0.948,302,299,33,76,,21723897
+1947,Regular Season,Kinsei Stars,10,"Mitomi, Tsuneo",P,34,1.000,10,45,0,1,,21923891
+1947,Regular Season,Osaka Tigers,11,"Nozaki, Hirokazu",P,14,1.000,3,13,0,3,,21923892
+1947,Regular Season,Osaka Tigers,10,"Fujimura, Fumio",2B,1,1.000,5,5,0,0,,23123872
+1947,Regular Season,Osaka Tigers,10,"Fujimura, Fumio",3B,118,0.952,134,339,24,32,,23123872
+1947,Regular Season,Taiyo Robins,19,"Hirano, Kenji",3B,18,0.879,18,40,8,3,,31033892
+1947,Regular Season,Taiyo Robins,19,"Hirano, Kenji",OF,10,1.000,16,4,0,1,,31033892
+1947,Regular Season,Taiyo Robins,19,"Hirano, Kenji",SS,17,0.869,20,53,11,10,,31033892
+1947,Regular Season,Hankyu Braves,10,"Araki, Shigeru",2B,5,0.850,9,8,3,2,,31133892
+1947,Regular Season,Hankyu Braves,10,"Araki, Shigeru",3B,62,0.902,47,155,22,18,,31133892
+1947,Regular Season,Hankyu Braves,10,"Araki, Shigeru",SS,18,0.893,22,45,8,7,,31133892
+1947,Regular Season,Hankyu Braves,22,"Akashi, Koichi",2B,1,1.000,0,1,0,0,,31133894
+1947,Regular Season,Hankyu Braves,22,"Akashi, Koichi",P,1,0.000,0,0,0,0,,31133894
+1947,Regular Season,Hankyu Braves,22,"Akashi, Koichi",SS,1,0.000,0,0,1,0,,31133894
+1947,Regular Season,Hankyu Braves,12,"Aota, Noboru",OF,118,0.994,339,13,2,8,,31133895
+1947,Regular Season,Chubu Nippon Dragons,16,"Inoe, Yoshihiro",OF,1,0.000,0,0,0,0,,31133899
+1947,Regular Season,Chubu Nippon Dragons,16,"Inoe, Yoshihiro",P,5,1.000,0,6,0,0,,31133899
+1947,Regular Season,Taiyo Robins,15,"Yuasa, Yoshiaki",P,7,1.000,3,11,0,2,,31233892
+1947,Regular Season,Hankyu Braves,6,"Ueda, Fujio",2B,108,0.965,296,291,21,78,,31333874
+1947,Regular Season,Hankyu Braves,6,"Ueda, Fujio",3B,1,0.000,0,0,0,0,,31333874
+1947,Regular Season,Tokyu Flyers,7,"Osawa, Kiyoshi",2B,5,1.000,10,8,0,2,,31333892
+1947,Regular Season,Tokyu Flyers,7,"Osawa, Kiyoshi",3B,85,0.896,82,150,27,24,,31333892
+1947,Regular Season,Tokyu Flyers,7,"Osawa, Kiyoshi",SS,1,0.000,0,0,2,0,,31333892
+1947,Regular Season,Osaka Tigers,18,"Kajioka, Tadayoshi",P,37,0.947,8,46,3,1,,31333894
+1947,Regular Season,Nankai Hawks,10,"Sakata, Kiyoharu",C,47,0.987,200,22,3,2,3,31333899
+1947,Regular Season,Chubu Nippon Dragons,14,"Shimizu, Hideo",P,42,0.984,5,58,1,5,,31533891
+1947,Regular Season,Tokyu Flyers,2,"Kumagami, Takehiko",1B,26,0.987,215,6,3,29,,31533892
+1947,Regular Season,Tokyu Flyers,2,"Kumagami, Takehiko",C,42,0.962,106,22,5,3,2,31533892
+1947,Regular Season,Chubu Nippon Dragons,24,"Furukawa, Seizo",OF,108,0.980,289,10,6,5,,31533893
+1947,Regular Season,Hankyu Braves,50,"Hamazaki, Shinji",P,4,0.857,1,5,1,0,,31533894
+1947,Regular Season,Nankai Hawks,15,"Matsukawa, Hiroji",P,19,0.950,6,13,1,1,,31533899
+1947,Regular Season,Yomiuri Giants,3,"Chiba, Shigeru",2B,103,0.969,340,312,21,108,,31733876
+1947,Regular Season,Chubu Nippon Dragons,30,"Sugiura, Kiyoshi",3B,1,0.000,0,0,0,0,,31733892
+1947,Regular Season,Chubu Nippon Dragons,30,"Sugiura, Kiyoshi",SS,112,0.943,228,404,38,76,,31733892
+1947,Regular Season,Hankyu Braves,1,"Hibino, Takeshi",C,100,0.984,240,64,5,12,5,31933878
+1947,Regular Season,Hankyu Braves,28,"Torii, Hyoji",OF,1,0.000,0,0,0,0,,31933892
+1947,Regular Season,Nankai Hawks,12,"Bessho, Takehiko",1B,12,0.965,80,3,3,5,,31933895
+1947,Regular Season,Nankai Hawks,12,"Bessho, Takehiko",P,55,0.955,10,118,6,11,,31933895
+1947,Regular Season,Taiyo Robins,7,"Iwasaki, Hisataro",OF,3,1.000,5,0,0,0,,41143894
+1947,Regular Season,Chubu Nippon Dragons,29,"Kanayama, Jiro",2B,118,0.973,310,337,18,100,,41143897
+1947,Regular Season,Chubu Nippon Dragons,29,"Kanayama, Jiro",SS,1,1.000,1,0,0,1,,41143897
+1947,Regular Season,Yomiuri Giants,5,"Uchibori, Tamotsu",C,84,0.961,290,51,14,6,1,41343872
+1947,Regular Season,Tokyu Flyers,20,"Kitagawa, Keitaro",1B,1,1.000,1,0,0,0,,41343892
+1947,Regular Season,Tokyu Flyers,20,"Kitagawa, Keitaro",P,25,0.972,2,33,1,4,,41343892
+1947,Regular Season,Tokyu Flyers,11,"Dezawa, Masao",P,2,0.000,0,0,0,0,,41343894
+1947,Regular Season,Yomiuri Giants,22,"Komatsubara, Hiroki",2B,1,0.833,3,2,1,0,,41343895
+1947,Regular Season,Yomiuri Giants,22,"Komatsubara, Hiroki",OF,97,0.984,244,7,4,3,,41343895
+1947,Regular Season,Yomiuri Giants,22,"Komatsubara, Hiroki",P,13,1.000,4,19,0,4,,41343895
+1947,Regular Season,Osaka Tigers,16,"Takechi, Osamu",2B,9,0.965,29,26,2,6,,41343897
+1947,Regular Season,Osaka Tigers,16,"Takechi, Osamu",3B,2,1.000,3,1,0,0,,41343897
+1947,Regular Season,Osaka Tigers,16,"Takechi, Osamu",P,20,1.000,5,29,0,2,,41343897
+1947,Regular Season,Osaka Tigers,16,"Takechi, Osamu",SS,19,0.895,32,53,10,7,,41343897
+1947,Regular Season,Osaka Tigers,19,"Doigaki, Takeshi",C,116,0.974,371,85,12,10,0,41543891
+1947,Regular Season,Tokyu Flyers,21,"Shimizu, Kiichiro",2B,39,0.960,101,91,8,18,,41543892
+1947,Regular Season,Tokyu Flyers,21,"Shimizu, Kiichiro",SS,12,0.902,17,38,6,8,,41543892
+1947,Regular Season,Kinsei Stars,11,"Tsuji, Isao",C,115,0.972,319,60,11,10,3,41743892
+1947,Regular Season,Yomiuri Giants,15,"Miyashita, Nobuaki",2B,11,0.939,26,20,3,6,,41943895
+1947,Regular Season,Yomiuri Giants,15,"Miyashita, Nobuaki",3B,7,1.000,8,14,0,3,,41943895
+1947,Regular Season,Yomiuri Giants,15,"Miyashita, Nobuaki",P,4,1.000,0,8,0,1,,41943895
+1947,Regular Season,Yomiuri Giants,15,"Miyashita, Nobuaki",SS,1,1.000,0,1,0,0,,41943895
+1947,Regular Season,Chubu Nippon Dragons,6,"Yamamoto, Hisatoshi",2B,5,1.000,6,6,0,0,,43743872
+1947,Regular Season,Chubu Nippon Dragons,6,"Yamamoto, Hisatoshi",3B,21,0.978,13,32,1,5,,43743872
+1947,Regular Season,Chubu Nippon Dragons,6,"Yamamoto, Hisatoshi",OF,1,0.000,0,0,0,0,,43743872
+1947,Regular Season,Hankyu Braves,29,"Morita, Sadao",1B,21,0.992,126,6,1,12,,51053891
+1947,Regular Season,Tokyu Flyers,4,"Iijima, Shigeya",1B,94,0.992,846,22,7,93,,51153892
+1947,Regular Season,Tokyu Flyers,4,"Iijima, Shigeya",2B,1,0.000,0,0,1,0,,51153892
+1947,Regular Season,Tokyu Flyers,4,"Iijima, Shigeya",3B,25,0.904,18,48,7,5,,51153892
+1947,Regular Season,Kinsei Stars,19,"Akieda, Juichiro",P,3,0.000,0,0,0,0,,51153894
+1947,Regular Season,Taiyo Robins,17,"Starffin, Victor",P,20,0.980,7,43,1,5,,51253872
+1947,Regular Season,Tokyu Flyers,3,"Oshita, Hiroshi",1B,3,1.000,13,0,0,1,,51353892
+1947,Regular Season,Tokyu Flyers,3,"Oshita, Hiroshi",OF,115,0.947,232,19,14,5,,51353892
+1947,Regular Season,Tokyu Flyers,3,"Oshita, Hiroshi",P,1,1.000,1,0,0,0,,51353892
+1947,Regular Season,Chubu Nippon Dragons,22,"Kanbayashi, Shigejiro",C,42,0.968,105,16,4,2,3,51353894
+1947,Regular Season,Taiyo Robins,18,"Sanada, Juzo",1B,1,0.000,0,0,0,0,,51353897
+1947,Regular Season,Taiyo Robins,18,"Sanada, Juzo",P,52,0.976,15,106,3,15,,51353897
+1947,Regular Season,Kinsei Stars,16,"Otomo, Kazuaki",2B,114,0.956,332,304,29,81,,51553872
+1947,Regular Season,Nankai Hawks,6,"Kobayashi, Goro",2B,1,1.000,2,4,0,2,,51553876
+1947,Regular Season,Nankai Hawks,6,"Kobayashi, Goro",SS,82,0.922,170,246,35,49,,51553876
+1947,Regular Season,Tokyu Flyers,8,"Kuro, Shigeaki",OF,10,1.000,14,2,0,0,,51553892
+1947,Regular Season,Tokyu Flyers,8,"Kuro, Shigeaki",P,49,0.932,15,94,8,13,,51553892
+1947,Regular Season,Chubu Nippon Dragons,21,"Hamazaki, Tadaharu",2B,6,1.000,1,5,0,0,,51553894
+1947,Regular Season,Chubu Nippon Dragons,21,"Hamazaki, Tadaharu",3B,5,0.667,0,2,1,0,,51553894
+1947,Regular Season,Chubu Nippon Dragons,21,"Hamazaki, Tadaharu",P,3,1.000,0,4,0,0,,51553894
+1947,Regular Season,Chubu Nippon Dragons,17,"Sugie, Bunji",OF,58,0.974,71,4,2,1,,51553895
+1947,Regular Season,Tokyu Flyers,30,"Karita, Hisanori",2B,79,0.967,246,252,17,80,,51753872
+1947,Regular Season,Tokyu Flyers,30,"Karita, Hisanori",3B,5,0.750,2,4,2,1,,51753872
+1947,Regular Season,Tokyu Flyers,30,"Karita, Hisanori",SS,7,0.974,20,17,1,7,,51753872
+1947,Regular Season,Tokyu Flyers,22,"Suzuki, Keiichiro",C,76,0.954,222,50,13,11,3,51753892
+1947,Regular Season,Chubu Nippon Dragons,7,"Noguchi, Masaaki",OF,13,0.850,16,1,3,0,,51753895
+1947,Regular Season,Nankai Hawks,18,"Maruyama, Fumio",1B,8,0.972,68,2,2,5,,51753897
+1947,Regular Season,Nankai Hawks,18,"Maruyama, Fumio",OF,1,1.000,3,0,0,0,,51753897
+1947,Regular Season,Nankai Hawks,18,"Maruyama, Fumio",P,37,0.951,6,52,3,3,,51753897
+1947,Regular Season,Hankyu Braves,4,"Noguchi, Akira",1B,106,0.995,1050,31,5,88,,51853872
+1947,Regular Season,Hankyu Braves,4,"Noguchi, Akira",C,14,0.959,38,9,2,2,1,51853872
+1947,Regular Season,Yomiuri Giants,4,"Kurosawa, Toshio",OF,26,1.000,43,0,0,0,,51953872
+1947,Regular Season,Osaka Tigers,15,"Misono, Takao",1B,5,1.000,11,0,0,3,,53553872
+1947,Regular Season,Osaka Tigers,15,"Misono, Takao",OF,5,1.000,7,0,0,0,,53553872
+1947,Regular Season,Osaka Tigers,15,"Misono, Takao",P,30,1.000,4,32,0,1,,53553872
+1947,Regular Season,Osaka Tigers,8,"Yamaguchi, Masanobu",1B,37,0.977,205,4,5,20,,53753872
+1947,Regular Season,Osaka Tigers,8,"Yamaguchi, Masanobu",OF,4,1.000,9,0,0,0,,53753872
+1947,Regular Season,Kinsei Stars,18,"Shigematsu, Michio",P,40,0.974,7,68,2,3,,61063872
+1947,Regular Season,Yomiuri Giants,25,"Hirayama, Kikuji",OF,116,0.977,247,10,6,5,,61063874
+1947,Regular Season,Nankai Hawks,7,"Iwamoto, Nobukazu",P,5,0.813,1,12,3,3,,61163894
+1947,Regular Season,Osaka Tigers,2,"Kobayashi, Eiichi",C,4,1.000,4,2,0,0,1,61163899
+1947,Regular Season,Chubu Nippon Dragons,5,"Kato, Shoji",OF,81,0.978,170,9,4,4,,61363878
+1947,Regular Season,Kinsei Stars,9,"Kiyohara, Hatsuo",3B,73,0.934,81,188,19,20,,61363892
+1947,Regular Season,Kinsei Stars,9,"Kiyohara, Hatsuo",C,19,0.909,35,5,4,0,0,61363892
+1947,Regular Season,Kinsei Stars,9,"Kiyohara, Hatsuo",P,3,1.000,2,3,0,0,,61363892
+1947,Regular Season,Kinsei Stars,9,"Kiyohara, Hatsuo",SS,41,0.938,86,169,17,21,,61363892
+1947,Regular Season,Osaka Tigers,9,"Hasegawa, Zenzo",SS,104,0.920,190,350,47,71,,61363893
+1947,Regular Season,Nankai Hawks,20,"Nakatani, Nobuo",P,42,0.908,4,55,6,3,,61363894
+1947,Regular Season,Hankyu Braves,11,"Yamada, Den",OF,90,1.000,215,7,0,3,,61463874
+1947,Regular Season,Osaka Tigers,17,"Watanabe, Seitaro",1B,2,1.000,10,0,0,1,,61563893
+1947,Regular Season,Osaka Tigers,17,"Watanabe, Seitaro",P,21,1.000,1,23,0,4,,61563893
+1947,Regular Season,Hankyu Braves,19,"Tenpo, Yoshio",P,39,0.987,8,66,1,5,,61563895
+1947,Regular Season,Nankai Hawks,9,"Horii, Kazuo",1B,12,1.000,118,0,0,12,,61563897
+1947,Regular Season,Nankai Hawks,9,"Horii, Kazuo",OF,103,0.962,219,11,9,2,,61563897
+1947,Regular Season,Taiyo Robins,2,"Tsujii, Hiroshi",1B,21,0.985,126,7,2,9,,61763892
+1947,Regular Season,Taiyo Robins,2,"Tsujii, Hiroshi",OF,108,0.978,206,16,5,4,,61763892
+1947,Regular Season,Chubu Nippon Dragons,9,"Fujiwara, Tetsunosuke",C,105,0.973,300,63,10,7,3,61763895
+1947,Regular Season,Nankai Hawks,30,"Yamamoto, Kazuto",1B,3,1.000,19,0,0,3,,71073878
+1947,Regular Season,Nankai Hawks,30,"Yamamoto, Kazuto",3B,118,0.951,136,334,24,34,,71073878
+1947,Regular Season,Nankai Hawks,30,"Yamamoto, Kazuto",P,1,0.000,0,0,0,0,,71073878
+1947,Regular Season,Yomiuri Giants,7,"Yamakawa, Takenori",3B,104,0.948,112,291,22,37,,71073891
+1947,Regular Season,Yomiuri Giants,7,"Yamakawa, Takenori",SS,3,0.938,5,10,1,2,,71073891
+1947,Regular Season,Yomiuri Giants,11,"Furuya, Takeo",2B,13,0.927,24,27,4,8,,71073892
+1947,Regular Season,Yomiuri Giants,11,"Furuya, Takeo",3B,11,0.893,7,18,3,4,,71073892
+1947,Regular Season,Yomiuri Giants,11,"Furuya, Takeo",SS,17,0.843,16,27,8,4,,71073892
+1947,Regular Season,Taiyo Robins,22,"Isegawa, Masumi",C,117,0.978,468,103,13,16,7,71173891
+1947,Regular Season,Kinsei Stars,17,"Eda, Takashi",P,45,0.977,9,76,2,3,,71173893
+1947,Regular Season,Taiyo Robins,24,"Arakawa, Shoji",1B,4,0.900,17,1,2,2,,71173894
+1947,Regular Season,Taiyo Robins,24,"Arakawa, Shoji",2B,115,0.962,326,310,25,83,,71173894
+1947,Regular Season,Taiyo Robins,24,"Arakawa, Shoji",OF,1,1.000,0,1,0,0,,71173894
+1947,Regular Season,Osaka Tigers,24,"Hondo, Yasuya",2B,111,0.952,311,298,31,84,,71273874
+1947,Regular Season,Osaka Tigers,24,"Hondo, Yasuya",C,1,1.000,4,0,0,0,0,71273874
+1947,Regular Season,Yomiuri Giants,19,"Tada, Fukuzo",C,4,1.000,8,1,0,1,0,71373893
+1947,Regular Season,Yomiuri Giants,19,"Tada, Fukuzo",OF,21,0.932,36,5,3,2,,71373893
+1947,Regular Season,Yomiuri Giants,19,"Tada, Fukuzo",P,34,0.973,6,66,2,9,,71373893
+1947,Regular Season,Hankyu Braves,14,"Sakamoto, Yoshikazu",OF,82,0.995,183,10,1,5,,71373894
+1947,Regular Season,Osaka Tigers,7,"Kaneda, Masayasu",1B,2,0.857,6,0,1,2,,71373895
+1947,Regular Season,Osaka Tigers,7,"Kaneda, Masayasu",OF,107,0.985,253,10,4,1,,71373895
+1947,Regular Season,Hankyu Braves,15,"Shimoyashiro, Kunio",OF,100,0.978,221,2,5,1,,71373897
+1947,Regular Season,Kinsei Stars,3,"Sakazawa, Seiji",3B,42,0.925,41,106,12,14,,71573876
+1947,Regular Season,Kinsei Stars,3,"Sakazawa, Seiji",OF,2,0.857,6,0,1,0,,71573876
+1947,Regular Season,Kinsei Stars,3,"Sakazawa, Seiji",SS,72,0.897,132,232,42,40,,71573876
+1947,Regular Season,Kinsei Stars,21,"Komae, Hirofumi",OF,119,0.968,264,10,9,2,,71573892
+1947,Regular Season,Nankai Hawks,13,"Matsuba, Noboru",2B,4,1.000,9,8,0,0,,71573894
+1947,Regular Season,Nankai Hawks,13,"Matsuba, Noboru",3B,4,0.929,4,9,1,2,,71573894
+1947,Regular Season,Nankai Hawks,13,"Matsuba, Noboru",OF,21,1.000,27,5,0,2,,71573894
+1947,Regular Season,Nankai Hawks,13,"Matsuba, Noboru",SS,59,0.889,86,138,28,26,,71573894
+1947,Regular Season,Kinsei Stars,20,"Nakamura, Shinichi",2B,6,0.968,7,23,1,0,,71673872
+1947,Regular Season,Kinsei Stars,20,"Nakamura, Shinichi",3B,14,0.865,11,21,5,2,,71673872
+1947,Regular Season,Kinsei Stars,20,"Nakamura, Shinichi",OF,9,0.938,13,2,1,0,,71673872
+1947,Regular Season,Kinsei Stars,20,"Nakamura, Shinichi",SS,16,0.872,25,43,10,8,,71673872
+1947,Regular Season,Tokyu Flyers,16,"Suzuki, Seiichi",SS,101,0.897,177,338,59,57,,71773892
+1947,Regular Season,Tokyu Flyers,1,"Nagamochi, Eikichi",3B,1,1.000,0,2,0,0,,71973892
+1947,Regular Season,Tokyu Flyers,1,"Nagamochi, Eikichi",OF,119,0.978,341,17,8,9,,71973892
+1947,Regular Season,Taiyo Robins,4,"Morishita, Shigeyoshi",OF,119,0.974,287,14,8,4,,81083892
+1947,Regular Season,Yomiuri Giants,29,"Uno, Mitsuo",3B,3,0.909,2,8,1,1,,81183894
+1947,Regular Season,Hankyu Braves,17,"Mizobe, Takeo",P,7,1.000,0,4,0,0,,81283874
+1947,Regular Season,Hankyu Braves,2,"Kusunoki, Yasuo",C,24,1.000,64,9,0,2,0,81383876
+1947,Regular Season,Chubu Nippon Dragons,11,"Kuno, Katsumi",P,19,1.000,1,17,0,1,,81383892
+1947,Regular Season,Yomiuri Giants,24,"Nagahara, Takaji",P,1,0.000,0,0,0,0,,81383894
+1947,Regular Season,Kinsei Stars,2,"Naito, Kozo",1B,1,0.833,5,0,1,1,,81483872
+1947,Regular Season,Kinsei Stars,2,"Naito, Kozo",OF,2,1.000,3,0,0,0,,81483872
+1947,Regular Season,Kinsei Stars,2,"Naito, Kozo",P,38,0.966,18,39,2,2,,81483872
+1947,Regular Season,Tokyu Flyers,9,"Seike, Chutaro",C,22,0.985,55,9,1,0,1,81583878
+1947,Regular Season,Tokyu Flyers,10,"Shibata, Shigeo",OF,15,0.870,20,0,3,0,,81583892
+1947,Regular Season,Hankyu Braves,18,"Noguchi, Jiro",1B,4,1.000,29,1,0,1,,81783878
+1947,Regular Season,Hankyu Braves,18,"Noguchi, Jiro",3B,1,0.000,0,0,0,0,,81783878
+1947,Regular Season,Hankyu Braves,18,"Noguchi, Jiro",OF,13,1.000,9,1,0,1,,81783878
+1947,Regular Season,Hankyu Braves,18,"Noguchi, Jiro",P,56,1.000,16,77,0,6,,81783878
+1947,Regular Season,Taiyo Robins,16,"Fujimura, Takao",1B,1,1.000,4,0,0,1,,81783891
+1947,Regular Season,Taiyo Robins,16,"Fujimura, Takao",OF,15,1.000,28,0,0,0,,81783891
+1947,Regular Season,Taiyo Robins,16,"Fujimura, Takao",P,5,1.000,1,8,0,0,,81783891
+1947,Regular Season,Nankai Hawks,2,"Tsutsui, Keizo",C,86,0.967,327,79,14,10,2,81783892
+1947,Regular Season,Chubu Nippon Dragons,3,"Fujimoto, Hideo",OF,1,0.000,0,0,0,0,,81783895
+1947,Regular Season,Chubu Nippon Dragons,3,"Fujimoto, Hideo",P,35,0.975,9,70,2,6,,81783895
+1947,Regular Season,Yomiuri Giants,20,"Hayashi, Kiyomitsu",OF,27,1.000,20,0,0,0,,81883872
+1947,Regular Season,Tokyu Flyers,14,"Yokozawa, Shichiro",2B,7,0.935,14,15,2,3,,83783872
+1947,Regular Season,Tokyu Flyers,14,"Yokozawa, Shichiro",3B,25,0.895,35,59,11,9,,83783872
+1947,Regular Season,Kinsei Stars,14,"Yamamoto, Hideo",OF,25,0.971,31,2,1,1,,91093891
+1947,Regular Season,Chubu Nippon Dragons,12,"Hoshida, Jiro",P,15,1.000,1,11,0,0,,91093892
+1947,Regular Season,Nankai Hawks,23,"Iida, Tokuji",1B,93,0.993,899,18,6,89,,91193894
+1947,Regular Season,Nankai Hawks,23,"Iida, Tokuji",OF,1,1.000,1,0,0,0,,91193894
+1947,Regular Season,Nankai Hawks,23,"Iida, Tokuji",P,2,1.000,0,1,0,0,,91193894
+1947,Regular Season,Chubu Nippon Dragons,19,"Matsuo, Kozo",P,7,1.000,1,1,0,0,,91293874
+1947,Regular Season,Tokyu Flyers,19,"Kamiguchi, Masa",1B,4,1.000,34,1,0,3,,91393892
+1947,Regular Season,Tokyu Flyers,19,"Kamiguchi, Masa",P,2,1.000,0,1,0,1,,91393892
+1947,Regular Season,Nankai Hawks,24,"Sakurai, Sadao",C,3,1.000,4,0,0,0,0,91393894
+1947,Regular Season,Osaka Tigers,23,"Go, Shosei",OF,113,0.997,317,14,1,6,,91593874
+1947,Regular Season,Osaka Tigers,23,"Go, Shosei",P,1,1.000,0,1,0,0,,91593874
+1947,Regular Season,Taiyo Robins,23,"Satake, Kazuo",1B,106,0.990,1073,32,11,111,,91593892
+1947,Regular Season,Taiyo Robins,23,"Satake, Kazuo",C,5,0.867,10,3,2,0,1,91593892
+1947,Regular Season,Hankyu Braves,5,"Yasui, Kentaro",2B,18,0.981,24,27,1,7,,91593893
+1947,Regular Season,Hankyu Braves,5,"Yasui, Kentaro",3B,49,0.930,43,131,13,10,,91593893
+1947,Regular Season,Tokyu Flyers,17,"Matsumoto, Futoshi",P,1,0.000,0,0,0,0,,91593894
+1947,Regular Season,Nankai Hawks,26,"Tagawa, Yutaka",OF,101,0.985,183,15,3,2,,91793892

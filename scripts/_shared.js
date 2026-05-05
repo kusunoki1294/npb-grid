@@ -107,7 +107,16 @@ export function parseCsv(text) {
   }
 
   const [headerRow, ...dataRows] = rows;
-  const headers = headerRow.map((header) => header.trim());
+  const headers = headerRow.map((header) =>
+    header
+      .trim()
+      .toLowerCase()
+      .replace(/\uFEFF/g, '')
+      .replace(/[%/().-]+/g, '_')
+      .replace(/\s+/g, '_')
+      .replace(/_+/g, '_')
+      .replace(/^_+|_+$/g, ''),
+  );
 
   return dataRows.map((dataRow) =>
     Object.fromEntries(

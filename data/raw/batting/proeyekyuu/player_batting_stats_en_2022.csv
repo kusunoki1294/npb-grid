@@ -1,0 +1,980 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+2022,Regular Season,Chiba Lotte Marines,47,"Tanaka, Yasuhiro",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005112
+2022,Regular Season,Yomiuri Giants,5,"Nakajima, Hiroyuki",PH,62,111,99,0.242,0.315,0.333,0.648,5,20,24,17,6,0,1,33,0,1,10,0,24,5,1,0,1,01005113
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,31,"Takahama, Yuto",DH,7,18,17,0.059,0.056,0.059,0.115,0,1,1,1,0,0,0,1,0,0,0,0,12,0,0,0,1,01005130
+2022,Regular Season,Hanshin Tigers,9,"Takayama, Shun",PH,38,56,53,0.189,0.218,0.226,0.444,1,0,10,8,2,0,0,12,2,0,2,0,12,0,0,1,0,01005132
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,41,"Senga, Koudai",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005133
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,41,"Senga, Koudai",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005133
+2022,Regular Season,Fukuoka Softbank Hawks,41,"Senga, Koudai",P,22,3,2,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,01005133
+2022,Regular Season,Fukuoka Softbank Hawks,18,"Takeda, Shota",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005135
+2022,Regular Season,Fukuoka Softbank Hawks,28,"Takahashi, Rei",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005136
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,16,"Higashihama, Nao",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005137
+2022,Regular Season,Fukuoka Softbank Hawks,16,"Higashihama, Nao",P,23,4,3,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,01005137
+2022,Regular Season,Saitama Seibu Lions,26,"Sasaki, Takeru",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005153
+2022,Regular Season,Tokyo Yakult Swallows,10,"Araki, Takahiro",1B,47,28,22,0.136,0.321,0.182,0.503,4,0,3,2,1,0,0,4,0,0,6,0,7,0,0,0,0,01105131
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,52,"Ikeda, Takahide",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01105134
+2022,Regular Season,Yomiuri Giants,36,"Ishikawa, Shingo",PH,22,32,29,0.276,0.344,0.379,0.723,3,2,8,5,3,0,0,11,0,0,3,1,9,0,0,0,0,01105135
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,53,"Izumi, Keisuke",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01105138
+2022,Regular Season,Fukuoka Softbank Hawks,53,"Izumi, Keisuke",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01105138
+2022,Climax Series - Final Stage,Orix Buffaloes,45,"Abe, Shota",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01105153
+2022,Japan Series,Orix Buffaloes,45,"Abe, Shota",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01105153
+2022,Regular Season,Orix Buffaloes,45,"Abe, Shota",P,44,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01105153
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,39,"Arizono, Naoki",DH,4,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,01105155
+2022,Regular Season,Chunichi Dragons,63,"Donoue, Naomichi",1B,16,18,18,0.278,0.278,0.278,0.556,0,0,5,5,0,0,0,5,0,0,0,0,4,1,0,0,0,01205114
+2022,Regular Season,Chiba Lotte Marines,29,"Nishino, Yuji",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205118
+2022,Regular Season,Saitama Seibu Lions,65,"Togawa, Daisuke",PH,6,7,6,0.000,0.143,0.000,0.143,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,01205130
+2022,Regular Season,Saitama Seibu Lions,40,"Tamura, Ichiro",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205134
+2022,Regular Season,Chiba Lotte Marines,48,"Nakamura, Toshiya",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205138
+2022,Regular Season,Yokohama DeNA Baystars,55,"Tanabe, Hayato",PH,3,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,01205151
+2022,Regular Season,Tohoku Rakuten Golden Eagles,29,"Takada, Koichi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205153
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,16,"Tatsu, Kota",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205155
+2022,Climax Series - Final Stage,Hanshin Tigers,62,"Ueda, Kai",2B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01305130
+2022,Regular Season,Hanshin Tigers,62,"Ueda, Kai",2B,57,14,12,0.250,0.357,0.250,0.607,10,1,3,3,0,0,0,3,4,2,2,0,1,0,0,0,0,01305130
+2022,Regular Season,Chunichi Dragons,8,"Ohshima, Yohei",CF,109,482,436,0.314,0.376,0.367,0.743,48,20,137,117,18,1,1,160,11,4,34,5,52,1,9,3,0,01305131
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,21,"Imanaga, Shota",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01305132
+2022,Regular Season,Yokohama DeNA Baystars,21,"Imanaga, Shota",P,21,47,38,0.184,0.205,0.211,0.416,2,4,7,6,1,0,0,8,0,0,1,0,9,1,0,8,0,01305132
+2022,Regular Season,Tokyo Yakult Swallows,64,"Ohshita, Yuma",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01305136
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,16,"Ohnuki, Shinichi",P,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01305138
+2022,Regular Season,Yokohama DeNA Baystars,16,"Ohnuki, Shinichi",P,24,44,33,0.030,0.030,0.030,0.060,0,0,1,1,0,0,0,1,0,0,0,0,13,0,0,11,0,01305138
+2022,Regular Season,Tohoku Rakuten Golden Eagles,67,"Uchida, Yasuhito",PH,8,14,10,0.100,0.231,0.100,0.331,0,2,1,1,0,0,0,1,0,0,2,0,4,0,0,1,1,01305139
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,48,"Ueno, Kyohei",SS,12,31,27,0.074,0.138,0.111,0.249,2,0,2,1,1,0,0,3,0,0,2,0,9,0,0,2,0,01305151
+2022,Regular Season,Hiroshima Toyo Carp,55,"Matsuyama, Ryuhei",PH,88,166,152,0.217,0.265,0.303,0.568,9,23,33,24,7,0,2,46,0,0,11,1,22,2,0,0,3,01405116
+2022,Regular Season,Hiroshima Toyo Carp,37,"Noma, Takayoshi",RF,85,338,317,0.312,0.347,0.397,0.744,42,16,99,75,21,3,0,126,7,5,16,0,53,5,1,4,0,01405130
+2022,Regular Season,Orix Buffaloes,25,"Nishimura, Ryo",LF,16,47,45,0.133,0.152,0.289,0.441,0,6,6,0,5,1,0,13,0,0,1,0,12,0,0,1,0,01405136
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,38,"Mori, Yuito",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01405139
+2022,Regular Season,Fukuoka Softbank Hawks,38,"Mori, Yuito",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01405139
+2022,Regular Season,Hiroshima Toyo Carp,54,"Nirasawa, Yuya",PH,7,12,10,0.100,0.182,0.100,0.282,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,1,0,01405151
+2022,Regular Season,Hiroshima Toyo Carp,50,"Nakamura, Kento",RF,63,137,121,0.240,0.285,0.339,0.624,12,10,29,23,3,0,3,41,0,0,8,2,31,1,0,7,1,01405155
+2022,Regular Season,Tohoku Rakuten Golden Eagles,58,"Karashima, Wataru",P,17,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,01505118
+2022,Regular Season,Fukuoka Softbank Hawks,67,"Kasaya, Shunsuke",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01505130
+2022,Regular Season,Tohoku Rakuten Golden Eagles,4,"Okoye, Louis",CF,6,25,25,0.200,0.200,0.200,0.400,2,0,5,5,0,0,0,5,1,0,0,0,8,0,0,0,0,01505132
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,63,"Kitaura, Ryuji",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01505136
+2022,Climax Series - First Stage,Saitama Seibu Lions,7,"Kaneko, Yuji",LF,2,7,7,0.429,0.429,0.571,1.000,0,1,3,2,1,0,0,4,0,0,0,0,1,0,0,0,0,01505137
+2022,Regular Season,Saitama Seibu Lions,7,"Kaneko, Yuji",LF,44,128,119,0.277,0.323,0.370,0.693,12,4,33,26,4,2,1,44,3,3,8,0,25,0,0,1,0,01505137
+2022,Regular Season,Hanshin Tigers,95,"Katayama, Yuya",C,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,01505138
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,42,"Ohzeki, Tomohisa",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01505151
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,42,"Ohzeki, Tomohisa",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01505151
+2022,Regular Season,Fukuoka Softbank Hawks,42,"Ohzeki, Tomohisa",P,21,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,01505151
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,4,"Kamikawabata, Daigo",SS,80,301,261,0.291,0.360,0.356,0.716,22,17,76,65,7,2,2,93,8,10,21,0,45,3,7,12,0,01505155
+2022,Climax Series - First Stage,Saitama Seibu Lions,31,"Hiranuma, Shota",3B,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01605132
+2022,Regular Season,Saitama Seibu Lions,31,"Hiranuma, Shota",3B,30,88,73,0.260,0.356,0.342,0.698,8,3,19,16,1,1,1,25,4,0,11,0,14,1,1,1,2,01605132
+2022,Regular Season,Chiba Lotte Marines,15,"Mima, Manabu",P,20,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01605133
+2022,Climax Series - Final Stage,Orix Buffaloes,1,"Fukuda, Shuhei",CF,4,18,16,0.188,0.235,0.188,0.423,0,0,3,3,0,0,0,3,1,0,1,0,0,0,0,1,0,01605136
+2022,Japan Series,Orix Buffaloes,1,"Fukuda, Shuhei",CF,5,15,10,0.100,0.308,0.100,0.408,0,1,1,1,0,0,0,1,0,0,3,0,3,0,0,2,0,01605136
+2022,Regular Season,Orix Buffaloes,1,"Fukuda, Shuhei",CF,118,502,448,0.268,0.328,0.319,0.647,65,24,120,103,11,6,0,143,9,7,32,0,50,8,8,14,0,01605136
+2022,Regular Season,Yomiuri Giants,61,"Masuda, Riku",1B,69,156,140,0.250,0.318,0.400,0.718,15,16,35,24,6,0,5,56,2,0,13,1,42,3,1,2,0,01605138
+2022,Regular Season,Fukuoka Softbank Hawks,24,"Kurihara, Ryoya",LF,5,20,17,0.353,0.450,0.765,1.215,3,5,6,3,1,0,2,13,0,0,3,0,1,0,0,0,0,01705130
+2022,Regular Season,Chiba Lotte Marines,92,"Kuniyoshi, Yuki",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01705131
+2022,Japan Series,Tokyo Yakult Swallows,014,"Kozawa, Reiji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01705132
+2022,Regular Season,Tokyo Yakult Swallows,014,"Kozawa, Reiji",P,10,14,12,0.167,0.167,0.167,0.334,1,0,2,2,0,0,0,2,0,0,0,0,4,0,0,2,0,01705132
+2022,Regular Season,Tokyo Yakult Swallows,57,"Koga, Yudai",C,37,77,71,0.183,0.200,0.225,0.425,2,4,13,10,3,0,0,16,0,0,2,1,11,3,0,2,2,01705134
+2022,Regular Season,Hiroshima Toyo Carp,51,"Kozono, Kaito",SS,127,511,473,0.266,0.300,0.362,0.662,57,38,126,101,12,6,7,171,2,2,24,2,76,11,1,8,5,01705138
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,67,"Kataoka, Shoto",LF,13,24,24,0.125,0.125,0.167,0.292,2,0,3,2,1,0,0,4,0,0,0,0,11,0,0,0,0,01705151
+2022,Regular Season,Hanshin Tigers,47,"Kirishiki, Takuma",P,7,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,01705155
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,39,"Miyamoto, Takeshi",PH,1,4,2,0.500,0.750,0.500,1.250,1,0,1,1,0,0,0,1,0,0,2,0,0,0,0,0,0,01805136
+2022,Japan Series,Tokyo Yakult Swallows,39,"Miyamoto, Takeshi",PH,4,9,9,0.222,0.222,0.333,0.555,1,0,2,1,1,0,0,3,0,0,0,0,3,0,0,0,0,01805136
+2022,Regular Season,Tokyo Yakult Swallows,39,"Miyamoto, Takeshi",PH,66,134,114,0.254,0.331,0.333,0.664,10,8,29,22,6,0,1,38,0,0,8,0,15,3,5,7,0,01805136
+2022,Regular Season,Tohoku Rakuten Golden Eagles,50,"Mutoh, Atsuki",RF,43,99,88,0.250,0.323,0.375,0.698,11,9,22,16,2,3,1,33,1,5,8,0,28,1,2,0,1,01805151
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,27,"Furukawa, Yudai",C,36,108,96,0.229,0.288,0.260,0.548,5,1,22,19,3,0,0,25,0,2,8,0,23,1,0,4,0,01805153
+2022,Regular Season,Tokyo Yakult Swallows,45,"Shima, Motohiro",C,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,01905114
+2022,Regular Season,Saitama Seibu Lions,34,"Sano, Yasuo",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01905130
+2022,Regular Season,Chunichi Dragons,50,"Shimizu, Tatsuya",P,54,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01905136
+2022,Regular Season,Tohoku Rakuten Golden Eagles,56,"Suzuki, Sora",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01905138
+2022,Regular Season,Tohoku Rakuten Golden Eagles,24,"Kurokawa, Fumiya",3B,17,71,63,0.222,0.296,0.270,0.566,4,2,14,11,3,0,0,17,0,1,7,0,9,1,0,0,1,01905151
+2022,Regular Season,Yomiuri Giants,48,"Wheeler, Zelous",LF,30,64,56,0.196,0.297,0.339,0.636,2,5,11,7,2,0,2,19,0,1,8,1,7,0,0,0,0,03105130
+2022,Regular Season,Chunichi Dragons,59,"Yamamoto, Takumi",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03105136
+2022,Regular Season,Yomiuri Giants,67,"Yamase, Shinnosuke",C,8,11,11,0.182,0.182,0.273,0.455,0,0,2,1,1,0,0,3,0,0,0,0,2,0,0,0,0,03105151
+2022,Regular Season,Yokohama DeNA Baystars,30,"Miura, Ginji",P,6,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03105155
+2022,Regular Season,Orix Buffaloes,14,"McCarthy, Joe",1B,59,212,178,0.225,0.344,0.343,0.687,17,19,40,28,7,1,4,61,0,0,26,0,58,2,7,0,1,03205155
+2022,Regular Season,Chunichi Dragons,31,"Watanabe, Masaru",PH,10,9,9,0.222,0.222,0.222,0.444,0,0,2,2,0,0,0,2,0,0,0,0,3,0,0,0,0,03305132
+2022,Regular Season,Tohoku Rakuten Golden Eagles,32,"Busenitz, Alan",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03305138
+2022,Regular Season,Yomiuri Giants,19,"Yamasaki, Iori",P,20,33,26,0.231,0.310,0.269,0.579,3,6,6,5,1,0,0,7,0,0,2,0,9,0,1,4,0,03305153
+2022,Regular Season,Hanshin Tigers,20,"Moriki, Daichi",P,2,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,03305155
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,99,"Soto, Neftali",1B,3,9,7,0.571,0.667,0.857,1.524,0,0,4,2,2,0,0,6,0,0,2,1,0,1,0,0,0,03505136
+2022,Regular Season,Yokohama DeNA Baystars,99,"Soto, Neftali",1B,117,412,368,0.266,0.342,0.473,0.815,35,49,98,56,25,0,17,174,0,0,38,2,103,11,5,0,1,03505136
+2022,Regular Season,Chiba Lotte Marines,91,"Romero, Enny",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03505138
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,54,"Despaigne, Alfredo",DH,4,17,17,0.235,0.235,0.412,0.647,1,4,4,3,0,0,1,7,0,0,0,0,2,1,0,0,0,03505139
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,54,"Despaigne, Alfredo",DH,2,8,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,03505139
+2022,Regular Season,Fukuoka Softbank Hawks,54,"Despaigne, Alfredo",DH,89,331,297,0.269,0.338,0.444,0.782,29,40,80,56,10,0,14,132,0,0,28,1,80,5,4,0,2,03505139
+2022,Regular Season,Hanshin Tigers,44,"Alcantara, Raul",P,39,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03505153
+2022,Regular Season,Yomiuri Giants,44,"Walker, Adam",LF,124,428,406,0.271,0.306,0.515,0.821,58,52,110,58,28,1,23,209,5,0,18,1,98,11,3,0,1,03705155
+2022,Regular Season,Tokyo Yakult Swallows,63,"Cole, A.J.",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03905155
+2022,Regular Season,Yokohama DeNA Baystars,46,"Tanaka, Kenjiro",P,47,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11015116
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,52,"Sunagawa, Richard",3B,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,11015136
+2022,Regular Season,Fukuoka Softbank Hawks,52,"Sunagawa, Richard",3B,23,70,63,0.159,0.243,0.317,0.560,7,5,10,6,1,0,3,20,0,0,6,0,29,1,1,0,0,11015136
+2022,Regular Season,Tohoku Rakuten Golden Eagles,8,"Tatsumi, Ryosuke",CF,120,476,409,0.271,0.354,0.401,0.755,60,35,111,83,14,3,11,164,12,5,42,1,103,7,11,13,1,11015138
+2022,Regular Season,Yokohama DeNA Baystars,20,"Sakamoto, Yuya",P,15,12,11,0.091,0.091,0.091,0.182,1,0,1,1,0,0,0,1,0,0,0,0,5,0,0,1,0,11015151
+2022,Regular Season,Tohoku Rakuten Golden Eagles,18,"Tanaka, Masahiro",P,25,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11215114
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,7,"Nakamura, Akira",1B,4,9,9,0.222,0.222,0.222,0.444,0,0,2,2,0,0,0,2,0,0,0,0,3,0,0,0,0,11215116
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,7,"Nakamura, Akira",1B,2,7,7,0.143,0.143,0.143,0.286,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,11215116
+2022,Regular Season,Fukuoka Softbank Hawks,7,"Nakamura, Akira",1B,114,435,379,0.253,0.334,0.351,0.685,34,51,96,75,12,2,7,133,2,3,45,2,48,7,2,7,2,11215116
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,9,"Nakashima, Takuya",SS,68,150,130,0.223,0.282,0.262,0.544,12,8,29,25,3,1,0,34,17,4,11,0,31,0,0,8,1,11215118
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,45,"Tanigawara, Kenta",RF,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11215132
+2022,Regular Season,Fukuoka Softbank Hawks,45,"Tanigawara, Kenta",RF,71,75,64,0.234,0.324,0.359,0.683,16,8,15,9,4,2,0,23,1,2,7,0,18,1,2,1,1,11215132
+2022,Regular Season,Tohoku Rakuten Golden Eagles,25,"Tanaka, Kazuki",LF,77,70,63,0.143,0.229,0.238,0.467,10,5,9,5,3,0,1,15,6,3,6,0,25,4,1,0,0,11215134
+2022,Climax Series - Final Stage,Hanshin Tigers,26,"Hojoh, Fumiya",PH,2,6,6,0.333,0.333,0.500,0.833,1,0,2,1,1,0,0,3,0,0,0,0,1,0,0,0,0,11215137
+2022,Climax Series - First Stage,Hanshin Tigers,26,"Hojoh, Fumiya",PH,3,5,4,0.250,0.250,0.500,0.750,0,0,1,0,1,0,0,2,0,0,0,0,2,0,0,1,0,11215137
+2022,Regular Season,Hanshin Tigers,26,"Hojoh, Fumiya",PH,32,48,43,0.186,0.217,0.279,0.496,5,7,8,6,1,0,1,12,0,0,2,0,6,1,0,2,1,11215137
+2022,Regular Season,Yomiuri Giants,54,"Naoe, Daisuke",P,9,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,11215138
+2022,Regular Season,Chiba Lotte Marines,38,"Takabe, Akito",CF,137,608,541,0.274,0.324,0.342,0.666,66,38,148,123,16,6,3,185,44,10,36,1,103,12,6,22,3,11215151
+2022,Regular Season,Orix Buffaloes,60,"Sano, Yukikazu",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11215153
+2022,Japan Series,Tokyo Yakult Swallows,19,"Ishikawa, Masanori",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11315115
+2022,Regular Season,Tokyo Yakult Swallows,19,"Ishikawa, Masanori",P,16,26,20,0.100,0.182,0.100,0.282,0,0,2,2,0,0,0,2,0,0,2,0,3,0,0,4,0,11315115
+2022,Regular Season,Yokohama DeNA Baystars,14,"Ishida, Kenta",P,15,29,24,0.167,0.200,0.167,0.367,1,1,4,4,0,0,0,4,0,0,1,0,7,0,0,4,0,11315130
+2022,Regular Season,Chiba Lotte Marines,44,"Inoue, Seiya",1B,60,232,199,0.246,0.345,0.422,0.767,23,34,49,28,14,0,7,84,0,0,29,0,54,2,2,0,2,11315139
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,50,"Isobata, Ryota",CF,6,16,14,0.286,0.375,0.286,0.661,0,1,4,4,0,0,0,4,3,1,2,0,6,0,0,0,0,11315153
+2022,Regular Season,Hiroshima Toyo Carp,28,"Tokoda, Hiroki",P,17,38,32,0.188,0.188,0.219,0.407,0,2,6,5,1,0,0,7,0,0,0,0,7,1,0,6,0,11415134
+2022,Regular Season,Fukuoka Softbank Hawks,55,"Nomura, Daiju",PH,31,75,70,0.229,0.270,0.329,0.599,5,8,16,10,5,1,0,23,0,0,3,0,18,2,1,1,0,11415138
+2022,Regular Season,Tohoku Rakuten Golden Eagles,52,"Tsurusaki, Taisei",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11415151
+2022,Regular Season,Fukuoka Softbank Hawks,70,"Tanoue, Sota",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11415153
+2022,Regular Season,Yomiuri Giants,25,"Okamoto, Kazuma",3B,140,589,520,0.252,0.336,0.469,0.805,63,82,131,79,21,1,30,244,1,1,58,7,94,11,9,0,2,11515130
+2022,Regular Season,Chunichi Dragons,21,"Okada, Toshiya",P,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11515131
+2022,Climax Series - Final Stage,Orix Buffaloes,10,"Ohshiro, Koji",2B,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11515132
+2022,Japan Series,Orix Buffaloes,10,"Ohshiro, Koji",2B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11515132
+2022,Regular Season,Orix Buffaloes,10,"Ohshiro, Koji",2B,57,110,90,0.244,0.333,0.356,0.689,9,6,22,16,4,0,2,32,2,0,12,0,25,2,0,8,0,11515132
+2022,Regular Season,Chunichi Dragons,22,"Ohno, Yudai",P,23,48,42,0.048,0.070,0.048,0.118,1,0,2,2,0,0,0,2,0,0,1,0,21,1,0,5,0,11515133
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,29,"Ogawa, Yasuhiro",P,1,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,11515137
+2022,Japan Series,Tokyo Yakult Swallows,29,"Ogawa, Yasuhiro",P,2,3,2,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,11515137
+2022,Regular Season,Tokyo Yakult Swallows,29,"Ogawa, Yasuhiro",P,25,51,44,0.136,0.136,0.227,0.363,1,3,6,4,1,0,1,10,0,0,0,0,14,1,0,7,0,11515137
+2022,Regular Season,Chiba Lotte Marines,14,"Ojima, Kazuya",P,24,3,2,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,11515138
+2022,Regular Season,Chiba Lotte Marines,25,"Oka, Hiromi",RF,98,248,207,0.217,0.321,0.377,0.698,29,19,45,26,11,2,6,78,12,0,24,0,56,4,9,5,3,11515139
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,65,"Umebayashi, Yuki",C,22,51,48,0.104,0.122,0.125,0.247,2,3,5,4,1,0,0,6,0,0,1,0,19,0,0,2,0,11515151
+2022,Regular Season,Chunichi Dragons,67,"Ueda, Kotaro",P,8,12,11,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,8,1,0,1,0,11515153
+2022,Regular Season,Chiba Lotte Marines,7,"Fukuda, Shuhei",PH,20,48,41,0.171,0.292,0.195,0.487,3,4,7,6,1,0,0,8,1,0,7,0,13,0,0,0,0,11615114
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,32,"Yachi, Ryota",3B,78,167,153,0.268,0.309,0.346,0.655,11,12,41,31,9,0,1,53,0,1,8,0,24,3,1,5,0,11615137
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,40,"Fukuda, Suguru",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11615138
+2022,Climax Series - Final Stage,Hanshin Tigers,55,"Yohkawa, Naomasa",PH,3,5,4,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,11615139
+2022,Climax Series - First Stage,Hanshin Tigers,55,"Yohkawa, Naomasa",PH,2,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,11615139
+2022,Regular Season,Hanshin Tigers,55,"Yohkawa, Naomasa",PH,45,75,68,0.294,0.351,0.426,0.777,6,6,20,13,6,0,1,29,0,0,4,0,20,0,2,1,0,11615139
+2022,Regular Season,Fukuoka Softbank Hawks,60,"Nakamura, Ryota",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11615153
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,99,"Nomura, Isami",3B,1,3,3,0.333,0.333,1.333,1.666,1,1,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,11615155
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,99,"Nomura, Isami",3B,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11615155
+2022,Regular Season,Fukuoka Softbank Hawks,99,"Nomura, Isami",3B,97,203,180,0.239,0.312,0.489,0.801,40,25,43,21,9,3,10,88,10,5,17,0,64,5,2,4,0,11615155
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,00,"Kawase, Hikaru",1B,4,6,6,0.500,0.500,0.667,1.167,1,0,3,2,1,0,0,4,0,0,0,0,0,0,0,0,0,11715132
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,00,"Kawase, Hikaru",1B,1,1,1,1.000,1.000,1.000,2.000,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,11715132
+2022,Regular Season,Fukuoka Softbank Hawks,00,"Kawase, Hikaru",1B,73,106,90,0.278,0.327,0.333,0.660,15,11,25,20,5,0,0,30,2,2,8,0,21,4,0,5,3,11715132
+2022,Regular Season,Yokohama DeNA Baystars,48,"Kyoyama, Masaya",P,17,12,9,0.111,0.200,0.444,0.644,1,1,1,0,0,0,1,4,0,0,1,0,5,1,0,2,0,11715134
+2022,Regular Season,Hanshin Tigers,66,"Ogawa, Ippei",P,6,6,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,11715151
+2022,Regular Season,Chiba Lotte Marines,57,"Ogawa, Ryusei",SS,68,77,55,0.109,0.275,0.182,0.457,15,4,6,4,1,0,1,10,4,1,12,0,18,0,1,7,1,11715153
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,21,"Wada, Tsuyoshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11815117
+2022,Regular Season,Fukuoka Softbank Hawks,21,"Wada, Tsuyoshi",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11815117
+2022,Climax Series - Final Stage,Orix Buffaloes,6,"Mune, Yuma",3B,4,17,17,0.176,0.176,0.176,0.352,1,0,3,3,0,0,0,3,1,0,0,0,2,0,0,0,0,11815130
+2022,Japan Series,Orix Buffaloes,6,"Mune, Yuma",3B,7,33,32,0.156,0.156,0.188,0.344,1,0,5,4,1,0,0,6,1,1,0,0,5,1,0,1,0,11815130
+2022,Regular Season,Orix Buffaloes,6,"Mune, Yuma",3B,130,537,469,0.271,0.341,0.356,0.697,55,43,127,98,23,1,5,167,4,5,45,2,81,11,8,9,6,11815130
+2022,Regular Season,Tohoku Rakuten Golden Eagles,65,"Horiuchi, Kengo",C,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11815132
+2022,Regular Season,Tokyo Yakult Swallows,24,"Hoshi, Tomoya",P,7,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,11815134
+2022,Regular Season,Hiroshima Toyo Carp,35,"Miyoshi, Takumi",3B,10,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11815135
+2022,Regular Season,Fukuoka Softbank Hawks,33,"Masuda, Shu",RF,15,45,39,0.256,0.302,0.462,0.764,4,6,10,5,3,1,1,18,0,1,3,0,6,0,0,2,1,11815136
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,66,"Mannami, Chusei",RF,100,314,296,0.203,0.237,0.392,0.629,28,40,60,34,10,2,14,116,0,2,12,0,112,2,2,2,2,11815138
+2022,Regular Season,Orix Buffaloes,32,"Fukunaga, Sho",C,5,8,8,0.125,0.125,0.125,0.250,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,11815155
+2022,Regular Season,Orix Buffaloes,48,"Saitoh, Koki",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11915130
+2022,Climax Series - Final Stage,Hanshin Tigers,12,"Sakamoto, Seishiro",C,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11915132
+2022,Climax Series - First Stage,Hanshin Tigers,12,"Sakamoto, Seishiro",C,1,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11915132
+2022,Regular Season,Hanshin Tigers,12,"Sakamoto, Seishiro",C,60,151,127,0.189,0.285,0.213,0.498,5,6,24,21,3,0,0,27,0,0,13,2,26,1,4,7,0,11915132
+2022,Regular Season,Hiroshima Toyo Carp,31,"Sakakura, Shogo",3B,143,599,539,0.288,0.352,0.421,0.773,73,68,155,118,18,3,16,227,2,1,46,3,81,14,10,0,4,11915134
+2022,Regular Season,Fukuoka Softbank Hawks,0,"Takata, Tomoki",2B,18,13,13,0.231,0.231,0.385,0.616,4,3,3,2,0,1,0,5,1,0,0,0,4,0,0,0,0,11915137
+2022,Regular Season,Yokohama DeNA Baystars,47,"Sunada, Yoshiki",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11915139
+2022,Regular Season,Saitama Seibu Lions,56,"Kawano, Ryota",PR,5,8,7,0.143,0.125,0.143,0.268,0,1,1,1,0,0,0,1,0,1,0,0,2,0,0,0,1,11915151
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,20,"Kizawa, Naofumi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11915153
+2022,Japan Series,Tokyo Yakult Swallows,20,"Kizawa, Naofumi",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11915153
+2022,Regular Season,Tokyo Yakult Swallows,20,"Kizawa, Naofumi",P,55,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11915153
+2022,Regular Season,Orix Buffaloes,56,"Kogita, Atsuya",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11915155
+2022,Regular Season,Hiroshima Toyo Carp,68,"Turley, Nik",P,45,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13015155
+2022,Regular Season,Saitama Seibu Lions,52,"Yamada, Haruka",3B,74,93,80,0.200,0.270,0.225,0.495,6,9,16,14,2,0,0,18,1,0,8,0,21,0,0,4,1,13115130
+2022,Regular Season,Orix Buffaloes,36,"Yamaashi, Tatsuya",1B,39,51,44,0.182,0.234,0.273,0.507,8,2,8,6,1,0,1,12,1,0,3,0,11,1,0,4,0,13115136
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,18,"Yoshida, Kosei",P,51,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13115138
+2022,Regular Season,Chiba Lotte Marines,49,"Motomae, Fumiya",P,12,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13115151
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,2,"Maki, Shugo",2B,3,11,11,0.364,0.364,0.364,0.728,0,0,4,4,0,0,0,4,0,0,0,0,1,1,0,0,0,13115153
+2022,Regular Season,Yokohama DeNA Baystars,2,"Maki, Shugo",2B,135,568,509,0.291,0.354,0.507,0.861,63,87,148,87,36,1,24,258,3,3,43,4,82,14,10,0,6,13115153
+2022,Regular Season,Tohoku Rakuten Golden Eagles,45,"Matsui, Tomotaka",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13115155
+2022,Regular Season,Hiroshima Toyo Carp,10,"McBroom, Ryan",1B,128,508,448,0.272,0.352,0.442,0.794,57,74,122,80,25,0,17,198,0,0,52,2,105,13,5,0,3,13215155
+2022,Regular Season,Orix Buffaloes,66,"Yoshida, Ryo",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13315132
+2022,Regular Season,Yomiuri Giants,37,"Wakabayashi, Akihiro",PH,43,91,80,0.200,0.261,0.238,0.499,3,8,16,13,3,0,0,19,0,1,7,0,24,4,0,3,1,13315136
+2022,Regular Season,Tohoku Rakuten Golden Eagles,72,"Miyamori, Satoshi",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13315155
+2022,Regular Season,Chiba Lotte Marines,42,"Osuna, Roberto",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13415155
+2022,Regular Season,Yomiuri Giants,58,"Yamamoto, Itsuki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13515153
+2022,Regular Season,Chunichi Dragons,66,"Viciedo, Dayan",1B,129,532,483,0.294,0.355,0.437,0.792,52,63,142,101,27,0,14,211,1,1,40,2,59,20,7,0,2,13715132
+2022,Climax Series - Final Stage,Hanshin Tigers,91,"Rodriguez, Aderlin",1B,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13915151
+2022,Regular Season,Hanshin Tigers,91,"Rodriguez, Aderlin",1B,24,70,65,0.154,0.200,0.277,0.477,5,9,10,6,2,0,2,18,0,0,2,0,17,4,2,0,1,13915151
+2022,Regular Season,Orix Buffaloes,68,"Nakamura, Masaru",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21025131
+2022,Japan Series,Orix Buffaloes,21,"Takeyasu, Daichi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21025132
+2022,Regular Season,Orix Buffaloes,21,"Takeyasu, Daichi",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21025132
+2022,Regular Season,Chunichi Dragons,12,"Tajima, Shinji",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21025135
+2022,Regular Season,Chunichi Dragons,0,"Takamatsu, Wataru",PR,51,14,14,0.071,0.071,0.071,0.142,17,0,1,1,0,0,0,1,5,3,0,0,5,0,0,0,0,21025136
+2022,Regular Season,Chunichi Dragons,24,"Fukutani, Koji",P,5,10,8,0.250,0.333,0.250,0.583,0,1,2,2,0,0,0,2,0,0,1,0,2,0,0,1,0,21025137
+2022,Regular Season,Chiba Lotte Marines,64,"Sato, Shoma",P,11,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21025153
+2022,Regular Season,Saitama Seibu Lions,16,"Sumida, Chihiro",P,16,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21025155
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,38,"Ishii, Kazunari",2B,102,328,296,0.236,0.284,0.378,0.662,30,32,70,46,12,6,6,112,8,7,20,0,64,2,1,8,3,21125134
+2022,Regular Season,Hiroshima Toyo Carp,30,"Ichioka, Ryuji",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21125135
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,12,"Ishiyama, Taichi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21125137
+2022,Japan Series,Tokyo Yakult Swallows,12,"Ishiyama, Taichi",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21125137
+2022,Regular Season,Tokyo Yakult Swallows,12,"Ishiyama, Taichi",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21125137
+2022,Regular Season,Tokyo Yakult Swallows,40,"Ichikawa, Yuta",P,6,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21125138
+2022,Regular Season,Hiroshima Toyo Carp,62,"Ishihara, Tomoki",C,9,16,13,0.154,0.214,0.154,0.368,0,0,2,2,0,0,0,2,0,0,1,0,3,1,0,2,0,21125151
+2022,Regular Season,Yokohama DeNA Baystars,53,"Ikeya, Sota",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21125153
+2022,Regular Season,Chiba Lotte Marines,00,"Ikeda, Raito",2B,11,22,22,0.091,0.091,0.136,0.227,1,0,2,1,1,0,0,3,0,0,0,0,6,0,0,0,0,21125155
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,3,"Fujita, Kazuya",PH,2,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,21225110
+2022,Regular Season,Yokohama DeNA Baystars,3,"Fujita, Kazuya",PH,33,40,36,0.250,0.325,0.250,0.575,1,5,9,9,0,0,0,9,0,0,4,0,5,1,0,0,0,21225110
+2022,Regular Season,Yomiuri Giants,50,"Tone, Chiaki",P,9,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21225130
+2022,Regular Season,Chiba Lotte Marines,20,"Tojo, Taiki",P,59,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21225132
+2022,Regular Season,Tohoku Rakuten Golden Eagles,6,"Nishikawa, Haruki",LF,108,451,372,0.218,0.342,0.341,0.683,58,37,81,53,17,4,7,127,19,8,68,0,103,2,3,6,2,21225133
+2022,Regular Season,Yokohama DeNA Baystars,64,"Nakagawa, Koh",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21225136
+2022,Regular Season,Chunichi Dragons,38,"Matsuba, Takahiro",P,19,32,24,0.083,0.083,0.125,0.208,0,2,2,1,1,0,0,3,0,0,0,0,11,0,0,8,0,21225137
+2022,Regular Season,Chiba Lotte Marines,18,"Futaki, Kota",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21225139
+2022,Regular Season,Tokyo Yakult Swallows,7,"Uchikawa, Seiichi",LF,7,17,16,0.250,0.294,0.375,0.669,2,1,4,2,2,0,0,6,0,0,1,0,2,0,0,0,0,21325113
+2022,Climax Series - First Stage,Hanshin Tigers,25,"Egoshi, Taiga",LF,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,21325130
+2022,Regular Season,Hanshin Tigers,25,"Egoshi, Taiga",LF,24,5,4,0.000,0.200,0.000,0.200,4,0,0,0,0,0,0,0,4,0,1,0,3,0,0,0,0,21325130
+2022,Climax Series - First Stage,Saitama Seibu Lions,39,"Wu, Nien-Ting",1B,1,4,3,0.000,0.250,0.000,0.250,0,1,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,21325132
+2022,Regular Season,Saitama Seibu Lions,39,"Wu, Nien-Ting",1B,94,301,260,0.227,0.322,0.327,0.649,25,28,59,44,9,1,5,85,2,0,37,0,54,3,1,0,3,21325132
+2022,Climax Series - Final Stage,Hanshin Tigers,3,"Ohyama, Yusuke",1B,3,13,9,0.556,0.692,0.778,1.470,1,2,5,3,2,0,0,7,0,0,4,0,0,0,0,0,0,21325134
+2022,Climax Series - First Stage,Hanshin Tigers,3,"Ohyama, Yusuke",1B,3,11,9,0.000,0.182,0.000,0.182,0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,0,0,21325134
+2022,Regular Season,Hanshin Tigers,3,"Ohyama, Yusuke",1B,124,510,439,0.267,0.358,0.469,0.827,54,87,117,75,18,1,23,206,0,1,59,5,103,17,6,1,5,21325134
+2022,Regular Season,Tohoku Rakuten Golden Eagles,27,"Okajima, Takero",RF,53,199,182,0.214,0.264,0.341,0.605,20,25,39,25,8,3,3,62,2,1,10,1,27,6,3,2,2,21325135
+2022,Regular Season,Yomiuri Giants,24,"Ohshiro, Takumi",C,115,393,346,0.266,0.339,0.416,0.755,24,43,92,67,11,1,13,144,1,0,36,4,77,10,2,9,0,21325136
+2022,Regular Season,Hiroshima Toyo Carp,59,"Ohmori, Minoru",CF,52,76,69,0.203,0.276,0.333,0.609,8,3,14,9,2,2,1,23,0,2,6,0,17,2,1,0,0,21325138
+2022,Climax Series - Final Stage,Hanshin Tigers,2,"Umeno, Ryutaro",C,3,10,8,0.500,0.556,0.750,1.306,1,0,4,2,2,0,0,6,0,0,1,0,2,0,0,1,0,21325139
+2022,Climax Series - First Stage,Hanshin Tigers,2,"Umeno, Ryutaro",C,3,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21325139
+2022,Regular Season,Hanshin Tigers,2,"Umeno, Ryutaro",C,100,331,294,0.228,0.298,0.282,0.580,26,25,67,60,2,1,4,83,2,1,30,5,77,16,0,6,1,21325139
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,61,"Imagawa, Yuma",LF,94,309,273,0.227,0.290,0.388,0.678,34,39,62,39,12,1,10,106,4,4,19,2,70,6,7,6,4,21325153
+2022,Regular Season,Yomiuri Giants,8,"Maru, Yoshihiro",CF,143,607,525,0.272,0.370,0.490,0.860,81,65,143,84,31,1,27,257,6,7,80,1,88,8,1,1,0,21425116
+2022,Regular Season,Hiroshima Toyo Carp,19,"Nomura, Yusuke",P,9,12,11,0.091,0.091,0.091,0.182,1,2,1,1,0,0,0,1,0,0,0,0,4,0,0,1,0,21425135
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,50,"Bandoh, Yugo",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21425138
+2022,Regular Season,Fukuoka Softbank Hawks,50,"Bandoh, Yugo",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21425138
+2022,Climax Series - First Stage,Saitama Seibu Lions,3,"Yamakawa, Hotaka",1B,2,8,6,0.167,0.375,0.667,1.042,1,1,1,0,0,0,1,4,0,0,2,1,2,0,0,0,0,21425139
+2022,Regular Season,Saitama Seibu Lions,3,"Yamakawa, Hotaka",1B,129,528,448,0.266,0.375,0.578,0.953,62,90,119,61,17,0,41,259,0,0,68,13,114,12,11,0,1,21425139
+2022,Regular Season,Chunichi Dragons,13,"Hashimoto, Yuki",P,4,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,21425151
+2022,Regular Season,Chiba Lotte Marines,19,"Karakawa, Yuki",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525116
+2022,Regular Season,Yomiuri Giants,66,"Katsuki, Kazuya",1B,15,37,35,0.200,0.243,0.257,0.500,5,2,7,5,2,0,0,9,0,0,2,0,8,0,0,0,0,21525130
+2022,Regular Season,Chiba Lotte Marines,99,"Kakinuma, Tomoya",C,34,23,19,0.158,0.158,0.158,0.316,1,0,3,3,0,0,0,3,0,0,0,0,4,1,0,4,0,21525132
+2022,Regular Season,Yomiuri Giants,52,"Kitamura, Takumi",SS,33,55,52,0.173,0.204,0.231,0.435,3,1,9,7,1,1,0,12,0,0,1,0,16,2,1,1,0,21525136
+2022,Regular Season,Chunichi Dragons,41,"Katsuno, Akiyoshi",P,8,16,14,0.214,0.214,0.571,0.785,2,2,3,0,2,0,1,8,0,0,0,0,6,0,0,2,0,21525138
+2022,Climax Series - Final Stage,Hanshin Tigers,54,"Kajiya, Ren",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525139
+2022,Regular Season,Hanshin Tigers,54,"Kajiya, Ren",P,39,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525139
+2022,Regular Season,Saitama Seibu Lions,59,"Omagari, Ren",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525153
+2022,Regular Season,Hiroshima Toyo Carp,36,"Horie, Atsuya",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21625130
+2022,Regular Season,Yomiuri Giants,32,"Hirooka, Taishi",SS,28,60,50,0.180,0.293,0.280,0.573,5,4,9,5,3,1,0,14,0,0,7,0,16,2,1,2,0,21625132
+2022,Regular Season,Yokohama DeNA Baystars,65,"Miyaguni, Ryosuke",P,17,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21625133
+2022,Regular Season,Chunichi Dragons,54,"Fujishima, Kento",P,50,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21625134
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,12,"Matsumoto, Go",CF,117,445,395,0.347,0.398,0.438,0.836,48,44,137,109,23,2,3,173,21,5,32,5,42,13,4,10,4,21625135
+2022,Regular Season,Hiroshima Toyo Carp,58,"Fujii, Reira",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21625136
+2022,Regular Season,Yomiuri Giants,91,"Hotta, Kenshin",P,8,11,9,0.222,0.364,0.222,0.586,1,0,2,2,0,0,0,2,0,1,2,0,3,0,0,0,0,21625151
+2022,Regular Season,Saitama Seibu Lions,58,"Kumashiro, Masato",1B,43,14,10,0.200,0.200,0.200,0.400,6,0,2,2,0,0,0,2,0,1,0,0,4,0,0,4,0,21725133
+2022,Regular Season,Hanshin Tigers,56,"Kobayashi, Keisuke",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21725134
+2022,Regular Season,Hanshin Tigers,48,"Saitoh, Yukiya",P,20,1,1,1.000,1.000,2.000,3.000,1,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,21725138
+2022,Japan Series,Tokyo Yakult Swallows,69,"Konno, Ryuta",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21725139
+2022,Regular Season,Tokyo Yakult Swallows,69,"Konno, Ryuta",P,51,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21725139
+2022,Japan Series,Orix Buffaloes,11,"Yamasaki, Sachiya",P,2,4,3,0.333,0.333,0.333,0.666,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,21825130
+2022,Regular Season,Orix Buffaloes,11,"Yamasaki, Sachiya",P,25,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,21825130
+2022,Regular Season,Yomiuri Giants,9,"Matsubara, Seiya",RF,50,76,71,0.113,0.160,0.155,0.315,7,4,8,6,1,1,0,11,2,1,4,0,21,2,0,1,0,21825134
+2022,Regular Season,Saitama Seibu Lions,4,"Yamanobe, Kakeru",PR,30,35,33,0.152,0.200,0.242,0.442,7,1,5,2,3,0,0,8,3,1,1,0,4,0,1,0,0,21825138
+2022,Regular Season,Yomiuri Giants,11,"Heinai, Ryuta",P,53,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21825153
+2022,Regular Season,Tokyo Yakult Swallows,42,"Sakaguchi, Tomotaka",PH,24,47,43,0.279,0.340,0.349,0.689,2,2,12,9,3,0,0,15,0,0,3,0,13,0,1,0,0,21925117
+2022,Regular Season,Yomiuri Giants,43,"Shigenobu, Shinnosuke",RF,77,128,111,0.216,0.275,0.243,0.518,16,9,24,21,3,0,0,27,7,3,8,0,28,0,1,8,0,21925132
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,23,"Shuto, Ukyo",3B,4,17,16,0.125,0.125,0.125,0.250,2,1,2,2,0,0,0,2,0,0,0,0,2,0,0,1,0,21925136
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,23,"Shuto, Ukyo",3B,2,7,7,0.571,0.571,0.857,1.428,2,1,4,2,2,0,0,6,0,0,0,0,0,0,0,0,0,21925136
+2022,Regular Season,Fukuoka Softbank Hawks,23,"Shuto, Ukyo",3B,80,318,288,0.267,0.324,0.365,0.689,48,15,77,63,5,4,5,105,22,4,22,0,56,4,3,3,2,21925136
+2022,Regular Season,Tokyo Yakult Swallows,14,"Takanashi, Hirotoshi",P,20,32,27,0.037,0.071,0.037,0.108,0,1,1,1,0,0,0,1,0,0,1,0,19,0,0,4,0,21925139
+2022,Regular Season,Chunichi Dragons,44,"Gunji, Yuya",PH,33,48,42,0.190,0.292,0.214,0.506,0,0,8,7,1,0,0,9,0,0,5,0,12,4,1,0,0,21925151
+2022,Regular Season,Orix Buffaloes,27,"Gen, Kendai",CF,5,9,8,0.250,0.250,0.250,0.500,1,1,2,2,0,0,0,2,0,0,0,0,3,0,0,1,0,21925153
+2022,Regular Season,Yokohama DeNA Baystars,50,"Yamamoto, Yuudai",C,17,32,29,0.103,0.156,0.138,0.294,1,1,3,2,1,0,0,4,0,0,2,1,4,1,0,0,1,23125136
+2022,Regular Season,Chiba Lotte Marines,60,"Yokoyama, Rikuto",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23125151
+2022,Regular Season,Chiba Lotte Marines,33,"Yagi, Akira",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23325155
+2022,Regular Season,Chiba Lotte Marines,54,"Laird, Brandon",DH,112,396,365,0.189,0.237,0.337,0.574,24,48,69,45,9,0,15,123,0,0,19,2,92,9,6,0,6,23525130
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,3,"Wang, Po-Jung",PH,15,32,32,0.063,0.063,0.094,0.157,1,0,2,1,1,0,0,3,0,0,0,0,12,1,0,0,0,23525138
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,13,"Osuna, Jose",1B,3,13,12,0.250,0.308,0.833,1.141,3,5,3,0,1,0,2,10,0,0,1,0,1,0,0,0,0,23525153
+2022,Japan Series,Tokyo Yakult Swallows,13,"Osuna, Jose",1B,7,32,30,0.367,0.406,0.633,1.039,2,8,11,7,2,0,2,19,0,0,2,0,7,1,0,0,0,23525153
+2022,Regular Season,Tokyo Yakult Swallows,13,"Osuna, Jose",1B,138,529,496,0.272,0.312,0.440,0.752,49,74,135,94,19,2,20,218,2,3,29,4,93,11,1,0,3,23525153
+2022,Regular Season,Tohoku Rakuten Golden Eagles,71,"Yoshikawa, Kazuki",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23525155
+2022,Regular Season,Chiba Lotte Marines,79,"Martin, Leonys",RF,68,266,221,0.163,0.293,0.317,0.610,22,25,36,20,7,0,9,70,5,2,31,2,76,1,11,0,3,23725138
+2022,Regular Season,Saitama Seibu Lions,75,"Enns, Dietrich",P,23,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,23725155
+2022,Regular Season,Chunichi Dragons,92,"Martinez, Raidel",P,56,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23925134
+2022,Climax Series - Final Stage,Hanshin Tigers,24,"Rojas Jr., Mel",LF,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23925153
+2022,Climax Series - First Stage,Hanshin Tigers,24,"Rojas Jr., Mel",LF,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,23925153
+2022,Regular Season,Hanshin Tigers,24,"Rojas Jr., Mel",LF,89,211,183,0.224,0.322,0.410,0.732,19,27,41,25,7,0,9,75,0,0,22,1,53,4,5,0,1,23925153
+2022,Regular Season,Chunichi Dragons,14,"Tanimoto, Keisuke",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035118
+2022,Climax Series - First Stage,Saitama Seibu Lions,46,"Suzuki, Shohei",CF,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31035134
+2022,Regular Season,Saitama Seibu Lions,46,"Suzuki, Shohei",CF,58,227,212,0.250,0.279,0.321,0.600,14,13,53,41,10,1,1,68,1,4,9,0,24,2,0,5,1,31035134
+2022,Regular Season,Yomiuri Giants,57,"Takagi, Kyosuke",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035135
+2022,Climax Series - First Stage,Saitama Seibu Lions,61,"Taira, Kaima",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035136
+2022,Regular Season,Saitama Seibu Lions,61,"Taira, Kaima",P,61,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035136
+2022,Regular Season,Chiba Lotte Marines,17,"Sasaki, Roki",P,20,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31035151
+2022,Regular Season,Hiroshima Toyo Carp,27,"Aizawa, Tsubasa",C,98,325,290,0.207,0.276,0.272,0.548,18,33,60,47,10,0,3,79,0,0,23,0,49,11,6,2,4,31135114
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,23,"Aoki, Norichika",LF,2,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,31135119
+2022,Japan Series,Tokyo Yakult Swallows,23,"Aoki, Norichika",LF,6,14,13,0.308,0.357,0.385,0.742,1,1,4,3,1,0,0,5,0,0,1,0,4,2,0,0,0,31135119
+2022,Regular Season,Tokyo Yakult Swallows,23,"Aoki, Norichika",LF,81,256,222,0.248,0.336,0.360,0.696,27,22,55,41,8,1,5,80,3,1,28,0,28,7,3,0,3,31135119
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,26,"Asama, Daiki",RF,75,240,224,0.232,0.267,0.357,0.624,20,15,52,33,14,1,4,80,12,3,11,0,55,3,0,4,1,31135130
+2022,Regular Season,Hiroshima Toyo Carp,9,"Akiyama, Shogo",CF,44,174,155,0.265,0.333,0.413,0.746,19,26,41,29,6,1,5,64,0,0,11,0,34,6,6,0,2,31135133
+2022,Climax Series - Final Stage,Orix Buffaloes,3,"Adachi, Ryoichi",2B,2,8,8,0.250,0.250,0.250,0.500,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,31135135
+2022,Japan Series,Orix Buffaloes,3,"Adachi, Ryoichi",2B,5,18,13,0.308,0.438,0.385,0.823,3,0,4,3,1,0,0,5,0,0,3,0,4,0,0,2,0,31135135
+2022,Regular Season,Orix Buffaloes,3,"Adachi, Ryoichi",2B,65,243,206,0.262,0.349,0.320,0.669,19,18,54,45,7,1,1,66,3,0,26,0,46,3,2,8,1,31135135
+2022,Regular Season,Chiba Lotte Marines,24,"Azuma, Yusuke",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31135138
+2022,Regular Season,Tohoku Rakuten Golden Eagles,44,"Tanaka, Takaya",C,18,19,17,0.118,0.211,0.118,0.329,2,1,2,2,0,0,0,2,0,0,1,0,7,0,1,0,0,31235130
+2022,Regular Season,Hiroshima Toyo Carp,21,"Nakazaki, Shota",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31235133
+2022,Regular Season,Fukuoka Softbank Hawks,25,"Tanaka, Seigi",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31235134
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Tanigawa, Masaki",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31235136
+2022,Regular Season,Tohoku Rakuten Golden Eagles,57,"Takinaka, Ryota",P,15,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31235151
+2022,Regular Season,Chunichi Dragons,16,"Iwasaki, Sho",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335116
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,6,"Imamiya, Kenta",SS,4,14,11,0.000,0.154,0.000,0.154,0,0,0,0,0,0,0,0,0,0,2,0,5,0,0,1,0,31335131
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,6,"Imamiya, Kenta",SS,2,8,8,0.250,0.250,0.250,0.500,0,0,2,2,0,0,0,2,0,0,0,0,2,0,0,0,0,31335131
+2022,Regular Season,Fukuoka Softbank Hawks,6,"Imamiya, Kenta",SS,130,510,450,0.296,0.352,0.409,0.761,56,47,133,96,30,0,7,184,3,4,37,0,71,14,3,19,1,31335131
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,29,"Iguchi, Kazutomo",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335132
+2022,Climax Series - First Stage,Saitama Seibu Lions,11,"Imai, Tatsuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335134
+2022,Regular Season,Saitama Seibu Lions,11,"Imai, Tatsuya",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335134
+2022,Regular Season,Yomiuri Giants,26,"Imamura, Nobutaka",P,55,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31335135
+2022,Regular Season,Hiroshima Toyo Carp,0,"Uemoto, Takashi",CF,94,300,261,0.307,0.376,0.372,0.748,36,18,80,68,9,1,2,97,2,1,21,5,31,8,8,10,0,31335137
+2022,Climax Series - First Stage,Hanshin Tigers,13,"Iwazaki, Suguru",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335139
+2022,Regular Season,Hanshin Tigers,13,"Iwazaki, Suguru",P,57,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335139
+2022,Regular Season,Hanshin Tigers,32,"Inoue, Kouta",PH,2,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,31335151
+2022,Regular Season,Tohoku Rakuten Golden Eagles,31,"Fukui, Yuya",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31435133
+2022,Regular Season,Chiba Lotte Marines,34,"Dohi, Seiya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31435134
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,24,"Nomura, Yuki",3B,93,368,348,0.279,0.313,0.411,0.724,33,36,97,65,24,2,6,143,3,4,16,1,71,9,2,1,1,31435138
+2022,Regular Season,Yokohama DeNA Baystars,35,"Mikami, Tomoya",P,19,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31435139
+2022,Regular Season,Hanshin Tigers,61,"Toyoda, Hiroshi",PH,5,9,7,0.000,0.125,0.000,0.125,0,0,0,0,0,0,0,0,0,0,1,0,4,1,0,1,0,31435155
+2022,Climax Series - Final Stage,Orix Buffaloes,50,"Oda, Yuya",RF,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535130
+2022,Japan Series,Orix Buffaloes,50,"Oda, Yuya",RF,5,2,2,0.500,0.500,0.500,1.000,1,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,31535130
+2022,Regular Season,Orix Buffaloes,50,"Oda, Yuya",RF,72,26,24,0.208,0.269,0.375,0.644,12,2,5,3,1,0,1,9,8,4,1,0,7,0,1,0,0,31535130
+2022,Climax Series - First Stage,Saitama Seibu Lions,53,"Takeda, Aito",RF,2,8,6,0.167,0.250,0.167,0.417,0,1,1,1,0,0,0,1,0,0,1,0,2,0,0,0,1,31535132
+2022,Regular Season,Saitama Seibu Lions,53,"Takeda, Aito",RF,121,393,366,0.243,0.266,0.369,0.635,34,28,89,61,19,0,9,135,9,4,10,0,70,7,2,14,1,31535132
+2022,Regular Season,Chunichi Dragons,47,"Kasahara, Shotaro",P,4,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,31535134
+2022,Regular Season,Tohoku Rakuten Golden Eagles,41,"Kamata, Yoshinao",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535135
+2022,Climax Series - First Stage,Hanshin Tigers,38,"Obata, Ryuhei",2B,3,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,31535138
+2022,Regular Season,Hanshin Tigers,38,"Obata, Ryuhei",2B,49,73,69,0.188,0.208,0.246,0.454,7,5,13,11,1,0,1,17,0,0,2,0,21,0,0,1,1,31535138
+2022,Regular Season,Saitama Seibu Lions,2,"Okada, Masatoshi",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535139
+2022,Climax Series - Final Stage,Orix Buffaloes,013,"Udagawa, Yuki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535153
+2022,Japan Series,Orix Buffaloes,013,"Udagawa, Yuki",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535153
+2022,Regular Season,Orix Buffaloes,013,"Udagawa, Yuki",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535153
+2022,Regular Season,Tohoku Rakuten Golden Eagles,16,"Wakui, Hideaki",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31635110
+2022,Regular Season,Chunichi Dragons,55,"Fukuda, Nobumasa",PH,25,29,28,0.214,0.241,0.357,0.598,1,2,6,4,1,0,1,10,0,0,1,0,7,0,0,0,0,31635114
+2022,Regular Season,Tokyo Yakult Swallows,16,"Hara, Juri",P,22,40,34,0.059,0.135,0.088,0.223,0,2,2,1,1,0,0,3,0,0,2,0,11,0,1,3,0,31635132
+2022,Regular Season,Yomiuri Giants,45,"Hatake, Seishu",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31635134
+2022,Regular Season,Chiba Lotte Marines,1,"Fujiwara, Kyota",CF,49,126,115,0.209,0.272,0.252,0.524,10,5,24,21,2,0,1,29,9,0,9,1,23,1,1,1,0,31635138
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,53,"Hasegawa, Takehiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31635155
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,5,"Kawabata, Shingo",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31735112
+2022,Japan Series,Tokyo Yakult Swallows,5,"Kawabata, Shingo",PH,3,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31735112
+2022,Regular Season,Tokyo Yakult Swallows,5,"Kawabata, Shingo",PH,52,64,57,0.175,0.234,0.193,0.427,1,7,10,9,1,0,0,11,0,0,4,1,7,1,1,0,2,31735112
+2022,Regular Season,Chunichi Dragons,35,"Kinoshita, Takuya",C,120,466,419,0.246,0.289,0.341,0.630,24,48,103,78,16,3,6,143,2,0,27,3,38,5,1,12,6,31735132
+2022,Regular Season,Yomiuri Giants,46,"Kuwahara, Takuya",P,49,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31735136
+2022,Regular Season,Hanshin Tigers,0,"Kinami, Seiya",2B,41,101,93,0.204,0.253,0.280,0.533,6,6,19,14,4,0,1,26,0,0,5,0,19,2,1,2,0,31735138
+2022,Regular Season,Tokyo Yakult Swallows,11,"Okugawa, Yasunobu",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31735151
+2022,Regular Season,Chiba Lotte Marines,50,"Onuma, Kenta",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31735153
+2022,Regular Season,Yomiuri Giants,96,"Kikuchi, Taiki",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31735155
+2022,Climax Series - First Stage,Saitama Seibu Lions,45,"Honda, Keisuke",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31835132
+2022,Regular Season,Saitama Seibu Lions,45,"Honda, Keisuke",P,45,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31835132
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,9,"Yanagita, Yuki",RF,4,17,13,0.308,0.471,0.385,0.856,1,1,4,3,1,0,0,5,0,0,4,0,5,0,0,0,0,31835133
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,9,"Yanagita, Yuki",RF,2,8,7,0.286,0.375,1.143,1.518,3,7,2,0,0,0,2,8,0,0,1,0,2,0,0,0,0,31835133
+2022,Regular Season,Fukuoka Softbank Hawks,9,"Yanagita, Yuki",RF,117,491,437,0.275,0.344,0.485,0.829,63,79,120,77,18,1,24,212,2,3,43,6,106,6,6,0,5,31835133
+2022,Regular Season,Yokohama DeNA Baystars,52,"Hosokawa, Seiya",PH,18,20,19,0.053,0.100,0.211,0.311,1,1,1,0,0,0,1,4,0,0,1,0,9,0,0,0,0,31835134
+2022,Regular Season,Tohoku Rakuten Golden Eagles,21,"Hayakawa, Takahisa",P,19,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,31835153
+2022,Regular Season,Chunichi Dragons,23,"Fukumoto, Yuma",LF,1,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,31835155
+2022,Regular Season,Yomiuri Giants,35,"Sakurai, Toshiki",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31935132
+2022,Regular Season,Hiroshima Toyo Carp,43,"Shimauchi, Sotaro",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31935138
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,63,"Sekine, Taiki",LF,2,5,3,0.000,0.400,0.000,0.400,1,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,31935139
+2022,Regular Season,Yokohama DeNA Baystars,63,"Sekine, Taiki",LF,104,225,201,0.254,0.293,0.313,0.606,28,13,51,42,7,1,1,63,5,5,9,0,31,2,3,10,2,31935139
+2022,Regular Season,Yomiuri Giants,94,"Kita, Ryusuke",C,14,9,9,0.111,0.111,0.111,0.222,2,2,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,31935153
+2022,Regular Season,Chiba Lotte Marines,55,"Hechavarria, Adeiny",SS,76,257,243,0.222,0.251,0.300,0.551,19,20,54,39,13,0,2,73,4,0,10,0,48,5,0,2,2,33035153
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,31,"Yamasaki, Kotaro",LF,3,13,11,0.091,0.091,0.091,0.182,2,1,1,1,0,0,0,1,1,0,0,0,6,0,0,2,0,33135132
+2022,Japan Series,Tokyo Yakult Swallows,31,"Yamasaki, Kotaro",LF,5,12,10,0.200,0.273,0.200,0.473,1,0,2,2,0,0,0,2,0,0,1,0,3,0,0,1,0,33135132
+2022,Regular Season,Tokyo Yakult Swallows,31,"Yamasaki, Kotaro",LF,118,378,341,0.258,0.309,0.334,0.643,52,37,88,70,12,4,2,114,10,5,24,0,65,5,2,9,2,33135132
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,68,"Mimori, Masaki",2B,4,17,15,0.133,0.133,0.267,0.400,2,0,2,0,2,0,0,4,0,0,0,0,6,0,0,2,0,33135134
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,68,"Mimori, Masaki",2B,2,9,8,0.250,0.333,0.375,0.708,2,2,2,1,1,0,0,3,0,0,1,0,2,0,0,0,0,33135134
+2022,Regular Season,Fukuoka Softbank Hawks,68,"Mimori, Masaki",2B,102,437,393,0.257,0.309,0.379,0.688,58,36,101,75,13,4,9,149,20,3,28,0,81,3,3,10,3,33135134
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,6,"Mori, Keito",SS,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,33135151
+2022,Regular Season,Yokohama DeNA Baystars,6,"Mori, Keito",SS,61,168,154,0.234,0.293,0.292,0.585,15,6,36,31,3,0,2,45,5,4,13,2,42,4,0,1,0,33135151
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,55,"Matsuura, Keito",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33135155
+2022,Climax Series - Final Stage,Orix Buffaloes,63,"Yamazaki, Soichiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33335134
+2022,Japan Series,Orix Buffaloes,63,"Yamazaki, Soichiro",P,4,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,33335134
+2022,Regular Season,Orix Buffaloes,63,"Yamazaki, Soichiro",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33335134
+2022,Regular Season,Chiba Lotte Marines,63,"Wada, Koshiro",PR,69,33,28,0.179,0.281,0.214,0.495,20,1,5,4,1,0,0,6,11,7,3,1,12,0,1,1,0,33335136
+2022,Regular Season,Tokyo Yakult Swallows,6,"Motoyama, Hiyu",2B,13,28,27,0.148,0.148,0.370,0.518,4,2,4,0,3,0,1,10,0,0,0,0,5,2,0,1,0,33335153
+2022,Regular Season,Orix Buffaloes,15,"Mukunoki, Ren",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33335155
+2022,Regular Season,Chunichi Dragons,94,"Revilla, Pedro",LF,21,66,64,0.203,0.227,0.281,0.508,1,3,13,10,2,0,1,18,0,0,2,0,30,3,0,0,0,33435155
+2022,Regular Season,Chiba Lotte Marines,61,"Yamamoto, Daito",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,33535153
+2022,Japan Series,Tokyo Yakult Swallows,15,"Yamashita, Hikaru",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33535155
+2022,Regular Season,Tokyo Yakult Swallows,15,"Yamashita, Hikaru",P,2,4,3,0.333,0.500,0.333,0.833,0,0,1,1,0,0,0,1,0,0,1,0,2,0,0,0,0,33535155
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,54,"Sneed, Cy",P,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,33735153
+2022,Japan Series,Tokyo Yakult Swallows,54,"Sneed, Cy",P,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,33735153
+2022,Regular Season,Tokyo Yakult Swallows,54,"Sneed, Cy",P,23,45,39,0.103,0.146,0.103,0.249,2,1,4,4,0,0,0,4,0,0,2,0,25,0,0,4,0,33735153
+2022,Regular Season,Yomiuri Giants,42,"Mercedes, Cristopher Crisostomo",P,20,34,29,0.241,0.241,0.276,0.517,1,0,7,6,1,0,0,8,0,0,0,0,7,0,0,5,0,33935134
+2022,Regular Season,Chunichi Dragons,99,"Tavarez, Yohan",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33935136
+2022,Regular Season,Chunichi Dragons,29,"Rodriguez, Yariel",P,56,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33935151
+2022,Regular Season,Tohoku Rakuten Golden Eagles,42,"Gittens, Chris",DH,21,74,62,0.242,0.365,0.274,0.639,4,8,15,13,2,0,0,17,0,0,11,0,25,0,1,0,0,33935155
+2022,Climax Series - Final Stage,Orix Buffaloes,29,"Tajima, Daiki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41045136
+2022,Japan Series,Orix Buffaloes,29,"Tajima, Daiki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41045136
+2022,Regular Season,Orix Buffaloes,29,"Tajima, Daiki",P,20,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41045136
+2022,Climax Series - Final Stage,Hanshin Tigers,19,"Fujinami, Shintaro",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41045137
+2022,Regular Season,Hanshin Tigers,19,"Fujinami, Shintaro",P,16,22,20,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,2,0,41045137
+2022,Regular Season,Yomiuri Giants,20,"Togo, Shosei",P,25,56,51,0.098,0.115,0.118,0.233,1,5,5,4,1,0,0,6,0,0,1,0,26,1,0,4,0,41045138
+2022,Regular Season,Tokyo Yakult Swallows,35,"Sugiyama, Koki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41045151
+2022,Climax Series - Final Stage,Hanshin Tigers,8,"Sato, Teruaki",RF,3,10,9,0.111,0.200,0.111,0.311,0,0,1,1,0,0,0,1,0,0,1,0,4,0,0,0,0,41045153
+2022,Climax Series - First Stage,Hanshin Tigers,8,"Sato, Teruaki",RF,3,11,10,0.200,0.273,0.500,0.773,1,1,2,1,0,0,1,5,0,0,1,0,4,0,0,0,0,41045153
+2022,Regular Season,Hanshin Tigers,8,"Sato, Teruaki",RF,143,603,541,0.264,0.328,0.470,0.798,70,84,143,80,35,8,20,254,11,3,51,5,137,5,4,0,7,41045153
+2022,Regular Season,Chunichi Dragons,32,"Ishigaki, Masami",2B,50,74,68,0.162,0.186,0.294,0.480,5,6,11,8,0,0,3,20,0,0,2,0,28,1,0,4,0,41145134
+2022,Regular Season,Chunichi Dragons,53,"Ishida, Kentomarc",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41145136
+2022,Regular Season,Tohoku Rakuten Golden Eagles,39,"Itoh, Yukiya",PH,3,8,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,41145138
+2022,Regular Season,Yokohama DeNA Baystars,4,"Itoh, Yukiya",3B,7,13,13,0.077,0.077,0.077,0.154,0,0,1,1,0,0,0,1,0,0,0,0,6,1,0,0,0,41145138
+2022,Regular Season,Chiba Lotte Marines,12,"Ishikawa, Ayumu",P,20,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,41145139
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,13,"Ise, Hiromu",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41145151
+2022,Regular Season,Yokohama DeNA Baystars,13,"Ise, Hiromu",P,71,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41145151
+2022,Regular Season,Hanshin Tigers,69,"Ishii, Daichi",P,18,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41145153
+2022,Regular Season,Orix Buffaloes,39,"Ikeda, Ryoma",RF,6,20,20,0.150,0.150,0.150,0.300,0,1,3,3,0,0,0,3,0,1,0,0,8,0,0,0,0,41145155
+2022,Climax Series - First Stage,Saitama Seibu Lions,5,"Tonosaki, Shuta",2B,2,8,8,0.250,0.250,0.250,0.500,1,0,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,41245130
+2022,Regular Season,Saitama Seibu Lions,5,"Tonosaki, Shuta",2B,132,547,478,0.215,0.295,0.356,0.651,54,47,103,63,25,3,12,170,10,6,52,0,113,12,3,11,3,41245130
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,10,"Tobashira, Yasutaka",C,2,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41245132
+2022,Regular Season,Yokohama DeNA Baystars,10,"Tobashira, Yasutaka",C,72,151,144,0.264,0.280,0.382,0.662,12,16,38,29,5,0,4,55,0,0,3,0,26,2,1,1,2,41245132
+2022,Regular Season,Tokyo Yakult Swallows,30,"Nishida, Akihisa",PH,10,13,13,0.308,0.308,0.308,0.616,0,1,4,4,0,0,0,4,0,0,0,0,4,0,0,0,0,41245133
+2022,Regular Season,Orix Buffaloes,98,"Cho, Yaku",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41245134
+2022,Regular Season,Yokohama DeNA Baystars,17,"Mishima, Kazuki",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41245137
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,13,"Nabatame, Tsubasa",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41245138
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,91,"Furukawa, Yuri",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41245139
+2022,Regular Season,Hiroshima Toyo Carp,65,"Tamamura, Shogo",P,9,12,11,0.273,0.273,0.364,0.637,0,1,3,2,1,0,0,4,0,0,0,0,7,0,0,1,0,41245151
+2022,Climax Series - First Stage,Hanshin Tigers,67,"Takatera, Nozomu",2B,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,41245153
+2022,Regular Season,Hanshin Tigers,67,"Takatera, Nozomu",2B,8,27,23,0.130,0.192,0.261,0.453,0,2,3,0,3,0,0,6,1,0,2,0,5,0,0,1,1,41245153
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,19,"Kaneko, Chihiro",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41345110
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,0,"Ohta, Taishi",PH,2,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41345118
+2022,Regular Season,Yokohama DeNA Baystars,0,"Ohta, Taishi",PH,62,153,144,0.278,0.309,0.465,0.774,17,18,40,24,10,1,5,67,0,1,6,0,33,4,1,1,1,41345118
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,20,"Uehara, Kenta",P,25,5,5,0.200,0.200,0.400,0.600,1,0,1,0,1,0,0,2,0,0,0,0,3,0,0,0,0,41345132
+2022,Regular Season,Fukuoka Softbank Hawks,10,"Ohtake, Koutaro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41345136
+2022,Regular Season,Hiroshima Toyo Carp,38,"Ugusa, Koki",PH,45,98,88,0.205,0.278,0.261,0.539,6,6,18,15,2,0,1,23,0,1,4,0,23,2,5,1,0,41345151
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,25,"Miyanishi, Naoki",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41445116
+2022,Regular Season,Tohoku Rakuten Golden Eagles,62,"Nishiguchi, Naoto",P,61,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41445134
+2022,Regular Season,Hanshin Tigers,18,"Baba, Kosuke",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41445136
+2022,Climax Series - Final Stage,Hanshin Tigers,51,"Nakano, Takumu",SS,3,14,13,0.154,0.214,0.308,0.522,2,0,2,1,0,1,0,4,0,0,1,0,2,1,0,0,0,41445153
+2022,Climax Series - First Stage,Hanshin Tigers,51,"Nakano, Takumu",SS,3,13,12,0.500,0.538,0.500,1.038,1,0,6,6,0,0,0,6,2,0,1,0,1,0,0,0,0,41445153
+2022,Regular Season,Hanshin Tigers,51,"Nakano, Takumu",SS,135,610,569,0.276,0.301,0.346,0.647,69,25,157,132,16,3,6,197,23,7,18,0,89,9,3,19,1,41445153
+2022,Regular Season,Saitama Seibu Lions,50,"Nakayama, Seigo",SS,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41445155
+2022,Regular Season,Chiba Lotte Marines,3,"Kakunaka, Katsuya",PH,53,138,129,0.256,0.304,0.310,0.614,10,11,33,28,4,0,1,40,1,2,9,0,35,0,0,0,0,41545114
+2022,Regular Season,Hiroshima Toyo Carp,39,"Kikuchi, Yasunori",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41545116
+2022,Regular Season,Chiba Lotte Marines,66,"Katoh, Takuma",C,24,10,9,0.111,0.111,0.222,0.333,2,0,1,0,1,0,0,2,0,0,0,0,3,0,0,1,0,41545130
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,14,"Katoh, Takayuki",P,22,5,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,41545132
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,21,"Kiyomiya, Kotaro",1B,129,461,406,0.219,0.305,0.429,0.734,52,55,89,43,25,3,18,174,4,5,45,2,113,6,6,2,2,41545136
+2022,Regular Season,Chunichi Dragons,68,"Katsura, Iori",C,10,9,9,0.222,0.222,0.222,0.444,1,0,2,2,0,0,0,2,0,0,0,0,2,0,0,0,0,41545139
+2022,Japan Series,Tokyo Yakult Swallows,44,"Ohnishi, Hiroki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41545151
+2022,Regular Season,Tokyo Yakult Swallows,44,"Ohnishi, Hiroki",P,43,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41545151
+2022,Regular Season,Hiroshima Toyo Carp,12,"Ohmichi, Haruki",P,3,3,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,41545153
+2022,Regular Season,Chunichi Dragons,34,"Fuku, Hiroto",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41645132
+2022,Regular Season,Chiba Lotte Marines,4,"Fujioka, Yudai",SS,28,81,68,0.176,0.250,0.206,0.456,4,1,12,10,2,0,0,14,0,0,7,0,17,0,0,5,1,41645136
+2022,Climax Series - Final Stage,Orix Buffaloes,2,"Wakatsuki, Kenya",C,3,11,10,0.200,0.273,0.200,0.473,2,0,2,2,0,0,0,2,0,0,1,0,3,0,0,0,0,41645139
+2022,Japan Series,Orix Buffaloes,2,"Wakatsuki, Kenya",C,4,11,8,0.250,0.400,0.375,0.775,0,1,2,1,1,0,0,3,0,0,2,0,2,0,0,1,0,41645139
+2022,Regular Season,Orix Buffaloes,2,"Wakatsuki, Kenya",C,68,193,171,0.281,0.326,0.392,0.718,16,14,48,37,7,0,4,67,3,1,9,0,34,5,3,9,1,41645139
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,59,"Nemoto, Haruka",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41645153
+2022,Regular Season,Chiba Lotte Marines,30,"Hirohata, Atsuya",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41645155
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,36,"Kimura, Fumikazu",RF,38,101,95,0.179,0.218,0.284,0.502,7,9,17,11,4,0,2,27,0,1,4,0,39,1,1,0,1,41745114
+2022,Regular Season,Hiroshima Toyo Carp,32,"Shirahama, Yuta",C,4,6,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,41745119
+2022,Climax Series - First Stage,Hanshin Tigers,35,"Saiki, Hiroto",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41745134
+2022,Regular Season,Hanshin Tigers,35,"Saiki, Hiroto",P,9,19,16,0.063,0.118,0.063,0.181,0,0,1,1,0,0,0,1,0,0,1,0,11,0,0,2,0,41745134
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,8,"Kondoh, Kensuke",LF,99,396,325,0.302,0.418,0.462,0.880,51,41,98,63,26,1,8,150,8,7,66,6,45,7,1,1,3,41745135
+2022,Regular Season,Yomiuri Giants,18,"Sugano, Tomoyuki",P,23,51,43,0.047,0.068,0.047,0.115,0,1,2,2,0,0,0,2,0,0,1,0,18,1,0,7,0,41745137
+2022,Regular Season,Chiba Lotte Marines,27,"Sakamoto, Koshiro",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41745138
+2022,Regular Season,Tokyo Yakult Swallows,26,"Sakamoto, Koshiro",P,7,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41745138
+2022,Regular Season,Hiroshima Toyo Carp,24,"Kurohara, Takumi",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41745155
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,19,"Yamasaki, Yasuaki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41845130
+2022,Regular Season,Yokohama DeNA Baystars,19,"Yamasaki, Yasuaki",P,56,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41845130
+2022,Regular Season,Tohoku Rakuten Golden Eagles,66,"Murabayashi, Itsuki",3B,47,17,16,0.188,0.235,0.188,0.423,9,0,3,3,0,0,0,3,0,2,1,0,5,0,0,0,0,41845132
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,55,"Murakami, Munetaka",3B,3,13,9,0.333,0.538,0.667,1.205,2,3,3,2,0,0,1,6,0,0,4,1,2,0,0,0,0,41845136
+2022,Japan Series,Tokyo Yakult Swallows,55,"Murakami, Munetaka",3B,7,32,26,0.192,0.344,0.385,0.729,4,5,5,2,2,0,1,10,0,0,6,0,8,1,0,0,0,41845136
+2022,Regular Season,Tokyo Yakult Swallows,55,"Murakami, Munetaka",3B,141,612,487,0.318,0.458,0.710,1.168,114,134,155,77,21,1,56,346,12,7,118,25,128,7,7,0,0,41845136
+2022,Climax Series - First Stage,Hanshin Tigers,65,"Yuasa, Atsuki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41845138
+2022,Regular Season,Hanshin Tigers,65,"Yuasa, Atsuki",P,59,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41845138
+2022,Regular Season,Orix Buffaloes,22,"Muranishi, Ryota",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41845151
+2022,Regular Season,Yokohama DeNA Baystars,31,"Shibata, Tatsuhiro",3B,96,198,169,0.195,0.284,0.237,0.521,17,1,33,27,5,1,0,40,1,2,20,2,29,3,1,8,0,41945132
+2022,Regular Season,Chiba Lotte Marines,31,"Sugano, Tsuyoshi",PH,41,93,86,0.209,0.269,0.314,0.583,6,6,18,11,6,0,1,27,0,0,7,0,20,1,0,0,0,41945136
+2022,Regular Season,Chiba Lotte Marines,22,"Tamura, Tatsuhiro",PH,2,5,5,0.200,0.200,0.200,0.400,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,41945137
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,34,"Taguchi, Kazuto",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41945139
+2022,Japan Series,Tokyo Yakult Swallows,34,"Taguchi, Kazuto",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41945139
+2022,Regular Season,Tokyo Yakult Swallows,34,"Taguchi, Kazuto",P,45,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41945139
+2022,Regular Season,Saitama Seibu Lions,19,"Sato, Shunsuke",P,12,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,41945155
+2022,Regular Season,Saitama Seibu Lions,42,"Takahashi, Bo",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43045155
+2022,Regular Season,Yomiuri Giants,00,"Yuasa, Dai",SS,63,36,30,0.100,0.206,0.233,0.439,11,3,3,1,1,0,1,7,3,0,4,0,10,0,0,2,0,43145136
+2022,Regular Season,Tokyo Yakult Swallows,28,"Yoshida, Daiki",P,2,3,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,43145151
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,37,"Mcgough, Scott",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43345138
+2022,Japan Series,Tokyo Yakult Swallows,37,"Mcgough, Scott",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43345138
+2022,Regular Season,Tokyo Yakult Swallows,37,"Mcgough, Scott",P,55,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43345138
+2022,Regular Season,Tohoku Rakuten Golden Eagles,55,"Yasuda, Yuma",C,5,12,10,0.200,0.333,0.500,0.833,2,1,2,1,0,0,1,5,0,0,2,0,4,1,0,0,0,43345155
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,41,"Rodriguez, Bryan",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43745136
+2022,Climax Series - First Stage,Saitama Seibu Lions,30,"O'Grady, Brian",LF,2,5,4,0.000,0.200,0.000,0.200,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,43745155
+2022,Regular Season,Saitama Seibu Lions,30,"O'Grady, Brian",LF,123,465,404,0.213,0.312,0.384,0.696,42,46,86,47,24,0,15,155,2,1,54,3,129,8,5,0,2,43745155
+2022,Regular Season,Yokohama DeNA Baystars,42,"Romero, Fernando",P,23,30,23,0.043,0.120,0.043,0.163,2,0,1,1,0,0,0,1,0,0,2,0,8,0,0,5,0,43945153
+2022,Regular Season,Saitama Seibu Lions,33,"Witte, Jantzen",1B,35,128,120,0.192,0.227,0.283,0.510,8,13,23,16,5,0,2,34,1,0,6,0,36,7,0,0,2,43945155
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,47,"Takahashi, Keiji",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51055132
+2022,Japan Series,Tokyo Yakult Swallows,47,"Takahashi, Keiji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51055132
+2022,Regular Season,Tokyo Yakult Swallows,47,"Takahashi, Keiji",P,17,29,23,0.217,0.280,0.217,0.497,1,1,5,5,0,0,0,5,0,0,2,0,12,0,0,4,0,51055132
+2022,Climax Series - Final Stage,Hanshin Tigers,46,"Shimamoto, Hiroya",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51055133
+2022,Regular Season,Hanshin Tigers,46,"Shimamoto, Hiroya",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51055133
+2022,Regular Season,Fukuoka Softbank Hawks,56,"Taura, Fumimaru",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51055136
+2022,Regular Season,Tohoku Rakuten Golden Eagles,14,"Norimoto, Takahiro",P,21,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,51055137
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,64,"Tamiya, Yua",PH,14,21,18,0.111,0.158,0.167,0.325,1,0,2,1,1,0,0,3,0,0,1,0,4,0,0,2,0,51055138
+2022,Regular Season,Hanshin Tigers,39,"Sakaeda, Yuki",PH,1,1,1,1.000,1.000,1.000,2.000,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,51055153
+2022,Regular Season,Hiroshima Toyo Carp,52,"Suekane, Shota",RF,31,80,77,0.299,0.300,0.442,0.742,9,14,23,17,3,1,2,34,0,0,1,0,20,2,0,0,2,51055155
+2022,Regular Season,Tohoku Rakuten Golden Eagles,3,"Asamura, Hideto",2B,143,633,532,0.252,0.365,0.436,0.801,73,86,134,90,17,0,27,232,4,3,92,7,137,13,5,0,4,51155118
+2022,Regular Season,Fukuoka Softbank Hawks,8,"Akashi, Kenji",1B,22,35,30,0.167,0.242,0.233,0.475,2,3,5,4,0,1,0,7,0,0,3,0,5,1,0,2,0,51155119
+2022,Regular Season,Hanshin Tigers,21,"Akiyama, Takumi",P,5,9,7,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,51155131
+2022,Regular Season,Yokohama DeNA Baystars,67,"Ariyoshi, Yuki",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51155134
+2022,Regular Season,Yokohama DeNA Baystars,11,"Azuma, Katsuki",P,12,15,14,0.071,0.071,0.071,0.142,0,0,1,1,0,0,0,1,0,0,0,0,5,0,0,1,0,51155136
+2022,Regular Season,Tokyo Yakult Swallows,023,"Akahane, Yoshihiro",PH,10,12,10,0.100,0.182,0.100,0.282,1,0,1,1,0,0,0,1,0,0,0,0,5,0,1,1,0,51155153
+2022,Regular Season,Yomiuri Giants,31,"Akahoshi, Yuji",P,31,19,18,0.056,0.056,0.056,0.112,0,0,1,1,0,0,0,1,0,0,0,0,11,0,0,1,0,51155155
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,27,"Nakamura, Yuhei",C,3,13,12,0.167,0.231,0.167,0.398,2,0,2,2,0,0,0,2,0,0,1,0,4,0,0,0,0,51255118
+2022,Japan Series,Tokyo Yakult Swallows,27,"Nakamura, Yuhei",C,7,29,29,0.207,0.207,0.241,0.448,2,0,6,5,1,0,0,7,1,0,0,0,5,2,0,0,0,51255118
+2022,Regular Season,Tokyo Yakult Swallows,27,"Nakamura, Yuhei",C,86,307,266,0.263,0.334,0.361,0.695,23,28,70,55,9,1,5,96,0,0,26,0,36,10,4,8,3,51255118
+2022,Regular Season,Fukuoka Softbank Hawks,13,"Nakatani, Masahiro",RF,16,30,28,0.214,0.233,0.393,0.626,3,4,6,3,2,0,1,11,2,0,0,0,11,1,1,0,1,51255133
+2022,Regular Season,Fukuoka Softbank Hawks,64,"Masago, Yusuke",LF,29,29,28,0.071,0.071,0.071,0.142,3,0,2,2,0,0,0,2,0,0,0,0,10,0,0,1,0,51255137
+2022,Climax Series - Final Stage,Orix Buffaloes,67,"Nakagawa, Keita",1B,4,17,15,0.400,0.471,0.400,0.871,4,1,6,6,0,0,0,6,0,0,2,0,4,0,0,0,0,51255138
+2022,Japan Series,Orix Buffaloes,67,"Nakagawa, Keita",1B,7,33,31,0.226,0.273,0.290,0.563,3,0,7,6,0,1,0,9,0,0,1,0,7,0,1,0,0,51255138
+2022,Regular Season,Orix Buffaloes,67,"Nakagawa, Keita",1B,110,468,424,0.283,0.326,0.441,0.767,54,51,120,78,25,9,8,187,11,2,26,2,79,5,4,8,6,51255138
+2022,Regular Season,Yokohama DeNA Baystars,34,"Hirata, Shingo",P,47,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51255139
+2022,Climax Series - First Stage,Saitama Seibu Lions,62,"Takizawa, Natsuo",SS,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51255155
+2022,Regular Season,Saitama Seibu Lions,62,"Takizawa, Natsuo",SS,48,91,85,0.224,0.258,0.271,0.529,13,4,19,16,2,1,0,23,1,1,4,0,21,2,0,2,0,51255155
+2022,Regular Season,Chunichi Dragons,00,"Ishioka, Ryota",1B,11,29,25,0.360,0.407,0.360,0.767,1,1,9,9,0,0,0,9,0,0,1,0,6,1,1,2,0,51355132
+2022,Regular Season,Orix Buffaloes,00,"Ishioka, Ryota",PR,17,35,33,0.152,0.176,0.182,0.358,3,0,5,4,1,0,0,6,2,1,1,0,10,0,0,1,0,51355132
+2022,Regular Season,Tokyo Yakult Swallows,38,"Umeno, Yugo",P,41,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51355134
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,15,"Uwasawa, Naoyuki",P,23,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,51355135
+2022,Regular Season,Tohoku Rakuten Golden Eagles,38,"Iwami, Masaki",DH,3,7,7,0.286,0.286,0.429,0.715,1,0,2,1,1,0,0,3,0,0,0,0,3,0,0,0,0,51355136
+2022,Climax Series - Final Stage,Hanshin Tigers,17,"Iwasada, Yuta",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51355139
+2022,Climax Series - First Stage,Hanshin Tigers,17,"Iwasada, Yuta",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51355139
+2022,Regular Season,Hanshin Tigers,17,"Iwasada, Yuta",P,53,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51355139
+2022,Regular Season,Yomiuri Giants,091,"Inoue, Haruto",P,7,7,5,0.400,0.400,0.400,0.800,1,0,2,2,0,0,0,2,0,0,0,0,2,0,0,2,0,51355151
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,17,"Itoh, Hiromi",P,26,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,51355153
+2022,Regular Season,Chiba Lotte Marines,8,"Nakamura, Shogo",2B,138,596,498,0.257,0.354,0.392,0.746,52,68,128,85,31,0,12,195,15,6,70,3,86,13,10,9,9,51455130
+2022,Regular Season,Orix Buffaloes,33,"Matsui, Masato",C,6,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51455131
+2022,Regular Season,Saitama Seibu Lions,51,"Nishikawa, Manaya",CF,35,30,30,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,1,0,0,0,5,0,0,0,0,51455136
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,51,"Miyazaki, Toshiro",3B,3,9,7,0.286,0.375,0.714,1.089,2,1,2,1,0,0,1,5,0,0,1,0,1,0,0,1,0,51455137
+2022,Regular Season,Yokohama DeNA Baystars,51,"Miyazaki, Toshiro",3B,122,482,434,0.300,0.365,0.470,0.835,51,50,130,89,24,1,16,204,0,0,44,9,35,16,2,0,2,51455137
+2022,Regular Season,Chiba Lotte Marines,23,"Miki, Ryo",3B,46,34,25,0.160,0.222,0.160,0.382,2,1,4,4,0,0,0,4,1,0,1,0,8,0,1,7,0,51455139
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,58,"Nagaoka, Hideki",SS,3,12,8,0.375,0.500,0.750,1.250,3,1,3,2,0,0,1,6,0,0,2,0,0,0,0,2,0,51455151
+2022,Japan Series,Tokyo Yakult Swallows,58,"Nagaoka, Hideki",SS,7,28,26,0.154,0.185,0.154,0.339,1,1,4,4,0,0,0,4,0,0,1,1,3,0,0,1,0,51455151
+2022,Regular Season,Tokyo Yakult Swallows,58,"Nagaoka, Hideki",SS,139,548,511,0.241,0.273,0.337,0.610,44,48,123,92,22,0,9,172,2,3,20,1,72,10,4,10,3,51455151
+2022,Regular Season,Chunichi Dragons,45,"Tsuchida, Ryuku",SS,62,229,210,0.248,0.283,0.290,0.573,15,12,52,44,7,1,0,61,3,2,7,3,43,7,4,6,2,51455153
+2022,Regular Season,Chiba Lotte Marines,37,"Ono, Fumiya",P,44,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51555130
+2022,Regular Season,Tokyo Yakult Swallows,48,"Kanakubo, Yuto",P,3,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,51555136
+2022,Regular Season,Yomiuri Giants,30,"Kagiya, Yohei",P,21,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51555137
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,20,"Kaino, Hiroshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51555138
+2022,Regular Season,Fukuoka Softbank Hawks,20,"Kaino, Hiroshi",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51555138
+2022,Regular Season,Yokohama DeNA Baystars,61,"Ebina, Tatsuo",RF,61,181,158,0.247,0.316,0.329,0.645,21,8,39,32,4,0,3,52,6,5,10,0,43,3,6,7,0,51555151
+2022,Regular Season,Yokohama DeNA Baystars,58,"Kajiwara, Kouki",CF,6,15,15,0.267,0.267,0.467,0.734,2,2,4,3,0,0,1,7,0,0,0,0,9,0,0,0,0,51555155
+2022,Regular Season,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",1B,43,106,98,0.204,0.255,0.245,0.500,2,7,20,17,2,1,0,24,1,0,6,0,20,1,1,0,1,51655112
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,48,"Fujii, Kouya",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51655130
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,48,"Fujii, Kouya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51655130
+2022,Regular Season,Fukuoka Softbank Hawks,48,"Fujii, Kouya",P,55,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51655130
+2022,Regular Season,Chunichi Dragons,37,"Mitsumata, Taiki",SS,58,154,123,0.211,0.305,0.276,0.581,6,10,26,18,8,0,0,34,1,0,16,1,39,4,1,13,1,51655133
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,26,"Hamaguchi, Haruhiro",P,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,51655134
+2022,Regular Season,Yokohama DeNA Baystars,26,"Hamaguchi, Haruhiro",P,19,34,30,0.100,0.100,0.100,0.200,0,1,3,3,0,0,0,3,0,0,0,0,13,0,0,4,0,51655134
+2022,Regular Season,Chiba Lotte Marines,40,"Fukuda, Koki",PH,13,23,18,0.167,0.318,0.222,0.540,0,1,3,2,1,0,0,4,0,0,4,0,3,0,0,0,0,51655151
+2022,Regular Season,Yomiuri Giants,40,"Nakayama, Raito",SS,50,142,131,0.198,0.234,0.206,0.440,8,3,26,25,1,0,0,27,3,0,6,0,27,2,0,5,0,51655153
+2022,Climax Series - First Stage,Saitama Seibu Lions,1,"Kuriyama, Takumi",DH,2,8,8,0.250,0.250,0.500,0.750,1,0,2,0,2,0,0,4,0,0,0,0,1,0,0,0,0,51755115
+2022,Regular Season,Saitama Seibu Lions,1,"Kuriyama, Takumi",DH,89,267,239,0.264,0.326,0.360,0.686,20,29,63,46,14,0,3,86,0,1,23,1,57,9,1,0,4,51755115
+2022,Climax Series - Final Stage,Orix Buffaloes,54,"Kuroki, Yuta",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51755134
+2022,Regular Season,Orix Buffaloes,54,"Kuroki, Yuta",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51755134
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,1,"Kuwahara, Masayuki",CF,3,9,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,51755135
+2022,Regular Season,Yokohama DeNA Baystars,1,"Kuwahara, Masayuki",CF,130,529,475,0.257,0.322,0.354,0.676,61,39,122,85,32,1,4,168,13,8,42,0,89,3,4,7,1,51755135
+2022,Regular Season,Orix Buffaloes,30,"Suzuki, Kohei",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51755136
+2022,Regular Season,Orix Buffaloes,53,"Gibo, Sho",2B,23,34,29,0.172,0.194,0.207,0.401,0,2,5,4,1,0,0,6,0,0,1,0,3,0,0,3,1,51755138
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,57,"Kitayama, Koki",P,55,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51755155
+2022,Regular Season,Yomiuri Giants,17,"Yamaguchi, Shun",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51855112
+2022,Regular Season,Yomiuri Giants,0,"Masuda, Daiki",PR,58,22,20,0.150,0.190,0.200,0.390,14,0,3,2,1,0,0,4,11,4,1,0,5,0,0,1,0,51855132
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,34,"Hori, Mizuki",P,41,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51855134
+2022,Regular Season,Tokyo Yakult Swallows,32,"Matsumoto, Naoki",C,10,20,20,0.200,0.200,0.500,0.700,3,5,4,2,0,0,2,10,0,0,0,0,1,2,0,0,0,51855136
+2022,Regular Season,Saitama Seibu Lions,15,"Miyagawa, Tetsu",P,45,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51855151
+2022,Regular Season,Yomiuri Giants,6,"Sakamoto, Hayato",SS,83,352,304,0.286,0.378,0.382,0.760,35,33,87,68,14,0,5,116,2,2,45,6,65,3,1,0,2,51955114
+2022,Regular Season,Fukuoka Softbank Hawks,34,"Shiino, Arata",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51955136
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,17,"Shimizu, Noboru",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51955138
+2022,Japan Series,Tokyo Yakult Swallows,17,"Shimizu, Noboru",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51955138
+2022,Regular Season,Tokyo Yakult Swallows,17,"Shimizu, Noboru",P,50,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51955138
+2022,Regular Season,Hiroshima Toyo Carp,00,"Sone, Kaisei",PR,44,7,6,0.000,0.000,0.000,0.000,9,0,0,0,0,0,0,0,4,3,0,0,3,0,0,1,0,51955139
+2022,Regular Season,Saitama Seibu Lions,68,"Kishi, Junichiro",RF,45,83,73,0.205,0.284,0.356,0.640,10,7,15,10,1,2,2,26,1,1,5,0,9,0,3,2,0,51955151
+2022,Japan Series,Orix Buffaloes,38,"Kita, Ryoto",RF,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51955153
+2022,Regular Season,Orix Buffaloes,38,"Kita, Ryoto",RF,10,27,23,0.130,0.231,0.130,0.361,2,0,3,3,0,0,0,3,0,1,3,0,8,0,0,1,0,51955153
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Nunez, Renato",DH,63,180,167,0.174,0.228,0.299,0.527,10,12,29,17,7,1,4,50,1,0,9,1,61,1,3,0,1,53055155
+2022,Regular Season,Saitama Seibu Lions,12,"Watanabe, Yutaro",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53155138
+2022,Regular Season,Hiroshima Toyo Carp,18,"Morishita, Masato",P,27,65,58,0.190,0.203,0.259,0.462,4,7,11,8,2,1,0,15,0,0,1,0,14,0,0,6,0,53155151
+2022,Regular Season,Chiba Lotte Marines,2,"Matsukawa, Kou",C,76,212,185,0.173,0.245,0.200,0.445,12,14,32,27,5,0,0,37,1,0,18,0,60,7,0,8,1,53155155
+2022,Regular Season,Tohoku Rakuten Golden Eagles,12,"Marmolejos, Jose",1B,58,223,202,0.208,0.278,0.342,0.620,14,28,42,29,6,0,7,69,0,0,20,0,68,3,0,0,1,53255155
+2022,Climax Series - Final Stage,Orix Buffaloes,18,"Yamamoto, Yoshinobu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53355134
+2022,Japan Series,Orix Buffaloes,18,"Yamamoto, Yoshinobu",P,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,53355134
+2022,Regular Season,Orix Buffaloes,18,"Yamamoto, Yoshinobu",P,26,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,53355134
+2022,Regular Season,Chunichi Dragons,28,"Mori, Hiroto",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53355153
+2022,Regular Season,Yomiuri Giants,65,"Krol, Ian",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53455155
+2022,Regular Season,Saitama Seibu Lions,35,"Wakabayashi, Gakuto",RF,28,95,87,0.207,0.258,0.207,0.465,5,3,18,18,0,0,0,18,3,1,4,0,34,0,2,2,0,53555153
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,25,"Santana, Domingo",RF,3,11,6,0.167,0.455,0.667,1.122,1,3,1,0,0,0,1,4,0,0,4,0,1,0,0,0,1,53755153
+2022,Japan Series,Tokyo Yakult Swallows,25,"Santana, Domingo",RF,7,26,24,0.250,0.308,0.375,0.683,2,1,6,5,0,0,1,9,0,0,2,0,12,0,0,0,0,53755153
+2022,Regular Season,Tokyo Yakult Swallows,25,"Santana, Domingo",RF,60,215,189,0.275,0.353,0.550,0.903,26,35,52,30,7,0,15,104,0,0,23,0,73,6,1,0,2,53755153
+2022,Regular Season,Hiroshima Toyo Carp,42,"Anderson, Drew",P,13,17,14,0.071,0.071,0.071,0.142,0,0,1,1,0,0,0,1,0,0,0,0,8,0,0,3,0,53755155
+2022,Regular Season,Hiroshima Toyo Carp,97,"Franzua, Geronimo",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53955136
+2022,Regular Season,Hiroshima Toyo Carp,98,"Corniel, Robert",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53955151
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,26,"Rea, Colin",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53955153
+2022,Regular Season,Fukuoka Softbank Hawks,26,"Rea, Colin",P,23,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53955153
+2022,Regular Season,Yokohama DeNA Baystars,49,"Kriske, Brooks",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53955155
+2022,Regular Season,Orix Buffaloes,26,"Nohmi, Atsushi",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61065110
+2022,Regular Season,Yomiuri Giants,10,"Nakata, Sho",1B,109,375,338,0.269,0.327,0.506,0.833,39,68,91,59,8,0,24,171,0,0,27,2,72,9,4,2,4,61065116
+2022,Climax Series - Final Stage,Hanshin Tigers,94,"Haraguchi, Fumihito",1B,3,8,8,0.125,0.125,0.125,0.250,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,61065131
+2022,Climax Series - First Stage,Hanshin Tigers,94,"Haraguchi, Fumihito",1B,3,11,10,0.100,0.100,0.100,0.200,0,1,1,1,0,0,0,1,0,0,0,0,3,0,0,1,0,61065131
+2022,Regular Season,Hanshin Tigers,94,"Haraguchi, Fumihito",1B,33,83,71,0.324,0.390,0.437,0.827,5,10,23,19,2,0,2,31,0,0,9,0,5,1,0,1,2,61065131
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,93,"Tanaka, Eito",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61065136
+2022,Climax Series - Final Stage,Orix Buffaloes,23,"Fushimi, Torai",C,1,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,61065137
+2022,Japan Series,Orix Buffaloes,23,"Fushimi, Torai",C,4,17,16,0.313,0.353,0.375,0.728,0,0,5,4,1,0,0,6,0,0,0,0,3,0,1,0,0,61065137
+2022,Regular Season,Orix Buffaloes,23,"Fushimi, Torai",C,76,235,205,0.229,0.274,0.341,0.615,16,21,47,31,12,1,3,70,2,1,8,0,42,7,5,16,1,61065137
+2022,Regular Season,Orix Buffaloes,28,"Tomiyama, Ryoga",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61065138
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,47,"Suzuki, Kenya",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61065151
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,51,"Ishikawa, Naoya",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61165130
+2022,Regular Season,Chunichi Dragons,5,"Abe, Toshiki",2B,133,548,486,0.270,0.338,0.397,0.735,44,57,131,89,31,2,9,193,3,1,49,0,105,14,4,3,6,61165132
+2022,Regular Season,Tohoku Rakuten Golden Eagles,70,"Ishihara, Tsuyoshi",C,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61165134
+2022,Regular Season,Yomiuri Giants,21,"Inoh, Shoichi",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61165137
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,29,"Ishikawa, Shuta",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61165139
+2022,Regular Season,Fukuoka Softbank Hawks,29,"Ishikawa, Shuta",P,23,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,61165139
+2022,Regular Season,Yokohama DeNA Baystars,95,"Ishikawa, Tatsuya",P,3,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61165153
+2022,Regular Season,Chunichi Dragons,6,"Hirata, Ryosuke",PH,51,83,75,0.200,0.277,0.280,0.557,8,10,15,11,3,0,1,21,0,0,7,0,20,2,1,0,0,61265112
+2022,Regular Season,Fukuoka Softbank Hawks,14,"Matayoshi, Katsuki",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61265139
+2022,Regular Season,Saitama Seibu Lions,37,"Tsuge, Sena",C,42,118,104,0.173,0.202,0.250,0.452,5,5,18,12,5,0,1,26,0,1,4,0,33,2,0,9,1,61265151
+2022,Regular Season,Chunichi Dragons,19,"Takahashi, Hiroto",P,19,44,37,0.108,0.108,0.135,0.243,1,4,4,3,1,0,0,5,0,0,0,0,12,2,0,7,0,61265153
+2022,Climax Series - Final Stage,Orix Buffaloes,55,"Okada, Takahiro",1B,2,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,61365112
+2022,Japan Series,Orix Buffaloes,55,"Okada, Takahiro",1B,2,5,5,0.200,0.200,0.200,0.400,0,1,1,1,0,0,0,1,0,0,0,0,2,1,0,0,0,61365112
+2022,Regular Season,Orix Buffaloes,55,"Okada, Takahiro",1B,36,95,87,0.149,0.211,0.230,0.441,1,10,13,8,4,0,1,20,0,0,7,0,28,1,0,0,1,61365112
+2022,Regular Season,Chunichi Dragons,27,"Ohno, Shota",C,8,21,17,0.294,0.400,0.294,0.694,2,0,5,5,0,0,0,5,0,1,3,0,4,0,0,1,0,61365118
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,30,"Usami, Shingo",C,81,237,215,0.256,0.296,0.372,0.668,22,24,55,40,10,0,5,80,0,0,12,0,42,0,1,7,2,61365132
+2022,Regular Season,Hanshin Tigers,40,"Onaka, Yuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61365134
+2022,Regular Season,Fukuoka Softbank Hawks,39,"Ogata, Shuto",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61365136
+2022,Regular Season,Fukuoka Softbank Hawks,61,"Okumura, Masato",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61365138
+2022,Regular Season,Hiroshima Toyo Carp,14,"Ohsera, Daichi",P,23,48,39,0.154,0.195,0.154,0.349,1,2,6,6,0,0,0,6,0,0,2,0,18,0,0,7,0,61365139
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,22,"Irie, Taisei",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61365153
+2022,Regular Season,Yokohama DeNA Baystars,22,"Irie, Taisei",P,57,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61365153
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,9,"Maeda, Yamato",SS,3,7,7,0.143,0.143,0.143,0.286,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,61465112
+2022,Regular Season,Yokohama DeNA Baystars,9,"Maeda, Yamato",SS,91,277,259,0.247,0.277,0.309,0.586,22,18,64,50,13,0,1,80,1,4,10,0,47,7,1,6,1,61465112
+2022,Regular Season,Orix Buffaloes,57,"Yamada, Nobuyoshi",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61465131
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,36,"Makihara, Taisei",CF,4,16,16,0.250,0.250,0.250,0.500,0,0,4,4,0,0,0,4,0,0,0,0,5,0,0,0,0,61465133
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,36,"Makihara, Taisei",CF,2,8,7,0.429,0.500,0.714,1.214,1,1,3,2,0,1,0,5,0,1,0,0,2,0,1,0,0,61465133
+2022,Regular Season,Fukuoka Softbank Hawks,36,"Makihara, Taisei",CF,120,441,409,0.301,0.331,0.408,0.739,45,42,123,95,18,4,6,167,13,4,16,0,71,5,4,9,3,61465133
+2022,Regular Season,Tohoku Rakuten Golden Eagles,49,"Nishigaki, Masaya",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61465155
+2022,Regular Season,Hiroshima Toyo Carp,33,"Kikuchi, Ryosuke",2B,123,522,462,0.262,0.300,0.359,0.659,51,45,121,89,25,1,6,166,2,3,24,0,70,7,2,32,2,61565135
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,37,"Kusumoto, Taishi",RF,2,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,61565136
+2022,Regular Season,Yokohama DeNA Baystars,37,"Kusumoto, Taishi",RF,94,327,282,0.252,0.322,0.362,0.684,27,26,71,52,13,0,6,102,6,2,23,0,55,4,7,13,2,61565136
+2022,Regular Season,Chunichi Dragons,36,"Okano, Yuichiro",P,4,4,4,0.500,0.500,0.500,1.000,0,2,2,2,0,0,0,2,0,0,0,0,2,0,0,0,0,61565151
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,66,"Matsumoto, Yuki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61665130
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,66,"Matsumoto, Yuki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61665130
+2022,Regular Season,Fukuoka Softbank Hawks,66,"Matsumoto, Yuki",P,44,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61665130
+2022,Regular Season,Tohoku Rakuten Golden Eagles,46,"Fujihira, Shoma",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61665134
+2022,Climax Series - Final Stage,Orix Buffaloes,46,"Honda, Hitomi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61665136
+2022,Japan Series,Orix Buffaloes,46,"Honda, Hitomi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61665136
+2022,Regular Season,Orix Buffaloes,46,"Honda, Hitomi",P,42,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61665136
+2022,Regular Season,Tokyo Yakult Swallows,65,"Matsumoto, Yu",LF,7,19,17,0.353,0.421,0.412,0.833,4,0,6,5,1,0,0,7,0,0,2,0,5,0,0,0,0,61665138
+2022,Regular Season,Tohoku Rakuten Golden Eagles,54,"Wada, Ren",RF,11,30,29,0.069,0.067,0.069,0.136,0,1,2,2,0,0,0,2,0,0,0,0,10,1,0,0,1,61665139
+2022,Regular Season,Tohoku Rakuten Golden Eagles,28,"Sakai, Tomohito",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61765134
+2022,Regular Season,Saitama Seibu Lions,78,"Saito, Masato",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61765136
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,22,"Sugiura, Toshihiro",P,16,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,61765139
+2022,Regular Season,Chiba Lotte Marines,58,"Kawamura, Tokito",P,4,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,61765153
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,46,"Kuroyanagi, Kyosuke",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61765155
+2022,Regular Season,Tohoku Rakuten Golden Eagles,5,"Mogi, Eigoro",3B,73,268,238,0.223,0.300,0.395,0.695,26,30,53,31,12,1,9,94,4,0,27,0,74,3,0,1,2,61865132
+2022,Regular Season,Chiba Lotte Marines,62,"Mori, Ryotaro",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61865136
+2022,Regular Season,Tohoku Rakuten Golden Eagles,23,"Yuge, Hayato",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61865138
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,62,"Mochizuki, Daiki",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61865151
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,56,"Hosokawa, Ryohei",2B,20,48,41,0.171,0.244,0.293,0.537,5,2,7,4,1,2,0,12,0,0,4,0,14,1,0,3,0,61865153
+2022,Regular Season,Chunichi Dragons,9,"Fukudome, Kosuke",PH,23,30,24,0.042,0.167,0.083,0.250,0,3,1,0,1,0,0,2,0,0,4,0,11,0,0,0,2,61963888
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,10,"Shimizu, Yushi",C,30,67,62,0.194,0.219,0.210,0.429,2,3,12,11,1,0,0,13,0,1,1,0,15,1,1,3,0,61965130
+2022,Regular Season,Hiroshima Toyo Carp,7,"Dohbayashi, Shota",PH,101,274,255,0.243,0.279,0.400,0.679,25,28,62,38,16,0,8,102,1,2,11,0,82,6,2,5,1,61965131
+2022,Climax Series - Final Stage,Orix Buffaloes,99,"Sugimoto, Yutaro",RF,4,16,13,0.385,0.500,0.615,1.115,1,5,5,4,0,0,1,8,1,0,3,0,3,1,0,0,0,61965132
+2022,Japan Series,Orix Buffaloes,99,"Sugimoto, Yutaro",RF,7,29,26,0.231,0.310,0.231,0.541,1,3,6,6,0,0,0,6,0,0,1,0,10,0,2,0,0,61965132
+2022,Regular Season,Orix Buffaloes,99,"Sugimoto, Yutaro",RF,105,433,379,0.235,0.324,0.398,0.722,37,51,89,58,15,1,15,151,4,4,40,2,135,9,11,0,2,61965132
+2022,Regular Season,Chunichi Dragons,46,"Suzuki, Hiroshi",P,3,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61965136
+2022,Regular Season,Yomiuri Giants,47,"Takahashi, Yuki",P,10,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,5,0,0,0,0,61965138
+2022,Regular Season,Hiroshima Toyo Carp,2,"Tanaka, Kosuke",3B,41,45,40,0.200,0.267,0.275,0.542,2,1,8,6,1,1,0,11,0,1,3,0,14,0,1,0,1,61965139
+2022,Regular Season,Tohoku Rakuten Golden Eagles,0,"Kobukata, Hiroto",SS,118,479,424,0.267,0.328,0.342,0.670,54,29,113,90,16,5,2,145,21,7,37,0,65,6,3,12,3,61965151
+2022,Regular Season,Hiroshima Toyo Carp,53,"Kobayashi, Tatsuto",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61965153
+2022,Regular Season,Orix Buffaloes,59,"Vargas, Cesar",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63065153
+2022,Regular Season,Yomiuri Giants,23,"Polanco, Gregory",RF,138,484,438,0.240,0.306,0.457,0.763,55,58,105,59,21,1,24,200,2,3,42,1,109,6,1,0,3,63065155
+2022,Climax Series - Final Stage,Orix Buffaloes,7,"Yoshida, Masataka",DH,4,16,13,0.462,0.563,0.923,1.486,4,3,6,4,0,0,2,12,0,0,2,1,1,0,1,0,0,63165132
+2022,Japan Series,Orix Buffaloes,7,"Yoshida, Masataka",DH,7,32,23,0.174,0.406,0.435,0.841,4,4,4,2,0,0,2,10,0,0,8,3,0,1,1,0,0,63165132
+2022,Regular Season,Orix Buffaloes,7,"Yoshida, Masataka",DH,119,508,412,0.335,0.447,0.561,1.008,56,88,138,88,28,1,21,231,4,0,80,18,41,11,9,0,7,63165132
+2022,Regular Season,Chunichi Dragons,17,"Yanagi, Yuya",P,25,50,46,0.087,0.104,0.109,0.213,1,1,4,3,1,0,0,5,0,0,1,0,20,0,0,2,1,63165134
+2022,Regular Season,Saitama Seibu Lions,44,"Yoza, Kaito",P,20,4,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,63165136
+2022,Climax Series - First Stage,Saitama Seibu Lions,69,"Mizukami, Yoshinobu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63165153
+2022,Regular Season,Saitama Seibu Lions,69,"Mizukami, Yoshinobu",P,60,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63165153
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,43,"Mizuno, Tatsuki",3B,21,44,41,0.122,0.163,0.171,0.334,4,0,5,3,2,0,0,7,1,1,2,0,16,0,0,1,0,63165155
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,2,"Kivlehan, Patrick",LF,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,63265155
+2022,Japan Series,Tokyo Yakult Swallows,2,"Kivlehan, Patrick",LF,4,9,9,0.222,0.222,0.333,0.555,0,0,2,1,1,0,0,3,0,0,0,0,2,0,0,0,0,63265155
+2022,Regular Season,Tokyo Yakult Swallows,2,"Kivlehan, Patrick",LF,29,87,83,0.241,0.264,0.494,0.758,10,14,20,11,3,0,6,41,0,1,2,0,21,1,1,0,1,63265155
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,62,"Escobar, Edwin",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63365134
+2022,Regular Season,Yokohama DeNA Baystars,62,"Escobar, Edwin",P,70,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63365134
+2022,Climax Series - Final Stage,Hanshin Tigers,31,"Marte, Jefry",1B,3,10,7,0.286,0.300,0.429,0.729,0,2,2,1,1,0,0,3,0,0,1,0,2,0,0,0,2,63365138
+2022,Climax Series - First Stage,Hanshin Tigers,31,"Marte, Jefry",1B,2,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,63365138
+2022,Regular Season,Hanshin Tigers,31,"Marte, Jefry",1B,33,102,90,0.256,0.324,0.300,0.624,8,11,23,21,1,0,1,27,0,0,8,0,19,1,2,0,2,63365138
+2022,Regular Season,Orix Buffaloes,0,"Watanabe, Haruto",CF,16,19,17,0.059,0.111,0.059,0.170,0,2,1,1,0,0,0,1,1,1,1,0,7,0,0,1,0,63565155
+2022,Regular Season,Chunichi Dragons,95,"Garcia, Guillermo",LF,2,9,9,0.111,0.111,0.111,0.222,0,0,1,1,0,0,0,1,0,0,0,0,5,0,0,0,0,63765155
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,35,"Moinelo, Livan",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63965134
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,35,"Moinelo, Livan",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63965134
+2022,Regular Season,Fukuoka Softbank Hawks,35,"Moinelo, Livan",P,53,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63965134
+2022,Regular Season,Chunichi Dragons,96,"Wakamatsu, Luke",3B,2,4,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,63965153
+2022,Regular Season,Tokyo Yakult Swallows,50,"Suarez, Andrew",P,6,4,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,1,0,63965155
+2022,Climax Series - First Stage,Saitama Seibu Lions,13,"Takahashi, Kona",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71075130
+2022,Regular Season,Saitama Seibu Lions,13,"Takahashi, Kona",P,26,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,71075130
+2022,Regular Season,Tohoku Rakuten Golden Eagles,53,"Takata, Hosei",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71075134
+2022,Regular Season,Saitama Seibu Lions,73,"Takagi, Wataru",RF,13,44,36,0.111,0.195,0.111,0.306,0,1,4,4,0,0,0,4,0,1,4,0,14,0,0,3,1,71075136
+2022,Climax Series - Final Stage,Hanshin Tigers,5,"Chikamoto, Koji",CF,3,13,12,0.250,0.308,0.250,0.558,2,1,3,3,0,0,0,3,0,0,1,0,3,1,0,0,0,71075138
+2022,Climax Series - First Stage,Hanshin Tigers,5,"Chikamoto, Koji",CF,3,12,11,0.455,0.500,0.545,1.045,1,3,5,4,1,0,0,6,1,0,1,0,0,0,0,0,0,71075138
+2022,Regular Season,Hanshin Tigers,5,"Chikamoto, Koji",CF,132,580,525,0.293,0.352,0.352,0.704,71,34,154,132,16,3,3,185,30,5,41,0,63,7,7,6,1,71075138
+2022,Regular Season,Chiba Lotte Marines,32,"Satoh, Toshiya",C,118,402,359,0.214,0.260,0.315,0.575,35,31,77,58,10,1,8,113,5,1,21,1,63,11,3,13,6,71075151
+2022,Regular Season,Tohoku Rakuten Golden Eagles,20,"Anraku, Tomohiro",P,52,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71175130
+2022,Climax Series - Final Stage,Hanshin Tigers,50,"Aoyagi, Koyo",P,1,3,3,0.333,0.333,0.667,1.000,0,0,1,0,1,0,0,2,0,0,0,0,1,0,0,0,0,71175132
+2022,Climax Series - First Stage,Hanshin Tigers,50,"Aoyagi, Koyo",P,1,3,3,0.333,0.333,0.333,0.666,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,71175132
+2022,Regular Season,Hanshin Tigers,50,"Aoyagi, Koyo",P,24,54,50,0.140,0.157,0.140,0.297,2,2,7,7,0,0,0,7,0,0,1,0,26,1,0,3,0,71175132
+2022,Regular Season,Orix Buffaloes,95,"Azuma, Kohei",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71175136
+2022,Climax Series - Final Stage,Hanshin Tigers,16,"Nishi, Yuki",P,1,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,71275118
+2022,Regular Season,Hanshin Tigers,16,"Nishi, Yuki",P,23,49,42,0.048,0.070,0.048,0.118,1,0,2,2,0,0,0,2,0,0,1,0,17,0,0,6,0,71275118
+2022,Regular Season,Chiba Lotte Marines,67,"Chatani, Kenta",SS,57,156,137,0.248,0.322,0.321,0.643,17,9,34,27,5,1,1,44,1,3,12,0,33,3,3,4,0,71275132
+2022,Regular Season,Chiba Lotte Marines,16,"Taneichi, Atsuki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71275134
+2022,Climax Series - First Stage,Saitama Seibu Lions,14,"Masuda, Tatsushi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71275137
+2022,Regular Season,Saitama Seibu Lions,14,"Masuda, Tatsushi",P,52,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71275137
+2022,Regular Season,Saitama Seibu Lions,64,"Nakaguma, Daichi",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71275138
+2022,Regular Season,Tokyo Yakult Swallows,60,"Takeoka, Ryusei",2B,7,18,17,0.412,0.444,0.529,0.973,3,3,7,6,0,1,0,9,0,0,0,0,3,0,1,0,0,71275151
+2022,Regular Season,Chiba Lotte Marines,35,"Suzuki, Shota",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71275153
+2022,Regular Season,Tohoku Rakuten Golden Eagles,33,"Akaminai, Ginji",1B,83,271,238,0.261,0.335,0.286,0.621,18,26,62,56,6,0,0,68,0,0,28,2,31,5,0,2,3,71375112
+2022,Regular Season,Tohoku Rakuten Golden Eagles,60,"Ishibashi, Ryota",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71375132
+2022,Regular Season,Yomiuri Giants,64,"Ohe, Ryusei",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71375134
+2022,Regular Season,Hiroshima Toyo Carp,66,"Endoh, Atsushi",P,20,32,30,0.067,0.067,0.067,0.134,0,4,2,2,0,0,0,2,0,0,0,0,13,2,0,2,0,71375136
+2022,Regular Season,Tohoku Rakuten Golden Eagles,2,"Ohta, Hikaru",C,71,182,145,0.214,0.325,0.303,0.628,10,18,31,24,4,0,3,44,1,0,21,1,46,3,3,13,0,71375138
+2022,Climax Series - First Stage,Hanshin Tigers,27,"Itoh, Masashi",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71375153
+2022,Regular Season,Hanshin Tigers,27,"Itoh, Masashi",P,20,46,33,0.121,0.171,0.152,0.323,1,5,4,3,1,0,0,5,0,0,2,0,19,1,0,11,0,71375153
+2022,Regular Season,Chunichi Dragons,4,"Ukai, Kosuke",RF,59,195,180,0.206,0.262,0.328,0.590,14,16,37,24,8,1,4,59,1,0,9,0,64,0,5,0,1,71375155
+2022,Regular Season,Hiroshima Toyo Carp,63,"Nishikawa, Ryoma",LF,97,424,390,0.315,0.366,0.456,0.822,60,53,123,91,19,3,10,178,2,2,30,4,74,8,2,0,2,71475132
+2022,Regular Season,Tohoku Rakuten Golden Eagles,64,"Fukuyama, Hiroyuki",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71475133
+2022,Regular Season,Chiba Lotte Marines,68,"Nishimaki, Kenji",PR,2,1,0,0.000,1.000,0.000,1.000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,71475136
+2022,Regular Season,Hiroshima Toyo Carp,69,"Hatsuki, Ryutaro",PH,44,99,94,0.245,0.276,0.340,0.616,10,10,23,16,5,2,0,32,2,3,4,1,17,1,0,1,0,71475138
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,39,"Minei, Hiroki",C,1,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,71475139
+2022,Regular Season,Yokohama DeNA Baystars,39,"Minei, Hiroki",C,93,262,244,0.205,0.237,0.295,0.532,15,30,50,38,7,0,5,72,0,1,6,3,54,10,5,5,2,71475139
+2022,Regular Season,Chiba Lotte Marines,0,"Ogino, Takashi",LF,89,373,326,0.310,0.375,0.436,0.811,51,27,101,74,18,4,5,142,15,3,30,0,30,7,7,5,5,71575131
+2022,Regular Season,Chunichi Dragons,11,"Ogasawara, Shinnosuke",P,22,46,41,0.098,0.140,0.122,0.262,3,0,4,3,1,0,0,5,0,0,2,0,22,0,0,3,0,71575132
+2022,Regular Season,Hiroshima Toyo Carp,41,"Yasaki, Takuya",P,47,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71575134
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,8,"Kamizato, Kazuki",LF,2,3,2,0.500,0.667,0.500,1.167,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,71575136
+2022,Regular Season,Yokohama DeNA Baystars,8,"Kamizato, Kazuki",LF,81,107,95,0.189,0.274,0.326,0.600,12,10,18,10,4,3,1,31,6,3,8,0,26,1,3,1,0,71575136
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,37,"Kakigi, Ren",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71575138
+2022,Regular Season,Tohoku Rakuten Golden Eagles,40,"Uchima, Takuma",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71575153
+2022,Climax Series - Final Stage,Hanshin Tigers,36,"Hamachi, Masumi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675134
+2022,Climax Series - First Stage,Hanshin Tigers,36,"Hamachi, Masumi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675134
+2022,Regular Season,Hanshin Tigers,36,"Hamachi, Masumi",P,52,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675134
+2022,Regular Season,Chiba Lotte Marines,52,"Masuda, Naoya",P,52,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675135
+2022,Regular Season,Saitama Seibu Lions,38,"Makino, Shoya",C,11,32,29,0.138,0.194,0.207,0.401,3,2,4,3,0,1,0,6,0,1,2,0,7,1,0,1,0,71675138
+2022,Regular Season,Fukuoka Softbank Hawks,12,"Kurose, Kenta",1B,7,15,12,0.167,0.267,0.167,0.434,0,1,2,2,0,0,0,2,0,0,2,0,8,0,0,0,1,71775132
+2022,Climax Series - First Stage,Saitama Seibu Lions,6,"Genda, Sosuke",SS,2,8,8,0.125,0.125,0.375,0.500,1,0,1,0,0,1,0,3,0,0,0,0,4,0,0,0,0,71775134
+2022,Regular Season,Saitama Seibu Lions,6,"Genda, Sosuke",SS,108,456,414,0.266,0.317,0.338,0.655,39,17,110,92,8,8,2,140,12,4,30,0,72,6,1,11,0,71775134
+2022,Regular Season,Hiroshima Toyo Carp,29,"Kemna, Makoto",P,43,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71775136
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,61,"Kubo, Takuma",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71775138
+2022,Japan Series,Tokyo Yakult Swallows,61,"Kubo, Takuma",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71775138
+2022,Regular Season,Tokyo Yakult Swallows,61,"Kubo, Takuma",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71775138
+2022,Regular Season,Hiroshima Toyo Carp,11,"Kuri, Aren",P,26,44,35,0.029,0.056,0.029,0.085,2,0,1,1,0,0,0,1,0,0,1,0,14,2,0,8,0,71775139
+2022,Regular Season,Hanshin Tigers,97,"Onodera, Dan",LF,32,45,44,0.136,0.156,0.273,0.429,3,7,6,3,1,1,1,12,0,0,1,0,12,3,0,0,0,71775151
+2022,Regular Season,Yomiuri Giants,51,"Yaoita, Takumaru",PH,39,48,44,0.227,0.292,0.273,0.565,4,0,10,8,2,0,0,12,0,0,4,0,17,0,0,0,0,71875130
+2022,Regular Season,Chunichi Dragons,39,"Yamashita, Ayatsugu",PH,20,24,23,0.130,0.167,0.261,0.428,1,1,3,2,0,0,1,6,0,0,1,0,8,0,0,0,0,71875133
+2022,Regular Season,Tokyo Yakult Swallows,68,"Miyadai, Kohei",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875136
+2022,Regular Season,Saitama Seibu Lions,28,"Moriwaki, Ryosuke",P,43,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875138
+2022,Climax Series - Final Stage,Orix Buffaloes,13,"Miyagi, Hiroya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875151
+2022,Japan Series,Orix Buffaloes,13,"Miyagi, Hiroya",P,2,2,2,0.500,0.500,0.500,1.000,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,71875151
+2022,Regular Season,Orix Buffaloes,13,"Miyagi, Hiroya",P,24,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875151
+2022,Regular Season,Tohoku Rakuten Golden Eagles,47,"Fujii, Masaru",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875153
+2022,Regular Season,Chunichi Dragons,25,"Satoh, Yu",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71975132
+2022,Regular Season,Chiba Lotte Marines,11,"Sasaki, Chihaya",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71975134
+2022,Regular Season,Tohoku Rakuten Golden Eagles,35,"Shimauchi, Hiroaki",RF,142,613,541,0.298,0.373,0.453,0.826,59,77,161,108,36,3,14,245,5,3,63,1,82,16,4,2,3,71975135
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,9,"Shiomi, Yasutaka",CF,3,14,11,0.273,0.429,0.364,0.793,1,0,3,2,1,0,0,4,1,0,3,0,4,0,0,0,0,71975136
+2022,Japan Series,Tokyo Yakult Swallows,9,"Shiomi, Yasutaka",CF,7,33,28,0.357,0.455,0.571,1.026,5,1,10,7,1,1,1,16,1,0,3,0,9,0,2,0,0,71975136
+2022,Regular Season,Tokyo Yakult Swallows,9,"Shiomi, Yasutaka",CF,130,567,508,0.276,0.345,0.453,0.798,83,54,140,88,30,6,16,230,24,7,43,1,122,6,12,1,3,71975136
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,44,"Sakaguchi, Uta",DH,3,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,71975155
+2022,Regular Season,Orix Buffaloes,4,"Valera, Breyvic",1B,37,127,112,0.205,0.294,0.277,0.571,7,6,23,17,5,0,1,31,0,1,13,0,11,3,1,1,0,73075155
+2022,Regular Season,Tohoku Rakuten Golden Eagles,34,"Yamasaki, Tsuyoshi",SS,79,218,187,0.203,0.280,0.337,0.617,19,13,38,24,6,5,3,63,15,4,17,0,46,3,3,11,0,73175136
+2022,Regular Season,Tohoku Rakuten Golden Eagles,48,"Watanabe, Yoshiaki",3B,60,168,153,0.242,0.295,0.294,0.589,14,17,37,33,1,2,1,45,2,3,12,0,24,2,0,2,1,73175138
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,32,"Yanagimachi, Tatsuru",LF,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,73175151
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,32,"Yanagimachi, Tatsuru",LF,2,6,3,0.333,0.667,0.667,1.334,1,0,1,0,1,0,0,2,0,0,2,0,0,0,1,0,0,73175151
+2022,Regular Season,Fukuoka Softbank Hawks,32,"Yanagimachi, Tatsuru",LF,107,364,321,0.277,0.357,0.346,0.703,21,32,89,71,14,4,0,111,3,5,38,0,79,7,2,3,0,73175151
+2022,Regular Season,Hiroshima Toyo Carp,45,"Matsumoto, Ryuya",P,50,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73175155
+2022,Climax Series - Final Stage,Orix Buffaloes,58,"Waguespack, Jacob",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73275155
+2022,Japan Series,Orix Buffaloes,58,"Waguespack, Jacob",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73275155
+2022,Regular Season,Orix Buffaloes,58,"Waguespack, Jacob",P,32,5,4,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,73275155
+2022,Regular Season,Tokyo Yakult Swallows,49,"Watanabe, Daiki",RF,49,17,16,0.125,0.125,0.188,0.313,6,2,2,1,1,0,0,3,2,1,0,0,5,0,0,1,0,73375132
+2022,Regular Season,Yomiuri Giants,2,"Yoshikawa, Naoki",2B,132,567,516,0.277,0.329,0.380,0.709,64,31,143,110,20,6,7,196,16,7,32,0,53,6,8,10,1,73375134
+2022,Regular Season,Tohoku Rakuten Golden Eagles,79,"Watanabe, Yuki",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73375136
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,23,"Austin, Tyler",PH,2,2,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,73375151
+2022,Regular Season,Yokohama DeNA Baystars,23,"Austin, Tyler",PH,38,38,32,0.156,0.289,0.313,0.602,3,3,5,2,2,0,1,10,0,0,6,1,14,1,0,0,0,73375151
+2022,Regular Season,Hiroshima Toyo Carp,13,"Moriura, Daisuke",P,51,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73375153
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,70,"Menez, Conner",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73475155
+2022,Regular Season,Tohoku Rakuten Golden Eagles,43,"Sung, Chia-Hao",P,54,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73575132
+2022,Regular Season,Yokohama DeNA Baystars,45,"Peoples, Michael",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73775151
+2022,Regular Season,Yomiuri Giants,29,"Andriese, Matt",P,5,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,73775155
+2022,Regular Season,Chunichi Dragons,57,"Martinez, Ariel",LF,82,286,254,0.276,0.350,0.437,0.787,29,24,70,46,15,1,8,111,1,1,23,1,55,8,7,0,2,73975136
+2022,Climax Series - Final Stage,Hanshin Tigers,42,"Keller, Kyle",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73975155
+2022,Climax Series - First Stage,Hanshin Tigers,42,"Keller, Kyle",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73975155
+2022,Regular Season,Hanshin Tigers,42,"Keller, Kyle",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73975155
+2022,Climax Series - First Stage,Saitama Seibu Lions,60,"Nakamura, Takeya",3B,2,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,81085115
+2022,Regular Season,Saitama Seibu Lions,60,"Nakamura, Takeya",3B,88,294,276,0.196,0.241,0.355,0.596,24,31,54,34,8,0,12,98,0,0,14,0,76,7,3,0,1,81085115
+2022,Japan Series,Orix Buffaloes,35,"Higa, Motoki",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81085131
+2022,Regular Season,Orix Buffaloes,35,"Higa, Motoki",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81085131
+2022,Regular Season,Yokohama DeNA Baystars,38,"Tanaka, Shunta",PR,19,19,19,0.158,0.158,0.158,0.316,0,1,3,3,0,0,0,3,0,0,0,0,3,0,0,0,0,81085136
+2022,Climax Series - Final Stage,Orix Buffaloes,44,"Tongu, Yuma",1B,3,10,7,0.000,0.300,0.000,0.300,0,1,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,81085138
+2022,Japan Series,Orix Buffaloes,44,"Tongu, Yuma",1B,4,10,8,0.125,0.300,0.125,0.425,0,0,1,1,0,0,0,1,0,0,2,0,2,0,0,0,0,81085138
+2022,Regular Season,Orix Buffaloes,44,"Tongu, Yuma",1B,81,271,234,0.226,0.311,0.440,0.751,23,34,53,25,17,0,11,103,0,0,23,0,51,6,8,1,5,81085138
+2022,Regular Season,Yomiuri Giants,15,"Ota, Taisei",P,57,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81085155
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,29,"Itoh, Hikaru",C,2,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81185116
+2022,Regular Season,Yokohama DeNA Baystars,29,"Itoh, Hikaru",C,40,103,94,0.277,0.340,0.351,0.691,9,8,26,19,7,0,0,33,0,0,8,3,23,3,1,0,0,81185116
+2022,Regular Season,Saitama Seibu Lions,27,"Utsumi, Tetsuya",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81185119
+2022,Regular Season,Hiroshima Toyo Carp,40,"Isomura, Yoshitaka",C,43,126,114,0.237,0.293,0.360,0.653,18,15,27,19,5,0,3,41,0,0,7,0,20,4,2,3,0,81185133
+2022,Climax Series - Final Stage,Hanshin Tigers,33,"Itohara, Kento",3B,3,10,10,0.300,0.300,0.300,0.600,0,0,3,3,0,0,0,3,0,0,0,0,1,0,0,0,0,81185134
+2022,Climax Series - First Stage,Hanshin Tigers,33,"Itohara, Kento",3B,3,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,81185134
+2022,Regular Season,Hanshin Tigers,33,"Itohara, Kento",3B,132,495,445,0.247,0.307,0.299,0.606,31,36,110,94,12,1,3,133,2,3,35,1,48,7,5,6,4,81185134
+2022,Regular Season,Chunichi Dragons,49,"Itoh, Kosuke",PH,28,27,26,0.231,0.259,0.346,0.605,3,1,6,3,3,0,0,9,0,0,1,0,5,0,0,0,0,81185136
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,68,"Ishikawa, Ryo",C,23,52,45,0.156,0.191,0.156,0.347,3,3,7,7,0,0,0,7,0,0,2,0,7,1,0,5,0,81185139
+2022,Climax Series - Final Stage,Orix Buffaloes,16,"Hirano, Yoshihisa",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285112
+2022,Japan Series,Orix Buffaloes,16,"Hirano, Yoshihisa",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285112
+2022,Regular Season,Orix Buffaloes,16,"Hirano, Yoshihisa",P,48,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285112
+2022,Regular Season,Orix Buffaloes,17,"Masui, Hirotoshi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285131
+2022,Regular Season,Hiroshima Toyo Carp,22,"Nakamura, Shosei",C,27,58,57,0.193,0.207,0.228,0.435,1,5,11,9,2,0,0,13,0,2,1,0,8,0,0,0,0,81285136
+2022,Regular Season,Chunichi Dragons,48,"Mizowaki, Hayato",2B,87,157,139,0.252,0.289,0.302,0.591,7,9,35,29,5,1,0,42,2,1,8,0,26,2,0,8,2,81285137
+2022,Regular Season,Chunichi Dragons,7,"Neo, Akira",P,49,46,40,0.200,0.289,0.250,0.539,2,4,8,6,2,0,0,10,0,0,5,0,9,1,0,1,0,81285138
+2022,Regular Season,Tohoku Rakuten Golden Eagles,1,"Matsui, Yuki",P,53,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285139
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,11,"Tsumori, Yuki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285151
+2022,Regular Season,Fukuoka Softbank Hawks,11,"Tsumori, Yuki",P,51,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285151
+2022,Regular Season,Tokyo Yakult Swallows,46,"Ohta, Kengo",RF,37,131,118,0.271,0.323,0.356,0.679,16,8,32,25,5,1,1,42,0,0,8,0,24,1,1,4,0,81385130
+2022,Regular Season,Hanshin Tigers,98,"Ono, Taiki",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81385134
+2022,Regular Season,Tohoku Rakuten Golden Eagles,51,"Ogoh, Yuya",RF,10,23,18,0.167,0.250,0.389,0.639,2,2,3,1,1,0,1,7,0,0,2,0,4,0,0,3,0,81385138
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,62,"Umino, Takashi",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81385151
+2022,Regular Season,Fukuoka Softbank Hawks,62,"Umino, Takashi",C,47,42,42,0.167,0.167,0.286,0.453,3,4,7,4,2,0,1,12,0,0,0,0,11,0,0,0,0,81385151
+2022,Regular Season,Yomiuri Giants,38,"Okada, Yuki",RF,33,22,21,0.095,0.136,0.095,0.231,2,0,2,2,0,0,0,2,0,0,1,0,7,0,0,0,0,81385155
+2022,Japan Series,Orix Buffaloes,9,"Noguchi, Tomoya",SS,2,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,81485155
+2022,Regular Season,Orix Buffaloes,9,"Noguchi, Tomoya",SS,54,167,155,0.226,0.277,0.284,0.561,15,6,35,28,6,0,1,44,0,1,9,1,56,3,2,1,0,81485155
+2022,Regular Season,Tohoku Rakuten Golden Eagles,22,"Kawashima, Keizo",2B,12,25,22,0.136,0.174,0.318,0.492,1,6,3,1,1,0,1,7,0,0,1,0,9,1,0,2,0,81585112
+2022,Regular Season,Saitama Seibu Lions,72,"Kawagoe, Seiji",RF,50,159,139,0.259,0.346,0.381,0.727,10,14,36,25,7,2,2,53,2,2,18,1,41,1,1,0,1,81585132
+2022,Regular Season,Chunichi Dragons,1,"Kyoda, Yota",SS,43,143,128,0.172,0.248,0.297,0.545,11,8,22,13,5,1,3,38,1,0,10,3,21,1,3,2,0,81585134
+2022,Climax Series - First Stage,Hanshin Tigers,4,"Kumagai, Takahiro",PR,1,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81585136
+2022,Regular Season,Hanshin Tigers,4,"Kumagai, Takahiro",PR,63,52,45,0.156,0.152,0.156,0.308,8,3,7,7,0,0,0,7,7,5,0,0,10,0,0,6,1,81585136
+2022,Climax Series - First Stage,Saitama Seibu Lions,23,"Kumon, Katsuhiko",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81585137
+2022,Regular Season,Saitama Seibu Lions,23,"Kumon, Katsuhiko",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81585137
+2022,Regular Season,Yokohama DeNA Baystars,27,"Kamichatani, Taiga",P,13,20,15,0.200,0.294,0.200,0.494,0,1,3,3,0,0,0,3,0,0,2,0,6,0,0,3,0,81585138
+2022,Regular Season,Chunichi Dragons,60,"Okabayashi, Yuki",RF,142,608,553,0.291,0.329,0.373,0.702,58,32,161,126,25,10,0,206,24,6,29,1,67,4,3,22,1,81585151
+2022,Regular Season,Saitama Seibu Lions,17,"Matsumoto, Wataru",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81685138
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,23,"Watanabe, Ryo",1B,21,64,60,0.233,0.281,0.367,0.648,11,2,14,8,4,2,0,22,0,0,3,0,17,1,1,0,0,81685139
+2022,Climax Series - First Stage,Saitama Seibu Lions,63,"Hasegawa, Shinya",CF,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81685153
+2022,Regular Season,Saitama Seibu Lions,63,"Hasegawa, Shinya",CF,37,68,65,0.185,0.221,0.246,0.467,6,3,12,8,4,0,0,16,2,1,3,0,21,1,0,0,0,81685153
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,2,"Sugiya, Kenshi",2B,51,109,97,0.165,0.229,0.186,0.415,9,3,16,14,2,0,0,18,0,0,8,0,21,0,0,4,0,81785118
+2022,Japan Series,Orix Buffaloes,20,"Kondoh, Taisuke",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81785132
+2022,Regular Season,Orix Buffaloes,20,"Kondoh, Taisuke",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81785132
+2022,Regular Season,Chunichi Dragons,00,"Gotoh, Shunta",CF,35,58,50,0.160,0.250,0.260,0.510,3,4,8,5,1,2,0,13,0,1,4,1,10,0,2,2,0,81785133
+2022,Regular Season,Orix Buffaloes,8,"Gotoh, Shunta",RF,26,52,49,0.184,0.231,0.224,0.455,5,2,9,8,0,1,0,11,1,2,2,0,15,0,1,0,0,81785133
+2022,Regular Season,Yokohama DeNA Baystars,12,"Sakaguchi, Kousuke",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81785136
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,49,"Satoh, Ryusei",3B,37,106,96,0.115,0.175,0.167,0.342,5,4,11,8,2,0,1,16,0,0,7,0,23,1,0,3,0,81785138
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,28,"Kawano, Ryusei",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81785151
+2022,Regular Season,Fukuoka Softbank Hawks,46,"Kawarada, Jumpei",PR,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81785153
+2022,Regular Season,Saitama Seibu Lions,22,"Koga, Yuto",C,26,71,58,0.155,0.265,0.241,0.506,3,4,9,6,2,0,1,14,0,0,9,1,16,1,0,3,1,81785155
+2022,Regular Season,Yokohama DeNA Baystars,66,"Yamashita, Kouki",PH,12,12,12,0.083,0.083,0.083,0.166,1,1,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,81885130
+2022,Regular Season,Chiba Lotte Marines,5,"Yasuda, Hisanori",3B,119,440,388,0.263,0.343,0.397,0.740,33,47,102,69,23,1,9,154,1,2,45,0,86,10,4,0,3,81885136
+2022,Regular Season,Yomiuri Giants,62,"Yokogawa, Kai",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81885138
+2022,Regular Season,Hiroshima Toyo Carp,95,"Mochimaru, Taiki",C,5,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,81885151
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,31,"Masaki, Tomoya",LF,2,5,5,0.200,0.200,0.400,0.600,0,0,1,0,1,0,0,2,0,0,0,0,1,0,0,0,0,81885155
+2022,Regular Season,Fukuoka Softbank Hawks,31,"Masaki, Tomoya",LF,35,80,67,0.254,0.367,0.448,0.815,6,5,17,10,4,0,3,30,0,0,10,0,24,1,2,1,0,81885155
+2022,Regular Season,Yomiuri Giants,39,"Tateoka, Soichiro",LF,54,57,54,0.204,0.246,0.278,0.524,11,3,11,9,1,0,1,15,3,0,3,0,10,0,0,0,0,81985118
+2022,Regular Season,Tohoku Rakuten Golden Eagles,7,"Suzuki, Daichi",1B,125,477,408,0.257,0.344,0.341,0.685,39,35,105,81,19,0,5,139,4,2,38,0,52,11,18,9,4,81985135
+2022,Regular Season,Chunichi Dragons,51,"Takino, Kaname",PH,11,10,10,0.300,0.300,0.300,0.600,1,0,3,3,0,0,0,3,1,1,0,0,3,0,0,0,0,81985138
+2022,Regular Season,Tohoku Rakuten Golden Eagles,30,"Komine, Shinri",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81985151
+2022,Regular Season,Tokyo Yakult Swallows,41,"Shibata, Daichi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81985155
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,45,"Ponce, Cody",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83085155
+2022,Climax Series - Final Stage,Orix Buffaloes,19,"Yamaoka, Taisuke",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83185134
+2022,Japan Series,Orix Buffaloes,19,"Yamaoka, Taisuke",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83185134
+2022,Regular Season,Orix Buffaloes,19,"Yamaoka, Taisuke",P,22,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,83185134
+2022,Regular Season,Chunichi Dragons,30,"Miyoshi, Hironori",PH,45,61,55,0.218,0.246,0.345,0.591,7,2,12,8,2,1,1,19,6,0,2,0,16,0,0,4,0,83185153
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,6,"Alcantara, Arismendy",2B,97,285,263,0.209,0.267,0.392,0.659,27,28,55,35,6,0,14,103,4,6,21,1,87,3,0,0,1,83585155
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,27,"Gracial, Yurisbel",LF,2,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,83785136
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,27,"Gracial, Yurisbel",LF,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83785136
+2022,Regular Season,Fukuoka Softbank Hawks,27,"Gracial, Yurisbel",LF,99,386,347,0.271,0.339,0.380,0.719,24,30,94,72,13,2,7,132,1,3,33,1,75,8,4,0,2,83785136
+2022,Regular Season,Fukuoka Softbank Hawks,3,"Galvis, Freddy",3B,38,130,111,0.171,0.285,0.243,0.528,11,11,19,15,2,0,2,27,0,1,15,0,29,2,3,0,1,83785155
+2022,Climax Series - First Stage,Saitama Seibu Lions,54,"Smith, Burch",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83985155
+2022,Regular Season,Saitama Seibu Lions,54,"Smith, Burch",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83985155
+2022,Regular Season,Yomiuri Giants,53,"Takanashi, Yuhei",P,59,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91095134
+2022,Regular Season,Chunichi Dragons,3,"Takahashi, Shuhei",3B,78,290,265,0.249,0.308,0.306,0.614,18,21,66,56,7,1,2,81,1,1,16,0,43,8,7,1,1,91095135
+2022,Regular Season,Yokohama DeNA Baystars,60,"Chino, Naoto",PR,16,14,13,0.154,0.214,0.154,0.368,4,0,2,2,0,0,0,2,1,0,1,0,5,0,0,0,0,91095138
+2022,Regular Season,Tokyo Yakult Swallows,3,"Nishiura, Naomichi",SS,6,15,14,0.071,0.071,0.071,0.142,0,0,1,1,0,0,0,1,0,0,0,0,8,1,0,1,0,91095139
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,30,"Satoh, Naoki",PR,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91095151
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,30,"Satoh, Naoki",PR,2,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91095151
+2022,Regular Season,Fukuoka Softbank Hawks,30,"Satoh, Naoki",PR,48,35,31,0.129,0.206,0.323,0.529,8,2,4,1,1,1,1,10,0,0,3,0,17,0,0,1,0,91095151
+2022,Regular Season,Hanshin Tigers,7,"Itoi, Yoshio",LF,62,182,163,0.227,0.302,0.301,0.603,12,22,37,31,3,0,3,49,0,0,16,2,29,3,2,0,1,91195119
+2022,Regular Season,Chunichi Dragons,58,"Ishibashi, Kota",C,31,75,67,0.179,0.203,0.284,0.487,3,4,12,6,5,1,0,19,0,0,2,0,11,1,0,6,0,91195138
+2022,Regular Season,Fukuoka Softbank Hawks,49,"Akiyoshi, Ryo",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91195139
+2022,Regular Season,Chunichi Dragons,2,"Ishikawa, Takaya",3B,37,141,129,0.225,0.264,0.411,0.675,11,19,29,16,7,1,5,53,0,0,7,1,29,0,1,1,3,91195151
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,54,"Tamai, Taisho",P,50,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91295134
+2022,Regular Season,Saitama Seibu Lions,21,"Togame, Ken",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91295135
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,33,"Tateno, Kazuaki",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91295151
+2022,Regular Season,Tokyo Yakult Swallows,62,"Takeyama, Hyuga",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91295155
+2022,Regular Season,Chiba Lotte Marines,46,"Iwashita, Daiki",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91395130
+2022,Regular Season,Hanshin Tigers,63,"Itayama, Yutaro",PH,14,9,8,0.125,0.222,0.125,0.347,0,0,1,1,0,0,0,1,0,0,1,0,4,0,0,0,0,91395132
+2022,Climax Series - Final Stage,Orix Buffaloes,31,"Ohta, Ryo",2B,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91395138
+2022,Japan Series,Orix Buffaloes,31,"Ohta, Ryo",2B,5,18,15,0.400,0.500,0.667,1.167,3,1,6,4,1,0,1,10,0,0,3,0,3,0,0,0,0,91395138
+2022,Regular Season,Orix Buffaloes,31,"Ohta, Ryo",2B,32,101,92,0.196,0.245,0.293,0.538,7,5,18,11,6,0,1,27,0,0,6,0,22,0,0,3,0,91395138
+2022,Regular Season,Fukuoka Softbank Hawks,51,"Uebayashi, Seiji",RF,33,100,93,0.301,0.337,0.409,0.746,13,12,28,21,5,1,1,38,2,0,3,0,19,1,2,2,0,91395139
+2022,Climax Series - Final Stage,Orix Buffaloes,5,"Nishino, Masahiro",2B,4,12,7,0.143,0.364,0.286,0.650,0,2,1,0,1,0,0,2,0,0,3,0,1,0,0,1,1,91495130
+2022,Japan Series,Orix Buffaloes,5,"Nishino, Masahiro",2B,5,12,11,0.455,0.417,0.455,0.872,2,2,5,5,0,0,0,5,0,0,0,0,0,0,0,0,1,91495130
+2022,Regular Season,Orix Buffaloes,5,"Nishino, Masahiro",2B,43,130,114,0.289,0.339,0.351,0.690,10,8,33,27,5,1,0,40,0,0,8,0,13,4,1,6,1,91495130
+2022,Regular Season,Hanshin Tigers,57,"Nagasaka, Kenya",C,27,46,40,0.175,0.175,0.250,0.425,2,1,7,5,1,1,0,10,0,0,0,0,16,2,0,6,0,91495134
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,35,"Nishimura, Takahiro",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91495136
+2022,Regular Season,Tokyo Yakult Swallows,51,"Hamada, Taiki",PH,73,148,141,0.206,0.238,0.383,0.621,12,14,29,17,5,1,6,54,0,1,6,0,34,5,0,1,0,91495138
+2022,Climax Series - First Stage,Saitama Seibu Lions,10,"Mori, Tomoya",C,2,8,8,0.125,0.125,0.500,0.625,1,1,1,0,0,0,1,4,0,0,0,0,3,0,0,0,0,91495139
+2022,Regular Season,Saitama Seibu Lions,10,"Mori, Tomoya",C,102,412,366,0.251,0.328,0.391,0.719,45,38,92,60,21,3,8,143,2,1,41,0,66,11,1,3,1,91495139
+2022,Climax Series - Final Stage,Hanshin Tigers,15,"Nishi, Junya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91495151
+2022,Climax Series - First Stage,Hanshin Tigers,15,"Nishi, Junya",P,2,1,1,1.000,1.000,2.000,3.000,0,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,91495151
+2022,Regular Season,Hanshin Tigers,15,"Nishi, Junya",P,14,26,26,0.231,0.231,0.385,0.616,1,4,6,4,1,0,1,10,0,0,0,0,8,0,0,0,0,91495151
+2022,Regular Season,Yomiuri Giants,90,"Toda, Natsuki",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91495153
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,19,"Kai, Takuya",C,4,12,11,0.273,0.333,0.364,0.697,0,0,3,2,1,0,0,4,0,2,1,0,5,0,0,0,0,91595133
+2022,Climax Series - First Stage,Fukuoka Softbank Hawks,19,"Kai, Takuya",C,2,7,4,0.500,0.600,0.500,1.100,1,2,2,2,0,0,0,2,0,0,1,0,0,0,0,2,0,91595133
+2022,Regular Season,Fukuoka Softbank Hawks,19,"Kai, Takuya",C,130,405,323,0.180,0.275,0.223,0.498,25,27,58,47,9,1,1,72,1,3,38,0,85,9,5,38,1,91595133
+2022,Climax Series - Final Stage,Fukuoka Softbank Hawks,57,"Kayama, Shinya",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91595135
+2022,Regular Season,Fukuoka Softbank Hawks,57,"Kayama, Shinya",P,56,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91595135
+2022,Regular Season,Yomiuri Giants,27,"Kishida, Yukinori",C,25,38,35,0.257,0.316,0.257,0.573,1,1,9,9,0,0,0,9,0,0,2,0,6,0,1,0,0,91595136
+2022,Regular Season,Chunichi Dragons,52,"Katoh, Shohei",LF,66,31,27,0.222,0.276,0.407,0.683,13,5,6,3,2,0,1,11,3,0,2,0,5,0,0,2,0,91595137
+2022,Japan Series,Tokyo Yakult Swallows,00,"Okumura, Nobuyuki",2B,1,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,91595139
+2022,Regular Season,Tokyo Yakult Swallows,00,"Okumura, Nobuyuki",2B,43,44,41,0.146,0.186,0.146,0.332,5,2,6,6,0,0,0,6,0,0,2,0,16,0,0,1,0,91595139
+2022,Regular Season,Orix Buffaloes,40,"Ohshita, Seiichiro",1B,5,10,8,0.250,0.400,0.500,0.900,1,0,2,0,2,0,0,4,0,0,1,0,2,0,1,0,0,91595151
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,33,"Uchiyama, Souma",C,1,0,0,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91595153
+2022,Japan Series,Tokyo Yakult Swallows,33,"Uchiyama, Souma",C,3,3,3,0.333,0.333,1.333,1.666,1,3,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,91595153
+2022,Regular Season,Tokyo Yakult Swallows,33,"Uchiyama, Souma",C,74,197,177,0.232,0.299,0.362,0.661,25,19,41,26,11,0,4,64,0,0,16,0,52,6,1,3,0,91595153
+2022,Regular Season,Chiba Lotte Marines,13,"Hirasawa, Taiga",3B,13,32,27,0.148,0.250,0.148,0.398,3,3,4,4,0,0,0,4,1,0,4,0,4,0,0,0,1,91695132
+2022,Regular Season,Saitama Seibu Lions,25,"Hirai, Katsunori",P,30,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,91695134
+2022,Regular Season,Yokohama DeNA Baystars,32,"Mashiko, Kyosuke",C,1,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,91695138
+2022,Japan Series,Tokyo Yakult Swallows,0,"Namiki, Hidetaka",CF,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,91695153
+2022,Regular Season,Tokyo Yakult Swallows,0,"Namiki, Hidetaka",CF,14,23,22,0.182,0.182,0.364,0.546,3,0,4,2,0,2,0,8,2,0,0,0,3,1,0,1,0,91695153
+2022,Regular Season,Tohoku Rakuten Golden Eagles,11,"Kishi, Takayuki",P,22,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,91795114
+2022,Regular Season,Yokohama DeNA Baystars,5,"Kuramoto, Toshihiko",3B,44,54,52,0.173,0.189,0.231,0.420,3,2,9,8,0,0,1,12,0,0,1,0,12,0,0,1,0,91795130
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,60,"Kohri, Takuya",C,26,63,56,0.125,0.197,0.250,0.447,2,6,7,4,1,0,2,14,1,1,4,0,16,0,1,2,0,91795134
+2022,Regular Season,Yomiuri Giants,22,"Kobayashi, Seiji",C,60,91,88,0.148,0.157,0.205,0.362,4,5,13,8,5,0,0,18,0,0,1,0,20,2,0,2,0,91795139
+2022,Regular Season,Hanshin Tigers,37,"Oyokawa, Masaki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91795151
+2022,Regular Season,Hiroshima Toyo Carp,23,"Yabuta, Kazuki",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91895130
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,1,"Yamada, Tetsuto",2B,3,10,6,0.333,0.600,0.667,1.267,2,1,2,0,2,0,0,4,0,0,4,0,1,0,0,0,0,91895133
+2022,Japan Series,Tokyo Yakult Swallows,1,"Yamada, Tetsuto",2B,7,32,24,0.083,0.313,0.208,0.521,1,3,2,1,0,0,1,5,0,0,8,0,8,1,0,0,0,91895133
+2022,Regular Season,Tokyo Yakult Swallows,1,"Yamada, Tetsuto",2B,130,540,469,0.243,0.333,0.456,0.789,69,65,114,60,31,0,23,214,10,2,60,1,140,7,6,0,5,91895133
+2022,Regular Season,Yokohama DeNA Baystars,00,"Miyamoto, Shumei",PH,29,39,36,0.139,0.184,0.333,0.517,6,2,5,2,0,2,1,12,0,0,2,0,8,2,0,1,0,91895136
+2022,Regular Season,Chiba Lotte Marines,51,"Yamaguchi, Koki",1B,102,349,321,0.237,0.295,0.430,0.725,40,57,76,46,14,0,16,138,1,0,23,0,84,8,4,0,1,91895138
+2022,Regular Season,Hokkaido Nippon-Ham Fighters,69,"Miyata, Hokuto",PR,6,7,7,0.143,0.143,0.143,0.286,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,91895151
+2022,Regular Season,Tohoku Rakuten Golden Eagles,26,"Sumitani, Ginjiro",C,98,288,253,0.237,0.293,0.300,0.593,21,18,60,52,4,0,4,76,0,3,18,0,52,10,2,15,0,91995112
+2022,Climax Series - Final Stage,Orix Buffaloes,41,"Sano, Kodai",CF,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91995130
+2022,Japan Series,Orix Buffaloes,41,"Sano, Kodai",CF,5,7,5,0.200,0.333,0.400,0.733,0,0,1,0,1,0,0,2,1,0,0,0,1,0,1,1,0,91995130
+2022,Regular Season,Orix Buffaloes,41,"Sano, Kodai",CF,78,118,107,0.224,0.252,0.336,0.588,12,9,24,16,6,0,2,36,5,5,4,0,29,0,0,7,0,91995130
+2022,Regular Season,Hiroshima Toyo Carp,5,"Chono, Hisayoshi",PH,58,134,123,0.211,0.269,0.325,0.594,11,15,26,18,5,0,3,40,2,0,10,0,34,3,0,0,1,91995131
+2022,Climax Series - First Stage,Yokohama DeNA Baystars,7,"Sano, Keita",LF,3,11,10,0.100,0.182,0.100,0.282,0,0,1,1,0,0,0,1,0,0,1,0,1,1,0,0,0,91995134
+2022,Regular Season,Yokohama DeNA Baystars,7,"Sano, Keita",LF,133,574,526,0.306,0.362,0.490,0.852,63,72,161,109,29,1,22,258,2,1,43,3,57,14,4,0,1,91995134
+2022,Climax Series - Final Stage,Hanshin Tigers,53,"Shimada, Kairi",LF,3,7,7,0.429,0.429,0.429,0.858,0,1,3,3,0,0,0,3,0,0,0,0,1,0,0,0,0,91995136
+2022,Climax Series - First Stage,Hanshin Tigers,53,"Shimada, Kairi",LF,2,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,91995136
+2022,Regular Season,Hanshin Tigers,53,"Shimada, Kairi",LF,123,339,311,0.264,0.303,0.299,0.602,36,17,82,73,7,2,0,93,21,5,15,0,56,3,3,9,1,91995136
+2022,Regular Season,Fukuoka Softbank Hawks,40,"Sugiyama, Kazuki",P,10,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,91995138
+2022,Regular Season,Chunichi Dragons,33,"Sobue, Daisuke",P,46,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91995139
+2022,Climax Series - Final Stage,Orix Buffaloes,24,"Kurebayashi, Kotaro",SS,4,10,9,0.222,0.222,0.333,0.555,0,0,2,1,1,0,0,3,0,0,0,0,1,1,0,1,0,91995151
+2022,Japan Series,Orix Buffaloes,24,"Kurebayashi, Kotaro",SS,7,30,27,0.296,0.345,0.407,0.752,2,2,8,5,3,0,0,11,0,0,2,0,4,0,0,1,0,91995151
+2022,Regular Season,Orix Buffaloes,24,"Kurebayashi, Kotaro",SS,130,495,450,0.224,0.275,0.318,0.593,35,32,101,73,20,2,6,143,2,2,26,1,71,14,6,10,2,91995151
+2022,Regular Season,Hiroshima Toyo Carp,20,"Kuribayashi, Ryoji",P,48,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91995153
+2022,Regular Season,Orix Buffaloes,42,"Ravelo, Rangel",1B,24,71,58,0.138,0.296,0.207,0.503,4,2,8,6,1,0,1,12,0,0,11,0,20,3,2,0,0,93095153
+2022,Regular Season,Orix Buffaloes,69,"Biddle, Jesse",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93095155
+2022,Regular Season,Hanshin Tigers,00,"Yamamoto, Yasuhiro",2B,86,203,181,0.249,0.290,0.304,0.594,19,15,45,39,4,0,2,55,3,3,10,0,42,1,1,10,1,93195132
+2022,Regular Season,Tohoku Rakuten Golden Eagles,13,"Morihara, Kohei",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93195134
+2022,Regular Season,Yokohama DeNA Baystars,68,"Morihara, Kohei",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93195134
+2022,Regular Season,Tokyo Yakult Swallows,43,"Yamamoto, Daiki",P,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93195136
+2022,Regular Season,Fukuoka Softbank Hawks,79,"Watanabe, Riku",C,20,36,33,0.273,0.333,0.576,0.909,6,9,9,5,1,0,3,19,0,0,3,0,15,0,0,0,0,93195138
+2022,Climax Series - Final Stage,Tokyo Yakult Swallows,4,"Maruyama, Kazuya",RF,3,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93195155
+2022,Japan Series,Tokyo Yakult Swallows,4,"Maruyama, Kazuya",RF,7,9,8,0.500,0.556,0.625,1.181,2,0,4,3,1,0,0,5,2,0,1,0,3,0,0,0,0,93195155
+2022,Regular Season,Tokyo Yakult Swallows,4,"Maruyama, Kazuya",RF,71,97,90,0.233,0.258,0.311,0.569,14,9,21,16,4,0,1,28,2,3,1,0,25,2,2,4,0,93195155
+2022,Regular Season,Yomiuri Giants,99,"Shoemaker, Matt",P,18,28,27,0.074,0.074,0.074,0.148,1,1,2,2,0,0,0,2,0,0,0,0,14,0,0,1,0,93295155
+2022,Regular Season,Hanshin Tigers,92,"Watanabe, Yuta",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93395136
+2022,Regular Season,Hanshin Tigers,49,"Gunkel, Joe",P,16,27,24,0.292,0.320,0.375,0.695,1,2,7,5,2,0,0,9,0,0,1,0,10,0,0,2,0,93395151
+2022,Regular Season,Hiroshima Toyo Carp,61,"Yano, Masaya",3B,55,78,67,0.194,0.280,0.284,0.564,11,5,13,11,0,0,2,19,0,1,7,0,21,0,1,3,0,93395153
+2022,Regular Season,Hiroshima Toyo Carp,16,"Mori, Shohei",P,8,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,93395155
+2022,Regular Season,Yokohama DeNA Baystars,45,"Gsellman, Robert",P,4,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,93495155
+2022,Regular Season,Yomiuri Giants,12,"De La Rosa, Rubby",P,30,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93795138
+2022,Regular Season,Yomiuri Giants,49,"Vieira, Thyago",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93795151
+2022,Regular Season,Hanshin Tigers,52,"Wilkerson, Aaron",P,14,18,15,0.067,0.067,0.067,0.134,0,1,1,1,0,0,0,1,0,0,0,0,7,0,0,3,0,93795155
+2022,Regular Season,Chiba Lotte Marines,45,"Guerrero, Tayron",P,49,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93995155

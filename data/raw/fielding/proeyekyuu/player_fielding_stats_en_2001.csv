@@ -1,0 +1,777 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+2001,Regular Season,Hiroshima Toyo Carp,16,"Yamauchi, Yasuyuki",P,20,1.000,0,2,0,0,,01003880
+2001,Regular Season,Yokohama BayStars,24,"Hosomi, Kazushi",P,14,1.000,4,4,0,0,,01003882
+2001,Regular Season,Yomiuri Giants,44,"Horita, Ichiro",OF,20,1.000,8,0,0,0,,01003884
+2001,Regular Season,Yokohama BayStars,3,"Furuki, Katsuaki",OF,1,1.000,1,0,0,0,,01003888
+2001,Regular Season,Chunichi Dragons,00,"Yanagisawa, Yuichi",C,16,0.935,39,4,3,1,2,01003889
+2001,Regular Season,Yakult Swallows,61,"Ishii, Hirotoshi",P,39,0.917,3,8,1,1,,01103882
+2001,Regular Season,Yomiuri Giants,2,"Motoki, Daisuke",1B,1,1.000,1,0,0,0,,01103883
+2001,Regular Season,Yomiuri Giants,2,"Motoki, Daisuke",2B,3,1.000,2,2,0,1,,01103883
+2001,Regular Season,Yomiuri Giants,2,"Motoki, Daisuke",3B,19,1.000,4,13,0,1,,01103883
+2001,Regular Season,Yomiuri Giants,2,"Motoki, Daisuke",OF,35,1.000,39,3,0,1,,01103883
+2001,Regular Season,Yomiuri Giants,2,"Motoki, Daisuke",SS,83,0.986,92,194,4,42,,01103883
+2001,Regular Season,Osaka Kintetsu Buffaloes,8,"Isobe, Koichi",OF,140,0.993,278,5,2,2,,01103884
+2001,Regular Season,Hanshin Tigers,29,"Igawa, Kei",P,29,0.844,9,29,7,1,,01103886
+2001,Regular Season,Hiroshima Toyo Carp,25,"Arai, Takahiro",1B,47,1.000,122,12,0,9,,01103888
+2001,Regular Season,Hiroshima Toyo Carp,25,"Arai, Takahiro",3B,45,0.915,22,64,8,7,,01103888
+2001,Regular Season,Hiroshima Toyo Carp,25,"Arai, Takahiro",OF,37,0.974,35,3,1,1,,01103888
+2001,Regular Season,Osaka Kintetsu Buffaloes,48,"Iwakuma, Hisashi",P,9,0.875,4,3,1,0,,01105111
+2001,Regular Season,Yokohama BayStars,62,"Azuma, Kazumasa",P,3,0.000,0,0,0,0,,01105113
+2001,Regular Season,Chiba Lotte Marines,60,"Mitsuyama, Hidekazu",C,6,0.958,21,2,1,0,1,01203862
+2001,Regular Season,Chiba Lotte Marines,19,"Yokota, Hisanori",P,6,1.000,2,2,0,0,,01203864
+2001,Regular Season,Fukuoka Daiei Hawks,53,"Nonogaki, Takeshi",2B,1,1.000,1,2,0,1,,01203881
+2001,Regular Season,Fukuoka Daiei Hawks,53,"Nonogaki, Takeshi",3B,6,1.000,1,2,0,0,,01203881
+2001,Regular Season,Fukuoka Daiei Hawks,53,"Nonogaki, Takeshi",SS,36,0.974,24,51,2,10,,01203881
+2001,Regular Season,Yokohama BayStars,14,"Morinaka, Masao",P,35,0.750,2,4,2,0,,01203884
+2001,Regular Season,Chiba Lotte Marines,12,"Fujita, Soichi",P,60,1.000,0,4,0,0,,01203886
+2001,Regular Season,Chiba Lotte Marines,16,"Muto, Junichiro",P,1,1.000,1,1,0,0,,01203887
+2001,Regular Season,Hanshin Tigers,36,"Mende, Tetsuji",P,4,1.000,0,1,0,0,,01203888
+2001,Regular Season,Hanshin Tigers,15,"Fujita, Taiyo",P,3,1.000,0,2,0,0,,01205113
+2001,Regular Season,Chunichi Dragons,55,"Kito, Makoto",P,21,0.000,0,0,1,0,,01303864
+2001,Regular Season,Chunichi Dragons,22,"Yamasaki, Takeshi",1B,102,0.998,783,54,2,65,,01303868
+2001,Regular Season,Hanshin Tigers,19,"Kawajiri, Tetsuro",P,21,0.941,7,9,1,1,,01303880
+2001,Regular Season,Seibu Lions,23,"Otsuka, Koji",OF,1,1.000,2,0,0,0,,01303881
+2001,Regular Season,Osaka Kintetsu Buffaloes,23,"Kadokura, Ken",P,32,1.000,9,12,0,0,,01303882
+2001,Regular Season,Nippon-Ham Fighters,8,"Kataoka, Atsushi",3B,102,0.968,84,184,9,13,,01303885
+2001,Regular Season,Nippon-Ham Fighters,51,"Oda, Tomoyuki",3B,2,1.000,0,1,0,0,,01303886
+2001,Regular Season,Nippon-Ham Fighters,58,"Kamishima, Takashi",P,1,0.000,0,0,0,0,,01305111
+2001,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,28,1.000,7,30,0,2,,01403862
+2001,Regular Season,Chiba Lotte Marines,44,"Yoshitsuru, Kenji",OF,2,1.000,1,0,0,0,,01403887
+2001,Regular Season,Hanshin Tigers,21,"Yoshino, Makoto",P,15,1.000,1,1,0,0,,01405111
+2001,Regular Season,Yokohama BayStars,21,"Nomura, Hiroki",P,14,1.000,7,12,0,1,,01503866
+2001,Regular Season,Yomiuri Giants,37,"Saito, Takayuki",1B,2,1.000,2,0,0,1,,01503880
+2001,Regular Season,Yomiuri Giants,37,"Saito, Takayuki",OF,25,1.000,15,0,0,0,,01503880
+2001,Regular Season,Yokohama BayStars,30,"Kohiyama, Masahito",P,7,0.667,1,1,1,0,,01503887
+2001,Regular Season,Chunichi Dragons,57,"Kuramoto, Hidenori",OF,15,1.000,24,1,0,0,,01503888
+2001,Regular Season,Chiba Lotte Marines,13,"Yoshida, Atsushi",P,44,1.000,6,14,0,1,,01603885
+2001,Regular Season,Seibu Lions,17,"Hsu, Ming-Chieh",P,27,0.958,4,19,1,1,,01605111
+2001,Regular Season,Chunichi Dragons,9,"Unroe, Tim",1B,1,1.000,2,0,0,0,,01605113
+2001,Regular Season,Chunichi Dragons,9,"Unroe, Tim",3B,2,1.000,2,5,0,1,,01605113
+2001,Regular Season,Chunichi Dragons,23,"Sekikawa, Koichi",OF,60,0.989,89,4,1,2,,01703883
+2001,Regular Season,Chiba Lotte Marines,8,"Shimizu, Masaumi",C,122,0.990,572,42,6,8,4,01703884
+2001,Regular Season,Yokohama BayStars,48,"Goto, Shinya",P,1,0.000,0,0,0,0,,01705113
+2001,Regular Season,Chiba Lotte Marines,48,"Kobayashi, Atsushi",P,6,1.000,1,2,0,0,,01803883
+2001,Regular Season,Seibu Lions,32,"Del Toro, Miguel",P,14,1.000,2,5,0,0,,01805113
+2001,Regular Season,Hanshin Tigers,47,"Ito, Atsunori",P,52,0.917,2,9,1,0,,01903866
+2001,Regular Season,Nippon-Ham Fighters,43,"Harada, Masahiko",OF,23,0.947,35,1,2,0,,01903880
+2001,Regular Season,Hanshin Tigers,1,"Taninaka, Shinji",P,25,0.951,12,27,2,2,,01903884
+2001,Regular Season,Orix Bluewave,6,"Taguchi, So",OF,128,0.987,221,5,3,2,,01903885
+2001,Regular Season,Seibu Lions,68,"Tahara, Koji",C,1,1.000,7,0,0,0,0,01903887
+2001,Regular Season,Yomiuri Giants,7,"Nioka, Tomohiro",SS,80,0.975,98,175,7,30,,01903888
+2001,Regular Season,Yomiuri Giants,30,"Chon, Minchoru",P,8,0.857,0,6,1,1,,03105111
+2001,Regular Season,Osaka Kintetsu Buffaloes,44,"Gilbert, Shawn",1B,3,1.000,2,1,0,0,,03305113
+2001,Regular Season,Osaka Kintetsu Buffaloes,44,"Gilbert, Shawn",2B,35,1.000,34,51,0,13,,03305113
+2001,Regular Season,Osaka Kintetsu Buffaloes,44,"Gilbert, Shawn",SS,62,0.957,69,152,10,28,,03305113
+2001,Regular Season,Yomiuri Giants,23,"Yoshinaga, Koichiro",C,8,1.000,34,4,0,1,1,03703868
+2001,Regular Season,Osaka Kintetsu Buffaloes,49,"Kato, Hiroto",P,12,0.000,0,0,0,0,,05003868
+2001,Regular Season,Seibu Lions,57,"Ueda, Hiroaki",2B,39,1.000,13,15,0,7,,05303868
+2001,Regular Season,Seibu Lions,57,"Ueda, Hiroaki",3B,30,0.909,2,8,1,0,,05303868
+2001,Regular Season,Seibu Lions,57,"Ueda, Hiroaki",SS,32,0.981,33,68,2,14,,05303868
+2001,Regular Season,Hanshin Tigers,45,"Hirashita, Koji",OF,6,0.917,11,0,1,0,,11013882
+2001,Regular Season,Hanshin Tigers,25,"Hamanaka, Osamu",OF,109,0.995,183,5,1,2,,11013884
+2001,Regular Season,Yakult Swallows,13,"Teramura, Tomokazu",P,19,1.000,3,4,0,0,,11013886
+2001,Regular Season,Hanshin Tigers,48,"Narimoto, Toshihide",P,45,1.000,3,7,0,0,,11013887
+2001,Regular Season,Yokohama BayStars,45,"Fukumoto, Makoto",2B,1,0.000,0,0,0,0,,11013888
+2001,Regular Season,Osaka Kintetsu Buffaloes,2,"Matoyama, Tetsuya",C,101,0.991,469,53,5,11,4,11013889
+2001,Regular Season,Hanshin Tigers,3,"Yagi, Hiroshi",1B,24,1.000,139,12,0,16,,11213864
+2001,Regular Season,Hanshin Tigers,3,"Yagi, Hiroshi",OF,1,1.000,2,0,0,0,,11213864
+2001,Regular Season,Hiroshima Toyo Carp,23,"Yokoyama, Ryuji",P,21,0.806,5,20,6,2,,11213880
+2001,Regular Season,Osaka Kintetsu Buffaloes,26,"Misawa, Koichi",P,21,1.000,1,3,0,0,,11213884
+2001,Regular Season,Yomiuri Giants,31,"Misawa, Koichi",P,2,1.000,0,2,0,0,,11213884
+2001,Regular Season,Hiroshima Toyo Carp,53,"Hayashi, Masaki",P,1,0.000,0,0,0,0,,11213886
+2001,Regular Season,Fukuoka Daiei Hawks,12,"Matsu, Nobuyasu",P,9,0.800,0,4,1,0,,11213888
+2001,Regular Season,Fukuoka Daiei Hawks,34,"Yoshitake, Shintaro",P,18,1.000,1,2,0,1,,11213889
+2001,Regular Season,Hanshin Tigers,67,"Matsuda, Masashi",OF,18,0.909,9,1,1,0,,11215111
+2001,Regular Season,Orix Bluewave,28,"Kase, Toshihiro",P,70,0.944,6,11,1,1,,11313880
+2001,Regular Season,Yakult Swallows,28,"Iriki, Satoshi",P,24,1.000,5,17,0,1,,11313881
+2001,Regular Season,Fukuoka Daiei Hawks,43,"Ono, Rin",OF,3,1.000,6,0,0,0,,11313882
+2001,Regular Season,Yakult Swallows,1,"Iwamura, Akinori",3B,136,0.960,91,266,15,18,,11313884
+2001,Regular Season,Orix Bluewave,27,"Ogura, Hisashi",P,26,0.967,6,23,1,0,,11313887
+2001,Regular Season,Yomiuri Giants,19,"Uehara, Koji",P,24,1.000,3,27,0,2,,11313888
+2001,Regular Season,Osaka Kintetsu Buffaloes,7,"Omura, Naoyuki",OF,136,0.991,315,5,3,0,,11313889
+2001,Regular Season,Osaka Kintetsu Buffaloes,15,"Maki, Masaki",P,3,0.000,0,0,0,0,,11413886
+2001,Regular Season,Nippon-Ham Fighters,11,"Yamahara, Kazutoshi",P,4,1.000,1,0,0,0,,11413887
+2001,Regular Season,Yomiuri Giants,39,"Miura, Taka",P,49,1.000,6,12,0,1,,11415113
+2001,Regular Season,Yomiuri Giants,18,"Kuwata, Masumi",P,16,1.000,5,12,0,1,,11513862
+2001,Regular Season,Hiroshima Toyo Carp,12,"Kawano, Masato",P,14,1.000,1,2,0,0,,11513884
+2001,Regular Season,Orix Bluewave,37,"Kubo, Mitsuhiro",C,2,1.000,1,0,0,0,0,11513887
+2001,Regular Season,Orix Bluewave,20,"Kawagoe, Hidetaka",P,14,1.000,5,9,0,0,,11513888
+2001,Regular Season,Chunichi Dragons,12,"Okamoto, Shinya",P,3,0.000,0,0,0,0,,11515113
+2001,Regular Season,Yakult Swallows,27,"Furuta, Atsuya",C,116,0.996,789,63,3,15,2,11613881
+2001,Regular Season,Fukuoka Daiei Hawks,23,"Muramatsu, Arihito",OF,112,0.994,163,3,1,0,,11613883
+2001,Regular Season,Chunichi Dragons,4,"Gomez, Leo",1B,48,1.000,264,13,0,16,,11613884
+2001,Regular Season,Chunichi Dragons,4,"Gomez, Leo",3B,59,0.957,26,84,5,11,,11613884
+2001,Regular Season,Fukuoka Daiei Hawks,91,"Moriyama, Kazuto",OF,1,1.000,1,0,0,0,,11613885
+2001,Regular Season,Yakult Swallows,00,"Shiroishi, Noriyuki",2B,10,1.000,5,7,0,2,,11713880
+2001,Regular Season,Yakult Swallows,00,"Shiroishi, Noriyuki",3B,1,0.000,0,0,0,0,,11713880
+2001,Regular Season,Yakult Swallows,00,"Shiroishi, Noriyuki",SS,17,1.000,13,25,0,4,,11713880
+2001,Regular Season,Seibu Lions,10,"Takagi, Taisei",1B,7,1.000,7,1,0,0,,11713882
+2001,Regular Season,Seibu Lions,10,"Takagi, Taisei",OF,49,1.000,54,1,0,0,,11713882
+2001,Regular Season,Osaka Kintetsu Buffaloes,34,"Yufune, Toshiro",P,37,1.000,0,8,0,0,,11713883
+2001,Regular Season,Orix Bluewave,25,"Satake, Manabu",1B,16,1.000,98,5,0,8,,11713884
+2001,Regular Season,Orix Bluewave,25,"Satake, Manabu",2B,1,1.000,1,1,0,0,,11713884
+2001,Regular Season,Orix Bluewave,25,"Satake, Manabu",3B,1,0.000,0,0,0,0,,11713884
+2001,Regular Season,Orix Bluewave,25,"Satake, Manabu",OF,1,0.000,0,0,0,0,,11713884
+2001,Regular Season,Chunichi Dragons,21,"Shotsu, Eiji",P,53,1.000,4,10,0,0,,11713886
+2001,Regular Season,Hiroshima Toyo Carp,67,"Sakai, Daisuke",P,24,1.000,1,5,0,0,,11713888
+2001,Regular Season,Seibu Lions,58,"Miyaji, Katsuhiko",OF,9,1.000,5,0,0,0,,11813881
+2001,Regular Season,Orix Bluewave,18,"Ku, Deson",P,51,1.000,4,21,0,1,,11815113
+2001,Regular Season,Seibu Lions,21,"Nishizaki, Yukihiro",P,8,0.875,0,7,1,1,,11913864
+2001,Regular Season,Nippon-Ham Fighters,7,"Nakamura, Yutaka",OF,113,0.993,136,4,1,0,,11913882
+2001,Regular Season,Orix Bluewave,65,"Ebisu, Nobuyuki",P,20,1.000,9,26,0,1,,11913883
+2001,Regular Season,Yakult Swallows,25,"Soejima, Kota",OF,10,1.000,5,0,0,0,,11913884
+2001,Regular Season,Hanshin Tigers,69,"Nishikawa, Shinichi",P,28,1.000,1,3,0,1,,11913889
+2001,Regular Season,Nippon-Ham Fighters,3,"Tanaka, Kensuke",2B,5,1.000,2,1,0,1,,11915111
+2001,Regular Season,Nippon-Ham Fighters,3,"Tanaka, Kensuke",3B,21,0.935,12,31,3,5,,11915111
+2001,Regular Season,Nippon-Ham Fighters,3,"Tanaka, Kensuke",SS,16,0.952,11,29,2,7,,11915111
+2001,Regular Season,Yokohama BayStars,44,"Bowers, Shane",P,26,1.000,5,16,0,3,,13115113
+2001,Regular Season,Orix Bluewave,29,"Yarnall, Ed",P,15,1.000,3,12,0,1,,13315113
+2001,Regular Season,Yakult Swallows,58,"Hodges, Kevin",P,12,0.950,2,17,1,0,,13515113
+2001,Regular Season,Chiba Lotte Marines,6,"Hatsushiba, Kiyoshi",1B,7,0.963,25,1,1,3,,13813868
+2001,Regular Season,Chiba Lotte Marines,6,"Hatsushiba, Kiyoshi",3B,106,0.969,63,188,8,10,,13813868
+2001,Regular Season,Yakult Swallows,2,"Iida, Tetsuya",OF,99,0.991,106,1,1,0,,15213868
+2001,Regular Season,Seibu Lions,8,"Suzuki, Ken",1B,22,1.000,141,8,0,14,,15313868
+2001,Regular Season,Seibu Lions,8,"Suzuki, Ken",2B,2,1.000,2,0,0,1,,15313868
+2001,Regular Season,Seibu Lions,8,"Suzuki, Ken",3B,37,0.965,26,56,3,7,,15313868
+2001,Regular Season,Chiba Lotte Marines,37,"Motonishi, Atsuhiro",3B,26,0.857,7,17,4,2,,21023864
+2001,Regular Season,Chiba Lotte Marines,37,"Motonishi, Atsuhiro",OF,40,1.000,20,0,0,0,,21023864
+2001,Regular Season,Chunichi Dragons,17,"Takeda, Kazuhiro",P,11,1.000,3,9,0,2,,21023866
+2001,Regular Season,Osaka Kintetsu Buffaloes,0,"Masuda, Daisuke",OF,22,1.000,12,1,0,1,,21023882
+2001,Regular Season,Orix Bluewave,9,"Igarashi, Akihito",1B,39,0.991,204,7,2,24,,21023883
+2001,Regular Season,Orix Bluewave,9,"Igarashi, Akihito",2B,8,0.938,7,8,1,1,,21023883
+2001,Regular Season,Orix Bluewave,9,"Igarashi, Akihito",3B,1,1.000,0,1,0,0,,21023883
+2001,Regular Season,Orix Bluewave,9,"Igarashi, Akihito",C,1,1.000,1,0,0,1,0,21023883
+2001,Regular Season,Orix Bluewave,9,"Igarashi, Akihito",OF,11,1.000,10,0,0,0,,21023883
+2001,Regular Season,Orix Bluewave,9,"Igarashi, Akihito",SS,1,0.000,0,0,0,0,,21023883
+2001,Regular Season,Osaka Kintetsu Buffaloes,28,"Maekawa, Katsuhiko",P,28,1.000,4,18,0,3,,21023884
+2001,Regular Season,Osaka Kintetsu Buffaloes,5,"Nakamura, Norihiro",3B,139,0.966,119,251,13,20,,21023885
+2001,Regular Season,Osaka Kintetsu Buffaloes,5,"Nakamura, Norihiro",SS,6,1.000,4,14,0,5,,21023885
+2001,Regular Season,Hanshin Tigers,41,"Hesaka, Toshiyuki",P,2,1.000,0,2,0,0,,21023888
+2001,Regular Season,Hanshin Tigers,18,"Yabu, Keiichi",P,17,0.958,5,18,1,3,,21023889
+2001,Regular Season,Chunichi Dragons,3,"Tatsunami, Kazuyoshi",2B,95,0.995,175,252,2,52,,21123866
+2001,Regular Season,Chunichi Dragons,3,"Tatsunami, Kazuyoshi",3B,54,0.944,24,77,6,4,,21123866
+2001,Regular Season,Chunichi Dragons,3,"Tatsunami, Kazuyoshi",SS,1,1.000,1,2,0,0,,21123866
+2001,Regular Season,Chunichi Dragons,58,"Onishi, Takayuki",OF,74,1.000,62,1,0,0,,21123880
+2001,Regular Season,Orix Bluewave,39,"Imamura, Fumiaki",P,12,1.000,0,5,0,1,,21123882
+2001,Regular Season,Chiba Lotte Marines,47,"Iso, Tsuneyuki",P,2,0.000,0,0,0,0,,21123886
+2001,Regular Season,Yakult Swallows,21,"Ito, Tomohito",P,1,1.000,0,1,0,0,,21123887
+2001,Regular Season,Chunichi Dragons,24,"Endo, Masataka",P,40,1.000,3,5,0,0,,21123889
+2001,Regular Season,Orix Bluewave,26,"Iwashita, Shuichi",P,3,1.000,0,1,0,0,,21125111
+2001,Regular Season,Yomiuri Giants,10,"Abe, Shinnosuke",C,125,0.996,846,63,4,8,6,21125113
+2001,Regular Season,Chunichi Dragons,5,"Watanabe, Hiroyuki",1B,22,1.000,55,4,0,4,,21223882
+2001,Regular Season,Chunichi Dragons,5,"Watanabe, Hiroyuki",2B,4,1.000,5,3,0,1,,21223882
+2001,Regular Season,Chunichi Dragons,5,"Watanabe, Hiroyuki",3B,9,1.000,4,7,0,0,,21223882
+2001,Regular Season,Chunichi Dragons,5,"Watanabe, Hiroyuki",OF,5,1.000,5,0,0,0,,21223882
+2001,Regular Season,Chunichi Dragons,8,"Morino, Masahiko",2B,10,1.000,10,17,0,2,,21223884
+2001,Regular Season,Chunichi Dragons,8,"Morino, Masahiko",3B,3,0.000,0,0,0,0,,21223884
+2001,Regular Season,Nippon-Ham Fighters,0,"Furuki, Shigeyuki",2B,1,1.000,1,1,0,0,,21223886
+2001,Regular Season,Nippon-Ham Fighters,0,"Furuki, Shigeyuki",3B,2,0.000,0,0,0,0,,21223886
+2001,Regular Season,Nippon-Ham Fighters,0,"Furuki, Shigeyuki",OF,2,1.000,1,0,0,0,,21223886
+2001,Regular Season,Nippon-Ham Fighters,0,"Furuki, Shigeyuki",SS,24,0.913,10,32,4,4,,21223886
+2001,Regular Season,Yomiuri Giants,12,"Murata, Yoshinori",C,6,1.000,10,1,0,1,1,21223887
+2001,Regular Season,Hiroshima Toyo Carp,41,"Morikasa, Shigeru",OF,34,0.974,36,2,1,1,,21223888
+2001,Regular Season,Hanshin Tigers,56,"Fujimoto, Atsushi",2B,2,1.000,5,2,0,0,,21225113
+2001,Regular Season,Hanshin Tigers,56,"Fujimoto, Atsushi",SS,72,0.968,102,169,9,39,,21225113
+2001,Regular Season,Yomiuri Giants,6,"Kawai, Masahiro",2B,2,1.000,2,0,0,0,,21323869
+2001,Regular Season,Yomiuri Giants,6,"Kawai, Masahiro",3B,21,0.900,2,7,1,0,,21323869
+2001,Regular Season,Yomiuri Giants,6,"Kawai, Masahiro",SS,18,0.938,4,11,1,1,,21323869
+2001,Regular Season,Yomiuri Giants,15,"Kawahara, Junichi",P,21,1.000,5,12,0,3,,21323880
+2001,Regular Season,Nippon-Ham Fighters,2,"Ogasawara, Michihiro",1B,140,0.997,1281,70,4,116,,21323884
+2001,Regular Season,Chiba Lotte Marines,51,"Oho, Hiromi",OF,3,1.000,4,0,0,0,,21323886
+2001,Regular Season,Hiroshima Toyo Carp,13,"Kikuchihara, Tsuyoshi",P,78,0.933,0,14,1,0,,21323887
+2001,Regular Season,Nippon-Ham Fighters,30,"Kaneko, Makoto",2B,140,0.988,352,439,10,103,,21323889
+2001,Regular Season,Nippon-Ham Fighters,30,"Kaneko, Makoto",SS,1,0.000,0,0,0,0,,21323889
+2001,Regular Season,Hiroshima Toyo Carp,24,"Kawauchi, Takaya",P,8,0.875,1,6,1,0,,21325111
+2001,Regular Season,Yokohama BayStars,25,"Uchikawa, Seiichi",SS,2,1.000,0,3,0,0,,21325113
+2001,Regular Season,Orix Bluewave,00,"Fujitate, Jiro",OF,21,0.917,21,1,2,0,,21423881
+2001,Regular Season,Fukuoka Daiei Hawks,30,"Uchinokura, Takashi",1B,2,1.000,12,0,0,2,,21423883
+2001,Regular Season,Fukuoka Daiei Hawks,30,"Uchinokura, Takashi",C,11,0.955,16,5,1,0,0,21423883
+2001,Regular Season,Hanshin Tigers,44,"Yoshimoto, Ryo",C,5,1.000,5,1,0,0,9,21423887
+2001,Regular Season,Yakult Swallows,51,"Yoneno, Tomohito",C,1,1.000,1,0,0,0,0,21425111
+2001,Regular Season,Nippon-Ham Fighters,49,"Saito, Mitsugu",P,14,1.000,0,3,0,0,,21523880
+2001,Regular Season,Hiroshima Toyo Carp,15,"Kuroda, Hiroki",P,27,1.000,16,34,0,2,,21523884
+2001,Regular Season,Fukuoka Daiei Hawks,16,"Shinohara, Takayuki",P,33,1.000,4,7,0,0,,21523886
+2001,Regular Season,Yokohama BayStars,10,"Saeki, Takahiro",1B,114,0.992,724,51,6,64,,21523887
+2001,Regular Season,Yokohama BayStars,10,"Saeki, Takahiro",OF,59,1.000,90,2,0,0,,21523887
+2001,Regular Season,Yokohama BayStars,56,"Koike, Masaaki",OF,8,1.000,6,0,0,0,,21523888
+2001,Regular Season,Yokohama BayStars,77,"Shichino, Tomohide",1B,2,1.000,10,1,0,0,,21525111
+2001,Regular Season,Chiba Lotte Marines,28,"Kato, Kosuke",P,34,0.939,4,27,2,0,,21525113
+2001,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",1B,1,1.000,1,0,0,0,,21623860
+2001,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",2B,2,1.000,2,1,0,0,,21623860
+2001,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",3B,5,1.000,3,1,0,0,,21623860
+2001,Regular Season,Fukuoka Daiei Hawks,14,"Wakatabe, Kenichi",P,22,0.938,7,23,2,2,,21623885
+2001,Regular Season,Hanshin Tigers,26,"Carlyle, Buddy",P,28,1.000,11,31,0,0,,21625113
+2001,Regular Season,Hiroshima Toyo Carp,18,"Sasaoka, Shinji",P,32,0.977,12,31,1,3,,21723881
+2001,Regular Season,Osaka Kintetsu Buffaloes,62,"Shinzato, Shoya",2B,11,1.000,8,11,0,3,,21723884
+2001,Regular Season,Osaka Kintetsu Buffaloes,62,"Shinzato, Shoya",3B,2,1.000,0,1,0,0,,21723884
+2001,Regular Season,Osaka Kintetsu Buffaloes,62,"Shinzato, Shoya",SS,12,0.949,12,25,2,4,,21723884
+2001,Regular Season,Yakult Swallows,40,"Takahashi, Kazumasa",P,1,0.000,0,0,0,0,,21723888
+2001,Regular Season,Fukuoka Daiei Hawks,6,"Torigoe, Yusuke",SS,122,0.977,193,322,12,79,,21723889
+2001,Regular Season,Yomiuri Giants,36,"Takahashi, Hisanori",P,30,1.000,5,28,0,1,,21725111
+2001,Regular Season,Yomiuri Giants,00,"Goto, Koji",1B,5,1.000,7,0,0,1,,21823868
+2001,Regular Season,Yomiuri Giants,00,"Goto, Koji",3B,8,1.000,3,9,0,2,,21823868
+2001,Regular Season,Yomiuri Giants,00,"Goto, Koji",OF,18,1.000,9,1,0,0,,21823868
+2001,Regular Season,Osaka Kintetsu Buffaloes,3,"Yoshioka, Yuji",1B,126,0.995,1143,60,6,91,,21823881
+2001,Regular Season,Yokohama BayStars,4,"Doster, Dave",2B,109,0.992,216,294,4,68,,21825113
+2001,Regular Season,Fukuoka Daiei Hawks,22,"Nagadomi, Hiroshi",P,26,1.000,1,8,0,0,,21923862
+2001,Regular Season,Yomiuri Giants,53,"Fukui, Keiji",1B,5,1.000,3,0,0,0,,21923880
+2001,Regular Season,Yomiuri Giants,53,"Fukui, Keiji",2B,3,1.000,3,5,0,0,,21923880
+2001,Regular Season,Yomiuri Giants,53,"Fukui, Keiji",3B,10,0.750,1,2,1,0,,21923880
+2001,Regular Season,Yomiuri Giants,53,"Fukui, Keiji",OF,2,1.000,2,0,0,0,,21923880
+2001,Regular Season,Yomiuri Giants,53,"Fukui, Keiji",SS,21,1.000,11,19,0,3,,21923880
+2001,Regular Season,Seibu Lions,33,"Tamano, Hiromasa",2B,30,0.989,43,48,1,8,,21923884
+2001,Regular Season,Seibu Lions,33,"Tamano, Hiromasa",3B,6,1.000,2,3,0,0,,21923884
+2001,Regular Season,Seibu Lions,33,"Tamano, Hiromasa",SS,1,1.000,1,0,0,0,,21923884
+2001,Regular Season,Seibu Lions,28,"Takeshita, Jun",P,9,1.000,1,0,0,0,,21923885
+2001,Regular Season,Yokohama BayStars,46,"Taniguchi, Kuniyuki",P,25,1.000,2,8,0,2,,21923886
+2001,Regular Season,Hiroshima Toyo Carp,17,"Tsuruta, Yasushi",P,15,1.000,3,8,0,0,,21923887
+2001,Regular Season,Hiroshima Toyo Carp,2,"Higashide, Akihiro",SS,139,0.961,249,411,27,83,,21923888
+2001,Regular Season,Chiba Lotte Marines,9,"Fukura, Kazuya",1B,116,0.996,1122,59,5,92,,21923889
+2001,Regular Season,Yomiuri Giants,42,"May, Darrell",P,26,0.935,5,24,2,0,,23123886
+2001,Regular Season,Chiba Lotte Marines,00,"May, Derrick",OF,129,0.962,200,3,8,0,,23125113
+2001,Regular Season,Hanshin Tigers,5,"Evans, Tom",1B,8,1.000,21,4,0,1,,23325113
+2001,Regular Season,Hanshin Tigers,5,"Evans, Tom",3B,36,0.913,24,71,9,8,,23325113
+2001,Regular Season,Seibu Lions,0,"Kawada, Yusuke",OF,18,1.000,11,0,0,0,,23423868
+2001,Regular Season,Seibu Lions,55,"Kakiuchi, Tetsuya",OF,68,0.990,95,1,1,0,,27123868
+2001,Regular Season,Yomiuri Giants,50,"Minami, Shinichiro",P,9,0.000,0,0,0,0,,31033880
+2001,Regular Season,Nippon-Ham Fighters,66,"Nishiura, Katsuhiro",OF,12,1.000,20,0,0,0,,31033887
+2001,Regular Season,Yokohama BayStars,0,"Manei, Takashi",2B,24,0.971,11,23,1,5,,31033889
+2001,Regular Season,Yokohama BayStars,0,"Manei, Takashi",3B,33,0.857,6,6,2,0,,31033889
+2001,Regular Season,Yokohama BayStars,0,"Manei, Takashi",SS,9,1.000,3,4,0,1,,31033889
+2001,Regular Season,Yakult Swallows,24,"Hanada, Masato",P,4,1.000,1,1,0,0,,31035111
+2001,Regular Season,Hiroshima Toyo Carp,38,"Asayama, Toyo",OF,4,1.000,3,0,0,0,,31133880
+2001,Regular Season,Chiba Lotte Marines,66,"Amano, Yugo",1B,2,1.000,11,1,0,0,,31133882
+2001,Regular Season,Chiba Lotte Marines,66,"Amano, Yugo",3B,1,1.000,1,1,0,0,,31133882
+2001,Regular Season,Yakult Swallows,16,"Ishii, Kazuhisa",P,27,0.921,9,26,3,0,,31133885
+2001,Regular Season,Orix Bluewave,30,"Aikawa, Ryota",1B,1,1.000,1,0,0,0,,31133888
+2001,Regular Season,Orix Bluewave,30,"Aikawa, Ryota",OF,55,0.986,69,0,1,0,,31133888
+2001,Regular Season,Seibu Lions,14,"Ishii, Takashi",P,23,1.000,6,16,0,0,,31133889
+2001,Regular Season,Seibu Lions,53,"Aoki, Hayato",P,46,1.000,7,17,0,4,,31135111
+2001,Regular Season,Yakult Swallows,43,"Miyade, Ryuji",P,3,1.000,1,1,0,1,,31233882
+2001,Regular Season,Hiroshima Toyo Carp,0,"Kimura, Takuya",2B,34,0.972,58,80,4,12,,31233883
+2001,Regular Season,Hiroshima Toyo Carp,0,"Kimura, Takuya",OF,122,0.986,200,7,3,1,,31233883
+2001,Regular Season,Chunichi Dragons,62,"Miyakoshi, Akira",P,3,0.000,0,0,0,0,,31233884
+2001,Regular Season,Orix Bluewave,13,"Makino, Rui",P,3,0.500,0,1,1,0,,31233887
+2001,Regular Season,Seibu Lions,18,"Matsuzaka, Daisuke",P,33,1.000,8,36,0,4,,31233888
+2001,Regular Season,Chunichi Dragons,50,"Yoshimura, Kazuhito",2B,1,1.000,0,1,0,0,,31233889
+2001,Regular Season,Nippon-Ham Fighters,18,"Iwamoto, Tsutomu",P,22,0.967,4,25,1,0,,31333881
+2001,Regular Season,Fukuoka Daiei Hawks,0,"Okoshi, Motoi",OF,68,0.971,33,0,1,0,,31333887
+2001,Regular Season,Osaka Kintetsu Buffaloes,29,"Udaka, Shinji",P,11,1.000,1,1,0,0,,31333888
+2001,Regular Season,Seibu Lions,39,"Kaizuka, Masahide",OF,5,1.000,5,0,0,0,,31335111
+2001,Regular Season,Yokohama BayStars,39,"Inamine, Shigeo",P,1,0.000,0,0,0,0,,31335113
+2001,Regular Season,Hanshin Tigers,34,"Hoshino, Nobuyuki",P,10,1.000,1,7,0,1,,31433860
+2001,Regular Season,Yomiuri Giants,17,"Makihara, Hiromi",P,1,0.000,0,0,0,0,,31433867
+2001,Regular Season,Orix Bluewave,11,"Kida, Masao",P,13,1.000,2,0,0,0,,31433868
+2001,Regular Season,Seibu Lions,5,"Wada, Kazuhiro",1B,1,0.000,0,0,0,0,,31433884
+2001,Regular Season,Seibu Lions,5,"Wada, Kazuhiro",C,25,0.986,128,10,2,2,3,31433884
+2001,Regular Season,Seibu Lions,5,"Wada, Kazuhiro",OF,45,1.000,52,3,0,1,,31433884
+2001,Regular Season,Hanshin Tigers,24,"Hiyama, Shinjiro",OF,116,0.989,167,8,2,1,,31433885
+2001,Regular Season,Yakult Swallows,45,"Yamamoto, Tatsuki",P,61,1.000,6,9,0,0,,31433887
+2001,Regular Season,Hiroshima Toyo Carp,66,"Yano, Shuhei",P,3,0.000,0,0,0,0,,31433888
+2001,Regular Season,Orix Bluewave,14,"Yamaguchi, Kazuo",P,32,0.923,4,8,1,1,,31435111
+2001,Regular Season,Seibu Lions,59,"Mizuta, Keisuke",SS,3,1.000,0,3,0,0,,31435113
+2001,Regular Season,Chiba Lotte Marines,4,"Sakai, Tadaharu",2B,107,0.987,208,310,7,65,,31533868
+2001,Regular Season,Chiba Lotte Marines,4,"Sakai, Tadaharu",3B,28,1.000,7,15,0,2,,31533868
+2001,Regular Season,Chiba Lotte Marines,4,"Sakai, Tadaharu",SS,1,1.000,1,0,0,0,,31533868
+2001,Regular Season,Chiba Lotte Marines,54,"Kuroki, Tomohiro",P,17,1.000,5,20,0,1,,31533880
+2001,Regular Season,Hiroshima Toyo Carp,40,"Kura, Yoshikazu",C,23,1.000,76,5,0,2,0,31533886
+2001,Regular Season,Seibu Lions,2,"Kuroda, Satoshi",2B,4,1.000,2,7,0,0,,31533887
+2001,Regular Season,Seibu Lions,2,"Kuroda, Satoshi",3B,1,0.000,0,0,0,0,,31533887
+2001,Regular Season,Seibu Lions,2,"Kuroda, Satoshi",SS,3,1.000,5,4,0,2,,31533887
+2001,Regular Season,Fukuoka Daiei Hawks,9,"Kokubo, Hiroki",3B,135,0.985,110,229,5,25,,31533889
+2001,Regular Season,Hanshin Tigers,8,"Okihara, Yoshinori",3B,1,1.000,0,1,0,0,,31535113
+2001,Regular Season,Hanshin Tigers,8,"Okihara, Yoshinori",SS,70,0.968,113,194,10,34,,31535113
+2001,Regular Season,Osaka Kintetsu Buffaloes,17,"Ishige, Hiroshi",P,25,1.000,1,4,0,0,,31633868
+2001,Regular Season,Hiroshima Toyo Carp,1,"Maeda, Tomonori",OF,1,1.000,1,0,0,0,,31633881
+2001,Regular Season,Osaka Kintetsu Buffaloes,14,"Elvira, Narciso",P,6,1.000,0,3,0,0,,31635111
+2001,Regular Season,Yokohama BayStars,22,"Yoshimi, Yuji",P,7,1.000,1,2,0,0,,31635113
+2001,Regular Season,Fukuoka Daiei Hawks,2,"Jojima, Kenji",C,140,0.993,815,74,6,15,4,31733880
+2001,Regular Season,Yokohama BayStars,27,"Komiyama, Satoru",P,24,0.973,7,29,1,6,,31733881
+2001,Regular Season,Orix Bluewave,36,"Tamura, Tsutomu",P,39,1.000,0,1,0,0,,31733883
+2001,Regular Season,Hiroshima Toyo Carp,48,"Sato, Yasuyuki",P,1,1.000,0,1,0,0,,31733884
+2001,Regular Season,Hanshin Tigers,40,"Shiotani, Kazuhiko",1B,1,1.000,3,0,0,0,,31733887
+2001,Regular Season,Hanshin Tigers,40,"Shiotani, Kazuhiko",2B,4,0.955,9,12,1,2,,31733887
+2001,Regular Season,Hanshin Tigers,40,"Shiotani, Kazuhiko",3B,22,0.981,20,31,1,3,,31733887
+2001,Regular Season,Chiba Lotte Marines,22,"Satozaki, Tomoya",C,8,0.926,23,2,2,0,0,31733888
+2001,Regular Season,Nippon-Ham Fighters,47,"Sekine, Hiroyuki",P,11,1.000,5,13,0,1,,31733889
+2001,Regular Season,Yakult Swallows,20,"Kamada, Yuya",P,8,1.000,0,4,0,0,,31735113
+2001,Regular Season,Yakult Swallows,9,"Petagine, Roberto",1B,138,0.996,1261,105,6,109,,31833888
+2001,Regular Season,Nippon-Ham Fighters,32,"Sanders, Scott",P,24,1.000,9,14,0,0,,31835113
+2001,Regular Season,Yomiuri Giants,8,"Nishi, Toshihisa",2B,140,0.989,343,399,8,66,,31933882
+2001,Regular Season,Nippon-Ham Fighters,62,"Takahashi, Shinji",C,7,1.000,8,0,0,0,0,31933884
+2001,Regular Season,Chunichi Dragons,66,"Takahashi, Mitsunobu",1B,3,1.000,15,2,0,0,,31933886
+2001,Regular Season,Nippon-Ham Fighters,31,"Taguchi, Masanori",C,31,0.994,147,10,1,2,3,31933887
+2001,Regular Season,Chunichi Dragons,7,"Lee, Jong-Beom",3B,3,1.000,1,7,0,1,,33133886
+2001,Regular Season,Chunichi Dragons,7,"Lee, Jong-Beom",OF,1,0.000,0,0,0,0,,33133886
+2001,Regular Season,Fukuoka Daiei Hawks,36,"Raggio, Brady",P,22,0.885,6,17,3,3,,33135111
+2001,Regular Season,Osaka Kintetsu Buffaloes,51,"Flynt, Will",P,1,0.000,0,0,0,0,,33135113
+2001,Regular Season,Hiroshima Toyo Carp,32,"Nishiyama, Shuji",C,119,0.995,595,46,3,11,5,33233868
+2001,Regular Season,Chunichi Dragons,18,"Gaillard, Eddie",P,47,1.000,2,7,0,0,,33335111
+2001,Regular Season,Fukuoka Daiei Hawks,27,"Haney, Chris",P,7,0.818,2,7,2,0,,33335113
+2001,Regular Season,Osaka Kintetsu Buffaloes,19,"Akahori, Motoyuki",P,9,1.000,4,4,0,0,,35433868
+2001,Regular Season,Yokohama BayStars,23,"Ogawa, Hirofumi",2B,7,1.000,10,15,0,5,,37133868
+2001,Regular Season,Yokohama BayStars,23,"Ogawa, Hirofumi",3B,123,0.970,84,208,9,11,,37133868
+2001,Regular Season,Fukuoka Daiei Hawks,62,"Deguchi, Yudai",OF,4,1.000,3,0,0,0,,41043881
+2001,Regular Season,Fukuoka Daiei Hawks,67,"Matsumoto, Akira",P,3,1.000,1,2,0,0,,41043882
+2001,Regular Season,Chunichi Dragons,35,"Makuta, Kenji",OF,1,1.000,1,0,0,0,,41043884
+2001,Regular Season,Seibu Lions,26,"Hoshino, Tomoki",P,2,0.000,0,0,0,0,,41043888
+2001,Regular Season,Nippon-Ham Fighters,35,"Nakamura, Hayato",P,15,1.000,1,16,0,0,,41045113
+2001,Regular Season,Chiba Lotte Marines,2,"Omura, Saburo",2B,27,0.982,79,84,3,15,,41143880
+2001,Regular Season,Chiba Lotte Marines,2,"Omura, Saburo",OF,75,0.983,111,5,2,2,,41143880
+2001,Regular Season,Chiba Lotte Marines,3,"Ishii, Hiro",1B,17,0.992,117,7,1,14,,41143881
+2001,Regular Season,Chiba Lotte Marines,3,"Ishii, Hiro",3B,2,1.000,1,1,0,0,,41143881
+2001,Regular Season,Chunichi Dragons,48,"Ibata, Hirokazu",2B,15,1.000,9,10,0,3,,41143886
+2001,Regular Season,Chunichi Dragons,48,"Ibata, Hirokazu",OF,11,1.000,16,2,0,0,,41143886
+2001,Regular Season,Chunichi Dragons,48,"Ibata, Hirokazu",SS,134,0.993,193,381,4,66,,41143886
+2001,Regular Season,Nippon-Ham Fighters,52,"Ogai, Yasufumi",OF,5,0.000,0,0,0,0,,41143889
+2001,Regular Season,Osaka Kintetsu Buffaloes,41,"Abe, Masahiro",2B,16,0.958,22,24,2,7,,41145113
+2001,Regular Season,Osaka Kintetsu Buffaloes,41,"Abe, Masahiro",SS,30,0.975,28,51,2,14,,41145113
+2001,Regular Season,Osaka Kintetsu Buffaloes,27,"Furukubo, Kenji",C,51,0.996,223,18,1,3,5,41243860
+2001,Regular Season,Fukuoka Daiei Hawks,49,"Yoshida, Shuji",P,68,0.944,3,14,1,0,,41243868
+2001,Regular Season,Seibu Lions,34,"Hashimoto, Takehiro",P,60,1.000,1,9,0,0,,41243881
+2001,Regular Season,Fukuoka Daiei Hawks,33,"Hoshino, Junji",P,30,1.000,9,31,0,0,,41243886
+2001,Regular Season,Nippon-Ham Fighters,46,"Morimoto, Hichori",OF,59,0.979,92,3,2,0,,41243888
+2001,Regular Season,Osaka Kintetsu Buffaloes,54,"Miyamoto, Daisuke",P,1,1.000,1,0,0,0,,41245111
+2001,Regular Season,Seibu Lions,48,"Hoashi, Kazuyuki",P,8,0.929,3,10,1,1,,41245113
+2001,Regular Season,Yomiuri Giants,5,"Kiyohara, Kazuhiro",1B,130,0.995,1018,73,5,67,,41343862
+2001,Regular Season,Orix Bluewave,34,"Kishikawa, Takatoshi",P,2,1.000,0,1,0,0,,41343880
+2001,Regular Season,Hanshin Tigers,39,"Yano, Akihiro",C,108,0.995,556,72,3,14,0,41343883
+2001,Regular Season,Hanshin Tigers,39,"Yano, Akihiro",OF,4,1.000,4,0,0,0,,41343883
+2001,Regular Season,Fukuoka Daiei Hawks,45,"Okamoto, Katsunori",P,66,1.000,5,6,0,0,,41343884
+2001,Regular Season,Hiroshima Toyo Carp,10,"Kanemoto, Tomoaki",OF,140,0.986,200,5,3,0,,41343885
+2001,Regular Season,Chunichi Dragons,11,"Kawakami, Kenshin",P,26,1.000,7,24,0,3,,41343886
+2001,Regular Season,Hanshin Tigers,20,"Kanazawa, Takehito",P,12,1.000,1,3,0,0,,41343888
+2001,Regular Season,Fukuoka Daiei Hawks,52,"Kawasaki, Munenori",SS,1,1.000,3,4,0,1,,41345111
+2001,Regular Season,Orix Bluewave,35,"Okubo, Masanobu",P,53,1.000,5,10,0,1,,41345113
+2001,Regular Season,Yokohama BayStars,59,"Aikawa, Ryoji",C,21,0.982,52,4,1,2,1,41443880
+2001,Regular Season,Yokohama BayStars,18,"Miura, Daisuke",P,26,0.973,7,29,1,5,,41443885
+2001,Regular Season,Orix Bluewave,5,"Arias, George",1B,74,0.989,494,38,6,43,,41445111
+2001,Regular Season,Orix Bluewave,5,"Arias, George",2B,1,0.000,0,0,0,0,,41445111
+2001,Regular Season,Orix Bluewave,5,"Arias, George",3B,112,0.962,68,161,9,15,,41445111
+2001,Regular Season,Fukuoka Daiei Hawks,17,"Yamada, Akichika",P,10,1.000,7,6,0,1,,41445113
+2001,Regular Season,Yakult Swallows,99,"Takahashi, Satoshi",OF,3,1.000,3,0,0,0,,41543864
+2001,Regular Season,Osaka Kintetsu Buffaloes,21,"Morita, Koki",P,34,1.000,0,2,0,0,,41543866
+2001,Regular Season,Nippon-Ham Fighters,38,"Sakurai, Yukihiro",P,2,0.000,0,0,0,0,,41543880
+2001,Regular Season,Orix Bluewave,44,"Arai, Kiyoshi",OF,1,0.000,0,0,0,0,,41543883
+2001,Regular Season,Orix Bluewave,44,"Arai, Kiyoshi",SS,1,1.000,1,2,0,1,,41543883
+2001,Regular Season,Chiba Lotte Marines,1,"Kosaka, Makoto",SS,140,0.979,252,492,16,99,,41543884
+2001,Regular Season,Seibu Lions,54,"Shibasaki, Kazuhiro",P,1,0.000,0,0,0,0,,41543886
+2001,Regular Season,Fukuoka Daiei Hawks,63,"Sato, Makoto",P,8,1.000,0,3,0,2,,41543889
+2001,Regular Season,Chiba Lotte Marines,18,"Shimizu, Naoyuki",P,31,1.000,3,5,0,0,,41545111
+2001,Regular Season,Osaka Kintetsu Buffaloes,10,"Mizuguchi, Eiji",2B,110,0.994,206,321,3,61,,41643883
+2001,Regular Season,Seibu Lions,42,"Cabrera, Alex",1B,121,0.993,983,70,7,92,,41645113
+2001,Regular Season,Seibu Lions,42,"Cabrera, Alex",OF,4,1.000,3,0,0,0,,41645113
+2001,Regular Season,Nippon-Ham Fighters,6,"Tanaka, Yukio",OF,48,1.000,61,4,0,2,,41743862
+2001,Regular Season,Nippon-Ham Fighters,6,"Tanaka, Yukio",SS,57,0.981,70,134,4,30,,41743862
+2001,Regular Season,Yokohama BayStars,55,"Tamura, Hitoshi",OF,27,1.000,27,2,0,0,,41743880
+2001,Regular Season,Fukuoka Daiei Hawks,24,"Doi, Masahiro",P,1,0.000,0,0,0,0,,41743882
+2001,Regular Season,Yokohama BayStars,19,"Sugimoto, Yu",P,9,0.909,4,6,1,1,,41743884
+2001,Regular Season,Nippon-Ham Fighters,60,"Shintani, Hiroshi",P,17,1.000,0,4,0,1,,41743885
+2001,Regular Season,Nippon-Ham Fighters,25,"Tateishi, Naoyuki",P,18,1.000,2,4,0,0,,41743888
+2001,Regular Season,Hiroshima Toyo Carp,28,"Seto, Terunobu",C,48,0.979,170,19,4,4,3,41843883
+2001,Regular Season,Chiba Lotte Marines,43,"Minchey, Nathan",P,30,0.919,7,27,3,3,,41843886
+2001,Regular Season,Yakult Swallows,34,"Newman, Alan",P,17,0.870,3,17,3,0,,41845113
+2001,Regular Season,Orix Bluewave,8,"Fujii, Yasuo",1B,30,1.000,193,17,0,19,,41943864
+2001,Regular Season,Nippon-Ham Fighters,36,"Fujishima, Seigo",OF,34,0.978,44,1,1,1,,41943868
+2001,Regular Season,Yokohama BayStars,37,"Fukumori, Kazuo",P,5,1.000,2,6,0,0,,41943880
+2001,Regular Season,Seibu Lions,6,"Harai, Kazuya",2B,50,0.974,65,84,4,17,,41943882
+2001,Regular Season,Seibu Lions,6,"Harai, Kazuya",3B,5,0.000,0,0,0,0,,41943882
+2001,Regular Season,Seibu Lions,6,"Harai, Kazuya",SS,5,0.800,2,2,1,0,,41943882
+2001,Regular Season,Chunichi Dragons,37,"Tsutsui, So",1B,4,1.000,9,1,0,2,,41943884
+2001,Regular Season,Chunichi Dragons,37,"Tsutsui, So",3B,2,1.000,2,0,0,0,,41943884
+2001,Regular Season,Chunichi Dragons,37,"Tsutsui, So",OF,2,1.000,1,0,0,0,,41943884
+2001,Regular Season,Yakult Swallows,0,"Daita, Takenori",OF,3,1.000,3,0,0,0,,41943886
+2001,Regular Season,Orix Bluewave,17,"Tokano, Hisashi",P,43,1.000,4,10,0,0,,41943887
+2001,Regular Season,Hiroshima Toyo Carp,68,"Hiroike, Koji",P,6,0.000,0,0,0,0,,41943888
+2001,Regular Season,Hiroshima Toyo Carp,44,"Fukuchi, Kazuki",2B,2,1.000,2,0,0,0,,41943889
+2001,Regular Season,Hiroshima Toyo Carp,44,"Fukuchi, Kazuki",OF,13,0.800,4,0,1,0,,41943889
+2001,Regular Season,Yokohama BayStars,52,"Nakanowatari, Susumu",P,63,0.875,4,17,3,1,,41945111
+2001,Regular Season,Hiroshima Toyo Carp,43,"Young, Tim",P,5,1.000,1,1,0,0,,43145113
+2001,Regular Season,Hiroshima Toyo Carp,7,"Nomura, Kenjiro",2B,5,0.963,11,15,1,3,,43243868
+2001,Regular Season,Hiroshima Toyo Carp,7,"Nomura, Kenjiro",3B,98,0.954,58,150,10,19,,43243868
+2001,Regular Season,Hiroshima Toyo Carp,42,"Ludwick, Eric",P,17,1.000,3,15,0,1,,43345111
+2001,Regular Season,Osaka Kintetsu Buffaloes,25,"Powell, Jeremy",P,14,0.895,4,13,2,0,,43345113
+2001,Regular Season,Chiba Lotte Marines,21,"Hirai, Mitsuchika",OF,9,1.000,12,0,0,0,,43843868
+2001,Regular Season,Yokohama BayStars,6,"Nakane, Hitoshi",1B,2,1.000,4,0,0,0,,45643868
+2001,Regular Season,Yokohama BayStars,6,"Nakane, Hitoshi",OF,78,1.000,105,4,0,0,,45643868
+2001,Regular Season,Chiba Lotte Marines,55,"Omura, Iwao",OF,2,1.000,1,0,0,0,,47143868
+2001,Regular Season,Yakult Swallows,6,"Miyamoto, Shinya",SS,125,0.986,198,425,9,87,,51053880
+2001,Regular Season,Seibu Lions,35,"Doi, Yoshihiro",P,39,0.778,4,3,2,0,,51053886
+2001,Regular Season,Yomiuri Giants,26,"Nishiyama, Kazutaka",P,19,0.813,3,10,3,1,,51053887
+2001,Regular Season,Osaka Kintetsu Buffaloes,31,"Fujii, Akihito",C,1,1.000,3,0,0,0,0,51053888
+2001,Regular Season,Fukuoka Daiei Hawks,25,"Hirota, Shoji",P,1,0.000,0,0,0,0,,51055111
+2001,Regular Season,Chiba Lotte Marines,17,"Nagasaki, Shinichi",P,2,1.000,0,1,0,0,,51055113
+2001,Regular Season,Fukuoka Daiei Hawks,1,"Akiyama, Koji",OF,78,1.000,125,2,0,2,,51153863
+2001,Regular Season,Nippon-Ham Fighters,19,"Atsuzawa, Kazuyuki",P,15,0.833,1,4,1,0,,51153880
+2001,Regular Season,Hiroshima Toyo Carp,6,"Asai, Itsuki",1B,27,0.976,35,5,1,3,,51153881
+2001,Regular Season,Hiroshima Toyo Carp,6,"Asai, Itsuki",OF,49,1.000,58,1,0,0,,51153881
+2001,Regular Season,Fukuoka Daiei Hawks,7,"Iguchi, Tadahito",2B,140,0.994,330,449,5,93,,51153884
+2001,Regular Season,Seibu Lions,9,"Akada, Shogo",OF,13,1.000,21,0,0,0,,51153888
+2001,Regular Season,Nippon-Ham Fighters,5,"Ide, Tatsuya",OF,103,1.000,223,5,0,2,,51153889
+2001,Regular Season,Chunichi Dragons,41,"Asakura, Kenta",P,15,0.857,3,9,2,1,,51155111
+2001,Regular Season,Osaka Kintetsu Buffaloes,22,"Aikyo, Hisashi",P,30,1.000,1,7,0,0,,51155113
+2001,Regular Season,Orix Bluewave,40,"Yamasaki, Shintaro",P,47,0.909,1,9,1,1,,51253864
+2001,Regular Season,Hanshin Tigers,91,"Yoshida, Toyohiko",P,8,1.000,0,1,0,0,,51253866
+2001,Regular Season,Yokohama BayStars,40,"Yone, Masahide",P,25,1.000,2,5,0,0,,51253880
+2001,Regular Season,Fukuoka Daiei Hawks,38,"Nishimura, Tatsuji",P,2,1.000,1,1,0,0,,51253881
+2001,Regular Season,Hanshin Tigers,37,"Nemoto, Ryuki",1B,5,0.974,35,3,1,1,,51253885
+2001,Regular Season,Yomiuri Giants,55,"Matsui, Hideki",OF,140,0.979,278,4,6,2,,51253887
+2001,Regular Season,Hanshin Tigers,2,"Matoba, Kanichi",OF,1,0.000,0,0,0,0,,51255111
+2001,Regular Season,Hanshin Tigers,2,"Matoba, Kanichi",SS,8,0.964,12,15,1,2,,51255111
+2001,Regular Season,Yakult Swallows,15,"Hiramoto, Manabu",P,1,1.000,0,1,0,0,,51255113
+2001,Regular Season,Osaka Kintetsu Buffaloes,16,"Okamoto, Akira",P,61,1.000,5,21,0,4,,51353882
+2001,Regular Season,Orix Bluewave,52,"Oshima, Koichi",2B,122,0.985,226,384,9,86,,51353887
+2001,Regular Season,Chunichi Dragons,43,"Ogasawara, Takashi",P,23,0.875,4,3,1,0,,51353888
+2001,Regular Season,Yomiuri Giants,28,"Okajima, Hideki",P,58,1.000,1,13,0,4,,51353889
+2001,Regular Season,Nippon-Ham Fighters,14,"Iba, Tomokazu",P,40,0.875,3,4,1,1,,51355113
+2001,Regular Season,Osaka Kintetsu Buffaloes,38,"Yamashita, Katsumi",2B,1,0.000,0,0,0,0,,51455111
+2001,Regular Season,Seibu Lions,29,"Mitsui, Koji",P,29,0.958,3,20,1,0,,51455113
+2001,Regular Season,Yomiuri Giants,47,"Kudo, Kimiyasu",P,5,1.000,1,4,0,0,,51553865
+2001,Regular Season,Hanshin Tigers,13,"Kasai, Minoru",P,32,1.000,2,6,0,0,,51553881
+2001,Regular Season,Fukuoka Daiei Hawks,37,"Sakumoto, Masahiro",P,23,1.000,1,10,0,0,,51553882
+2001,Regular Season,Yakult Swallows,22,"Takatsu, Shingo",P,52,1.000,4,12,0,1,,51553883
+2001,Regular Season,Yokohama BayStars,16,"Kawamura, Takeo",P,27,1.000,5,17,0,4,,51553884
+2001,Regular Season,Chunichi Dragons,6,"Kuji, Teruyoshi",SS,27,1.000,5,17,0,2,,51553885
+2001,Regular Season,Hiroshima Toyo Carp,29,"Kobayashi, Kanei",P,51,0.875,7,7,2,1,,51553886
+2001,Regular Season,Osaka Kintetsu Buffaloes,47,"Koike, Takuichi",P,4,1.000,1,0,0,0,,51553887
+2001,Regular Season,Yakult Swallows,60,"Kawabata, Ryu",P,41,1.000,1,6,0,1,,51553888
+2001,Regular Season,Seibu Lions,50,"Goto, Mitsutaka",P,35,1.000,2,17,0,1,,51555111
+2001,Regular Season,Hiroshima Toyo Carp,49,"Diaz, Eddy",2B,123,0.982,273,394,12,85,,51653888
+2001,Regular Season,Hiroshima Toyo Carp,49,"Diaz, Eddy",3B,15,1.000,5,4,0,0,,51653888
+2001,Regular Season,Hiroshima Toyo Carp,49,"Diaz, Eddy",SS,4,1.000,3,7,0,1,,51653888
+2001,Regular Season,Nippon-Ham Fighters,27,"Ohme, Kevin",P,3,1.000,0,2,0,0,,51655111
+2001,Regular Season,Seibu Lions,36,"Deni, Tomori",P,54,0.909,1,9,1,1,,51753864
+2001,Regular Season,Seibu Lions,4,"Takagi, Hiroyuki",2B,59,0.991,100,111,2,21,,51753880
+2001,Regular Season,Seibu Lions,4,"Takagi, Hiroyuki",SS,1,1.000,1,2,0,1,,51753880
+2001,Regular Season,Nippon-Ham Fighters,40,"Sanematsu, Kazunari",C,61,0.994,318,18,2,5,2,51753888
+2001,Regular Season,Hanshin Tigers,65,"Takanami, Fumikazu",OF,8,1.000,3,0,0,0,,51753889
+2001,Regular Season,Chiba Lotte Marines,7,"Bolick, Frank",1B,3,1.000,13,1,0,2,,51853888
+2001,Regular Season,Chiba Lotte Marines,7,"Bolick, Frank",3B,7,0.923,3,9,1,1,,51853888
+2001,Regular Season,Hanshin Tigers,14,"Hansell, Greg",P,27,0.957,15,29,2,3,,51855111
+2001,Regular Season,Yokohama BayStars,49,"Zuber, Jon",1B,71,0.995,530,47,3,54,,51855113
+2001,Regular Season,Hanshin Tigers,52,"Toyama, Shoji",1B,1,1.000,2,0,0,0,,51953862
+2001,Regular Season,Hanshin Tigers,52,"Toyama, Shoji",P,52,1.000,1,3,0,0,,51953862
+2001,Regular Season,Seibu Lions,13,"Nishiguchi, Fumiya",P,28,0.971,5,29,1,1,,51953880
+2001,Regular Season,Chiba Lotte Marines,50,"Shiigi, Takumi",C,19,0.974,67,9,2,0,0,51953881
+2001,Regular Season,Nippon-Ham Fighters,42,"Takahashi, Noriyuki",P,59,0.938,3,12,1,1,,51953884
+2001,Regular Season,Yomiuri Giants,24,"Takahashi, Yoshinobu",OF,140,0.985,255,6,4,0,,51953886
+2001,Regular Season,Chunichi Dragons,8,"Haru, Toshio",OF,87,0.974,148,1,4,0,,51953889
+2001,Regular Season,Yokohama BayStars,1,"Haru, Toshio",3B,4,1.000,2,2,0,0,,51953889
+2001,Regular Season,Yokohama BayStars,1,"Haru, Toshio",OF,5,0.000,0,0,0,0,,51953889
+2001,Regular Season,Orix Bluewave,58,"Takamizawa, Koji",OF,5,1.000,4,0,0,0,,51955113
+2001,Regular Season,Fukuoka Daiei Hawks,50,"Pedraza, Rodney",P,54,1.000,2,7,0,1,,53153888
+2001,Regular Season,Hanshin Tigers,9,"Perez, Eduardo",1B,2,1.000,1,0,0,0,,53155113
+2001,Regular Season,Hanshin Tigers,9,"Perez, Eduardo",3B,42,0.982,32,79,2,9,,53155113
+2001,Regular Season,Hanshin Tigers,9,"Perez, Eduardo",OF,3,1.000,3,0,0,0,,53155113
+2001,Regular Season,Yomiuri Giants,33,"Eto, Akira",1B,22,1.000,43,3,0,2,,53253868
+2001,Regular Season,Yomiuri Giants,33,"Eto, Akira",3B,133,0.947,85,185,15,13,,53253868
+2001,Regular Season,Chiba Lotte Marines,42,"Kubenka, Jeff",P,3,1.000,2,0,0,1,,53355113
+2001,Regular Season,Yokohama BayStars,32,"Inoe, Jun",OF,52,1.000,37,2,0,0,,55953868
+2001,Regular Season,Yokohama BayStars,34,"Yamada, Hiroshi",P,2,1.000,0,1,0,0,,61063880
+2001,Regular Season,Chiba Lotte Marines,25,"Matsumoto, Naoki",2B,9,1.000,16,18,0,4,,61063882
+2001,Regular Season,Chiba Lotte Marines,25,"Matsumoto, Naoki",3B,7,0.905,6,13,2,1,,61063882
+2001,Regular Season,Fukuoka Daiei Hawks,3,"Matsunaka, Nobuhiko",1B,95,0.989,826,66,10,83,,61063884
+2001,Regular Season,Yakult Swallows,30,"Yamabe, Futoshi",P,12,1.000,0,7,0,1,,61063889
+2001,Regular Season,Yakult Swallows,66,"Honma, Tadashi",P,13,1.000,1,3,0,0,,61065111
+2001,Regular Season,Seibu Lions,31,"Ozeki, Tatsuya",OF,130,0.995,204,3,1,1,,61163880
+2001,Regular Season,Chunichi Dragons,99,"Inoe, Kazuki",1B,1,0.000,0,0,1,0,,61163881
+2001,Regular Season,Chunichi Dragons,99,"Inoe, Kazuki",OF,99,1.000,130,3,0,2,,61163881
+2001,Regular Season,Hanshin Tigers,7,"Imaoka, Makoto",2B,64,0.990,124,172,3,27,,61163884
+2001,Regular Season,Hanshin Tigers,7,"Imaoka, Makoto",3B,71,0.976,43,77,3,8,,61163884
+2001,Regular Season,Hanshin Tigers,7,"Imaoka, Makoto",SS,8,0.958,7,16,1,4,,61163884
+2001,Regular Season,Nippon-Ham Fighters,44,"Ueda, Yoshinori",OF,61,1.000,52,5,0,2,,61163885
+2001,Regular Season,Nippon-Ham Fighters,23,"Ito, Takeshi",P,6,1.000,0,4,0,2,,61163888
+2001,Regular Season,Chiba Lotte Marines,23,"Otsuka, Akira",OF,68,0.991,105,1,1,0,,61163889
+2001,Regular Season,Nippon-Ham Fighters,48,"Endo, Ryohei",P,1,0.000,0,0,0,0,,61165111
+2001,Regular Season,Seibu Lions,60,"Murakami, Takayuki",1B,9,1.000,24,1,0,0,,61263869
+2001,Regular Season,Seibu Lions,60,"Murakami, Takayuki",2B,2,1.000,0,2,0,0,,61263869
+2001,Regular Season,Seibu Lions,60,"Murakami, Takayuki",3B,8,0.875,3,4,1,0,,61263869
+2001,Regular Season,Seibu Lions,60,"Murakami, Takayuki",OF,32,1.000,32,1,0,1,,61263869
+2001,Regular Season,Hiroshima Toyo Carp,33,"Lopez, Luis",1B,137,0.992,1106,100,10,112,,61263882
+2001,Regular Season,Nippon-Ham Fighters,20,"Yano, Satoshi",P,3,1.000,1,0,0,1,,61263884
+2001,Regular Season,Fukuoka Daiei Hawks,8,"Hamana, Chihiro",1B,13,0.989,79,7,1,9,,61263885
+2001,Regular Season,Fukuoka Daiei Hawks,8,"Hamana, Chihiro",2B,1,1.000,2,1,0,0,,61263885
+2001,Regular Season,Fukuoka Daiei Hawks,8,"Hamana, Chihiro",3B,7,1.000,2,4,0,0,,61263885
+2001,Regular Season,Fukuoka Daiei Hawks,8,"Hamana, Chihiro",SS,14,1.000,4,11,0,1,,61263885
+2001,Regular Season,Yokohama BayStars,41,"Maeda, Kazuyuki",P,2,1.000,0,1,0,0,,61263886
+2001,Regular Season,Seibu Lions,44,"Shimizu, Masaji",2B,1,0.000,0,0,0,0,,61363868
+2001,Regular Season,Seibu Lions,44,"Shimizu, Masaji",OF,85,1.000,80,1,0,0,,61363868
+2001,Regular Season,Chiba Lotte Marines,32,"Yamamoto, Yasushi",1B,15,1.000,35,2,0,1,,61363883
+2001,Regular Season,Chiba Lotte Marines,32,"Yamamoto, Yasushi",2B,23,0.938,15,30,3,7,,61363883
+2001,Regular Season,Yakult Swallows,32,"Ono, Kosei",C,34,1.000,163,11,0,0,6,61363884
+2001,Regular Season,Yomiuri Giants,41,"Kimura, Ryuji",P,20,1.000,0,1,0,0,,61363887
+2001,Regular Season,Yokohama BayStars,20,"Kizuka, Atsushi",P,69,1.000,6,12,0,0,,61365111
+2001,Regular Season,Seibu Lions,25,"Onuma, Koji",P,8,0.000,0,0,0,0,,61365113
+2001,Regular Season,Fukuoka Daiei Hawks,28,"Watanabe, Masakazu",P,48,1.000,3,8,0,1,,61463887
+2001,Regular Season,Osaka Kintetsu Buffaloes,12,"Koda, Isao",P,36,0.909,2,8,1,1,,61563860
+2001,Regular Season,Chunichi Dragons,60,"Taiho, Yasuaki",1B,18,1.000,110,6,0,11,,61563868
+2001,Regular Season,Chunichi Dragons,60,"Taiho, Yasuaki",OF,2,1.000,1,0,0,0,,61563868
+2001,Regular Season,Hiroshima Toyo Carp,00,"Shima, Shigenobu",1B,3,0.909,9,1,1,1,,61563880
+2001,Regular Season,Hiroshima Toyo Carp,00,"Shima, Shigenobu",OF,2,1.000,2,0,0,0,,61563880
+2001,Regular Season,Osaka Kintetsu Buffaloes,40,"Sekiguchi, Iori",P,53,0.667,0,4,2,0,,61563882
+2001,Regular Season,Orix Bluewave,0,"Matsumoto, Shuichiro",OF,8,1.000,7,0,0,0,,61563883
+2001,Regular Season,Chiba Lotte Marines,41,"Kobayashi, Hiroyuki",P,22,1.000,1,8,0,1,,61563884
+2001,Regular Season,Yokohama BayStars,11,"Saito, Takashi",P,50,0.889,3,5,1,1,,61563885
+2001,Regular Season,Nippon-Ham Fighters,21,"Shimizu, Akio",P,22,0.947,5,13,1,1,,61563886
+2001,Regular Season,Chiba Lotte Marines,30,"Kobayashi, Masahide",P,48,0.889,1,7,1,0,,61563888
+2001,Regular Season,Nippon-Ham Fighters,28,"Shoda, Itsuki",P,1,0.000,0,0,0,0,,61565111
+2001,Regular Season,Nippon-Ham Fighters,12,"Kato, Tatsuhito",P,16,1.000,0,1,0,0,,61565113
+2001,Regular Season,Hiroshima Toyo Carp,45,"Schullstrom, Erik",P,22,1.000,1,2,0,0,,61663886
+2001,Regular Season,Osaka Kintetsu Buffaloes,44,"Garcia, Freddy",1B,2,1.000,15,0,0,2,,61665113
+2001,Regular Season,Osaka Kintetsu Buffaloes,44,"Garcia, Freddy",3B,5,1.000,0,3,0,0,,61665113
+2001,Regular Season,Chunichi Dragons,39,"Nakamura, Takeshi",C,134,0.995,964,77,5,12,5,61763864
+2001,Regular Season,Yomiuri Giants,95,"Nomura, Takahito",P,40,1.000,4,4,0,1,,61763883
+2001,Regular Season,Nippon-Ham Fighters,22,"Tateyama, Yoshinori",P,10,1.000,2,2,0,1,,61763888
+2001,Regular Season,Seibu Lions,1,"Takayama, Hisashi",OF,12,0.947,17,1,1,0,,61765111
+2001,Regular Season,Seibu Lions,30,"Sato, Tomoaki",2B,43,0.977,75,93,4,16,,61765113
+2001,Regular Season,Seibu Lions,30,"Sato, Tomoaki",OF,7,1.000,9,1,0,0,,61765113
+2001,Regular Season,Hanshin Tigers,0,"Yoshida, Hiroshi",1B,10,0.986,65,4,1,7,,61863881
+2001,Regular Season,Hanshin Tigers,0,"Yoshida, Hiroshi",OF,2,1.000,3,0,0,0,,61863881
+2001,Regular Season,Nippon-Ham Fighters,00,"Mirabal, Carlos",P,51,1.000,3,11,0,1,,61865111
+2001,Regular Season,Yakult Swallows,64,"Hurst, Jonathan",P,22,1.000,5,3,0,0,,61865113
+2001,Regular Season,Fukuoka Daiei Hawks,54,"Higasa, Masahito",P,7,1.000,0,3,0,0,,61963882
+2001,Regular Season,Yomiuri Giants,22,"Tabata, Kazuya",P,29,1.000,1,6,0,1,,61963885
+2001,Regular Season,Seibu Lions,20,"Toyoda, Kiyoshi",P,47,1.000,2,5,0,1,,61963887
+2001,Regular Season,Chunichi Dragons,1,"Fukudome, Kosuke",1B,1,0.000,0,0,0,0,,61963888
+2001,Regular Season,Chunichi Dragons,1,"Fukudome, Kosuke",3B,51,0.973,30,79,3,8,,61963888
+2001,Regular Season,Chunichi Dragons,1,"Fukudome, Kosuke",OF,61,0.978,90,1,2,0,,61963888
+2001,Regular Season,Chunichi Dragons,1,"Fukudome, Kosuke",SS,11,0.976,14,26,1,6,,61963888
+2001,Regular Season,Orix Bluewave,4,"Fukutome, Hiroki",1B,21,0.986,65,8,1,6,,61963889
+2001,Regular Season,Orix Bluewave,4,"Fukutome, Hiroki",2B,19,0.963,34,45,3,6,,61963889
+2001,Regular Season,Orix Bluewave,4,"Fukutome, Hiroki",OF,14,1.000,4,0,0,0,,61963889
+2001,Regular Season,Orix Bluewave,4,"Fukutome, Hiroki",SS,1,1.000,0,1,0,0,,61963889
+2001,Regular Season,Osaka Kintetsu Buffaloes,52,"Nara, Masashi",P,2,0.000,0,0,0,0,,61965111
+2001,Regular Season,Hanshin Tigers,55,"Nakagomi, Shin",P,12,1.000,2,1,0,0,,63163868
+2001,Regular Season,Yakult Swallows,3,"Ramirez, Alex",OF,137,0.969,176,9,6,0,,63165113
+2001,Regular Season,Yomiuri Giants,61,"Almonte, Hector",P,4,1.000,0,1,0,0,,63365113
+2001,Regular Season,Chunichi Dragons,29,"Maeda, Yukinaga",P,36,1.000,4,27,0,3,,63463868
+2001,Regular Season,Chiba Lotte Marines,39,"Fukuzawa, Yoichi",C,27,0.981,46,5,1,0,2,63663868
+2001,Regular Season,Yokohama BayStars,5,"Ishii, Takuro",SS,140,0.982,252,417,12,100,,65563868
+2001,Regular Season,Seibu Lions,61,"Furuya, Tsuyoshi",2B,3,1.000,4,4,0,2,,71073884
+2001,Regular Season,Fukuoka Daiei Hawks,19,"Nagai, Tomohiro",P,13,1.000,6,3,0,1,,71073886
+2001,Regular Season,Chunichi Dragons,47,"Noguchi, Shigeki",P,26,0.903,10,18,3,1,,71073887
+2001,Regular Season,Orix Bluewave,2,"Miwa, Takashi",C,31,0.986,136,7,2,1,1,71073889
+2001,Regular Season,Chunichi Dragons,51,"Fukuzawa, Takahiro",P,1,0.000,0,0,0,0,,71075111
+2001,Regular Season,Chunichi Dragons,28,"Nakazato, Atsushi",P,2,1.000,0,1,0,0,,71075113
+2001,Regular Season,Seibu Lions,27,"Ito, Tsutomu",C,104,0.997,594,44,2,7,3,71173865
+2001,Regular Season,Chunichi Dragons,14,"Imanaka, Shinji",P,7,1.000,1,3,0,0,,71173868
+2001,Regular Season,Chunichi Dragons,2,"Araki, Masahiro",1B,1,1.000,2,0,0,0,,71173882
+2001,Regular Season,Chunichi Dragons,2,"Araki, Masahiro",2B,50,0.978,104,120,5,14,,71173882
+2001,Regular Season,Chunichi Dragons,2,"Araki, Masahiro",OF,59,0.973,71,1,2,0,,71173882
+2001,Regular Season,Chunichi Dragons,2,"Araki, Masahiro",SS,1,0.000,0,0,0,0,,71173882
+2001,Regular Season,Orix Bluewave,32,"Yoshihara, Kosuke",C,19,0.981,45,7,1,0,1,71173883
+2001,Regular Season,Nippon-Ham Fighters,13,"Ikoma, Masaki",P,4,1.000,0,1,0,0,,71173884
+2001,Regular Season,Osaka Kintetsu Buffaloes,45,"Ichihara, Kei",2B,19,0.941,7,9,1,0,,71173885
+2001,Regular Season,Osaka Kintetsu Buffaloes,45,"Ichihara, Kei",SS,3,1.000,0,1,0,0,,71173885
+2001,Regular Season,Nippon-Ham Fighters,57,"Iiyama, Yuji",3B,3,0.000,0,0,0,0,,71173886
+2001,Regular Season,Nippon-Ham Fighters,57,"Iiyama, Yuji",SS,5,1.000,4,3,0,0,,71173886
+2001,Regular Season,Nippon-Ham Fighters,1,"Akune, Kokichi",2B,1,1.000,1,0,0,0,,71173888
+2001,Regular Season,Nippon-Ham Fighters,1,"Akune, Kokichi",3B,7,1.000,0,1,0,0,,71173888
+2001,Regular Season,Hanshin Tigers,31,"Hirosawa, Katsumi",1B,55,0.998,391,37,1,36,,71273860
+2001,Regular Season,Hanshin Tigers,31,"Hirosawa, Katsumi",OF,22,1.000,25,1,0,0,,71273860
+2001,Regular Season,Chiba Lotte Marines,20,"Yabuta, Yasuhiko",P,27,0.950,1,18,1,1,,71273882
+2001,Regular Season,Orix Bluewave,55,"Hagiwara, Jun",P,1,0.000,0,0,0,0,,71273885
+2001,Regular Season,Hiroshima Toyo Carp,4,"Hyodo, Hideharu",3B,6,0.800,2,2,1,0,,71273886
+2001,Regular Season,Yakult Swallows,49,"Matsuda, Shinji",P,48,1.000,3,6,0,0,,71273887
+2001,Regular Season,Osaka Kintetsu Buffaloes,59,"Matsumoto, Takuya",P,1,1.000,1,0,0,0,,71273888
+2001,Regular Season,Fukuoka Daiei Hawks,13,"Watanabe, Hidekazu",P,1,0.000,0,0,0,0,,71273889
+2001,Regular Season,Hiroshima Toyo Carp,26,"Hirose, Jun",OF,68,1.000,63,2,0,0,,71275113
+2001,Regular Season,Orix Bluewave,1,"Kato, Shinichi",P,27,0.977,5,37,1,1,,71373869
+2001,Regular Season,Nippon-Ham Fighters,16,"Kanemura, Satoru",P,25,1.000,8,32,0,3,,71373880
+2001,Regular Season,Fukuoka Daiei Hawks,66,"Saito, Kazumi",P,7,1.000,1,4,0,1,,71373882
+2001,Regular Season,Chunichi Dragons,26,"Ochiai, Eiji",P,45,0.944,4,13,1,0,,71373885
+2001,Regular Season,Fukuoka Daiei Hawks,11,"Ogura, Shinsuke",P,1,1.000,0,1,0,0,,71373888
+2001,Regular Season,Chiba Lotte Marines,29,"Ono, Shingo",P,27,0.958,4,42,2,5,,71373889
+2001,Regular Season,Orix Bluewave,3,"Katsuragi, Ikuro",1B,8,1.000,25,0,0,4,,71375111
+2001,Regular Season,Orix Bluewave,3,"Katsuragi, Ikuro",OF,124,0.979,186,3,4,1,,71375111
+2001,Regular Season,Chunichi Dragons,31,"Imoto, Naoki",P,6,1.000,1,5,0,0,,71375113
+2001,Regular Season,Chunichi Dragons,0,"Mori, Shogo",OF,13,0.938,15,0,1,0,,71473886
+2001,Regular Season,Osaka Kintetsu Buffaloes,99,"Yoshikawa, Katsunari",P,1,0.000,0,0,0,0,,71475111
+2001,Regular Season,Orix Bluewave,45,"Goshima, Yuji",1B,42,0.984,234,19,4,16,,71573880
+2001,Regular Season,Yomiuri Giants,49,"Kashiwada, Takashi",P,39,1.000,2,12,0,1,,71573881
+2001,Regular Season,Chiba Lotte Marines,10,"Sawai, Ryosuke",1B,7,1.000,29,0,0,2,,71573882
+2001,Regular Season,Chiba Lotte Marines,10,"Sawai, Ryosuke",3B,4,1.000,2,3,0,0,,71573882
+2001,Regular Season,Yokohama BayStars,47,"Kanda, Daisuke",P,5,1.000,0,2,0,0,,71573884
+2001,Regular Season,Orix Bluewave,19,"Kimura, Masahiro",P,5,0.500,1,0,1,0,,71573888
+2001,Regular Season,Nippon-Ham Fighters,45,"Sasaki, Kiyoshi",P,26,1.000,0,8,0,0,,71575111
+2001,Regular Season,Osaka Kintetsu Buffaloes,13,"Shibata, Kazuya",P,42,1.000,0,3,0,0,,71673883
+2001,Regular Season,Chiba Lotte Marines,31,"Watanabe, Shunsuke",P,13,1.000,1,13,0,0,,71675113
+2001,Regular Season,Yakult Swallows,5,"Dobashi, Katsuyuki",2B,137,0.994,280,367,4,82,,71773864
+2001,Regular Season,Hiroshima Toyo Carp,22,"Takahashi, Ken",P,30,0.929,13,26,3,3,,71773880
+2001,Regular Season,Orix Bluewave,60,"Tanaka, Masaoki",OF,10,1.000,5,0,0,0,,71773882
+2001,Regular Season,Osaka Kintetsu Buffaloes,30,"Yamazaki, Kazuharu",P,11,1.000,1,5,0,0,,71773883
+2001,Regular Season,Orix Bluewave,31,"Shiozaki, Makoto",SS,131,0.977,166,335,12,78,,71773884
+2001,Regular Season,Chunichi Dragons,54,"Jinno, Junichi",2B,6,1.000,2,6,0,0,,71773887
+2001,Regular Season,Chunichi Dragons,54,"Jinno, Junichi",3B,8,1.000,4,6,0,0,,71773887
+2001,Regular Season,Seibu Lions,12,"Shibata, Hiroyuki",OF,106,0.989,173,1,2,1,,71773888
+2001,Regular Season,Chiba Lotte Marines,24,"Tachikawa, Takashi",OF,35,1.000,57,1,0,0,,71773889
+2001,Regular Season,Osaka Kintetsu Buffaloes,33,"Takagi, Yasunari",P,5,1.000,0,2,0,0,,71775111
+2001,Regular Season,Orix Bluewave,59,"Kitagawa, Tomonori",P,7,1.000,1,4,0,1,,71775113
+2001,Regular Season,Chunichi Dragons,42,"Bunch, Melvin",P,25,0.972,11,24,1,2,,71875111
+2001,Regular Season,Yomiuri Giants,51,"Chon, Minte",P,10,1.000,1,2,0,0,,71875113
+2001,Regular Season,Seibu Lions,16,"Shiozaki, Tetsuya",P,21,1.000,1,8,0,1,,71973881
+2001,Regular Season,Hiroshima Toyo Carp,19,"Hasegawa, Masayuki",P,22,0.833,5,20,5,2,,71973882
+2001,Regular Season,Chiba Lotte Marines,61,"Teramoto, Shiro",P,12,1.000,0,1,0,0,,71973888
+2001,Regular Season,Orix Bluewave,33,"Hirai, Masafumi",P,6,1.000,0,1,0,0,,71973889
+2001,Regular Season,Yokohama BayStars,54,"Takeshita, Shintaro",P,53,0.875,4,3,1,1,,71975113
+2001,Regular Season,Yokohama BayStars,38,"Holzemer, Mark",P,6,0.875,1,6,1,1,,73175113
+2001,Regular Season,Chunichi Dragons,49,"Taneda, Hitoshi",1B,1,1.000,2,0,0,0,,73373881
+2001,Regular Season,Chunichi Dragons,49,"Taneda, Hitoshi",OF,4,1.000,5,0,0,0,,73373881
+2001,Regular Season,Yokohama BayStars,12,"Taneda, Hitoshi",2B,59,0.991,104,107,2,20,,73373881
+2001,Regular Season,Yokohama BayStars,12,"Taneda, Hitoshi",3B,21,1.000,8,21,0,4,,73373881
+2001,Regular Season,Yokohama BayStars,12,"Taneda, Hitoshi",OF,10,0.875,6,1,1,0,,73373881
+2001,Regular Season,Yokohama BayStars,12,"Taneda, Hitoshi",SS,1,1.000,0,3,0,0,,73373881
+2001,Regular Season,Osaka Kintetsu Buffaloes,42,"Bergman, Sean",P,18,0.923,6,18,2,0,,73375113
+2001,Regular Season,Hanshin Tigers,12,"Hoshino, Osamu",1B,26,1.000,57,7,0,4,,73573868
+2001,Regular Season,Hanshin Tigers,12,"Hoshino, Osamu",2B,10,1.000,27,23,0,8,,73573868
+2001,Regular Season,Chiba Lotte Marines,5,"Hori, Koichi",3B,9,1.000,1,13,0,1,,73873868
+2001,Regular Season,Chiba Lotte Marines,5,"Hori, Koichi",OF,69,1.000,85,0,0,0,,73873868
+2001,Regular Season,Osaka Kintetsu Buffaloes,65,"Yamamura, Hiroki",P,23,0.938,4,11,1,1,,81083880
+2001,Regular Season,Yakult Swallows,35,"Miki, Hajime",2B,70,0.980,39,58,2,17,,81083882
+2001,Regular Season,Yakult Swallows,35,"Miki, Hajime",SS,12,0.962,16,35,2,4,,81083882
+2001,Regular Season,Osaka Kintetsu Buffaloes,32,"Maeda, Tadatoki",2B,3,1.000,2,1,0,1,,81085111
+2001,Regular Season,Osaka Kintetsu Buffaloes,32,"Maeda, Tadatoki",SS,112,0.968,107,200,10,36,,81085111
+2001,Regular Season,Yakult Swallows,36,"Ikeyama, Takahiro",1B,1,1.000,1,1,0,0,,81183869
+2001,Regular Season,Yakult Swallows,36,"Ikeyama, Takahiro",3B,7,0.933,4,10,1,2,,81183869
+2001,Regular Season,Seibu Lions,37,"Otomo, Susumu",OF,25,1.000,25,0,0,0,,81183882
+2001,Regular Season,Yomiuri Giants,20,"Iriki, Yusaku",P,27,0.953,7,34,2,1,,81183884
+2001,Regular Season,Chunichi Dragons,13,"Iwase, Hitoki",P,61,1.000,2,13,0,0,,81183888
+2001,Regular Season,Fukuoka Daiei Hawks,51,"Arakane, Hisao",OF,2,1.000,1,0,0,0,,81185113
+2001,Regular Season,Yomiuri Giants,9,"Murata, Shinichi",C,41,0.994,154,16,1,3,4,81283869
+2001,Regular Season,Nippon-Ham Fighters,24,"Shimoyanagi, Tsuyoshi",P,21,1.000,5,23,0,1,,81283883
+2001,Regular Season,Chiba Lotte Marines,35,"Yamazaki, Takahiro",P,11,1.000,0,2,0,0,,81283884
+2001,Regular Season,Fukuoka Daiei Hawks,57,"Hayashi, Takaya",1B,41,1.000,70,5,0,6,,81283885
+2001,Regular Season,Fukuoka Daiei Hawks,57,"Hayashi, Takaya",3B,5,1.000,2,3,0,0,,81283885
+2001,Regular Season,Yakult Swallows,47,"Maeda, Hirotsugu",P,28,0.975,6,33,1,1,,81283886
+2001,Regular Season,Yomiuri Giants,94,"Yasuhara, Masatoshi",P,1,0.000,0,0,0,0,,81283888
+2001,Regular Season,Chiba Lotte Marines,57,"Sato, Yukihiko",OF,72,0.980,96,2,2,0,,81383864
+2001,Regular Season,Osaka Kintetsu Buffaloes,46,"Kitagawa, Hirotoshi",1B,16,1.000,144,4,0,10,,81383880
+2001,Regular Season,Osaka Kintetsu Buffaloes,46,"Kitagawa, Hirotoshi",C,55,0.991,211,8,2,3,2,81383880
+2001,Regular Season,Nippon-Ham Fighters,26,"Kuroki, Junji",P,1,1.000,0,1,0,0,,81383882
+2001,Regular Season,Yomiuri Giants,13,"Ono, Hitoshi",P,7,1.000,1,2,0,0,,81383884
+2001,Regular Season,Yomiuri Giants,27,"Kawamoto, Yasuyuki",P,25,0.875,2,5,1,0,,81383885
+2001,Regular Season,Yomiuri Giants,0,"Kawanaka, Mototsugu",2B,4,1.000,6,3,0,1,,81383886
+2001,Regular Season,Yomiuri Giants,0,"Kawanaka, Mototsugu",3B,15,1.000,4,5,0,1,,81383886
+2001,Regular Season,Yomiuri Giants,0,"Kawanaka, Mototsugu",OF,17,1.000,3,0,0,0,,81383886
+2001,Regular Season,Yomiuri Giants,0,"Kawanaka, Mototsugu",SS,5,1.000,2,5,0,0,,81383886
+2001,Regular Season,Chiba Lotte Marines,34,"Kawai, Takashi",P,25,1.000,2,13,0,2,,81383888
+2001,Regular Season,Yokohama BayStars,15,"Kawahara, Ryuichi",P,15,1.000,4,9,0,1,,81383889
+2001,Regular Season,Hiroshima Toyo Carp,27,"Kimura, Koichiro",C,36,1.000,181,9,0,1,0,81385111
+2001,Regular Season,Hiroshima Toyo Carp,37,"Okagami, Kazunori",2B,2,1.000,0,1,0,0,,81385113
+2001,Regular Season,Hiroshima Toyo Carp,37,"Okagami, Kazunori",OF,1,1.000,2,0,0,0,,81385113
+2001,Regular Season,Hiroshima Toyo Carp,37,"Okagami, Kazunori",SS,1,1.000,2,4,0,2,,81385113
+2001,Regular Season,Chiba Lotte Marines,40,"Watanabe, Masato",2B,5,1.000,9,14,0,3,,81483886
+2001,Regular Season,Chiba Lotte Marines,40,"Watanabe, Masato",3B,15,0.885,9,14,3,2,,81483886
+2001,Regular Season,Chiba Lotte Marines,40,"Watanabe, Masato",SS,1,1.000,1,2,0,0,,81483886
+2001,Regular Season,Chiba Lotte Marines,26,"Wada, Takashi",P,38,1.000,4,13,0,0,,81483887
+2001,Regular Season,Osaka Kintetsu Buffaloes,18,"Yamamoto, Shogo",P,7,0.000,0,0,0,0,,81485113
+2001,Regular Season,Yakult Swallows,14,"Takagi, Koji",P,2,0.500,0,1,1,0,,81583864
+2001,Regular Season,Hiroshima Toyo Carp,9,"Ogata, Koichi",OF,43,0.986,70,1,1,1,,81583866
+2001,Regular Season,Yomiuri Giants,11,"Saito, Masaki",P,13,1.000,2,5,0,1,,81583869
+2001,Regular Season,Nippon-Ham Fighters,39,"Shimada, Kazuteru",OF,47,0.986,65,4,1,0,,81583880
+2001,Regular Season,Chunichi Dragons,33,"Koyama, Shinichiro",P,4,1.000,0,2,0,0,,81583884
+2001,Regular Season,Chunichi Dragons,65,"Shimizu, Kiyohito",C,5,1.000,18,0,0,0,0,81583886
+2001,Regular Season,Yomiuri Giants,97,"Sakai, Junya",P,4,0.000,0,0,0,0,,81583888
+2001,Regular Season,Yomiuri Giants,57,"Jobe, Tsuyoshi",P,46,0.941,4,12,1,0,,81585111
+2001,Regular Season,Yomiuri Giants,48,"Martinez, Domingo",1B,13,1.000,87,5,0,7,,81683884
+2001,Regular Season,Yomiuri Giants,48,"Martinez, Domingo",OF,20,0.957,22,0,1,0,,81683884
+2001,Regular Season,Hanshin Tigers,42,"Cruz, Ivan",1B,62,0.994,496,41,3,38,,81685113
+2001,Regular Season,Hanshin Tigers,42,"Cruz, Ivan",OF,9,1.000,10,0,0,0,,81685113
+2001,Regular Season,Yakult Swallows,12,"Shimada, Naoya",P,53,1.000,3,6,0,2,,81783868
+2001,Regular Season,Seibu Lions,40,"Tomioka, Hisaki",P,1,0.000,0,0,0,0,,81783880
+2001,Regular Season,Yokohama BayStars,9,"Tanaka, Kazunori",OF,47,1.000,31,2,0,1,,81785111
+2001,Regular Season,Seibu Lions,43,"Mizuo, Yoshitaka",P,48,1.000,5,11,0,1,,81883883
+2001,Regular Season,Fukuoka Daiei Hawks,35,"Valdes, Pedro",OF,134,0.984,240,6,4,4,,81885113
+2001,Regular Season,Fukuoka Daiei Hawks,10,"Honma, Mitsuru",1B,1,1.000,3,0,0,0,,81983880
+2001,Regular Season,Fukuoka Daiei Hawks,10,"Honma, Mitsuru",3B,3,0.000,0,0,0,0,,81983880
+2001,Regular Season,Fukuoka Daiei Hawks,10,"Honma, Mitsuru",SS,20,0.940,18,29,3,8,,81983880
+2001,Regular Season,Orix Bluewave,47,"Hidaka, Takeshi",C,127,0.990,822,65,9,10,7,81983882
+2001,Regular Season,Nippon-Ham Fighters,4,"Narahara, Hiroshi",3B,40,0.947,14,40,3,1,,81983883
+2001,Regular Season,Nippon-Ham Fighters,4,"Narahara, Hiroshi",SS,96,0.981,79,233,6,49,,81983883
+2001,Regular Season,Osaka Kintetsu Buffaloes,56,"Nakahama, Hiroyuki",OF,1,1.000,2,0,0,0,,81983884
+2001,Regular Season,Hanshin Tigers,32,"Tsuboi, Tomochika",OF,32,0.978,42,2,1,0,,81983886
+2001,Regular Season,Hanshin Tigers,28,"Fukuhara, Shinobu",P,39,1.000,3,31,0,0,,81983888
+2001,Regular Season,Seibu Lions,7,"Matsui, Kazuo",SS,117,0.983,208,328,9,76,,81983889
+2001,Regular Season,Orix Bluewave,23,"Vitiello, Joe",1B,6,0.947,17,1,1,1,,83185113
+2001,Regular Season,Hiroshima Toyo Carp,59,"Sato, Hiroyuki",2B,2,1.000,0,2,0,0,,83283868
+2001,Regular Season,Chiba Lotte Marines,49,"Sikorski, Brian",P,12,0.909,5,5,1,0,,83385113
+2001,Regular Season,Yokohama BayStars,8,"Tanishige, Motonobu",C,137,0.997,828,109,3,20,3,85583868
+2001,Regular Season,Fukuoka Daiei Hawks,64,"Tanoe, Keisaburo",P,29,0.967,12,17,1,0,,91093881
+2001,Regular Season,Hanshin Tigers,35,"Funaki, Satoshi",P,9,1.000,0,2,0,0,,91093882
+2001,Regular Season,Osaka Kintetsu Buffaloes,60,"Fujisaki, Hironori",P,7,1.000,0,5,0,0,,91093888
+2001,Regular Season,Chiba Lotte Marines,0,"Morozumi, Kenji",OF,61,0.986,72,0,1,0,,91093889
+2001,Regular Season,Yakult Swallows,23,"Fujii, Shugo",P,27,0.926,12,13,2,1,,91095111
+2001,Regular Season,Yakult Swallows,41,"Inaba, Atsunori",OF,137,0.986,278,12,4,1,,91193880
+2001,Regular Season,Yokohama BayStars,53,"Ishii, Yoshihito",3B,19,0.875,6,22,4,2,,91193884
+2001,Regular Season,Yakult Swallows,53,"Igarashi, Ryota",P,41,0.800,1,3,1,0,,91193886
+2001,Regular Season,Hanshin Tigers,53,"Akahoshi, Norihiro",OF,125,0.992,243,9,2,1,,91195113
+2001,Regular Season,Nippon-Ham Fighters,54,"Noguchi, Toshihiro",C,91,0.998,509,37,1,4,2,91293881
+2001,Regular Season,Nippon-Ham Fighters,54,"Noguchi, Toshihiro",OF,2,1.000,3,0,0,0,,91293881
+2001,Regular Season,Yokohama BayStars,43,"Yokoyama, Yukiya",P,4,1.000,1,2,0,0,,91293882
+2001,Regular Season,Nippon-Ham Fighters,37,"Ishimoto, Tsutomu",OF,39,0.982,54,1,1,0,,91293883
+2001,Regular Season,Seibu Lions,19,"Mori, Shinji",P,28,1.000,2,3,0,0,,91293884
+2001,Regular Season,Osaka Kintetsu Buffaloes,35,"Hagiwara, Makoto",3B,1,1.000,0,1,0,0,,91293885
+2001,Regular Season,Osaka Kintetsu Buffaloes,35,"Hagiwara, Makoto",OF,2,0.000,0,0,0,0,,91293885
+2001,Regular Season,Yomiuri Giants,25,"Hiramatsu, Kazuhiro",P,12,0.750,0,3,1,0,,91293886
+2001,Regular Season,Yakult Swallows,31,"Manaka, Mitsuru",OF,117,1.000,220,7,0,1,,91293887
+2001,Regular Season,Fukuoka Daiei Hawks,44,"Mizuta, Akio",P,2,0.000,0,0,0,0,,91293888
+2001,Regular Season,Yakult Swallows,4,"Watarai, Hirobumi",1B,29,1.000,49,2,0,7,,91293889
+2001,Regular Season,Yakult Swallows,4,"Watarai, Hirobumi",2B,3,1.000,1,3,0,0,,91293889
+2001,Regular Season,Yakult Swallows,4,"Watarai, Hirobumi",3B,1,0.000,0,0,0,0,,91293889
+2001,Regular Season,Yakult Swallows,4,"Watarai, Hirobumi",OF,2,1.000,1,0,0,0,,91293889
+2001,Regular Season,Osaka Kintetsu Buffaloes,61,"Kawaguchi, Kenshi",OF,7,1.000,1,0,0,0,,91393880
+2001,Regular Season,Hanshin Tigers,50,"Nomura, Katsunori",1B,6,0.857,6,0,1,0,,91393882
+2001,Regular Season,Hanshin Tigers,50,"Nomura, Katsunori",C,27,0.993,122,14,1,4,4,91393882
+2001,Regular Season,Osaka Kintetsu Buffaloes,11,"Otsuka, Akinori",P,48,0.889,1,7,1,0,,91393884
+2001,Regular Season,Yomiuri Giants,46,"Oda, Kohei",C,4,1.000,2,1,0,0,0,91393886
+2001,Regular Season,Orix Bluewave,15,"Kaneda, Masahiko",P,19,1.000,9,19,0,2,,91393887
+2001,Regular Season,Hiroshima Toyo Carp,39,"Oyamada, Yasuhiro",P,27,1.000,2,5,0,0,,91393888
+2001,Regular Season,Hanshin Tigers,43,"Kamisaka, Taichiro",2B,61,0.989,158,207,4,42,,91395111
+2001,Regular Season,Hanshin Tigers,43,"Kamisaka, Taichiro",OF,27,0.969,31,0,1,0,,91395111
+2001,Regular Season,Yomiuri Giants,29,"Ueno, Yuhei",P,1,1.000,1,1,0,0,,91395113
+2001,Regular Season,Fukuoka Daiei Hawks,46,"Bonishi, Koji",1B,15,0.971,92,8,3,8,,91493883
+2001,Regular Season,Fukuoka Daiei Hawks,46,"Bonishi, Koji",C,1,0.000,0,0,0,0,0,91493883
+2001,Regular Season,Hiroshima Toyo Carp,5,"Machida, Kojiro",OF,26,1.000,28,0,0,0,,91493885
+2001,Regular Season,Fukuoka Daiei Hawks,5,"Yoshimoto, Ryo",1B,1,1.000,8,1,0,1,,91493888
+2001,Regular Season,Nippon-Ham Fighters,34,"Yoshizaki, Masaru",P,10,0.000,0,0,0,0,,91495111
+2001,Regular Season,Orix Bluewave,7,"Shindo, Tatsuya",1B,1,1.000,4,1,0,0,,91593866
+2001,Regular Season,Orix Bluewave,7,"Shindo, Tatsuya",2B,21,1.000,20,21,0,3,,91593866
+2001,Regular Season,Orix Bluewave,7,"Shindo, Tatsuya",3B,81,0.971,37,99,4,13,,91593866
+2001,Regular Season,Orix Bluewave,7,"Shindo, Tatsuya",SS,42,0.991,31,77,1,13,,91593866
+2001,Regular Season,Yomiuri Giants,35,"Shimizu, Takayuki",OF,116,0.994,159,5,1,1,,91593882
+2001,Regular Season,Fukuoka Daiei Hawks,41,"Kurano, Shinji",P,34,0.958,6,17,1,1,,91593884
+2001,Regular Season,Yokohama BayStars,2,"Kinjo, Tatsuhiko",OF,137,0.983,281,14,5,1,,91593888
+2001,Regular Season,Hiroshima Toyo Carp,36,"Satake, Kenta",P,1,0.000,0,0,0,0,,91595111
+2001,Regular Season,Osaka Kintetsu Buffaloes,20,"Rhodes, Tuffy",OF,140,0.988,254,3,3,1,,91693882
+2001,Regular Season,Hanshin Tigers,38,"Yuminaga, Tatsuhiro",P,44,1.000,4,10,0,1,,91693885
+2001,Regular Season,Seibu Lions,22,"Nakajima, Satoshi",C,64,0.997,323,20,1,4,1,91793864
+2001,Regular Season,Nippon-Ham Fighters,29,"Shibakusa, Hiroshi",P,56,0.944,2,15,1,1,,91793868
+2001,Regular Season,Hanshin Tigers,60,"Tanaka, Shuta",2B,42,0.988,42,41,1,10,,91793880
+2001,Regular Season,Hanshin Tigers,60,"Tanaka, Shuta",SS,21,0.944,29,38,4,11,,91793880
+2001,Regular Season,Hiroshima Toyo Carp,30,"Tamaki, Shigeo",P,62,0.960,4,20,1,3,,91793882
+2001,Regular Season,Fukuoka Daiei Hawks,31,"Shibahara, Hiroshi",OF,139,0.994,304,17,2,1,,91793884
+2001,Regular Season,Chunichi Dragons,38,"Suzuki, Fumihiro",C,20,1.000,38,2,0,0,0,91793886
+2001,Regular Season,Yokohama BayStars,26,"Sugiyama, Kento",P,32,1.000,0,5,0,0,,91793887
+2001,Regular Season,Osaka Kintetsu Buffaloes,9,"Takano, Fumitoshi",OF,9,1.000,5,0,0,0,,91795111
+2001,Regular Season,Hiroshima Toyo Carp,46,"Yamasaki, Ken",P,6,0.000,0,0,0,0,,91893883
+2001,Regular Season,Orix Bluewave,91,"Pulido, Carlos",P,11,1.000,2,3,0,0,,91895111
+2001,Regular Season,Chunichi Dragons,44,"Timmons, Ozzie",1B,1,1.000,1,0,0,0,,91895113
+2001,Regular Season,Chunichi Dragons,44,"Timmons, Ozzie",OF,75,0.990,100,3,1,2,,91895113
+2001,Regular Season,Chunichi Dragons,19,"Nakayama, Hiroaki",P,4,1.000,0,2,0,0,,91993862
+2001,Regular Season,Chiba Lotte Marines,33,"Hashimoto, Tasuku",C,37,0.970,149,13,5,3,4,91993880
+2001,Regular Season,Chiba Lotte Marines,38,"Hayakawa, Kenichiro",OF,2,0.000,0,0,0,0,,91993882
+2001,Regular Season,Orix Bluewave,10,"Tani, Yoshitomo",OF,136,0.989,255,3,3,0,,91993884
+2001,Regular Season,Osaka Kintetsu Buffaloes,24,"Takamura, Hiroshi",P,21,0.882,1,14,2,0,,91993885
+2001,Regular Season,Yokohama BayStars,60,"Tanaka, Toshiaki",P,9,1.000,1,1,0,0,,91993887
+2001,Regular Season,Orix Bluewave,43,"Tokumoto, Satoshi",P,4,1.000,0,2,0,0,,91993888
+2001,Regular Season,Seibu Lions,15,"Hirao, Hiroshi",2B,4,1.000,3,10,0,3,,91993889
+2001,Regular Season,Chiba Lotte Marines,27,"Tobe, Hiroshi",P,4,0.000,0,0,0,0,,91995111
+2001,Regular Season,Hanshin Tigers,49,"Date, Masashi",P,28,1.000,5,11,0,1,,91995113
+2001,Regular Season,Yokohama BayStars,7,"Suzuki, Takanori",OF,121,0.985,191,4,3,0,,93193883
+2001,Regular Season,Nippon-Ham Fighters,64,"Obando, Sherman",OF,6,1.000,12,0,0,0,,93193888
+2001,Regular Season,Seibu Lions,3,"Mcclain, Scott",1B,1,1.000,0,1,0,0,,93195113
+2001,Regular Season,Seibu Lions,3,"Mcclain, Scott",3B,103,0.954,95,155,12,11,,93195113
+2001,Regular Season,Hanshin Tigers,27,"Yamada, Katsuhiko",C,46,0.989,250,19,3,2,2,93393868
+2001,Regular Season,Yokohama BayStars,00,"Sanders, Anthony",OF,13,1.000,27,2,0,1,,93395113
+2001,Regular Season,Fukuoka Daiei Hawks,55,"Omichi, Noriyoshi",1B,23,0.989,174,8,2,11,,93993868
+2001,Regular Season,Fukuoka Daiei Hawks,55,"Omichi, Noriyoshi",OF,14,1.000,18,1,0,0,,93993868

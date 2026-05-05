@@ -41,7 +41,9 @@ It also creates a `get_daily_leaderboard(date)` SQL function that powers the dai
 If you later add real CSV files under `data/raw/`, rebuild processed data with:
 
 ```bash
+npm run data:audit-raw
 npm run data:build
+npm run data:diagnostics
 ```
 
 For the first real import pass, start with:
@@ -49,6 +51,9 @@ For the first real import pass, start with:
 - [data/raw/FIRST_IMPORT_GUIDE.md](/Users/shugo/Desktop/npb/data/raw/FIRST_IMPORT_GUIDE.md)
 - [data/raw/registry/registry-template.csv](/Users/shugo/Desktop/npb/data/raw/registry/registry-template.csv)
 - [data/raw/batting/batting-template.csv](/Users/shugo/Desktop/npb/data/raw/batting/batting-template.csv)
+
+`data:diagnostics` prints a compact summary from [data/processed/importDiagnostics.json](/Users/shugo/Desktop/npb/data/processed/importDiagnostics.json), including skipped rows, missing headers, and player-ID collisions.
+`data:audit-raw` checks whether real historical CSVs are actually present under `data/raw/` and shows row counts plus year coverage before you import.
 
 ## Data pipeline
 
@@ -59,6 +64,7 @@ For the first real import pass, start with:
 - `data/processed/fieldingSeasons.json`: normalized fielding season rows
 - `data/processed/careerStats.json`: career totals built from season rows
 - `data/processed/eligibility.json`: category-to-player lookup table used for validation
+- `data/processed/importDiagnostics.json`: import health report for skipped rows, header coverage, and identity collisions
 
 ## Main files
 
@@ -68,5 +74,6 @@ For the first real import pass, start with:
 - `src/data/teamAliases.js`: franchise normalization helpers
 - `src/lib/validateAnswer.js`: processed-data validation helpers
 - `scripts/importRawStats.js`: CSV importer
+- `scripts/reportImportDiagnostics.js`: human-readable import diagnostics summary
 - `scripts/buildCareerStats.js`: career stat builder
 - `scripts/buildCategoryEligibility.js`: category eligibility builder

@@ -1,0 +1,605 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+1995,Regular Season,Hiroshima Toyo Carp,16,"Yamauchi, Yasuyuki",P,41,60,57,0.070,0.070,0.070,0.140,0,3,4,4,0,0,0,4,0,0,0,0,21,1,0,3,0,01003880
+1995,Regular Season,Nippon-Ham Fighters,67,"Tabuki, Akihiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01003881
+1995,Regular Season,Yomiuri Giants,23,"Yanagisawa, Yuichi",C,4,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01003889
+1995,Regular Season,Yomiuri Giants,52,"Inoe, Shinji",PH,28,31,26,0.269,0.310,0.423,0.733,1,5,7,3,4,0,0,11,0,0,1,0,6,0,1,2,1,01103860
+1995,Regular Season,Hiroshima Toyo Carp,27,"Inoe, Yuji",P,52,9,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,01103863
+1995,Regular Season,Hanshin Tigers,25,"Inomata, Takashi",P,21,5,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,1,0,01103864
+1995,Regular Season,Yomiuri Giants,2,"Motoki, Daisuke",2B,67,219,197,0.244,0.299,0.355,0.654,13,25,48,33,11,1,3,70,5,3,15,0,23,5,1,5,1,01103883
+1995,Regular Season,Chunichi Dragons,51,"Idemoto, Kenichiro",P,4,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01103885
+1995,Regular Season,Fukuoka Daiei Hawks,5,"Fujimoto, Hiroshi",1B,119,456,383,0.264,0.372,0.399,0.771,36,58,101,72,17,1,11,153,0,4,68,2,88,10,0,2,3,01203860
+1995,Regular Season,Kintetsu Buffaloes,44,"Mitsuyama, Hidekazu",C,62,115,105,0.200,0.234,0.305,0.539,5,11,21,14,5,0,2,32,0,1,5,0,40,0,0,4,1,01203862
+1995,Regular Season,Seibu Lions,43,"Yokota, Hisanori",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01203864
+1995,Regular Season,Fukuoka Daiei Hawks,25,"Wakai, Motoyasu",PH,60,111,101,0.257,0.315,0.317,0.632,4,12,26,20,6,0,0,32,0,1,9,1,15,3,0,0,1,01203866
+1995,Regular Season,Hanshin Tigers,32,"Coolbaugh, Scott",3B,127,533,468,0.278,0.352,0.476,0.828,56,77,130,82,25,1,22,223,1,5,53,2,102,13,4,2,6,01203880
+1995,Regular Season,Nippon-Ham Fighters,58,"Arai, Shogo",2B,38,19,17,0.059,0.111,0.118,0.229,6,0,1,0,1,0,0,2,2,1,1,0,1,0,0,1,0,01203883
+1995,Regular Season,Chiba Lotte Marines,17,"Muto, Junichiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01203887
+1995,Regular Season,Yomiuri Giants,49,"Jones, Jimmy",P,6,9,8,0.250,0.333,0.250,0.583,0,0,2,2,0,0,0,2,0,0,1,0,2,0,0,0,0,01203889
+1995,Regular Season,Chunichi Dragons,23,"Kawamata, Yonetoshi",PH,85,160,138,0.232,0.327,0.312,0.639,12,16,32,25,5,0,2,43,0,0,20,3,15,1,0,1,1,01303848
+1995,Regular Season,Fukuoka Daiei Hawks,54,"Kasahara, Eiichi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01303862
+1995,Regular Season,Kintetsu Buffaloes,4,"Oishi, Daijiro",2B,102,354,303,0.241,0.328,0.330,0.658,43,21,73,55,13,1,4,100,11,6,38,2,52,5,2,9,2,01303863
+1995,Regular Season,Hiroshima Toyo Carp,11,"Kito, Makoto",P,33,61,53,0.208,0.232,0.302,0.534,5,6,11,8,2,0,1,16,0,0,2,0,19,1,0,5,1,01303864
+1995,Japan Series,Yakult Swallows,32,"Kanamori, Eiji",PH,3,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,1,,,,,01303865
+1995,Regular Season,Yakult Swallows,32,"Kanamori, Eiji",PH,67,80,71,0.324,0.380,0.479,0.859,8,10,23,15,6,1,1,34,0,0,5,0,5,4,2,1,1,01303865
+1995,Regular Season,Chunichi Dragons,22,"Yamasaki, Takeshi",LF,66,233,203,0.291,0.366,0.576,0.942,28,39,59,33,10,0,16,117,2,0,21,2,56,5,5,1,3,01303868
+1995,Regular Season,Chunichi Dragons,18,"Kashima, Tadashi",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01303869
+1995,Regular Season,Hanshin Tigers,41,"Kawajiri, Tetsuro",P,31,50,40,0.100,0.143,0.100,0.243,4,1,4,4,0,0,0,4,0,0,2,0,11,0,0,8,0,01303880
+1995,Regular Season,Seibu Lions,23,"Otsuka, Koji",PH,50,87,79,0.241,0.302,0.291,0.593,5,1,19,16,2,1,0,23,2,0,7,1,15,2,0,1,0,01303881
+1995,Regular Season,Nippon-Ham Fighters,8,"Kataoka, Atsushi",1B,106,421,357,0.224,0.330,0.319,0.649,40,39,80,60,12,2,6,114,1,2,55,2,83,3,2,6,1,01303885
+1995,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,12,29,22,0.227,0.261,0.273,0.534,2,1,5,4,1,0,0,6,0,0,1,0,4,1,0,6,0,01403862
+1995,Regular Season,Nippon-Ham Fighters,9,"Mcintosh, Tim",1B,56,205,191,0.220,0.270,0.298,0.568,16,15,42,33,6,0,3,57,0,0,12,1,42,2,1,1,0,01403880
+1995,Regular Season,Chunichi Dragons,37,"Yoshitsuru, Kenji",C,9,6,6,0.167,0.167,0.167,0.334,2,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,01403887
+1995,Regular Season,Yokohama BayStars,21,"Nomura, Hiroki",P,24,14,12,0.250,0.308,0.250,0.558,1,0,3,3,0,0,0,3,0,0,1,0,2,0,0,1,0,01503866
+1995,Regular Season,Chunichi Dragons,64,"Kitamura, Shunsuke",3B,30,79,71,0.225,0.304,0.282,0.586,10,2,16,14,1,0,1,20,1,0,6,1,4,2,2,0,0,01503868
+1995,Regular Season,Hiroshima Toyo Carp,6,"Kobayakawa, Takehiko",PH,66,135,113,0.239,0.348,0.345,0.693,8,14,27,19,6,0,2,39,2,1,19,0,28,3,1,0,2,01503869
+1995,Regular Season,Yokohama BayStars,19,"Kohiyama, Masahito",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01503887
+1995,Regular Season,Kintetsu Buffaloes,18,"Sakai, Hiroki",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01503889
+1995,Regular Season,Yakult Swallows,51,"Matsumoto, Shigeru",P,7,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01603881
+1995,Regular Season,Chiba Lotte Marines,0,"Yoshida, Atsushi",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01603885
+1995,Regular Season,Nippon-Ham Fighters,60,"Gross, Kip",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01603889
+1995,Regular Season,Hanshin Tigers,21,"Sekikawa, Koichi",C,124,471,417,0.295,0.362,0.374,0.736,62,30,123,99,17,5,2,156,12,8,44,1,74,2,1,7,2,01703883
+1995,Regular Season,Kintetsu Buffaloes,40,"Shinada, Ayahito",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01703885
+1995,Regular Season,Hiroshima Toyo Carp,14,"Suzuki, Ken",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01703887
+1995,Regular Season,Chunichi Dragons,13,"Yamada, Kikuo",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01803881
+1995,Regular Season,Hiroshima Toyo Carp,62,"Kobayashi, Atsushi",P,18,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01803883
+1995,Regular Season,Yomiuri Giants,40,"Howell, Jack",3B,66,258,219,0.279,0.388,0.516,0.904,35,41,61,37,10,0,14,113,1,1,37,2,66,2,2,0,0,01803885
+1995,Regular Season,Fukuoka Daiei Hawks,45,"Hirota, Hiroaki",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903864
+1995,Regular Season,Yokohama BayStars,16,"Ito, Atsunori",P,19,10,10,0.200,0.200,0.300,0.500,0,1,2,1,1,0,0,3,0,0,0,0,4,0,0,0,0,01903866
+1995,Regular Season,Nippon-Ham Fighters,7,"Nakajima, Terushi",DH,33,82,74,0.203,0.268,0.203,0.471,2,5,15,15,0,0,0,15,0,0,7,0,15,1,0,0,1,01903868
+1995,Regular Season,Hanshin Tigers,5,"Shinjo, Tsuyoshi",CF,87,346,311,0.225,0.294,0.360,0.654,34,37,70,45,15,3,7,112,6,4,26,1,76,6,5,2,2,01903881
+1995,Regular Season,Fukuoka Daiei Hawks,16,"Uchiyama, Tomoyuki",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903883
+1995,Japan Series,Orix Bluewave,6,"Taguchi, So",LF,5,,20,0.250,,0.300,,,1,5,4,1,0,0,6,0,,1,,2,,,,,01903885
+1995,Regular Season,Orix Bluewave,6,"Taguchi, So",LF,130,574,495,0.246,0.308,0.358,0.666,76,61,122,87,24,2,9,177,14,7,43,0,80,7,4,25,7,01903885
+1995,Regular Season,Chunichi Dragons,11,"Hirata, Hiroshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903889
+1995,Regular Season,Hiroshima Toyo Carp,54,"Chiyomaru, Shoshi",1B,2,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,0,0,03003868
+1995,Regular Season,Chunichi Dragons,30,"Powell, Alonzo",CF,101,422,389,0.355,0.405,0.584,0.989,63,69,138,91,24,4,19,227,1,0,31,6,60,5,2,0,0,03103885
+1995,Regular Season,Hanshin Tigers,33,"Kaneko, Seiichi",RF,18,32,31,0.161,0.188,0.194,0.382,1,2,5,4,1,0,0,6,0,0,1,0,5,1,0,0,0,03503868
+1995,Regular Season,Fukuoka Daiei Hawks,27,"Yoshinaga, Koichiro",C,81,337,294,0.293,0.379,0.449,0.828,37,34,86,58,18,2,8,132,2,1,39,1,51,11,2,2,0,03703868
+1995,Japan Series,Yakult Swallows,13,"Kato, Hiroto",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,05003868
+1995,Regular Season,Yakult Swallows,13,"Kato, Hiroto",P,40,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,05003868
+1995,Regular Season,Seibu Lions,57,"Ueda, Hiroaki",2B,73,14,10,0.100,0.357,0.100,0.457,4,0,1,1,0,0,0,1,2,0,3,1,4,0,1,0,0,05303868
+1995,Regular Season,Seibu Lions,39,"Destrade, Orestes",DH,46,188,163,0.245,0.340,0.405,0.745,17,23,40,27,6,1,6,66,1,1,24,1,45,6,0,0,1,07303868
+1995,Regular Season,Hanshin Tigers,7,"Mayumi, Akinobu",PH,25,32,27,0.222,0.313,0.222,0.535,0,4,6,6,0,0,0,6,0,1,4,0,9,0,0,0,1,11013847
+1995,Regular Season,Orix Bluewave,14,"Maruo, Eiji",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11013880
+1995,Regular Season,Chiba Lotte Marines,19,"Narimoto, Toshihide",P,44,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11013887
+1995,Regular Season,Kintetsu Buffaloes,57,"Matoyama, Tetsuya",C,15,16,15,0.133,0.133,0.200,0.333,0,0,2,1,1,0,0,3,0,0,0,0,7,0,0,1,0,11013889
+1995,Regular Season,Chiba Lotte Marines,10,"Furukawa, Shinichi",DH,2,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213862
+1995,Regular Season,Hanshin Tigers,3,"Yagi, Hiroshi",LF,71,204,180,0.267,0.342,0.406,0.748,22,14,48,34,8,1,5,73,1,0,16,1,43,3,5,2,1,11213864
+1995,Regular Season,Yokohama BayStars,25,"Hatayama, Hitoshi",PH,100,237,209,0.220,0.302,0.378,0.680,20,29,46,27,12,0,7,79,0,0,24,1,55,2,1,2,1,11213867
+1995,Regular Season,Fukuoka Daiei Hawks,42,"Nishi, Shunji",3B,10,22,18,0.167,0.286,0.222,0.508,0,1,3,2,1,0,0,4,0,0,3,0,3,0,0,0,0,11213881
+1995,Regular Season,Seibu Lions,19,"Maeda, Katsuhiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213887
+1995,Regular Season,Fukuoka Daiei Hawks,67,"Yoshitake, Shintaro",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213889
+1995,Regular Season,Yomiuri Giants,22,"Okubo, Hiromoto",PH,14,25,24,0.167,0.200,0.333,0.533,2,2,4,2,1,0,1,8,0,0,0,0,8,0,1,0,0,11313860
+1995,Japan Series,Yakult Swallows,30,"Ono, Yuji",PH,2,,2,1.000,,2.500,,,2,2,1,0,0,1,5,0,,0,,0,,,,,11313864
+1995,Regular Season,Yakult Swallows,30,"Ono, Yuji",PH,46,33,29,0.276,0.333,0.448,0.781,2,11,8,5,2,0,1,13,0,0,3,0,9,2,0,0,1,11313864
+1995,Japan Series,Orix Bluewave,21,"Noda, Koji",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11313866
+1995,Regular Season,Orix Bluewave,21,"Noda, Koji",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313866
+1995,Regular Season,Kintetsu Buffaloes,41,"Iriki, Satoshi",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313881
+1995,Regular Season,Chunichi Dragons,21,"Kojima, Hiromu",P,25,6,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,11313883
+1995,Regular Season,Yokohama BayStars,14,"Udo, Katsuya",P,24,25,23,0.087,0.125,0.087,0.212,0,0,2,2,0,0,0,2,0,0,1,0,10,2,0,1,0,11313885
+1995,Regular Season,Yakult Swallows,54,"Ogura, Hisashi",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313887
+1995,Regular Season,Kintetsu Buffaloes,60,"Omura, Naoyuki",CF,110,309,282,0.270,0.316,0.355,0.671,37,19,76,62,7,4,3,100,15,10,20,0,56,2,0,5,2,11313889
+1995,Regular Season,Fukuoka Daiei Hawks,00,"Yamaguchi, Yuji",RF,62,125,114,0.211,0.252,0.316,0.568,8,10,24,17,3,3,1,36,1,2,6,0,20,2,1,2,2,11413862
+1995,Regular Season,Chiba Lotte Marines,64,"Yamanaka, Kiyoshi",C,61,103,93,0.183,0.216,0.215,0.431,6,3,17,15,1,1,0,20,1,1,4,0,19,1,0,6,0,11413863
+1995,Regular Season,Kintetsu Buffaloes,48,"Powell, Dennis",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11413880
+1995,Regular Season,Chiba Lotte Marines,53,"Hayashi, Hiroyasu",LF,51,146,130,0.238,0.298,0.369,0.667,12,12,31,23,3,1,4,48,0,1,10,0,25,1,1,5,0,11413881
+1995,Regular Season,Fukuoka Daiei Hawks,41,"Eguchi, Takayoshi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11413883
+1995,Regular Season,Chiba Lotte Marines,32,"Higuchi, Kazutoshi",2B,62,134,114,0.202,0.278,0.211,0.489,8,2,23,22,1,0,0,24,3,8,11,0,21,0,1,8,0,11413885
+1995,Regular Season,Nippon-Ham Fighters,10,"Yamahara, Kazutoshi",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11413887
+1995,Regular Season,Yomiuri Giants,18,"Kuwata, Masumi",P,9,25,18,0.167,0.250,0.167,0.417,2,0,3,3,0,0,0,3,0,0,2,0,3,1,0,5,0,11513862
+1995,Regular Season,Kintetsu Buffaloes,47,"Kiyokawa, Eiji",P,39,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513869
+1995,Regular Season,Yakult Swallows,15,"Okabayashi, Yoichi",P,27,36,30,0.200,0.200,0.200,0.400,1,1,6,6,0,0,0,6,0,0,0,0,11,1,0,6,0,11513883
+1995,Japan Series,Yakult Swallows,27,"Furuta, Atsuya",C,5,,23,0.174,,0.217,,,1,4,3,1,0,0,5,0,,1,,1,,,,,11613881
+1995,Regular Season,Yakult Swallows,27,"Furuta, Atsuya",C,130,551,487,0.294,0.357,0.464,0.821,88,76,143,103,18,1,21,226,6,0,46,0,51,24,6,5,7,11613881
+1995,Regular Season,Fukuoka Daiei Hawks,23,"Muramatsu, Arihito",LF,95,369,328,0.308,0.366,0.360,0.726,57,13,101,87,11,3,0,118,32,17,29,0,36,3,1,11,0,11613883
+1995,Regular Season,Seibu Lions,1,"Sasaki, Makoto",CF,130,579,535,0.271,0.321,0.424,0.745,63,55,145,99,27,2,17,227,18,7,37,8,89,10,3,3,1,11713860
+1995,Regular Season,Nippon-Ham Fighters,54,"Shiroishi, Noriyuki",PH,2,3,3,0.667,0.667,0.667,1.334,1,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,11713880
+1995,Regular Season,Hanshin Tigers,15,"Yufune, Toshiro",P,33,58,53,0.057,0.091,0.075,0.166,1,3,3,2,1,0,0,4,0,0,2,0,28,1,0,3,0,11713883
+1995,Regular Season,Chunichi Dragons,24,"Sato, Hideki",P,22,29,26,0.077,0.077,0.115,0.192,1,1,2,1,1,0,0,3,0,0,0,0,11,1,0,3,0,11713887
+1995,Regular Season,Seibu Lions,54,"Shiratori, Hironori",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713889
+1995,Regular Season,Orix Bluewave,50,"Yojo, Minoru",1B,9,9,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,11813868
+1995,Regular Season,Seibu Lions,58,"Miyaji, Katsuhiko",LF,13,26,23,0.130,0.231,0.304,0.535,3,2,3,1,1,0,1,7,2,1,3,0,3,1,0,0,0,11813881
+1995,Regular Season,Nippon-Ham Fighters,21,"Nishizaki, Yukihiro",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913864
+1995,Regular Season,Chiba Lotte Marines,3,"Nishimura, Norifumi",LF,91,191,150,0.213,0.333,0.240,0.573,31,7,32,28,4,0,0,36,7,3,27,0,21,2,0,14,0,11913865
+1995,Regular Season,Nippon-Ham Fighters,17,"Shirai, Yasukatsu",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913868
+1995,Regular Season,Orix Bluewave,30,"Ebisu, Nobuyuki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913883
+1995,Japan Series,Orix Bluewave,51,"Suzuki, Ichiro",RF,5,,19,0.263,,0.421,,,2,5,4,0,0,1,8,0,,4,,4,,,,,11913885
+1995,Regular Season,Orix Bluewave,51,"Suzuki, Ichiro",RF,130,613,524,0.342,0.432,0.544,0.976,104,80,179,127,23,4,25,285,49,9,68,17,52,7,18,0,3,11913885
+1995,Regular Season,Kintetsu Buffaloes,9,"Takumi, Masahiro",RF,109,354,310,0.277,0.346,0.358,0.704,39,17,86,69,11,4,2,111,12,4,32,0,49,0,1,10,1,11913887
+1995,Regular Season,Hiroshima Toyo Carp,29,"Kondo, Yoshihisa",P,29,33,33,0.212,0.212,0.242,0.454,3,3,7,6,1,0,0,8,1,0,0,0,16,1,0,0,0,13013868
+1995,Regular Season,Yokohama BayStars,41,"Kato, Masato",P,13,5,4,0.000,0.200,0.000,0.200,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,13113883
+1995,Regular Season,Hiroshima Toyo Carp,106,"Checo, Robinson",P,41,75,66,0.076,0.141,0.076,0.217,3,1,5,5,0,0,0,5,0,0,3,0,44,1,2,4,0,13113885
+1995,Regular Season,Chiba Lotte Marines,6,"Hatsushiba, Kiyoshi",3B,123,509,458,0.301,0.358,0.546,0.904,60,80,138,81,27,5,25,250,1,5,36,3,86,14,8,0,7,13813868
+1995,Japan Series,Orix Bluewave,43,"Suzuki, Taira",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,15013868
+1995,Regular Season,Orix Bluewave,43,"Suzuki, Taira",P,50,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15013868
+1995,Regular Season,Fukuoka Daiei Hawks,18,"Watanabe, Tomio",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15113868
+1995,Japan Series,Yakult Swallows,2,"Iida, Tetsuya",CF,5,,23,0.261,,0.304,,,2,6,5,1,0,0,7,1,,1,,2,,,,,15213868
+1995,Regular Season,Yakult Swallows,2,"Iida, Tetsuya",CF,130,582,522,0.253,0.317,0.356,0.673,78,31,132,99,19,7,7,186,35,8,46,2,74,8,4,7,3,15213868
+1995,Regular Season,Seibu Lions,8,"Suzuki, Ken",3B,124,467,416,0.252,0.328,0.363,0.691,39,42,105,83,10,0,12,151,0,2,45,1,63,10,3,1,2,15313868
+1995,Regular Season,Seibu Lions,65,"Uenaka, Yoshinari",PH,2,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15513868
+1995,Regular Season,Yokohama BayStars,7,"Miyazato, Futoshi",PH,87,77,69,0.261,0.307,0.275,0.582,13,7,18,17,1,0,0,19,5,0,5,1,6,1,0,2,1,15713868
+1995,Regular Season,Yokohama BayStars,4,"Yokotani, Akimasa",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15913868
+1995,Japan Series,Yakult Swallows,26,"Hata, Shinji",LF,4,,10,0.500,,0.500,,,0,5,5,0,0,0,5,0,,1,,2,,,,,21023860
+1995,Regular Season,Yakult Swallows,26,"Hata, Shinji",LF,96,273,252,0.286,0.326,0.452,0.778,24,31,72,49,13,1,9,114,1,2,15,4,43,2,1,3,2,21023860
+1995,Japan Series,Orix Bluewave,0,"Motonishi, Atsuhiro",CF,3,,7,0.143,,0.143,,,0,1,1,0,0,0,1,1,,2,,0,,,,,21023864
+1995,Regular Season,Orix Bluewave,0,"Motonishi, Atsuhiro",CF,113,245,214,0.234,0.295,0.304,0.599,24,24,50,40,6,3,1,65,2,0,17,0,39,4,2,11,1,21023864
+1995,Regular Season,Nippon-Ham Fighters,4,"Takeda, Kazuhiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21023866
+1995,Regular Season,Chiba Lotte Marines,9,"Igarashi, Akihito",2B,101,268,225,0.209,0.302,0.311,0.613,21,18,47,33,9,1,4,70,1,0,30,2,21,4,0,13,0,21023883
+1995,Regular Season,Kintetsu Buffaloes,66,"Nakamura, Norihiro",3B,129,528,470,0.228,0.307,0.400,0.707,62,64,107,67,19,1,20,188,0,1,51,1,92,12,3,3,1,21023885
+1995,Regular Season,Hanshin Tigers,18,"Yabu, Keiichi",P,28,69,59,0.085,0.129,0.102,0.231,5,3,5,4,1,0,0,6,0,0,3,0,24,2,0,7,0,21023889
+1995,Regular Season,Fukuoka Daiei Hawks,31,"Ogawa, Hiroshi",PH,38,62,53,0.226,0.300,0.245,0.545,5,5,12,11,1,0,0,13,1,0,4,0,8,1,2,2,1,21123861
+1995,Regular Season,Chunichi Dragons,3,"Tatsunami, Kazuyoshi",2B,126,557,489,0.301,0.378,0.423,0.801,72,53,147,110,25,1,11,207,10,11,59,2,46,11,4,2,3,21123866
+1995,Regular Season,Chunichi Dragons,43,"Endo, Masataka",P,4,6,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,21123889
+1995,Regular Season,Fukuoka Daiei Hawks,4,"Moriwaki, Hiroshi",PR,16,6,6,0.167,0.167,0.167,0.334,1,0,1,1,0,0,0,1,1,1,0,0,2,1,0,0,0,21223863
+1995,Regular Season,Chiba Lotte Marines,18,"Irabu, Hideki",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21223866
+1995,Regular Season,Yomiuri Giants,31,"Mizuno, Katsuhito",P,25,1,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,21223869
+1995,Regular Season,Yokohama BayStars,49,"Schwarz, Jeff",P,4,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,21223880
+1995,Regular Season,Yomiuri Giants,92,"Murata, Yoshinori",C,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21223887
+1995,Regular Season,Hanshin Tigers,48,"Kubo, Yasuo",P,45,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21323846
+1995,Regular Season,Seibu Lions,18,"Kaku, Taigen",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323860
+1995,Regular Season,Nippon-Ham Fighters,23,"Kaneishi, Akihito",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323865
+1995,Regular Season,Yomiuri Giants,0,"Kawai, Masahiro",SS,108,467,371,0.261,0.348,0.313,0.661,51,19,97,82,13,0,2,116,3,3,47,0,47,12,2,47,0,21323869
+1995,Regular Season,Yomiuri Giants,15,"Kawahara, Junichi",P,23,39,36,0.111,0.111,0.111,0.222,1,1,4,4,0,0,0,4,0,0,0,0,16,1,0,3,0,21323880
+1995,Regular Season,Nippon-Ham Fighters,30,"Kaneko, Makoto",2B,4,6,6,0.333,0.333,0.500,0.833,0,0,2,1,1,0,0,3,0,0,0,0,0,1,0,0,0,21323889
+1995,Regular Season,Hanshin Tigers,39,"Yoshida, Yasuo",C,1,4,4,0.500,0.500,0.500,1.000,1,0,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,21423862
+1995,Regular Season,Seibu Lions,2,"Yoshitake, Haruki",PH,31,46,37,0.243,0.391,0.324,0.715,5,2,9,6,3,0,0,12,0,0,9,0,8,0,0,0,0,21423863
+1995,Regular Season,Nippon-Ham Fighters,20,"Ducey, Rob",LF,117,490,425,0.249,0.342,0.489,0.831,61,61,106,58,19,4,25,208,7,7,54,3,103,3,7,1,3,21423880
+1995,Regular Season,Kintetsu Buffaloes,39,"Fujitate, Jiro",LF,60,142,125,0.232,0.295,0.328,0.623,11,7,29,22,4,1,2,41,0,1,12,0,30,3,0,3,2,21423881
+1995,Regular Season,Hiroshima Toyo Carp,40,"Yoshimoto, Ryo",C,13,20,16,0.188,0.350,0.438,0.788,1,1,3,1,1,0,1,7,0,0,4,1,7,0,0,0,0,21423887
+1995,Regular Season,Fukuoka Daiei Hawks,47,"Reimer, Kevin",RF,103,369,351,0.254,0.279,0.387,0.666,31,52,89,65,11,3,10,136,0,3,11,2,87,11,3,0,4,21423889
+1995,Regular Season,Chunichi Dragons,00,"Yamaguchi, Koji",CF,35,154,137,0.285,0.351,0.445,0.796,18,12,39,29,4,0,6,61,4,3,12,0,22,1,2,3,0,21523868
+1995,Regular Season,Fukuoka Daiei Hawks,12,"Saito, Mitsugu",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21523880
+1995,Regular Season,Yokohama BayStars,38,"Kawabata, Kazuaki",PH,6,7,7,0.143,0.143,0.143,0.286,0,2,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,21523881
+1995,Regular Season,Yomiuri Giants,62,"Koharazawa, Shigeyori",P,17,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21523885
+1995,Regular Season,Yokohama BayStars,26,"Saeki, Takahiro",PH,103,246,212,0.264,0.352,0.453,0.805,27,29,56,31,17,1,7,96,0,1,29,2,45,1,1,2,2,21523887
+1995,Regular Season,Chunichi Dragons,59,"Sasayama, Yoichi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21523889
+1995,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",2B,130,569,509,0.267,0.330,0.332,0.662,49,35,136,109,22,4,1,169,4,4,45,0,39,14,3,11,1,21623860
+1995,Japan Series,Orix Bluewave,4,"Matsuyama, Hideaki",PR,3,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,21623881
+1995,Regular Season,Orix Bluewave,4,"Matsuyama, Hideaki",PR,46,42,38,0.237,0.293,0.342,0.635,16,4,9,7,1,0,1,13,4,2,2,0,5,1,1,1,0,21623881
+1995,Regular Season,Fukuoka Daiei Hawks,14,"Wakatabe, Kenichi",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21623885
+1995,Regular Season,Hanshin Tigers,20,"Kakuri, Tateo",P,30,35,33,0.091,0.118,0.091,0.209,0,1,3,3,0,0,0,3,0,0,1,0,18,0,0,1,0,21623887
+1995,Regular Season,Fukuoka Daiei Hawks,37,"Thigpen, Bobby",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21623889
+1995,Regular Season,Chiba Lotte Marines,29,"Naito, Naoyuki",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723864
+1995,Japan Series,Orix Bluewave,5,"Suguro, Hironori",SS,2,,3,0.333,,0.333,,,0,1,1,0,0,0,1,0,,0,,1,,,,,21723866
+1995,Regular Season,Orix Bluewave,5,"Suguro, Hironori",SS,117,313,267,0.225,0.273,0.285,0.558,28,21,60,46,13,0,1,76,2,0,18,2,66,4,0,27,1,21723866
+1995,Regular Season,Hiroshima Toyo Carp,18,"Sasaoka, Shinji",P,46,33,30,0.200,0.200,0.300,0.500,2,5,6,3,3,0,0,9,0,0,0,0,12,0,0,3,0,21723881
+1995,Japan Series,Yakult Swallows,3,"O'Malley, Tom",1B,5,,17,0.529,,0.941,,,4,9,6,1,0,2,16,0,,7,,4,,,,,21723883
+1995,Regular Season,Yakult Swallows,3,"O'Malley, Tom",1B,125,524,421,0.302,0.429,0.570,0.999,83,87,127,76,20,0,31,240,6,6,96,23,57,8,2,0,5,21723883
+1995,Regular Season,Nippon-Ham Fighters,48,"Shimazaki, Takeshi",P,51,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723885
+1995,Regular Season,Chunichi Dragons,41,"Torigoe, Yusuke",SS,75,178,159,0.195,0.260,0.245,0.505,16,8,31,27,2,0,2,39,1,2,13,4,48,2,1,5,0,21723889
+1995,Regular Season,Yomiuri Giants,50,"Goto, Koji",PH,51,81,67,0.343,0.457,0.567,1.024,19,9,23,16,3,0,4,38,8,3,10,1,11,0,4,0,0,21823868
+1995,Regular Season,Yomiuri Giants,10,"Yoshioka, Yuji",3B,30,104,91,0.209,0.269,0.374,0.643,9,18,19,12,3,0,4,34,0,0,8,0,17,2,1,0,4,21823881
+1995,Regular Season,Hanshin Tigers,0,"Nagashima, Kiyoyuki",PH,67,88,74,0.243,0.352,0.257,0.609,8,4,18,17,1,0,0,19,1,0,13,0,18,2,0,0,1,21923861
+1995,Regular Season,Nippon-Ham Fighters,13,"Nagadomi, Hiroshi",P,44,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21923862
+1995,Japan Series,Orix Bluewave,37,"Kazaoka, Naoyuki",2B,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,21923866
+1995,Regular Season,Orix Bluewave,37,"Kazaoka, Naoyuki",2B,64,51,39,0.103,0.239,0.103,0.342,3,2,4,4,0,0,0,4,3,1,4,0,8,1,3,5,0,21923866
+1995,Regular Season,Seibu Lions,28,"Takeshita, Jun",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21923885
+1995,Regular Season,Hiroshima Toyo Carp,50,"Kawada, Yusuke",PH,71,126,110,0.164,0.270,0.255,0.525,16,10,18,13,2,1,2,28,5,0,15,0,35,0,1,0,0,23423868
+1995,Regular Season,Fukuoka Daiei Hawks,62,"Kawagoe, Toru",C,36,102,91,0.253,0.299,0.308,0.607,4,8,23,18,5,0,0,28,1,0,6,0,21,0,0,5,0,23723868
+1995,Regular Season,Hiroshima Toyo Carp,15,"Katase, Kiyotoshi",P,16,10,10,0.200,0.200,0.200,0.400,0,0,2,2,0,0,0,2,0,0,0,0,3,0,0,0,0,23923868
+1995,Japan Series,Yakult Swallows,0,"Jo, Tomohiro",LF,3,,3,0.333,,0.667,,,0,1,0,1,0,0,2,0,,0,,1,,,,,25223868
+1995,Regular Season,Yakult Swallows,0,"Jo, Tomohiro",LF,71,133,107,0.243,0.336,0.327,0.663,24,10,26,20,4,1,1,35,11,3,11,0,12,2,4,11,0,25223868
+1995,Regular Season,Kintetsu Buffaloes,36,"Nobayashi, Hiroki",3B,19,22,20,0.150,0.190,0.200,0.390,0,1,3,2,1,0,0,4,0,0,1,0,6,0,0,1,0,25623868
+1995,Regular Season,Orix Bluewave,36,"Horie, Kenji",3B,2,6,4,0.500,0.500,0.500,1.000,1,1,2,2,0,0,0,2,0,0,1,0,1,0,0,0,1,25723868
+1995,Japan Series,Yakult Swallows,17,"Kawasaki, Kenjiro",P,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,25923868
+1995,Regular Season,Yakult Swallows,17,"Kawasaki, Kenjiro",P,14,8,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,25923868
+1995,Regular Season,Seibu Lions,12,"Kakiuchi, Tetsuya",LF,95,339,305,0.216,0.288,0.400,0.688,40,37,66,40,10,2,14,122,2,3,27,2,107,5,4,2,1,27123868
+1995,Regular Season,Chunichi Dragons,50,"Ninomiya, Masami",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31033860
+1995,Regular Season,Nippon-Ham Fighters,2,"Suzuki, Yoshihiro",RF,58,139,124,0.169,0.246,0.226,0.472,12,3,21,15,5,1,0,28,1,3,10,4,27,2,3,1,1,31033868
+1995,Regular Season,Chiba Lotte Marines,16,"Enoki, Yasuhiro",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31033883
+1995,Regular Season,Nippon-Ham Fighters,49,"Nishiura, Katsuhiro",PH,7,12,11,0.000,0.083,0.000,0.083,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,31033887
+1995,Regular Season,Yokohama BayStars,0,"Manei, Takashi",SS,42,49,43,0.163,0.250,0.279,0.529,9,1,7,5,0,1,1,12,2,0,5,0,3,0,0,1,0,31033889
+1995,Regular Season,Kintetsu Buffaloes,25,"Adachi, Toshiya",SS,6,9,9,0.111,0.111,0.111,0.222,0,0,1,1,0,0,0,1,0,0,0,0,5,0,0,0,0,31133860
+1995,Regular Season,Chiba Lotte Marines,1,"Aiko, Takeshi",1B,46,121,105,0.181,0.271,0.276,0.547,6,7,19,13,4,0,2,29,1,0,12,3,27,4,1,3,0,31133863
+1995,Regular Season,Chunichi Dragons,17,"Uehara, Akira",P,3,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,31133866
+1995,Regular Season,Seibu Lions,25,"Abe, Osamu",PH,32,48,47,0.106,0.125,0.170,0.295,2,4,5,4,0,0,1,8,0,0,1,1,18,2,0,0,0,31133869
+1995,Regular Season,Hiroshima Toyo Carp,47,"Akimura, Norihiro",P,15,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,31133881
+1995,Regular Season,Yakult Swallows,16,"Ishii, Kazuhisa",P,41,55,49,0.102,0.120,0.163,0.283,2,3,5,4,0,0,1,8,0,0,1,0,21,1,0,5,0,31133885
+1995,Regular Season,Seibu Lions,14,"Ishii, Takashi",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31133889
+1995,Regular Season,Chunichi Dragons,8,"Hikono, Toshikatsu",RF,93,213,181,0.215,0.327,0.287,0.614,14,20,39,28,10,0,1,52,0,1,27,1,28,6,3,2,0,31233860
+1995,Regular Season,Seibu Lions,21,"Murata, Katsuyoshi",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233866
+1995,Regular Season,Fukuoka Daiei Hawks,48,"Nishijima, Takayuki",RF,4,11,11,0.182,0.182,0.182,0.364,1,0,2,2,0,0,0,2,1,0,0,0,2,1,0,0,0,31233881
+1995,Regular Season,Hiroshima Toyo Carp,41,"Kimura, Takuya",LF,7,7,7,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,31233883
+1995,Regular Season,Yakult Swallows,37,"Nishioka, Hiroshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233885
+1995,Regular Season,Orix Bluewave,61,"Makino, Rui",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233887
+1995,Regular Season,Chunichi Dragons,40,"Ono, Hisashi",LF,28,33,27,0.185,0.258,0.370,0.628,4,5,5,2,2,0,1,10,2,1,3,0,5,0,0,2,1,31333860
+1995,Regular Season,Orix Bluewave,10,"Okada, Akinobu",PH,32,46,39,0.179,0.304,0.179,0.483,3,2,7,7,0,0,0,7,0,0,7,0,9,1,0,0,0,31333861
+1995,Regular Season,Yokohama BayStars,53,"Otsuka, Yoshiki",PH,34,39,36,0.194,0.256,0.444,0.700,4,9,7,2,3,0,2,16,0,0,2,0,10,3,1,0,0,31333862
+1995,Japan Series,Yakult Swallows,58,"Yamaguchi, Shigeyuki",3B,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31333866
+1995,Regular Season,Yakult Swallows,58,"Yamaguchi, Shigeyuki",3B,77,28,20,0.200,0.385,0.200,0.585,5,1,4,4,0,0,0,4,1,0,6,0,3,0,0,2,0,31333866
+1995,Regular Season,Seibu Lions,24,"Ono, Kazuyoshi",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333869
+1995,Regular Season,Nippon-Ham Fighters,38,"Iwamoto, Tsutomu",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333881
+1995,Regular Season,Kintetsu Buffaloes,13,"Esaka, Masaaki",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333885
+1995,Japan Series,Orix Bluewave,28,"Hoshino, Nobuyuki",P,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,31433860
+1995,Regular Season,Orix Bluewave,28,"Hoshino, Nobuyuki",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31433860
+1995,Regular Season,Yomiuri Giants,17,"Makihara, Hiromi",P,28,69,60,0.067,0.082,0.083,0.165,1,3,4,3,1,0,0,5,0,0,0,0,29,3,1,8,0,31433867
+1995,Regular Season,Yomiuri Giants,19,"Kida, Masao",P,41,39,38,0.211,0.211,0.342,0.553,3,3,8,5,2,0,1,13,0,0,0,0,14,0,0,1,0,31433868
+1995,Regular Season,Fukuoka Daiei Hawks,39,"Mitchell, Kevin",LF,37,149,130,0.300,0.389,0.531,0.920,17,28,39,25,6,0,8,69,0,0,19,2,27,3,0,0,0,31433880
+1995,Japan Series,Orix Bluewave,2,"Baba, Toshifumi",3B,5,,18,0.222,,0.222,,,0,4,4,0,0,0,4,0,,3,,3,,,,,31433881
+1995,Regular Season,Orix Bluewave,2,"Baba, Toshifumi",3B,115,404,344,0.262,0.320,0.328,0.648,25,33,90,72,14,3,1,113,4,2,28,0,51,4,2,29,1,31433881
+1995,Regular Season,Fukuoka Daiei Hawks,52,"Ashikaga, Yutaka",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31433883
+1995,Regular Season,Hanshin Tigers,24,"Hiyama, Shinjiro",RF,115,338,305,0.249,0.305,0.397,0.702,34,36,76,49,17,2,8,121,3,2,20,1,67,10,6,4,3,31433885
+1995,Regular Season,Yakult Swallows,45,"Yamamoto, Tatsuki",P,7,2,1,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,31433887
+1995,Regular Season,Kintetsu Buffaloes,33,"Stevens, Lee",1B,129,527,476,0.246,0.311,0.456,0.767,54,70,117,64,29,1,23,217,0,0,46,4,129,13,1,0,4,31433889
+1995,Regular Season,Yokohama BayStars,18,"Okamoto, Toru",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31533866
+1995,Regular Season,Chunichi Dragons,49,"Sakai, Tadaharu",SS,54,63,58,0.259,0.306,0.293,0.599,6,2,15,13,2,0,0,17,1,0,4,0,8,2,0,1,0,31533868
+1995,Regular Season,Chiba Lotte Marines,54,"Kuroki, Tomohiro",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31533880
+1995,Regular Season,Yakult Swallows,21,"Osaka, Katsuhito",P,8,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,31533883
+1995,Regular Season,Seibu Lions,48,"Kuroda, Satoshi",2B,1,4,4,0.500,0.500,0.750,1.250,0,1,2,1,1,0,0,3,0,0,0,0,1,0,0,0,0,31533887
+1995,Regular Season,Fukuoka Daiei Hawks,9,"Kokubo, Hiroki",2B,130,538,465,0.286,0.366,0.548,0.914,72,76,133,76,20,9,28,255,14,4,50,7,94,16,12,5,6,31533889
+1995,Regular Season,Seibu Lions,46,"Yokota, Masashi",PH,14,20,19,0.158,0.158,0.211,0.369,0,0,3,2,1,0,0,4,0,0,0,0,1,0,0,1,0,31633860
+1995,Regular Season,Yomiuri Giants,24,"Ishige, Hiroshi",P,38,8,7,0.143,0.250,0.143,0.393,0,0,1,1,0,0,0,1,0,0,1,0,6,0,0,0,0,31633868
+1995,Regular Season,Yokohama BayStars,47,"Birkbeck, Mike",P,8,13,13,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,31633880
+1995,Regular Season,Hiroshima Toyo Carp,1,"Maeda, Tomonori",CF,25,99,86,0.256,0.343,0.465,0.808,15,11,22,13,4,1,4,40,3,0,10,0,12,1,2,0,1,31633881
+1995,Regular Season,Kintetsu Buffaloes,2,"Suzuki, Takahisa",RF,123,481,423,0.253,0.332,0.395,0.727,35,50,107,79,12,0,16,167,1,0,45,1,69,11,6,5,2,31733862
+1995,Regular Season,Hiroshima Toyo Carp,0,"Ko, Shinji",2B,39,42,37,0.378,0.425,0.514,0.939,5,4,14,10,3,1,0,19,1,0,3,0,6,1,0,2,0,31733866
+1995,Regular Season,Nippon-Ham Fighters,3,"Shirai, Kazuyuki",2B,32,80,62,0.242,0.377,0.306,0.683,9,2,15,12,2,1,0,19,4,0,14,0,11,2,0,3,1,31733869
+1995,Regular Season,Fukuoka Daiei Hawks,2,"Jojima, Kenji",C,12,13,12,0.167,0.231,0.167,0.398,2,1,2,2,0,0,0,2,0,0,1,0,4,0,0,0,0,31733880
+1995,Regular Season,Chiba Lotte Marines,14,"Komiyama, Satoru",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733881
+1995,Regular Season,Hanshin Tigers,62,"Shiotani, Kazuhiko",C,8,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31733887
+1995,Regular Season,Seibu Lions,6,"Tanabe, Norio",3B,117,389,348,0.256,0.299,0.353,0.652,38,40,89,68,14,1,6,123,8,6,20,0,55,16,3,14,4,31933860
+1995,Regular Season,Seibu Lions,5,"Tsuji, Hatsuhiko",2B,107,370,307,0.238,0.342,0.296,0.638,31,20,73,61,8,2,2,91,7,8,45,0,30,4,4,13,1,31933869
+1995,Regular Season,Kintetsu Buffaloes,17,"Nakagawa, Takaharu",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31933880
+1995,Regular Season,Nippon-Ham Fighters,31,"Taguchi, Masanori",C,82,220,200,0.200,0.255,0.305,0.560,15,13,40,29,6,0,5,61,0,1,14,1,68,10,1,4,1,31933887
+1995,Regular Season,Yokohama BayStars,61,"Nishizawa, Yosuke",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31933889
+1995,Regular Season,Hanshin Tigers,30,"Ota, Takashi",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33133868
+1995,Regular Season,Fukuoka Daiei Hawks,40,"Wakisaka, Koji",3B,10,19,17,0.118,0.211,0.118,0.329,1,0,2,2,0,0,0,2,0,1,1,0,6,0,1,0,0,33133881
+1995,Regular Season,Orix Bluewave,29,"Watabe, Takashi",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33133883
+1995,Regular Season,Hiroshima Toyo Carp,32,"Nishiyama, Shuji",C,83,236,199,0.211,0.298,0.377,0.675,19,27,42,23,10,4,5,75,5,2,22,6,56,4,3,11,1,33233868
+1995,Regular Season,Fukuoka Daiei Hawks,22,"Yasuda, Hideyuki",C,21,35,35,0.257,0.257,0.371,0.628,1,3,9,6,2,1,0,13,0,0,0,0,10,1,0,0,0,33933868
+1995,Regular Season,Kintetsu Buffaloes,19,"Akahori, Motoyuki",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35433868
+1995,Japan Series,Orix Bluewave,23,"Ogawa, Hirofumi",2B,5,,18,0.278,,0.500,,,1,5,3,1,0,1,9,1,,1,,5,,,,,37133868
+1995,Regular Season,Orix Bluewave,23,"Ogawa, Hirofumi",2B,120,422,379,0.272,0.324,0.388,0.712,44,38,103,74,20,3,6,147,0,3,30,0,66,12,0,11,2,37133868
+1995,Regular Season,Chiba Lotte Marines,8,"Hirano, Ken",RF,61,141,120,0.225,0.293,0.258,0.551,12,12,27,23,4,0,0,31,0,2,12,0,30,7,0,8,1,41043863
+1995,Regular Season,Nippon-Ham Fighters,57,"Mori, Noriyuki",PH,23,43,36,0.111,0.220,0.111,0.331,4,1,4,4,0,0,0,4,0,0,4,0,10,1,1,2,0,41043864
+1995,Regular Season,Fukuoka Daiei Hawks,38,"Yano, Minoru",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043865
+1995,Regular Season,Yomiuri Giants,66,"Deguchi, Yudai",2B,9,24,19,0.263,0.417,0.474,0.891,3,4,5,3,1,0,1,9,2,2,5,0,6,0,0,0,0,41043881
+1995,Regular Season,Hiroshima Toyo Carp,63,"Furukawa, Yuichi",PH,2,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,41043887
+1995,Regular Season,Fukuoka Daiei Hawks,0,"Ishige, Hiromichi",3B,52,134,120,0.200,0.260,0.275,0.535,11,11,24,17,6,0,1,33,0,1,8,0,31,4,2,3,1,41143863
+1995,Regular Season,Yokohama BayStars,9,"Iizuka, Tomiji",PH,15,18,16,0.063,0.167,0.063,0.230,0,0,1,1,0,0,0,1,0,0,2,0,5,0,0,0,0,41143869
+1995,Regular Season,Chiba Lotte Marines,36,"Omura, Saburo",LF,28,61,48,0.188,0.333,0.229,0.562,4,2,9,7,2,0,0,11,3,4,11,0,17,0,0,1,1,41143880
+1995,Regular Season,Kintetsu Buffaloes,3,"Ishii, Hiro",1B,47,178,152,0.276,0.371,0.441,0.812,20,17,42,29,7,0,6,67,1,0,23,2,22,5,1,0,2,41143881
+1995,Regular Season,Nippon-Ham Fighters,52,"Ogai, Yasufumi",LF,28,21,16,0.125,0.222,0.125,0.347,2,1,2,2,0,0,0,2,2,2,2,0,5,0,0,3,0,41143889
+1995,Regular Season,Kintetsu Buffaloes,27,"Furukubo, Kenji",C,113,340,299,0.191,0.241,0.284,0.525,18,35,57,36,17,1,3,85,2,1,19,0,89,4,1,20,1,41243860
+1995,Regular Season,Fukuoka Daiei Hawks,49,"Yoshida, Shuji",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243868
+1995,Regular Season,Seibu Lions,7,"Jackson, Darrin",RF,128,554,506,0.289,0.338,0.474,0.812,66,68,146,95,28,3,20,240,9,9,34,1,104,9,4,9,1,41243880
+1995,Regular Season,Seibu Lions,34,"Hashimoto, Takehiro",P,58,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243881
+1995,Regular Season,Seibu Lions,3,"Kiyohara, Kazuhiro",DH,118,505,404,0.245,0.392,0.478,0.870,63,64,99,58,13,3,25,193,2,0,90,1,111,6,9,0,2,41343862
+1995,Regular Season,Chunichi Dragons,44,"Koyama, Kazuyoshi",LF,15,48,43,0.186,0.255,0.372,0.627,3,2,8,4,2,0,2,16,1,1,4,1,15,2,0,1,0,41343864
+1995,Regular Season,Chunichi Dragons,6,"Kanemura, Yoshiaki",3B,28,88,79,0.177,0.244,0.266,0.510,4,5,14,9,4,0,1,21,0,1,7,0,15,6,0,2,0,41343865
+1995,Regular Season,Chiba Lotte Marines,59,"Kishikawa, Takatoshi",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343880
+1995,Regular Season,Yomiuri Giants,32,"Omori, Takeshi",PH,18,31,29,0.172,0.226,0.310,0.536,2,3,5,3,1,0,1,9,0,0,0,0,4,0,2,0,0,41343881
+1995,Regular Season,Chunichi Dragons,2,"Yano, Akihiro",C,57,123,115,0.243,0.293,0.322,0.615,14,5,28,23,2,2,1,37,1,0,7,1,31,5,1,0,0,41343883
+1995,Regular Season,Hiroshima Toyo Carp,10,"Kanemoto, Tomoaki",LF,104,438,369,0.274,0.381,0.515,0.896,72,67,101,61,15,1,24,190,14,10,61,2,78,5,5,0,3,41343885
+1995,Regular Season,Yokohama BayStars,33,"Kawasaki, Yoshifumi",C,2,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,41343889
+1995,Regular Season,Yomiuri Giants,21,"Miyamoto, Kazutomo",P,21,36,31,0.290,0.313,0.355,0.668,1,0,9,7,2,0,0,11,0,0,1,0,9,2,0,4,0,41443860
+1995,Regular Season,Yokohama BayStars,46,"Miura, Daisuke",P,27,54,46,0.130,0.146,0.130,0.276,2,3,6,6,0,0,0,6,0,0,1,0,22,1,0,6,1,41443885
+1995,Regular Season,Nippon-Ham Fighters,18,"Kono, Hirofumi",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543860
+1995,Japan Series,Orix Bluewave,44,"Takahashi, Satoshi",LF,2,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,41543864
+1995,Regular Season,Orix Bluewave,44,"Takahashi, Satoshi",LF,50,147,126,0.262,0.367,0.452,0.819,17,14,33,20,7,1,5,57,1,0,20,1,31,1,1,0,0,41543864
+1995,Regular Season,Yokohama BayStars,17,"Morita, Koki",P,57,9,7,0.143,0.250,0.143,0.393,2,0,1,1,0,0,0,1,0,0,1,0,3,0,0,1,0,41543866
+1995,Regular Season,Nippon-Ham Fighters,59,"Sakurai, Yukihiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543880
+1995,Regular Season,Yomiuri Giants,56,"Sugiyama, Naoki",C,30,74,64,0.297,0.366,0.297,0.663,3,1,19,19,0,0,0,19,0,0,6,3,15,1,1,3,0,41643868
+1995,Regular Season,Kintetsu Buffaloes,10,"Mizuguchi, Eiji",SS,107,404,365,0.268,0.323,0.304,0.627,31,26,98,90,5,1,2,111,6,2,30,1,49,7,1,5,3,41643883
+1995,Regular Season,Chunichi Dragons,68,"Wakabayashi, Takanobu",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41643885
+1995,Regular Season,Hiroshima Toyo Carp,57,"Medina, Luis",1B,35,110,103,0.223,0.264,0.369,0.633,9,11,23,16,3,0,4,38,0,0,5,0,35,3,1,0,1,41643887
+1995,Regular Season,Chiba Lotte Marines,15,"So, Katsuo",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743860
+1995,Regular Season,Nippon-Ham Fighters,6,"Tanaka, Yukio",SS,130,555,488,0.291,0.368,0.506,0.874,76,80,142,88,28,1,25,247,1,4,58,7,77,10,4,0,5,41743862
+1995,Regular Season,Nippon-Ham Fighters,22,"Tamura, Fujio",C,80,197,156,0.186,0.304,0.244,0.548,9,9,29,22,6,0,1,38,0,0,26,0,31,8,1,13,1,41743863
+1995,Japan Series,Orix Bluewave,38,"Takada, Makoto",PH,3,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41743866
+1995,Regular Season,Orix Bluewave,38,"Takada, Makoto",PH,49,91,82,0.195,0.233,0.232,0.465,6,4,16,14,1,1,0,19,0,1,4,0,21,2,0,5,0,41743866
+1995,Regular Season,Yomiuri Giants,54,"Sasaki, Akiyoshi",2B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743881
+1995,Regular Season,Seibu Lions,17,"Shintani, Hiroshi",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743885
+1995,Regular Season,Hiroshima Toyo Carp,2,"Seto, Terunobu",C,78,241,203,0.256,0.327,0.325,0.652,24,22,52,42,8,0,2,66,2,1,20,4,42,4,2,15,1,41843883
+1995,Japan Series,Orix Bluewave,8,"Fujii, Yasuo",RF,5,,10,0.200,,0.300,,,0,2,1,1,0,0,3,0,,3,,3,,,,,41943864
+1995,Regular Season,Orix Bluewave,8,"Fujii, Yasuo",RF,116,403,334,0.237,0.360,0.410,0.770,50,49,79,50,14,1,14,137,0,1,65,7,82,8,1,0,3,41943864
+1995,Japan Series,Orix Bluewave,46,"Kiyohara, Yuichi",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41943866
+1995,Regular Season,Orix Bluewave,46,"Kiyohara, Yuichi",P,43,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943866
+1995,Regular Season,Nippon-Ham Fighters,36,"Fujishima, Seigo",CF,52,70,59,0.136,0.261,0.203,0.464,5,6,8,6,1,0,1,12,3,2,10,0,19,2,0,1,0,41943868
+1995,Regular Season,Yokohama BayStars,34,"Fukumori, Kazuo",P,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41943880
+1995,Regular Season,Orix Bluewave,49,"Sugimoto, Naofumi",C,2,5,5,0.400,0.400,0.600,1.000,0,0,2,1,1,0,0,3,0,0,0,0,1,0,0,0,0,41943881
+1995,Regular Season,Yokohama BayStars,63,"Tokano, Hisashi",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943887
+1995,Regular Season,Hiroshima Toyo Carp,7,"Nomura, Kenjiro",SS,131,611,550,0.315,0.380,0.560,0.940,109,75,173,107,29,5,32,308,30,8,53,7,60,4,6,0,2,43243868
+1995,Japan Series,Yakult Swallows,44,"Aoyagi, Susumu",PH,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,43643868
+1995,Regular Season,Yakult Swallows,44,"Aoyagi, Susumu",PH,4,5,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,43643868
+1995,Regular Season,Chunichi Dragons,60,"Matsui, Takamasa",PH,11,13,11,0.182,0.308,0.545,0.853,1,1,2,0,1,0,1,6,0,0,2,0,5,0,0,0,0,43743868
+1995,Regular Season,Chiba Lotte Marines,2,"Hirai, Mitsuchika",RF,127,487,416,0.260,0.335,0.349,0.684,45,49,108,83,17,4,4,145,6,5,46,1,71,5,3,18,4,43843868
+1995,Regular Season,Kintetsu Buffaloes,7,"Nakane, Hitoshi",DH,4,13,10,0.300,0.462,0.400,0.862,2,0,3,2,1,0,0,4,2,1,3,0,2,0,0,0,0,45643868
+1995,Regular Season,Chiba Lotte Marines,55,"Omura, Iwao",RF,37,103,96,0.271,0.304,0.469,0.773,8,23,26,15,7,0,4,45,0,0,5,0,26,3,0,1,1,47143868
+1995,Regular Season,Nippon-Ham Fighters,26,"Nishimura, Motofumi",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053860
+1995,Regular Season,Yokohama BayStars,29,"Hara, Shinji",PH,10,9,8,0.125,0.222,0.125,0.347,1,0,1,1,0,0,0,1,0,0,1,0,2,0,0,0,0,51053863
+1995,Japan Series,Yakult Swallows,14,"Miyamoto, Kenji",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51053865
+1995,Regular Season,Yakult Swallows,14,"Miyamoto, Kenji",P,30,8,4,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,2,0,51053865
+1995,Japan Series,Yakult Swallows,6,"Miyamoto, Shinya",2B,5,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,51053880
+1995,Regular Season,Yakult Swallows,6,"Miyamoto, Shinya",2B,67,57,50,0.220,0.304,0.260,0.564,13,4,11,9,2,0,0,13,3,1,6,0,9,0,0,1,0,51053880
+1995,Japan Series,Orix Bluewave,41,"Takahashi, Koichi",P,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,51053881
+1995,Regular Season,Orix Bluewave,41,"Takahashi, Koichi",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053881
+1995,Regular Season,Chiba Lotte Marines,45,"Jozume, Masahiko",C,112,310,265,0.185,0.227,0.249,0.476,24,20,49,38,8,0,3,66,3,0,13,0,64,5,2,28,2,51053883
+1995,Regular Season,Yomiuri Giants,47,"Nishiyama, Kazutaka",P,20,5,2,0.000,0.500,0.000,0.500,1,0,0,0,0,0,0,0,0,0,2,0,2,0,0,1,0,51053887
+1995,Regular Season,Nippon-Ham Fighters,15,"Igarashi, Shinichi",PH,58,92,85,0.306,0.333,0.329,0.662,1,8,26,24,2,0,0,28,0,0,4,0,10,1,0,2,1,51153861
+1995,Japan Series,Yakult Swallows,10,"Arai, Yukio",LF,4,,8,0.250,,0.250,,,0,2,2,0,0,0,2,0,,2,,1,,,,,51153862
+1995,Regular Season,Yakult Swallows,10,"Arai, Yukio",LF,62,203,174,0.253,0.335,0.368,0.703,16,11,44,30,10,2,2,64,4,1,22,1,17,1,0,6,1,51153862
+1995,Regular Season,Fukuoka Daiei Hawks,1,"Akiyama, Koji",CF,122,529,476,0.267,0.331,0.456,0.787,61,66,127,80,25,1,21,217,13,4,46,5,101,17,2,0,5,51153863
+1995,Regular Season,Yomiuri Giants,28,"Awano, Hideyuki",P,24,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,51153864
+1995,Regular Season,Nippon-Ham Fighters,19,"Atsuzawa, Kazuyuki",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51153880
+1995,Regular Season,Hiroshima Toyo Carp,36,"Asai, Itsuki",RF,63,174,152,0.303,0.384,0.474,0.858,22,16,46,33,6,1,6,72,5,3,20,4,31,3,0,2,0,51153881
+1995,Regular Season,Chiba Lotte Marines,33,"Ando, Manabu",CF,12,21,20,0.200,0.238,0.200,0.438,2,1,4,4,0,0,0,4,0,1,1,0,6,0,0,0,0,51153887
+1995,Regular Season,Nippon-Ham Fighters,5,"Ide, Tatsuya",CF,129,475,421,0.228,0.283,0.335,0.618,45,46,96,71,14,2,9,141,12,5,33,0,109,2,1,16,4,51153889
+1995,Regular Season,Fukuoka Daiei Hawks,29,"Yamamoto, Kazunori",DH,46,157,139,0.201,0.282,0.230,0.512,4,7,28,24,4,0,0,32,0,0,14,0,20,2,2,1,1,51253861
+1995,Regular Season,Fukuoka Daiei Hawks,3,"Matsunaga, Hiromi",3B,87,363,320,0.238,0.319,0.319,0.638,28,21,76,58,13,2,3,102,5,3,38,0,61,6,1,3,1,51253863
+1995,Regular Season,Kintetsu Buffaloes,15,"Yamasaki, Shintaro",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253864
+1995,Regular Season,Yomiuri Giants,7,"Yoshimura, Sadaaki",PH,53,75,66,0.288,0.373,0.500,0.873,5,13,19,13,2,0,4,33,1,0,9,1,8,4,0,0,0,51253865
+1995,Regular Season,Fukuoka Daiei Hawks,11,"Yoshida, Toyohiko",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253866
+1995,Regular Season,Yokohama BayStars,20,"Yone, Masahide",P,22,10,9,0.111,0.111,0.111,0.222,1,0,1,1,0,0,0,1,0,0,0,0,4,1,0,1,0,51253880
+1995,Regular Season,Kintetsu Buffaloes,21,"Nishimura, Tatsuji",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253881
+1995,Regular Season,Nippon-Ham Fighters,55,"Nemoto, Ryuki",RF,4,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51253885
+1995,Regular Season,Yomiuri Giants,55,"Matsui, Hideki",RF,131,569,501,0.283,0.363,0.481,0.844,76,80,142,88,31,1,22,241,9,7,62,1,93,12,2,2,2,51253887
+1995,Regular Season,Yomiuri Giants,5,"Okazaki, Kaoru",2B,84,259,233,0.206,0.277,0.288,0.565,23,14,48,37,6,2,3,67,2,2,22,1,37,7,1,3,0,51353865
+1995,Regular Season,Kintetsu Buffaloes,00,"Oshima, Koichi",2B,105,322,271,0.192,0.301,0.229,0.530,29,20,52,44,6,2,0,62,1,1,40,4,41,4,3,6,2,51353887
+1995,Regular Season,Yomiuri Giants,37,"Okajima, Hideki",P,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,51353889
+1995,Regular Season,Nippon-Ham Fighters,40,"Yamashita, Kazuhiko",C,72,103,88,0.205,0.300,0.205,0.505,6,6,18,18,0,0,0,18,1,0,11,0,13,2,1,3,0,51453862
+1995,Regular Season,Kintetsu Buffaloes,34,"Kinoshita, Fuminobu",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51453866
+1995,Regular Season,Seibu Lions,41,"Watanabe, Hisanobu",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51453869
+1995,Regular Season,Chiba Lotte Marines,42,"Hillman, Eric",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51453880
+1995,Regular Season,Kintetsu Buffaloes,56,"Hirae, Iwao",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51453881
+1995,Regular Season,Yomiuri Giants,25,"Kawaguchi, Kazuhisa",P,18,37,36,0.111,0.135,0.139,0.274,2,2,4,3,1,0,0,5,0,0,1,0,19,1,0,0,0,51553863
+1995,Regular Season,Fukuoka Daiei Hawks,21,"Kudo, Kimiyasu",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553865
+1995,Regular Season,Chunichi Dragons,61,"Kitano, Katsunori",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553866
+1995,Regular Season,Hanshin Tigers,22,"Kido, Katsuhiko",C,50,108,91,0.176,0.283,0.198,0.481,4,6,16,14,2,0,0,18,1,0,14,1,22,4,0,2,1,51553867
+1995,Regular Season,Chunichi Dragons,9,"Maehara, Hiroyuki",3B,69,128,112,0.232,0.283,0.348,0.631,13,9,26,19,4,0,3,39,1,0,7,0,24,4,1,8,0,51553868
+1995,Regular Season,Yomiuri Giants,45,"Komura, Yoshikazu",2B,18,58,53,0.358,0.393,0.377,0.770,8,1,19,18,1,0,0,20,3,2,3,0,11,0,0,2,0,51553880
+1995,Regular Season,Hanshin Tigers,13,"Kasai, Minoru",P,16,6,4,0.000,0.200,0.000,0.200,0,1,0,0,0,0,0,0,0,0,1,0,3,0,0,1,0,51553881
+1995,Japan Series,Yakult Swallows,22,"Takatsu, Shingo",P,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51553883
+1995,Regular Season,Yakult Swallows,22,"Takatsu, Shingo",P,39,7,6,0.333,0.333,0.333,0.666,0,3,2,2,0,0,0,2,0,0,0,0,4,0,0,1,0,51553883
+1995,Regular Season,Hanshin Tigers,8,"Kuji, Teruyoshi",SS,123,409,334,0.266,0.381,0.332,0.713,32,24,89,74,9,5,1,111,3,8,62,6,49,1,0,13,0,51553885
+1995,Regular Season,Chunichi Dragons,46,"Koike, Takuichi",P,33,38,36,0.083,0.083,0.083,0.166,1,1,3,3,0,0,0,3,0,0,0,0,17,1,0,2,0,51553887
+1995,Japan Series,Yakult Swallows,24,"Yoshii, Masato",P,1,,1,1.000,,1.000,,,0,1,1,0,0,0,1,0,,0,,0,,,,,51653860
+1995,Regular Season,Yakult Swallows,24,"Yoshii, Masato",P,34,49,48,0.042,0.042,0.042,0.084,0,1,2,2,0,0,0,2,0,0,0,0,22,1,0,1,0,51653860
+1995,Regular Season,Nippon-Ham Fighters,42,"Brito, Bernardo",DH,56,235,214,0.313,0.366,0.636,1.002,31,50,67,40,6,0,21,136,0,3,18,4,65,3,1,0,2,51653880
+1995,Regular Season,Kintetsu Buffaloes,14,"Sano, Shigeki",P,44,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51653883
+1995,Regular Season,Kintetsu Buffaloes,35,"Shimada, Akihiro",PH,16,17,14,0.000,0.176,0.000,0.176,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,0,51753860
+1995,Regular Season,Yokohama BayStars,30,"Deni, Tomori",P,10,7,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,51753864
+1995,Regular Season,Seibu Lions,40,"Takagi, Hiroyuki",2B,19,24,22,0.227,0.292,0.273,0.565,3,1,5,4,1,0,0,6,0,2,1,0,5,0,1,0,0,51753880
+1995,Regular Season,Hiroshima Toyo Carp,48,"Sato, Sadaharu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51753885
+1995,Regular Season,Hanshin Tigers,65,"Takanami, Fumikazu",PR,52,31,30,0.100,0.100,0.233,0.333,10,1,3,1,1,0,1,7,3,1,0,0,12,0,0,1,0,51753889
+1995,Regular Season,Yomiuri Giants,44,"Ogata, Koichi",2B,17,35,32,0.250,0.314,0.281,0.595,6,1,8,7,1,0,0,9,1,0,3,0,5,2,0,0,0,51853868
+1995,Regular Season,Chiba Lotte Marines,49,"Toyama, Shoji",PH,9,14,12,0.167,0.286,0.167,0.453,0,0,2,2,0,0,0,2,0,0,2,0,1,0,0,0,0,51953862
+1995,Regular Season,Seibu Lions,13,"Nishiguchi, Fumiya",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953880
+1995,Regular Season,Chunichi Dragons,66,"Shiigi, Takumi",C,27,66,60,0.217,0.288,0.383,0.671,5,6,13,7,4,0,2,23,0,0,6,1,13,4,0,0,0,51953881
+1995,Regular Season,Yakult Swallows,50,"Takanashi, Toshihiro",1B,3,6,6,0.167,0.167,0.667,0.834,1,3,1,0,0,0,1,4,0,0,0,0,1,0,0,0,0,51953885
+1995,Regular Season,Hanshin Tigers,26,"Takeuchi, Yoshiya",P,41,43,36,0.083,0.108,0.167,0.275,2,3,3,2,0,0,1,6,0,0,0,0,18,2,1,6,0,51953887
+1995,Regular Season,Yokohama BayStars,2,"Haru, Toshio",CF,100,434,378,0.310,0.384,0.397,0.781,59,29,117,96,14,2,5,150,9,8,43,1,55,3,4,7,2,51953889
+1995,Regular Season,Orix Bluewave,20,"Watanabe, Nobuhiko",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53153868
+1995,Regular Season,Hiroshima Toyo Carp,33,"Eto, Akira",3B,127,566,462,0.286,0.396,0.608,1.004,92,106,132,62,30,1,39,281,14,5,90,8,93,6,2,0,12,53253868
+1995,Regular Season,Hanshin Tigers,00,"Kameyama, Tsutomu",RF,19,60,54,0.185,0.254,0.241,0.495,2,2,10,8,1,1,0,13,1,1,5,0,18,1,0,1,0,53553868
+1995,Regular Season,Hanshin Tigers,46,"Murakami, Seiichi",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53753868
+1995,Regular Season,Hanshin Tigers,37,"Yonezaki, Kunji",PH,12,10,10,0.300,0.300,0.400,0.700,1,1,3,2,1,0,0,4,0,0,0,0,3,0,0,0,0,55653868
+1995,Japan Series,Orix Bluewave,26,"Ito, Takahide",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,0,,,,,55853868
+1995,Regular Season,Orix Bluewave,26,"Ito, Takahide",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55853868
+1995,Regular Season,Yokohama BayStars,32,"Inoe, Jun",PH,41,37,36,0.250,0.250,0.361,0.611,5,2,9,7,1,0,1,13,1,1,0,0,9,0,0,1,0,55953868
+1995,Regular Season,Chiba Lotte Marines,25,"Hiranuma, Sadaharu",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61063869
+1995,Regular Season,Yokohama BayStars,55,"Nagaike, Yasuo",PH,31,42,31,0.258,0.395,0.290,0.685,4,4,8,7,1,0,0,9,0,0,6,1,6,0,1,4,0,61063885
+1995,Regular Season,Yakult Swallows,48,"Furusawa, Jun",LF,3,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,61063887
+1995,Japan Series,Yakult Swallows,19,"Yamabe, Futoshi",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,61063889
+1995,Regular Season,Yakult Swallows,19,"Yamabe, Futoshi",P,38,60,57,0.211,0.224,0.298,0.522,1,7,12,8,3,1,0,17,0,0,1,0,26,0,0,2,0,61063889
+1995,Regular Season,Seibu Lions,31,"Ueda, Yukihiro",C,44,57,51,0.118,0.182,0.118,0.300,1,3,6,6,0,0,0,6,0,0,4,0,10,0,0,2,0,61163862
+1995,Regular Season,Yakult Swallows,28,"Ikeda, Chikafusa",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61163869
+1995,Regular Season,Chunichi Dragons,38,"Inoe, Kazuki",LF,11,24,23,0.130,0.167,0.130,0.297,0,1,3,3,0,0,0,3,0,0,1,0,9,1,0,0,0,61163881
+1995,Regular Season,Nippon-Ham Fighters,44,"Ueda, Yoshinori",RF,106,236,217,0.226,0.275,0.327,0.602,27,16,49,35,10,0,4,71,3,3,13,0,69,5,2,3,1,61163885
+1995,Regular Season,Nippon-Ham Fighters,35,"Imazeki, Masaru",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61163887
+1995,Regular Season,Hanshin Tigers,50,"Furumizo, Katsuyuki",P,45,11,7,0.000,0.125,0.000,0.125,1,0,0,0,0,0,0,0,0,0,1,0,4,1,0,3,0,61263860
+1995,Regular Season,Nippon-Ham Fighters,56,"Watanabe, Hiroshi",2B,116,443,407,0.246,0.277,0.307,0.584,37,45,100,83,12,2,3,125,14,6,16,0,66,5,3,13,4,61263864
+1995,Regular Season,Kintetsu Buffaloes,32,"Matsutani, Ryujiro",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61263868
+1995,Regular Season,Kintetsu Buffaloes,5,"Murakami, Takayuki",CF,105,315,284,0.236,0.290,0.391,0.681,25,32,67,44,10,5,8,111,7,3,20,0,71,4,3,5,3,61263869
+1995,Japan Series,Orix Bluewave,16,"Neel, Troy",DH,5,,13,0.308,,0.308,,,2,4,4,0,0,0,4,0,,0,,3,,,,,61263880
+1995,Regular Season,Orix Bluewave,16,"Neel, Troy",DH,122,504,418,0.244,0.369,0.490,0.859,55,70,102,54,20,1,27,205,1,4,74,5,130,11,10,0,2,61263880
+1995,Regular Season,Kintetsu Buffaloes,38,"Hatayama, Shunji",PH,9,10,10,0.100,0.100,0.100,0.200,0,0,1,1,0,0,0,1,0,0,0,0,5,0,0,0,0,61263881
+1995,Regular Season,Fukuoka Daiei Hawks,20,"Kimura, Keiji",P,55,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61263883
+1995,Regular Season,Fukuoka Daiei Hawks,8,"Hamana, Chihiro",SS,110,412,366,0.276,0.330,0.325,0.655,47,28,101,86,13,1,1,119,18,7,29,0,48,7,1,15,1,61263885
+1995,Regular Season,Chunichi Dragons,4,"Shimizu, Masaji",LF,110,288,255,0.271,0.327,0.365,0.692,34,20,69,55,9,0,5,93,8,8,22,1,34,3,0,10,1,61363868
+1995,Regular Season,Yakult Swallows,34,"Kitagawa, Tetsuya",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363880
+1995,Regular Season,Yomiuri Giants,41,"Kimura, Ryuji",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363887
+1995,Regular Season,Fukuoka Daiei Hawks,26,"Yamazaki, Kenichi",RF,80,134,123,0.228,0.265,0.317,0.582,11,12,28,19,8,0,1,39,0,3,6,0,25,3,1,2,2,61463860
+1995,Japan Series,Yakult Swallows,29,"Bross, Terry",P,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,61463880
+1995,Regular Season,Yakult Swallows,29,"Bross, Terry",P,32,57,55,0.091,0.091,0.109,0.200,0,3,5,4,1,0,0,6,0,0,0,0,29,3,0,2,0,61463880
+1995,Regular Season,Nippon-Ham Fighters,45,"Funayama, Yasushi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61463881
+1995,Regular Season,Kintetsu Buffaloes,12,"Koda, Isao",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563860
+1995,Regular Season,Yokohama BayStars,10,"Komada, Norihiro",1B,130,539,499,0.289,0.338,0.399,0.737,45,66,144,105,29,4,6,199,0,1,37,1,78,20,1,0,2,61563867
+1995,Regular Season,Chunichi Dragons,55,"Taiho, Yasuaki",1B,106,444,389,0.244,0.336,0.470,0.806,49,65,95,56,14,1,24,183,1,0,51,3,81,7,3,0,1,61563868
+1995,Regular Season,Seibu Lions,59,"Kitahara, Taiji",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563881
+1995,Regular Season,Yokohama BayStars,11,"Saito, Takashi",P,26,58,52,0.096,0.096,0.096,0.192,1,2,5,5,0,0,0,5,0,0,0,0,26,2,0,6,0,61563885
+1995,Regular Season,Fukuoka Daiei Hawks,7,"Sato, Shinichi",RF,7,4,4,0.250,0.250,0.250,0.500,1,0,1,1,0,0,0,1,1,0,0,0,2,0,0,0,0,61563887
+1995,Regular Season,Chiba Lotte Marines,7,"Minamibuchi, Tokitaka",2B,107,355,303,0.271,0.343,0.350,0.693,24,31,82,67,10,1,4,106,5,0,33,0,26,6,2,14,3,61663881
+1995,Regular Season,Chunichi Dragons,35,"Wakabayashi, Hiroyasu",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61663885
+1995,Regular Season,Yokohama BayStars,23,"Rose, Robert",2B,130,552,492,0.315,0.379,0.530,0.909,76,97,155,97,32,4,22,261,3,1,38,2,76,15,16,0,6,61663887
+1995,Regular Season,Chunichi Dragons,39,"Nakamura, Takeshi",C,94,335,301,0.256,0.327,0.369,0.696,26,32,77,59,10,0,8,111,2,3,31,1,57,11,1,2,0,61763864
+1995,Regular Season,Yokohama BayStars,22,"Sasaki, Kazuhiro",P,47,8,8,0.125,0.125,0.125,0.250,0,2,1,1,0,0,0,1,0,0,0,0,5,1,0,0,0,61763881
+1995,Japan Series,Orix Bluewave,15,"Nomura, Takahito",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,61763883
+1995,Regular Season,Orix Bluewave,15,"Nomura, Takahito",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61763883
+1995,Regular Season,Hanshin Tigers,64,"Yoshida, Hiroshi",LF,15,16,15,0.200,0.250,0.467,0.717,4,1,3,1,1,0,1,7,0,0,1,0,2,0,0,0,0,61863881
+1995,Regular Season,Hiroshima Toyo Carp,58,"Matsumoto, Takashi",C,6,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,61863883
+1995,Regular Season,Yomiuri Giants,00,"Yashiki, Kaname",LF,67,23,21,0.286,0.348,0.476,0.824,8,3,6,4,1,0,1,10,6,1,2,0,6,0,0,0,0,61963846
+1995,Regular Season,Hanshin Tigers,34,"Nakada, Koji",P,9,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61963860
+1995,Regular Season,Seibu Lions,4,"Tomashino, Seiji",PR,57,72,58,0.224,0.288,0.293,0.581,14,6,13,10,2,1,0,17,6,1,6,0,8,2,0,6,2,61963867
+1995,Regular Season,Hanshin Tigers,19,"Nakanishi, Kiyoki",P,33,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,61963869
+1995,Regular Season,Fukuoka Daiei Hawks,15,"Fujii, Masao",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963880
+1995,Regular Season,Hiroshima Toyo Carp,26,"Suzuki, Tetsu",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963881
+1995,Regular Season,Fukuoka Daiei Hawks,35,"Tabata, Kazuya",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963885
+1995,Regular Season,Seibu Lions,38,"Toyoda, Kiyoshi",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963887
+1995,Regular Season,Hiroshima Toyo Carp,35,"Mochizuki, Hidetsugu",P,17,4,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,63063868
+1995,Regular Season,Chiba Lotte Marines,11,"Maeda, Yukinaga",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63463868
+1995,Regular Season,Chiba Lotte Marines,39,"Fukuzawa, Yoichi",C,7,9,9,0.222,0.222,0.556,0.778,1,1,2,1,0,0,1,5,0,0,0,0,3,0,0,0,0,63663868
+1995,Regular Season,Yokohama BayStars,39,"Akimoto, Kosaku",C,101,250,215,0.200,0.287,0.312,0.599,17,19,43,29,9,0,5,67,2,1,27,5,43,6,0,6,2,65163868
+1995,Regular Season,Yokohama BayStars,5,"Ishii, Takuro",3B,124,546,444,0.309,0.408,0.381,0.789,69,41,137,111,22,2,2,169,23,11,69,1,63,4,7,23,2,65563868
+1995,Regular Season,Kintetsu Buffaloes,43,"Matsukubo, Shingo",PH,28,55,49,0.184,0.273,0.347,0.620,4,7,9,4,3,1,1,17,1,0,6,0,18,2,0,0,0,65663868
+1995,Regular Season,Orix Bluewave,19,"Takashima, Toru",PH,25,41,36,0.194,0.275,0.222,0.497,0,3,7,6,1,0,0,8,0,0,3,0,5,1,1,1,0,65863868
+1995,Regular Season,Chunichi Dragons,26,"Nonaka, Tetsuhiro",P,20,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,71073860
+1995,Regular Season,Nippon-Ham Fighters,1,"Hirose, Tetsuro",3B,113,506,442,0.267,0.341,0.310,0.651,50,35,118,104,11,1,2,137,4,4,49,1,59,10,1,13,1,71073862
+1995,Regular Season,Yomiuri Giants,8,"Hara, Tatsunori",PH,70,160,144,0.201,0.270,0.382,0.652,13,15,29,15,8,0,6,55,2,1,13,1,29,5,1,1,1,71073863
+1995,Regular Season,Nippon-Ham Fighters,27,"Kawana, Shinichi",RF,62,80,72,0.236,0.263,0.278,0.541,13,6,17,14,3,0,0,20,8,4,2,0,17,2,1,4,1,71073868
+1995,Regular Season,Chunichi Dragons,47,"Noguchi, Shigeki",P,31,40,39,0.051,0.051,0.051,0.102,1,1,2,2,0,0,0,2,0,0,0,0,27,1,0,1,0,71073887
+1995,Japan Series,Orix Bluewave,39,"Miwa, Takashi",C,3,,6,0.167,,0.167,,,0,1,1,0,0,0,1,0,,1,,1,,,,,71073889
+1995,Regular Season,Orix Bluewave,39,"Miwa, Takashi",C,49,134,114,0.246,0.315,0.360,0.675,15,17,28,18,8,1,1,41,0,1,12,0,19,2,1,4,3,71073889
+1995,Regular Season,Seibu Lions,27,"Ito, Tsutomu",C,125,429,386,0.246,0.302,0.347,0.649,40,43,95,68,21,0,6,134,9,4,27,0,59,8,5,9,2,71173865
+1995,Regular Season,Hiroshima Toyo Carp,30,"Oto, Shigeki",RF,118,442,404,0.267,0.314,0.381,0.695,49,49,108,82,15,2,9,154,4,5,28,1,68,13,2,3,5,71173866
+1995,Regular Season,Chunichi Dragons,14,"Imanaka, Shinji",P,28,67,63,0.127,0.141,0.159,0.300,3,1,8,6,2,0,0,10,0,0,1,0,43,0,0,3,0,71173868
+1995,Regular Season,Yomiuri Giants,39,"Yoshihara, Kosuke",C,21,20,18,0.056,0.053,0.056,0.109,3,1,1,1,0,0,0,1,0,0,0,0,4,1,0,1,1,71173883
+1995,Regular Season,Chunichi Dragons,69,"Ichihara, Kei",SS,10,18,17,0.235,0.278,0.235,0.513,3,0,4,4,0,0,0,4,1,0,1,0,6,1,0,0,0,71173885
+1995,Regular Season,Yokohama BayStars,13,"Igarashi, Hideki",P,41,37,30,0.067,0.152,0.067,0.219,0,1,2,2,0,0,0,2,0,0,3,0,22,0,0,4,0,71173887
+1995,Regular Season,Hanshin Tigers,51,"Inoe, Takao",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71173889
+1995,Regular Season,Yomiuri Giants,80,"Hirosawa, Katsumi",LF,131,512,446,0.240,0.330,0.428,0.758,55,72,107,66,18,3,20,191,6,1,58,1,88,14,4,0,4,71273860
+1995,Regular Season,Yomiuri Giants,12,"Mack, Shane",CF,120,540,477,0.275,0.357,0.438,0.795,79,52,131,93,18,0,20,209,12,9,52,4,78,9,10,0,1,71273880
+1995,Regular Season,Hiroshima Toyo Carp,00,"Nihei, Kaoru",LF,34,66,61,0.311,0.338,0.426,0.764,8,9,19,16,1,0,2,26,1,1,2,1,15,2,1,1,1,71273881
+1995,Regular Season,Nippon-Ham Fighters,33,"Matsuda, Shinji",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71273887
+1995,Regular Season,Fukuoka Daiei Hawks,13,"Watanabe, Hidekazu",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71273889
+1995,Regular Season,Seibu Lions,26,"Katori, Yoshitaka",P,43,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373848
+1995,Regular Season,Nippon-Ham Fighters,16,"Kanemura, Satoru",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373880
+1995,Regular Season,Chunichi Dragons,25,"Ochiai, Eiji",P,32,26,24,0.125,0.125,0.125,0.250,0,0,3,3,0,0,0,3,0,0,0,0,7,0,0,2,0,71373885
+1995,Regular Season,Hiroshima Toyo Carp,25,"Yamada, Kazutoshi",1B,94,343,304,0.270,0.336,0.444,0.780,31,53,82,54,15,1,12,135,2,5,26,0,67,7,5,7,1,71473862
+1995,Regular Season,Hanshin Tigers,56,"Mikoshiba, Susumu",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71473867
+1995,Regular Season,Chiba Lotte Marines,21,"Franco, Julio",1B,127,540,474,0.306,0.385,0.435,0.820,60,58,145,107,25,3,10,206,11,7,60,5,106,15,3,0,3,71473880
+1995,Regular Season,Orix Bluewave,25,"Hiratsuka, Katsuhiro",PH,7,8,8,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71473881
+1995,Regular Season,Yakult Swallows,23,"Masuda, Masayuki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71473885
+1995,Regular Season,Seibu Lions,22,"Shimizu, Yoshiyuki",PH,12,16,16,0.250,0.250,0.438,0.688,2,5,4,3,0,0,1,7,1,0,0,0,3,0,0,0,0,71573866
+1995,Regular Season,Yomiuri Giants,67,"Kashiwada, Takashi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71573881
+1995,Regular Season,Yakult Swallows,46,"Ibayashi, Atsushi",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71573883
+1995,Regular Season,Kintetsu Buffaloes,23,"Koike, Hideo",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71573887
+1995,Regular Season,Chunichi Dragons,54,"Matsui, Tatsunori",PH,26,57,53,0.245,0.298,0.396,0.694,8,3,13,8,3,1,1,21,0,0,4,0,9,2,0,0,0,71673881
+1995,Regular Season,Kintetsu Buffaloes,62,"Shibata, Kazuya",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71673883
+1995,Regular Season,Chunichi Dragons,7,"Hall, Mel",LF,50,191,178,0.236,0.267,0.466,0.733,20,35,42,25,5,0,12,83,2,1,9,2,28,7,0,0,4,71673887
+1995,Regular Season,Chiba Lotte Marines,28,"Sonokawa, Kazumi",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773862
+1995,Japan Series,Yakult Swallows,5,"Dobashi, Katsuyuki",2B,5,,24,0.125,,0.125,,,1,3,3,0,0,0,3,0,,0,,4,,,,,71773864
+1995,Regular Season,Yakult Swallows,5,"Dobashi, Katsuyuki",2B,129,520,459,0.281,0.351,0.414,0.765,66,54,129,87,32,1,9,190,7,6,44,6,51,12,6,10,1,71773864
+1995,Japan Series,Orix Bluewave,31,"Shibahara, Minoru",PH,3,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,2,,,,,71773867
+1995,Regular Season,Orix Bluewave,31,"Shibahara, Minoru",PH,24,41,35,0.286,0.359,0.400,0.759,2,4,10,8,1,0,1,14,0,0,4,0,9,0,0,2,0,71773867
+1995,Regular Season,Hiroshima Toyo Carp,22,"Takahashi, Ken",P,45,20,18,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,2,0,71773880
+1995,Regular Season,Hanshin Tigers,16,"Yamazaki, Kazuharu",P,18,25,22,0.227,0.261,0.318,0.579,2,0,5,4,0,1,0,7,0,0,1,0,4,0,0,2,0,71773883
+1995,Regular Season,Chunichi Dragons,0,"Jinno, Junichi",SS,25,59,55,0.291,0.339,0.400,0.739,3,6,16,12,3,0,1,22,0,0,4,0,15,1,0,0,0,71773887
+1995,Regular Season,Hiroshima Toyo Carp,45,"Takahashi, Hideki",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71873883
+1995,Regular Season,Yokohama BayStars,6,"Takahashi, Masahiro",PH,68,96,84,0.262,0.333,0.369,0.702,20,6,22,15,6,0,1,31,2,1,9,0,18,3,0,3,0,71973860
+1995,Regular Season,Seibu Lions,16,"Shiozaki, Tetsuya",P,45,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973881
+1995,Japan Series,Orix Bluewave,33,"Hirai, Masafumi",P,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71973889
+1995,Regular Season,Orix Bluewave,33,"Hirai, Masafumi",P,53,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973889
+1995,Regular Season,Hanshin Tigers,38,"Iwata, Toru",LF,15,26,24,0.250,0.308,0.333,0.641,4,1,6,4,2,0,0,8,0,0,2,0,4,1,0,0,0,73373868
+1995,Regular Season,Chunichi Dragons,1,"Taneda, Hitoshi",SS,89,275,244,0.225,0.286,0.365,0.651,25,22,55,37,10,0,8,89,8,3,20,0,48,3,1,9,1,73373881
+1995,Regular Season,Hanshin Tigers,68,"Hoshino, Osamu",1B,67,143,127,0.339,0.393,0.425,0.818,23,12,43,36,5,0,2,54,3,2,10,0,24,6,2,3,1,73573868
+1995,Regular Season,Chiba Lotte Marines,5,"Hori, Koichi",SS,121,516,457,0.309,0.373,0.438,0.811,71,67,141,108,18,4,11,200,16,3,49,0,93,5,2,1,7,73873868
+1995,Regular Season,Yakult Swallows,49,"Hironaga, Yasutaka",PH,39,52,47,0.191,0.269,0.340,0.609,3,9,9,6,1,0,2,16,0,0,5,1,15,0,0,0,0,73973868
+1995,Regular Season,Yokohama BayStars,27,"Tanabe, Manabu",P,29,26,22,0.091,0.167,0.091,0.258,0,0,2,2,0,0,0,2,0,0,2,0,15,0,0,2,0,75573868
+1995,Regular Season,Yokohama BayStars,24,"Moriyama, Ryoji",P,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81083864
+1995,Regular Season,Hiroshima Toyo Carp,21,"Yamane, Masahito",P,6,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81083889
+1995,Regular Season,Yomiuri Giants,6,"Ochiai, Hiromitsu",1B,117,483,399,0.311,0.414,0.481,0.895,64,65,124,91,15,1,17,192,1,0,73,2,87,17,3,0,8,81183848
+1995,Regular Season,Hanshin Tigers,29,"Ishimine, Kazuhiko",LF,97,318,287,0.240,0.292,0.401,0.693,24,33,69,42,17,1,9,115,1,1,21,1,42,16,3,0,7,81183863
+1995,Japan Series,Yakult Swallows,1,"Ikeyama, Takahiro",SS,5,,21,0.143,,0.286,,,6,3,2,0,0,1,6,0,,2,,5,,,,,81183869
+1995,Regular Season,Yakult Swallows,1,"Ikeyama, Takahiro",SS,130,521,456,0.263,0.349,0.450,0.799,64,70,120,75,24,2,19,205,8,5,56,2,105,14,6,0,3,81183869
+1995,Regular Season,Yomiuri Giants,20,"Orita, Junya",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81183880
+1995,Regular Season,Yokohama BayStars,56,"Oka, Tomokazu",P,4,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,81183889
+1995,Regular Season,Kintetsu Buffaloes,68,"Yanada, Masao",PR,12,9,9,0.111,0.111,0.111,0.222,3,2,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,81283862
+1995,Regular Season,Chiba Lotte Marines,24,"Yamashita, Norihito",PH,21,56,51,0.255,0.321,0.529,0.850,8,5,13,7,2,0,4,27,0,0,5,0,17,2,0,0,0,81283866
+1995,Regular Season,Yomiuri Giants,30,"Hashimoto, Kiyoshi",P,19,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,81283868
+1995,Regular Season,Yomiuri Giants,9,"Murata, Shinichi",C,116,387,339,0.265,0.344,0.428,0.772,29,38,90,61,16,0,13,145,0,0,38,7,77,12,3,6,1,81283869
+1995,Japan Series,Orix Bluewave,24,"Jennings, Doug",1B,5,,20,0.150,,0.450,,,4,3,1,0,0,2,9,0,,3,,5,,,,,81283880
+1995,Regular Season,Orix Bluewave,24,"Jennings, Doug",1B,107,372,335,0.266,0.323,0.481,0.804,44,60,89,50,22,1,16,161,2,1,27,2,104,7,4,0,6,81283880
+1995,Regular Season,Fukuoka Daiei Hawks,24,"Shimoyanagi, Tsuyoshi",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81283883
+1995,Regular Season,Fukuoka Daiei Hawks,57,"Hayashi, Takaya",3B,6,11,10,0.100,0.182,0.100,0.282,1,0,1,1,0,0,0,1,0,0,1,0,4,0,0,0,0,81283885
+1995,Regular Season,Hanshin Tigers,44,"Yamashita, Kazuteru",PH,2,4,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,81283887
+1995,Regular Season,Yomiuri Giants,26,"Kishikawa, Katsuya",PH,44,65,55,0.236,0.354,0.345,0.699,3,6,13,9,3,0,1,19,1,0,10,0,13,1,0,0,0,81383860
+1995,Regular Season,Chunichi Dragons,33,"Kaku, Genji",P,26,23,20,0.100,0.143,0.100,0.243,2,0,2,2,0,0,0,2,0,0,1,0,7,0,0,2,0,81383863
+1995,Regular Season,Chiba Lotte Marines,57,"Sato, Yukihiko",PH,42,77,67,0.254,0.315,0.373,0.688,8,7,17,11,5,0,1,25,0,0,6,0,18,2,0,4,0,81383864
+1995,Japan Series,Yakult Swallows,7,"Hashigami, Hideki",RF,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,81383866
+1995,Regular Season,Yakult Swallows,7,"Hashigami, Hideki",RF,34,67,57,0.298,0.403,0.474,0.877,7,8,17,11,4,0,2,27,1,1,10,0,8,2,0,0,0,81383866
+1995,Regular Season,Hanshin Tigers,9,"Kitagawa, Hirotoshi",C,13,21,16,0.125,0.263,0.125,0.388,1,0,2,2,0,0,0,2,0,0,3,0,4,1,0,2,0,81383880
+1995,Regular Season,Chiba Lotte Marines,27,"Kawamoto, Yasuyuki",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383885
+1995,Regular Season,Yokohama BayStars,15,"Kawahara, Ryuichi",P,14,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81383889
+1995,Regular Season,Fukuoka Daiei Hawks,6,"Yugamidani, Hiroshi",3B,86,217,196,0.250,0.293,0.296,0.589,31,9,49,43,4,1,1,58,14,6,12,1,42,1,0,8,0,81483860
+1995,Regular Season,Chunichi Dragons,42,"Monteleone, Rich",P,12,12,11,0.091,0.091,0.091,0.182,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,1,0,81483880
+1995,Japan Series,Yakult Swallows,9,"Meulens, Hensley",3B,5,,20,0.300,,0.450,,,2,6,5,0,0,1,9,1,,1,,9,,,,,81483889
+1995,Regular Season,Yakult Swallows,9,"Meulens, Hensley",3B,130,506,438,0.244,0.338,0.479,0.817,74,80,107,62,16,0,29,210,6,5,60,4,134,16,4,0,4,81483889
+1995,Regular Season,Fukuoka Daiei Hawks,44,"Takagi, Koji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583864
+1995,Regular Season,Hiroshima Toyo Carp,37,"Ogata, Koichi",CF,101,335,272,0.316,0.429,0.482,0.911,56,43,86,63,11,2,10,131,47,7,50,2,45,3,6,4,3,81583866
+1995,Regular Season,Yomiuri Giants,11,"Saito, Masaki",P,29,83,70,0.114,0.162,0.157,0.319,3,7,8,7,0,0,1,11,0,0,4,0,26,1,0,9,0,81583869
+1995,Regular Season,Nippon-Ham Fighters,39,"Shimada, Kazuteru",PR,5,1,1,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583880
+1995,Regular Season,Hiroshima Toyo Carp,17,"Sato, Takeshi",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583887
+1995,Regular Season,Yokohama BayStars,44,"Braggs, Glenn",RF,110,480,407,0.273,0.381,0.506,0.887,75,72,111,64,23,0,24,206,4,1,59,1,102,8,13,0,1,81683887
+1995,Regular Season,Chiba Lotte Marines,23,"Nishioka, Yoshihiro",PH,25,25,22,0.091,0.160,0.091,0.251,1,2,2,2,0,0,0,2,1,0,2,0,4,2,0,0,1,81783865
+1995,Regular Season,Yokohama BayStars,48,"Shimada, Naoya",P,46,10,8,0.125,0.125,0.125,0.250,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,2,0,81783868
+1995,Regular Season,Chiba Lotte Marines,31,"Tsuno, Hiroshi",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783869
+1995,Regular Season,Seibu Lions,33,"Tomioka, Hisaki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783880
+1995,Japan Series,Orix Bluewave,17,"Hasegawa, Shigetoshi",P,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,81783883
+1995,Regular Season,Orix Bluewave,17,"Hasegawa, Shigetoshi",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783883
+1995,Regular Season,Chunichi Dragons,29,"Yoda, Tsuyoshi",P,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81883881
+1995,Regular Season,Orix Bluewave,12,"Mizuo, Yoshitaka",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81883883
+1995,Regular Season,Yomiuri Giants,27,"Fukuo, Akihito",2B,62,82,71,0.183,0.234,0.225,0.459,3,5,13,11,1,1,0,16,1,0,5,1,5,0,0,5,1,81983864
+1995,Regular Season,Yakult Swallows,40,"Yamauchi, Yoshihiro",P,11,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,81983866
+1995,Regular Season,Fukuoka Daiei Hawks,10,"Honma, Mitsuru",SS,14,38,34,0.176,0.243,0.176,0.419,2,2,6,6,0,0,0,6,0,1,3,0,9,0,0,1,0,81983880
+1995,Regular Season,Seibu Lions,9,"Narahara, Hiroshi",SS,102,245,208,0.226,0.282,0.260,0.542,19,13,47,41,5,1,0,54,19,6,16,0,29,1,1,18,2,81983883
+1995,Regular Season,Chiba Lotte Marines,4,"Tanba, Kenji",1B,5,9,9,0.111,0.111,0.111,0.222,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,81983885
+1995,Regular Season,Seibu Lions,32,"Matsui, Kazuo",SS,69,219,204,0.221,0.245,0.304,0.549,25,15,45,33,9,1,2,62,21,1,7,0,26,4,0,7,1,81983889
+1995,Regular Season,Hiroshima Toyo Carp,39,"Sato, Hiroyuki",PH,2,2,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83283868
+1995,Regular Season,Hanshin Tigers,40,"Ayukawa, Yoshifumi",PH,46,71,60,0.217,0.279,0.283,0.562,6,4,13,10,2,1,0,17,2,0,6,0,22,1,0,2,2,83383868
+1995,Regular Season,Chiba Lotte Marines,68,"Inokubo, Goichi",C,9,6,5,0.000,0.167,0.000,0.167,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,83683868
+1995,Regular Season,Hiroshima Toyo Carp,44,"Mifune, Hideyuki",PH,46,52,47,0.298,0.353,0.383,0.736,4,6,14,10,4,0,0,18,0,0,2,0,13,2,2,1,0,83783868
+1995,Regular Season,Seibu Lions,11,"Ishii, Takehiro",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83883868
+1995,Regular Season,Seibu Lions,20,"Mori, Hiroyuki",1B,70,152,135,0.289,0.362,0.444,0.806,12,17,39,26,9,0,4,60,0,0,15,0,35,4,1,0,1,85383868
+1995,Regular Season,Yokohama BayStars,8,"Tanishige, Motonobu",C,93,203,181,0.249,0.313,0.398,0.711,16,21,45,31,7,1,6,72,1,0,17,2,39,2,0,5,0,85583868
+1995,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",PH,62,126,107,0.150,0.266,0.215,0.481,7,9,16,10,5,1,0,23,4,0,16,1,28,3,1,2,0,91093866
+1995,Regular Season,Hiroshima Toyo Carp,28,"Nishida, Shinji",PH,5,5,5,0.400,0.400,0.400,0.800,0,0,2,2,0,0,0,2,0,0,0,0,2,0,0,0,0,91093867
+1995,Regular Season,Chunichi Dragons,5,"Nimura, Toru",3B,80,247,224,0.259,0.314,0.379,0.693,23,30,58,47,3,0,8,85,0,0,18,2,35,9,1,2,2,91093869
+1995,Regular Season,Fukuoka Daiei Hawks,36,"Hamagiwa, Yasuji",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91093887
+1995,Regular Season,Chiba Lotte Marines,00,"Morozumi, Kenji",CF,97,413,362,0.290,0.356,0.340,0.696,44,20,105,92,9,3,1,123,24,12,36,0,67,1,1,14,0,91093889
+1995,Regular Season,Hiroshima Toyo Carp,24,"Ono, Yutaka",P,27,37,35,0.086,0.083,0.086,0.169,2,1,3,3,0,0,0,3,0,0,0,0,16,1,0,1,1,91193844
+1995,Japan Series,Yakult Swallows,18,"Ito, Akimitsu",P,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91193862
+1995,Regular Season,Yakult Swallows,18,"Ito, Akimitsu",P,43,32,26,0.154,0.185,0.154,0.339,1,2,4,4,0,0,0,4,0,0,1,0,11,0,0,5,0,91193862
+1995,Regular Season,Kintetsu Buffaloes,54,"Ikeue, Koichi",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193864
+1995,Regular Season,Chunichi Dragons,48,"Komori, Tetsuya",PH,34,73,66,0.242,0.286,0.273,0.559,10,2,16,14,2,0,0,18,2,3,4,0,9,1,0,3,0,91193866
+1995,Japan Series,Yakult Swallows,41,"Inaba, Atsunori",RF,5,,9,0.000,,0.000,,,1,0,0,0,0,0,0,0,,3,,5,,,,,91193880
+1995,Regular Season,Yakult Swallows,41,"Inaba, Atsunori",RF,67,248,215,0.307,0.390,0.465,0.855,22,40,66,48,10,0,8,100,3,2,25,2,33,5,5,2,1,91193880
+1995,Regular Season,Hiroshima Toyo Carp,64,"Ikeda, Ikuo",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193887
+1995,Japan Series,Orix Bluewave,1,"Fukura, Junichi",2B,5,,17,0.235,,0.353,,,0,4,3,0,1,0,6,0,,3,,2,,,,,91293860
+1995,Regular Season,Orix Bluewave,1,"Fukura, Junichi",2B,53,201,162,0.278,0.379,0.370,0.749,24,19,45,38,3,0,4,60,0,1,23,0,14,4,4,11,1,91293860
+1995,Regular Season,Yakult Swallows,66,"Yamada, Tsutomu",P,42,10,10,0.200,0.200,0.500,0.700,1,2,2,1,0,0,1,5,0,0,0,0,3,0,0,0,0,91293864
+1995,Regular Season,Hanshin Tigers,28,"Davis, Glenn",1B,120,501,453,0.256,0.315,0.468,0.783,47,77,116,67,25,1,23,212,1,1,40,3,79,15,2,0,6,91293880
+1995,Japan Series,Yakult Swallows,38,"Noguchi, Toshihiro",C,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91293881
+1995,Regular Season,Yakult Swallows,38,"Noguchi, Toshihiro",C,18,9,9,0.222,0.222,0.667,0.889,3,5,2,0,1,0,1,6,0,0,0,0,2,0,0,0,0,91293881
+1995,Regular Season,Nippon-Ham Fighters,37,"Ishimoto, Tsutomu",CF,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,91293883
+1995,Regular Season,Hanshin Tigers,31,"Hagiwara, Makoto",LF,54,138,117,0.197,0.304,0.342,0.646,7,11,23,15,3,1,4,40,0,1,17,0,30,1,1,3,0,91293885
+1995,Japan Series,Yakult Swallows,31,"Manaka, Mitsuru",RF,5,,11,0.545,,0.545,,,0,6,6,0,0,0,6,0,,0,,4,,,,,91293887
+1995,Regular Season,Yakult Swallows,31,"Manaka, Mitsuru",RF,99,137,126,0.214,0.244,0.262,0.506,14,13,27,24,1,1,1,33,10,3,4,1,8,5,1,6,0,91293887
+1995,Regular Season,Orix Bluewave,11,"Sato, Yoshinori",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393844
+1995,Regular Season,Yomiuri Giants,13,"Okada, Hirokazu",P,27,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91393862
+1995,Regular Season,Chiba Lotte Marines,38,"Ono, Kazuyuki",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393863
+1995,Regular Season,Chiba Lotte Marines,46,"Kanazawa, Tsugio",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393865
+1995,Regular Season,Orix Bluewave,40,"Kaneda, Masahiko",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393887
+1995,Regular Season,Yokohama BayStars,18,"Matsura, Hiroaki",P,9,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91493860
+1995,Regular Season,Kintetsu Buffaloes,16,"Bryant, Ralph",DH,48,208,186,0.194,0.269,0.403,0.672,26,22,36,17,9,0,10,75,0,0,18,0,77,0,2,0,2,91493866
+1995,Regular Season,Chiba Lotte Marines,22,"Incaviglia, Pete",DH,71,270,243,0.181,0.263,0.325,0.588,25,31,44,29,5,0,10,79,1,2,23,0,74,10,4,0,0,91493880
+1995,Regular Season,Fukuoka Daiei Hawks,46,"Bonishi, Koji",C,54,117,102,0.167,0.213,0.196,0.409,9,8,17,14,3,0,0,20,1,2,5,0,20,3,1,9,0,91493883
+1995,Regular Season,Hiroshima Toyo Carp,5,"Machida, Kojiro",PH,69,155,138,0.261,0.333,0.471,0.804,16,22,36,23,5,0,8,65,2,1,14,0,36,2,1,2,0,91493885
+1995,Regular Season,Fukuoka Daiei Hawks,33,"Saito, Manabu",P,46,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593862
+1995,Regular Season,Yokohama BayStars,1,"Shindo, Tatsuya",SS,126,456,368,0.217,0.335,0.356,0.691,47,31,80,55,10,4,11,131,5,2,62,2,55,12,4,20,2,91593866
+1995,Japan Series,Orix Bluewave,22,"Kobayashi, Hiroshi",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91593887
+1995,Regular Season,Orix Bluewave,22,"Kobayashi, Hiroshi",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593887
+1995,Regular Season,Yakult Swallows,12,"Saito, Mitsuhiro",P,6,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91593889
+1995,Regular Season,Kintetsu Buffaloes,8,"Yoshida, Takashi",SS,51,91,81,0.210,0.273,0.358,0.631,13,7,17,11,3,0,3,29,6,1,7,0,22,2,0,3,0,91693860
+1995,Regular Season,Chunichi Dragons,27,"Matsunaga, Yukio",P,17,5,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,91693881
+1995,Regular Season,Hanshin Tigers,14,"Yuminaga, Tatsuhiro",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91693885
+1995,Regular Season,Hiroshima Toyo Carp,4,"Shoda, Kozo",2B,124,537,449,0.274,0.352,0.341,0.693,62,38,123,101,17,2,3,153,7,4,54,1,56,6,2,29,3,91793860
+1995,Japan Series,Orix Bluewave,27,"Nakajima, Satoshi",C,4,,11,0.182,,0.182,,,0,2,2,0,0,0,2,0,,2,,2,,,,,91793864
+1995,Regular Season,Orix Bluewave,27,"Nakajima, Satoshi",C,101,345,303,0.267,0.337,0.347,0.684,33,33,81,64,13,1,3,105,0,1,33,1,61,8,0,7,2,91793864
+1995,Regular Season,Nippon-Ham Fighters,29,"Shibakusa, Hiroshi",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793868
+1995,Regular Season,Hanshin Tigers,60,"Tanaka, Shuta",PH,3,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91793880
+1995,Regular Season,Seibu Lions,29,"Sugiyama, Kento",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793887
+1995,Regular Season,Hiroshima Toyo Carp,68,"Yamasaki, Ken",P,2,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,91893883
+1995,Regular Season,Fukuoka Daiei Hawks,43,"Takayama, Ikuo",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91993860
+1995,Regular Season,Chunichi Dragons,19,"Nakayama, Hiroaki",P,44,4,1,1.000,1.000,1.000,2.000,2,0,1,1,0,0,0,1,0,0,0,0,0,0,0,3,0,91993862
+1995,Regular Season,Seibu Lions,10,"Hanyuda, Tadakatsu",PH,45,35,30,0.133,0.212,0.133,0.345,6,3,4,4,0,0,0,4,4,0,3,0,8,2,0,2,0,91993864
+1995,Regular Season,Chiba Lotte Marines,60,"Hashimoto, Tasuku",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91993880
+1995,Regular Season,Kintetsu Buffaloes,24,"Takamura, Hiroshi",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91993885
+1995,Regular Season,Yokohama BayStars,66,"Tanaka, Toshiaki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91993887
+1995,Regular Season,Hanshin Tigers,2,"Hirao, Hiroshi",PH,35,49,42,0.190,0.271,0.310,0.581,4,6,8,5,2,0,1,13,0,1,5,0,12,0,0,1,1,91993889
+1995,Regular Season,Yokohama BayStars,51,"Suzuki, Takanori",LF,117,372,336,0.283,0.337,0.473,0.810,48,58,95,60,20,1,14,159,3,1,28,0,65,6,2,1,5,93193883
+1995,Regular Season,Hanshin Tigers,27,"Yamada, Katsuhiko",C,30,19,16,0.063,0.167,0.063,0.230,0,0,1,1,0,0,0,1,0,0,2,0,7,0,0,1,0,93393868
+1995,Regular Season,Hiroshima Toyo Carp,67,"Kobayakawa, Koji",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93793868
+1995,Regular Season,Fukuoka Daiei Hawks,55,"Omichi, Noriyoshi",RF,32,92,81,0.272,0.299,0.346,0.645,9,4,22,16,6,0,0,28,0,0,3,0,10,5,1,5,2,93993868
+1995,Regular Season,Seibu Lions,55,"Ando, Shinji",PH,13,16,13,0.231,0.313,0.308,0.621,0,6,3,2,1,0,0,4,0,1,2,0,3,0,0,0,1,95393868
+1995,Regular Season,Kintetsu Buffaloes,28,"Nakamura, Ryoji",DH,13,24,21,0.048,0.048,0.048,0.096,0,0,1,1,0,0,0,1,0,0,0,0,7,0,0,3,0,95693868

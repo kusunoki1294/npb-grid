@@ -1,0 +1,593 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+1998,Regular Season,Hiroshima Toyo Carp,16,"Yamauchi, Yasuyuki",P,30,31,28,0.036,0.069,0.036,0.105,0,0,1,1,0,0,0,1,0,0,1,0,12,1,0,2,0,01003880
+1998,Regular Season,Yomiuri Giants,61,"Horita, Ichiro",RF,19,10,8,0.250,0.333,0.250,0.583,2,0,2,2,0,0,0,2,1,2,1,0,1,1,0,1,0,01003884
+1998,Regular Season,Yomiuri Giants,23,"Yanagisawa, Yuichi",C,8,12,11,0.182,0.250,0.182,0.432,2,0,2,2,0,0,0,2,1,0,0,0,4,0,1,0,0,01003889
+1998,Regular Season,Hanshin Tigers,40,"Arikura, Masashi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103881
+1998,Regular Season,Yomiuri Giants,2,"Motoki, Daisuke",3B,114,456,397,0.297,0.373,0.426,0.799,49,55,118,88,18,3,9,169,3,2,45,0,56,18,5,6,3,01103883
+1998,Regular Season,Kintetsu Buffaloes,22,"Isobe, Koichi",LF,118,359,320,0.291,0.345,0.422,0.767,43,31,93,63,22,4,4,135,2,4,26,1,32,7,3,5,5,01103884
+1998,Regular Season,Orix Bluewave,1,"Fujimoto, Hiroshi",1B,42,52,46,0.174,0.269,0.217,0.486,3,3,8,6,2,0,0,10,0,0,6,0,17,3,0,0,0,01203860
+1998,Regular Season,Chunichi Dragons,44,"Mitsuyama, Hidekazu",C,15,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,01203862
+1998,Regular Season,Seibu Lions,43,"Yokota, Hisanori",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01203864
+1998,Regular Season,Fukuoka Daiei Hawks,25,"Wakai, Motoyasu",PH,40,41,32,0.250,0.415,0.281,0.696,4,1,8,7,1,0,0,9,1,0,9,0,3,2,0,0,0,01203866
+1998,Regular Season,Hiroshima Toyo Carp,37,"Nonogaki, Takeshi",PH,14,22,19,0.105,0.227,0.158,0.385,2,0,2,1,1,0,0,3,1,0,2,0,5,1,1,0,0,01203881
+1998,Regular Season,Nippon-Ham Fighters,58,"Arai, Shogo",2B,5,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01203883
+1998,Regular Season,Yokohama BayStars,14,"Morinaka, Masao",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01203884
+1998,Regular Season,Chiba Lotte Marines,12,"Fujita, Soichi",P,56,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01203886
+1998,Regular Season,Chiba Lotte Marines,17,"Muto, Junichiro",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01203887
+1998,Regular Season,Hiroshima Toyo Carp,11,"Kito, Makoto",P,20,33,27,0.111,0.143,0.222,0.365,2,3,3,2,0,0,1,6,0,0,1,0,16,0,0,5,0,01303864
+1998,Regular Season,Chunichi Dragons,22,"Yamasaki, Takeshi",1B,131,516,439,0.255,0.355,0.483,0.838,52,86,112,67,17,1,27,212,0,3,63,0,95,14,8,0,6,01303868
+1998,Regular Season,Hanshin Tigers,19,"Kawajiri, Tetsuro",P,25,58,50,0.100,0.100,0.120,0.220,3,2,5,4,1,0,0,6,0,0,0,0,12,0,0,8,0,01303880
+1998,Japan Series,Seibu Lions,23,"Otsuka, Koji",LF,5,,14,0.643,,0.857,,,0,9,7,1,1,0,12,0,,2,,1,,,,,01303881
+1998,Regular Season,Seibu Lions,23,"Otsuka, Koji",LF,62,144,128,0.289,0.345,0.414,0.759,16,7,37,27,6,2,2,53,1,1,9,1,25,3,2,5,0,01303881
+1998,Regular Season,Chunichi Dragons,25,"Kadokura, Ken",P,27,55,48,0.042,0.078,0.083,0.161,0,2,2,1,0,1,0,4,0,0,2,0,29,0,0,4,1,01303882
+1998,Regular Season,Nippon-Ham Fighters,8,"Kataoka, Atsushi",3B,133,584,466,0.300,0.435,0.470,0.905,89,83,140,96,26,1,17,219,2,0,113,1,93,8,1,0,4,01303885
+1998,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,30,68,55,0.182,0.250,0.200,0.450,4,3,10,9,1,0,0,11,0,0,5,0,17,3,0,8,0,01403862
+1998,Regular Season,Chunichi Dragons,63,"Kojima, Keiichi",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01403868
+1998,Regular Season,Hanshin Tigers,57,"Yamaoka, Hiroyuki",P,21,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,01403886
+1998,Regular Season,Chiba Lotte Marines,44,"Yoshitsuru, Kenji",C,86,190,162,0.235,0.313,0.340,0.653,23,25,38,30,3,1,4,55,0,0,18,0,29,1,1,8,1,01403887
+1998,Japan Series,Yokohama BayStars,21,"Nomura, Hiroki",P,1,,3,0.667,,1.333,,,0,2,0,2,0,0,4,0,,0,,1,,,,,01503866
+1998,Regular Season,Yokohama BayStars,21,"Nomura, Hiroki",P,29,68,60,0.250,0.274,0.350,0.624,8,8,15,11,3,0,1,21,0,0,2,0,21,5,0,6,0,01503866
+1998,Regular Season,Yakult Swallows,7,"Kobayakawa, Takehiko",PH,62,93,81,0.173,0.280,0.333,0.613,6,8,14,7,4,0,3,27,0,1,12,0,12,6,0,0,0,01503869
+1998,Regular Season,Yomiuri Giants,58,"Saito, Takayuki",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01503880
+1998,Regular Season,Fukuoka Daiei Hawks,35,"Kawano, Ryo",PH,41,61,51,0.255,0.361,0.392,0.753,7,4,13,9,2,1,1,20,0,0,8,0,11,3,1,0,1,01503881
+1998,Regular Season,Orix Bluewave,61,"Kuriyama, Satoshi",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01503884
+1998,Regular Season,Kintetsu Buffaloes,18,"Sakai, Hiroki",P,60,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01503889
+1998,Regular Season,Orix Bluewave,19,"Fraser, Willie",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01603882
+1998,Regular Season,Chiba Lotte Marines,13,"Yoshida, Atsushi",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01603885
+1998,Regular Season,Hanshin Tigers,21,"Creek, Doug",P,7,8,8,0.250,0.250,0.250,0.500,0,0,2,2,0,0,0,2,0,0,0,0,4,0,0,0,0,01603886
+1998,Regular Season,Nippon-Ham Fighters,60,"Gross, Kip",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01603889
+1998,Regular Season,Chunichi Dragons,28,"Daito, Masaaki",P,21,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01703882
+1998,Regular Season,Chunichi Dragons,23,"Sekikawa, Koichi",CF,125,449,382,0.285,0.367,0.338,0.705,62,36,109,93,13,2,1,129,15,3,47,2,57,5,4,13,3,01703883
+1998,Regular Season,Chiba Lotte Marines,8,"Shimizu, Masaumi",C,57,146,131,0.183,0.236,0.252,0.488,12,13,24,19,3,0,2,33,2,0,8,0,33,3,1,6,0,01703884
+1998,Regular Season,Kintetsu Buffaloes,40,"Shinada, Ayahito",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01703885
+1998,Regular Season,Kintetsu Buffaloes,47,"Mattson, Rob",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01803886
+1998,Regular Season,Yakult Swallows,14,"Hirota, Hiroaki",P,52,7,6,0.000,0.143,0.000,0.143,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,01903864
+1998,Regular Season,Hanshin Tigers,47,"Ito, Atsunori",P,50,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,01903866
+1998,Regular Season,Chunichi Dragons,56,"Harada, Masahiko",CF,20,34,32,0.250,0.294,0.375,0.669,4,2,8,6,1,0,1,12,1,1,2,0,6,0,0,0,0,01903880
+1998,Regular Season,Hanshin Tigers,5,"Shinjo, Tsuyoshi",CF,132,451,414,0.222,0.275,0.331,0.606,39,27,92,62,21,3,6,137,1,2,25,4,65,4,6,4,2,01903881
+1998,Regular Season,Seibu Lions,15,"Taninaka, Shinji",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903884
+1998,Regular Season,Orix Bluewave,6,"Taguchi, So",LF,132,573,497,0.272,0.338,0.386,0.724,85,41,135,98,26,2,9,192,8,8,48,2,68,13,3,23,2,01903885
+1998,Regular Season,Yokohama BayStars,30,"Mahomes, Pat",P,11,18,14,0.214,0.214,0.214,0.428,1,1,3,3,0,0,0,3,0,0,0,0,5,0,0,4,0,03103884
+1998,Regular Season,Hanshin Tigers,30,"Powell, Alonzo",LF,78,229,204,0.255,0.332,0.436,0.768,24,28,52,33,10,0,9,89,1,0,22,0,50,6,2,0,1,03103885
+1998,Regular Season,Chiba Lotte Marines,22,"Davison, Scott",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03103886
+1998,Regular Season,Fukuoka Daiei Hawks,3,"Yoshinaga, Koichiro",DH,112,437,365,0.249,0.362,0.405,0.767,38,48,91,60,18,0,13,148,0,0,66,6,78,4,1,1,4,03703868
+1998,Regular Season,Yakult Swallows,13,"Kato, Hiroto",P,17,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,05003868
+1998,Japan Series,Seibu Lions,57,"Ueda, Hiroaki",3B,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,05303868
+1998,Regular Season,Seibu Lions,57,"Ueda, Hiroaki",3B,72,9,7,0.286,0.286,0.286,0.572,10,1,2,2,0,0,0,2,5,1,0,0,2,0,0,2,0,05303868
+1998,Regular Season,Orix Bluewave,14,"Maruo, Eiji",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11013880
+1998,Regular Season,Hanshin Tigers,66,"Hamanaka, Osamu",LF,11,24,22,0.409,0.458,0.409,0.867,4,3,9,9,0,0,0,9,0,0,2,0,3,1,0,0,0,11013884
+1998,Regular Season,Kintetsu Buffaloes,57,"Matoyama, Tetsuya",C,105,271,222,0.230,0.319,0.320,0.639,23,18,51,41,4,2,4,71,4,1,24,0,48,3,5,20,0,11013889
+1998,Regular Season,Hanshin Tigers,3,"Yagi, Hiroshi",PH,95,207,188,0.282,0.348,0.388,0.736,21,31,53,39,11,0,3,73,2,0,18,2,36,5,1,0,0,11213864
+1998,Japan Series,Yokohama BayStars,25,"Hatayama, Hitoshi",PH,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11213867
+1998,Regular Season,Yokohama BayStars,25,"Hatayama, Hitoshi",PH,49,107,95,0.263,0.324,0.337,0.661,7,8,25,22,1,0,2,32,1,0,8,0,23,1,1,2,1,11213867
+1998,Regular Season,Hiroshima Toyo Carp,23,"Yokoyama, Ryuji",P,24,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,11213880
+1998,Regular Season,Nippon-Ham Fighters,43,"Nishi, Shunji",PH,36,38,36,0.306,0.342,0.472,0.814,2,7,11,8,1,1,1,17,0,0,2,0,7,2,0,0,0,11213881
+1998,Regular Season,Nippon-Ham Fighters,41,"Komaki, Yuichi",C,4,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11213883
+1998,Regular Season,Yomiuri Giants,31,"Misawa, Koichi",P,43,19,17,0.118,0.167,0.176,0.343,1,0,2,1,1,0,0,3,0,0,1,0,9,0,0,1,0,11213884
+1998,Regular Season,Fukuoka Daiei Hawks,34,"Yoshitake, Shintaro",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213889
+1998,Regular Season,Yakult Swallows,30,"Ono, Yuji",PH,2,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11313864
+1998,Regular Season,Orix Bluewave,21,"Noda, Koji",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313866
+1998,Regular Season,Orix Bluewave,9,"Kase, Toshihiro",LF,21,21,19,0.053,0.143,0.053,0.196,1,1,1,1,0,0,0,1,0,0,2,0,3,1,0,0,0,11313880
+1998,Regular Season,Kintetsu Buffaloes,42,"Iriki, Satoshi",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313881
+1998,Regular Season,Chiba Lotte Marines,31,"Kojima, Hiromu",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313883
+1998,Regular Season,Yakult Swallows,48,"Iwamura, Akinori",3B,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,11313884
+1998,Regular Season,Orix Bluewave,58,"Ogura, Hisashi",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313887
+1998,Regular Season,Kintetsu Buffaloes,60,"Omura, Naoyuki",CF,133,584,522,0.310,0.359,0.397,0.756,61,40,162,132,19,7,4,207,23,7,38,0,40,6,2,21,1,11313889
+1998,Regular Season,Fukuoka Daiei Hawks,00,"Yamaguchi, Yuji",LF,8,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11413862
+1998,Regular Season,Hiroshima Toyo Carp,50,"Perez, Timoniel",PH,98,256,230,0.296,0.350,0.404,0.754,22,35,68,54,8,1,5,93,4,5,20,4,21,6,1,2,3,11413882
+1998,Regular Season,Chunichi Dragons,29,"Yamada, Takashi",P,2,1,0,0.000,1.000,0.000,1.000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,11413884
+1998,Regular Season,Chiba Lotte Marines,49,"Higuchi, Kazutoshi",PH,11,8,6,0.167,0.286,0.167,0.453,1,0,1,1,0,0,0,1,0,0,1,0,2,0,0,1,0,11413885
+1998,Regular Season,Kintetsu Buffaloes,15,"Maki, Masaki",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11413886
+1998,Regular Season,Yomiuri Giants,18,"Kuwata, Masumi",P,27,74,56,0.196,0.258,0.214,0.472,4,6,11,10,1,0,0,12,0,0,5,0,13,0,0,12,1,11513862
+1998,Regular Season,Hiroshima Toyo Carp,47,"Kiyokawa, Eiji",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513869
+1998,Regular Season,Yakult Swallows,63,"Oshio, Kenichi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513881
+1998,Regular Season,Seibu Lions,69,"Koishizawa, Kiyotaka",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513882
+1998,Regular Season,Hiroshima Toyo Carp,54,"Kawano, Masato",P,7,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11513884
+1998,Regular Season,Fukuoka Daiei Hawks,32,"Kimura, Shigeru",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513886
+1998,Regular Season,Orix Bluewave,50,"Kubo, Mitsuhiro",C,6,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,11513887
+1998,Regular Season,Yakult Swallows,27,"Furuta, Atsuya",C,132,552,491,0.275,0.344,0.373,0.717,58,63,135,106,19,1,9,183,5,4,46,4,62,14,8,3,4,11613881
+1998,Regular Season,Fukuoka Daiei Hawks,23,"Muramatsu, Arihito",LF,120,268,232,0.250,0.322,0.310,0.632,41,16,58,48,7,2,1,72,11,6,23,1,33,3,2,10,1,11613883
+1998,Regular Season,Chunichi Dragons,4,"Gomez, Leo",3B,116,488,420,0.274,0.363,0.493,0.856,57,76,115,75,14,0,26,207,1,1,57,7,66,10,5,1,5,11613884
+1998,Regular Season,Fukuoka Daiei Hawks,52,"Williams, Brian",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11613886
+1998,Regular Season,Seibu Lions,1,"Sasaki, Makoto",LF,75,271,251,0.259,0.307,0.303,0.610,17,21,65,56,8,0,1,76,6,2,15,1,30,2,3,1,1,11713860
+1998,Regular Season,Yakult Swallows,28,"Shiroishi, Noriyuki",2B,44,50,45,0.289,0.333,0.444,0.777,3,4,13,10,1,0,2,20,1,1,3,0,11,0,0,2,0,11713880
+1998,Japan Series,Seibu Lions,10,"Takagi, Taisei",1B,6,,22,0.182,,0.318,,,3,4,3,0,0,1,7,1,,3,,3,,,,,11713882
+1998,Regular Season,Seibu Lions,10,"Takagi, Taisei",1B,134,586,504,0.276,0.356,0.437,0.793,70,84,139,94,26,2,17,220,15,13,66,1,68,12,1,7,8,11713882
+1998,Regular Season,Hanshin Tigers,15,"Yufune, Toshiro",P,4,6,4,0.000,0.200,0.000,0.200,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,11713883
+1998,Regular Season,Orix Bluewave,25,"Satake, Manabu",3B,62,162,150,0.200,0.229,0.240,0.469,11,10,30,24,6,0,0,36,3,1,3,0,16,5,3,5,1,11713884
+1998,Regular Season,Chunichi Dragons,21,"Shotsu, Eiji",P,45,15,13,0.231,0.231,0.231,0.462,1,0,3,3,0,0,0,3,0,0,0,0,9,0,0,2,0,11713886
+1998,Regular Season,Orix Bluewave,36,"Yojo, Minoru",1B,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11813868
+1998,Regular Season,Seibu Lions,58,"Miyaji, Katsuhiko",RF,7,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,11813881
+1998,Regular Season,Yomiuri Giants,26,"Duncan, Mariano",2B,63,221,207,0.232,0.276,0.411,0.687,24,34,48,31,7,0,10,85,1,1,11,1,58,6,2,0,1,11813886
+1998,Regular Season,Seibu Lions,21,"Nishizaki, Yukihiro",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913864
+1998,Regular Season,Orix Bluewave,35,"Toyoda, Jiro",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913880
+1998,Regular Season,Nippon-Ham Fighters,7,"Nakamura, Yutaka",CF,12,15,13,0.077,0.143,0.154,0.297,1,1,1,0,1,0,0,2,0,0,1,0,3,0,0,1,0,11913882
+1998,Regular Season,Orix Bluewave,30,"Ebisu, Nobuyuki",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913883
+1998,Regular Season,Yakult Swallows,25,"Soejima, Kota",1B,107,337,301,0.266,0.329,0.399,0.728,32,38,80,58,12,2,8,120,2,1,27,1,57,10,2,6,1,11913884
+1998,Regular Season,Orix Bluewave,51,"Suzuki, Ichiro",RF,135,558,506,0.358,0.414,0.518,0.932,79,71,181,129,36,3,13,262,11,4,43,15,35,21,7,0,2,11913885
+1998,Regular Season,Orix Bluewave,37,"Takahashi, Nobuo",C,12,25,20,0.200,0.273,0.250,0.523,3,1,4,3,1,0,0,5,0,0,2,0,8,0,0,3,0,11913886
+1998,Regular Season,Kintetsu Buffaloes,9,"Takumi, Masahiro",CF,8,12,9,0.222,0.417,0.222,0.639,1,1,2,2,0,0,0,2,2,0,2,0,0,1,1,0,0,11913887
+1998,Regular Season,Kintetsu Buffaloes,26,"Nishikawa, Shinichi",P,61,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913889
+1998,Regular Season,Chiba Lotte Marines,29,"Kondo, Yoshihisa",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13013868
+1998,Regular Season,Hanshin Tigers,49,"Rivera, Ben",P,44,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,13113886
+1998,Regular Season,Chiba Lotte Marines,43,"Warren, Brian",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13313886
+1998,Regular Season,Chiba Lotte Marines,6,"Hatsushiba, Kiyoshi",3B,134,538,473,0.296,0.374,0.548,0.922,68,86,140,74,38,3,25,259,0,1,56,1,79,18,5,0,3,13813868
+1998,Regular Season,Fukuoka Daiei Hawks,4,"Yanagita, Shikato",3B,124,390,334,0.251,0.307,0.284,0.591,27,35,84,73,11,0,0,95,9,3,25,0,31,8,3,25,3,13913868
+1998,Regular Season,Orix Bluewave,43,"Suzuki, Taira",P,45,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15013868
+1998,Regular Season,Yakult Swallows,2,"Iida, Tetsuya",CF,96,317,286,0.283,0.335,0.339,0.674,41,28,81,68,11,1,1,97,9,4,21,1,35,6,2,7,1,15213868
+1998,Japan Series,Seibu Lions,8,"Suzuki, Ken",3B,6,,22,0.227,,0.364,,,1,5,4,0,0,1,8,0,,2,,1,,,,,15313868
+1998,Regular Season,Seibu Lions,8,"Suzuki, Ken",3B,135,580,488,0.275,0.376,0.461,0.837,65,65,134,88,23,1,22,225,1,2,80,4,58,16,4,0,8,15313868
+1998,Regular Season,Yakult Swallows,26,"Hata, Shinji",PH,49,52,48,0.167,0.196,0.271,0.467,1,4,8,4,3,1,0,13,1,0,2,0,10,2,0,1,1,21023860
+1998,Regular Season,Hanshin Tigers,8,"Motonishi, Atsuhiro",LF,42,43,37,0.135,0.220,0.162,0.382,8,5,5,4,1,0,0,6,3,1,3,0,12,0,1,2,0,21023864
+1998,Regular Season,Fukuoka Daiei Hawks,17,"Takeda, Kazuhiro",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21023866
+1998,Regular Season,Chunichi Dragons,40,"Masuda, Daisuke",LF,55,135,121,0.231,0.299,0.289,0.588,6,14,28,23,4,0,1,35,1,2,11,0,32,3,1,1,1,21023882
+1998,Regular Season,Orix Bluewave,29,"Igarashi, Akihito",3B,110,245,214,0.206,0.282,0.299,0.581,17,21,44,32,7,2,3,64,1,2,23,1,38,4,0,7,1,21023883
+1998,Regular Season,Kintetsu Buffaloes,28,"Maekawa, Katsuhiko",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21023884
+1998,Regular Season,Kintetsu Buffaloes,3,"Nakamura, Norihiro",3B,132,564,481,0.260,0.363,0.493,0.856,74,90,125,78,14,1,32,237,1,1,74,3,114,12,5,2,2,21023885
+1998,Regular Season,Hanshin Tigers,18,"Yabu, Keiichi",P,25,62,48,0.229,0.302,0.271,0.573,5,4,11,9,2,0,0,13,0,0,5,0,17,1,0,9,0,21023889
+1998,Regular Season,Chunichi Dragons,3,"Tatsunami, Kazuyoshi",LF,134,589,504,0.272,0.367,0.371,0.738,60,43,137,104,24,1,8,187,6,6,74,4,60,8,4,3,4,21123866
+1998,Regular Season,Chunichi Dragons,58,"Onishi, Takayuki",CF,95,111,94,0.266,0.349,0.351,0.700,20,8,25,19,5,0,1,33,16,6,11,0,22,1,1,5,0,21123880
+1998,Regular Season,Chiba Lotte Marines,47,"Iso, Tsuneyuki",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21123886
+1998,Regular Season,Yakult Swallows,20,"Ito, Tomohito",P,31,52,43,0.116,0.156,0.140,0.296,3,1,5,4,1,0,0,6,0,0,2,0,14,0,0,7,0,21123887
+1998,Regular Season,Chunichi Dragons,43,"Endo, Masataka",P,15,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,21123889
+1998,Regular Season,Chunichi Dragons,5,"Watanabe, Hiroyuki",PH,3,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21223882
+1998,Regular Season,Yomiuri Giants,56,"Murata, Yoshinori",C,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21223887
+1998,Regular Season,Yomiuri Giants,19,"Kaneishi, Akihito",P,13,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21323865
+1998,Regular Season,Yomiuri Giants,0,"Kawai, Masahiro",SS,93,300,266,0.256,0.301,0.327,0.628,27,16,68,52,14,1,1,87,2,1,17,1,36,8,1,14,2,21323869
+1998,Regular Season,Nippon-Ham Fighters,2,"Ogasawara, Michihiro",PH,71,98,86,0.302,0.378,0.395,0.773,7,9,26,20,5,0,1,34,1,1,11,1,17,3,0,0,1,21323884
+1998,Regular Season,Hiroshima Toyo Carp,49,"Kikuchihara, Tsuyoshi",P,7,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21323887
+1998,Regular Season,Nippon-Ham Fighters,30,"Kaneko, Makoto",2B,127,442,380,0.263,0.336,0.332,0.668,53,26,100,84,10,2,4,126,11,3,40,0,42,7,2,20,0,21323889
+1998,Regular Season,Fukuoka Daiei Hawks,30,"Uchinokura, Takashi",C,64,149,130,0.231,0.315,0.292,0.607,9,9,30,26,2,0,2,38,0,0,16,0,36,1,0,3,0,21423883
+1998,Regular Season,Chiba Lotte Marines,45,"Carreon, Mark",DH,60,251,227,0.300,0.359,0.458,0.817,22,37,68,48,12,0,8,104,0,0,22,0,20,8,0,0,2,21423884
+1998,Regular Season,Hanshin Tigers,44,"Yoshimoto, Ryo",C,5,6,5,0.000,0.167,0.000,0.167,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,21423887
+1998,Regular Season,Chunichi Dragons,00,"Yamaguchi, Koji",LF,72,136,113,0.221,0.302,0.327,0.629,12,8,25,17,6,0,2,37,4,2,12,0,17,1,1,10,0,21523868
+1998,Regular Season,Fukuoka Daiei Hawks,12,"Saito, Mitsugu",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21523880
+1998,Regular Season,Yokohama BayStars,38,"Kawabata, Kazuaki",PH,43,63,54,0.222,0.276,0.259,0.535,5,1,12,10,2,0,0,14,0,2,4,0,11,0,0,5,0,21523881
+1998,Regular Season,Hiroshima Toyo Carp,15,"Kuroda, Hiroki",P,18,10,9,0.111,0.111,0.111,0.222,0,2,1,1,0,0,0,1,0,0,0,0,3,0,0,1,0,21523884
+1998,Regular Season,Fukuoka Daiei Hawks,16,"Shinohara, Takayuki",P,51,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21523886
+1998,Japan Series,Yokohama BayStars,26,"Saeki, Takahiro",RF,6,,22,0.364,,0.636,,,4,8,3,4,1,0,14,0,,2,,5,,,,,21523887
+1998,Regular Season,Yokohama BayStars,26,"Saeki, Takahiro",RF,108,341,304,0.289,0.357,0.457,0.814,44,55,88,57,20,2,9,139,1,2,31,1,54,2,2,2,2,21523887
+1998,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",2B,130,495,438,0.272,0.340,0.338,0.678,39,32,119,99,15,1,4,148,1,4,45,0,39,10,1,10,1,21623860
+1998,Regular Season,Orix Bluewave,4,"Matsuyama, Hideaki",PR,18,6,6,0.167,0.167,0.167,0.334,7,0,1,1,0,0,0,1,2,0,0,0,1,0,0,0,0,21623881
+1998,Regular Season,Kintetsu Buffaloes,65,"Yachi, Masaki",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21623883
+1998,Regular Season,Fukuoka Daiei Hawks,14,"Wakatabe, Kenichi",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21623885
+1998,Regular Season,Chiba Lotte Marines,42,"Crawford, Joe",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21623886
+1998,Regular Season,Hanshin Tigers,20,"Kakuri, Tateo",P,11,2,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,21623887
+1998,Regular Season,Kintetsu Buffaloes,0,"Suguro, Hironori",SS,40,46,40,0.125,0.239,0.150,0.389,2,0,5,4,1,0,0,6,1,0,6,0,6,0,0,0,0,21723866
+1998,Regular Season,Hiroshima Toyo Carp,60,"Tamura, Kei",C,28,44,41,0.220,0.273,0.268,0.541,4,0,9,7,2,0,0,11,0,0,3,0,7,3,0,0,0,21723880
+1998,Regular Season,Hiroshima Toyo Carp,18,"Sasaoka, Shinji",P,31,39,36,0.222,0.263,0.278,0.541,1,3,8,6,2,0,0,10,0,0,2,0,18,0,0,1,0,21723881
+1998,Regular Season,Fukuoka Daiei Hawks,65,"Shinzato, Shoya",3B,68,102,82,0.220,0.309,0.268,0.577,12,6,18,15,2,1,0,22,5,0,9,0,23,2,2,8,1,21723884
+1998,Regular Season,Nippon-Ham Fighters,48,"Shimazaki, Takeshi",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723885
+1998,Regular Season,Chunichi Dragons,41,"Torigoe, Yusuke",3B,44,29,27,0.074,0.103,0.074,0.177,5,1,2,2,0,0,0,2,4,0,0,0,7,0,1,0,1,21723889
+1998,Regular Season,Yomiuri Giants,50,"Goto, Koji",3B,104,204,178,0.247,0.322,0.331,0.653,28,11,44,34,7,1,2,59,3,1,19,0,33,2,1,5,1,21823868
+1998,Regular Season,Kintetsu Buffaloes,41,"Yoshioka, Yuji",1B,81,222,190,0.268,0.349,0.563,0.912,39,32,51,24,11,3,13,107,1,0,21,0,56,1,3,7,1,21823881
+1998,Regular Season,Yokohama BayStars,9,"Malave, Jose",RF,33,92,87,0.218,0.239,0.299,0.538,5,12,19,14,4,0,1,26,0,0,3,0,21,2,0,0,2,21823886
+1998,Regular Season,Fukuoka Daiei Hawks,22,"Nagadomi, Hiroshi",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21923862
+1998,Regular Season,Hanshin Tigers,37,"Kazaoka, Naoyuki",2B,61,54,49,0.184,0.200,0.224,0.424,10,0,9,8,0,1,0,11,2,1,0,0,10,0,1,4,0,21923866
+1998,Japan Series,Seibu Lions,28,"Takeshita, Jun",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,21923885
+1998,Regular Season,Seibu Lions,28,"Takeshita, Jun",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21923885
+1998,Regular Season,Chunichi Dragons,30,"Tsuruta, Yasushi",P,3,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,21923887
+1998,Regular Season,Chiba Lotte Marines,9,"Fukura, Kazuya",1B,129,526,465,0.284,0.356,0.385,0.741,61,57,132,94,32,3,3,179,1,2,51,3,78,10,4,0,6,21923889
+1998,Japan Series,Seibu Lions,42,"Pemberton, Rudy",PH,4,,7,0.143,,0.571,,,2,1,0,0,0,1,4,0,,0,,3,,,,,23123884
+1998,Regular Season,Seibu Lions,42,"Pemberton, Rudy",PH,38,82,69,0.275,0.378,0.493,0.871,10,15,19,14,0,0,5,34,2,0,10,1,16,0,2,0,1,23123884
+1998,Regular Season,Hanshin Tigers,69,"May, Darrell",P,21,45,38,0.053,0.143,0.105,0.248,0,0,2,0,2,0,0,4,0,0,3,0,29,1,1,3,0,23123886
+1998,Japan Series,Seibu Lions,0,"Kawada, Yusuke",LF,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,0,,,,,23423868
+1998,Regular Season,Seibu Lions,0,"Kawada, Yusuke",LF,77,86,65,0.246,0.359,0.308,0.667,14,3,16,13,2,1,0,20,8,4,12,0,12,0,0,8,1,23423868
+1998,Regular Season,Fukuoka Daiei Hawks,39,"Kawagoe, Toru",C,6,2,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23723868
+1998,Regular Season,Hanshin Tigers,48,"Katase, Kiyotoshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23923868
+1998,Regular Season,Yakult Swallows,0,"Jo, Tomohiro",LF,4,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,25223868
+1998,Regular Season,Yakult Swallows,17,"Kawasaki, Kenjiro",P,31,78,57,0.158,0.210,0.175,0.385,1,7,9,8,1,0,0,10,0,0,4,0,20,1,0,16,1,25923868
+1998,Regular Season,Seibu Lions,12,"Kakiuchi, Tetsuya",PH,23,45,37,0.108,0.267,0.216,0.483,5,1,4,2,1,0,1,8,0,0,7,0,14,1,1,0,0,27123868
+1998,Regular Season,Fukuoka Daiei Hawks,0,"Suzuki, Yoshihiro",RF,34,70,63,0.302,0.328,0.365,0.693,8,5,19,17,1,0,1,23,1,1,3,1,12,0,0,3,1,31033868
+1998,Regular Season,Yomiuri Giants,89,"Minami, Shinichiro",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31033880
+1998,Regular Season,Yomiuri Giants,51,"Enoki, Yasuhiro",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31033883
+1998,Regular Season,Nippon-Ham Fighters,66,"Nishiura, Katsuhiro",LF,134,562,485,0.245,0.338,0.435,0.773,83,62,119,71,24,4,20,211,18,6,67,2,109,14,3,2,5,31033887
+1998,Japan Series,Yokohama BayStars,0,"Manei, Takashi",3B,1,,1,0.000,,0.000,,,1,0,0,0,0,0,0,0,,0,,0,,,,,31033889
+1998,Regular Season,Yokohama BayStars,0,"Manei, Takashi",3B,47,114,105,0.267,0.313,0.324,0.637,20,5,28,24,3,0,1,34,2,1,7,2,19,1,0,2,0,31033889
+1998,Regular Season,Chunichi Dragons,9,"Aiko, Takeshi",PH,78,78,62,0.226,0.364,0.355,0.719,9,13,14,10,2,0,2,22,0,0,13,1,13,1,1,1,1,31133863
+1998,Regular Season,Kintetsu Buffaloes,38,"Abe, Osamu",1B,72,160,144,0.250,0.313,0.333,0.646,17,12,36,26,9,0,1,48,2,0,13,1,19,2,1,0,2,31133869
+1998,Regular Season,Yakult Swallows,16,"Ishii, Kazuhisa",P,36,76,73,0.192,0.203,0.205,0.408,5,11,14,13,1,0,0,15,0,0,1,0,32,2,0,2,0,31133885
+1998,Japan Series,Seibu Lions,14,"Ishii, Takashi",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31133889
+1998,Regular Season,Seibu Lions,14,"Ishii, Takashi",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31133889
+1998,Regular Season,Chunichi Dragons,57,"Hikono, Toshikatsu",PH,7,7,6,0.000,0.143,0.000,0.143,1,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,31233860
+1998,Regular Season,Fukuoka Daiei Hawks,48,"Nishijima, Takayuki",LF,11,18,15,0.200,0.333,0.200,0.533,2,1,3,3,0,0,0,3,1,0,2,0,4,1,1,0,0,31233881
+1998,Regular Season,Yakult Swallows,43,"Miyade, Ryuji",P,4,3,3,0.333,0.333,0.667,1.000,1,1,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,31233882
+1998,Regular Season,Hiroshima Toyo Carp,41,"Kimura, Takuya",PH,86,150,131,0.244,0.310,0.313,0.623,20,8,32,25,5,2,0,41,14,2,13,0,27,0,0,5,1,31233883
+1998,Regular Season,Kintetsu Buffaloes,54,"Nishioka, Hiroshi",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233885
+1998,Regular Season,Nippon-Ham Fighters,33,"Harada, Kenji",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233886
+1998,Regular Season,Orix Bluewave,13,"Makino, Rui",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233887
+1998,Regular Season,Nippon-Ham Fighters,18,"Iwamoto, Tsutomu",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333881
+1998,Regular Season,Hanshin Tigers,41,"Esaka, Masaaki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333885
+1998,Regular Season,Orix Bluewave,28,"Hoshino, Nobuyuki",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31433860
+1998,Regular Season,Yomiuri Giants,17,"Makihara, Hiromi",P,36,20,19,0.053,0.100,0.053,0.153,1,0,1,1,0,0,0,1,0,0,1,0,10,0,0,0,0,31433867
+1998,Regular Season,Orix Bluewave,20,"Kida, Masao",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31433868
+1998,Regular Season,Yakult Swallows,4,"Baba, Toshifumi",3B,71,56,45,0.178,0.260,0.178,0.438,4,4,8,8,0,0,0,8,0,1,4,0,7,0,1,6,0,31433881
+1998,Regular Season,Yomiuri Giants,21,"Cho, Sonmin",P,16,38,37,0.324,0.316,0.378,0.694,2,4,12,10,2,0,0,14,0,0,0,0,17,1,0,0,1,31433882
+1998,Japan Series,Seibu Lions,22,"Wada, Kazuhiro",C,3,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,1,,,,,31433884
+1998,Regular Season,Seibu Lions,22,"Wada, Kazuhiro",C,36,57,51,0.333,0.382,0.549,0.931,8,8,17,12,2,0,3,28,3,1,4,0,11,3,0,2,0,31433884
+1998,Regular Season,Hanshin Tigers,24,"Hiyama, Shinjiro",RF,122,456,398,0.226,0.317,0.407,0.724,42,52,90,52,19,4,15,162,3,5,47,1,101,9,7,2,2,31433885
+1998,Regular Season,Yakult Swallows,45,"Yamamoto, Tatsuki",P,35,8,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,3,0,31433887
+1998,Regular Season,Chiba Lotte Marines,4,"Sakai, Tadaharu",3B,98,217,183,0.246,0.307,0.361,0.668,18,18,45,26,18,0,1,66,1,1,17,0,35,2,0,15,2,31533868
+1998,Regular Season,Chiba Lotte Marines,54,"Kuroki, Tomohiro",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31533880
+1998,Regular Season,Chiba Lotte Marines,15,"Kawamata, Hiroaki",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31533884
+1998,Regular Season,Hiroshima Toyo Carp,40,"Kura, Yoshikazu",C,6,4,4,0.250,0.250,0.250,0.500,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,31533886
+1998,Regular Season,Fukuoka Daiei Hawks,9,"Kokubo, Hiroki",3B,17,75,71,0.225,0.267,0.380,0.647,7,11,16,10,3,1,2,27,0,0,3,1,19,1,1,0,0,31533889
+1998,Regular Season,Kintetsu Buffaloes,17,"Ishige, Hiroshi",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31633868
+1998,Regular Season,Hiroshima Toyo Carp,1,"Maeda, Tomonori",RF,127,551,504,0.335,0.388,0.550,0.938,71,80,169,109,36,0,24,277,5,2,41,1,54,8,4,0,2,31633881
+1998,Regular Season,Hanshin Tigers,42,"Wilson, Desi",PH,16,24,24,0.167,0.167,0.167,0.334,0,3,4,4,0,0,0,4,0,0,0,0,7,1,0,0,0,31633886
+1998,Regular Season,Kintetsu Buffaloes,2,"Suzuki, Takahisa",LF,108,307,278,0.273,0.325,0.385,0.710,23,36,76,55,16,0,5,107,4,0,21,0,38,8,2,2,4,31733862
+1998,Regular Season,Hiroshima Toyo Carp,0,"Ko, Shinji",PH,33,36,30,0.267,0.333,0.300,0.633,2,4,8,7,1,0,0,9,0,0,3,0,4,0,0,3,0,31733866
+1998,Regular Season,Fukuoka Daiei Hawks,2,"Jojima, Kenji",C,122,440,395,0.251,0.309,0.420,0.729,53,58,99,64,19,0,16,166,5,2,27,4,67,18,8,6,4,31733880
+1998,Regular Season,Chiba Lotte Marines,14,"Komiyama, Satoru",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733881
+1998,Regular Season,Chunichi Dragons,53,"Sato, Yasuyuki",P,21,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,31733884
+1998,Regular Season,Hanshin Tigers,62,"Shiotani, Kazuhiko",3B,14,19,19,0.105,0.105,0.105,0.210,1,1,2,2,0,0,0,2,0,0,0,0,6,0,0,0,0,31733887
+1998,Regular Season,Nippon-Ham Fighters,47,"Sekine, Hiroyuki",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733889
+1998,Regular Season,Fukuoka Daiei Hawks,42,"Thompson, Ryan",CF,33,116,107,0.271,0.319,0.393,0.712,10,16,29,20,7,0,2,42,1,1,7,0,26,5,1,0,1,31833886
+1998,Japan Series,Seibu Lions,6,"Tanabe, Norio",2B,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,0,,,,,31933860
+1998,Regular Season,Seibu Lions,6,"Tanabe, Norio",2B,79,185,168,0.250,0.291,0.369,0.660,9,30,42,32,4,2,4,62,0,0,11,1,23,7,0,3,3,31933860
+1998,Regular Season,Yakult Swallows,8,"Tsuji, Hatsuhiko",2B,61,182,168,0.304,0.346,0.387,0.733,20,18,51,43,5,0,3,65,6,1,8,0,17,0,4,0,2,31933869
+1998,Regular Season,Yomiuri Giants,8,"Nishi, Toshihisa",2B,106,479,424,0.274,0.345,0.392,0.737,76,33,116,89,15,1,11,166,17,10,45,1,65,6,2,6,2,31933882
+1998,Regular Season,Nippon-Ham Fighters,31,"Taguchi, Masanori",C,60,139,118,0.203,0.260,0.246,0.506,7,12,24,21,2,0,1,29,0,1,7,0,29,4,2,12,0,31933887
+1998,Regular Season,Chunichi Dragons,8,"Lee, Jong-Beom",SS,67,290,244,0.283,0.387,0.475,0.862,38,29,69,45,11,3,10,116,18,8,36,2,33,4,6,3,1,33133886
+1998,Regular Season,Hiroshima Toyo Carp,32,"Nishiyama, Shuji",C,13,44,37,0.189,0.250,0.405,0.655,3,7,7,3,2,0,2,15,0,0,3,1,3,1,0,4,0,33233868
+1998,Regular Season,Orix Bluewave,27,"Mimbs, Mark",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33333886
+1998,Regular Season,Chunichi Dragons,55,"Yasuda, Hideyuki",RF,20,43,38,0.184,0.279,0.211,0.490,7,0,7,6,1,0,0,8,1,0,5,0,13,0,0,0,0,33933868
+1998,Regular Season,Hiroshima Toyo Carp,00,"Tomashino, Kenji",2B,79,215,186,0.253,0.288,0.382,0.670,15,14,47,33,8,2,4,71,4,1,8,0,41,2,2,17,2,35233868
+1998,Regular Season,Kintetsu Buffaloes,19,"Akahori, Motoyuki",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35433868
+1998,Regular Season,Orix Bluewave,23,"Ogawa, Hirofumi",SS,102,319,290,0.238,0.297,0.359,0.656,30,27,69,48,14,0,7,104,0,2,24,4,64,10,1,3,1,37133868
+1998,Regular Season,Yomiuri Giants,66,"Deguchi, Yudai",PR,6,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,41043881
+1998,Regular Season,Nippon-Ham Fighters,64,"Kojima, Yoshihiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043883
+1998,Regular Season,Chiba Lotte Marines,2,"Omura, Saburo",LF,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41143880
+1998,Regular Season,Yomiuri Giants,6,"Ishii, Hiro",PH,74,184,154,0.253,0.353,0.377,0.730,16,27,39,29,5,1,4,58,0,0,23,0,21,3,3,0,4,41143881
+1998,Regular Season,Nippon-Ham Fighters,17,"Imai, Keigo",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41143884
+1998,Regular Season,Chunichi Dragons,48,"Ibata, Hirokazu",SS,18,60,49,0.245,0.339,0.265,0.604,2,2,12,11,1,0,0,13,4,0,6,0,8,0,1,4,0,41143886
+1998,Regular Season,Kintetsu Buffaloes,27,"Furukubo, Kenji",C,58,40,33,0.061,0.114,0.061,0.175,1,0,2,2,0,0,0,2,0,0,2,0,15,1,0,5,0,41243860
+1998,Regular Season,Fukuoka Daiei Hawks,49,"Yoshida, Shuji",P,63,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243868
+1998,Japan Series,Seibu Lions,34,"Hashimoto, Takehiro",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41243881
+1998,Regular Season,Seibu Lions,34,"Hashimoto, Takehiro",P,66,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41243881
+1998,Regular Season,Chiba Lotte Marines,48,"Hanekawa, Ryu",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243885
+1998,Regular Season,Fukuoka Daiei Hawks,33,"Hoshino, Junji",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243886
+1998,Regular Season,Yomiuri Giants,5,"Kiyohara, Kazuhiro",1B,116,470,384,0.268,0.379,0.484,0.863,67,80,103,66,14,0,23,186,1,0,67,1,76,13,8,0,11,41343862
+1998,Japan Series,Seibu Lions,24,"Kanemura, Yoshiaki",PH,2,,2,0.500,,1.000,,,1,1,0,1,0,0,2,0,,0,,0,,,,,41343865
+1998,Regular Season,Seibu Lions,24,"Kanemura, Yoshiaki",PH,41,52,38,0.263,0.404,0.395,0.799,2,7,10,7,2,0,1,15,0,1,10,0,11,0,1,0,3,41343865
+1998,Regular Season,Chunichi Dragons,45,"Kishikawa, Takatoshi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343880
+1998,Regular Season,Kintetsu Buffaloes,37,"Omori, Takeshi",1B,9,23,21,0.095,0.130,0.095,0.225,1,1,2,2,0,0,0,2,0,0,1,0,3,1,0,0,1,41343881
+1998,Regular Season,Hanshin Tigers,39,"Yano, Akihiro",C,110,340,285,0.211,0.288,0.305,0.593,27,20,60,39,18,0,3,87,1,2,27,3,63,9,4,24,0,41343883
+1998,Regular Season,Fukuoka Daiei Hawks,45,"Okamoto, Katsunori",P,42,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343884
+1998,Regular Season,Hiroshima Toyo Carp,10,"Kanemoto, Tomoaki",LF,133,573,499,0.253,0.347,0.457,0.804,77,74,126,69,33,3,21,228,9,6,68,0,94,2,5,0,1,41343885
+1998,Regular Season,Chunichi Dragons,11,"Kawakami, Kenshin",P,30,64,59,0.102,0.115,0.203,0.318,3,6,6,2,3,0,1,12,0,0,1,0,21,1,0,3,1,41343886
+1998,Regular Season,Kintetsu Buffaloes,46,"Kinugawa, Yukio",1B,3,6,6,0.500,0.500,0.500,1.000,0,1,3,3,0,0,0,3,0,0,0,0,2,0,0,0,0,41343887
+1998,Regular Season,Yokohama BayStars,00,"Kawasaki, Yoshifumi",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343889
+1998,Regular Season,Yokohama BayStars,18,"Miura, Daisuke",P,27,57,56,0.054,0.054,0.054,0.108,1,1,3,3,0,0,0,3,0,0,0,0,20,0,0,1,0,41443885
+1998,Regular Season,Yomiuri Giants,40,"Kono, Hirofumi",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543860
+1998,Regular Season,Orix Bluewave,44,"Takahashi, Satoshi",LF,6,12,11,0.182,0.250,0.273,0.523,1,0,2,1,1,0,0,3,0,1,1,0,7,0,0,0,0,41543864
+1998,Regular Season,Kintetsu Buffaloes,21,"Morita, Koki",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543866
+1998,Regular Season,Yokohama BayStars,4,"Arai, Kiyoshi",PH,13,13,12,0.167,0.231,0.250,0.481,2,0,2,1,1,0,0,3,0,0,1,0,0,0,0,0,0,41543883
+1998,Regular Season,Chiba Lotte Marines,1,"Kosaka, Makoto",SS,124,527,430,0.233,0.299,0.319,0.618,51,33,100,77,12,8,3,137,43,11,40,2,48,3,3,48,6,41543884
+1998,Regular Season,Seibu Lions,54,"Shibasaki, Kazuhiro",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543886
+1998,Regular Season,Yomiuri Giants,57,"Sato, Makoto",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543889
+1998,Regular Season,Yomiuri Giants,22,"Sugiyama, Naoki",C,37,93,84,0.143,0.207,0.214,0.421,4,8,12,10,0,0,2,18,0,0,7,2,26,3,0,1,1,41643868
+1998,Regular Season,Kintetsu Buffaloes,10,"Mizuguchi, Eiji",2B,124,442,373,0.233,0.305,0.300,0.605,47,36,87,69,13,3,2,112,6,4,37,0,33,8,3,26,3,41643883
+1998,Regular Season,Nippon-Ham Fighters,9,"Brooks, Jerry",RF,129,523,459,0.244,0.329,0.429,0.758,58,73,112,78,8,1,25,197,1,1,53,6,64,26,7,0,4,41643884
+1998,Regular Season,Hiroshima Toyo Carp,48,"Wakabayashi, Takanobu",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41643885
+1998,Regular Season,Hiroshima Toyo Carp,65,"Quesada, Alejandro",PH,34,63,61,0.311,0.333,0.475,0.808,8,9,19,15,1,0,3,29,0,0,2,0,14,1,0,0,0,41643886
+1998,Regular Season,Nippon-Ham Fighters,6,"Tanaka, Yukio",SS,107,482,420,0.274,0.361,0.512,0.873,62,63,115,63,28,0,24,215,2,0,53,6,102,8,6,0,3,41743862
+1998,Regular Season,Orix Bluewave,38,"Takada, Makoto",C,19,45,39,0.128,0.190,0.282,0.472,2,1,5,1,3,0,1,11,0,0,3,0,6,1,0,3,0,41743866
+1998,Regular Season,Fukuoka Daiei Hawks,24,"Doi, Masahiro",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743882
+1998,Regular Season,Orix Bluewave,18,"Sugimoto, Yu",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743884
+1998,Regular Season,Seibu Lions,17,"Shintani, Hiroshi",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743885
+1998,Regular Season,Kintetsu Buffaloes,4,"Takasu, Yosuke",2B,3,8,6,0.333,0.286,0.333,0.619,1,1,2,2,0,0,0,2,0,0,0,0,2,0,0,1,1,41743886
+1998,Regular Season,Hiroshima Toyo Carp,28,"Seto, Terunobu",C,120,362,322,0.233,0.277,0.292,0.569,20,27,75,63,8,1,3,94,4,3,18,3,73,8,3,16,3,41843883
+1998,Regular Season,Hiroshima Toyo Carp,43,"Minchey, Nathan",P,35,87,81,0.062,0.095,0.062,0.157,4,1,5,5,0,0,0,5,0,0,3,0,44,2,0,3,0,41843886
+1998,Regular Season,Orix Bluewave,8,"Fujii, Yasuo",1B,126,491,400,0.250,0.381,0.545,0.926,65,80,100,45,22,3,30,218,2,1,85,4,127,2,2,0,4,41943864
+1998,Regular Season,Orix Bluewave,46,"Kiyohara, Yuichi",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943866
+1998,Regular Season,Yokohama BayStars,34,"Fukumori, Kazuo",P,3,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,41943880
+1998,Regular Season,Orix Bluewave,49,"Sugimoto, Naofumi",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943881
+1998,Regular Season,Seibu Lions,30,"Harai, Kazuya",RF,39,34,29,0.207,0.281,0.345,0.626,5,2,6,3,2,1,0,10,2,0,3,0,5,1,0,2,0,41943882
+1998,Regular Season,Chunichi Dragons,37,"Tsutsui, So",LF,35,100,89,0.247,0.316,0.303,0.619,7,4,22,18,3,1,0,27,0,0,9,0,19,3,0,2,0,41943884
+1998,Regular Season,Kintetsu Buffaloes,33,"Daita, Takenori",PR,6,3,1,0.000,0.500,0.000,0.500,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,41943886
+1998,Regular Season,Yokohama BayStars,63,"Tokano, Hisashi",P,42,43,38,0.079,0.103,0.079,0.182,1,0,3,3,0,0,0,3,0,0,1,0,23,0,0,4,0,41943887
+1998,Regular Season,Chunichi Dragons,17,"Lee, Sang-Hoon",P,11,8,7,0.000,0.125,0.000,0.125,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,43143886
+1998,Regular Season,Hiroshima Toyo Carp,7,"Nomura, Kenjiro",SS,135,607,561,0.282,0.333,0.417,0.750,75,49,158,114,26,4,14,234,15,9,41,6,63,8,3,0,2,43243868
+1998,Regular Season,Yakult Swallows,44,"Aoyagi, Susumu",PH,19,23,23,0.087,0.087,0.130,0.217,0,0,2,1,1,0,0,3,0,0,0,0,7,1,0,0,0,43643868
+1998,Regular Season,Chiba Lotte Marines,21,"Hirai, Mitsuchika",RF,116,448,387,0.320,0.391,0.437,0.828,59,35,124,95,21,0,8,169,3,0,45,3,42,4,1,13,2,43843868
+1998,Japan Series,Yokohama BayStars,6,"Nakane, Hitoshi",RF,4,,9,0.333,,0.333,,,1,3,3,0,0,0,3,1,,0,,1,,,,,45643868
+1998,Regular Season,Yokohama BayStars,6,"Nakane, Hitoshi",RF,70,205,176,0.301,0.369,0.466,0.835,25,31,53,33,15,1,4,82,2,1,22,0,38,6,0,1,5,45643868
+1998,Regular Season,Chiba Lotte Marines,55,"Omura, Iwao",LF,95,296,283,0.286,0.314,0.385,0.699,20,38,81,65,10,0,6,109,2,1,11,1,45,13,1,0,1,47143868
+1998,Regular Season,Yakult Swallows,6,"Miyamoto, Shinya",SS,114,402,368,0.258,0.308,0.299,0.607,28,25,95,83,10,1,1,110,5,3,24,4,51,4,3,6,1,51053880
+1998,Regular Season,Orix Bluewave,41,"Takahashi, Koichi",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053881
+1998,Regular Season,Hanshin Tigers,28,"Jozume, Masahiko",C,10,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,51053883
+1998,Regular Season,Seibu Lions,35,"Doi, Yoshihiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053886
+1998,Regular Season,Yomiuri Giants,47,"Nishiyama, Kazutaka",P,49,12,9,0.222,0.364,0.222,0.586,0,0,2,2,0,0,0,2,0,0,2,0,3,0,0,1,0,51053887
+1998,Japan Series,Yokohama BayStars,60,"Arai, Yukio",PH,1,,1,1.000,,1.000,,,0,1,1,0,0,0,1,0,,0,,0,,,,,51153862
+1998,Regular Season,Yokohama BayStars,60,"Arai, Yukio",PH,50,50,46,0.261,0.320,0.348,0.668,7,5,12,10,1,0,1,16,0,0,4,1,10,1,0,0,0,51153862
+1998,Regular Season,Fukuoka Daiei Hawks,1,"Akiyama, Koji",RF,115,473,423,0.260,0.331,0.426,0.757,43,49,110,64,32,4,10,180,7,7,42,2,76,11,4,1,3,51153863
+1998,Japan Series,Yokohama BayStars,49,"Awano, Hideyuki",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51153864
+1998,Regular Season,Yokohama BayStars,49,"Awano, Hideyuki",P,50,9,7,0.000,0.125,0.000,0.125,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,1,0,51153864
+1998,Regular Season,Nippon-Ham Fighters,19,"Atsuzawa, Kazuyuki",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51153880
+1998,Regular Season,Hiroshima Toyo Carp,6,"Asai, Itsuki",1B,109,311,277,0.271,0.347,0.390,0.737,35,40,75,56,11,2,6,108,4,2,31,2,44,6,2,0,1,51153881
+1998,Regular Season,Fukuoka Daiei Hawks,7,"Iguchi, Tadahito",SS,135,476,421,0.221,0.280,0.432,0.712,58,66,93,50,18,4,21,182,12,6,28,1,121,6,8,15,4,51153884
+1998,Regular Season,Nippon-Ham Fighters,5,"Ide, Tatsuya",CF,130,334,296,0.216,0.263,0.328,0.591,38,28,64,45,11,2,6,97,10,5,20,0,56,4,0,15,3,51153889
+1998,Regular Season,Kintetsu Buffaloes,92,"Yamamoto, Kazunori",DH,57,140,119,0.269,0.371,0.403,0.774,9,19,32,20,10,0,2,48,0,1,15,3,22,2,5,0,1,51253861
+1998,Regular Season,Fukuoka Daiei Hawks,21,"Yamasaki, Shintaro",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253864
+1998,Regular Season,Yomiuri Giants,7,"Yoshimura, Sadaaki",PH,71,76,65,0.262,0.368,0.338,0.706,2,10,17,14,2,0,1,22,0,0,11,2,12,1,0,0,0,51253865
+1998,Regular Season,Hanshin Tigers,91,"Yoshida, Toyohiko",P,44,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51253866
+1998,Regular Season,Fukuoka Daiei Hawks,38,"Nishimura, Tatsuji",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253881
+1998,Regular Season,Kintetsu Buffaloes,48,"Muto, Takashi",SS,127,470,392,0.250,0.315,0.316,0.631,53,32,98,75,20,3,0,124,16,9,34,0,36,1,4,38,2,51253882
+1998,Regular Season,Nippon-Ham Fighters,55,"Nemoto, Ryuki",RF,12,22,22,0.091,0.091,0.227,0.318,2,1,2,1,0,0,1,5,0,1,0,0,3,1,0,0,0,51253885
+1998,Regular Season,Yomiuri Giants,55,"Matsui, Hideki",CF,135,603,487,0.292,0.421,0.563,0.984,103,100,142,81,24,3,34,274,3,5,104,2,101,7,8,0,4,51253887
+1998,Regular Season,Fukuoka Daiei Hawks,60,"Yoshimoto, Kazuyoshi",RF,22,22,19,0.211,0.286,0.211,0.497,4,0,4,4,0,0,0,4,1,0,0,0,4,1,2,1,0,51253889
+1998,Regular Season,Kintetsu Buffaloes,16,"Okamoto, Akira",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353882
+1998,Regular Season,Orix Bluewave,52,"Oshima, Koichi",2B,129,506,409,0.276,0.372,0.379,0.751,58,50,113,89,14,2,8,155,10,1,57,0,53,5,7,30,3,51353887
+1998,Regular Season,Yomiuri Giants,28,"Okajima, Hideki",P,14,22,20,0.250,0.286,0.250,0.536,3,1,5,5,0,0,0,5,0,0,1,0,8,0,0,1,0,51353889
+1998,Regular Season,Nippon-Ham Fighters,40,"Yamashita, Kazuhiko",C,9,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51453862
+1998,Regular Season,Yakult Swallows,21,"Watanabe, Hisanobu",P,19,15,14,0.143,0.200,0.214,0.414,1,0,2,1,1,0,0,3,0,1,1,0,7,0,0,0,0,51453869
+1998,Regular Season,Yomiuri Giants,59,"Galvez, Balvino",P,19,54,49,0.102,0.102,0.163,0.265,2,4,5,4,0,0,1,8,0,0,0,0,16,0,0,5,0,51453882
+1998,Regular Season,Yomiuri Giants,25,"Kawaguchi, Kazuhisa",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553863
+1998,Regular Season,Fukuoka Daiei Hawks,47,"Kudo, Kimiyasu",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553865
+1998,Regular Season,Hanshin Tigers,13,"Kasai, Minoru",P,51,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,51553881
+1998,Regular Season,Fukuoka Daiei Hawks,37,"Sakumoto, Masahiro",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553882
+1998,Regular Season,Yakult Swallows,22,"Takatsu, Shingo",P,42,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,51553883
+1998,Japan Series,Yokohama BayStars,16,"Kawamura, Takeo",P,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51553884
+1998,Regular Season,Yokohama BayStars,16,"Kawamura, Takeo",P,30,52,45,0.133,0.188,0.156,0.344,4,3,6,5,1,0,0,7,0,0,3,0,15,1,0,4,0,51553884
+1998,Regular Season,Chunichi Dragons,6,"Kuji, Teruyoshi",SS,122,482,389,0.249,0.342,0.290,0.632,43,18,97,84,10,3,0,113,7,7,52,0,51,5,3,38,0,51553885
+1998,Regular Season,Hiroshima Toyo Carp,29,"Kobayashi, Kanei",P,54,12,10,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,2,0,51553886
+1998,Regular Season,Chunichi Dragons,46,"Koike, Takuichi",P,3,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51553887
+1998,Regular Season,Yakult Swallows,24,"Acre, Mark",P,12,21,19,0.053,0.053,0.105,0.158,0,0,1,0,1,0,0,2,0,0,0,0,11,0,0,2,0,51653886
+1998,Japan Series,Seibu Lions,36,"Deni, Tomori",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51753864
+1998,Regular Season,Seibu Lions,36,"Deni, Tomori",P,53,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51753864
+1998,Japan Series,Seibu Lions,40,"Takagi, Hiroyuki",2B,6,,17,0.294,,0.294,,,1,5,5,0,0,0,5,0,,1,,2,,,,,51753880
+1998,Regular Season,Seibu Lions,40,"Takagi, Hiroyuki",2B,111,275,233,0.202,0.262,0.275,0.537,28,20,47,35,9,1,2,64,2,1,18,0,25,6,2,19,3,51753880
+1998,Regular Season,Hiroshima Toyo Carp,25,"Takayama, Kenichi",PH,21,29,27,0.111,0.138,0.111,0.249,0,1,3,3,0,0,0,3,0,0,1,0,6,0,0,0,1,51753882
+1998,Regular Season,Hiroshima Toyo Carp,14,"Sawazaki, Toshikazu",P,19,6,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,51753884
+1998,Regular Season,Yakult Swallows,42,"Driski, Travis",P,7,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,51853886
+1998,Regular Season,Hanshin Tigers,52,"Toyama, Shoji",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953862
+1998,Japan Series,Seibu Lions,13,"Nishiguchi, Fumiya",P,2,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,4,,,,,51953880
+1998,Regular Season,Seibu Lions,13,"Nishiguchi, Fumiya",P,33,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,51953880
+1998,Regular Season,Chiba Lotte Marines,50,"Shiigi, Takumi",C,53,73,61,0.164,0.250,0.213,0.463,6,3,10,9,0,0,1,13,0,0,7,0,11,0,0,5,0,51953881
+1998,Regular Season,Nippon-Ham Fighters,12,"Numata, Hiroshi",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953882
+1998,Regular Season,Orix Bluewave,63,"Yamamoto, Eiji",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51953883
+1998,Regular Season,Nippon-Ham Fighters,14,"Takahashi, Noriyuki",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953884
+1998,Regular Season,Yomiuri Giants,24,"Takahashi, Yoshinobu",RF,126,515,466,0.300,0.356,0.496,0.852,65,75,140,88,32,1,19,231,3,2,36,1,85,5,7,1,5,51953886
+1998,Regular Season,Hanshin Tigers,26,"Takeuchi, Yoshiya",P,35,9,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,0,51953887
+1998,Japan Series,Yokohama BayStars,2,"Haru, Toshio",CF,6,,24,0.208,,0.292,,,3,5,4,0,1,0,7,1,,2,,2,,,,,51953889
+1998,Regular Season,Yokohama BayStars,2,"Haru, Toshio",CF,106,487,428,0.273,0.338,0.346,0.684,69,39,117,91,23,1,2,148,12,2,39,1,57,5,5,11,4,51953889
+1998,Regular Season,Kintetsu Buffaloes,32,"Leftwich, Phil",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53153886
+1998,Regular Season,Hiroshima Toyo Carp,33,"Eto, Akira",3B,132,580,475,0.253,0.379,0.465,0.844,88,81,120,75,17,0,28,221,7,3,97,1,103,7,3,0,5,53253868
+1998,Regular Season,Hanshin Tigers,46,"Murakami, Seiichi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53753868
+1998,Regular Season,Orix Bluewave,26,"Ito, Takahide",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55853868
+1998,Japan Series,Yokohama BayStars,32,"Inoe, Jun",PH,2,,4,0.500,,1.000,,,1,2,0,2,0,0,4,0,,1,,1,,,,,55953868
+1998,Regular Season,Yokohama BayStars,32,"Inoe, Jun",PH,71,117,109,0.330,0.365,0.413,0.778,10,9,36,28,7,1,0,45,0,3,6,0,29,1,0,2,0,55953868
+1998,Regular Season,Seibu Lions,50,"Hiranuma, Sadaharu",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61063869
+1998,Regular Season,Chunichi Dragons,16,"Yamada, Hiroshi",P,15,11,8,0.125,0.222,0.125,0.347,0,0,1,1,0,0,0,1,0,0,1,0,6,0,0,2,0,61063880
+1998,Regular Season,Chiba Lotte Marines,25,"Matsumoto, Naoki",2B,85,181,165,0.279,0.320,0.400,0.720,19,13,46,34,6,4,2,66,1,0,8,0,16,3,2,6,0,61063882
+1998,Regular Season,Fukuoka Daiei Hawks,26,"Matsunaka, Nobuhiko",DH,34,83,71,0.268,0.361,0.479,0.840,9,10,19,10,6,0,3,34,2,0,10,1,12,0,1,0,1,61063884
+1998,Regular Season,Yomiuri Giants,62,"Nagaike, Yasuo",PR,65,34,31,0.226,0.273,0.290,0.563,6,1,7,6,0,1,0,9,0,1,2,0,4,1,0,1,0,61063885
+1998,Regular Season,Yakult Swallows,19,"Yamabe, Futoshi",P,35,12,12,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,61063889
+1998,Japan Series,Seibu Lions,51,"Ozeki, Tatsuya",RF,6,,21,0.190,,0.333,,,0,4,2,1,1,0,7,0,,3,,1,,,,,61163880
+1998,Regular Season,Seibu Lions,51,"Ozeki, Tatsuya",RF,104,387,322,0.283,0.358,0.370,0.728,44,24,91,73,11,4,3,119,15,10,33,1,37,2,5,27,0,61163880
+1998,Regular Season,Chunichi Dragons,99,"Inoe, Kazuki",RF,107,394,352,0.264,0.332,0.415,0.747,34,31,93,62,18,4,9,146,1,0,35,2,79,13,2,3,2,61163881
+1998,Regular Season,Hanshin Tigers,7,"Imaoka, Makoto",SS,133,524,471,0.293,0.322,0.393,0.715,48,44,138,108,20,3,7,185,6,4,22,0,54,15,0,27,4,61163884
+1998,Regular Season,Nippon-Ham Fighters,44,"Ueda, Yoshinori",RF,120,288,248,0.242,0.331,0.343,0.674,32,15,60,40,17,1,2,85,4,2,32,1,58,7,2,4,2,61163885
+1998,Regular Season,Nippon-Ham Fighters,35,"Imazeki, Masaru",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61163887
+1998,Regular Season,Chiba Lotte Marines,65,"Otsuka, Akira",PR,5,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,61163889
+1998,Regular Season,Hanshin Tigers,50,"Furumizo, Katsuyuki",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61263860
+1998,Regular Season,Kintetsu Buffaloes,5,"Murakami, Takayuki",1B,79,118,107,0.262,0.298,0.477,0.775,14,18,28,16,6,1,5,51,0,1,6,0,23,5,0,4,1,61263869
+1998,Regular Season,Orix Bluewave,99,"Neel, Troy",DH,108,452,389,0.288,0.383,0.576,0.959,52,76,112,57,26,1,28,224,0,1,51,3,108,7,10,0,2,61263880
+1998,Regular Season,Fukuoka Daiei Hawks,44,"Lopez, Luis",1B,134,527,480,0.294,0.346,0.473,0.819,58,68,141,89,35,0,17,227,1,3,34,2,34,14,7,1,5,61263882
+1998,Regular Season,Fukuoka Daiei Hawks,20,"Kimura, Keiji",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61263883
+1998,Regular Season,Fukuoka Daiei Hawks,8,"Hamana, Chihiro",2B,125,409,342,0.272,0.363,0.363,0.726,54,25,93,74,11,4,4,124,7,7,47,0,52,6,2,18,0,61263885
+1998,Regular Season,Orix Bluewave,17,"Maeda, Kazuyuki",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61263886
+1998,Japan Series,Seibu Lions,44,"Shimizu, Masaji",LF,3,,6,0.333,,0.833,,,0,2,0,1,1,0,5,0,,0,,0,,,,,61363868
+1998,Regular Season,Seibu Lions,44,"Shimizu, Masaji",LF,89,145,119,0.303,0.399,0.395,0.794,38,13,36,27,8,0,1,47,20,6,19,0,22,1,0,7,0,61363868
+1998,Regular Season,Yakult Swallows,34,"Kitagawa, Tetsuya",P,24,21,20,0.150,0.150,0.150,0.300,0,0,3,3,0,0,0,3,0,0,0,0,7,1,0,1,0,61363880
+1998,Regular Season,Chiba Lotte Marines,32,"Yamamoto, Yasushi",PH,32,50,45,0.333,0.400,0.578,0.978,6,8,15,7,5,3,0,26,0,0,4,0,9,2,1,0,0,61363883
+1998,Regular Season,Yomiuri Giants,41,"Kimura, Ryuji",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363887
+1998,Regular Season,Seibu Lions,33,"Bross, Terry",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61463880
+1998,Regular Season,Kintetsu Buffaloes,25,"Clark, Phil",DH,135,587,531,0.320,0.378,0.593,0.971,68,114,170,89,48,2,31,315,0,1,45,10,75,19,7,0,4,61463884
+1998,Regular Season,Fukuoka Daiei Hawks,28,"Watanabe, Masakazu",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61463887
+1998,Regular Season,Kintetsu Buffaloes,12,"Koda, Isao",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563860
+1998,Japan Series,Yokohama BayStars,10,"Komada, Norihiro",1B,6,,25,0.280,,0.400,,,7,7,5,1,1,0,10,0,,1,,4,,,,,61563867
+1998,Regular Season,Yokohama BayStars,10,"Komada, Norihiro",1B,136,586,551,0.281,0.311,0.379,0.690,63,81,155,120,25,1,9,209,0,2,27,1,86,21,0,0,8,61563867
+1998,Regular Season,Hanshin Tigers,55,"Taiho, Yasuaki",1B,99,346,307,0.231,0.310,0.492,0.802,41,61,71,33,17,0,21,151,0,0,34,1,94,5,2,1,2,61563868
+1998,Regular Season,Yokohama BayStars,12,"Sekiguchi, Iori",P,46,19,18,0.056,0.105,0.056,0.161,1,0,1,1,0,0,0,1,0,0,1,0,11,0,0,0,0,61563882
+1998,Regular Season,Chiba Lotte Marines,41,"Kobayashi, Hiroyuki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563884
+1998,Japan Series,Yokohama BayStars,11,"Saito, Takashi",P,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,61563885
+1998,Regular Season,Yokohama BayStars,11,"Saito, Takashi",P,35,49,42,0.190,0.227,0.214,0.441,2,4,8,7,1,0,0,9,0,0,2,0,17,2,0,5,0,61563885
+1998,Regular Season,Nippon-Ham Fighters,21,"Shimizu, Akio",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563886
+1998,Regular Season,Yakult Swallows,00,"Sato, Shinichi",LF,30,24,21,0.190,0.292,0.381,0.673,2,4,4,2,1,0,1,8,0,1,3,0,5,2,0,0,0,61563887
+1998,Regular Season,Chunichi Dragons,31,"Minamibuchi, Tokitaka",PH,66,97,87,0.264,0.340,0.333,0.673,1,13,23,17,6,0,0,29,0,0,9,1,9,2,1,0,0,61663881
+1998,Regular Season,Yakult Swallows,10,"Hosey, Dwayne",LF,107,364,317,0.233,0.320,0.401,0.721,35,42,74,48,12,1,13,127,4,3,34,3,84,6,8,2,3,61663884
+1998,Regular Season,Nippon-Ham Fighters,23,"Schullstrom, Erik",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61663886
+1998,Japan Series,Yokohama BayStars,23,"Rose, Robert",2B,6,,21,0.190,,0.476,,,5,4,0,3,0,1,10,0,,5,,4,,,,,61663887
+1998,Regular Season,Yokohama BayStars,23,"Rose, Robert",2B,124,545,468,0.325,0.413,0.526,0.939,70,96,152,100,29,4,19,246,2,3,68,6,79,25,5,0,4,61663887
+1998,Regular Season,Chunichi Dragons,39,"Nakamura, Takeshi",C,128,468,407,0.236,0.321,0.337,0.658,27,42,96,69,18,4,5,137,2,0,49,12,65,10,3,7,2,61763864
+1998,Regular Season,Seibu Lions,47,"Teramoto, Hirofumi",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61763880
+1998,Japan Series,Yokohama BayStars,22,"Sasaki, Kazuhiro",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,61763881
+1998,Regular Season,Yokohama BayStars,22,"Sasaki, Kazuhiro",P,51,9,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,61763881
+1998,Regular Season,Yomiuri Giants,95,"Nomura, Takahito",P,24,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,61763883
+1998,Regular Season,Hanshin Tigers,0,"Yoshida, Hiroshi",PH,34,35,28,0.107,0.265,0.214,0.479,4,1,3,2,0,0,1,6,1,0,5,0,10,1,1,1,0,61863881
+1998,Regular Season,Yakult Swallows,3,"Mouton, Lyle",1B,30,97,87,0.241,0.309,0.437,0.746,7,12,21,10,8,0,3,38,0,1,9,0,27,4,0,0,1,61863886
+1998,Regular Season,Fukuoka Daiei Hawks,15,"Fujii, Masao",P,48,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963880
+1998,Regular Season,Chunichi Dragons,97,"Higasa, Masahito",P,46,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,61963882
+1998,Regular Season,Chunichi Dragons,27,"Nakano, Eiichi",C,16,30,29,0.207,0.233,0.483,0.716,4,3,6,2,2,0,2,14,0,0,0,0,6,1,1,0,0,61963884
+1998,Regular Season,Yakult Swallows,39,"Tabata, Kazuya",P,13,22,19,0.053,0.053,0.053,0.106,0,0,1,1,0,0,0,1,0,0,0,0,10,0,0,3,0,61963885
+1998,Japan Series,Seibu Lions,20,"Toyoda, Kiyoshi",P,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,61963887
+1998,Regular Season,Seibu Lions,20,"Toyoda, Kiyoshi",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963887
+1998,Regular Season,Orix Bluewave,56,"Fukutome, Hiroki",2B,57,67,63,0.175,0.200,0.254,0.454,6,5,11,8,2,0,1,16,0,0,2,0,20,1,0,2,0,61963889
+1998,Regular Season,Hanshin Tigers,1,"Nakagomi, Shin",P,26,48,37,0.162,0.205,0.216,0.421,0,3,6,4,2,0,0,8,0,0,2,0,11,1,0,9,0,63163868
+1998,Regular Season,Kintetsu Buffaloes,44,"Shouse, Brian",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63163886
+1998,Regular Season,Chunichi Dragons,18,"Maeda, Yukinaga",P,36,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,63463868
+1998,Regular Season,Chiba Lotte Marines,39,"Fukuzawa, Yoichi",C,36,38,30,0.200,0.297,0.300,0.597,5,4,6,5,0,0,1,9,0,0,5,0,9,0,0,1,2,63663868
+1998,Regular Season,Yokohama BayStars,39,"Akimoto, Kosaku",C,18,29,26,0.154,0.241,0.231,0.472,0,3,4,2,2,0,0,6,0,0,3,0,9,0,0,0,0,65163868
+1998,Japan Series,Yokohama BayStars,5,"Ishii, Takuro",SS,6,,22,0.364,,0.500,,,1,8,7,0,0,1,11,3,,6,,4,,,,,65563868
+1998,Regular Season,Yokohama BayStars,5,"Ishii, Takuro",SS,135,630,555,0.314,0.389,0.431,0.820,103,48,174,128,34,5,7,239,39,10,63,0,69,4,7,2,2,65563868
+1998,Regular Season,Yakult Swallows,38,"Nonaka, Tetsuhiro",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71073860
+1998,Regular Season,Hanshin Tigers,68,"Kawana, Shinichi",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71073868
+1998,Regular Season,Chunichi Dragons,36,"Fujii, Masashi",PH,3,5,3,0.000,0.400,0.000,0.400,1,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,71073882
+1998,Regular Season,Seibu Lions,61,"Furuya, Tsuyoshi",2B,14,16,14,0.071,0.125,0.071,0.196,0,1,1,1,0,0,0,1,0,0,1,0,4,0,0,0,1,71073884
+1998,Regular Season,Fukuoka Daiei Hawks,19,"Nagai, Tomohiro",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71073886
+1998,Regular Season,Chunichi Dragons,47,"Noguchi, Shigeki",P,30,71,61,0.131,0.197,0.164,0.361,4,4,8,6,2,0,0,10,0,0,5,0,27,3,0,5,0,71073887
+1998,Regular Season,Orix Bluewave,39,"Miwa, Takashi",C,77,213,186,0.231,0.282,0.312,0.594,16,13,43,34,5,2,2,58,1,2,12,0,21,5,2,11,2,71073889
+1998,Japan Series,Seibu Lions,27,"Ito, Tsutomu",C,2,,6,0.333,,0.333,,,0,2,2,0,0,0,2,0,,0,,0,,,,,71173865
+1998,Regular Season,Seibu Lions,27,"Ito, Tsutomu",C,114,370,325,0.243,0.313,0.363,0.676,34,38,79,58,11,2,8,118,4,1,31,0,42,10,3,9,2,71173865
+1998,Regular Season,Chunichi Dragons,50,"Oto, Shigeki",LF,11,21,20,0.100,0.143,0.150,0.293,0,1,2,1,1,0,0,3,0,0,0,0,6,0,1,0,0,71173866
+1998,Regular Season,Chunichi Dragons,14,"Imanaka, Shinji",P,15,18,14,0.143,0.143,0.143,0.286,1,0,2,2,0,0,0,2,0,0,0,0,8,1,0,4,0,71173868
+1998,Regular Season,Chunichi Dragons,2,"Araki, Masahiro",CF,7,1,1,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,71173882
+1998,Regular Season,Yomiuri Giants,39,"Yoshihara, Kosuke",C,35,68,62,0.242,0.284,0.306,0.590,8,4,15,13,1,0,1,19,0,0,4,1,10,2,0,1,1,71173883
+1998,Regular Season,Nippon-Ham Fighters,13,"Ikoma, Masaki",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71173884
+1998,Regular Season,Yokohama BayStars,13,"Igarashi, Hideki",P,40,4,2,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,71173887
+1998,Regular Season,Hanshin Tigers,51,"Inoe, Takao",P,28,21,19,0.000,0.050,0.000,0.050,1,0,0,0,0,0,0,0,0,0,1,0,12,0,0,1,0,71173889
+1998,Regular Season,Yomiuri Giants,10,"Hirosawa, Katsumi",PH,73,192,163,0.301,0.393,0.521,0.914,25,25,49,32,7,1,9,85,1,2,25,1,48,1,1,1,2,71273860
+1998,Regular Season,Chunichi Dragons,59,"Nihei, Kaoru",RF,4,2,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71273881
+1998,Regular Season,Chiba Lotte Marines,20,"Yabuta, Yasuhiko",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71273882
+1998,Regular Season,Orix Bluewave,55,"Hagiwara, Jun",PR,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,71273885
+1998,Regular Season,Yakult Swallows,49,"Matsuda, Shinji",P,34,3,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,71273887
+1998,Regular Season,Fukuoka Daiei Hawks,13,"Watanabe, Hidekazu",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71273889
+1998,Regular Season,Hiroshima Toyo Carp,12,"Kato, Shinichi",P,23,54,44,0.227,0.300,0.273,0.573,2,6,10,8,2,0,0,12,0,1,4,0,14,1,1,4,1,71373869
+1998,Regular Season,Nippon-Ham Fighters,16,"Kanemura, Satoru",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373880
+1998,Regular Season,Fukuoka Daiei Hawks,66,"Saito, Kazumi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373882
+1998,Regular Season,Kintetsu Buffaloes,36,"Okubo, Hideaki",PH,22,34,29,0.138,0.242,0.207,0.449,7,1,4,3,0,1,0,6,1,0,2,0,3,1,2,1,0,71373884
+1998,Regular Season,Chunichi Dragons,26,"Ochiai, Eiji",P,55,4,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,71373885
+1998,Regular Season,Chiba Lotte Marines,63,"Ono, Shingo",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373889
+1998,Regular Season,Chiba Lotte Marines,7,"Franco, Julio",DH,131,562,487,0.290,0.379,0.464,0.843,78,77,141,94,27,2,18,226,7,5,68,8,107,16,4,0,3,71473880
+1998,Regular Season,Hanshin Tigers,54,"Hiratsuka, Katsuhiro",LF,70,210,187,0.273,0.352,0.385,0.737,16,20,51,38,9,0,4,72,0,1,23,2,34,8,0,0,0,71473881
+1998,Regular Season,Nippon-Ham Fighters,15,"Wilson, Nigel",DH,133,569,506,0.255,0.332,0.476,0.808,65,124,129,83,13,0,33,241,1,1,56,7,141,5,4,0,3,71473884
+1998,Regular Season,Yomiuri Giants,49,"Kashiwada, Takashi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71573881
+1998,Regular Season,Chiba Lotte Marines,10,"Sawai, Ryosuke",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71573882
+1998,Regular Season,Kintetsu Buffaloes,23,"Koike, Hideo",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71573887
+1998,Regular Season,Orix Bluewave,54,"Saito, Hidemitsu",SS,6,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,71573889
+1998,Regular Season,Hanshin Tigers,43,"Matsui, Tatsunori",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71673881
+1998,Regular Season,Orix Bluewave,3,"Donnels, Chris",1B,44,164,140,0.264,0.372,0.436,0.808,17,22,37,23,9,0,5,61,1,1,23,0,44,6,1,0,0,71673882
+1998,Regular Season,Kintetsu Buffaloes,62,"Shibata, Kazuya",P,39,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71673883
+1998,Regular Season,Nippon-Ham Fighters,49,"Orellano, Rafael",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71673886
+1998,Regular Season,Chiba Lotte Marines,28,"Sonokawa, Kazumi",P,39,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773862
+1998,Regular Season,Yakult Swallows,5,"Dobashi, Katsuyuki",2B,117,456,397,0.259,0.331,0.363,0.694,48,52,103,80,14,0,9,144,2,0,41,1,42,16,5,6,7,71773864
+1998,Regular Season,Hiroshima Toyo Carp,22,"Takahashi, Ken",P,45,24,23,0.217,0.217,0.261,0.478,1,1,5,4,1,0,0,6,0,0,0,0,11,0,0,1,0,71773880
+1998,Regular Season,Orix Bluewave,60,"Tanaka, Masaoki",PR,8,4,4,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773882
+1998,Regular Season,Hanshin Tigers,16,"Yamazaki, Kazuharu",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773883
+1998,Regular Season,Orix Bluewave,31,"Shiozaki, Makoto",SS,60,134,119,0.235,0.272,0.336,0.608,14,9,28,20,5,2,1,40,0,1,6,0,29,2,0,9,0,71773884
+1998,Regular Season,Orix Bluewave,57,"Sugimoto, Kiyohiko",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773886
+1998,Regular Season,Chunichi Dragons,54,"Jinno, Junichi",2B,44,122,102,0.245,0.339,0.324,0.663,8,16,25,20,3,1,1,33,8,0,13,0,25,1,2,4,1,71773887
+1998,Regular Season,Chiba Lotte Marines,52,"Tachikawa, Takashi",CF,81,182,153,0.216,0.324,0.333,0.657,19,6,33,22,6,3,2,51,3,1,24,3,44,5,1,3,1,71773889
+1998,Regular Season,Hiroshima Toyo Carp,45,"Takahashi, Hideki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71873883
+1998,Regular Season,Hanshin Tigers,25,"Hansen, David",3B,121,451,400,0.253,0.322,0.373,0.695,42,55,101,76,13,1,11,149,0,0,42,0,89,10,2,1,6,71873886
+1998,Regular Season,Chiba Lotte Marines,35,"Takahashi, Masahiro",3B,4,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,71973860
+1998,Regular Season,Seibu Lions,16,"Shiozaki, Tetsuya",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973881
+1998,Regular Season,Hiroshima Toyo Carp,19,"Hasegawa, Masayuki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973882
+1998,Regular Season,Chiba Lotte Marines,11,"Takekiyo, Koji",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973884
+1998,Regular Season,Orix Bluewave,33,"Hirai, Masafumi",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973889
+1998,Regular Season,Yokohama BayStars,36,"Miyakawa, Kazuhiko",PH,8,14,12,0.250,0.286,0.333,0.619,2,1,3,2,1,0,0,4,0,0,1,0,5,0,0,0,1,73173883
+1998,Regular Season,Chunichi Dragons,49,"Taneda, Hitoshi",2B,43,113,100,0.280,0.330,0.430,0.760,10,8,28,20,4,1,3,43,2,1,8,1,11,4,0,4,1,73373881
+1998,Regular Season,Hanshin Tigers,12,"Hoshino, Osamu",3B,59,143,128,0.180,0.250,0.242,0.492,4,2,23,16,6,1,0,31,0,1,10,0,27,3,2,3,0,73573868
+1998,Regular Season,Chiba Lotte Marines,5,"Hori, Koichi",LF,127,493,444,0.241,0.303,0.381,0.684,51,44,107,69,24,4,10,169,12,5,39,4,85,8,2,4,4,73873868
+1998,Regular Season,Orix Bluewave,00,"Hironaga, Yasutaka",PH,41,56,50,0.220,0.286,0.360,0.646,4,9,11,8,1,0,2,18,0,0,4,0,16,3,1,0,1,73973868
+1998,Regular Season,Hanshin Tigers,17,"Yamamura, Hiroki",P,10,6,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,81083880
+1998,Regular Season,Yakult Swallows,35,"Miki, Hajime",PR,4,0,0,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,81083882
+1998,Regular Season,Chiba Lotte Marines,40,"Hoshiba, Takahisa",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81083887
+1998,Regular Season,Nippon-Ham Fighters,3,"Ochiai, Hiromitsu",1B,59,192,162,0.235,0.344,0.309,0.653,11,18,38,30,6,0,2,50,0,1,26,0,22,12,2,0,2,81183848
+1998,Regular Season,Yakult Swallows,1,"Ikeyama, Takahiro",3B,118,455,400,0.275,0.358,0.460,0.818,63,59,110,72,20,0,18,184,3,5,48,1,79,9,4,2,1,81183869
+1998,Japan Series,Seibu Lions,37,"Otomo, Susumu",CF,4,,10,0.300,,0.400,,,2,3,2,1,0,0,4,0,,2,,1,,,,,81183882
+1998,Regular Season,Seibu Lions,37,"Otomo, Susumu",CF,129,480,394,0.269,0.351,0.335,0.686,39,31,106,89,10,5,2,132,13,8,51,0,50,3,1,30,4,81183882
+1998,Regular Season,Yomiuri Giants,20,"Iriki, Yusaku",P,30,31,24,0.167,0.167,0.167,0.334,2,3,4,4,0,0,0,4,0,0,0,0,12,0,0,7,0,81183884
+1998,Regular Season,Hiroshima Toyo Carp,21,"Endo, Ryuji",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81183886
+1998,Regular Season,Yokohama BayStars,56,"Oka, Tomokazu",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81183889
+1998,Regular Season,Chiba Lotte Marines,24,"Yamashita, Norihito",PH,10,10,10,0.100,0.100,0.100,0.200,0,0,1,1,0,0,0,1,0,0,0,0,5,0,0,0,0,81283866
+1998,Regular Season,Yomiuri Giants,9,"Murata, Shinichi",C,107,339,298,0.268,0.332,0.376,0.708,26,47,80,63,9,1,7,112,0,0,29,8,60,11,2,5,5,81283869
+1998,Regular Season,Nippon-Ham Fighters,24,"Shimoyanagi, Tsuyoshi",P,66,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81283883
+1998,Regular Season,Yokohama BayStars,55,"Kishikawa, Katsuya",PH,7,7,6,0.167,0.286,0.167,0.453,0,0,1,1,0,0,0,1,0,0,1,0,2,0,0,0,0,81383860
+1998,Regular Season,Chiba Lotte Marines,57,"Sato, Yukihiko",LF,104,266,231,0.320,0.394,0.502,0.896,32,41,74,48,18,0,8,116,0,2,27,3,44,5,3,2,3,81383864
+1998,Regular Season,Nippon-Ham Fighters,28,"Hashigami, Hideki",LF,91,94,83,0.301,0.366,0.373,0.739,11,12,25,21,3,0,1,31,5,2,9,1,20,2,0,1,1,81383866
+1998,Regular Season,Hanshin Tigers,9,"Kitagawa, Hirotoshi",C,8,19,18,0.056,0.105,0.111,0.216,1,1,1,0,1,0,0,2,0,0,1,0,1,0,0,0,0,81383880
+1998,Regular Season,Nippon-Ham Fighters,26,"Kuroki, Junji",P,41,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383882
+1998,Regular Season,Yomiuri Giants,12,"Ono, Hitoshi",P,15,18,15,0.000,0.063,0.000,0.063,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,2,0,81383884
+1998,Regular Season,Chiba Lotte Marines,27,"Kawamoto, Yasuyuki",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383885
+1998,Regular Season,Yomiuri Giants,29,"Kawanaka, Mototsugu",PR,3,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383886
+1998,Regular Season,Yokohama BayStars,15,"Kawahara, Ryuichi",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383889
+1998,Regular Season,Fukuoka Daiei Hawks,6,"Yugamidani, Hiroshi",3B,53,110,99,0.283,0.311,0.374,0.685,11,6,28,22,4,1,1,37,0,4,4,0,15,2,0,7,0,81483860
+1998,Regular Season,Yakult Swallows,64,"Takagi, Koji",P,24,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,81583864
+1998,Regular Season,Hiroshima Toyo Carp,9,"Ogata, Koichi",CF,107,442,380,0.326,0.400,0.524,0.924,67,59,124,82,24,3,15,199,17,12,47,0,61,6,4,5,6,81583866
+1998,Regular Season,Yomiuri Giants,11,"Saito, Masaki",P,25,57,49,0.184,0.231,0.286,0.517,4,7,9,6,2,0,1,14,0,0,3,0,11,1,0,5,0,81583869
+1998,Japan Series,Seibu Lions,60,"Martinez, Domingo",DH,6,,14,0.071,,0.286,,,2,1,0,0,0,1,4,0,,2,,5,,,,,81683884
+1998,Regular Season,Seibu Lions,60,"Martinez, Domingo",DH,133,563,491,0.283,0.361,0.503,0.864,65,95,139,92,16,1,30,247,4,4,59,6,101,21,5,0,8,81683884
+1998,Regular Season,Chunichi Dragons,12,"Jarvis, Kevin",P,4,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,81683886
+1998,Regular Season,Yokohama BayStars,67,"Nishi, Kiyotaka",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783864
+1998,Regular Season,Yokohama BayStars,48,"Shimada, Naoya",P,54,7,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,81783868
+1998,Regular Season,Hiroshima Toyo Carp,13,"Tomioka, Hisaki",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783880
+1998,Regular Season,Hanshin Tigers,34,"Nakanose, Yukiyasu",P,7,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783882
+1998,Regular Season,Hanshin Tigers,61,"Takahashi, Akinori",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783887
+1998,Regular Season,Orix Bluewave,12,"Mizuo, Yoshitaka",P,55,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81883883
+1998,Regular Season,Orix Bluewave,59,"Bonnici, James",PH,9,11,10,0.000,0.091,0.000,0.091,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,81883884
+1998,Regular Season,Seibu Lions,4,"Raabe, Brian",2B,37,97,83,0.277,0.365,0.373,0.738,7,12,23,19,2,0,2,31,1,0,9,0,5,2,3,1,1,81883886
+1998,Regular Season,Yomiuri Giants,27,"Fukuo, Akihito",PH,32,36,29,0.172,0.333,0.276,0.609,3,2,5,2,3,0,0,8,0,0,6,0,9,0,1,0,0,81983864
+1998,Regular Season,Fukuoka Daiei Hawks,10,"Honma, Mitsuru",PR,17,11,10,0.500,0.500,0.500,1.000,5,0,5,5,0,0,0,5,3,0,0,0,1,0,0,1,0,81983880
+1998,Regular Season,Orix Bluewave,47,"Hidaka, Takeshi",C,78,197,180,0.228,0.276,0.317,0.593,16,14,41,29,10,0,2,57,1,1,11,0,42,3,1,5,0,81983882
+1998,Regular Season,Nippon-Ham Fighters,4,"Narahara, Hiroshi",SS,128,464,364,0.280,0.388,0.327,0.715,72,25,102,91,6,4,1,119,30,6,60,1,50,9,4,36,0,81983883
+1998,Regular Season,Hanshin Tigers,32,"Tsuboi, Tomochika",RF,123,455,413,0.327,0.383,0.414,0.797,63,21,135,105,26,2,2,171,7,5,32,0,80,0,6,3,1,81983886
+1998,Japan Series,Seibu Lions,7,"Matsui, Kazuo",SS,6,,24,0.208,,0.250,,,4,5,4,1,0,0,6,2,,2,,5,,,,,81983889
+1998,Regular Season,Seibu Lions,7,"Matsui, Kazuo",SS,135,641,575,0.311,0.370,0.442,0.812,92,58,179,127,38,5,9,254,43,14,55,9,89,10,1,6,4,81983889
+1998,Regular Season,Yakult Swallows,9,"Anthony, Eric",1B,44,169,151,0.245,0.325,0.523,0.848,20,31,37,19,6,0,12,79,0,1,18,0,53,5,0,0,0,83183886
+1998,Regular Season,Nippon-Ham Fighters,27,"Ishii, Takehiro",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83883868
+1998,Japan Series,Yokohama BayStars,8,"Tanishige, Motonobu",C,6,,18,0.222,,0.444,,,2,4,2,1,0,1,8,0,,5,,5,,,,,85583868
+1998,Regular Season,Yokohama BayStars,8,"Tanishige, Motonobu",C,134,538,461,0.254,0.346,0.399,0.745,50,55,117,79,23,1,14,184,1,2,62,7,83,13,5,6,4,85583868
+1998,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",PH,41,45,37,0.135,0.250,0.216,0.466,5,6,5,4,0,0,1,8,0,0,6,0,9,3,0,1,1,91093866
+1998,Regular Season,Fukuoka Daiei Hawks,64,"Tanoe, Keisaburo",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91093881
+1998,Regular Season,Hanshin Tigers,35,"Funaki, Satoshi",P,10,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,91093882
+1998,Regular Season,Fukuoka Daiei Hawks,36,"Hamagiwa, Yasuji",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91093887
+1998,Regular Season,Chiba Lotte Marines,0,"Morozumi, Kenji",CF,103,217,190,0.279,0.343,0.353,0.696,30,18,53,43,6,4,0,67,4,5,19,0,22,1,1,4,3,91093889
+1998,Regular Season,Hiroshima Toyo Carp,24,"Ono, Yutaka",P,18,14,12,0.333,0.429,0.417,0.846,0,2,4,3,1,0,0,5,0,0,2,0,6,0,0,0,0,91193844
+1998,Regular Season,Yakult Swallows,18,"Ito, Akimitsu",P,31,3,3,0.667,0.667,0.667,1.334,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,91193862
+1998,Regular Season,Yakult Swallows,41,"Inaba, Atsunori",RF,88,280,258,0.279,0.327,0.419,0.746,29,23,72,48,17,2,5,108,4,2,13,1,42,2,6,2,1,91193880
+1998,Regular Season,Hiroshima Toyo Carp,39,"Azuse, Kotaro",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193881
+1998,Regular Season,Hiroshima Toyo Carp,42,"Yamada, Tsutomu",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91293864
+1998,Regular Season,Nippon-Ham Fighters,54,"Noguchi, Toshihiro",C,109,312,268,0.235,0.293,0.422,0.715,37,34,63,36,14,3,10,113,6,3,21,0,61,3,3,15,5,91293881
+1998,Regular Season,Yokohama BayStars,43,"Yokoyama, Yukiya",P,53,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91293882
+1998,Regular Season,Nippon-Ham Fighters,37,"Ishimoto, Tsutomu",PR,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,91293883
+1998,Japan Series,Seibu Lions,19,"Mori, Shinji",P,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91293884
+1998,Regular Season,Seibu Lions,19,"Mori, Shinji",P,52,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91293884
+1998,Regular Season,Kintetsu Buffaloes,35,"Hagiwara, Makoto",PH,4,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,91293885
+1998,Regular Season,Yomiuri Giants,64,"Hiramatsu, Kazuhiro",P,29,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,91293886
+1998,Regular Season,Yakult Swallows,31,"Manaka, Mitsuru",CF,133,561,495,0.275,0.319,0.378,0.697,57,27,136,103,20,8,5,187,12,8,29,0,56,2,4,30,1,91293887
+1998,Regular Season,Yakult Swallows,47,"Watarai, Hirobumi",1B,85,227,205,0.263,0.306,0.366,0.672,26,12,54,41,9,0,4,75,1,1,12,2,32,4,1,8,1,91293889
+1998,Regular Season,Orix Bluewave,11,"Sato, Yoshinori",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393844
+1998,Regular Season,Yomiuri Giants,13,"Okada, Hirokazu",P,35,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,91393862
+1998,Regular Season,Yakult Swallows,33,"Nomura, Katsunori",PH,25,24,23,0.174,0.208,0.174,0.382,0,1,4,4,0,0,0,4,0,0,1,0,7,0,0,0,0,91393882
+1998,Regular Season,Kintetsu Buffaloes,11,"Otsuka, Akinori",P,49,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393884
+1998,Regular Season,Hiroshima Toyo Carp,31,"Obata, Koji",C,38,10,9,0.111,0.111,0.111,0.222,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,1,0,91393885
+1998,Regular Season,Yomiuri Giants,46,"Oda, Kohei",C,2,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91393886
+1998,Regular Season,Orix Bluewave,40,"Kaneda, Masahiko",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393887
+1998,Regular Season,Chunichi Dragons,20,"Son, Donyoru",P,42,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91493882
+1998,Regular Season,Fukuoka Daiei Hawks,46,"Bonishi, Koji",PR,18,14,14,0.143,0.143,0.143,0.286,1,0,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,91493883
+1998,Regular Season,Hiroshima Toyo Carp,5,"Machida, Kojiro",1B,89,198,172,0.244,0.325,0.360,0.685,14,23,42,30,8,0,4,62,2,0,18,2,41,3,4,1,3,91493885
+1998,Japan Series,Yokohama BayStars,1,"Shindo, Tatsuya",3B,6,,24,0.083,,0.083,,,0,2,2,0,0,0,2,0,,1,,9,,,,,91593866
+1998,Regular Season,Yokohama BayStars,1,"Shindo, Tatsuya",3B,124,456,390,0.241,0.331,0.403,0.734,50,54,94,60,19,1,14,157,0,0,52,5,75,14,2,8,3,91593866
+1998,Regular Season,Chiba Lotte Marines,56,"Goto, Toshiyuki",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593880
+1998,Regular Season,Yomiuri Giants,35,"Shimizu, Takayuki",LF,129,535,492,0.301,0.338,0.423,0.761,79,52,148,116,17,2,13,208,16,6,22,1,64,9,8,9,4,91593882
+1998,Regular Season,Fukuoka Daiei Hawks,41,"Kurano, Shinji",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593884
+1998,Regular Season,Orix Bluewave,22,"Kobayashi, Hiroshi",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593887
+1998,Regular Season,Kintetsu Buffaloes,8,"Yoshida, Takashi",SS,85,207,171,0.240,0.314,0.304,0.618,27,11,41,33,6,1,1,52,2,2,17,0,32,6,2,16,1,91693860
+1998,Regular Season,Kintetsu Buffaloes,20,"Rhodes, Tuffy",RF,134,579,494,0.257,0.359,0.441,0.800,81,70,127,80,25,0,22,218,15,3,81,7,120,14,0,0,4,91693882
+1998,Regular Season,Hanshin Tigers,14,"Yuminaga, Tatsuhiro",P,57,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91693885
+1998,Regular Season,Seibu Lions,46,"Carrara, Giovanni",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91693886
+1998,Regular Season,Hiroshima Toyo Carp,4,"Shoda, Kozo",2B,110,425,376,0.274,0.330,0.306,0.636,44,17,103,93,9,0,1,115,0,0,31,0,35,5,1,16,1,91793860
+1998,Japan Series,Seibu Lions,5,"Nakajima, Satoshi",C,5,,12,0.250,,0.500,,,4,3,2,0,0,1,6,0,,1,,0,,,,,91793864
+1998,Regular Season,Seibu Lions,5,"Nakajima, Satoshi",C,60,124,106,0.236,0.314,0.349,0.663,8,7,25,18,4,1,2,37,0,3,7,0,24,4,5,6,0,91793864
+1998,Regular Season,Nippon-Ham Fighters,29,"Shibakusa, Hiroshi",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793868
+1998,Regular Season,Hiroshima Toyo Carp,30,"Tamaki, Shigeo",P,50,9,7,0.000,0.222,0.000,0.222,1,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,91793882
+1998,Regular Season,Fukuoka Daiei Hawks,31,"Shibahara, Hiroshi",CF,111,454,385,0.314,0.389,0.382,0.771,54,35,121,102,14,3,2,147,18,7,47,1,88,3,3,14,5,91793884
+1998,Regular Season,Chunichi Dragons,38,"Suzuki, Fumihiro",C,4,9,8,0.625,0.667,0.750,1.417,2,0,5,4,1,0,0,6,0,0,1,0,0,0,0,0,0,91793886
+1998,Japan Series,Seibu Lions,29,"Sugiyama, Kento",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91793887
+1998,Regular Season,Seibu Lions,29,"Sugiyama, Kento",P,44,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793887
+1998,Regular Season,Hiroshima Toyo Carp,36,"Tanaka, Yoshiki",P,8,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,91793889
+1998,Regular Season,Hiroshima Toyo Carp,17,"Yamasaki, Ken",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91893883
+1998,Regular Season,Orix Bluewave,5,"Pulliam, Harvey",DH,92,377,326,0.285,0.369,0.500,0.869,38,62,93,59,16,0,18,163,1,0,39,0,52,13,7,0,5,91893886
+1998,Regular Season,Chunichi Dragons,19,"Nakayama, Hiroaki",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91993862
+1998,Regular Season,Orix Bluewave,10,"Tani, Yoshitomo",CF,132,532,476,0.284,0.341,0.391,0.732,59,45,135,105,19,1,10,186,1,3,41,0,36,11,3,7,5,91993884
+1998,Regular Season,Kintetsu Buffaloes,24,"Takamura, Hiroshi",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91993885
+1998,Regular Season,Hanshin Tigers,2,"Hirao, Hiroshi",2B,38,60,50,0.140,0.204,0.160,0.364,2,0,7,6,1,0,0,8,0,0,4,0,16,2,0,6,0,91993889
+1998,Japan Series,Yokohama BayStars,7,"Suzuki, Takanori",LF,6,,25,0.480,,0.720,,,8,12,8,3,0,1,18,2,,2,,3,,,,,93193883
+1998,Regular Season,Yokohama BayStars,7,"Suzuki, Takanori",LF,131,583,514,0.337,0.408,0.512,0.920,92,87,173,121,30,6,16,263,3,7,61,2,96,10,4,0,4,93193883
+1998,Regular Season,Hiroshima Toyo Carp,59,"Perdomo, Felix",P,13,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93193885
+1998,Regular Season,Orix Bluewave,15,"Hurtado, Edwin",P,49,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93193886
+1998,Regular Season,Hanshin Tigers,27,"Yamada, Katsuhiko",C,69,146,138,0.203,0.240,0.217,0.457,4,6,28,26,2,0,0,30,0,0,6,1,26,5,1,0,1,93393868
+1998,Regular Season,Fukuoka Daiei Hawks,55,"Omichi, Noriyoshi",LF,90,331,281,0.295,0.383,0.402,0.785,29,38,83,62,16,1,4,113,4,0,39,0,38,5,3,5,3,93993868

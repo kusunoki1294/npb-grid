@@ -1,0 +1,800 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+2010,Regular Season,Tohoku Rakuten Golden Eagles,44,"Nakatani, Jin",1B,1,1.000,2,0,0,0,,01003886
+2010,Regular Season,Tohoku Rakuten Golden Eagles,44,"Nakatani, Jin",C,10,1.000,38,1,0,0,0,01003886
+2010,Regular Season,Saitama Seibu Lions,66,"Tanaka, Yasuhiro",P,11,1.000,1,1,0,0,,01005112
+2010,Regular Season,Saitama Seibu Lions,3,"Nakajima, Hiroyuki",SS,129,0.980,182,365,11,72,,01005113
+2010,Regular Season,Yokohama BayStars,22,"Takasaki, Kentaro",P,7,1.000,4,1,0,0,,01005114
+2010,Regular Season,Hanshin Tigers,25,"Arai, Takahiro",3B,144,0.952,83,232,16,12,,01103888
+2010,Regular Season,Tohoku Rakuten Golden Eagles,21,"Iwakuma, Hisashi",P,28,0.985,14,52,1,1,,01105111
+2010,Regular Season,Chunichi Dragons,25,"Arai, Ryota",1B,22,0.980,94,4,2,7,,01105112
+2010,Regular Season,Chunichi Dragons,25,"Arai, Ryota",3B,1,1.000,1,0,0,0,,01105112
+2010,Regular Season,Hiroshima Toyo Carp,49,"Amaya, Soichiro",OF,93,0.978,176,6,4,1,,01105115
+2010,Regular Season,Tohoku Rakuten Golden Eagles,13,"Isaka, Ryohei",P,7,1.000,2,3,0,1,,01105118
+2010,Regular Season,Yokohama BayStars,32,"Inada, Naoto",2B,1,1.000,0,3,0,0,,01105119
+2010,Regular Season,Yokohama BayStars,32,"Inada, Naoto",3B,2,0.000,0,0,0,0,,01105119
+2010,Regular Season,Tokyo Yakult Swallows,24,"Araki, Takahiro",3B,3,1.000,0,1,0,0,,01105131
+2010,Regular Season,Tokyo Yakult Swallows,24,"Araki, Takahiro",SS,11,0.920,9,14,2,2,,01105131
+2010,Regular Season,Chiba Lotte Marines,65,"Minami, Ryusuke",OF,53,0.980,50,0,1,0,,01205111
+2010,Regular Season,Chiba Lotte Marines,32,"Nemoto, Shunichi",2B,4,1.000,3,4,0,2,,01205112
+2010,Regular Season,Chiba Lotte Marines,32,"Nemoto, Shunichi",3B,7,0.923,3,9,1,0,,01205112
+2010,Regular Season,Saitama Seibu Lions,45,"Fujita, Taiyo",P,48,1.000,0,12,0,4,,01205113
+2010,Regular Season,Chunichi Dragons,1,"Donoue, Naomichi",2B,81,0.995,179,240,2,47,,01205114
+2010,Regular Season,Chunichi Dragons,1,"Donoue, Naomichi",3B,29,1.000,5,11,0,2,,01205114
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,19,"Hayashi, Masanori",P,36,1.000,4,4,0,0,,01205115
+2010,Regular Season,Tohoku Rakuten Golden Eagles,20,"Hasebe, Kohei",P,10,0.800,4,4,2,0,,01205116
+2010,Regular Season,Hiroshima Toyo Carp,20,"Nagakawa, Katsuhiro",P,10,1.000,0,3,0,0,,01205117
+2010,Regular Season,Orix Buffaloes,14,"Furukawa, Shuichi",P,33,1.000,0,2,0,0,,01205131
+2010,Regular Season,Tohoku Rakuten Golden Eagles,7,"Yamasaki, Takeshi",1B,24,1.000,220,20,0,16,,01303868
+2010,Regular Season,Saitama Seibu Lions,7,"Kataoka, Yasuyuki",2B,137,0.988,308,433,9,84,,01305110
+2010,Regular Season,Hiroshima Toyo Carp,19,"Ueno, Hirofumi",P,27,1.000,2,7,0,1,,01305114
+2010,Regular Season,Chiba Lotte Marines,8,"Imae, Toshiaki",3B,137,0.957,125,257,17,28,,01305115
+2010,Regular Season,Yokohama BayStars,58,"Ota, Atori",P,16,1.000,4,7,0,0,,01305116
+2010,Regular Season,Hanshin Tigers,26,"Egusa, Hirotaka",P,21,1.000,2,3,0,0,,01305117
+2010,Regular Season,Hanshin Tigers,4,"Uemoto, Hiroki",2B,8,1.000,8,8,0,0,,01305118
+2010,Regular Season,Orix Buffaloes,17,"Katsuki, Ryota",P,46,1.000,1,8,0,0,,01305119
+2010,Regular Season,Chunichi Dragons,32,"Ohshima, Yohei",OF,99,0.994,172,4,1,0,,01305131
+2010,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,8,0.917,0,11,1,1,,01403862
+2010,Regular Season,Orix Buffaloes,48,"Yoshino, Makoto",P,4,0.000,0,0,0,0,,01405111
+2010,Regular Season,Chunichi Dragons,24,"Kuramoto, Hidenori",OF,64,1.000,75,0,0,0,,01503888
+2010,Regular Season,Chiba Lotte Marines,11,"Ohmine, Yuta",P,13,1.000,3,8,0,0,,01505114
+2010,Regular Season,Tokyo Yakult Swallows,16,"Kato, Mikinori",P,8,1.000,0,2,0,0,,01505116
+2010,Regular Season,Tohoku Rakuten Golden Eagles,58,"Karashima, Wataru",P,12,1.000,0,4,0,0,,01505118
+2010,Regular Season,Saitama Seibu Lions,56,"Kurose, Haruki",3B,6,0.929,4,9,1,0,,01505119
+2010,Regular Season,Saitama Seibu Lions,23,"Ming-Chieh, Hsu",P,22,0.968,6,24,1,1,,01605111
+2010,Regular Season,Yomiuri Giants,31,"Matsumoto, Tetsuya",OF,91,0.994,149,5,1,0,,01605114
+2010,Regular Season,Orix Buffaloes,67,"Yokoyama, Tetsuya",C,11,1.000,32,2,0,0,0,01605117
+2010,Regular Season,Tohoku Rakuten Golden Eagles,98,"Morita, Jobu",1B,1,1.000,2,1,0,0,,01605118
+2010,Regular Season,Tohoku Rakuten Golden Eagles,98,"Morita, Jobu",OF,2,1.000,4,0,0,0,,01605118
+2010,Regular Season,Yokohama BayStars,51,"Castillo, Jose",1B,33,0.992,124,6,1,5,,01605131
+2010,Regular Season,Yokohama BayStars,51,"Castillo, Jose",2B,114,0.977,257,381,15,66,,01605131
+2010,Regular Season,Yokohama BayStars,51,"Castillo, Jose",OF,7,1.000,12,0,0,0,,01605131
+2010,Regular Season,Chunichi Dragons,39,"Shimizu, Masaumi",C,1,0.000,0,0,0,0,0,01703884
+2010,Regular Season,Fukuoka Softbank Hawks,4,"Shimizu, Masaumi",C,1,1.000,3,0,0,0,0,01703884
+2010,Regular Season,Tohoku Rakuten Golden Eagles,12,"Kusano, Daisuke",1B,1,0.000,0,0,0,0,,01705112
+2010,Regular Season,Tohoku Rakuten Golden Eagles,12,"Kusano, Daisuke",2B,14,0.964,34,20,2,7,,01705112
+2010,Regular Season,Tohoku Rakuten Golden Eagles,12,"Kusano, Daisuke",3B,44,0.967,27,89,4,8,,01705112
+2010,Regular Season,Tohoku Rakuten Golden Eagles,12,"Kusano, Daisuke",OF,44,0.961,48,1,2,0,,01705112
+2010,Regular Season,Yokohama BayStars,43,"Kita, Atsushi",OF,3,1.000,4,0,0,0,,01705114
+2010,Regular Season,Hanshin Tigers,51,"Sakurai, Kodai",OF,74,0.967,144,2,5,0,,01705115
+2010,Regular Season,Yokohama BayStars,14,"Kobayashi, Futoshi",P,20,1.000,3,5,0,0,,01705116
+2010,Regular Season,Hiroshima Toyo Carp,66,"Kimura, Shogo",1B,1,0.000,0,0,0,0,,01705117
+2010,Regular Season,Hiroshima Toyo Carp,66,"Kimura, Shogo",2B,35,0.989,80,92,2,18,,01705117
+2010,Regular Season,Hiroshima Toyo Carp,66,"Kimura, Shogo",3B,17,1.000,4,14,0,1,,01705117
+2010,Regular Season,Hiroshima Toyo Carp,66,"Kimura, Shogo",OF,12,1.000,3,0,0,0,,01705117
+2010,Regular Season,Saitama Seibu Lions,31,"Sakata, Ryo",OF,30,1.000,54,2,0,0,,01705118
+2010,Regular Season,Orix Buffaloes,3,"Shimamura, Ikki",3B,12,0.974,10,27,1,3,,01705119
+2010,Regular Season,Tohoku Rakuten Golden Eagles,25,"Yokogawa, Fuminori",OF,4,1.000,4,1,0,0,,01805114
+2010,Regular Season,Tokyo Yakult Swallows,49,"I, Hechon",P,19,0.800,0,4,1,0,,01805118
+2010,Regular Season,Hiroshima Toyo Carp,11,"Huber, Justin",1B,47,0.987,363,18,5,23,,01805131
+2010,Regular Season,Hiroshima Toyo Carp,11,"Huber, Justin",OF,1,1.000,1,0,0,0,,01805131
+2010,Regular Season,Saitama Seibu Lions,57,"Taninaka, Shinji",P,8,0.000,0,0,0,0,,01903884
+2010,Regular Season,Orix Buffaloes,33,"Taguchi, So",OF,30,0.970,32,0,1,0,,01903885
+2010,Regular Season,Tokyo Yakult Swallows,29,"Tanaka, Yuki",P,1,0.000,0,0,0,0,,01903886
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,23,"Nioka, Tomohiro",1B,17,0.993,133,10,1,9,,01903888
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,23,"Nioka, Tomohiro",3B,3,1.000,0,2,0,0,,01903888
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,23,"Nioka, Tomohiro",SS,5,1.000,10,20,0,7,,01903888
+2010,Regular Season,Tohoku Rakuten Golden Eagles,37,"Shima, Motohiro",1B,1,0.000,0,0,0,0,,01905114
+2010,Regular Season,Tohoku Rakuten Golden Eagles,37,"Shima, Motohiro",C,127,0.991,834,69,8,5,6,01905114
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,57,"Sekiguchi, Yuta",OF,2,0.000,0,0,0,0,,01905116
+2010,Regular Season,Chunichi Dragons,35,"Takashima, Shohei",P,1,0.000,0,0,0,0,,01905118
+2010,Regular Season,Chunichi Dragons,63,"Donoe, Takehiro",OF,22,1.000,25,0,0,0,,01905119
+2010,Regular Season,Yomiuri Giants,19,"Tsuchimoto, Kyohei",P,4,0.000,0,0,0,0,,01905131
+2010,Regular Season,Saitama Seibu Lions,54,"Graman, Alex",P,7,0.667,0,2,1,0,,03105112
+2010,Regular Season,Yomiuri Giants,29,"Greisinger, Seth",P,6,1.000,1,2,0,0,,03105114
+2010,Regular Season,Fukuoka Softbank Hawks,25,"Falkenborg, Brian",P,60,0.875,2,5,1,0,,03105118
+2010,Regular Season,Tohoku Rakuten Golden Eagles,50,"Morillo, Juan",P,7,1.000,0,1,0,0,,03105131
+2010,Regular Season,Saitama Seibu Lions,52,"Fernandez, Jose",1B,55,0.998,424,24,1,37,,03305117
+2010,Regular Season,Saitama Seibu Lions,52,"Fernandez, Jose",3B,1,0.000,0,0,1,0,,03305117
+2010,Regular Season,Orix Buffaloes,91,"Caraballo, Francisco",OF,25,0.946,53,0,3,0,,03305131
+2010,Regular Season,Hiroshima Toyo Carp,99,"Soriano, Dioni",P,10,1.000,1,6,0,0,,03505118
+2010,Regular Season,Orix Buffaloes,7,"Hamanaka, Osamu",OF,4,0.857,6,0,1,0,,11013884
+2010,Regular Season,Yokohama BayStars,15,"Takamiya, Kazuya",P,21,0.500,0,1,1,0,,11015112
+2010,Regular Season,Orix Buffaloes,37,"Tsuji, Toshiya",C,4,1.000,9,1,0,0,0,11015115
+2010,Regular Season,Yokohama BayStars,46,"Tanaka, Kenjiro",P,5,1.000,3,4,0,1,,11015116
+2010,Regular Season,Chiba Lotte Marines,17,"Naruse, Yoshihisa",P,28,0.977,11,31,1,0,,11015119
+2010,Regular Season,Hiroshima Toyo Carp,23,"Yokoyama, Ryuji",P,46,1.000,3,12,0,0,,11213880
+2010,Regular Season,Hiroshima Toyo Carp,53,"Hayashi, Masaki",P,26,1.000,2,4,0,0,,11213886
+2010,Regular Season,Chiba Lotte Marines,13,"Hashimoto, Kentaro",P,9,1.000,0,3,0,0,,11215110
+2010,Regular Season,Hiroshima Toyo Carp,56,"Nakatani, Tsubasa",3B,1,0.667,0,2,1,0,,11215112
+2010,Regular Season,Saitama Seibu Lions,22,"Noda, Kosuke",C,5,0.909,10,0,1,0,0,11215113
+2010,Regular Season,Tohoku Rakuten Golden Eagles,18,"Tanaka, Masahiro",P,20,1.000,6,28,0,2,,11215114
+2010,Regular Season,Yokohama BayStars,53,"Nonaka, Shingo",2B,3,1.000,0,1,0,0,,11215115
+2010,Regular Season,Yokohama BayStars,53,"Nonaka, Shingo",OF,4,1.000,1,0,0,0,,11215115
+2010,Regular Season,Yokohama BayStars,53,"Nonaka, Shingo",SS,2,1.000,1,3,0,0,,11215115
+2010,Regular Season,Fukuoka Softbank Hawks,14,"Mahara, Takahiro",P,53,1.000,4,14,0,1,,11215119
+2010,Regular Season,Fukuoka Softbank Hawks,43,"Egawa, Tomoaki",1B,3,1.000,4,0,0,2,,11315110
+2010,Regular Season,Fukuoka Softbank Hawks,43,"Egawa, Tomoaki",OF,16,1.000,26,0,0,0,,11315110
+2010,Regular Season,Hiroshima Toyo Carp,62,"Imai, Keisuke",P,11,1.000,2,2,0,0,,11315112
+2010,Regular Season,Saitama Seibu Lions,25,"Iwasaki, Tetsuya",P,1,0.000,0,0,0,0,,11315114
+2010,Regular Season,Tokyo Yakult Swallows,19,"Ishikawa, Masanori",P,28,0.979,10,36,1,3,,11315115
+2010,Regular Season,Chiba Lotte Marines,30,"Ito, Yoshihiro",P,65,1.000,2,16,0,2,,11315116
+2010,Regular Season,Orix Buffaloes,26,"Ihara, Masaki",P,6,1.000,0,7,0,1,,11315118
+2010,Regular Season,Hiroshima Toyo Carp,67,"Ito, Kota",P,5,0.000,0,0,0,0,,11315131
+2010,Regular Season,Yomiuri Giants,36,"Nakamura, Micheal",P,37,0.900,4,5,1,1,,11415110
+2010,Regular Season,Chunichi Dragons,40,"Nishikawa, Akira",2B,2,1.000,1,2,0,0,,11415114
+2010,Regular Season,Tokyo Yakult Swallows,37,"Fukukawa, Masakazu",C,13,1.000,27,1,0,0,0,11415115
+2010,Regular Season,Chiba Lotte Marines,46,"Kawagoe, Hidetaka",P,15,0.938,3,12,1,1,,11513888
+2010,Regular Season,Chunichi Dragons,17,"Kawai, Yudai",P,6,0.950,4,15,1,1,,11515110
+2010,Regular Season,Chunichi Dragons,65,"Oyama, Keiji",1B,1,1.000,1,1,0,0,,11515112
+2010,Regular Season,Chunichi Dragons,65,"Oyama, Keiji",C,29,0.993,137,9,1,1,3,11515112
+2010,Regular Season,Saitama Seibu Lions,0,"Osaki, Yutaro",OF,20,1.000,31,0,0,0,,11515114
+2010,Regular Season,Hiroshima Toyo Carp,17,"Ohtake, Kan",P,3,1.000,2,3,0,0,,11515115
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,53,"Ozaki, Masaya",1B,3,1.000,26,1,0,4,,11515117
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,53,"Ozaki, Masaya",C,3,1.000,3,0,0,0,0,11515117
+2010,Regular Season,Tokyo Yakult Swallows,17,"Kawashima, Ryo",P,7,1.000,0,4,0,0,,11515119
+2010,Regular Season,Tokyo Yakult Swallows,51,"Yamagishi, Minoru",P,4,1.000,0,1,0,0,,11615110
+2010,Regular Season,Tokyo Yakult Swallows,44,"Matsui, Kosuke",P,21,0.500,0,2,2,1,,11615112
+2010,Regular Season,Fukuoka Softbank Hawks,37,"Fukuda, Shuhei",1B,2,1.000,3,0,0,0,,11615114
+2010,Regular Season,Fukuoka Softbank Hawks,37,"Fukuda, Shuhei",OF,13,1.000,7,0,0,0,,11615114
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,51,"Murata, Kazuya",OF,13,1.000,15,0,0,0,,11615116
+2010,Regular Season,Tokyo Yakult Swallows,68,"Morioka, Ryosuke",2B,3,1.000,3,12,0,0,,11615117
+2010,Regular Season,Tokyo Yakult Swallows,68,"Morioka, Ryosuke",3B,2,1.000,0,3,0,0,,11615117
+2010,Regular Season,Tokyo Yakult Swallows,68,"Morioka, Ryosuke",SS,12,0.972,15,20,1,5,,11615117
+2010,Regular Season,Yokohama BayStars,36,"Hosoyamada, Takeshi",C,19,0.989,86,7,1,0,2,11615118
+2010,Regular Season,Hiroshima Toyo Carp,58,"Kojima, Shinjiro",P,4,0.000,0,0,0,0,,11715110
+2010,Regular Season,Hiroshima Toyo Carp,51,"Suenaga, Masafumi",OF,18,0.943,32,1,2,0,,11715111
+2010,Regular Season,Hanshin Tigers,99,"Kano, Keisuke",C,1,1.000,3,0,0,0,0,11715113
+2010,Regular Season,Hanshin Tigers,99,"Kano, Keisuke",OF,19,0.963,25,1,1,1,,11715113
+2010,Regular Season,Yokohama BayStars,54,"Kosugi, Yota",P,8,1.000,4,2,0,0,,11715118
+2010,Regular Season,Fukuoka Softbank Hawks,34,"Yamada, Hiroki",P,13,0.833,0,5,1,0,,11815114
+2010,Regular Season,Tokyo Yakult Swallows,12,"Imu, Chanyon",P,53,1.000,4,9,0,1,,11815116
+2010,Regular Season,Fukuoka Softbank Hawks,21,"Wada, Tsuyoshi",P,26,0.968,3,27,1,4,,11815117
+2010,Regular Season,Hiroshima Toyo Carp,91,"Alvarado, Giancarlo",P,20,1.000,5,23,0,1,,11815131
+2010,Regular Season,Fukuoka Softbank Hawks,64,"Takahashi, Toru",P,2,0.000,0,0,0,0,,11915110
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,3,"Tanaka, Kensuke",2B,143,0.980,343,473,17,122,,11915111
+2010,Regular Season,Hanshin Tigers,29,"Kojima, Tatsuya",P,4,1.000,2,1,0,0,,11915114
+2010,Regular Season,Hiroshima Toyo Carp,14,"Shinoda, Junpei",P,34,0.955,4,17,1,1,,11915116
+2010,Regular Season,Saitama Seibu Lions,6,"Goto, Taketoshi",1B,10,1.000,64,5,0,5,,11915117
+2010,Regular Season,Saitama Seibu Lions,6,"Goto, Taketoshi",OF,2,1.000,0,2,0,0,,11915117
+2010,Regular Season,Yomiuri Giants,23,"Wakiya, Ryota",2B,78,0.991,150,196,3,48,,13115112
+2010,Regular Season,Yomiuri Giants,23,"Wakiya, Ryota",3B,67,0.967,38,79,4,4,,13115112
+2010,Regular Season,Tokyo Yakult Swallows,4,"D'Antona, Jamie",1B,71,0.997,563,40,2,40,,13115118
+2010,Regular Season,Tokyo Yakult Swallows,4,"D'Antona, Jamie",OF,3,1.000,5,0,0,0,,13115118
+2010,Regular Season,Yomiuri Giants,118,"Huang, Chih Lung",P,3,1.000,1,1,0,0,,13115131
+2010,Regular Season,Fukuoka Softbank Hawks,53,"Adam Durbin, Joseph",P,3,1.000,0,3,0,1,,13315131
+2010,Regular Season,Hanshin Tigers,64,"Zen, Kaiun",P,1,0.000,0,0,0,0,,13515118
+2010,Regular Season,Tohoku Rakuten Golden Eagles,99,"Nakamura, Norihiro",1B,57,0.996,262,13,1,27,,21023885
+2010,Regular Season,Tohoku Rakuten Golden Eagles,99,"Nakamura, Norihiro",3B,98,0.955,62,171,11,18,,21023885
+2010,Regular Season,Tohoku Rakuten Golden Eagles,64,"Yabu, Keiichi",P,11,1.000,0,3,0,0,,21023889
+2010,Regular Season,Chiba Lotte Marines,16,"Heiuchi, Hisao",1B,34,1.000,44,7,0,4,,21025111
+2010,Regular Season,Chiba Lotte Marines,16,"Heiuchi, Hisao",3B,3,1.000,2,0,0,0,,21025111
+2010,Regular Season,Yomiuri Giants,61,"Nakai, Daisuke",2B,2,0.909,6,4,1,3,,21025116
+2010,Regular Season,Yomiuri Giants,61,"Nakai, Daisuke",3B,2,1.000,1,2,0,0,,21025116
+2010,Regular Season,Fukuoka Softbank Hawks,42,"Doue, Hayato",C,4,1.000,13,4,0,0,1,21025118
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,36,"Nakamura, Masaru",P,4,1.000,1,2,0,0,,21025131
+2010,Regular Season,Yomiuri Giants,10,"Abe, Shinnosuke",1B,5,0.955,41,1,2,5,,21125113
+2010,Regular Season,Yomiuri Giants,10,"Abe, Shinnosuke",C,137,0.999,958,94,1,10,7,21125113
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,20,"Itokazu, Keisaku",P,8,1.000,4,5,0,0,,21125114
+2010,Regular Season,Tohoku Rakuten Golden Eagles,26,"Arime, Kanehisa",P,13,1.000,0,2,0,0,,21125115
+2010,Regular Season,Hanshin Tigers,48,"Ishikawa, Shunsuke",P,4,1.000,0,1,0,0,,21125116
+2010,Regular Season,Chunichi Dragons,18,"Itoh, Junki",P,3,1.000,2,2,0,1,,21125118
+2010,Regular Season,Chunichi Dragons,30,"Morino, Masahiko",1B,29,1.000,54,3,0,11,,21223884
+2010,Regular Season,Chunichi Dragons,30,"Morino, Masahiko",3B,143,0.952,97,283,19,31,,21223884
+2010,Regular Season,Yomiuri Giants,51,"Furuki, Shigeyuki",1B,2,1.000,3,0,0,2,,21223886
+2010,Regular Season,Yomiuri Giants,51,"Furuki, Shigeyuki",2B,51,0.956,46,84,6,17,,21223886
+2010,Regular Season,Yomiuri Giants,51,"Furuki, Shigeyuki",3B,11,0.750,0,6,2,1,,21223886
+2010,Regular Season,Yokohama BayStars,00,"Morikasa, Shigeru",OF,3,1.000,8,0,0,0,,21223888
+2010,Regular Season,Yokohama BayStars,23,"Fujita, Kazuya",2B,38,1.000,51,70,0,12,,21225110
+2010,Regular Season,Yokohama BayStars,23,"Fujita, Kazuya",3B,3,1.000,1,5,0,1,,21225110
+2010,Regular Season,Yokohama BayStars,23,"Fujita, Kazuya",SS,44,0.962,34,91,5,16,,21225110
+2010,Regular Season,Tokyo Yakult Swallows,10,"Fujimoto, Atsushi",SS,62,0.957,87,158,11,31,,21225113
+2010,Regular Season,Tohoku Rakuten Golden Eagles,30,"Nagai, Satoshi",P,27,1.000,7,16,0,0,,21225114
+2010,Regular Season,Chunichi Dragons,61,"Hisamoto, Yuichi",P,6,0.000,0,0,0,0,,21225115
+2010,Regular Season,Chiba Lotte Marines,20,"Hattori, Yasutaka",P,8,0.000,0,0,0,0,,21225116
+2010,Regular Season,Tohoku Rakuten Golden Eagles,8,"Nakashima, Toshiya",OF,1,1.000,2,0,0,0,,21225117
+2010,Regular Season,Hanshin Tigers,43,"Nishimura, Ken",OF,1,0.000,0,0,0,0,,21225118
+2010,Regular Season,Hanshin Tigers,43,"Nishimura, Ken",P,65,0.917,2,9,1,0,,21225118
+2010,Regular Season,Yomiuri Giants,100,"Hoshino, Masumi",P,34,1.000,0,5,0,0,,21225131
+2010,Regular Season,Chunichi Dragons,60,"Kawahara, Junichi",P,4,1.000,0,1,0,0,,21323880
+2010,Regular Season,Yomiuri Giants,2,"Ogasawara, Michihiro",1B,49,0.994,310,21,2,28,,21323884
+2010,Regular Season,Yomiuri Giants,2,"Ogasawara, Michihiro",3B,102,0.942,71,171,15,19,,21323884
+2010,Regular Season,Orix Buffaloes,46,"Kikuchihara, Tsuyoshi",P,18,1.000,1,4,0,0,,21323887
+2010,Regular Season,Yomiuri Giants,40,"Kato, Ken",C,1,0.000,0,0,0,0,0,21323888
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,8,"Kaneko, Makoto",SS,77,0.974,113,261,10,59,,21323889
+2010,Regular Season,Yokohama BayStars,2,"Uchikawa, Seiichi",1B,73,0.994,651,38,4,47,,21325113
+2010,Regular Season,Yokohama BayStars,2,"Uchikawa, Seiichi",OF,72,1.000,127,6,0,2,,21325113
+2010,Regular Season,Chiba Lotte Marines,59,"Hosoya, Kei",3B,4,0.800,0,8,2,0,,21425112
+2010,Regular Season,Fukuoka Softbank Hawks,30,"Hasegawa, Yuya",OF,134,0.989,268,4,3,0,,21425114
+2010,Regular Season,Hiroshima Toyo Carp,63,"Maru, Yoshihiro",OF,9,1.000,11,0,0,0,,21425116
+2010,Regular Season,Hiroshima Toyo Carp,45,"Matsumoto, Takaaki",2B,1,1.000,3,2,0,1,,21425117
+2010,Regular Season,Hiroshima Toyo Carp,45,"Matsumoto, Takaaki",3B,1,0.667,1,1,1,0,,21425117
+2010,Regular Season,Hiroshima Toyo Carp,45,"Matsumoto, Takaaki",OF,1,0.000,0,0,0,0,,21425117
+2010,Regular Season,Yokohama BayStars,34,"Shinohara, Takayuki",P,20,1.000,1,0,0,0,,21523886
+2010,Regular Season,Chunichi Dragons,44,"Koike, Masaaki",1B,8,1.000,45,2,0,4,,21523888
+2010,Regular Season,Chunichi Dragons,44,"Koike, Masaaki",OF,33,1.000,24,0,0,0,,21523888
+2010,Regular Season,Yokohama BayStars,57,"Kato, Kosuke",P,49,1.000,1,5,0,0,,21525113
+2010,Regular Season,Fukuoka Softbank Hawks,38,"Kamiuchi, Yasushi",P,10,1.000,1,2,0,0,,21525115
+2010,Regular Season,Chiba Lotte Marines,19,"Karakawa, Yuki",P,11,1.000,4,8,0,0,,21525116
+2010,Regular Season,Orix Buffaloes,15,"Kato, Daisuke",P,20,1.000,4,0,0,0,,21525117
+2010,Regular Season,Yokohama BayStars,16,"Kaga, Shigeru",P,27,0.955,9,33,2,4,,21525131
+2010,Regular Season,Yomiuri Giants,42,"Kroon, Marc",P,52,1.000,2,4,0,0,,21625110
+2010,Regular Season,Tokyo Yakult Swallows,15,"Muranaka, Kyohei",P,28,0.982,15,40,1,0,,21625112
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,12,"Carlyle, Buddy",P,7,1.000,0,2,0,0,,21625113
+2010,Regular Season,Hiroshima Toyo Carp,59,"Yamamoto, Yoshihiko",1B,16,1.000,21,3,0,3,,21625115
+2010,Regular Season,Hiroshima Toyo Carp,59,"Yamamoto, Yoshihiko",2B,6,1.000,3,5,0,0,,21625115
+2010,Regular Season,Hiroshima Toyo Carp,59,"Yamamoto, Yoshihiko",3B,7,0.900,1,8,1,0,,21625115
+2010,Regular Season,Hiroshima Toyo Carp,59,"Yamamoto, Yoshihiko",OF,4,1.000,5,0,0,0,,21625115
+2010,Regular Season,Chunichi Dragons,26,"Yamauchi, Soma",P,6,0.933,2,12,1,0,,21625116
+2010,Regular Season,Tokyo Yakult Swallows,62,"Yoshikawa, Masahiro",P,9,1.000,0,2,0,0,,21625117
+2010,Regular Season,Chunichi Dragons,21,"Chen, Wei-Yin",P,29,0.958,9,37,2,2,,21625119
+2010,Regular Season,Chiba Lotte Marines,52,"Kimu, Tegyun",1B,135,0.993,1113,77,8,99,,21625131
+2010,Regular Season,Yomiuri Giants,43,"Tsuruoka, Kazunari",C,31,1.000,93,7,0,1,1,21723882
+2010,Regular Season,Yokohama BayStars,59,"Kurobane, Toshiki",C,13,0.981,47,5,1,0,1,21725112
+2010,Regular Season,Tokyo Yakult Swallows,38,"Kinugawa, Atsushi",C,6,0.909,19,1,2,0,0,21725114
+2010,Regular Season,Saitama Seibu Lions,65,"Saito, Shogo",OF,5,1.000,3,0,0,0,,21725116
+2010,Regular Season,Yomiuri Giants,11,"Kubo, Yuya",P,79,0.950,8,11,1,0,,21725117
+2010,Regular Season,Tokyo Yakult Swallows,31,"Matsumoto, Yuichi",1B,3,1.000,20,0,0,0,,21823888
+2010,Regular Season,Tokyo Yakult Swallows,31,"Matsumoto, Yuichi",OF,5,1.000,6,0,0,0,,21823888
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,24,"Yoh, Daikan",OF,96,0.992,127,3,1,0,,21825112
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,24,"Yoh, Daikan",SS,3,1.000,0,1,0,0,,21825112
+2010,Regular Season,Hanshin Tigers,68,"Yokoyama, Ryunosuke",P,2,0.000,0,0,0,0,,21825114
+2010,Regular Season,Hiroshima Toyo Carp,70,"Schultz, Mike",P,11,1.000,1,3,0,0,,21825116
+2010,Regular Season,Hiroshima Toyo Carp,43,"Fiorentino, Jeff",OF,39,0.982,51,3,1,1,,21825131
+2010,Regular Season,Hiroshima Toyo Carp,2,"Higashide, Akihiro",2B,107,0.988,233,338,7,66,,21923888
+2010,Regular Season,Chiba Lotte Marines,9,"Fukura, Kazuya",1B,10,0.988,75,4,1,7,,21923889
+2010,Regular Season,Tokyo Yakult Swallows,7,"Tanaka, Hiroyasu",2B,140,0.989,317,468,9,98,,21925110
+2010,Regular Season,Hiroshima Toyo Carp,6,"Soyogi, Eishin",SS,144,0.990,230,462,7,90,,21925112
+2010,Regular Season,Chunichi Dragons,12,"Shimizu, Akinobu",P,44,0.923,6,6,1,0,,21925114
+2010,Regular Season,Orix Buffaloes,9,"Sakaguchi, Tomotaka",OF,136,0.996,266,7,1,1,,21925117
+2010,Regular Season,Hanshin Tigers,1,"Toritani, Takashi",SS,140,0.989,205,443,7,98,,21925119
+2010,Regular Season,Tohoku Rakuten Golden Eagles,40,"Tsuchiya, Tomohiro",P,3,0.000,0,0,0,0,,21925131
+2010,Regular Season,Chunichi Dragons,42,"Blanco, Tony",1B,130,0.988,1056,83,14,87,,23125118
+2010,Regular Season,Chiba Lotte Marines,44,"Penn, Hayden",P,8,0.933,1,13,1,0,,23325131
+2010,Regular Season,Yomiuri Giants,91,"Obispo, Wirfin",P,14,0.923,3,9,1,0,,23525114
+2010,Regular Season,Yokohama BayStars,68,"Randolph, Stephen",P,16,0.952,4,16,1,0,,23525118
+2010,Regular Season,Yomiuri Giants,17,"Tono, Shun",P,27,1.000,4,20,0,1,,31035110
+2010,Regular Season,Tokyo Yakult Swallows,8,"Takeuchi, Shinichi",1B,60,1.000,178,12,0,14,,31035112
+2010,Regular Season,Tokyo Yakult Swallows,8,"Takeuchi, Shinichi",OF,18,1.000,16,2,0,0,,31035112
+2010,Regular Season,Tohoku Rakuten Golden Eagles,46,"Tsuchiya, Teppei",OF,127,0.984,239,5,4,1,,31035113
+2010,Regular Season,Orix Buffaloes,36,"Shimoyama, Shinji",OF,27,0.949,36,1,2,0,,31035117
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,48,"Tanimoto, Keisuke",P,14,1.000,0,2,0,0,,31035118
+2010,Regular Season,Yomiuri Giants,35,"Nishimura, Kentaro",P,14,1.000,4,14,0,1,,31035119
+2010,Regular Season,Saitama Seibu Lions,16,"Ishii, Kazuhisa",P,18,0.941,3,13,1,0,,31133885
+2010,Regular Season,Hiroshima Toyo Carp,36,"Aoki, Hayato",P,6,1.000,0,3,0,0,,31135111
+2010,Regular Season,Hiroshima Toyo Carp,65,"Aizawa, Toshiaki",P,3,0.000,0,0,0,0,,31135112
+2010,Regular Season,Hiroshima Toyo Carp,64,"Aizawa, Tsubasa",C,26,1.000,69,7,0,0,1,31135114
+2010,Regular Season,Tohoku Rakuten Golden Eagles,36,"Asai, Hideki",P,1,1.000,0,2,0,0,,31135115
+2010,Regular Season,Yomiuri Giants,68,"Asai, Hideki",P,10,0.800,2,2,1,1,,31135115
+2010,Regular Season,Tokyo Yakult Swallows,47,"Akagawa, Katsuki",P,1,1.000,0,1,0,0,,31135118
+2010,Regular Season,Tokyo Yakult Swallows,1,"Aoki, Norichika",OF,144,0.990,300,5,3,2,,31135119
+2010,Regular Season,Tohoku Rakuten Golden Eagles,9,"Miyade, Ryuji",1B,10,1.000,55,3,0,5,,31233882
+2010,Regular Season,Tohoku Rakuten Golden Eagles,9,"Miyade, Ryuji",OF,27,0.968,29,1,1,0,,31233882
+2010,Regular Season,Orix Buffaloes,49,"Nakayama, Shinya",P,11,1.000,0,7,0,0,,31235112
+2010,Regular Season,Tokyo Yakult Swallows,33,"Hatakeyama, Kazuhiro",1B,15,0.984,54,6,1,2,,31235113
+2010,Regular Season,Tokyo Yakult Swallows,33,"Hatakeyama, Kazuhiro",3B,16,0.913,6,15,2,0,,31235113
+2010,Regular Season,Tokyo Yakult Swallows,33,"Hatakeyama, Kazuhiro",OF,48,1.000,51,2,0,0,,31235113
+2010,Regular Season,Yomiuri Giants,52,"Tsuburaya, Hidetoshi",2B,1,0.000,0,0,0,0,,31235114
+2010,Regular Season,Hiroshima Toyo Carp,34,"Nakata, Ren",P,13,0.750,1,2,1,0,,31235118
+2010,Regular Season,Yokohama BayStars,49,"Fukuda, Takehiro",P,18,1.000,2,6,0,0,,31235131
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,62,"Imanari, Ryota",C,1,1.000,1,0,0,0,0,31335112
+2010,Regular Season,Fukuoka Softbank Hawks,41,"Iwasaki, Sho",P,6,1.000,1,2,0,0,,31335116
+2010,Regular Season,Chunichi Dragons,37,"Iwasaki, Kyohei",2B,2,1.000,3,2,0,1,,31335118
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,42,"Kida, Masao",P,21,1.000,0,14,0,2,,31433868
+2010,Regular Season,Chunichi Dragons,5,"Wada, Kazuhiro",OF,138,1.000,228,8,0,1,,31433884
+2010,Regular Season,Hanshin Tigers,24,"Hiyama, Shinjiro",OF,1,1.000,1,0,0,0,,31433885
+2010,Regular Season,Yomiuri Giants,59,"Fukuda, Satoshi",P,18,0.923,3,9,1,1,,31435112
+2010,Regular Season,Chiba Lotte Marines,7,"Nishioka, Tsuyoshi",SS,144,0.972,222,440,19,81,,31435117
+2010,Regular Season,Chunichi Dragons,9,"Nomoto, Kei",OF,72,1.000,102,5,0,0,,31435118
+2010,Regular Season,Hiroshima Toyo Carp,40,"Kura, Yoshikazu",C,43,0.978,165,9,4,2,1,31533886
+2010,Regular Season,Fukuoka Softbank Hawks,9,"Kokubo, Hiroki",1B,109,0.998,827,52,2,62,,31533889
+2010,Regular Season,Tokyo Yakult Swallows,28,"Kawamoto, Ryohei",C,25,0.987,143,13,2,1,2,31535110
+2010,Regular Season,Hiroshima Toyo Carp,5,"Kurihara, Kenta",1B,71,0.995,565,31,3,50,,31535111
+2010,Regular Season,Hiroshima Toyo Carp,5,"Kurihara, Kenta",3B,46,0.906,32,64,10,5,,31535111
+2010,Regular Season,Tohoku Rakuten Golden Eagles,28,"Katayama, Hiroshi",P,53,1.000,3,13,0,0,,31535112
+2010,Regular Season,Tokyo Yakult Swallows,46,"Onizaki, Yuji",3B,2,1.000,0,2,0,0,,31535116
+2010,Regular Season,Tokyo Yakult Swallows,46,"Onizaki, Yuji",SS,53,0.958,32,81,5,15,,31535116
+2010,Regular Season,Saitama Seibu Lions,34,"Osada, Shuichiro",P,56,1.000,3,11,0,0,,31535117
+2010,Regular Season,Fukuoka Softbank Hawks,23,"Kidokoro, Ryuma",OF,90,1.000,38,1,0,0,,31535119
+2010,Regular Season,Saitama Seibu Lions,30,"Okamoto, Yosuke",P,10,1.000,0,3,0,0,,31535131
+2010,Regular Season,Saitama Seibu Lions,18,"Wakui, Hideaki",P,27,1.000,12,33,0,4,,31635110
+2010,Regular Season,Tohoku Rakuten Golden Eagles,47,"Matsuzaki, Shingo",P,9,0.800,0,4,1,0,,31635112
+2010,Regular Season,Chiba Lotte Marines,12,"Yoshimi, Yuji",P,21,1.000,4,15,0,1,,31635113
+2010,Regular Season,Yokohama BayStars,21,"Yoshimi, Yuji",P,1,1.000,0,1,0,0,,31635113
+2010,Regular Season,Chunichi Dragons,55,"Fukuda, Nobumasa",1B,3,1.000,4,0,0,2,,31635114
+2010,Regular Season,Chunichi Dragons,29,"Yamai, Daisuke",P,19,1.000,4,24,0,2,,31635115
+2010,Regular Season,Fukuoka Softbank Hawks,32,"Morimoto, Satoru",1B,32,1.000,99,9,0,7,,31635117
+2010,Regular Season,Fukuoka Softbank Hawks,32,"Morimoto, Satoru",2B,1,0.000,0,0,0,0,,31635117
+2010,Regular Season,Fukuoka Softbank Hawks,32,"Morimoto, Satoru",3B,27,0.951,10,29,2,2,,31635117
+2010,Regular Season,Hanshin Tigers,2,"Jojima, Kenji",C,144,0.992,999,77,9,13,4,31733880
+2010,Regular Season,Chiba Lotte Marines,22,"Satozaki, Tomoya",C,77,0.995,552,35,3,1,3,31733888
+2010,Regular Season,Tokyo Yakult Swallows,36,"Kawabata, Shingo",2B,1,1.000,2,0,0,1,,31735112
+2010,Regular Season,Tokyo Yakult Swallows,36,"Kawabata, Shingo",3B,19,1.000,5,8,0,2,,31735112
+2010,Regular Season,Tokyo Yakult Swallows,36,"Kawabata, Shingo",SS,54,0.981,77,127,4,30,,31735112
+2010,Regular Season,Yomiuri Giants,28,"Kaneto, Norihito",P,21,1.000,0,5,0,0,,31735114
+2010,Regular Season,Yokohama BayStars,38,"Kuwahara, Kentaro",P,18,1.000,0,7,0,0,,31735116
+2010,Regular Season,Saitama Seibu Lions,46,"Sato, Takahiko",1B,2,1.000,13,0,0,1,,31735119
+2010,Regular Season,Saitama Seibu Lions,46,"Sato, Takahiko",OF,44,0.972,70,0,2,0,,31735119
+2010,Regular Season,Fukuoka Softbank Hawks,16,"Petagine, Roberto",1B,23,0.993,128,9,1,13,,31833888
+2010,Regular Season,Chunichi Dragons,7,"Cesar, Dionys",2B,5,0.906,19,10,3,2,,31835131
+2010,Regular Season,Chunichi Dragons,7,"Cesar, Dionys",OF,44,0.970,64,1,2,0,,31835131
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,2,"Takahashi, Shinji",1B,62,0.991,556,20,5,54,,31933884
+2010,Regular Season,Fukuoka Softbank Hawks,13,"Takahashi, Hideaki",P,5,1.000,1,3,0,0,,31935110
+2010,Regular Season,Orix Buffaloes,28,"Komatsu, Satoshi",P,29,1.000,6,12,0,0,,31935114
+2010,Regular Season,Fukuoka Softbank Hawks,47,"Sugiuchi, Toshiya",P,27,1.000,1,31,0,0,,31935115
+2010,Regular Season,Chunichi Dragons,69,"Kobayashi, Masato",P,36,1.000,3,5,0,0,,31935117
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,13,"Sunaga, Hideki",P,5,1.000,1,2,0,0,,31935119
+2010,Regular Season,Hanshin Tigers,12,"Watanabe, Ryo",P,61,0.957,4,18,1,3,,33135112
+2010,Regular Season,Chunichi Dragons,49,"Nelson, Maximo",P,15,1.000,2,14,0,0,,33335116
+2010,Regular Season,Orix Buffaloes,24,"Leicester, Jon",P,35,1.000,4,7,0,0,,33335118
+2010,Regular Season,Tohoku Rakuten Golden Eagles,42,"Ruiz, Randy",1B,66,0.980,515,34,11,53,,33335131
+2010,Regular Season,Tohoku Rakuten Golden Eagles,3,"Linden, Todd",OF,50,0.988,84,1,1,0,,33535118
+2010,Regular Season,Tohoku Rakuten Golden Eagles,65,"Matsumoto, Akira",P,8,0.000,0,0,0,0,,41043882
+2010,Regular Season,Yokohama BayStars,29,"Niinuma, Shinji",1B,1,1.000,1,0,0,0,,41043886
+2010,Regular Season,Yokohama BayStars,29,"Niinuma, Shinji",C,15,0.971,61,5,2,0,2,41043886
+2010,Regular Season,Saitama Seibu Lions,26,"Hoshino, Tomoki",P,27,1.000,0,2,0,0,,41043888
+2010,Regular Season,Hanshin Tigers,46,"Tsuru, Naoto",P,21,1.000,3,18,0,0,,41045112
+2010,Regular Season,Fukuoka Softbank Hawks,12,"Takaya, Hiroaki",C,22,1.000,59,3,0,1,0,41045114
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,21,"Takeda, Hisashi",P,58,1.000,4,9,0,2,,41045117
+2010,Regular Season,Tohoku Rakuten Golden Eagles,56,"Nakagawa, Taishi",3B,7,0.846,2,9,2,0,,41045118
+2010,Regular Season,Chiba Lotte Marines,3,"Omura, Saburo",OF,111,0.995,209,4,1,1,,41143880
+2010,Regular Season,Chunichi Dragons,6,"Ibata, Hirokazu",2B,45,0.996,114,114,1,27,,41143886
+2010,Regular Season,Chunichi Dragons,6,"Ibata, Hirokazu",SS,8,0.943,15,18,2,1,,41143886
+2010,Regular Season,Saitama Seibu Lions,9,"Abe, Masahiro",1B,5,0.875,7,0,1,2,,41145113
+2010,Regular Season,Saitama Seibu Lions,9,"Abe, Masahiro",2B,4,1.000,7,8,0,0,,41145113
+2010,Regular Season,Saitama Seibu Lions,9,"Abe, Masahiro",3B,52,0.957,27,62,4,3,,41145113
+2010,Regular Season,Saitama Seibu Lions,9,"Abe, Masahiro",SS,1,0.000,0,0,2,0,,41145113
+2010,Regular Season,Hanshin Tigers,16,"Ando, Yuya",P,19,1.000,2,16,0,0,,41145115
+2010,Regular Season,Yokohama BayStars,35,"Ushida, Shigeki",P,41,0.875,1,6,1,0,,41145119
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,1,"Morimoto, Hichori",OF,114,0.990,184,11,2,1,,41243888
+2010,Regular Season,Saitama Seibu Lions,47,"Hoashi, Kazuyuki",P,27,1.000,12,33,0,1,,41245113
+2010,Regular Season,Tokyo Yakult Swallows,32,"Nitta, Genki",C,1,1.000,1,0,0,0,0,41245118
+2010,Regular Season,Orix Buffaloes,60,"Maeda, Yuji",P,20,1.000,1,2,0,0,,41245131
+2010,Regular Season,Hanshin Tigers,39,"Yano, Akihiro",C,1,0.000,0,0,0,0,0,41343883
+2010,Regular Season,Hanshin Tigers,6,"Kanemoto, Tomoaki",OF,73,0.957,90,0,4,0,,41343885
+2010,Regular Season,Fukuoka Softbank Hawks,51,"Kanazawa, Takehito",P,38,1.000,4,7,0,0,,41343888
+2010,Regular Season,Orix Buffaloes,19,"Kaneko, Chihiro",P,30,0.984,12,48,1,0,,41345110
+2010,Regular Season,Fukuoka Softbank Hawks,52,"Kawasaki, Munenori",SS,144,0.977,193,412,14,72,,41345111
+2010,Regular Season,Orix Buffaloes,11,"Okubo, Masanobu",P,5,1.000,1,0,0,0,,41345113
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,27,"Ejiri, Shintaro",P,2,0.000,0,0,0,0,,41345115
+2010,Regular Season,Yokohama BayStars,52,"Ejiri, Shintaro",P,54,0.800,1,7,2,1,,41345115
+2010,Regular Season,Fukuoka Softbank Hawks,17,"Oba, Shota",P,4,1.000,1,0,0,0,,41345116
+2010,Regular Season,Yokohama BayStars,33,"Onishi, Hiroaki",OF,20,1.000,21,0,0,0,,41345117
+2010,Regular Season,Yomiuri Giants,55,"Ohta, Taishi",1B,2,0.944,15,2,1,0,,41345118
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,59,"Kanamori, Takayuki",P,17,0.875,1,6,1,0,,41345119
+2010,Regular Season,Chiba Lotte Marines,14,"Ohtani, Tomohisa",P,11,1.000,2,5,0,0,,41345131
+2010,Regular Season,Tokyo Yakult Swallows,2,"Aikawa, Ryoji",C,120,0.998,828,82,2,11,8,41443880
+2010,Regular Season,Yokohama BayStars,18,"Miura, Daisuke",P,16,1.000,6,18,0,1,,41443885
+2010,Regular Season,Fukuoka Softbank Hawks,46,"Honda, Yuichi",2B,144,0.987,415,408,11,92,,41445112
+2010,Regular Season,Chiba Lotte Marines,48,"Yamada, Akichika",P,28,1.000,0,6,0,1,,41445113
+2010,Regular Season,Saitama Seibu Lions,43,"Hara, Takuya",2B,10,0.917,9,13,2,4,,41445114
+2010,Regular Season,Saitama Seibu Lions,43,"Hara, Takuya",3B,81,0.990,25,79,1,6,,41445114
+2010,Regular Season,Saitama Seibu Lions,43,"Hara, Takuya",SS,12,0.977,19,24,1,4,,41445114
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,25,"Miyanishi, Naoki",P,61,1.000,3,10,0,2,,41445116
+2010,Regular Season,Hiroshima Toyo Carp,94,"Bale, John",P,30,0.800,0,4,1,0,,41445119
+2010,Regular Season,Chunichi Dragons,59,"Yachi, Kento",P,1,0.000,0,0,0,0,,41445131
+2010,Regular Season,Tohoku Rakuten Golden Eagles,32,"Kosaka, Makoto",3B,3,1.000,2,1,0,1,,41543884
+2010,Regular Season,Tohoku Rakuten Golden Eagles,32,"Kosaka, Makoto",SS,2,1.000,0,1,0,0,,41543884
+2010,Regular Season,Yomiuri Giants,0,"Kudo, Takahito",OF,20,1.000,7,0,0,0,,41545110
+2010,Regular Season,Yokohama BayStars,17,"Shimizu, Naoyuki",P,26,0.978,4,40,1,5,,41545111
+2010,Regular Season,Chiba Lotte Marines,61,"Kakunaka, Katsuya",OF,8,1.000,8,1,0,0,,41545114
+2010,Regular Season,Orix Buffaloes,39,"Kamoshida, Takashi",P,26,1.000,0,4,0,0,,41545115
+2010,Regular Season,Tohoku Rakuten Golden Eagles,59,"Kikuchi, Yasunori",P,2,1.000,1,2,0,0,,41545116
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,49,"Kato, Takeharu",P,21,1.000,0,2,0,0,,41545117
+2010,Regular Season,Hanshin Tigers,60,"Komiyama, Shinji",C,10,1.000,19,1,0,0,0,41545119
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,39,"Kato, Masayoshi",3B,1,1.000,2,1,0,1,,41545131
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,39,"Kato, Masayoshi",SS,5,1.000,2,8,0,2,,41545131
+2010,Regular Season,Orix Buffaloes,0,"Moriyama, Makoto",OF,55,1.000,60,1,0,0,,41645112
+2010,Regular Season,Orix Buffaloes,42,"Cabrera, Alex",1B,85,0.994,655,42,4,55,,41645113
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,17,"Miyamoto, Ken",P,1,0.000,0,0,0,0,,41645114
+2010,Regular Season,Orix Buffaloes,62,"Yamazaki, Masataka",P,1,0.000,0,0,0,0,,41645116
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,31,"Keppel, Bobby",P,25,0.930,10,30,3,5,,41645131
+2010,Regular Season,Fukuoka Softbank Hawks,6,"Tamura, Hitoshi",OF,136,0.991,226,3,2,0,,41743880
+2010,Regular Season,Tohoku Rakuten Golden Eagles,4,"Takasu, Yosuke",2B,102,0.992,215,298,4,56,,41743886
+2010,Regular Season,Yokohama BayStars,13,"Sakamoto, Yataro",P,29,1.000,2,7,0,0,,41745113
+2010,Regular Season,Chunichi Dragons,19,"Yoshimi, Kazuki",P,25,0.969,7,24,1,1,,41845112
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,34,"Yoshikawa, Mitsuo",P,9,1.000,0,6,0,0,,41845114
+2010,Regular Season,Yokohama BayStars,27,"Bootcheck, Chris",P,15,1.000,1,6,0,0,,41845131
+2010,Regular Season,Tohoku Rakuten Golden Eagles,11,"Fukumori, Kazuo",P,2,1.000,0,1,0,0,,41943880
+2010,Regular Season,Hiroshima Toyo Carp,28,"Hiroike, Koji",P,3,0.000,0,0,0,0,,41943888
+2010,Regular Season,Tokyo Yakult Swallows,3,"Fukuchi, Kazuki",OF,91,0.990,100,1,1,0,,41943889
+2010,Regular Season,Hanshin Tigers,45,"Shimizu, Takashi",C,2,1.000,2,2,0,0,0,41945114
+2010,Regular Season,Saitama Seibu Lions,48,"Takekuma, Shota",P,9,1.000,1,2,0,0,,41945116
+2010,Regular Season,Saitama Seibu Lions,39,"Takeno, Tatsuya",C,2,1.000,3,0,0,0,0,41945118
+2010,Regular Season,Chunichi Dragons,31,"Nakagawa, Hiroki",OF,6,1.000,2,1,0,0,,41945119
+2010,Regular Season,Yokohama BayStars,55,"Tsutsugo, Yoshitomo",1B,3,1.000,21,4,0,3,,41945131
+2010,Regular Season,Fukuoka Softbank Hawks,54,"Houlton, Dennis",P,16,0.833,2,8,2,1,,43145116
+2010,Regular Season,Yomiuri Giants,41,"Romero, Levi",P,6,0.667,0,2,1,0,,43345118
+2010,Regular Season,Hiroshima Toyo Carp,42,"Chulk, Vinnie",P,16,0.500,0,2,2,0,,43345131
+2010,Regular Season,Yomiuri Giants,96,"Rin, Īhau",P,2,1.000,2,0,0,0,,43545112
+2010,Regular Season,Tokyo Yakult Swallows,6,"Miyamoto, Shinya",2B,1,1.000,2,4,0,1,,51053880
+2010,Regular Season,Tokyo Yakult Swallows,6,"Miyamoto, Shinya",3B,125,0.959,87,197,12,17,,51053880
+2010,Regular Season,Tokyo Yakult Swallows,6,"Miyamoto, Shinya",SS,4,1.000,6,12,0,2,,51053880
+2010,Regular Season,Saitama Seibu Lions,38,"Doi, Yoshihiro",P,25,1.000,1,5,0,0,,51053886
+2010,Regular Season,Tohoku Rakuten Golden Eagles,31,"Fujii, Akihito",C,8,1.000,36,4,0,0,0,51053888
+2010,Regular Season,Chunichi Dragons,20,"Nakata, Kenichi",P,19,0.923,10,14,2,0,,51055110
+2010,Regular Season,Chunichi Dragons,36,"Tani, Tetsuya",2B,3,1.000,4,4,0,3,,51055116
+2010,Regular Season,Hanshin Tigers,17,"Sugiyama, Naohisa",P,7,1.000,0,2,0,1,,51055117
+2010,Regular Season,Tokyo Yakult Swallows,14,"Nakazawa, Masato",P,23,0.950,6,13,1,0,,51055131
+2010,Regular Season,Chiba Lotte Marines,6,"Iguchi, Tadahito",2B,143,0.990,306,368,7,84,,51153884
+2010,Regular Season,Orix Buffaloes,4,"Akada, Shogo",OF,69,0.983,112,3,2,0,,51153888
+2010,Regular Season,Hiroshima Toyo Carp,38,"Akamatsu, Masato",OF,101,1.000,181,10,0,2,,51155110
+2010,Regular Season,Chunichi Dragons,14,"Asakura, Kenta",P,9,1.000,1,7,0,0,,51155111
+2010,Regular Season,Hiroshima Toyo Carp,47,"Aoki, Takahiro",P,19,1.000,5,7,0,0,,51155114
+2010,Regular Season,Hanshin Tigers,8,"Asai, Ryo",1B,1,1.000,2,1,0,0,,51155115
+2010,Regular Season,Hanshin Tigers,8,"Asai, Ryo",OF,76,0.973,105,2,3,0,,51155115
+2010,Regular Season,Saitama Seibu Lions,32,"Asamura, Hideto",2B,1,1.000,1,6,0,1,,51155118
+2010,Regular Season,Saitama Seibu Lions,32,"Asamura, Hideto",3B,8,0.909,2,8,1,1,,51155118
+2010,Regular Season,Saitama Seibu Lions,32,"Asamura, Hideto",SS,9,1.000,12,32,0,9,,51155118
+2010,Regular Season,Fukuoka Softbank Hawks,36,"Akashi, Kenji",1B,9,0.944,31,3,2,1,,51155119
+2010,Regular Season,Fukuoka Softbank Hawks,36,"Akashi, Kenji",2B,2,1.000,0,1,0,0,,51155119
+2010,Regular Season,Fukuoka Softbank Hawks,36,"Akashi, Kenji",3B,1,1.000,0,2,0,0,,51155119
+2010,Regular Season,Fukuoka Softbank Hawks,36,"Akashi, Kenji",OF,17,1.000,15,0,0,0,,51155119
+2010,Regular Season,Fukuoka Softbank Hawks,36,"Akashi, Kenji",SS,1,1.000,1,1,0,1,,51155119
+2010,Regular Season,Hanshin Tigers,27,"Akiyama, Takumi",P,7,0.900,2,7,1,0,,51155131
+2010,Regular Season,Tokyo Yakult Swallows,35,"Hashimoto, Yoshitaka",P,18,1.000,0,4,0,0,,51255110
+2010,Regular Season,Yomiuri Giants,00,"Terauchi, Takayuki",2B,12,1.000,7,11,0,2,,51255114
+2010,Regular Season,Yomiuri Giants,00,"Terauchi, Takayuki",3B,15,0.800,2,2,1,0,,51255114
+2010,Regular Season,Tokyo Yakult Swallows,52,"Nakamura, Yuhei",C,3,1.000,11,3,0,0,1,51255118
+2010,Regular Season,Chunichi Dragons,39,"Mise, Koji",P,6,0.000,0,0,0,0,,51255119
+2010,Regular Season,Fukuoka Softbank Hawks,57,"Mise, Koji",P,6,1.000,0,1,0,0,,51255119
+2010,Regular Season,Hanshin Tigers,7,"Fujikawa, Shunsuke",OF,118,1.000,112,3,0,0,,51255131
+2010,Regular Season,Chunichi Dragons,43,"Ogasawara, Takashi",P,5,0.889,5,3,1,1,,51353888
+2010,Regular Season,Hanshin Tigers,41,"Uezono, Keiji",P,25,0.900,2,7,1,0,,51355114
+2010,Regular Season,Hiroshima Toyo Carp,31,"Ishihara, Yoshiyuki",C,118,0.995,696,52,4,8,4,51355115
+2010,Regular Season,Chunichi Dragons,28,"Iwata, Shinji",P,5,1.000,1,3,0,0,,51355118
+2010,Regular Season,Saitama Seibu Lions,59,"Okamoto, Atsushi",P,33,0.875,2,5,1,0,,51355119
+2010,Regular Season,Hiroshima Toyo Carp,16,"Imamura, Takeru",P,2,0.000,0,0,0,0,,51355131
+2010,Regular Season,Orix Buffaloes,2,"Yamasaki, Koji",2B,3,1.000,8,2,0,1,,51453888
+2010,Regular Season,Orix Buffaloes,2,"Yamasaki, Koji",3B,2,0.000,0,0,0,0,,51453888
+2010,Regular Season,Orix Buffaloes,2,"Yamasaki, Koji",SS,70,0.982,68,155,4,29,,51453888
+2010,Regular Season,Tokyo Yakult Swallows,21,"Matsuoka, Kenichi",P,73,1.000,2,15,0,0,,51455110
+2010,Regular Season,Chunichi Dragons,4,"Fujii, Atsushi",OF,54,0.989,85,4,1,0,,51455112
+2010,Regular Season,Chiba Lotte Marines,68,"Hayasaka, Keisuke",OF,11,1.000,9,0,0,0,,51455117
+2010,Regular Season,Yomiuri Giants,94,"Hashimoto, Itaru",OF,2,0.000,0,0,0,0,,51455118
+2010,Regular Season,Yomiuri Giants,25,"I, Sunyopu",1B,47,0.991,210,12,2,21,,51455119
+2010,Regular Season,Chunichi Dragons,47,"Matsui, Masato",C,9,1.000,26,1,0,1,0,51455131
+2010,Regular Season,Saitama Seibu Lions,55,"Kudo, Kimiyasu",P,10,0.667,2,0,1,0,,51553865
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,47,"Kikuchi, Kazumasa",P,17,1.000,0,3,0,0,,51555110
+2010,Regular Season,Fukuoka Softbank Hawks,48,"Katto, Keisuke",P,65,0.947,5,13,1,0,,51555112
+2010,Regular Season,Fukuoka Softbank Hawks,28,"Otonari, Kenji",P,20,0.909,2,18,2,2,,51555114
+2010,Regular Season,Saitama Seibu Lions,14,"Onodera, Chikara",P,41,1.000,1,9,0,0,,51555117
+2010,Regular Season,Tokyo Yakult Swallows,48,"Watanabe, Koki",P,28,1.000,1,1,0,0,,51655110
+2010,Regular Season,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",1B,2,1.000,30,1,0,5,,51655112
+2010,Regular Season,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",3B,109,0.967,41,190,8,11,,51655112
+2010,Regular Season,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",OF,13,1.000,11,0,0,0,,51655112
+2010,Regular Season,Hiroshima Toyo Carp,18,"Maeda, Kenta",P,28,0.963,12,40,2,2,,51655114
+2010,Regular Season,Yomiuri Giants,48,"Yano, Kenji",OF,30,0.929,26,0,2,0,,51655117
+2010,Regular Season,Yokohama BayStars,6,"Matsumoto, Keijiro",OF,27,0.943,33,0,2,0,,51655118
+2010,Regular Season,Fukuoka Softbank Hawks,8,"I, Bomuho",1B,3,1.000,4,0,0,1,,51655131
+2010,Regular Season,Fukuoka Softbank Hawks,8,"I, Bomuho",3B,14,0.962,9,16,1,2,,51655131
+2010,Regular Season,Yomiuri Giants,53,"Sanematsu, Kazunari",C,2,1.000,9,1,0,0,0,51753888
+2010,Regular Season,Chunichi Dragons,0,"Kongo, Hiroki",P,2,1.000,0,1,0,0,,51755110
+2010,Regular Season,Orix Buffaloes,18,"Kishida, Mamoru",P,57,0.950,6,13,1,1,,51755112
+2010,Regular Season,Saitama Seibu Lions,1,"Kuriyama, Takumi",OF,144,0.994,316,5,2,1,,51755115
+2010,Regular Season,Hiroshima Toyo Carp,4,"Kokubo, Tetsuya",2B,5,1.000,4,4,0,1,,51755116
+2010,Regular Season,Hiroshima Toyo Carp,4,"Kokubo, Tetsuya",3B,63,0.921,35,82,10,6,,51755116
+2010,Regular Season,Hiroshima Toyo Carp,41,"Komatsu, Takeshi",P,5,0.833,0,5,1,1,,51755118
+2010,Regular Season,Tokyo Yakult Swallows,13,"Sato, Masaru",P,1,1.000,0,1,0,0,,51755119
+2010,Regular Season,Yokohama BayStars,11,"Yamaguchi, Shun",P,54,1.000,3,7,0,1,,51855112
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,44,"Yamamoto, Kazunori",P,6,1.000,0,2,0,1,,51855114
+2010,Regular Season,Chiba Lotte Marines,33,"Corey, Bryan",P,14,0.929,3,10,1,0,,51855119
+2010,Regular Season,Tokyo Yakult Swallows,70,"De La Cruz, Eulo",P,9,0.000,0,0,0,0,,51855131
+2010,Regular Season,Saitama Seibu Lions,13,"Nishiguchi, Fumiya",P,13,1.000,4,6,0,0,,51953880
+2010,Regular Season,Yomiuri Giants,24,"Takahashi, Yoshinobu",1B,52,0.989,344,15,4,23,,51953886
+2010,Regular Season,Yomiuri Giants,24,"Takahashi, Yoshinobu",OF,45,1.000,53,1,0,0,,51953886
+2010,Regular Season,Yomiuri Giants,6,"Sakamoto, Hayato",SS,144,0.970,238,441,21,89,,51955114
+2010,Regular Season,Hanshin Tigers,61,"Tagami, Kenichi",OF,1,0.000,0,0,0,0,,51955131
+2010,Regular Season,Hanshin Tigers,67,"Brazell, Craig",1B,143,0.993,1140,82,8,114,,53155116
+2010,Regular Season,Hanshin Tigers,9,"Murton, Matt",OF,144,0.985,262,3,4,2,,53155131
+2010,Regular Season,Fukuoka Softbank Hawks,91,"Yan, Yaoshun",P,14,0.800,0,4,1,0,,53355112
+2010,Regular Season,Tohoku Rakuten Golden Eagles,5,"Phillips, Andy",1B,18,0.994,172,7,1,13,,53555118
+2010,Regular Season,Tohoku Rakuten Golden Eagles,5,"Phillips, Andy",OF,1,0.000,0,0,0,0,,53555118
+2010,Regular Season,Fukuoka Softbank Hawks,3,"Matsunaka, Nobuhiko",OF,27,1.000,28,0,0,0,,61063884
+2010,Regular Season,Hanshin Tigers,14,"Nohmi, Atsushi",P,12,1.000,4,7,0,1,,61065110
+2010,Regular Season,Tohoku Rakuten Golden Eagles,62,"Togano, Masafumi",P,2,0.000,0,0,0,0,,61065112
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,6,"Nakata, Sho",1B,29,0.996,231,17,1,22,,61065116
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,6,"Nakata, Sho",OF,18,1.000,12,1,0,0,,61065116
+2010,Regular Season,Yokohama BayStars,61,"Takeyama, Shingo",C,90,0.993,519,55,4,7,2,61065117
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,65,"Ugumori, Atsushi",OF,4,1.000,1,0,0,0,,61165110
+2010,Regular Season,Tokyo Yakult Swallows,9,"Iihara, Yasushi",OF,125,0.990,196,6,2,2,,61165112
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,45,"Imanami, Takahiro",3B,1,1.000,1,0,0,0,,61165114
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,45,"Imanami, Takahiro",SS,14,0.951,14,25,2,7,,61165114
+2010,Regular Season,Tohoku Rakuten Golden Eagles,48,"Ishimine, Tadashi",C,2,0.923,12,0,1,0,0,61165116
+2010,Regular Season,Tohoku Rakuten Golden Eagles,49,"Inoe, Yusuke",P,7,0.000,0,0,0,0,,61165118
+2010,Regular Season,Chiba Lotte Marines,21,"Uchi, Tatsuya",P,15,1.000,2,3,0,0,,61165119
+2010,Regular Season,Hiroshima Toyo Carp,44,"Mukae, Yuichiro",OF,14,0.929,12,1,1,0,,61265111
+2010,Regular Season,Orix Buffaloes,25,"Mukae, Yuichiro",OF,2,0.889,8,0,1,0,,61265111
+2010,Regular Season,Chunichi Dragons,8,"Hirata, Ryosuke",OF,3,1.000,3,0,0,0,,61265112
+2010,Regular Season,Tohoku Rakuten Golden Eagles,63,"Makida, Akihisa",OF,78,0.990,96,4,1,0,,61265113
+2010,Regular Season,Hiroshima Toyo Carp,35,"Nakahigashi, Naoki",OF,7,1.000,5,1,0,1,,61265114
+2010,Regular Season,Hanshin Tigers,5,"Hirano, Keiichi",2B,125,0.986,305,351,9,82,,61265115
+2010,Regular Season,Hanshin Tigers,5,"Hirano, Keiichi",OF,44,1.000,31,2,0,0,,61265115
+2010,Regular Season,Tohoku Rakuten Golden Eagles,23,"Hijirisawa, Ryo",OF,132,0.993,280,5,2,0,,61265116
+2010,Regular Season,Fukuoka Softbank Hawks,00,"Yoshikawa, Teruaki",P,7,1.000,2,3,0,0,,61265119
+2010,Regular Season,Yokohama BayStars,20,"Kizuka, Atsushi",P,7,0.000,0,0,0,0,,61365111
+2010,Regular Season,Orix Buffaloes,55,"Okada, Takahiro",1B,43,0.992,238,10,2,14,,61365112
+2010,Regular Season,Orix Buffaloes,55,"Okada, Takahiro",OF,96,0.977,168,4,4,1,,61365112
+2010,Regular Season,Saitama Seibu Lions,15,"Onuma, Koji",P,16,1.000,0,7,0,0,,61365113
+2010,Regular Season,Hiroshima Toyo Carp,46,"Oshima, Takayuki",P,53,1.000,2,9,0,0,,61365115
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,28,"Ohno, Shota",C,87,0.998,400,27,1,2,1,61365118
+2010,Regular Season,Orix Buffaloes,54,"Kaneko, Keisuke",OF,1,1.000,1,0,0,0,,61365119
+2010,Regular Season,Orix Buffaloes,54,"Kaneko, Keisuke",SS,22,0.957,12,33,2,7,,61365119
+2010,Regular Season,Orix Buffaloes,45,"Mitsuhara, Atsuhiro",P,1,0.000,0,0,0,0,,61465110
+2010,Regular Season,Hanshin Tigers,66,"Yamato, Maeda",2B,44,0.973,30,43,2,9,,61465112
+2010,Regular Season,Hanshin Tigers,66,"Yamato, Maeda",OF,4,0.000,0,0,0,0,,61465112
+2010,Regular Season,Hanshin Tigers,66,"Yamato, Maeda",SS,7,1.000,4,11,0,2,,61465112
+2010,Regular Season,Yokohama BayStars,19,"Fujie, Hitoshi",P,15,1.000,4,5,0,0,,61465118
+2010,Regular Season,Orix Buffaloes,57,"Yamada, Nobuyoshi",P,1,1.000,0,1,0,0,,61465131
+2010,Regular Season,Hiroshima Toyo Carp,55,"Shima, Shigenobu",OF,81,0.986,135,2,2,0,,61563880
+2010,Regular Season,Chiba Lotte Marines,41,"Kobayashi, Hiroyuki",P,57,1.000,5,6,0,1,,61563884
+2010,Regular Season,Yomiuri Giants,30,"Kobayashi, Masahide",P,12,1.000,0,5,0,1,,61563888
+2010,Regular Season,Hanshin Tigers,34,"Kubo, Yasutomo",P,29,0.979,6,40,1,4,,61565110
+2010,Regular Season,Hanshin Tigers,62,"Kawasaki, Yusuke",P,22,1.000,0,3,0,1,,61565112
+2010,Regular Season,Hiroshima Toyo Carp,44,"Kida, Go",1B,1,1.000,2,1,0,0,,61565115
+2010,Regular Season,Orix Buffaloes,40,"Kida, Go",1B,1,1.000,8,0,0,1,,61565115
+2010,Regular Season,Chiba Lotte Marines,62,"Kanazawa, Takeshi",C,4,1.000,2,0,0,0,0,61565117
+2010,Regular Season,Hanshin Tigers,35,"Saka, Katsuhiko",1B,1,1.000,3,0,0,1,,61565119
+2010,Regular Season,Hanshin Tigers,35,"Saka, Katsuhiko",2B,18,1.000,29,30,0,16,,61565119
+2010,Regular Season,Hanshin Tigers,35,"Saka, Katsuhiko",SS,3,1.000,4,7,0,2,,61565119
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,29,"Yagi, Tomoya",P,9,1.000,1,7,0,1,,61665112
+2010,Regular Season,Fukuoka Softbank Hawks,19,"Morifuku, Masahiko",P,36,0.857,0,6,1,0,,61665114
+2010,Regular Season,Tokyo Yakult Swallows,63,"Yamamoto, Hitoshi",P,1,1.000,0,1,0,0,,61665116
+2010,Regular Season,Yokohama BayStars,31,"Yoshimura, Yuki",OF,42,0.986,71,2,1,0,,61665117
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,33,"Yanuki, Toshiyuki",P,6,1.000,0,3,0,0,,61665118
+2010,Regular Season,Yomiuri Giants,12,"Suzuki, Takahiro",OF,55,1.000,13,1,0,0,,61763884
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,22,"Tateyama, Yoshinori",P,58,0.941,3,13,1,1,,61763888
+2010,Regular Season,Chunichi Dragons,23,"Suzuki, Yoshihiro",P,41,0.875,1,6,1,0,,61765110
+2010,Regular Season,Saitama Seibu Lions,44,"Takayama, Hisashi",OF,112,0.986,205,0,3,0,,61765111
+2010,Regular Season,Saitama Seibu Lions,10,"Sato, Tomoaki",OF,89,0.991,112,3,1,0,,61765113
+2010,Regular Season,Yokohama BayStars,30,"Sanada, Hiroki",P,62,1.000,1,17,0,1,,61765115
+2010,Regular Season,Yokohama BayStars,60,"Sato, Shoma",P,8,0.000,0,0,0,0,,61765116
+2010,Regular Season,Hanshin Tigers,30,"Kubota, Tomoyuki",P,71,0.950,4,15,1,2,,61765117
+2010,Regular Season,Saitama Seibu Lions,63,"Yoshimi, Taichi",1B,1,1.000,2,0,0,1,,61865112
+2010,Regular Season,Saitama Seibu Lions,63,"Yoshimi, Taichi",C,4,1.000,3,0,0,0,0,61865112
+2010,Regular Season,Hanshin Tigers,58,"Fossum, Casey",P,12,0.944,2,15,1,0,,61865131
+2010,Regular Season,Yomiuri Giants,20,"Toyoda, Kiyoshi",P,16,0.000,0,0,0,0,,61963887
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,11,"Darvish, Yu",P,26,0.944,8,26,2,0,,61965110
+2010,Regular Season,Tokyo Yakult Swallows,58,"Takagi, Hiromitsu",P,11,1.000,0,6,0,1,,61965112
+2010,Regular Season,Yokohama BayStars,9,"Shimokubo, Yosuke",OF,2,1.000,4,0,0,0,,61965114
+2010,Regular Season,Fukuoka Softbank Hawks,70,"Tanoe, Hidenori",1B,1,1.000,1,0,0,0,,61965115
+2010,Regular Season,Fukuoka Softbank Hawks,70,"Tanoe, Hidenori",C,81,0.992,592,18,5,2,5,61965115
+2010,Regular Season,Fukuoka Softbank Hawks,20,"Tatsumi, Shingo",P,3,1.000,0,1,0,0,,61965118
+2010,Regular Season,Yomiuri Giants,5,"Ramirez, Alex",OF,132,0.975,150,5,4,0,,63165113
+2010,Regular Season,Yokohama BayStars,3,"Sledge, Terrmel",OF,119,0.988,161,4,2,1,,63165116
+2010,Regular Season,Orix Buffaloes,5,"Bynum, Freddie",2B,1,0.833,3,2,1,0,,63165131
+2010,Regular Season,Orix Buffaloes,5,"Bynum, Freddie",OF,1,0.000,0,0,0,0,,63165131
+2010,Regular Season,Orix Buffaloes,5,"Bynum, Freddie",SS,6,0.889,5,11,2,1,,63165131
+2010,Regular Season,Hiroshima Toyo Carp,25,"Ishii, Takuro",2B,4,1.000,0,2,0,1,,65563868
+2010,Regular Season,Hiroshima Toyo Carp,25,"Ishii, Takuro",3B,48,0.968,18,72,3,10,,65563868
+2010,Regular Season,Hiroshima Toyo Carp,25,"Ishii, Takuro",SS,2,1.000,1,2,0,0,,65563868
+2010,Regular Season,Hanshin Tigers,22,"Fujikawa, Kyuji",P,58,1.000,2,9,0,0,,71073888
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,38,"Takeda, Masaru",P,26,1.000,6,38,0,2,,71075112
+2010,Regular Season,Yomiuri Giants,63,"Nakazato, Atsushi",P,2,0.000,0,0,0,0,,71075113
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,66,"Dāsu, Romashutasuku",P,1,1.000,0,1,0,0,,71075114
+2010,Regular Season,Chunichi Dragons,2,"Araki, Masahiro",2B,3,1.000,5,12,0,1,,71173882
+2010,Regular Season,Chunichi Dragons,2,"Araki, Masahiro",SS,134,0.968,226,383,20,69,,71173882
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,4,"Iiyama, Yuji",3B,9,0.500,1,0,1,0,,71173886
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,4,"Iiyama, Yuji",SS,64,0.984,68,171,4,39,,71173886
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,27,"Ishii, Yuya",P,13,1.000,0,3,0,0,,71175110
+2010,Regular Season,Chiba Lotte Marines,53,"Aihara, Katsuyuki",P,2,1.000,1,0,0,0,,71175112
+2010,Regular Season,Chiba Lotte Marines,58,"Aono, Takeshi",1B,2,1.000,5,0,0,0,,71175113
+2010,Regular Season,Chunichi Dragons,41,"Asao, Takuya",P,72,0.903,8,20,3,3,,71175114
+2010,Regular Season,Chiba Lotte Marines,49,"Yabuta, Yasuhiko",P,63,1.000,7,9,0,1,,71273882
+2010,Regular Season,Chiba Lotte Marines,67,"Matoba, Naoki",C,73,0.993,417,28,3,4,3,71275111
+2010,Regular Season,Tohoku Rakuten Golden Eagles,66,"Nishimura, Wataru",2B,2,0.000,0,0,0,0,,71275112
+2010,Regular Season,Tohoku Rakuten Golden Eagles,66,"Nishimura, Wataru",3B,40,1.000,7,11,0,1,,71275112
+2010,Regular Season,Tohoku Rakuten Golden Eagles,66,"Nishimura, Wataru",SS,21,0.953,11,30,2,3,,71275112
+2010,Regular Season,Hiroshima Toyo Carp,26,"Hirose, Jun",1B,2,1.000,5,0,0,0,,71275113
+2010,Regular Season,Hiroshima Toyo Carp,26,"Hirose, Jun",OF,129,0.993,274,10,2,3,,71275113
+2010,Regular Season,Yokohama BayStars,28,"Hata, Yuji",P,9,1.000,1,1,0,0,,71275115
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,64,"Tsuruoka, Shinya",C,105,0.997,589,37,2,6,4,71275117
+2010,Regular Season,Orix Buffaloes,63,"Nishi, Yuki",P,18,1.000,2,3,0,0,,71275118
+2010,Regular Season,Hanshin Tigers,15,"Fujihara, Masanori",P,24,1.000,1,3,0,0,,71275131
+2010,Regular Season,Hanshin Tigers,13,"Kanemura, Satoru",P,1,0.000,0,0,0,0,,71373880
+2010,Regular Season,Fukuoka Softbank Hawks,11,"Ogura, Shinsuke",P,24,1.000,3,15,0,1,,71373888
+2010,Regular Season,Chiba Lotte Marines,29,"Ono, Shingo",P,27,0.944,7,10,1,0,,71373889
+2010,Regular Season,Chiba Lotte Marines,10,"Omatsu, Shoitsu",OF,140,0.992,246,6,2,1,,71375110
+2010,Regular Season,Hanshin Tigers,33,"Katsuragi, Ikuro",1B,18,1.000,25,3,0,1,,71375111
+2010,Regular Season,Hanshin Tigers,33,"Katsuragi, Ikuro",OF,19,0.917,21,1,2,0,,71375111
+2010,Regular Season,Tohoku Rakuten Golden Eagles,67,"Akaminai, Ginji",2B,2,1.000,3,4,0,1,,71375112
+2010,Regular Season,Tokyo Yakult Swallows,50,"Ueda, Tsuyoshi",3B,4,1.000,4,6,0,0,,71375114
+2010,Regular Season,Tokyo Yakult Swallows,50,"Ueda, Tsuyoshi",OF,13,1.000,5,1,0,0,,71375114
+2010,Regular Season,Tohoku Rakuten Golden Eagles,0,"Uchimura, Kensuke",2B,70,1.000,92,116,0,24,,71375116
+2010,Regular Season,Tohoku Rakuten Golden Eagles,0,"Uchimura, Kensuke",OF,12,1.000,9,1,0,1,,71375116
+2010,Regular Season,Tohoku Rakuten Golden Eagles,0,"Uchimura, Kensuke",SS,31,0.946,36,86,7,21,,71375116
+2010,Regular Season,Saitama Seibu Lions,49,"Uemoto, Tatsuyuki",1B,2,1.000,2,0,0,0,,71375117
+2010,Regular Season,Saitama Seibu Lions,49,"Uemoto, Tatsuyuki",C,73,1.000,281,26,0,3,1,71375117
+2010,Regular Season,Saitama Seibu Lions,49,"Uemoto, Tatsuyuki",OF,11,1.000,10,1,0,0,,71375117
+2010,Regular Season,Hiroshima Toyo Carp,10,"Iwamoto, Takahiro",1B,47,0.997,336,32,1,31,,71375118
+2010,Regular Season,Hiroshima Toyo Carp,10,"Iwamoto, Takahiro",OF,14,1.000,23,0,0,0,,71375118
+2010,Regular Season,Saitama Seibu Lions,12,"Iwao, Toshihiro",P,2,1.000,1,0,0,0,,71375131
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,30,"Matsuka, Takahiro",P,5,1.000,0,3,0,0,,71475110
+2010,Regular Season,Fukuoka Softbank Hawks,40,"Fujioka, Yoshiaki",P,32,1.000,1,8,0,1,,71475112
+2010,Regular Season,Fukuoka Softbank Hawks,62,"Yamazaki, Katsuki",C,77,0.991,599,51,6,2,0,71475113
+2010,Regular Season,Saitama Seibu Lions,27,"Hosokawa, Toru",C,112,0.992,677,55,6,4,3,71475115
+2010,Regular Season,Chunichi Dragons,56,"Matsui, Yusuke",OF,14,1.000,16,0,0,0,,71475131
+2010,Regular Season,Yomiuri Giants,45,"Odajima, Masakuni",1B,3,1.000,10,1,0,3,,71575115
+2010,Regular Season,Yomiuri Giants,45,"Odajima, Masakuni",C,2,1.000,1,0,0,0,0,71575115
+2010,Regular Season,Yomiuri Giants,50,"Kajimae, Ryuichi",OF,1,0.000,0,0,0,0,,71575116
+2010,Regular Season,Chiba Lotte Marines,42,"Katsuki, Ryoji",P,3,0.000,0,0,0,0,,71575118
+2010,Regular Season,Chiba Lotte Marines,4,"Ogino, Takashi",OF,46,0.971,99,2,3,0,,71575131
+2010,Regular Season,Saitama Seibu Lions,24,"Matsunaga, Hironori",P,6,1.000,1,1,0,0,,71675112
+2010,Regular Season,Chiba Lotte Marines,31,"Watanabe, Shunsuke",P,26,0.964,6,21,1,1,,71675113
+2010,Regular Season,Tokyo Yakult Swallows,22,"Masubuchi, Tatsuyoshi",P,57,0.882,4,11,2,0,,71675114
+2010,Regular Season,Saitama Seibu Lions,68,"Miyata, Kazuki",P,2,0.000,0,0,0,0,,71675118
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,10,"Wolfe, Brian",P,42,0.923,2,10,1,1,,71675131
+2010,Regular Season,Hiroshima Toyo Carp,22,"Takahashi, Ken",P,26,1.000,0,7,0,1,,71773880
+2010,Regular Season,Orix Buffaloes,31,"Shiozaki, Makoto",1B,10,1.000,17,2,0,2,,71773884
+2010,Regular Season,Orix Buffaloes,31,"Shiozaki, Makoto",2B,1,0.000,0,0,0,0,,71773884
+2010,Regular Season,Orix Buffaloes,31,"Shiozaki, Makoto",3B,13,1.000,4,15,0,0,,71773884
+2010,Regular Season,Orix Buffaloes,31,"Shiozaki, Makoto",SS,9,1.000,2,2,0,0,,71773884
+2010,Regular Season,Chiba Lotte Marines,43,"Saito, Toshio",C,21,0.972,69,1,2,0,2,71775110
+2010,Regular Season,Yomiuri Giants,13,"Takagi, Yasunari",P,21,1.000,3,9,0,1,,71775111
+2010,Regular Season,Tohoku Rakuten Golden Eagles,54,"Kitani, Hisashi",P,7,1.000,0,3,0,0,,71775112
+2010,Regular Season,Orix Buffaloes,1,"Goto, Mitsutaka",2B,143,0.989,318,404,8,74,,71775115
+2010,Regular Season,Orix Buffaloes,12,"Kisanuki, Hiroshi",P,28,0.974,3,34,1,1,,71775117
+2010,Regular Season,Yomiuri Giants,47,"Yamaguchi, Tetsuya",P,73,0.962,5,20,1,1,,71875112
+2010,Regular Season,Saitama Seibu Lions,40,"Yamamoto, Jun",P,9,0.000,0,0,0,0,,71875114
+2010,Regular Season,Yomiuri Giants,49,"Gonzalez, Dicky",P,25,0.966,11,17,1,2,,71875119
+2010,Regular Season,Tokyo Yakult Swallows,64,"Barnette, Tony",P,16,0.958,6,17,1,0,,71875131
+2010,Regular Season,Hiroshima Toyo Carp,42,"Hasegawa, Masayuki",P,2,0.000,0,0,1,0,,71973882
+2010,Regular Season,Orix Buffaloes,25,"Hasegawa, Masayuki",P,6,0.750,1,2,1,0,,71973882
+2010,Regular Season,Chunichi Dragons,33,"Hirai, Masafumi",P,46,1.000,4,12,0,0,,71973889
+2010,Regular Season,Chiba Lotte Marines,25,"Takehara, Naotaka",OF,10,1.000,12,0,0,0,,71975110
+2010,Regular Season,Chunichi Dragons,67,"Takahashi, Akifumi",P,63,1.000,2,6,0,0,,71975115
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Koyano, Eiichi",1B,9,0.938,15,0,1,2,,71975117
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Koyano, Eiichi",3B,143,0.965,72,256,12,17,,71975117
+2010,Regular Season,Chiba Lotte Marines,39,"Tanaka, Masahiko",C,6,1.000,6,0,0,0,0,71975119
+2010,Regular Season,Hiroshima Toyo Carp,12,"Takeuchi, Hisashi",P,5,1.000,0,1,0,0,,71975131
+2010,Regular Season,Chiba Lotte Marines,69,"Murphy, Bill",P,38,0.971,7,26,1,1,,73175131
+2010,Regular Season,Orix Buffaloes,52,"Baldiris, Aarom",3B,114,0.971,53,178,7,9,,73375116
+2010,Regular Season,Tokyo Yakult Swallows,53,"Whitesell, Josh",1B,61,0.992,484,31,4,52,,73375131
+2010,Regular Season,Tokyo Yakult Swallows,53,"Whitesell, Josh",OF,4,1.000,3,0,0,0,,73375131
+2010,Regular Season,Tohoku Rakuten Golden Eagles,16,"Yamamura, Hiroki",P,36,1.000,4,5,0,0,,81083880
+2010,Regular Season,Yomiuri Giants,33,"Nomaguchi, Takahiko",P,12,0.857,1,5,1,2,,81085110
+2010,Regular Season,Yokohama BayStars,39,"Naito, Yuta",OF,17,1.000,15,0,0,0,,81085112
+2010,Regular Season,Saitama Seibu Lions,60,"Nakamura, Takeya",1B,21,0.981,96,5,2,9,,81085115
+2010,Regular Season,Saitama Seibu Lions,60,"Nakamura, Takeya",3B,46,0.929,21,70,7,10,,81085115
+2010,Regular Season,Tokyo Yakult Swallows,25,"Tateyama, Shohei",P,21,0.933,11,17,2,0,,81085117
+2010,Regular Season,Orix Buffaloes,35,"Higa, Motoki",P,24,0.857,1,5,1,0,,81085131
+2010,Regular Season,Chunichi Dragons,13,"Iwase, Hitoki",P,54,1.000,6,9,0,0,,81183888
+2010,Regular Season,Yokohama BayStars,44,"Oka, Tomokazu",P,22,0.952,6,14,1,1,,81183889
+2010,Regular Season,Hiroshima Toyo Carp,39,"Umetsu, Tomohiro",P,46,1.000,2,9,0,0,,81185110
+2010,Regular Season,Saitama Seibu Lions,51,"Oshima, Hiroyuki",1B,8,1.000,28,3,0,2,,81185111
+2010,Regular Season,Saitama Seibu Lions,51,"Oshima, Hiroyuki",OF,41,0.978,43,1,1,1,,81185111
+2010,Regular Season,Tohoku Rakuten Golden Eagles,39,"Ino, Suguru",C,14,0.979,89,3,2,0,2,81185112
+2010,Regular Season,Orix Buffaloes,50,"Arakane, Hisao",OF,56,0.989,87,1,1,0,,81185113
+2010,Regular Season,Chunichi Dragons,46,"Iwasaki, Tatsuro",2B,57,1.000,45,70,0,17,,81185114
+2010,Regular Season,Chunichi Dragons,46,"Iwasaki, Tatsuro",3B,1,0.000,0,0,0,0,,81185114
+2010,Regular Season,Chunichi Dragons,46,"Iwasaki, Tatsuro",SS,15,0.967,8,21,1,7,,81185114
+2010,Regular Season,Orix Buffaloes,61,"Itoh, Hikaru",C,2,1.000,7,1,0,0,0,81185116
+2010,Regular Season,Yomiuri Giants,26,"Utsumi, Tetsuya",P,27,0.974,6,32,1,0,,81185119
+2010,Regular Season,Yomiuri Giants,27,"Ichikawa, Tomoya",C,3,1.000,2,0,0,0,0,81185131
+2010,Regular Season,Hanshin Tigers,42,"Shimoyanagi, Tsuyoshi",P,19,1.000,4,26,0,2,,81283883
+2010,Regular Season,Saitama Seibu Lions,33,"Hoshi, Hidekazu",1B,1,1.000,2,0,0,0,,81285110
+2010,Regular Season,Saitama Seibu Lions,33,"Hoshi, Hidekazu",OF,29,1.000,15,1,0,1,,81285110
+2010,Regular Season,Orix Buffaloes,16,"Hirano, Yoshihisa",P,63,0.950,6,13,1,0,,81285112
+2010,Regular Season,Tohoku Rakuten Golden Eagles,00,"Nakamura, Masato",OF,15,0.952,19,1,1,0,,81285114
+2010,Regular Season,Saitama Seibu Lions,19,"Hirano, Masamitsu",P,11,0.923,2,10,1,1,,81285116
+2010,Regular Season,Chunichi Dragons,68,"Nagamine, Shoji",P,11,1.000,0,5,0,1,,81285117
+2010,Regular Season,Saitama Seibu Lions,20,"Nogami, Ryoma",P,27,1.000,2,11,0,1,,81285118
+2010,Regular Season,Orix Buffaloes,66,"Yoshida, Shintaro",OF,11,1.000,7,0,0,0,,81285119
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,43,"Masui, Hirotoshi",P,13,1.000,3,13,0,1,,81285131
+2010,Regular Season,Orix Buffaloes,23,"Kitagawa, Hirotoshi",1B,38,0.988,290,27,4,24,,81383880
+2010,Regular Season,Tohoku Rakuten Golden Eagles,45,"Kawai, Takashi",P,17,1.000,3,17,0,0,,81383888
+2010,Regular Season,Yomiuri Giants,9,"Kamei, Yoshiyuki",1B,22,0.992,115,12,1,3,,81385110
+2010,Regular Season,Yomiuri Giants,9,"Kamei, Yoshiyuki",OF,58,1.000,94,5,0,3,,81385110
+2010,Regular Season,Yomiuri Giants,22,"Ochi, Daisuke",P,59,0.778,2,5,2,1,,81385112
+2010,Regular Season,Chiba Lotte Marines,66,"Okada, Yoshifumi",OF,68,1.000,107,1,0,0,,81385118
+2010,Regular Season,Tohoku Rakuten Golden Eagles,51,"Kawagishi, Tsuyoshi",P,49,1.000,0,7,0,1,,81385119
+2010,Regular Season,Chiba Lotte Marines,40,"Watanabe, Masato",2B,3,1.000,0,2,0,0,,81483886
+2010,Regular Season,Chiba Lotte Marines,40,"Watanabe, Masato",3B,2,1.000,2,3,0,0,,81483886
+2010,Regular Season,Hiroshima Toyo Carp,30,"Mori, Choji",P,3,0.000,0,0,0,0,,81485110
+2010,Regular Season,Tohoku Rakuten Golden Eagles,68,"Masuda, Shintaro",1B,3,1.000,8,0,0,0,,81485112
+2010,Regular Season,Tohoku Rakuten Golden Eagles,68,"Masuda, Shintaro",2B,7,1.000,10,15,0,3,,81485112
+2010,Regular Season,Tohoku Rakuten Golden Eagles,68,"Masuda, Shintaro",3B,4,1.000,0,4,0,0,,81485112
+2010,Regular Season,Tohoku Rakuten Golden Eagles,68,"Masuda, Shintaro",OF,4,1.000,7,0,0,0,,81485112
+2010,Regular Season,Tohoku Rakuten Golden Eagles,68,"Masuda, Shintaro",SS,3,1.000,1,9,0,2,,81485112
+2010,Regular Season,Orix Buffaloes,20,"Yamamoto, Shogo",P,23,1.000,5,25,0,0,,81485113
+2010,Regular Season,Tokyo Yakult Swallows,60,"Miwa, Masayoshi",OF,5,1.000,9,0,0,0,,81485116
+2010,Regular Season,Yokohama BayStars,25,"Murata, Shuichi",3B,143,0.969,85,229,10,21,,81485117
+2010,Regular Season,Tohoku Rakuten Golden Eagles,15,"Fujiwara, Hiromichi",P,4,0.750,2,1,1,1,,81485118
+2010,Regular Season,Chiba Lotte Marines,121,"Yamamuro, Koshiro",P,1,0.000,0,0,0,0,,81485131
+2010,Regular Season,Tohoku Rakuten Golden Eagles,57,"Koyama, Shinichiro",P,55,1.000,0,6,0,0,,81583884
+2010,Regular Season,Yokohama BayStars,40,"Kuwahara, Yoshiyuki",OF,2,0.000,0,0,0,0,,81585110
+2010,Regular Season,Fukuoka Softbank Hawks,39,"Kume, Yuki",P,4,1.000,0,1,0,0,,81585116
+2010,Regular Season,Tohoku Rakuten Golden Eagles,38,"Kusuki, Yusuke",OF,4,1.000,2,0,0,0,,81585118
+2010,Regular Season,Hanshin Tigers,40,"Sajikihara, Masashi",P,6,1.000,2,2,0,0,,81585119
+2010,Regular Season,Hanshin Tigers,31,"Wei-chu, Lin",OF,40,0.957,44,0,2,0,,81685117
+2010,Regular Season,Yokohama BayStars,0,"Yamazaki, Noriharu",1B,9,1.000,6,3,0,2,,81685118
+2010,Regular Season,Yokohama BayStars,0,"Yamazaki, Noriharu",2B,24,1.000,17,28,0,3,,81685118
+2010,Regular Season,Yokohama BayStars,0,"Yamazaki, Noriharu",3B,4,0.000,0,0,0,0,,81685118
+2010,Regular Season,Hanshin Tigers,3,"Sekimoto, Kentaro",1B,39,0.988,74,5,1,11,,81783884
+2010,Regular Season,Hanshin Tigers,3,"Sekimoto, Kentaro",2B,12,1.000,19,22,0,8,,81783884
+2010,Regular Season,Hiroshima Toyo Carp,21,"Saito, Yuki",P,23,1.000,5,25,0,0,,81785112
+2010,Regular Season,Chiba Lotte Marines,55,"Kobe, Takumi",OF,1,1.000,1,0,0,0,,81785114
+2010,Regular Season,Tokyo Yakult Swallows,0,"Shida, Munehiro",OF,1,0.000,0,0,0,0,,81785115
+2010,Regular Season,Tokyo Yakult Swallows,11,"Satoh, Yoshinori",P,25,0.950,11,27,2,1,,81785116
+2010,Regular Season,Yokohama BayStars,56,"Sugihara, Yo",P,1,1.000,0,1,0,0,,81785119
+2010,Regular Season,Hanshin Tigers,49,"Wakatake, Ryuji",P,4,1.000,0,1,0,0,,81885112
+2010,Regular Season,Tohoku Rakuten Golden Eagles,2,"Watanabe, Naoto",SS,111,0.984,165,312,8,58,,81885114
+2010,Regular Season,Saitama Seibu Lions,42,"Brown, Dee",OF,13,0.909,20,0,2,0,,81885131
+2010,Regular Season,Orix Buffaloes,27,"Hidaka, Takeshi",C,73,0.996,441,34,2,1,1,81983882
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,7,"Tsuboi, Tomochika",OF,4,0.000,0,0,0,0,,81983886
+2010,Regular Season,Hanshin Tigers,28,"Fukuhara, Shinobu",P,19,1.000,1,4,0,1,,81983888
+2010,Regular Season,Tokyo Yakult Swallows,55,"Noguchi, Yoshiyuki",1B,10,1.000,19,0,0,5,,81985111
+2010,Regular Season,Tokyo Yakult Swallows,55,"Noguchi, Yoshiyuki",2B,2,1.000,4,1,0,0,,81985111
+2010,Regular Season,Tokyo Yakult Swallows,55,"Noguchi, Yoshiyuki",3B,1,0.000,0,0,0,0,,81985111
+2010,Regular Season,Tokyo Yakult Swallows,55,"Noguchi, Yoshiyuki",OF,3,0.000,0,0,0,0,,81985111
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Takaguchi, Takayuki",1B,63,1.000,117,4,0,19,,81985112
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Takaguchi, Takayuki",2B,3,1.000,4,3,0,1,,81985112
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Takaguchi, Takayuki",3B,1,0.000,0,0,0,0,,81985112
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Takaguchi, Takayuki",SS,18,1.000,11,33,0,8,,81985112
+2010,Regular Season,Yokohama BayStars,50,"Shimozono, Tatsuya",OF,115,0.980,195,5,4,1,,81985114
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,16,"Tadano, Kazuhito",P,2,1.000,1,0,0,0,,81985116
+2010,Regular Season,Tohoku Rakuten Golden Eagles,22,"Tomura, Kenji",P,4,1.000,0,7,0,0,,81985131
+2010,Regular Season,Tohoku Rakuten Golden Eagles,17,"Rasner, Darrell",P,26,0.971,5,28,1,2,,83185118
+2010,Regular Season,Hiroshima Toyo Carp,24,"Stults, Eric",P,21,0.929,10,16,2,2,,83185131
+2010,Regular Season,Saitama Seibu Lions,50,"Sikorski, Brian",P,58,1.000,3,4,0,0,,83385113
+2010,Regular Season,Chiba Lotte Marines,99,"Muniz, Juan",OF,9,0.900,9,0,1,0,,83385118
+2010,Regular Season,Hanshin Tigers,55,"Standridge, Jason",P,23,0.947,8,10,1,0,,83585114
+2010,Regular Season,Chunichi Dragons,27,"Tanishige, Motonobu",C,109,0.992,639,61,6,8,4,85583868
+2010,Regular Season,Chunichi Dragons,51,"Nakamura, Issei",OF,7,1.000,2,0,0,0,,91095110
+2010,Regular Season,Yomiuri Giants,99,"Fujii, Shugo",P,23,1.000,4,18,0,2,,91095111
+2010,Regular Season,Fukuoka Softbank Hawks,0,"Nakazawa, Tadaatsu",1B,6,1.000,8,0,0,0,,91095113
+2010,Regular Season,Tokyo Yakult Swallows,54,"Takaichi, Shun",P,8,1.000,1,2,0,0,,91095114
+2010,Regular Season,Yokohama BayStars,24,"Terahara, Hayato",P,20,0.905,3,16,2,0,,91095115
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,37,"Tsuchiya, Kenji",P,3,1.000,0,1,0,0,,91095118
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,41,"Inaba, Atsunori",1B,35,0.993,267,15,2,31,,91193880
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,41,"Inaba, Atsunori",OF,83,0.985,128,2,2,0,,91193880
+2010,Regular Season,Saitama Seibu Lions,5,"Ishii, Yoshihito",1B,73,0.994,473,25,3,33,,91193884
+2010,Regular Season,Saitama Seibu Lions,5,"Ishii, Yoshihito",3B,12,1.000,9,16,0,0,,91193884
+2010,Regular Season,Yokohama BayStars,7,"Ishikawa, Takehiro",2B,27,0.988,34,51,1,7,,91195110
+2010,Regular Season,Yokohama BayStars,7,"Ishikawa, Takehiro",SS,119,0.990,168,338,5,59,,91195110
+2010,Regular Season,Tohoku Rakuten Golden Eagles,41,"Aoyama, Kouji",P,41,1.000,3,2,0,0,,91195112
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,26,"Itoi, Yoshio",OF,138,0.984,302,4,5,0,,91195119
+2010,Regular Season,Orix Buffaloes,43,"Anan, Toru",P,17,1.000,0,1,0,0,,91195131
+2010,Regular Season,Fukuoka Softbank Hawks,44,"Mizuta, Akio",P,14,0.000,0,0,1,0,,91293888
+2010,Regular Season,Tohoku Rakuten Golden Eagles,33,"Hiraishi, Yosuke",1B,5,1.000,8,0,0,0,,91295110
+2010,Regular Season,Tohoku Rakuten Golden Eagles,33,"Hiraishi, Yosuke",OF,18,1.000,8,0,0,0,,91295110
+2010,Regular Season,Yokohama BayStars,37,"Hayakawa, Daisuke",OF,24,0.977,42,0,1,0,,91295115
+2010,Regular Season,Chiba Lotte Marines,28,"Nemoto, Tomohisa",P,10,0.750,0,3,1,0,,91295116
+2010,Regular Season,Orix Buffaloes,64,"Nishikawa, Masato",P,4,1.000,0,1,0,0,,91295118
+2010,Regular Season,Tohoku Rakuten Golden Eagles,61,"Kawaguchi, Kenshi",1B,4,1.000,32,0,0,0,,91393880
+2010,Regular Season,Chunichi Dragons,52,"Oda, Kohei",C,36,0.990,196,12,2,2,1,91393886
+2010,Regular Season,Yomiuri Giants,62,"Ueno, Takahisa",P,1,0.000,0,0,0,0,,91395114
+2010,Regular Season,Yokohama BayStars,12,"Ide, Shotaro",OF,36,1.000,54,1,0,0,,91395115
+2010,Regular Season,Chiba Lotte Marines,15,"Ueno, Hiroki",P,7,1.000,0,1,0,0,,91395118
+2010,Regular Season,Tokyo Yakult Swallows,65,"Oshimoto, Takehiko",P,61,1.000,2,7,0,0,,91395119
+2010,Regular Season,Tokyo Yakult Swallows,40,"Yoshimoto, Ryo",1B,5,1.000,10,0,0,1,,91493888
+2010,Regular Season,Tokyo Yakult Swallows,40,"Yoshimoto, Ryo",2B,1,0.000,0,0,0,0,,91493888
+2010,Regular Season,Tokyo Yakult Swallows,40,"Yoshimoto, Ryo",3B,11,1.000,4,13,0,2,,91493888
+2010,Regular Season,Chiba Lotte Marines,27,"Furuya, Takuya",P,58,1.000,1,3,0,1,,91495112
+2010,Regular Season,Chunichi Dragons,00,"Maeda, Akihiro",C,6,1.000,5,0,0,0,0,91495115
+2010,Regular Season,Yokohama BayStars,64,"Matsuyama, Suguru",P,5,0.000,0,0,0,0,,91495116
+2010,Regular Season,Orix Buffaloes,22,"Maeda, Daisuke",C,28,0.992,119,4,1,0,0,91495117
+2010,Regular Season,Yokohama BayStars,47,"Makka, Takayuki",P,2,0.000,0,0,0,0,,91495131
+2010,Regular Season,Yokohama BayStars,1,"Kinjo, Tatsuhiko",OF,47,0.986,66,2,1,0,,91593888
+2010,Regular Season,Hiroshima Toyo Carp,48,"Kishimoto, Hideki",P,51,1.000,4,7,0,0,,91595110
+2010,Regular Season,Tohoku Rakuten Golden Eagles,14,"Satake, Kenta",P,20,1.000,0,3,0,0,,91595111
+2010,Regular Season,Orix Buffaloes,10,"Obiki, Keiji",SS,84,0.982,119,217,6,33,,91595114
+2010,Regular Season,Chiba Lotte Marines,45,"Matsumoto, Kodai",P,10,1.000,0,2,0,1,,91695114
+2010,Regular Season,Orix Buffaloes,30,"Larocca, Greg",1B,1,1.000,3,0,0,0,,91695119
+2010,Regular Season,Orix Buffaloes,30,"Larocca, Greg",3B,21,0.891,16,33,6,5,,91695119
+2010,Regular Season,Yomiuri Giants,38,"Gonzalez, Edgar",1B,39,0.996,206,22,1,20,,91695131
+2010,Regular Season,Yomiuri Giants,38,"Gonzalez, Edgar",2B,65,0.973,127,156,8,22,,91695131
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,32,"Nakajima, Satoshi",C,7,1.000,8,0,0,0,0,91793864
+2010,Regular Season,Fukuoka Softbank Hawks,1,"Shibahara, Hiroshi",OF,53,1.000,63,4,0,0,,91793884
+2010,Regular Season,Orix Buffaloes,44,"Suzuki, Fumihiro",C,86,0.994,507,33,3,1,3,91793886
+2010,Regular Season,Saitama Seibu Lions,11,"Kishi, Takayuki",P,19,1.000,5,17,0,0,,91795114
+2010,Regular Season,Orix Buffaloes,65,"Kondoh, Kazuki",P,24,0.897,8,27,4,3,,91795115
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,15,"Sakakibara, Ryo",P,39,1.000,5,8,0,2,,91795118
+2010,Regular Season,Chiba Lotte Marines,1,"Kiyota, Ikuhiro",OF,59,0.981,101,2,2,1,,91795131
+2010,Regular Season,Fukuoka Softbank Hawks,49,"Ortiz, Jose",1B,1,1.000,2,0,0,0,,91895117
+2010,Regular Season,Fukuoka Softbank Hawks,49,"Ortiz, Jose",3B,19,0.946,7,28,2,4,,91895117
+2010,Regular Season,Fukuoka Softbank Hawks,49,"Ortiz, Jose",OF,76,0.946,84,3,5,0,,91895117
+2010,Regular Season,Chunichi Dragons,45,"Valdez, Edward",P,8,1.000,2,13,0,0,,91895131
+2010,Regular Season,Yokohama BayStars,10,"Hashimoto, Tasuku",C,40,0.988,243,14,3,4,0,91993880
+2010,Regular Season,Yomiuri Giants,8,"Tani, Yoshitomo",1B,3,1.000,9,1,0,2,,91993884
+2010,Regular Season,Yomiuri Giants,8,"Tani, Yoshitomo",OF,49,0.983,56,3,1,0,,91993884
+2010,Regular Season,Saitama Seibu Lions,8,"Hirao, Hiroshi",1B,29,1.000,171,10,0,12,,91993889
+2010,Regular Season,Saitama Seibu Lions,8,"Hirao, Hiroshi",3B,15,0.947,4,14,1,1,,91993889
+2010,Regular Season,Saitama Seibu Lions,2,"Sumitani, Ginjiro",C,1,1.000,5,0,0,0,0,91995112
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,69,"Sato, Kenji",OF,5,1.000,9,0,0,0,,91995114
+2010,Regular Season,Hokkaido Nippon-Ham Fighters,52,"Konta, Toshimasa",OF,29,0.974,37,0,1,0,,91995117
+2010,Regular Season,Fukuoka Softbank Hawks,50,"Settsu, Tadashi",P,71,1.000,5,7,0,0,,91995118
+2010,Regular Season,Hanshin Tigers,20,"Tsutsui, Kazuya",P,23,1.000,2,3,0,0,,91995119
+2010,Regular Season,Yomiuri Giants,7,"Chono, Hisayoshi",OF,121,0.977,211,3,5,0,,91995131
+2010,Regular Season,Tokyo Yakult Swallows,5,"Guiel, Aaron",OF,65,0.977,80,4,2,0,,93195114
+2010,Regular Season,Hanshin Tigers,54,"Messenger, Randy",P,26,0.950,6,13,1,2,,93195131
+2010,Regular Season,Yokohama BayStars,42,"Harper, Brett",1B,63,0.993,512,28,4,47,,93395131

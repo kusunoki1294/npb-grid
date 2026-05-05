@@ -1,0 +1,542 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+1981,Regular Season,Hiroshima Toyo Carp,6,"Lyttle, Jim",RF,128,534,493,0.318,0.365,0.578,0.943,83,100,157,97,25,2,33,285,0,4,34,1,58,5,2,1,4,01003844
+1981,Regular Season,Kintetsu Buffaloes,9,"Hirano, Mitsuyasu",CF,121,522,482,0.259,0.307,0.386,0.693,53,50,125,90,19,6,10,186,12,8,33,0,57,9,0,2,5,01003845
+1981,Climax Series - Final Stage,Lotte Orions,7,"Lee, Leon",1B,5,,14,0.214,,0.429,,,2,3,2,0,0,1,6,0,,6,,1,,,,,01003846
+1981,Regular Season,Lotte Orions,7,"Lee, Leon",1B,107,441,395,0.301,0.366,0.443,0.809,50,62,119,89,17,0,13,175,1,3,39,3,41,14,1,1,5,01003846
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,33,"Murai, Hideshi",LF,3,,5,0.400,,0.400,,,1,2,2,0,0,0,2,0,,1,,1,,,,,01003849
+1981,Japan Series,Nippon-Ham Fighters,33,"Murai, Hideshi",LF,4,,4,0.500,,0.500,,,0,2,2,0,0,0,2,0,,0,,1,,,,,01003849
+1981,Regular Season,Nippon-Ham Fighters,33,"Murai, Hideshi",LF,74,162,141,0.305,0.388,0.397,0.785,9,10,43,34,7,0,2,56,2,2,15,0,21,6,4,2,0,01003849
+1981,Regular Season,Nankai Hawks,31,"Mizutani, Shigeo",P,45,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01003861
+1981,Regular Season,Hanshin Tigers,32,"Hikima, Katsuyuki",PH,20,18,16,0.250,0.333,0.313,0.646,3,0,4,3,1,0,0,5,1,1,2,0,3,0,0,0,0,01003863
+1981,Japan Series,Yomiuri Giants,35,"Awaguchi, Kenji",LF,6,,8,0.125,,0.250,,,2,1,0,1,0,0,2,0,,1,,2,,,,,01103843
+1981,Regular Season,Yomiuri Giants,35,"Awaguchi, Kenji",LF,116,371,336,0.313,0.371,0.497,0.868,50,35,105,72,17,3,13,167,11,6,31,6,45,2,0,2,2,01103843
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,27,"Omiya, Tatsuo",C,11,,18,0.111,,0.111,,,1,2,2,0,0,0,2,0,,1,,4,,,,,01103844
+1981,Japan Series,Nippon-Ham Fighters,27,"Omiya, Tatsuo",C,11,,20,0.350,,0.450,,,1,7,6,0,1,0,9,1,,2,,0,,,,,01103844
+1981,Regular Season,Nippon-Ham Fighters,27,"Omiya, Tatsuo",C,113,404,358,0.249,0.310,0.416,0.726,51,53,89,62,9,3,15,149,13,4,30,0,40,11,2,11,3,01103844
+1981,Regular Season,Chunichi Dragons,31,"Ishii, Akio",PH,81,151,121,0.207,0.347,0.306,0.653,16,16,25,19,3,0,3,37,2,0,22,2,28,6,4,2,2,01103846
+1981,Regular Season,Chunichi Dragons,27,"Okawara, Sakae",C,32,30,28,0.357,0.400,0.500,0.900,2,1,10,8,1,0,1,14,0,0,2,0,4,1,0,0,0,01103848
+1981,Regular Season,Hiroshima Toyo Carp,11,"Ikegaya, Kojiro",P,26,48,45,0.089,0.109,0.089,0.198,1,2,4,4,0,0,0,4,0,0,1,0,12,0,0,2,0,01103849
+1981,Regular Season,Chunichi Dragons,17,"Ushijima, Kazuhiko",P,52,17,14,0.286,0.375,0.286,0.661,0,1,4,4,0,0,0,4,0,0,2,0,7,0,0,1,0,01103861
+1981,Regular Season,Nankai Hawks,52,"Inoe, Yuji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103863
+1981,Regular Season,Yokohama Taiyo Whales,63,"Mori, Kazuaki",PH,8,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,01203863
+1981,Climax Series - Final Stage,Lotte Orions,34,"Kenmotsu, Takahiro",RF,4,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,01303842
+1981,Regular Season,Lotte Orions,34,"Kenmotsu, Takahiro",RF,63,53,50,0.300,0.340,0.400,0.740,14,4,15,12,2,0,1,20,3,1,3,0,5,1,0,0,0,01303842
+1981,Regular Season,Hanshin Tigers,29,"Emoto, Takenori",P,24,26,21,0.238,0.273,0.333,0.606,0,0,5,3,2,0,0,7,0,0,1,0,11,0,0,4,0,01303843
+1981,Regular Season,Yokohama Taiyo Whales,17,"Saito, Akio",P,47,53,49,0.102,0.120,0.163,0.283,2,1,5,3,1,1,0,8,0,0,1,0,18,2,0,2,1,01303844
+1981,Regular Season,Lotte Orions,14,"Okue, Hideyuki",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01303847
+1981,Regular Season,Chunichi Dragons,46,"Kawamata, Yonetoshi",PH,11,14,13,0.231,0.286,0.231,0.517,1,0,3,3,0,0,0,3,0,0,1,0,3,1,0,0,0,01303848
+1981,Climax Series - Final Stage,Lotte Orions,26,"Omata, Susumu",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,01303849
+1981,Regular Season,Lotte Orions,26,"Omata, Susumu",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01303849
+1981,Regular Season,Yakult Swallows,13,"Kataoka, Daizo",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01303861
+1981,Regular Season,Kintetsu Buffaloes,43,"Oishi, Daijiro",PR,77,20,19,0.316,0.350,0.316,0.666,14,0,6,6,0,0,0,6,11,5,0,0,4,0,1,0,0,01303863
+1981,Regular Season,Kintetsu Buffaloes,48,"Yoda, Eiji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01403863
+1981,Regular Season,Chunichi Dragons,23,"Kimata, Tatsuhiko",C,108,256,232,0.276,0.333,0.448,0.781,19,36,64,44,10,0,10,104,0,0,17,8,19,9,3,2,2,01503829
+1981,Regular Season,Yokohama Taiyo Whales,12,"Tanaka, Yoshio",P,12,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01503842
+1981,Regular Season,Nankai Hawks,39,"Kuroda, Masahiro",C,79,180,160,0.206,0.278,0.288,0.566,12,7,33,24,7,0,2,46,1,0,9,0,25,4,7,4,0,01503845
+1981,Regular Season,Yokohama Taiyo Whales,41,"Shimizu, Hiroyoshi",PH,70,71,65,0.231,0.275,0.308,0.583,3,5,15,10,5,0,0,20,0,0,3,0,16,2,1,1,1,01503847
+1981,Regular Season,Hankyu Braves,37,"Kudo, Hiroyoshi",DH,1,1,1,1.000,1.000,1.000,2.000,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,01503861
+1981,Regular Season,Hankyu Braves,44,"Cage, Wayne",DH,124,470,424,0.238,0.311,0.502,0.813,52,74,101,51,19,0,31,213,2,2,43,3,122,13,2,0,1,01503863
+1981,Japan Series,Nippon-Ham Fighters,18,"Takahashi, Kazumi",P,2,,5,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,01703820
+1981,Regular Season,Nippon-Ham Fighters,18,"Takahashi, Kazumi",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01703820
+1981,Regular Season,Nankai Hawks,1,"Sakurai, Teruhide",PR,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01703824
+1981,Regular Season,Yomiuri Giants,27,"Ninomiya, Itaru",LF,3,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01703844
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,39,"Solaita, Tony",DH,11,,15,0.267,,0.333,,,0,4,3,1,0,0,5,0,,7,,4,,,,,01703861
+1981,Japan Series,Nippon-Ham Fighters,39,"Solaita, Tony",DH,11,,24,0.167,,0.458,,,2,4,1,1,0,2,11,0,,1,,6,,,,,01703861
+1981,Regular Season,Nippon-Ham Fighters,39,"Solaita, Tony",DH,128,545,454,0.300,0.412,0.645,1.057,86,108,136,68,23,1,44,293,0,2,81,13,102,14,6,0,3,01703861
+1981,Regular Season,Hanshin Tigers,55,"Seike, Masakazu",SS,8,13,11,0.545,0.615,0.636,1.251,4,1,6,5,1,0,0,7,0,0,2,0,0,0,0,0,0,01703863
+1981,Regular Season,Yokohama Taiyo Whales,2,"Nakatsuka, Masayuki",LF,100,235,221,0.276,0.307,0.362,0.669,17,12,61,46,12,2,1,80,3,1,10,0,21,5,0,3,1,01903826
+1981,Regular Season,Seibu Lions,21,"Higashio, Osamu",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903828
+1981,Climax Series - Final Stage,Lotte Orions,43,"Doi, Kenji",C,5,,14,0.357,,0.571,,,1,5,4,0,0,1,8,1,,0,,1,,,,,01903841
+1981,Regular Season,Lotte Orions,43,"Doi, Kenji",C,104,290,253,0.265,0.340,0.403,0.743,25,28,67,46,14,0,7,102,2,1,24,2,32,3,5,6,2,01903841
+1981,Regular Season,Yomiuri Giants,22,"Fujishiro, Kazuaki",P,13,10,10,0.200,0.200,0.200,0.400,1,0,2,2,0,0,0,2,0,0,0,0,5,0,0,0,0,01903844
+1981,Regular Season,Chunichi Dragons,24,"Mizutani, Hiroaki",P,47,7,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,0,01903848
+1981,Regular Season,Seibu Lions,1,"Natori, Kazuhiko",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903861
+1981,Regular Season,Chunichi Dragons,9,"Nakao, Takayoshi",C,116,319,288,0.243,0.290,0.347,0.637,37,26,70,52,11,2,5,100,7,6,19,2,52,10,0,9,3,01903863
+1981,Japan Series,Yomiuri Giants,7,"Shibata, Isao",PH,6,,10,0.400,,0.400,,,1,4,4,0,0,0,4,0,,1,,1,,,,,11013825
+1981,Regular Season,Yomiuri Giants,7,"Shibata, Isao",PH,40,47,43,0.186,0.239,0.279,0.518,3,4,8,6,1,0,1,12,1,1,3,0,8,1,0,0,1,11013825
+1981,Regular Season,Lotte Orions,16,"Mochizuki, Takuya",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11013844
+1981,Japan Series,Yomiuri Giants,15,"Yamakura, Kazuhiro",C,6,,19,0.158,,0.474,,,3,3,1,0,0,2,9,0,,1,,4,,,,,11013846
+1981,Regular Season,Yomiuri Giants,15,"Yamakura, Kazuhiro",C,124,417,371,0.205,0.273,0.329,0.602,31,40,76,54,9,2,11,122,3,1,34,11,59,9,1,8,3,11013846
+1981,Regular Season,Hanshin Tigers,7,"Mayumi, Akinobu",SS,111,494,444,0.273,0.335,0.408,0.743,64,36,121,90,15,3,13,181,26,7,39,6,48,8,3,7,1,11013847
+1981,Regular Season,Nankai Hawks,35,"Yoshida, Hiroyuki",C,39,100,84,0.226,0.323,0.298,0.621,7,9,19,15,3,0,1,25,0,1,12,0,15,0,0,2,2,11013848
+1981,Regular Season,Hanshin Tigers,47,"Fujiwara, Masashi",P,6,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11013861
+1981,Regular Season,Kintetsu Buffaloes,36,"Harris, Vic",2B,124,494,447,0.268,0.337,0.472,0.809,58,74,120,77,17,4,22,211,13,7,43,0,44,10,3,1,0,11013863
+1981,Regular Season,Lotte Orions,46,"Yasuki, Shoji",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213828
+1981,Regular Season,Seibu Lions,37,"Yamakawa, Takeshi",C,20,54,52,0.212,0.226,0.365,0.591,5,3,11,7,1,2,1,19,0,0,1,0,9,0,0,1,0,11213861
+1981,Regular Season,Yokohama Taiyo Whales,14,"Horii, Tsuneo",P,6,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213863
+1981,Regular Season,Hiroshima Toyo Carp,7,"Uchida, Junzo",PH,15,15,13,0.077,0.200,0.154,0.354,2,0,1,0,1,0,0,2,0,0,2,0,2,2,0,0,0,11313841
+1981,Regular Season,Nankai Hawks,32,"Oka, Yoshiaki",SS,96,124,111,0.216,0.243,0.315,0.558,19,10,24,17,5,0,2,35,4,3,4,0,13,4,0,8,1,11313845
+1981,Regular Season,Hanshin Tigers,18,"Omachi, Sadao",P,51,16,15,0.067,0.067,0.067,0.134,0,3,1,1,0,0,0,1,0,0,0,0,9,0,0,1,0,11313861
+1981,Regular Season,Kintetsu Buffaloes,13,"Ishimoto, Yoshiaki",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313863
+1981,Regular Season,Yakult Swallows,28,"Yaegashi, Yukio",C,71,183,164,0.171,0.244,0.238,0.482,8,15,28,23,2,0,3,39,0,3,13,0,42,3,3,2,1,11413843
+1981,Regular Season,Hanshin Tigers,25,"Yamamoto, Kazuyuki",P,31,75,64,0.141,0.179,0.281,0.460,4,7,9,6,0,0,3,18,0,0,3,0,16,1,0,8,0,11413845
+1981,Regular Season,Hiroshima Toyo Carp,41,"Yamanaka, Kiyoshi",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11413863
+1981,Regular Season,Hankyu Braves,29,"Kawamura, Kenichiro",PH,42,73,68,0.221,0.274,0.309,0.583,5,7,15,11,3,0,1,21,0,0,5,0,14,2,0,0,0,11513845
+1981,Regular Season,Hankyu Braves,26,"Kobayashi, Shinya",LF,121,412,380,0.282,0.329,0.376,0.705,46,37,107,79,23,2,3,143,6,5,27,1,22,7,0,2,3,11513846
+1981,Regular Season,Kintetsu Buffaloes,39,"Sano, Motokuni",PH,6,7,6,0.000,0.143,0.000,0.143,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,11513848
+1981,Regular Season,Hanshin Tigers,31,"Kakefu, Masayuki",3B,130,549,458,0.341,0.446,0.550,0.996,84,86,156,107,25,1,23,252,1,1,85,18,54,8,2,0,4,11513849
+1981,Regular Season,Hankyu Braves,58,"Kinoshita, Tomohiro",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513861
+1981,Regular Season,Hiroshima Toyo Carp,14,"Kataoka, Mitsuhiro",P,5,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513863
+1981,Regular Season,Yakult Swallows,1,"Wakamatsu, Tsutomu",LF,95,358,323,0.291,0.348,0.461,0.809,49,37,94,67,12,2,13,149,5,3,24,4,24,11,4,4,3,11613843
+1981,Regular Season,Kintetsu Buffaloes,34,"Murata, Tatsumi",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713840
+1981,Regular Season,Hiroshima Toyo Carp,2,"Takahashi, Yoshihiko",SS,111,490,460,0.289,0.326,0.389,0.715,72,31,133,101,23,4,5,179,14,11,19,0,38,3,6,3,2,11713842
+1981,Japan Series,Yomiuri Giants,5,"Kono, Kazumasa",SS,6,,21,0.429,,0.762,,,3,9,6,1,0,2,16,2,,8,,4,,,,,11713843
+1981,Regular Season,Yomiuri Giants,5,"Kono, Kazumasa",SS,130,580,503,0.264,0.335,0.396,0.731,73,42,133,100,16,1,16,199,27,7,45,1,65,3,8,21,2,11713843
+1981,Regular Season,Hiroshima Toyo Carp,13,"Doi, Masashi",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713844
+1981,Regular Season,Nankai Hawks,23,"Takayanagi, Hideki",CF,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,11713848
+1981,Regular Season,Hankyu Braves,35,"Sato, Shigetaka",RF,35,49,45,0.200,0.265,0.267,0.532,4,2,9,8,0,0,1,12,2,2,2,0,10,1,2,0,0,11713861
+1981,Regular Season,Seibu Lions,38,"Kono, Junki",2B,3,6,5,0.200,0.333,0.200,0.533,1,0,1,1,0,0,0,1,0,1,1,0,3,0,0,0,0,11713863
+1981,Regular Season,Hanshin Tigers,2,"Takenochi, Masashi",PH,33,56,52,0.173,0.232,0.212,0.444,2,3,9,7,2,0,0,11,0,0,1,0,7,1,3,0,0,11913826
+1981,Regular Season,Chunichi Dragons,3,"Tomita, Masaru",3B,92,255,235,0.238,0.263,0.319,0.582,21,13,56,44,8,1,3,75,1,2,8,0,29,10,0,10,2,11913828
+1981,Regular Season,Nankai Hawks,26,"Fujita, Manabu",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913842
+1981,Regular Season,Lotte Orions,41,"Hirata, Hideyuki",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913844
+1981,Regular Season,Yokohama Taiyo Whales,11,"Takeuchi, Hiroaki",P,47,15,13,0.077,0.143,0.308,0.451,1,3,1,0,0,0,1,4,0,0,1,0,6,0,0,1,0,11913845
+1981,Regular Season,Hankyu Braves,53,"Fujimoto, Masaharu",2B,68,29,24,0.333,0.360,0.625,0.985,7,6,8,5,1,0,2,15,2,1,0,0,5,0,1,3,1,11913846
+1981,Regular Season,Seibu Lions,6,"Suzuki, Haruhiko",1B,67,119,108,0.222,0.288,0.324,0.612,7,15,24,16,6,1,1,35,1,0,9,0,9,2,1,0,1,11913849
+1981,Regular Season,Nippon-Ham Fighters,20,"Takahashi, Masami",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913861
+1981,Regular Season,Yakult Swallows,12,"Tachino, Masashi",P,39,9,8,0.125,0.125,0.125,0.250,0,0,1,1,0,0,0,1,0,0,0,0,6,0,0,1,0,11913863
+1981,Regular Season,Yokohama Taiyo Whales,10,"Fukushima, Hisaaki",C,106,334,298,0.248,0.309,0.399,0.708,22,37,74,48,14,5,7,119,0,2,23,8,46,10,3,4,6,21023824
+1981,Climax Series - Final Stage,Lotte Orions,5,"Lee, Leron",DH,4,,14,0.143,,0.143,,,1,2,2,0,0,0,2,0,,2,,5,,,,,21023844
+1981,Regular Season,Lotte Orions,5,"Lee, Leron",DH,125,501,447,0.302,0.373,0.463,0.836,58,71,135,103,11,2,19,207,5,2,48,3,57,8,3,0,3,21023844
+1981,Climax Series - Final Stage,Lotte Orions,3,"Hirota, Sumio",CF,5,,19,0.211,,0.263,,,1,4,3,1,0,0,5,0,,1,,2,,,,,21023845
+1981,Regular Season,Lotte Orions,3,"Hirota, Sumio",CF,122,515,460,0.265,0.305,0.341,0.646,56,40,122,98,18,1,5,157,29,6,23,1,32,4,3,26,2,21023845
+1981,Regular Season,Nankai Hawks,40,"Miura, Masaki",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21023847
+1981,Regular Season,Yakult Swallows,38,"Minami, Hidenori",P,8,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21023861
+1981,Regular Season,Chunichi Dragons,43,"Hirata, Tsuneo",PH,31,34,30,0.300,0.382,0.367,0.749,6,3,9,7,2,0,0,11,1,0,4,0,13,0,0,0,0,21023863
+1981,Regular Season,Seibu Lions,27,"Ohara, Tetsuya",PR,11,5,5,0.000,0.000,0.000,0.000,3,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,21123848
+1981,Regular Season,Hanshin Tigers,56,"Iida, Masao",PR,5,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21123863
+1981,Regular Season,Yokohama Taiyo Whales,5,"Motoi, Mitsuo",2B,93,360,321,0.237,0.306,0.287,0.593,25,16,76,62,13,0,1,92,4,3,27,0,32,7,5,7,0,21223824
+1981,Regular Season,Kintetsu Buffaloes,31,"Moriwaki, Hiroshi",SS,57,63,57,0.316,0.371,0.491,0.862,10,7,18,12,4,0,2,28,1,0,4,0,9,2,1,1,0,21223863
+1981,Regular Season,Seibu Lions,23,"Kobayashi, Seiji",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323842
+1981,Regular Season,Yokohama Taiyo Whales,9,"Saito, Ko",3B,98,227,210,0.233,0.281,0.305,0.586,18,12,49,40,6,0,3,64,2,2,14,1,48,7,0,1,2,21323844
+1981,Regular Season,Kintetsu Buffaloes,16,"Kubo, Yasuo",P,42,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323846
+1981,Regular Season,Hankyu Braves,57,"Kanamoto, Seikichi",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323861
+1981,Regular Season,Yakult Swallows,24,"Okawa, Akira",P,22,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,21323863
+1981,Regular Season,Hanshin Tigers,53,"Yoshitake, Haruki",LF,81,103,86,0.186,0.278,0.233,0.511,16,2,16,12,4,0,0,20,1,2,9,0,21,1,2,5,1,21423863
+1981,Regular Season,Hankyu Braves,20,"Shiraishi, Shizuo",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21523822
+1981,Regular Season,Lotte Orions,28,"Tamura, Isao",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21523842
+1981,Regular Season,Nankai Hawks,42,"Tyrone, Jim",RF,125,533,492,0.311,0.357,0.467,0.824,77,60,153,112,23,0,18,230,11,2,32,0,45,17,3,1,5,21523848
+1981,Regular Season,Chunichi Dragons,45,"Kurioka, Hidetomo",PR,28,25,25,0.200,0.200,0.280,0.480,4,0,5,4,0,1,0,7,0,1,0,0,7,0,0,0,0,21523861
+1981,Regular Season,Yakult Swallows,59,"Genoka, Masamitsu",CF,6,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,21523863
+1981,Climax Series - Final Stage,Lotte Orions,15,"Takahashi, Hiroshi",C,3,,7,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,21723820
+1981,Regular Season,Lotte Orions,15,"Takahashi, Hiroshi",C,94,216,195,0.246,0.297,0.297,0.594,14,19,48,40,7,0,1,58,0,2,13,0,13,2,1,6,1,21723820
+1981,Regular Season,Hankyu Braves,25,"Takai, Yasuhiro",PH,85,138,115,0.235,0.358,0.478,0.836,14,24,27,17,1,0,9,55,0,1,22,1,32,1,0,0,1,21723822
+1981,Regular Season,Yokohama Taiyo Whales,8,"Tsuji, Yasuhiko",C,54,101,86,0.233,0.305,0.314,0.619,7,5,20,15,4,0,1,27,0,0,9,1,14,1,0,6,0,21723827
+1981,Regular Season,Lotte Orions,20,"Nishina, Tokinari",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723844
+1981,Regular Season,Yakult Swallows,9,"Sugiura, Toru",LF,122,468,401,0.289,0.379,0.464,0.843,71,61,116,79,20,1,16,186,13,6,52,6,52,4,6,4,5,21723845
+1981,Regular Season,Nankai Hawks,34,"Hirasawa, Takayoshi",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723846
+1981,Regular Season,Kintetsu Buffaloes,20,"Nakane, Masahiro",PH,3,5,4,0.500,0.600,1.250,1.850,2,1,2,1,0,0,1,5,0,0,1,0,1,0,0,0,0,21723847
+1981,Climax Series - Final Stage,Lotte Orions,35,"Shoji, Tomohisa",LF,5,,20,0.450,,0.700,,,2,9,5,3,1,0,14,0,,1,,1,,,,,21723849
+1981,Regular Season,Lotte Orions,35,"Shoji, Tomohisa",LF,127,568,516,0.293,0.340,0.407,0.747,65,63,151,119,15,7,10,210,17,8,34,0,30,9,3,10,5,21723849
+1981,Regular Season,Chunichi Dragons,22,"Sota, Yasuji",P,21,31,27,0.148,0.148,0.185,0.333,3,2,4,3,1,0,0,5,0,0,0,0,14,0,0,4,0,21723863
+1981,Regular Season,Seibu Lions,67,"Hirose, Osamu",3B,21,27,23,0.174,0.240,0.304,0.544,1,1,4,1,3,0,0,7,0,0,2,0,1,0,0,2,0,21923828
+1981,Climax Series - Final Stage,Lotte Orions,23,"Mizukami, Yoshio",SS,5,,13,0.462,,0.769,,,4,6,4,1,0,1,10,0,,2,,2,,,,,21923842
+1981,Regular Season,Lotte Orions,23,"Mizukami, Yoshio",SS,130,453,386,0.259,0.317,0.373,0.690,51,45,100,74,16,2,8,144,9,7,28,1,55,7,5,32,2,21923842
+1981,Regular Season,Kintetsu Buffaloes,40,"Fujise, Shiro",LF,85,60,52,0.135,0.196,0.135,0.331,15,1,7,7,0,0,0,7,15,2,3,0,8,1,1,3,1,21923844
+1981,Regular Season,Hanshin Tigers,14,"Nakamura, Katsuhiro",1B,30,18,15,0.067,0.125,0.067,0.192,0,1,1,1,0,0,0,1,0,0,1,0,4,1,0,1,1,21923845
+1981,Regular Season,Chunichi Dragons,28,"Miyako, Yujiro",P,38,38,35,0.200,0.222,0.229,0.451,1,1,7,6,1,0,0,8,0,0,1,0,4,0,0,2,0,21923848
+1981,Regular Season,Hiroshima Toyo Carp,66,"Nagashima, Kiyoyuki",PH,36,35,32,0.281,0.324,0.281,0.605,1,3,9,9,0,0,0,9,0,0,2,0,6,1,0,0,1,21923861
+1981,Regular Season,Hanshin Tigers,28,"Nakada, Yoshihiro",P,39,16,15,0.000,0.063,0.000,0.063,0,0,0,0,0,0,0,0,0,0,1,0,8,0,0,0,0,21923863
+1981,Regular Season,Hanshin Tigers,6,"Fujita, Taira",1B,107,403,369,0.358,0.409,0.512,0.921,41,70,132,97,24,0,11,189,2,2,32,5,21,6,0,0,2,31033822
+1981,Regular Season,Nankai Hawks,7,"Fujiwara, Mitsuru",3B,127,568,513,0.300,0.354,0.376,0.730,58,33,154,124,24,3,3,193,24,6,37,1,37,17,6,6,6,31033828
+1981,Regular Season,Yakult Swallows,16,"Nishii, Tetsuo",P,47,19,16,0.063,0.118,0.063,0.181,0,0,1,1,0,0,0,1,0,0,1,0,6,0,0,2,0,31033841
+1981,Japan Series,Yomiuri Giants,44,"Yamamoto, Koji",1B,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31033842
+1981,Regular Season,Yomiuri Giants,44,"Yamamoto, Koji",1B,95,197,179,0.240,0.303,0.352,0.655,16,17,43,31,8,0,4,63,0,2,14,5,16,6,2,0,2,31033842
+1981,Regular Season,Nankai Hawks,22,"Moriguchi, Masumitsu",P,44,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31033844
+1981,Regular Season,Yakult Swallows,58,"Ramoto, Shinji",PR,41,16,16,0.188,0.188,0.250,0.438,7,0,3,2,1,0,0,4,9,2,0,0,4,0,0,0,0,31033848
+1981,Japan Series,Yomiuri Giants,10,"White, Roy",CF,6,,20,0.350,,0.500,,,2,7,6,0,0,1,10,2,,7,,3,,,,,31033861
+1981,Regular Season,Yomiuri Giants,10,"White, Roy",CF,127,499,422,0.273,0.377,0.422,0.799,58,55,115,80,20,2,13,178,18,3,61,5,68,4,10,2,4,31033861
+1981,Regular Season,Kintetsu Buffaloes,4,"Hampton, Ike",DH,72,254,226,0.230,0.304,0.469,0.773,35,32,52,28,9,0,15,106,5,3,24,1,66,9,0,1,3,31033863
+1981,Regular Season,Kintetsu Buffaloes,38,"Abe, Narihiro",RF,20,11,11,0.273,0.273,0.273,0.546,2,1,3,3,0,0,0,3,1,0,0,0,1,0,0,0,0,31133820
+1981,Regular Season,Yakult Swallows,50,"Aoki, Minoru",CF,104,306,282,0.266,0.303,0.344,0.647,44,16,75,59,11,4,1,97,34,12,12,0,53,3,3,7,2,31133842
+1981,Regular Season,Chunichi Dragons,7,"Uno, Masaru",SS,128,475,429,0.282,0.328,0.513,0.841,62,70,121,75,18,3,25,220,6,7,26,2,85,8,3,12,5,31133844
+1981,Regular Season,Yomiuri Giants,40,"Akamine, Kenyu",P,4,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31133848
+1981,Regular Season,Chunichi Dragons,37,"Akita, Hideyuki",PH,17,22,20,0.150,0.190,0.150,0.340,0,0,3,3,0,0,0,3,0,0,1,0,8,0,0,1,0,31133861
+1981,Regular Season,Lotte Orions,1,"Aiko, Takeshi",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31133863
+1981,Climax Series - Final Stage,Lotte Orions,10,"Harimoto, Isao",PH,1,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,1,,,,,31233808
+1981,Regular Season,Lotte Orions,10,"Harimoto, Isao",PH,70,175,160,0.219,0.273,0.313,0.586,9,16,35,26,6,0,3,50,2,1,12,2,14,3,0,1,2,31233808
+1981,Regular Season,Nankai Hawks,20,"Yamauchi, Shinichi",P,43,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233828
+1981,Regular Season,Hiroshima Toyo Carp,31,"Fukazawa, Shuichi",PH,1,1,0,0.000,1.000,0.000,1.000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,31233841
+1981,Regular Season,Kintetsu Buffaloes,26,"Yamamura, Tatsuya",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233861
+1981,Regular Season,Yokohama Taiyo Whales,35,"Maedomari, Tetsuaki",P,36,28,25,0.280,0.308,0.280,0.588,0,2,7,7,0,0,0,7,0,0,1,0,9,0,0,2,0,31233863
+1981,Climax Series - Final Stage,Lotte Orions,9,"Ejima, Takumi",PH,4,,5,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31333826
+1981,Regular Season,Lotte Orions,9,"Ejima, Takumi",PH,60,120,114,0.281,0.305,0.412,0.717,13,11,32,22,7,1,2,47,1,0,3,1,14,1,1,0,2,31333826
+1981,Regular Season,Nippon-Ham Fighters,31,"Kawahara, Shoji",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333842
+1981,Regular Season,Hankyu Braves,18,"Inaba, Mitsuo",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333843
+1981,Regular Season,Nankai Hawks,33,"Kubodera, Yuji",LF,109,341,316,0.247,0.294,0.377,0.671,34,47,78,57,10,2,9,119,5,1,20,1,45,15,1,2,2,31333844
+1981,Japan Series,Yomiuri Giants,21,"Kato, Hajime",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31333845
+1981,Regular Season,Yomiuri Giants,21,"Kato, Hajime",P,30,56,49,0.122,0.122,0.143,0.265,4,3,6,5,1,0,0,7,0,0,0,0,21,0,0,6,1,31333845
+1981,Regular Season,Yakult Swallows,32,"Obana, Takao",P,30,38,36,0.083,0.108,0.083,0.191,1,3,3,3,0,0,0,3,0,0,1,0,13,0,0,1,0,31333846
+1981,Regular Season,Yokohama Taiyo Whales,29,"Kato, Hidemi",P,32,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333848
+1981,Regular Season,Hanshin Tigers,16,"Okada, Akinobu",2B,130,524,485,0.289,0.334,0.472,0.806,70,76,140,94,23,3,20,229,1,0,28,3,43,13,5,2,4,31333861
+1981,Regular Season,Yokohama Taiyo Whales,33,"Ichikawa, Kazumasa",PH,6,7,6,0.000,0.143,0.000,0.143,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,31333863
+1981,Regular Season,Seibu Lions,2,"Yamazaki, Hiroyuki",2B,125,553,457,0.271,0.392,0.492,0.884,97,68,124,71,27,4,22,225,5,5,88,0,83,7,3,2,3,31433820
+1981,Regular Season,Seibu Lions,17,"Yamashita, Ritsuo",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31433824
+1981,Regular Season,Hankyu Braves,27,"Matsumoto, Yukitsura",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31433841
+1981,Regular Season,Seibu Lions,58,"Yamanaka, Shigenobu",C,24,19,19,0.211,0.211,0.211,0.422,4,0,4,4,0,0,0,4,1,0,0,0,4,0,0,0,0,31433863
+1981,Regular Season,Seibu Lions,26,"Nemoto, Takashi",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31533840
+1981,Climax Series - Final Stage,Lotte Orions,55,"Shinya, Yoshitaka",RF,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31533842
+1981,Regular Season,Lotte Orions,55,"Shinya, Yoshitaka",RF,53,68,64,0.188,0.224,0.281,0.505,12,3,12,8,3,0,1,18,1,2,1,0,14,1,2,1,0,31533842
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,8,"Shimada, Makoto",CF,11,,18,0.278,,0.389,,,5,5,3,2,0,0,7,3,,5,,3,,,,,31533844
+1981,Japan Series,Nippon-Ham Fighters,8,"Shimada, Makoto",CF,11,,25,0.160,,0.200,,,0,4,3,1,0,0,5,1,,2,,1,,,,,31533844
+1981,Regular Season,Nippon-Ham Fighters,8,"Shimada, Makoto",CF,115,526,462,0.318,0.388,0.400,0.788,73,41,147,121,17,6,3,185,42,12,44,2,41,2,9,5,6,31533844
+1981,Regular Season,Chunichi Dragons,34,"Komatsu, Tatsuo",P,44,45,44,0.205,0.205,0.273,0.478,3,4,9,8,0,0,1,12,0,0,0,0,13,1,0,1,0,31533846
+1981,Regular Season,Seibu Lions,52,"Kimura, Hiroshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31533861
+1981,Regular Season,Kintetsu Buffaloes,46,"Kanemitsu, Yasuaki",CF,18,13,9,0.000,0.308,0.000,0.308,3,0,0,0,0,0,0,0,1,0,4,0,1,0,0,0,0,31533863
+1981,Regular Season,Chunichi Dragons,41,"Yazawa, Kenichi",1B,127,506,462,0.318,0.371,0.561,0.932,57,79,147,94,22,3,28,259,4,2,39,4,63,6,0,0,5,31633841
+1981,Regular Season,Kintetsu Buffaloes,1,"Suzuki, Keishi",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733822
+1981,Regular Season,Kintetsu Buffaloes,53,"Tani, Hiroaki",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733842
+1981,Regular Season,Hiroshima Toyo Carp,21,"Saeki, Kazushi",P,6,5,4,0.000,0.200,0.000,0.200,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,31733843
+1981,Regular Season,Lotte Orions,49,"Tokuyama, Fumimune",DH,3,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733844
+1981,Regular Season,Yakult Swallows,33,"Torihara, Koji",P,4,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733846
+1981,Regular Season,Seibu Lions,29,"Komazaki, Yukiichi",LF,6,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,31733863
+1981,Regular Season,Nankai Hawks,53,"Sasaki, Koichiro",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31933825
+1981,Regular Season,Yakult Swallows,2,"Manuel, Charles",RF,81,280,246,0.260,0.345,0.447,0.792,28,36,64,42,10,0,12,110,1,0,31,4,42,8,1,0,2,31933842
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,5,"Furuya, Hideo",3B,11,,16,0.375,,0.438,,,2,6,5,1,0,0,7,1,,3,,2,,,,,31933846
+1981,Japan Series,Nippon-Ham Fighters,5,"Furuya, Hideo",3B,11,,23,0.217,,0.217,,,0,5,5,0,0,0,5,0,,0,,2,,,,,31933846
+1981,Regular Season,Nippon-Ham Fighters,5,"Furuya, Hideo",3B,130,513,465,0.290,0.339,0.417,0.756,55,73,135,100,22,2,11,194,18,5,27,0,45,17,7,11,3,31933846
+1981,Regular Season,Kintetsu Buffaloes,3,"Hada, Koichi",3B,107,342,304,0.234,0.311,0.428,0.739,39,39,71,47,6,1,17,130,3,2,34,0,47,9,0,1,3,31933847
+1981,Regular Season,Yakult Swallows,48,"Matsuzaki, Yasuji",PR,26,18,17,0.059,0.111,0.059,0.170,5,0,1,1,0,0,0,1,2,1,1,0,4,0,0,0,0,31933848
+1981,Regular Season,Nankai Hawks,11,"Takeguchi, Akinori",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31933861
+1981,Regular Season,Kintetsu Buffaloes,14,"Tanizaki, Koji",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31933863
+1981,Regular Season,Lotte Orions,29,"Murata, Choji",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043826
+1981,Japan Series,Nippon-Ham Fighters,37,"Murakami, Masanori",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41043827
+1981,Regular Season,Nippon-Ham Fighters,37,"Murakami, Masanori",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043827
+1981,Regular Season,Lotte Orions,11,"Mizutani, Norihiro",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043828
+1981,Regular Season,Hiroshima Toyo Carp,28,"Hagiwara, Yasuhiro",PH,70,106,91,0.165,0.269,0.220,0.489,7,8,15,12,2,0,1,20,0,0,13,0,11,4,0,0,2,41043841
+1981,Regular Season,Yokohama Taiyo Whales,1,"Yamashita, Daisuke",SS,130,554,490,0.278,0.348,0.443,0.791,68,52,136,88,31,1,16,217,6,11,51,1,38,10,2,9,2,41043849
+1981,Regular Season,Yomiuri Giants,48,"Moritani, Akira",PH,2,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,41043861
+1981,Regular Season,Chunichi Dragons,57,"Hirano, Ken",CF,110,121,110,0.236,0.263,0.291,0.554,28,4,26,22,2,2,0,32,8,6,2,0,16,0,2,7,0,41043863
+1981,Regular Season,Nankai Hawks,8,"Kono, Takayuki",2B,125,501,453,0.272,0.327,0.329,0.656,47,36,123,107,10,2,4,149,7,9,34,3,35,13,3,10,1,41143840
+1981,Regular Season,Hanshin Tigers,46,"Oshima, Tadakazu",PH,25,27,23,0.261,0.370,0.304,0.674,1,2,6,5,1,0,0,7,0,0,3,0,5,1,1,0,0,41143842
+1981,Regular Season,Hanshin Tigers,33,"Ikeuchi, Yutaka",P,38,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,41143843
+1981,Regular Season,Hanshin Tigers,13,"Kasama, Yuji",C,36,75,63,0.222,0.310,0.413,0.723,5,9,14,8,3,0,3,26,0,0,7,0,12,2,1,2,2,41143844
+1981,Regular Season,Nankai Hawks,50,"Ito, Yasunori",1B,11,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,41143847
+1981,Regular Season,Seibu Lions,41,"Oishi, Tomoyoshi",C,80,246,219,0.228,0.281,0.315,0.596,19,25,50,41,4,0,5,69,6,3,14,0,33,5,2,9,2,41143861
+1981,Regular Season,Seibu Lions,7,"Ishige, Hiromichi",SS,121,492,409,0.311,0.383,0.531,0.914,82,55,127,82,21,3,21,217,25,9,44,2,96,5,4,31,4,41143863
+1981,Regular Season,Seibu Lions,51,"Furusawa, Kenji",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243829
+1981,Japan Series,Nippon-Ham Fighters,19,"Mashiba, Shigekuni",P,2,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,,,,41243841
+1981,Regular Season,Nippon-Ham Fighters,19,"Mashiba, Shigekuni",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243841
+1981,Regular Season,Chunichi Dragons,48,"Yanagisawa, Takao",2B,37,6,5,0.000,0.000,0.000,0.000,2,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,41243863
+1981,Regular Season,Yakult Swallows,8,"Osugi, Katsuo",1B,120,453,414,0.343,0.394,0.548,0.942,59,78,142,99,21,2,20,227,1,3,33,8,43,12,2,0,4,41343820
+1981,Japan Series,Nippon-Ham Fighters,26,"Enatsu, Yutaka",P,3,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,41343824
+1981,Regular Season,Nippon-Ham Fighters,26,"Enatsu, Yutaka",P,45,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343824
+1981,Regular Season,Chunichi Dragons,16,"Tsuchiya, Masakatsu",P,23,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343840
+1981,Regular Season,Yakult Swallows,27,"Oya, Akihiko",C,82,234,213,0.221,0.256,0.315,0.571,21,23,47,34,8,3,2,67,2,1,10,1,18,10,0,9,2,41343841
+1981,Regular Season,Yokohama Taiyo Whales,25,"Koga, Masaaki",P,30,36,33,0.121,0.171,0.121,0.292,2,0,4,4,0,0,0,4,0,0,2,0,12,2,0,1,0,41343842
+1981,Regular Season,Yakult Swallows,18,"Sakai, Keiichi",P,14,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41343844
+1981,Regular Season,Nankai Hawks,21,"Kaneshiro, Motoyasu",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343845
+1981,Regular Season,Hanshin Tigers,26,"Kudo, Kazuhiko",P,36,54,51,0.157,0.189,0.157,0.346,3,2,8,8,0,0,0,8,0,0,2,0,16,2,0,1,0,41343846
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,6,"Kashiwabara, Junichi",1B,11,,20,0.300,,0.450,,,5,6,5,0,0,1,9,1,,1,,2,,,,,41343847
+1981,Japan Series,Nippon-Ham Fighters,6,"Kashiwabara, Junichi",1B,6,,19,0.421,,0.842,,,2,8,4,2,0,2,16,0,,7,,1,,,,,41343847
+1981,Regular Season,Nippon-Ham Fighters,6,"Kashiwabara, Junichi",1B,130,563,468,0.310,0.419,0.472,0.891,92,81,145,104,22,3,16,221,15,3,84,3,39,11,4,1,6,41343847
+1981,Regular Season,Nankai Hawks,58,"Kanei, Yuji",2B,5,11,10,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,41343861
+1981,Regular Season,Seibu Lions,28,"Okamura, Takanori",CF,55,97,86,0.174,0.245,0.291,0.536,13,6,15,10,2,1,2,25,4,3,7,0,12,0,1,3,0,41343863
+1981,Regular Season,Kintetsu Buffaloes,42,"Ryan, Craig",RF,30,76,71,0.239,0.289,0.465,0.754,8,14,17,10,2,1,4,33,0,0,5,0,10,2,0,0,0,41443863
+1981,Regular Season,Hankyu Braves,4,"Marcano, Bobby",2B,126,489,447,0.266,0.318,0.405,0.723,51,67,119,85,19,2,13,181,12,8,31,2,30,14,3,5,3,41543840
+1981,Regular Season,Seibu Lions,34,"Tachibana, Yoshiie",RF,124,484,431,0.271,0.328,0.355,0.683,42,51,117,96,12,3,6,153,5,7,31,2,62,6,5,10,7,41543846
+1981,Regular Season,Chunichi Dragons,29,"Suzuki, Takamasa",P,48,12,8,0.250,0.250,0.250,0.500,2,1,2,2,0,0,0,2,0,0,0,0,1,1,0,4,0,41543847
+1981,Regular Season,Kintetsu Buffaloes,2,"Kurihashi, Shigeru",LF,92,325,278,0.263,0.365,0.442,0.807,38,41,73,46,15,1,11,123,6,7,38,1,32,8,7,0,2,41543849
+1981,Regular Season,Chunichi Dragons,4,"Cosey, Ray",LF,120,372,342,0.251,0.291,0.421,0.712,40,41,86,60,9,2,15,144,2,4,18,2,51,7,1,7,4,41543863
+1981,Regular Season,Hiroshima Toyo Carp,36,"Watanabe, Hidetake",P,43,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41643829
+1981,Regular Season,Nippon-Ham Fighters,9,"Sendo, Mikio",PH,9,9,8,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,41743845
+1981,Japan Series,Yomiuri Giants,19,"Hirata, Kaoru",PH,5,,12,0.667,,1.417,,,4,8,3,3,0,2,17,0,,0,,0,,,,,41743846
+1981,Regular Season,Yomiuri Giants,19,"Hirata, Kaoru",PH,29,41,38,0.237,0.256,0.474,0.730,5,5,9,6,0,0,3,18,0,0,1,1,8,1,0,2,0,41743846
+1981,Regular Season,Kintetsu Buffaloes,30,"Nagao, Yasunori",2B,67,128,121,0.215,0.240,0.314,0.554,8,12,26,20,3,0,3,38,3,2,4,0,8,1,0,3,0,41743847
+1981,Regular Season,Hanshin Tigers,12,"Fukuma, Osamu",P,35,3,3,0.333,0.333,0.333,0.666,1,2,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,41743848
+1981,Regular Season,Nippon-Ham Fighters,35,"Tamura, Fujio",C,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743863
+1981,Japan Series,Yomiuri Giants,25,"Matsubara, Makoto",1B,2,,2,0.500,,2.000,,,1,1,0,0,0,1,4,0,,0,,1,,,,,41843825
+1981,Regular Season,Yomiuri Giants,25,"Matsubara, Makoto",1B,36,67,60,0.233,0.303,0.283,0.586,3,8,14,13,0,0,1,17,0,0,4,0,3,5,2,0,1,41843825
+1981,Japan Series,Nippon-Ham Fighters,13,"Narita, Fumio",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41943820
+1981,Regular Season,Nippon-Ham Fighters,13,"Narita, Fumio",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943820
+1981,Regular Season,Seibu Lions,9,"Hasegawa, Kazuo",PH,45,71,63,0.286,0.357,0.317,0.674,2,4,18,16,2,0,0,20,0,1,4,0,5,3,3,1,0,41943827
+1981,Regular Season,Hankyu Braves,1,"Minoda, Koji",RF,116,494,432,0.285,0.341,0.400,0.741,66,40,123,93,20,0,10,173,26,6,33,1,41,8,4,22,3,41943842
+1981,Regular Season,Hankyu Braves,13,"Tanimura, Tomohiro",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943843
+1981,Regular Season,Hanshin Tigers,21,"Masuyama, Seikyoku",P,19,16,16,0.125,0.125,0.125,0.250,2,0,2,2,0,0,0,2,0,0,0,0,2,2,0,0,0,41943844
+1981,Regular Season,Seibu Lions,31,"Nagai, Tamotsu",P,61,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943845
+1981,Regular Season,Nankai Hawks,17,"May, Carlos",LF,51,187,162,0.259,0.358,0.377,0.735,21,22,42,33,4,0,5,61,3,1,23,0,25,4,2,0,0,41943846
+1981,Regular Season,Seibu Lions,11,"Mori, Shigekazu",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943848
+1981,Regular Season,Chunichi Dragons,40,"Fujinami, Yukio",PH,41,65,62,0.210,0.246,0.306,0.552,5,6,13,9,3,0,1,19,1,2,3,0,2,2,0,0,0,41943849
+1981,Regular Season,Hiroshima Toyo Carp,32,"Nagata, Toshinori",PR,7,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,41943863
+1981,Regular Season,Hankyu Braves,40,"Hirabayashi, Jiro",PR,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053824
+1981,Regular Season,Chunichi Dragons,20,"Hoshino, Senichi",P,24,54,49,0.143,0.143,0.265,0.408,1,2,7,3,3,0,1,13,1,0,0,0,12,1,0,5,0,51053828
+1981,Regular Season,Chunichi Dragons,18,"Toda, Yoshinori",P,7,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,51053829
+1981,Regular Season,Seibu Lions,8,"Yukizawa, Hisataka",3B,97,251,226,0.257,0.294,0.394,0.688,32,22,58,38,13,3,4,89,3,4,4,0,26,7,8,11,2,51053842
+1981,Regular Season,Hiroshima Toyo Carp,17,"Yamane, Kazuo",P,30,73,67,0.164,0.188,0.194,0.382,4,1,11,9,2,0,0,13,0,0,2,0,24,2,0,4,0,51053844
+1981,Regular Season,Hiroshima Toyo Carp,27,"Hara, Shinji",PH,12,13,12,0.083,0.154,0.083,0.237,1,0,1,1,0,0,0,1,0,0,0,0,4,0,1,0,0,51053863
+1981,Regular Season,Hiroshima Toyo Carp,15,"Aniya, Sohachi",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51153829
+1981,Regular Season,Nankai Hawks,6,"Arai, Hiromasa",CF,117,455,406,0.300,0.359,0.414,0.773,51,33,122,92,18,8,4,168,12,5,34,0,22,4,3,7,5,51153840
+1981,Climax Series - Final Stage,Lotte Orions,32,"Arai, Masanori",PH,3,,3,0.333,,0.333,,,0,1,1,0,0,0,1,0,,0,,1,,,,,51153841
+1981,Regular Season,Lotte Orions,32,"Arai, Masanori",PH,45,32,30,0.167,0.219,0.167,0.386,3,0,5,5,0,0,0,5,0,0,2,0,5,1,0,0,0,51153841
+1981,Regular Season,Chunichi Dragons,39,"Aoyama, Hisato",P,20,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,51153842
+1981,Japan Series,Nippon-Ham Fighters,14,"Uda, Toshoku",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51153845
+1981,Regular Season,Nippon-Ham Fighters,14,"Uda, Toshoku",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51153845
+1981,Regular Season,Yakult Swallows,29,"Ashizawa, Masaru",PH,81,162,153,0.235,0.259,0.359,0.618,14,21,36,24,8,1,3,55,0,1,4,0,37,3,1,4,0,51153846
+1981,Regular Season,Nankai Hawks,43,"Iwaki, Satoshi",C,14,6,3,0.000,0.400,0.000,0.400,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,51153848
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,51,"Igarashi, Shinichi",2B,4,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51153861
+1981,Japan Series,Nippon-Ham Fighters,51,"Igarashi, Shinichi",2B,4,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51153861
+1981,Regular Season,Nippon-Ham Fighters,51,"Igarashi, Shinichi",2B,79,186,170,0.241,0.263,0.306,0.569,18,15,41,31,9,1,0,52,0,1,5,0,15,3,0,9,1,51153861
+1981,Regular Season,Seibu Lions,71,"Akiyama, Koji",3B,3,6,5,0.200,0.333,0.600,0.933,1,0,1,0,0,1,0,3,0,0,1,0,2,0,0,0,0,51153863
+1981,Regular Season,Hiroshima Toyo Carp,9,"Mimura, Toshiyuki",2B,96,275,247,0.227,0.282,0.356,0.638,19,26,56,38,11,0,7,88,1,0,17,1,37,8,2,7,2,51253824
+1981,Regular Season,Hankyu Braves,17,"Yamada, Hisashi",P,34,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253828
+1981,Regular Season,Hiroshima Toyo Carp,18,"Fukushi, Hiroaki",P,35,72,60,0.250,0.262,0.333,0.595,1,9,15,13,0,1,1,20,0,0,1,0,22,0,0,10,1,51253841
+1981,Regular Season,Hanshin Tigers,39,"Wakana, Yoshiharu",C,115,403,360,0.281,0.331,0.353,0.684,24,32,101,83,13,2,3,127,4,2,27,20,23,12,0,15,1,51253849
+1981,Regular Season,Kintetsu Buffaloes,47,"Yamamoto, Kazunori",PH,23,28,21,0.190,0.393,0.238,0.631,4,3,4,3,1,0,0,5,0,0,4,0,3,2,3,0,0,51253861
+1981,Regular Season,Hankyu Braves,48,"Matsunaga, Hiromi",3B,73,105,92,0.326,0.404,0.424,0.828,15,15,30,26,1,1,2,39,4,3,8,0,10,4,4,1,0,51253863
+1981,Regular Season,Kintetsu Buffaloes,7,"Ogawa, Toru",1B,116,411,359,0.295,0.372,0.437,0.809,50,35,106,75,20,2,9,157,5,1,41,2,12,2,3,4,3,51353826
+1981,Regular Season,Hankyu Braves,47,"Osumi, Masato",1B,3,2,2,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51353828
+1981,Regular Season,Chunichi Dragons,47,"Kanto, Takao",PH,32,22,18,0.056,0.150,0.056,0.206,1,1,1,1,0,0,0,1,0,0,2,1,3,0,0,2,0,51353842
+1981,Regular Season,Hankyu Braves,21,"Imai, Yutaro",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353843
+1981,Regular Season,Yakult Swallows,51,"Kugitani, Hajime",RF,57,72,64,0.313,0.380,0.438,0.818,14,8,20,16,2,0,2,28,4,2,3,0,15,1,4,0,1,51353844
+1981,Regular Season,Hanshin Tigers,8,"Kato, Hirokazu",LF,57,196,180,0.222,0.275,0.306,0.581,22,4,40,30,6,3,1,55,14,3,12,0,30,6,1,3,0,51353845
+1981,Regular Season,Hiroshima Toyo Carp,33,"Osanai, Takashi",PH,7,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,51353861
+1981,Regular Season,Hanshin Tigers,45,"Endo, Nobuhisa",P,8,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353863
+1981,Regular Season,Seibu Lions,3,"Doi, Masahiro",1B,61,145,130,0.200,0.283,0.246,0.529,9,8,26,22,3,0,1,32,1,1,12,0,9,8,3,0,0,51453825
+1981,Regular Season,Hiroshima Toyo Carp,26,"Yamamoto, Kazuo",P,30,4,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,51453863
+1981,Regular Season,Yakult Swallows,5,"Sumi, Fujio",3B,120,486,431,0.281,0.343,0.455,0.798,52,46,121,84,17,2,18,196,2,4,38,2,62,5,3,13,1,51553842
+1981,Regular Season,Hankyu Braves,38,"Kataoka, Shinnosuke",C,49,102,96,0.302,0.330,0.375,0.705,7,8,29,22,7,0,0,36,0,1,4,0,11,4,0,2,0,51553843
+1981,Regular Season,Seibu Lions,12,"Shibata, Yasumitsu",P,39,0,0,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553848
+1981,Regular Season,Chunichi Dragons,56,"Kanai, Masayoshi",P,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553849
+1981,Regular Season,Hiroshima Toyo Carp,46,"Kiyama, Eikyu",3B,9,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553861
+1981,Regular Season,Hiroshima Toyo Carp,34,"Kawaguchi, Kazuhisa",P,7,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553863
+1981,Regular Season,Hankyu Braves,14,"Yamaguchi, Takashi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51753840
+1981,Regular Season,Hiroshima Toyo Carp,54,"Nakao, Akio",3B,95,47,43,0.256,0.304,0.395,0.699,19,7,11,9,0,0,2,17,2,3,3,0,10,1,0,0,1,51753844
+1981,Regular Season,Nankai Hawks,10,"Nakade, Kenji",C,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51753846
+1981,Japan Series,Yomiuri Giants,36,"Nakai, Yasuyuki",RF,6,,9,0.222,,0.222,,,0,2,2,0,0,0,2,0,,0,,1,,,,,51753848
+1981,Regular Season,Yomiuri Giants,36,"Nakai, Yasuyuki",RF,84,31,29,0.276,0.300,0.414,0.714,4,4,8,6,1,0,1,12,3,2,1,0,6,1,0,0,1,51753848
+1981,Regular Season,Seibu Lions,10,"Ontiveros, Steve",1B,116,436,380,0.271,0.359,0.374,0.733,44,47,103,79,16,1,7,142,0,2,36,2,44,16,16,0,4,51753861
+1981,Regular Season,Yakult Swallows,10,"Sasaki, Masayuki",PH,13,10,10,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51753863
+1981,Regular Season,Kintetsu Buffaloes,19,"Tachibana, Kenji",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953845
+1981,Regular Season,Hankyu Braves,33,"Matsumoto, Shoji",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953846
+1981,Regular Season,Seibu Lions,15,"Matsunuma, Hirohisa",P,24,0,0,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953848
+1981,Regular Season,Seibu Lions,45,"Whitfield, Terry",CF,123,512,469,0.316,0.367,0.518,0.885,69,100,148,100,23,3,22,243,5,6,38,6,40,12,0,0,5,51953863
+1981,Regular Season,Hiroshima Toyo Carp,4,"Mizutani, Jitsuo",1B,126,488,427,0.337,0.412,0.550,0.962,55,82,144,99,22,0,23,235,1,0,51,4,55,12,3,1,6,61063822
+1981,Regular Season,Nankai Hawks,28,"Yamamoto, Masao",1B,101,338,312,0.288,0.341,0.468,0.809,33,44,90,62,13,2,13,146,6,0,23,1,56,13,2,0,1,61063849
+1981,Regular Season,Hankyu Braves,2,"Yagi, Shigeru",3B,36,30,29,0.207,0.207,0.241,0.448,4,1,6,5,1,0,0,7,0,1,0,0,8,0,0,1,0,61063861
+1981,Regular Season,Seibu Lions,30,"Hirohashi, Koju",3B,91,180,162,0.272,0.310,0.383,0.693,23,12,44,32,8,2,2,62,8,3,8,0,23,4,1,9,0,61063863
+1981,Climax Series - Final Stage,Lotte Orions,4,"Inoe, Yoichi",2B,5,,9,0.111,,0.111,,,0,1,1,0,0,0,1,0,,1,,2,,,,,61163824
+1981,Regular Season,Lotte Orions,4,"Inoe, Yoichi",2B,122,297,249,0.245,0.329,0.349,0.678,37,33,61,47,8,0,6,87,5,3,29,0,29,7,2,13,4,61163824
+1981,Regular Season,Hanshin Tigers,37,"Sakakibara, Yoshiyuki",SS,41,78,65,0.200,0.288,0.215,0.503,9,0,13,12,1,0,0,14,0,1,8,1,11,2,0,5,0,61163840
+1981,Regular Season,Yakult Swallows,19,"Kajima, Kenichi",P,40,42,36,0.111,0.179,0.111,0.290,2,4,4,4,0,0,0,4,0,1,3,0,16,0,0,2,1,61163844
+1981,Regular Season,Hanshin Tigers,1,"Uematsu, Seiichi",PH,50,88,79,0.177,0.226,0.228,0.454,4,5,14,11,2,1,0,18,1,1,5,0,24,1,0,4,0,61163846
+1981,Regular Season,Nankai Hawks,27,"Okamoto, Keisuke",PH,53,87,80,0.225,0.279,0.388,0.667,8,15,18,10,5,1,2,31,0,0,5,0,13,3,1,0,1,61163848
+1981,Regular Season,Kintetsu Buffaloes,33,"Ishiyama, Kazuhide",LF,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61163849
+1981,Regular Season,Yokohama Taiyo Whales,45,"Okubo, Hiroshi",PH,65,134,114,0.263,0.333,0.316,0.649,9,7,30,24,6,0,0,36,0,3,5,0,16,2,7,7,1,61163861
+1981,Regular Season,Yokohama Taiyo Whales,51,"Ishibashi, Mitsugu",PR,10,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,61163863
+1981,Regular Season,Nankai Hawks,18,"Yamauchi, Kazuhiro",P,48,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61263863
+1981,Regular Season,Hankyu Braves,10,"Kato, Hideji",1B,127,534,468,0.314,0.390,0.485,0.875,63,79,147,103,25,2,17,227,4,3,54,3,67,5,4,0,8,61363828
+1981,Regular Season,Hankyu Braves,12,"Okuma, Tadayoshi",LF,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363829
+1981,Regular Season,Kintetsu Buffaloes,18,"Ota, Koji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363841
+1981,Japan Series,Yomiuri Giants,20,"Sadaoka, Shoji",P,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,61363844
+1981,Regular Season,Yomiuri Giants,20,"Sadaoka, Shoji",P,31,72,65,0.154,0.191,0.169,0.360,6,5,10,9,1,0,0,11,0,0,3,0,15,1,0,4,0,61363844
+1981,Regular Season,Yakult Swallows,34,"Kurosaka, Yukio",P,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363846
+1981,Japan Series,Nippon-Ham Fighters,15,"Kudo, Mikio",P,5,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,61363848
+1981,Regular Season,Nippon-Ham Fighters,15,"Kudo, Mikio",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363848
+1981,Regular Season,Hiroshima Toyo Carp,5,"Gardner, Art",LF,129,514,480,0.281,0.325,0.498,0.823,61,77,135,85,22,2,26,239,10,14,26,12,78,13,5,0,3,61363863
+1981,Regular Season,Yokohama Taiyo Whales,23,"Lacock, Pete",1B,90,344,300,0.273,0.361,0.427,0.788,36,36,82,56,16,0,10,128,0,1,41,0,41,9,0,1,2,61463863
+1981,Regular Season,Hankyu Braves,8,"Shimatani, Kinji",3B,114,429,383,0.282,0.347,0.504,0.851,57,64,108,70,14,1,23,193,3,2,37,3,49,11,1,6,2,61563828
+1981,Regular Season,Nankai Hawks,55,"Matsura, Tadashi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563840
+1981,Regular Season,Yakult Swallows,11,"Kanbe, Toshio",P,32,16,15,0.133,0.133,0.133,0.266,0,3,2,2,0,0,0,2,0,0,0,0,8,0,0,1,0,61563841
+1981,Regular Season,Nankai Hawks,54,"Takagi, Koji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563842
+1981,Regular Season,Nankai Hawks,41,"Tateishi, Mitsuo",2B,62,65,59,0.220,0.270,0.339,0.609,12,8,13,9,2,1,1,20,1,1,3,0,3,4,1,1,1,61563846
+1981,Regular Season,Chunichi Dragons,8,"Tanokura, Toshio",2B,113,365,313,0.278,0.360,0.476,0.836,38,39,87,56,14,3,14,149,4,2,36,3,77,6,4,10,2,61563847
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,2,"Takashiro, Nobuhiro",SS,10,,17,0.235,,0.529,,,2,4,1,2,0,1,9,0,,1,,1,,,,,61563848
+1981,Japan Series,Nippon-Ham Fighters,2,"Takashiro, Nobuhiro",SS,10,,22,0.227,,0.273,,,1,5,4,1,0,0,6,0,,0,,5,,,,,61563848
+1981,Regular Season,Nippon-Ham Fighters,2,"Takashiro, Nobuhiro",SS,86,352,325,0.268,0.308,0.382,0.690,50,40,87,65,14,1,7,124,2,3,17,0,23,7,2,6,2,61563848
+1981,Regular Season,Nankai Hawks,30,"Ko, Eiketsu",LF,30,64,61,0.180,0.219,0.279,0.498,3,5,11,8,1,1,1,17,1,0,3,0,16,0,0,0,0,61563861
+1981,Regular Season,Hanshin Tigers,40,"Gonzales, Dan",PH,9,23,23,0.174,0.174,0.304,0.478,3,3,4,3,0,0,1,7,0,0,0,0,5,0,0,0,0,61563863
+1981,Japan Series,Nippon-Ham Fighters,21,"Takahashi, Satoshi",P,3,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,61763826
+1981,Regular Season,Nippon-Ham Fighters,21,"Takahashi, Satoshi",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61763826
+1981,Regular Season,Yokohama Taiyo Whales,7,"Nagasaki, Keiji",LF,118,383,343,0.292,0.347,0.443,0.790,42,35,100,73,12,5,10,152,10,12,29,1,41,3,0,9,2,61763847
+1981,Regular Season,Chunichi Dragons,19,"Fujisawa, Kimiya",P,18,14,11,0.273,0.273,0.273,0.546,1,1,3,3,0,0,0,3,0,0,0,0,5,0,0,3,0,61763848
+1981,Japan Series,Nippon-Ham Fighters,17,"Sugiyama, Tomotaka",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,61763849
+1981,Regular Season,Nippon-Ham Fighters,17,"Sugiyama, Tomotaka",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61763849
+1981,Regular Season,Yokohama Taiyo Whales,43,"Takaura, Misao",C,29,31,28,0.143,0.143,0.179,0.322,4,1,4,3,1,0,0,5,0,0,0,0,8,2,0,3,0,61763861
+1981,Regular Season,Yokohama Taiyo Whales,16,"Takagi, Yutaka",3B,88,156,141,0.220,0.281,0.262,0.543,18,7,31,25,6,0,0,37,6,3,12,1,29,2,0,2,1,61763863
+1981,Regular Season,Hankyu Braves,56,"Miyata, Norikazu",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963842
+1981,Japan Series,Yomiuri Giants,2,"Matsumoto, Tadashi",CF,4,,14,0.143,,0.214,,,2,2,1,1,0,0,3,3,,3,,1,,,,,61963844
+1981,Regular Season,Yomiuri Giants,2,"Matsumoto, Tadashi",CF,115,284,261,0.303,0.341,0.379,0.720,33,21,79,66,9,1,3,99,33,13,14,0,44,1,1,7,1,61963844
+1981,Regular Season,Hankyu Braves,19,"Nagamoto, Hiroaki",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963845
+1981,Regular Season,Yokohama Taiyo Whales,31,"Yashiki, Kaname",CF,105,229,208,0.255,0.308,0.308,0.616,22,12,53,45,6,1,1,64,16,8,14,0,50,0,2,3,2,61963846
+1981,Regular Season,Hankyu Braves,32,"Hosokawa, Yasuo",LF,3,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963847
+1981,Regular Season,Kintetsu Buffaloes,29,"Yamaguchi, Tetsuji",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963848
+1981,Regular Season,Yokohama Taiyo Whales,32,"Fujioka, Sadaaki",P,20,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963861
+1981,Regular Season,Seibu Lions,44,"Nishimoto, Kazuhito",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963863
+1981,Regular Season,Yokohama Taiyo Whales,27,"Hiramatsu, Masaji",P,17,43,38,0.132,0.175,0.211,0.386,0,3,5,2,3,0,0,8,0,0,2,0,18,0,0,3,0,71073824
+1981,Regular Season,Chunichi Dragons,6,"Masaoka, Shinji",3B,103,60,57,0.211,0.224,0.263,0.487,8,1,12,11,0,0,1,15,2,1,1,0,9,0,0,2,0,71073826
+1981,Regular Season,Seibu Lions,32,"Yoshimoto, Hiroshi",C,74,146,135,0.230,0.278,0.385,0.663,14,11,31,21,4,1,5,52,1,1,8,0,23,2,1,1,1,71073846
+1981,Regular Season,Lotte Orions,18,"Mitsui, Masaharu",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71073849
+1981,Regular Season,Seibu Lions,43,"Horai, Akihiko",CF,74,147,130,0.246,0.315,0.362,0.677,24,7,32,21,8,2,1,47,1,3,11,0,10,1,2,4,0,71073861
+1981,Japan Series,Yomiuri Giants,8,"Hara, Tatsunori",3B,6,,24,0.250,,0.542,,,6,6,3,1,0,2,13,0,,1,,3,,,,,71073863
+1981,Regular Season,Yomiuri Giants,8,"Hara, Tatsunori",3B,125,507,470,0.268,0.312,0.483,0.795,64,67,126,75,23,6,22,227,6,6,27,0,78,9,3,0,7,71073863
+1981,Regular Season,Yomiuri Giants,17,"Asano, Keishi",P,26,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,71173824
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,10,"Inoe, Hiroaki",LF,11,,15,0.333,,0.333,,,1,5,5,0,0,0,5,1,,4,,2,,,,,71173826
+1981,Japan Series,Nippon-Ham Fighters,10,"Inoe, Hiroaki",LF,6,,16,0.375,,0.625,,,3,6,4,1,0,1,10,0,,3,,2,,,,,71173826
+1981,Regular Season,Nippon-Ham Fighters,10,"Inoe, Hiroaki",LF,85,243,201,0.259,0.379,0.378,0.757,17,30,52,36,12,0,4,76,2,0,30,0,21,5,9,0,3,71173826
+1981,Regular Season,Nankai Hawks,36,"Ikenoe, Toru",1B,50,23,23,0.217,0.217,0.391,0.608,8,0,5,3,0,2,0,9,1,0,0,0,2,2,0,0,0,71173842
+1981,Regular Season,Yokohama Taiyo Whales,44,"Uno, Teruyuki",C,3,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,71173845
+1981,Regular Season,Hanshin Tigers,20,"Ito, Fumitaka",P,35,49,44,0.045,0.045,0.045,0.090,1,0,2,2,0,0,0,2,0,0,0,0,26,1,0,5,0,71173846
+1981,Regular Season,Kintetsu Buffaloes,24,"Arita, Shuzo",C,95,280,237,0.245,0.349,0.380,0.729,25,31,58,41,9,1,7,90,0,4,36,0,49,11,2,3,2,71173847
+1981,Climax Series - Final Stage,Lotte Orions,37,"Umezawa, Yoshikatsu",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71173848
+1981,Regular Season,Lotte Orions,37,"Umezawa, Yoshikatsu",P,50,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71173848
+1981,Regular Season,Yakult Swallows,37,"Iwashita, Masaaki",PH,67,91,81,0.222,0.300,0.272,0.572,6,8,18,16,1,0,1,22,2,0,3,0,10,2,6,1,0,71173861
+1981,Regular Season,Yokohama Taiyo Whales,68,"Arai, Katsutaro",P,14,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,71173863
+1981,Regular Season,Hiroshima Toyo Carp,8,"Yamamoto, Koji",CF,130,553,473,0.330,0.423,0.647,1.070,102,103,156,92,21,0,43,306,5,3,73,7,56,12,3,0,4,71273828
+1981,Regular Season,Chunichi Dragons,11,"Misawa, Jun",P,37,49,45,0.111,0.111,0.156,0.267,1,2,5,3,2,0,0,7,0,0,0,0,18,0,0,4,0,71273845
+1981,Regular Season,Hankyu Braves,36,"Yamamori, Masafumi",LF,101,62,53,0.208,0.288,0.283,0.571,15,4,11,9,0,2,0,15,2,0,6,0,9,0,0,3,0,71273861
+1981,Regular Season,Lotte Orions,27,"Miyake, Sogen",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71273863
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,49,"Iwasaki, Tadayoshi",RF,3,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71373824
+1981,Regular Season,Nippon-Ham Fighters,49,"Iwasaki, Tadayoshi",RF,20,25,23,0.217,0.250,0.348,0.598,3,2,5,3,1,1,0,8,0,0,1,0,6,2,0,0,1,71373824
+1981,Regular Season,Seibu Lions,25,"Ota, Takuji",LF,100,366,332,0.277,0.335,0.539,0.874,53,64,92,53,15,0,24,179,3,1,26,1,25,12,3,0,5,71373828
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,1,"Sugano, Mitsuo",2B,11,,16,0.188,,0.250,,,0,3,2,1,0,0,4,0,,0,,2,,,,,71373840
+1981,Japan Series,Nippon-Ham Fighters,1,"Sugano, Mitsuo",2B,11,,12,0.417,,0.417,,,2,5,5,0,0,0,5,0,,2,,1,,,,,71373840
+1981,Regular Season,Nippon-Ham Fighters,1,"Sugano, Mitsuo",2B,116,332,276,0.192,0.259,0.254,0.513,22,14,53,41,9,1,2,70,7,3,21,0,23,0,4,31,0,71373840
+1981,Japan Series,Nippon-Ham Fighters,34,"Okabe, Noriaki",P,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71373846
+1981,Regular Season,Nippon-Ham Fighters,34,"Okabe, Noriaki",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373846
+1981,Regular Season,Nankai Hawks,9,"Oda, Yoshihito",PH,29,44,39,0.154,0.233,0.256,0.489,4,5,6,4,1,0,1,10,0,0,3,0,4,0,1,1,0,71373847
+1981,Regular Season,Yomiuri Giants,29,"Katori, Yoshitaka",P,22,4,4,0.500,0.500,0.500,1.000,0,0,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,71373848
+1981,Regular Season,Nankai Hawks,2,"Kagawa, Nobuyuki",C,59,156,142,0.246,0.305,0.394,0.699,9,17,35,26,3,0,6,56,1,1,10,0,18,6,2,2,0,71373861
+1981,Regular Season,Hanshin Tigers,44,"Ault, Doug",RF,102,348,326,0.307,0.343,0.509,0.852,39,59,100,70,12,0,18,166,2,1,14,3,60,12,4,2,2,71373863
+1981,Japan Series,Yomiuri Giants,9,"Yoshida, Takashi",C,3,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,71473820
+1981,Regular Season,Yomiuri Giants,9,"Yoshida, Takashi",C,40,35,31,0.161,0.235,0.258,0.493,1,6,5,4,0,0,1,8,0,0,3,0,5,1,0,0,1,71473820
+1981,Regular Season,Yakult Swallows,7,"Watanabe, Susumu",2B,125,445,404,0.267,0.324,0.448,0.772,48,57,108,69,21,2,16,181,5,4,31,4,68,11,3,4,3,71473845
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,25,"Yamamoto, Katsura",LF,5,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71473863
+1981,Japan Series,Nippon-Ham Fighters,25,"Yamamoto, Katsura",LF,2,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,,,,71473863
+1981,Regular Season,Nippon-Ham Fighters,25,"Yamamoto, Katsura",LF,32,54,49,0.224,0.296,0.306,0.602,3,6,11,8,2,1,0,15,1,0,5,0,10,2,0,0,0,71473863
+1981,Regular Season,Hiroshima Toyo Carp,3,"Kinugasa, Sachio",3B,130,553,495,0.271,0.335,0.507,0.842,82,72,134,79,23,2,30,251,7,7,40,3,83,16,8,8,2,71573820
+1981,Regular Season,Nankai Hawks,44,"Kadota, Hiromitsu",DH,127,537,438,0.313,0.434,0.655,1.089,83,105,137,75,18,0,44,287,4,1,92,8,70,10,2,1,4,71573841
+1981,Regular Season,Chunichi Dragons,2,"Tao, Yasushi",CF,124,513,462,0.303,0.362,0.463,0.825,72,53,140,102,17,6,15,214,7,11,41,7,62,11,2,5,3,71573842
+1981,Regular Season,Yakult Swallows,41,"Sugimura, Shigeru",SS,40,87,81,0.235,0.271,0.296,0.567,4,7,19,14,5,0,0,24,0,1,3,2,12,1,1,1,1,71573844
+1981,Regular Season,Yakult Swallows,39,"Shibui, Keiichi",SS,79,153,143,0.196,0.238,0.259,0.497,11,11,28,23,3,0,2,37,3,5,6,0,29,6,2,2,0,71573846
+1981,Regular Season,Hanshin Tigers,19,"Kobayashi, Shigeru",P,32,91,81,0.136,0.176,0.136,0.312,3,3,11,11,0,0,0,11,1,0,4,0,21,1,0,6,0,71573847
+1981,Regular Season,Yakult Swallows,4,"Scott, John",CF,44,134,127,0.213,0.254,0.346,0.600,18,9,27,18,5,0,4,44,3,2,4,1,18,3,3,0,0,71573848
+1981,Regular Season,Hanshin Tigers,5,"Kitamura, Terufumi",RF,100,182,167,0.240,0.278,0.317,0.595,19,16,40,30,8,1,1,53,8,5,7,0,28,4,2,5,1,71573861
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,32,"Kimura, Takashi",LF,7,,2,0.000,,0.000,,,1,0,0,0,0,0,0,1,,0,,0,,,,,71573863
+1981,Japan Series,Nippon-Ham Fighters,32,"Kimura, Takashi",LF,3,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71573863
+1981,Regular Season,Nippon-Ham Fighters,32,"Kimura, Takashi",LF,100,34,29,0.207,0.281,0.276,0.557,16,0,6,4,2,0,0,8,7,1,0,0,8,0,3,2,0,71573863
+1981,Regular Season,Kintetsu Buffaloes,21,"Yanagida, Yutaka",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71673841
+1981,Regular Season,Seibu Lions,22,"Tabuchi, Koichi",DH,86,330,283,0.247,0.349,0.424,0.773,31,49,70,51,3,1,15,120,0,0,40,2,39,11,4,0,3,71773828
+1981,Regular Season,Seibu Lions,5,"Yamamura, Yoshinori",LF,84,182,166,0.301,0.345,0.458,0.803,21,26,50,33,12,1,4,76,2,1,7,0,18,4,4,4,1,71773840
+1981,Regular Season,Yokohama Taiyo Whales,13,"Sato, Masao",P,57,33,29,0.103,0.133,0.138,0.271,0,3,3,2,1,0,0,4,0,0,0,0,13,0,1,3,0,71773843
+1981,Japan Series,Yomiuri Giants,24,"Nakahata, Kiyoshi",1B,6,,24,0.250,,0.375,,,2,6,5,0,0,1,9,2,,3,,1,,,,,71773844
+1981,Regular Season,Yomiuri Giants,24,"Nakahata, Kiyoshi",1B,109,440,416,0.322,0.355,0.512,0.867,55,66,134,94,17,7,16,213,10,2,19,3,37,7,2,0,3,71773844
+1981,Regular Season,Hanshin Tigers,9,"Sano, Noriyoshi",CF,127,508,466,0.296,0.341,0.397,0.738,59,48,138,113,14,0,11,185,5,7,31,2,29,6,1,6,4,71773849
+1981,Japan Series,Yomiuri Giants,43,"Suzuki, Yasutomo",SS,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71773861
+1981,Regular Season,Yomiuri Giants,43,"Suzuki, Yasutomo",SS,11,5,5,0.200,0.200,0.400,0.600,0,1,1,0,1,0,0,2,0,0,0,0,1,0,0,0,0,71773861
+1981,Regular Season,Chunichi Dragons,14,"Spikes, Charlie",PH,26,52,49,0.122,0.173,0.204,0.377,4,6,6,4,1,0,1,10,0,0,3,0,21,2,0,0,0,71773863
+1981,Regular Season,Lotte Orions,25,"Tokutsu, Takahiro",PH,7,10,10,0.200,0.200,0.200,0.400,1,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,71973824
+1981,Regular Season,Yokohama Taiyo Whales,21,"Nomura, Osamu",P,31,33,27,0.037,0.133,0.037,0.170,0,0,1,1,0,0,0,1,0,0,3,0,12,0,0,3,0,71973828
+1981,Regular Season,Lotte Orions,17,"Fukazawa, Yoshio",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973844
+1981,Regular Season,Seibu Lions,16,"Matsunuma, Masayuki",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973848
+1981,Regular Season,Hanshin Tigers,40,"Dade, Paul",LF,37,128,114,0.219,0.282,0.289,0.571,15,5,25,20,3,1,1,33,3,2,7,0,24,2,3,3,1,71973863
+1981,Regular Season,Hiroshima Toyo Carp,22,"Mizunuma, Shiro",C,77,192,167,0.257,0.326,0.287,0.613,16,12,43,39,3,1,0,48,3,4,16,3,28,5,1,5,3,81083828
+1981,Regular Season,Kintetsu Buffaloes,17,"Fujihara, Yasuyuki",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81083863
+1981,Regular Season,Hankyu Braves,28,"Sasamoto, Shinji",C,74,144,127,0.276,0.343,0.370,0.713,19,15,35,28,4,1,2,47,5,2,12,2,15,1,1,4,0,81183840
+1981,Regular Season,Nankai Hawks,15,"Ueda, Jiro",P,42,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81183841
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,29,"Kagitani, Koji",2B,7,,2,0.500,,0.500,,,0,1,1,0,0,0,1,0,,0,,0,,,,,81183842
+1981,Japan Series,Nippon-Ham Fighters,29,"Kagitani, Koji",2B,4,,8,0.375,,0.500,,,2,3,2,1,0,0,4,0,,0,,2,,,,,81183842
+1981,Regular Season,Nippon-Ham Fighters,29,"Kagitani, Koji",2B,69,121,104,0.260,0.319,0.317,0.636,7,3,27,22,4,1,0,33,0,2,9,0,17,3,0,8,0,81183842
+1981,Regular Season,Kintetsu Buffaloes,6,"Ishiwata, Shigeru",SS,59,144,131,0.191,0.259,0.282,0.541,16,13,25,18,4,1,2,37,6,0,11,0,14,3,1,1,0,81183843
+1981,Regular Season,Yokohama Taiyo Whales,24,"Endo, Kazuhiko",P,35,47,44,0.136,0.156,0.136,0.292,1,2,6,6,0,0,0,6,0,0,1,0,14,1,0,2,0,81183846
+1981,Climax Series - Final Stage,Lotte Orions,6,"Ochiai, Hiromitsu",2B,5,,16,0.312,,0.562,,,5,5,3,1,0,1,9,0,,5,,3,,,,,81183848
+1981,Regular Season,Lotte Orions,6,"Ochiai, Hiromitsu",2B,127,502,423,0.326,0.427,0.619,1.046,69,90,138,83,19,3,33,262,6,3,68,1,55,17,6,1,4,81183848
+1981,Regular Season,Lotte Orions,38,"Ichihashi, Hidehiko",3B,5,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81183849
+1981,Regular Season,Hankyu Braves,55,"Ishimine, Kazuhiko",PH,36,46,42,0.214,0.283,0.429,0.712,3,5,9,5,1,1,2,18,0,0,4,0,15,0,0,0,0,81183863
+1981,Japan Series,Yomiuri Giants,32,"Yanagida, Toshiro",PH,3,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,2,,0,,,,,81283824
+1981,Regular Season,Yomiuri Giants,32,"Yanagida, Toshiro",PH,42,53,46,0.130,0.245,0.217,0.462,6,5,6,4,1,0,1,10,0,0,7,1,10,1,0,0,0,81283824
+1981,Regular Season,Yakult Swallows,22,"Yasuda, Takeshi",P,7,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81283845
+1981,Regular Season,Nankai Hawks,19,"Yamauchi, Takanori",P,41,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81283863
+1981,Regular Season,Hanshin Tigers,4,"Kawato, Kozo",PH,52,65,59,0.305,0.339,0.441,0.780,3,13,18,12,5,0,1,26,0,1,2,0,9,0,1,1,2,81383826
+1981,Regular Season,Hiroshima Toyo Carp,44,"Kaneda, Tomehiro",P,9,16,15,0.400,0.438,0.867,1.305,2,5,6,3,1,0,2,13,0,0,1,0,2,0,0,0,0,81383828
+1981,Regular Season,Lotte Orions,39,"Nagamatsu, Sumiaki",C,10,4,4,0.250,0.250,0.250,0.500,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,81383840
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,7,"Okaji, Kazuhiko",PH,10,,12,0.167,,0.250,,,3,2,1,1,0,0,3,0,,1,,3,,,,,81383841
+1981,Japan Series,Nippon-Ham Fighters,7,"Okaji, Kazuhiko",PH,6,,10,0.200,,0.500,,,2,2,1,0,0,1,5,0,,1,,4,,,,,81383841
+1981,Regular Season,Nippon-Ham Fighters,7,"Okaji, Kazuhiko",PH,41,99,89,0.315,0.384,0.483,0.867,13,12,28,19,6,0,3,43,0,0,10,0,16,1,0,0,0,81383841
+1981,Regular Season,Hanshin Tigers,51,"Sato, Fumio",LF,6,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383842
+1981,Regular Season,Chunichi Dragons,5,"Oshima, Yasunori",LF,130,548,468,0.301,0.399,0.504,0.903,69,81,141,94,22,2,23,236,7,1,68,9,71,11,8,0,4,81383843
+1981,Japan Series,Yomiuri Giants,6,"Shinozuka, Kazunori",2B,6,,16,0.312,,0.562,,,4,5,3,1,0,1,9,0,,0,,1,,,,,81383844
+1981,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",2B,116,457,412,0.357,0.400,0.468,0.868,51,45,147,117,21,2,7,193,2,5,29,6,39,9,1,14,1,81383844
+1981,Regular Season,Seibu Lions,39,"Keimoto, Hideaki",LF,14,5,4,0.250,0.400,0.250,0.650,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,81383846
+1981,Climax Series - Final Stage,Lotte Orions,54,"Sato, Kenichi",SS,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,81383848
+1981,Regular Season,Lotte Orions,54,"Sato, Kenichi",SS,25,11,10,0.100,0.100,0.100,0.200,6,1,1,1,0,0,0,1,0,1,0,0,4,0,0,0,1,81383848
+1981,Japan Series,Nippon-Ham Fighters,16,"Kida, Isamu",P,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,81383861
+1981,Regular Season,Nippon-Ham Fighters,16,"Kida, Isamu",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383861
+1981,Regular Season,Chunichi Dragons,30,"Kaku, Genji",P,6,7,7,0.286,0.286,0.286,0.572,1,0,2,2,0,0,0,2,0,0,0,0,2,0,0,0,0,81383863
+1981,Regular Season,Hanshin Tigers,38,"Rum, Steven",RF,57,195,171,0.269,0.335,0.409,0.744,21,15,46,32,8,2,4,70,1,4,16,2,34,1,1,6,1,81483863
+1981,Regular Season,Hankyu Braves,24,"Miyamoto, Shiro",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583840
+1981,Regular Season,Hiroshima Toyo Carp,38,"Terada, Yoshitaka",PH,30,26,20,0.150,0.346,0.150,0.496,3,0,3,3,0,0,0,3,0,0,6,0,6,0,0,0,0,81583844
+1981,Regular Season,Kintetsu Buffaloes,5,"Sasaki, Kyosuke",RF,91,288,253,0.261,0.332,0.344,0.676,31,21,66,54,7,1,4,87,14,3,21,0,17,3,6,5,3,81583845
+1981,Regular Season,Hiroshima Toyo Carp,40,"Tatsukawa, Mitsuo",C,49,123,113,0.221,0.285,0.283,0.568,8,10,25,20,4,0,1,32,1,1,7,1,11,8,3,0,0,81583846
+1981,Regular Season,Hankyu Braves,16,"Kojima, Masanobu",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583863
+1981,Regular Season,Kintetsu Buffaloes,25,"Fukiishi, Tokuichi",SS,126,454,412,0.245,0.288,0.354,0.642,47,48,101,77,13,1,10,146,13,8,23,0,25,7,2,13,4,81783842
+1981,Regular Season,Kintetsu Buffaloes,10,"Shimamoto, Kohei",RF,101,283,256,0.270,0.335,0.438,0.773,36,34,69,48,10,0,11,112,5,3,19,1,38,5,6,0,2,81783843
+1981,Regular Season,Yokohama Taiyo Whales,6,"Takagi, Yoshikazu",RF,115,432,382,0.270,0.350,0.390,0.740,44,50,103,76,17,1,9,149,7,8,43,3,69,4,4,2,1,81783845
+1981,Regular Season,Lotte Orions,31,"Takazawa, Hideaki",SS,10,3,3,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81783861
+1981,Regular Season,Yakult Swallows,15,"Takemoto, Yukio",P,17,2,2,0.500,0.500,1.000,1.500,0,1,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,81783863
+1981,Regular Season,Kintetsu Buffaloes,22,"Haku, Jinten",PH,84,214,194,0.227,0.292,0.345,0.637,19,23,44,29,11,0,4,67,2,2,14,0,12,6,4,2,0,81983827
+1981,Regular Season,Hankyu Braves,7,"Fukumoto, Yutaka",CF,130,584,495,0.287,0.387,0.444,0.831,90,48,142,99,22,7,14,220,54,15,80,2,65,3,1,6,2,81983828
+1981,Regular Season,Kintetsu Buffaloes,8,"Nashida, Masataka",C,106,411,374,0.273,0.330,0.452,0.782,44,48,102,69,16,0,17,169,5,3,29,0,47,12,3,1,4,81983845
+1981,Regular Season,Yakult Swallows,23,"Yanagihara, Takahiro",PH,45,83,73,0.137,0.222,0.164,0.386,7,3,10,8,2,0,0,12,0,0,8,0,18,0,0,1,1,81983846
+1981,Regular Season,Hanshin Tigers,3,"Fujikura, Kazumasa",SS,15,10,8,0.125,0.125,0.250,0.375,1,0,1,0,1,0,0,2,0,2,0,0,1,0,0,2,0,81983861
+1981,Regular Season,Yokohama Taiyo Whales,55,"Nishiyama, Shigeru",PR,3,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81983863
+1981,Regular Season,Yomiuri Giants,18,"Horiuchi, Tsuneo",P,10,3,3,0.667,0.667,0.667,1.334,0,0,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,91093822
+1981,Regular Season,Yakult Swallows,17,"Matsuoka, Hiromu",P,37,66,59,0.186,0.213,0.305,0.518,3,9,11,8,1,0,2,18,0,0,2,0,20,0,0,3,2,91093826
+1981,Regular Season,Yomiuri Giants,28,"Niura, Hisao",P,14,15,11,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,6,0,0,4,0,91093843
+1981,Regular Season,Hankyu Braves,9,"Yoshizawa, Toshiyuki",PR,38,40,36,0.111,0.200,0.111,0.311,4,0,4,4,0,0,0,4,2,1,3,0,4,1,1,0,0,91093844
+1981,Regular Season,Yakult Swallows,6,"Mizutani, Shintaro",SS,118,375,332,0.253,0.303,0.377,0.680,39,27,84,58,15,7,4,125,18,11,21,4,47,1,3,16,3,91093849
+1981,Regular Season,Yokohama Taiyo Whales,4,"Peters, James",CF,123,345,308,0.273,0.345,0.464,0.809,37,40,84,57,10,2,15,143,8,5,33,4,88,7,1,0,3,91093863
+1981,Climax Series - Final Stage,Lotte Orions,8,"Arito, Michiyo",3B,5,,18,0.278,,0.667,,,5,5,2,1,0,2,12,0,,3,,3,,,,,91193828
+1981,Regular Season,Lotte Orions,8,"Arito, Michiyo",3B,113,458,410,0.285,0.359,0.454,0.813,64,50,117,81,18,3,15,186,13,1,41,4,52,10,6,0,1,91193828
+1981,Regular Season,Yakult Swallows,26,"Ihara, Shinichiro",P,32,57,51,0.176,0.176,0.176,0.352,3,1,9,9,0,0,0,9,0,0,0,0,17,2,0,6,0,91193841
+1981,Regular Season,Yokohama Taiyo Whales,3,"Iwai, Takayuki",PH,13,13,10,0.200,0.333,0.200,0.533,1,0,2,2,0,0,0,2,0,0,0,0,1,0,2,1,0,91193842
+1981,Regular Season,Hiroshima Toyo Carp,24,"Ono, Yutaka",P,57,25,24,0.167,0.200,0.167,0.367,1,1,4,4,0,0,0,4,0,0,1,0,8,1,0,0,0,91193844
+1981,Regular Season,Yokohama Taiyo Whales,22,"Ikeda, Hiroshi",P,46,9,7,0.286,0.375,0.286,0.661,2,0,2,2,0,0,0,2,0,0,1,0,3,0,0,1,0,91193846
+1981,Regular Season,Kintetsu Buffaloes,12,"Imoto, Takashi",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193847
+1981,Japan Series,Yomiuri Giants,30,"Egawa, Suguru",P,3,,8,0.250,,0.375,,,0,2,1,1,0,0,3,0,,0,,5,,,,,91193848
+1981,Regular Season,Yomiuri Giants,30,"Egawa, Suguru",P,31,91,80,0.175,0.185,0.250,0.435,3,8,14,10,3,0,1,20,0,0,1,0,37,2,0,7,3,91193848
+1981,Regular Season,Nippon-Ham Fighters,30,"Inoe, Koji",PR,26,17,16,0.125,0.125,0.125,0.250,2,0,2,2,0,0,0,2,2,1,0,0,3,0,0,1,0,91193863
+1981,Regular Season,Nippon-Ham Fighters,4,"Yoshioka, Satoru",PH,18,14,12,0.083,0.214,0.083,0.297,3,0,1,1,0,0,0,1,0,1,2,0,2,0,0,0,0,91293828
+1981,Regular Season,Hiroshima Toyo Carp,10,"Michihara, Hiroyuki",C,62,163,147,0.286,0.327,0.327,0.654,16,15,42,38,3,0,1,48,0,1,9,2,11,3,0,7,0,91293845
+1981,Regular Season,Hankyu Braves,45,"Yonemura, Osamu",1B,15,5,4,0.000,0.200,0.000,0.200,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,91293861
+1981,Regular Season,Nankai Hawks,57,"Miyazaki, Hironori",PR,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91293863
+1981,Regular Season,Hankyu Braves,6,"Ohashi, Yutaka",SS,10,9,9,0.222,0.222,0.222,0.444,1,2,2,2,0,0,0,2,1,0,0,0,4,0,0,0,0,91393828
+1981,Regular Season,Yakult Swallows,21,"Suzuki, Yasujiro",P,34,62,59,0.305,0.305,0.458,0.763,6,7,18,12,4,1,1,27,0,0,0,0,19,0,0,3,0,91393840
+1981,Regular Season,Hiroshima Toyo Carp,20,"Kitabeppu, Manabu",P,32,89,78,0.103,0.114,0.115,0.229,1,1,8,7,1,0,0,9,0,0,1,0,32,0,0,10,0,91393842
+1981,Regular Season,Nankai Hawks,25,"Katahira, Shinsaku",1B,96,305,283,0.272,0.313,0.403,0.716,30,35,77,56,13,0,8,114,0,0,15,0,33,6,2,0,5,91393845
+1981,Regular Season,Lotte Orions,42,"Kasuga, Shonosuke",CF,3,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393848
+1981,Regular Season,Hiroshima Toyo Carp,29,"Ogawa, Kunikazu",P,37,4,4,0.750,0.750,0.750,1.500,1,0,3,3,0,0,0,3,0,0,0,0,0,0,0,0,0,91393849
+1981,Regular Season,Seibu Lions,13,"Ono, Kazuyuki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393863
+1981,Regular Season,Yakult Swallows,35,"Yamashita, Keitoku",RF,39,13,13,0.077,0.077,0.077,0.154,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,91493843
+1981,Regular Season,Hankyu Braves,5,"Yumioka, Keijiro",SS,130,419,377,0.212,0.248,0.294,0.542,42,30,80,61,11,4,4,111,15,7,16,0,23,11,2,21,3,91493863
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,22,"Kato, Toshio",C,5,,1,1.000,,1.000,,,2,1,1,0,0,0,1,0,,1,,0,,,,,91593824
+1981,Japan Series,Nippon-Ham Fighters,22,"Kato, Toshio",C,3,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,91593824
+1981,Regular Season,Nippon-Ham Fighters,22,"Kato, Toshio",C,48,118,102,0.255,0.333,0.304,0.637,12,10,26,23,2,0,1,31,1,0,10,1,15,3,2,2,2,91593824
+1981,Regular Season,Kintetsu Buffaloes,15,"Fukui, Yasuo",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593840
+1981,Regular Season,Yokohama Taiyo Whales,26,"Tashiro, Tomio",3B,130,540,489,0.268,0.328,0.495,0.823,62,81,131,81,19,1,30,242,8,5,42,5,90,15,2,0,7,91593842
+1981,Regular Season,Lotte Orions,21,"Kuramochi, Akira",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593845
+1981,Japan Series,Yomiuri Giants,11,"Sumi, Mitsuo",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91593846
+1981,Regular Season,Yomiuri Giants,11,"Sumi, Mitsuo",P,51,27,23,0.087,0.087,0.087,0.174,1,0,2,2,0,0,0,2,0,0,0,0,9,0,0,4,0,91593846
+1981,Regular Season,Hiroshima Toyo Carp,25,"Kinoshita, Tomio",2B,126,364,316,0.237,0.299,0.316,0.615,46,17,75,62,7,0,6,100,10,8,26,2,43,4,2,20,0,91593849
+1981,Regular Season,Nippon-Ham Fighters,44,"Cruz, Tommy",RF,116,502,465,0.297,0.345,0.486,0.831,65,75,138,88,30,2,18,226,2,1,32,2,36,10,2,0,3,91593861
+1981,Regular Season,Yokohama Taiyo Whales,19,"Kubo, Fumio",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593863
+1981,Regular Season,Hiroshima Toyo Carp,16,"Takahashi, Naoki",P,16,22,18,0.111,0.158,0.111,0.269,1,0,2,2,0,0,0,2,0,0,1,0,5,2,0,3,0,91793828
+1981,Climax Series - Final Stage,Lotte Orions,24,"Yoshioka, Toshiaki",RF,3,,2,0.000,,0.000,,,0,0,0,0,0,0,0,1,,0,,0,,,,,91793840
+1981,Regular Season,Lotte Orions,24,"Yoshioka, Toshiaki",RF,83,181,165,0.267,0.309,0.358,0.667,14,9,44,31,12,0,1,59,5,0,9,0,30,2,1,3,3,91793840
+1981,Japan Series,Yomiuri Giants,26,"Nishimoto, Takashi",P,2,,8,0.250,,0.250,,,1,2,2,0,0,0,2,0,,0,,2,,,,,91793842
+1981,Regular Season,Yomiuri Giants,26,"Nishimoto, Takashi",P,34,97,85,0.212,0.264,0.294,0.558,6,5,18,14,2,1,1,25,0,0,5,0,25,1,1,5,1,91793842
+1981,Climax Series - Final Stage,Lotte Orions,12,"Hakamada, Hidetoshi",C,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91793846
+1981,Regular Season,Lotte Orions,12,"Hakamada, Hidetoshi",C,12,21,19,0.263,0.300,0.421,0.721,3,2,5,4,0,0,1,8,0,0,1,0,3,0,0,1,0,91793846
+1981,Japan Series,Yomiuri Giants,23,"Nakatsukasa, Tokuzo",LF,3,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91793848
+1981,Regular Season,Yomiuri Giants,23,"Nakatsukasa, Tokuzo",LF,4,4,3,0.000,0.250,0.000,0.250,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,91793848
+1981,Regular Season,Nankai Hawks,3,"Sadaoka, Chiaki",SS,90,277,249,0.245,0.296,0.353,0.649,27,32,61,42,15,0,4,88,3,3,16,0,39,7,2,7,3,91793849
+1981,Regular Season,Hankyu Braves,15,"Sekiguchi, Tomoyuki",P,41,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793861
+1981,Regular Season,Seibu Lions,20,"Sugimoto, Tadashi",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793863
+1981,Regular Season,Hankyu Braves,39,"Nakazawa, Shinji",C,86,181,163,0.233,0.282,0.411,0.693,13,22,38,22,9,1,6,67,0,1,9,0,39,7,2,6,1,91993820
+1981,Climax Series - Final Stage,Nippon-Ham Fighters,28,"Hattori, Toshikazu",LF,8,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91993828
+1981,Japan Series,Nippon-Ham Fighters,28,"Hattori, Toshikazu",LF,4,,3,0.333,,0.333,,,0,1,1,0,0,0,1,0,,0,,1,,,,,91993828
+1981,Regular Season,Nippon-Ham Fighters,28,"Hattori, Toshikazu",LF,103,140,120,0.225,0.301,0.275,0.576,13,17,27,21,6,0,0,33,4,2,8,0,18,2,5,5,2,91993828
+1981,Regular Season,Yomiuri Giants,51,"Fukushima, Kazuto",C,7,10,7,0.143,0.400,0.143,0.543,2,0,1,1,0,0,0,1,0,0,3,0,2,0,0,0,0,91993844
+1981,Regular Season,Chunichi Dragons,13,"Donoe, Terashi",P,37,8,6,0.500,0.571,0.667,1.238,1,2,3,2,1,0,0,4,0,0,1,0,1,0,0,1,0,91993845
+1981,Regular Season,Chunichi Dragons,25,"Toyoda, Seisuke",RF,114,352,315,0.292,0.346,0.403,0.749,39,29,92,67,19,2,4,127,9,2,23,0,43,7,3,8,3,91993861
+1981,Japan Series,Yomiuri Giants,12,"Thomasson, Gary",RF,3,,6,0.167,,0.167,,,0,1,1,0,0,0,1,0,,1,,2,,,,,91993863
+1981,Regular Season,Yomiuri Giants,12,"Thomasson, Gary",RF,120,435,402,0.261,0.317,0.468,0.785,39,50,105,62,23,0,20,188,5,7,32,2,132,9,1,0,0,91993863

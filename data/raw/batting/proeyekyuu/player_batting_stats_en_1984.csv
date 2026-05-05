@@ -1,0 +1,518 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+1984,Regular Season,Kintetsu Buffaloes,9,"Hirano, Mitsuyasu",CF,121,535,490,0.251,0.300,0.335,0.635,59,53,123,103,9,1,10,164,5,2,34,0,37,12,0,9,2,01003845
+1984,Regular Season,Yokohama Taiyo Whales,2,"Lee, Leon",1B,130,550,480,0.321,0.402,0.508,0.910,66,84,154,107,25,1,21,244,6,2,65,8,60,23,0,0,5,01003846
+1984,Regular Season,Nankai Hawks,30,"Mizutani, Shigeo",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01003861
+1984,Regular Season,Hanshin Tigers,32,"Hikima, Katsuyuki",PR,81,40,35,0.229,0.270,0.314,0.584,17,3,8,7,0,0,1,11,5,5,2,0,9,0,0,2,1,01003863
+1984,Regular Season,Hankyu Braves,34,"Mori, Koji",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01003865
+1984,Regular Season,Yokohama Taiyo Whales,28,"Nishimura, Hiromi",PH,77,113,100,0.250,0.330,0.330,0.660,9,4,25,20,3,1,1,33,4,3,11,0,18,2,1,1,0,01003867
+1984,Regular Season,Yomiuri Giants,59,"Nishimoto, Kazumi",SS,6,11,11,0.273,0.273,0.273,0.546,2,1,3,3,0,0,0,3,0,1,0,0,4,0,0,0,0,01003869
+1984,Regular Season,Yomiuri Giants,35,"Awaguchi, Kenji",RF,103,228,198,0.283,0.363,0.399,0.762,31,31,56,44,6,1,5,79,4,1,24,4,23,2,1,3,2,01103843
+1984,Regular Season,Nippon-Ham Fighters,27,"Omiya, Tatsuo",C,106,320,289,0.253,0.310,0.391,0.701,37,31,73,49,15,2,7,113,11,5,22,0,26,6,2,7,0,01103844
+1984,Regular Season,Chunichi Dragons,31,"Ishii, Akio",PH,58,45,38,0.184,0.295,0.289,0.584,4,3,7,3,4,0,0,11,0,0,5,0,13,1,1,0,1,01103846
+1984,Regular Season,Chunichi Dragons,27,"Okawara, Sakae",C,40,50,48,0.208,0.240,0.271,0.511,4,4,10,9,0,0,1,13,0,0,2,0,12,1,0,0,0,01103848
+1984,Regular Season,Hiroshima Toyo Carp,11,"Ikegaya, Kojiro",P,6,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103849
+1984,Regular Season,Chunichi Dragons,17,"Ushijima, Kazuhiko",P,50,14,10,0.500,0.500,0.800,1.300,2,3,5,4,0,0,1,8,0,0,0,0,5,0,0,3,1,01103861
+1984,Regular Season,Nankai Hawks,12,"Inoe, Yuji",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103863
+1984,Regular Season,Hiroshima Toyo Carp,36,"Imai, Joji",PR,52,8,6,0.167,0.286,0.333,0.619,26,1,1,0,1,0,0,2,15,2,1,0,1,0,0,1,0,01103865
+1984,Regular Season,Yakult Swallows,83,"Arisawa, Kenji",P,22,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103869
+1984,Regular Season,Hanshin Tigers,54,"Maeda, Koji",P,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01203869
+1984,Regular Season,Lotte Orions,34,"Kenmotsu, Takahiro",RF,68,52,46,0.217,0.294,0.283,0.577,9,5,10,7,3,0,0,13,3,1,5,0,13,1,0,1,0,01303842
+1984,Regular Season,Yokohama Taiyo Whales,17,"Saito, Akio",P,43,22,16,0.188,0.188,0.188,0.376,1,2,3,3,0,0,0,3,0,0,0,0,5,1,0,6,0,01303844
+1984,Regular Season,Yokohama Taiyo Whales,15,"Kadota, Fumiaki",P,20,11,11,0.182,0.182,0.182,0.364,1,0,2,2,0,0,0,2,0,0,0,0,4,0,0,0,0,01303846
+1984,Regular Season,Chunichi Dragons,23,"Kawamata, Yonetoshi",PH,41,36,35,0.114,0.139,0.171,0.310,2,1,4,2,2,0,0,6,1,0,1,0,11,0,0,0,0,01303848
+1984,Regular Season,Kintetsu Buffaloes,4,"Oishi, Daijiro",2B,130,598,528,0.282,0.355,0.508,0.863,97,65,149,93,22,5,29,268,46,19,58,5,58,5,2,10,0,01303863
+1984,Regular Season,Seibu Lions,26,"Kanamori, Eiji",LF,65,181,148,0.250,0.366,0.351,0.717,19,19,37,26,9,0,2,52,0,0,15,0,17,0,12,5,1,01303865
+1984,Regular Season,Yokohama Taiyo Whales,21,"Ohata, Toru",P,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01303867
+1984,Regular Season,Chunichi Dragons,18,"Kashima, Tadashi",P,7,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,01303869
+1984,Regular Season,Yokohama Taiyo Whales,43,"Muraoka, Koichi",PR,62,42,34,0.147,0.194,0.235,0.429,7,0,5,2,3,0,0,8,2,0,2,0,7,1,0,6,0,01403867
+1984,Regular Season,Seibu Lions,39,"Kuroda, Masahiro",C,25,56,47,0.149,0.245,0.255,0.500,8,5,7,4,2,0,1,12,0,0,5,0,8,2,1,3,0,01503845
+1984,Regular Season,Yomiuri Giants,47,"Suzuki, Koki",P,8,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01503848
+1984,Regular Season,Nippon-Ham Fighters,47,"Sakamaki, Akira",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01503865
+1984,Regular Season,Seibu Lions,44,"Kurohara, Yuji",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01503867
+1984,Japan Series,Hiroshima Toyo Carp,6,"Kobayakawa, Takehiko",1B,4,,12,0.167,,0.167,,,0,2,2,0,0,0,2,0,,0,,2,,,,,01503869
+1984,Regular Season,Hiroshima Toyo Carp,6,"Kobayakawa, Takehiko",1B,112,420,375,0.280,0.346,0.459,0.805,50,59,105,71,17,1,16,172,8,1,27,1,66,8,11,4,3,01503869
+1984,Regular Season,Seibu Lions,54,"Seike, Masakazu",3B,6,2,2,0.000,0.000,0.000,0.000,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01703863
+1984,Regular Season,Hiroshima Toyo Carp,12,"Takagi, Nobuhiro",P,17,20,16,0.313,0.353,0.313,0.666,1,1,5,5,0,0,0,5,0,0,1,0,3,0,0,3,0,01703865
+1984,Regular Season,Lotte Orions,48,"Takahashi, Chuichi",LF,55,118,107,0.280,0.336,0.393,0.729,20,10,30,23,4,1,2,42,3,4,8,0,19,2,1,2,0,01703869
+1984,Regular Season,Seibu Lions,21,"Higashio, Osamu",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903828
+1984,Regular Season,Hankyu Braves,28,"Fujishiro, Kazuaki",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903844
+1984,Regular Season,Chunichi Dragons,9,"Nakao, Takayoshi",C,76,237,208,0.322,0.387,0.572,0.959,35,35,67,40,14,1,12,119,5,1,22,4,35,1,0,6,1,01903863
+1984,Regular Season,Nippon-Ham Fighters,23,"Tsusue, Hideaki",PH,73,156,134,0.224,0.329,0.396,0.725,15,19,30,21,2,0,7,53,0,0,21,1,22,3,0,0,1,01903867
+1984,Regular Season,Nankai Hawks,51,"Tone, Tsuyoshi",DH,3,0,0,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903869
+1984,Regular Season,Yomiuri Giants,15,"Yamakura, Kazuhiro",C,114,388,340,0.241,0.328,0.400,0.728,38,43,82,52,18,0,12,136,1,1,41,8,62,12,3,1,3,11013846
+1984,Regular Season,Hanshin Tigers,7,"Mayumi, Akinobu",2B,117,475,430,0.286,0.345,0.549,0.894,69,64,123,69,22,5,27,236,15,3,39,5,69,11,0,4,2,11013847
+1984,Regular Season,Nankai Hawks,35,"Yoshida, Hiroyuki",C,84,202,172,0.267,0.347,0.430,0.777,21,23,46,30,10,0,6,74,0,2,19,1,13,5,2,8,1,11013848
+1984,Regular Season,Yomiuri Giants,52,"Nakajo, Yoshinobu",P,22,1,0,0.000,1.000,0.000,1.000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,11013867
+1984,Regular Season,Nippon-Ham Fighters,32,"Nakamura, Minoru",2B,5,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,11013869
+1984,Regular Season,Chunichi Dragons,16,"Yasuki, Shoji",P,27,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11213828
+1984,Regular Season,Hanshin Tigers,38,"Yamakawa, Takeshi",C,114,281,249,0.193,0.261,0.349,0.610,32,25,48,30,7,1,10,87,1,0,22,7,53,9,1,8,1,11213861
+1984,Regular Season,Nankai Hawks,11,"Hatayama, Hitoshi",P,43,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213867
+1984,Regular Season,Chunichi Dragons,1,"Fujio, Yasuharu",PH,34,39,36,0.361,0.410,0.611,1.021,5,8,13,8,3,0,2,22,0,0,3,0,6,4,0,0,0,11213869
+1984,Regular Season,Hanshin Tigers,2,"Oka, Yoshiaki",LF,27,6,3,0.000,0.400,0.000,0.400,4,1,0,0,0,0,0,0,0,1,2,0,1,0,0,1,0,11313845
+1984,Regular Season,Kintetsu Buffaloes,13,"Ishimoto, Yoshiaki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313863
+1984,Regular Season,Seibu Lions,46,"Ozawa, Makoto",CF,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313865
+1984,Regular Season,Hanshin Tigers,43,"Olsen, Richard",P,30,26,25,0.120,0.120,0.120,0.240,0,0,3,3,0,0,0,3,0,0,0,0,9,1,0,1,0,11313867
+1984,Regular Season,Seibu Lions,52,"Oda, Shinya",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313869
+1984,Regular Season,Yakult Swallows,28,"Yaegashi, Yukio",C,124,447,398,0.251,0.321,0.445,0.766,50,58,100,61,19,2,18,177,1,1,39,2,76,11,2,4,4,11413843
+1984,Regular Season,Hanshin Tigers,25,"Yamamoto, Kazuyuki",P,52,18,14,0.143,0.143,0.214,0.357,1,2,2,1,1,0,0,3,0,0,0,0,6,0,0,4,0,11413845
+1984,Japan Series,Hiroshima Toyo Carp,41,"Yamanaka, Kiyoshi",C,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11413863
+1984,Regular Season,Hiroshima Toyo Carp,41,"Yamanaka, Kiyoshi",C,64,89,80,0.175,0.233,0.200,0.433,2,8,14,12,2,0,0,16,0,0,3,0,14,2,3,2,1,11413863
+1984,Regular Season,Yomiuri Giants,43,"Yamamoto, Koji",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11413869
+1984,Japan Series,Hankyu Braves,26,"Kobayashi, Shinya",RF,6,,19,0.316,,0.474,,,1,6,5,0,0,1,9,1,,2,,1,,,,,11513846
+1984,Regular Season,Hankyu Braves,26,"Kobayashi, Shinya",RF,116,387,343,0.277,0.340,0.429,0.769,41,47,95,69,13,0,13,147,9,2,33,3,31,5,0,4,3,11513846
+1984,Regular Season,Kintetsu Buffaloes,39,"Sano, Motokuni",C,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11513848
+1984,Regular Season,Hanshin Tigers,31,"Kakefu, Masayuki",3B,130,549,442,0.269,0.408,0.557,0.965,79,95,119,67,14,1,37,246,3,2,102,8,83,11,2,0,3,11513849
+1984,Regular Season,Hankyu Braves,35,"Kinoshita, Tomohiro",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513861
+1984,Regular Season,Hiroshima Toyo Carp,48,"Kiyokawa, Eiji",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513869
+1984,Regular Season,Yakult Swallows,1,"Wakamatsu, Tsutomu",LF,114,449,397,0.325,0.387,0.458,0.845,49,50,129,96,22,2,9,182,6,1,38,4,26,6,2,8,4,11613843
+1984,Regular Season,Kintetsu Buffaloes,63,"Yoshikawa, Masami",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11613867
+1984,Regular Season,Kintetsu Buffaloes,34,"Murata, Tatsumi",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713840
+1984,Japan Series,Hiroshima Toyo Carp,2,"Takahashi, Yoshihiko",SS,7,,30,0.500,,0.633,,,3,15,13,1,0,1,19,3,,2,,4,,,,,11713842
+1984,Regular Season,Hiroshima Toyo Carp,2,"Takahashi, Yoshihiko",SS,126,556,495,0.303,0.363,0.505,0.868,97,71,150,100,23,4,23,250,30,9,44,2,79,5,3,10,4,11713842
+1984,Regular Season,Yomiuri Giants,5,"Kono, Kazumasa",SS,111,346,299,0.258,0.321,0.445,0.766,40,46,77,50,11,3,13,133,8,2,26,1,45,9,2,16,3,11713843
+1984,Regular Season,Lotte Orions,36,"Doi, Masashi",1B,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713844
+1984,Regular Season,Nankai Hawks,23,"Takayanagi, Hideki",PH,81,178,162,0.272,0.314,0.469,0.783,21,26,44,28,8,0,8,76,2,1,9,0,27,5,1,3,3,11713848
+1984,Regular Season,Seibu Lions,38,"Kono, Junki",3B,9,10,9,0.111,0.111,0.111,0.222,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,1,0,11713863
+1984,Regular Season,Kintetsu Buffaloes,22,"Sumitomo, Kazuya",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713865
+1984,Regular Season,Nippon-Ham Fighters,55,"Shimizu, Nobuaki",C,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713869
+1984,Regular Season,Nankai Hawks,26,"Fujita, Manabu",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913842
+1984,Japan Series,Hiroshima Toyo Carp,19,"Niimi, Satoshi",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11913847
+1984,Regular Season,Hiroshima Toyo Carp,19,"Niimi, Satoshi",P,16,1,1,1.000,1.000,2.000,3.000,1,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,11913847
+1984,Regular Season,Yokohama Taiyo Whales,14,"Masumoto, Hiroshi",P,34,2,1,0.000,0.500,0.000,0.500,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,11913848
+1984,Regular Season,Seibu Lions,6,"Suzuki, Haruhiko",PH,19,32,28,0.107,0.167,0.107,0.274,2,2,3,3,0,0,0,3,0,0,2,0,6,0,0,0,2,11913849
+1984,Regular Season,Nippon-Ham Fighters,20,"Takahashi, Masami",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913861
+1984,Regular Season,Lotte Orions,32,"Nishimura, Norifumi",2B,124,406,368,0.285,0.319,0.389,0.708,46,29,105,80,17,3,5,143,25,13,11,0,23,5,7,19,1,11913865
+1984,Regular Season,Yokohama Taiyo Whales,12,"Sekine, Hirofumi",P,40,35,29,0.069,0.069,0.069,0.138,0,0,2,2,0,0,0,2,0,0,0,0,16,0,0,6,0,11913867
+1984,Regular Season,Hanshin Tigers,41,"Tsukiyama, Eiju",PH,6,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913869
+1984,Regular Season,Yokohama Taiyo Whales,10,"Fukushima, Hisaaki",PH,52,57,54,0.222,0.263,0.370,0.633,4,8,12,7,3,1,1,20,0,0,2,0,6,3,1,0,0,21023824
+1984,Regular Season,Lotte Orions,5,"Lee, Leron",DH,129,553,485,0.309,0.391,0.557,0.948,84,88,150,94,23,2,31,270,5,2,58,3,62,11,7,1,2,21023844
+1984,Regular Season,Hanshin Tigers,1,"Hirota, Sumio",CF,110,409,361,0.313,0.367,0.443,0.810,45,34,113,84,18,4,7,160,6,2,30,0,23,6,1,14,2,21023845
+1984,Regular Season,Hiroshima Toyo Carp,57,"Mori, Kozo",P,14,3,3,0.667,0.667,1.667,2.334,2,2,2,1,0,0,1,5,0,0,0,0,0,0,0,0,0,21023865
+1984,Regular Season,Seibu Lions,14,"Noguchi, Hiromi",LF,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21023867
+1984,Regular Season,Chunichi Dragons,51,"Hamada, Kazuo",P,7,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21023869
+1984,Regular Season,Kintetsu Buffaloes,31,"Ohara, Tetsuya",SS,40,96,82,0.232,0.284,0.427,0.711,13,11,19,11,4,0,4,35,0,2,6,0,11,1,0,7,1,21123848
+1984,Regular Season,Nankai Hawks,56,"Ogawa, Hiroshi",SS,51,53,45,0.244,0.292,0.289,0.581,8,4,11,9,2,0,0,13,3,0,3,0,4,1,0,5,0,21123861
+1984,Japan Series,Hankyu Braves,50,"Iwamoto, Yoshihiro",PR,3,,0,0.000,,0.000,,,0,0,0,0,0,0,0,1,,0,,0,,,,,21123865
+1984,Regular Season,Hankyu Braves,50,"Iwamoto, Yoshihiro",PR,48,23,21,0.143,0.182,0.286,0.468,13,3,3,2,0,0,1,6,6,1,0,0,2,0,1,0,1,21123865
+1984,Regular Season,Seibu Lions,32,"Ishii, Takeshi",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21123867
+1984,Japan Series,Hiroshima Toyo Carp,31,"Ito, Toshifumi",PH,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,21123869
+1984,Regular Season,Hiroshima Toyo Carp,31,"Ito, Toshifumi",PH,34,42,39,0.256,0.310,0.564,0.874,6,11,10,4,3,0,3,22,0,0,3,0,6,0,0,0,0,21123869
+1984,Regular Season,Yokohama Taiyo Whales,5,"Motoi, Mitsuo",PH,46,95,87,0.345,0.387,0.448,0.835,5,18,30,25,3,0,2,39,0,0,6,1,7,3,0,1,1,21223824
+1984,Regular Season,Hiroshima Toyo Carp,23,"Moriwaki, Hiroshi",2B,20,11,11,0.273,0.273,0.273,0.546,6,1,3,3,0,0,0,3,2,0,0,0,4,0,0,0,0,21223863
+1984,Regular Season,Hanshin Tigers,36,"Watanabe, Chosuke",C,42,32,29,0.138,0.167,0.172,0.339,1,1,4,3,1,0,0,5,0,0,1,0,5,2,0,2,0,21223865
+1984,Japan Series,Hankyu Braves,44,"Wells, Boomer",1B,7,,28,0.214,,0.250,,,3,6,5,1,0,0,7,0,,1,,4,,,,,21223867
+1984,Regular Season,Hankyu Braves,44,"Wells, Boomer",1B,128,549,482,0.355,0.426,0.641,1.067,82,130,171,109,23,2,37,309,2,3,55,12,33,19,5,0,7,21223867
+1984,Regular Season,Yomiuri Giants,31,"Mizuno, Katsuhito",P,8,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21223869
+1984,Japan Series,Hiroshima Toyo Carp,29,"Kobayashi, Seiji",P,4,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,21323842
+1984,Regular Season,Hiroshima Toyo Carp,29,"Kobayashi, Seiji",P,55,30,28,0.107,0.138,0.107,0.245,1,1,3,3,0,0,0,3,0,0,1,0,10,0,0,1,0,21323842
+1984,Regular Season,Lotte Orions,9,"Saito, Ko",PH,62,77,71,0.197,0.240,0.394,0.634,5,15,14,6,5,0,3,28,0,0,4,0,15,2,0,1,1,21323844
+1984,Regular Season,Kintetsu Buffaloes,16,"Kubo, Yasuo",P,43,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323846
+1984,Regular Season,Hankyu Braves,57,"Kanamoto, Seikichi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323861
+1984,Regular Season,Yakult Swallows,24,"Okawa, Akira",P,65,25,18,0.222,0.333,0.222,0.555,1,1,4,4,0,0,0,4,0,0,3,0,6,0,0,4,0,21323863
+1984,Regular Season,Yomiuri Giants,60,"Kawai, Masahiro",SS,18,11,9,0.111,0.273,0.111,0.384,4,0,1,1,0,0,0,1,0,0,2,0,2,0,0,0,0,21323869
+1984,Regular Season,Hanshin Tigers,8,"Yoshitake, Haruki",RF,119,340,304,0.260,0.320,0.368,0.688,44,27,79,60,11,2,6,112,16,4,24,1,51,9,3,5,4,21423863
+1984,Regular Season,Nankai Hawks,36,"Yamakawa, Shuichi",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21423867
+1984,Regular Season,Lotte Orions,28,"Tamura, Isao",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21523842
+1984,Regular Season,Chunichi Dragons,45,"Kurioka, Hidetomo",CF,20,24,24,0.375,0.375,0.542,0.917,4,8,9,5,4,0,0,13,4,1,0,0,8,1,0,0,0,21523861
+1984,Regular Season,Yakult Swallows,59,"Genoka, Masamitsu",CF,81,189,164,0.293,0.348,0.415,0.763,23,15,48,36,8,0,4,68,6,1,10,4,23,1,4,11,0,21523863
+1984,Regular Season,Chunichi Dragons,32,"Kuwata, Shigeru",P,14,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,21523867
+1984,Regular Season,Hankyu Braves,22,"Kobayashi, Atsumi",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21523869
+1984,Regular Season,Yokohama Taiyo Whales,8,"Tsuji, Yasuhiko",C,6,10,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,21723827
+1984,Regular Season,Kintetsu Buffaloes,23,"Hayashi, Masahiro",PH,2,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,21723842
+1984,Regular Season,Lotte Orions,20,"Nishina, Tokinari",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723844
+1984,Regular Season,Yakult Swallows,9,"Sugiura, Toru",CF,109,420,352,0.281,0.386,0.398,0.784,46,49,99,74,17,0,8,140,4,4,59,7,25,3,1,7,1,21723845
+1984,Regular Season,Kintetsu Buffaloes,20,"Nakane, Masahiro",RF,78,196,175,0.274,0.352,0.514,0.866,18,39,48,28,9,0,11,90,0,2,21,1,50,3,0,0,0,21723847
+1984,Regular Season,Lotte Orions,35,"Shoji, Tomohisa",LF,113,441,391,0.256,0.323,0.373,0.696,66,42,100,77,11,1,11,146,9,9,34,0,50,3,5,10,1,21723849
+1984,Regular Season,Chunichi Dragons,22,"Sota, Yasuji",P,5,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723863
+1984,Regular Season,Seibu Lions,64,"Takahashi, Toshiharu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723865
+1984,Regular Season,Hiroshima Toyo Carp,18,"Shiratake, Yoshihisa",P,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723867
+1984,Regular Season,Yokohama Taiyo Whales,47,"Takeshita, Koji",P,8,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723869
+1984,Regular Season,Lotte Orions,7,"Mizukami, Yoshio",SS,100,338,291,0.254,0.342,0.402,0.744,38,33,74,51,13,0,10,117,13,4,36,2,58,6,3,2,6,21923842
+1984,Regular Season,Chunichi Dragons,28,"Miyako, Yujiro",P,36,72,62,0.210,0.234,0.242,0.476,2,5,13,12,0,1,0,15,0,0,2,0,9,0,0,8,0,21923848
+1984,Japan Series,Hiroshima Toyo Carp,0,"Nagashima, Kiyoyuki",CF,7,,27,0.333,,0.704,,,10,9,5,1,0,3,19,0,,3,,5,,,,,21923861
+1984,Regular Season,Hiroshima Toyo Carp,0,"Nagashima, Kiyoyuki",CF,125,388,341,0.276,0.341,0.478,0.819,48,43,94,53,26,2,13,163,11,10,33,3,76,3,1,13,0,21923861
+1984,Regular Season,Hanshin Tigers,28,"Nakada, Yoshihiro",P,30,5,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,21923863
+1984,Japan Series,Hankyu Braves,40,"Fukuhara, Mineo",2B,7,,26,0.192,,0.462,,,7,5,2,1,0,2,12,1,,2,,2,,,,,21923865
+1984,Regular Season,Hankyu Braves,40,"Fukuhara, Mineo",2B,120,263,220,0.268,0.343,0.382,0.725,31,22,59,46,7,0,6,84,2,3,24,0,48,5,1,15,3,21923865
+1984,Regular Season,Hanshin Tigers,62,"Tomari, Katsunori",PR,9,3,3,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21923869
+1984,Regular Season,Hanshin Tigers,6,"Fujita, Taira",PH,61,46,41,0.171,0.244,0.268,0.512,4,6,7,5,1,0,1,11,0,0,4,1,4,1,0,1,0,31033822
+1984,Regular Season,Lotte Orions,21,"Nishii, Tetsuo",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31033841
+1984,Regular Season,Lotte Orions,44,"Yamamoto, Koji",1B,125,487,429,0.301,0.367,0.445,0.812,49,66,129,89,28,2,10,191,4,1,42,1,45,8,3,6,7,31033842
+1984,Regular Season,Nankai Hawks,22,"Moriguchi, Masumitsu",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31033844
+1984,Japan Series,Hiroshima Toyo Carp,1,"Yamasaki, Ryuzo",RF,7,,25,0.240,,0.280,,,4,6,5,1,0,0,7,0,,1,,2,,,,,31033846
+1984,Regular Season,Hiroshima Toyo Carp,1,"Yamasaki, Ryuzo",RF,130,576,495,0.319,0.393,0.422,0.815,79,43,158,122,27,3,6,209,39,9,57,2,59,3,3,20,1,31033846
+1984,Regular Season,Yakult Swallows,58,"Ramoto, Shinji",PR,49,13,12,0.083,0.154,0.083,0.237,9,0,1,1,0,0,0,1,3,4,1,0,3,0,0,0,0,31033848
+1984,Regular Season,Hankyu Braves,32,"Minamimure, Toyozo",LF,30,17,16,0.250,0.250,0.313,0.563,5,5,4,3,1,0,0,5,3,0,0,0,2,0,0,1,0,31033865
+1984,Japan Series,Hankyu Braves,23,"Nagamura, Hiroyuki",PH,4,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,3,,,,,31033869
+1984,Regular Season,Hankyu Braves,23,"Nagamura, Hiroyuki",PH,31,41,35,0.257,0.350,0.286,0.636,1,1,9,8,1,0,0,10,0,0,5,0,6,0,0,1,0,31033869
+1984,Regular Season,Yakult Swallows,50,"Aoki, Minoru",PR,26,12,8,0.000,0.200,0.000,0.200,4,0,0,0,0,0,0,0,2,4,2,0,2,0,0,2,0,31133842
+1984,Regular Season,Chunichi Dragons,7,"Uno, Masaru",SS,130,531,458,0.253,0.341,0.513,0.854,74,87,116,71,8,0,37,235,13,7,59,7,117,14,2,7,5,31133844
+1984,Regular Season,Lotte Orions,1,"Aiko, Takeshi",1B,2,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31133863
+1984,Regular Season,Hiroshima Toyo Carp,4,"Ireland, Tim",2B,108,292,264,0.254,0.311,0.364,0.675,31,23,67,50,11,0,6,96,4,7,19,1,20,3,3,6,0,31133867
+1984,Regular Season,Seibu Lions,36,"Abe, Osamu",PH,17,32,28,0.107,0.194,0.107,0.301,2,0,3,3,0,0,0,3,0,0,3,0,4,1,0,1,0,31133869
+1984,Regular Season,Hanshin Tigers,21,"Yamauchi, Shinichi",P,28,38,35,0.114,0.114,0.229,0.343,2,1,4,2,1,0,1,8,0,0,0,0,13,0,0,3,0,31233828
+1984,Regular Season,Kintetsu Buffaloes,18,"Yamamura, Tatsuya",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233861
+1984,Regular Season,Yokohama Taiyo Whales,35,"Maedomari, Tetsuaki",P,12,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233863
+1984,Regular Season,Nankai Hawks,45,"Yamada, Tsutomu",PR,83,52,45,0.156,0.240,0.222,0.462,21,3,7,6,0,0,1,10,8,4,4,0,7,1,1,2,0,31233865
+1984,Regular Season,Hanshin Tigers,35,"Hattori, Koichi",1B,3,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,31233867
+1984,Regular Season,Nankai Hawks,55,"Fujimura, Masato",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233869
+1984,Regular Season,Nippon-Ham Fighters,14,"Kawahara, Shoji",P,42,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333842
+1984,Regular Season,Nankai Hawks,7,"Kubodera, Yuji",SS,112,376,353,0.272,0.302,0.411,0.713,46,49,96,68,16,3,9,145,7,4,14,2,39,11,1,6,2,31333844
+1984,Regular Season,Yomiuri Giants,21,"Kato, Hajime",P,25,58,50,0.040,0.127,0.040,0.167,4,2,2,2,0,0,0,2,0,0,5,0,18,0,0,3,0,31333845
+1984,Regular Season,Yakult Swallows,32,"Obana, Takao",P,46,61,53,0.132,0.179,0.132,0.311,3,4,7,7,0,0,0,7,0,0,3,0,22,0,0,5,0,31333846
+1984,Regular Season,Hanshin Tigers,16,"Okada, Akinobu",RF,115,366,323,0.297,0.368,0.492,0.860,38,51,96,65,14,2,15,159,3,1,33,4,41,13,3,0,7,31333861
+1984,Regular Season,Yokohama Taiyo Whales,33,"Ichikawa, Kazumasa",PH,23,31,30,0.167,0.194,0.200,0.394,4,1,5,4,1,0,0,6,0,0,1,0,9,0,0,0,0,31333863
+1984,Regular Season,Chunichi Dragons,14,"Onoe, Akira",2B,57,50,43,0.186,0.239,0.256,0.495,12,10,8,7,0,0,1,11,2,0,2,0,9,0,1,2,2,31333865
+1984,Regular Season,Hiroshima Toyo Carp,45,"Oikawa, Mikio",PH,4,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,31333867
+1984,Regular Season,Kintetsu Buffaloes,26,"Ono, Kazuyoshi",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333869
+1984,Regular Season,Seibu Lions,2,"Yamazaki, Hiroyuki",2B,92,297,267,0.228,0.287,0.337,0.624,30,19,61,40,17,0,4,90,3,0,22,1,30,7,0,6,2,31433820
+1984,Regular Season,Yomiuri Giants,54,"Makihara, Hiromi",P,27,54,47,0.106,0.143,0.128,0.271,3,3,5,4,1,0,0,6,0,0,1,0,22,1,1,5,0,31433867
+1984,Regular Season,Hiroshima Toyo Carp,44,"Rajsich, Dave",P,23,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31433869
+1984,Regular Season,Seibu Lions,35,"Nemoto, Takashi",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31533840
+1984,Regular Season,Nippon-Ham Fighters,8,"Shimada, Makoto",CF,128,572,490,0.271,0.366,0.369,0.735,73,42,133,102,21,3,7,181,31,16,69,2,51,5,4,8,1,31533844
+1984,Regular Season,Chunichi Dragons,20,"Komatsu, Tatsuo",P,29,67,59,0.169,0.222,0.322,0.544,4,6,10,6,1,1,2,19,0,0,3,0,18,0,1,4,0,31533846
+1984,Regular Season,Nippon-Ham Fighters,26,"Kimura, Hiroshi",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31533861
+1984,Regular Season,Yakult Swallows,30,"Kiminami, Takayoshi",PH,10,10,9,0.000,0.100,0.000,0.100,0,0,0,0,0,0,0,0,0,1,1,0,3,0,0,0,0,31533865
+1984,Regular Season,Yomiuri Giants,49,"Cromartie, Warren",LF,122,488,457,0.280,0.323,0.565,0.888,68,93,128,69,23,1,35,258,4,4,25,8,68,11,4,0,2,31533869
+1984,Regular Season,Chunichi Dragons,41,"Yazawa, Kenichi",1B,130,572,505,0.329,0.405,0.574,0.979,84,99,166,111,20,1,34,290,3,4,63,7,67,15,2,1,1,31633841
+1984,Regular Season,Hankyu Braves,48,"Wakukawa, Tsutomu",PR,42,4,4,0.250,0.250,0.250,0.500,6,1,1,1,0,0,0,1,6,3,0,0,2,0,0,0,0,31633867
+1984,Regular Season,Kintetsu Buffaloes,1,"Suzuki, Keishi",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733822
+1984,Regular Season,Kintetsu Buffaloes,11,"Tani, Hiroaki",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733842
+1984,Regular Season,Yakult Swallows,33,"Torihara, Koji",P,17,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,31733846
+1984,Regular Season,Seibu Lions,29,"Komazaki, Yukiichi",LF,60,127,117,0.282,0.333,0.427,0.760,14,12,33,23,6,1,3,50,2,1,6,0,18,3,3,0,1,31733863
+1984,Regular Season,Hiroshima Toyo Carp,5,"Sadaoka, Tetsuhisa",PH,18,18,16,0.125,0.176,0.188,0.364,2,0,2,1,1,0,0,3,2,1,1,0,4,0,0,1,0,31733867
+1984,Regular Season,Nippon-Ham Fighters,3,"Shirai, Kazuyuki",2B,93,152,130,0.208,0.254,0.262,0.516,18,9,27,22,4,0,1,34,5,1,7,0,13,4,1,14,0,31733869
+1984,Regular Season,Nippon-Ham Fighters,5,"Furuya, Hideo",3B,130,508,468,0.248,0.295,0.391,0.686,49,52,116,77,24,2,13,183,12,3,29,2,33,8,2,8,1,31933846
+1984,Regular Season,Kintetsu Buffaloes,3,"Hada, Koichi",3B,115,444,393,0.272,0.347,0.433,0.780,55,50,107,77,13,1,16,170,8,4,42,0,42,7,3,4,2,31933847
+1984,Regular Season,Nankai Hawks,16,"Takeguchi, Akinori",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31933861
+1984,Regular Season,Kintetsu Buffaloes,14,"Tanizaki, Koji",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31933863
+1984,Regular Season,Seibu Lions,5,"Tsuji, Hatsuhiko",3B,41,108,91,0.209,0.294,0.363,0.657,13,10,19,11,5,0,3,33,2,1,9,0,13,3,2,6,0,31933869
+1984,Regular Season,Lotte Orions,29,"Murata, Choji",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043826
+1984,Regular Season,Lotte Orions,11,"Mizutani, Norihiro",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043828
+1984,Regular Season,Yokohama Taiyo Whales,1,"Yamashita, Daisuke",SS,116,468,413,0.247,0.307,0.305,0.612,38,33,102,90,6,0,6,126,4,3,36,1,36,9,0,14,5,41043849
+1984,Regular Season,Chunichi Dragons,3,"Hirano, Ken",CF,108,442,381,0.291,0.332,0.349,0.681,54,31,111,96,11,1,3,133,30,5,21,0,37,8,2,36,2,41043863
+1984,Regular Season,Nankai Hawks,24,"Yano, Minoru",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043865
+1984,Regular Season,Hankyu Braves,6,"Wills, Bump",2B,78,247,207,0.232,0.346,0.338,0.684,24,24,48,35,8,1,4,70,2,1,31,1,40,5,5,2,2,41043867
+1984,Regular Season,Seibu Lions,67,"Hamamoto, Ryuji",C,6,4,3,0.000,0.250,0.000,0.250,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,41043869
+1984,Regular Season,Nankai Hawks,8,"Kono, Takayuki",CF,130,603,551,0.296,0.345,0.439,0.784,80,76,163,114,33,2,14,242,17,9,36,1,34,8,5,4,7,41143840
+1984,Regular Season,Hanshin Tigers,33,"Ikeuchi, Yutaka",P,33,4,3,0.333,0.333,0.667,1.000,0,0,1,0,1,0,0,2,0,0,0,0,1,0,0,1,0,41143843
+1984,Regular Season,Hanshin Tigers,27,"Kasama, Yuji",C,37,65,57,0.246,0.338,0.333,0.671,2,3,14,11,2,0,1,19,0,0,8,1,11,2,0,0,0,41143844
+1984,Regular Season,Seibu Lions,9,"Oishi, Tomoyoshi",C,13,16,13,0.077,0.250,0.077,0.327,1,1,1,1,0,0,0,1,0,0,3,0,3,0,0,0,0,41143861
+1984,Regular Season,Seibu Lions,7,"Ishige, Hiromichi",SS,124,523,452,0.259,0.341,0.498,0.839,91,71,117,62,28,1,26,225,26,10,53,0,82,4,3,11,4,41143863
+1984,Regular Season,Lotte Orions,18,"Ishikawa, Masaru",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41143867
+1984,Regular Season,Hankyu Braves,2,"Iizuka, Tomiji",SS,3,10,9,0.222,0.300,0.556,0.856,1,1,2,1,0,0,1,5,0,0,1,0,1,0,0,0,0,41143869
+1984,Regular Season,Hiroshima Toyo Carp,16,"Furusawa, Kenji",P,31,8,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,1,0,41243829
+1984,Regular Season,Nippon-Ham Fighters,19,"Mashiba, Shigekuni",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243841
+1984,Japan Series,Hankyu Braves,25,"Fujita, Hiromasa",C,7,,24,0.292,,0.417,,,0,7,5,1,1,0,10,0,,3,,6,,,,,41243867
+1984,Regular Season,Hankyu Braves,25,"Fujita, Hiromasa",C,98,326,289,0.287,0.346,0.557,0.903,45,69,83,49,12,0,22,161,3,1,25,1,45,6,1,8,3,41243867
+1984,Japan Series,Hankyu Braves,47,"Murakami, Shinichi",2B,2,,2,0.500,,1.000,,,1,1,0,1,0,0,2,0,,0,,0,,,,,41243869
+1984,Regular Season,Hankyu Braves,47,"Murakami, Shinichi",2B,22,43,39,0.256,0.310,0.564,0.874,6,8,10,6,0,0,4,22,1,0,3,0,8,1,0,1,0,41243869
+1984,Regular Season,Seibu Lions,18,"Enatsu, Yutaka",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343824
+1984,Regular Season,Lotte Orions,27,"Tsuchiya, Masakatsu",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343840
+1984,Regular Season,Yakult Swallows,27,"Oya, Akihiko",C,50,89,77,0.299,0.365,0.416,0.781,10,9,23,19,1,1,2,32,1,0,7,0,6,1,1,4,0,41343841
+1984,Regular Season,Yokohama Taiyo Whales,25,"Koga, Masaaki",P,27,10,9,0.222,0.222,0.222,0.444,1,0,2,2,0,0,0,2,1,0,0,0,4,1,0,1,0,41343842
+1984,Regular Season,Yakult Swallows,23,"Sakai, Keiichi",P,44,7,7,0.143,0.143,0.143,0.286,0,1,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,41343844
+1984,Regular Season,Nankai Hawks,21,"Kaneshiro, Motoyasu",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343845
+1984,Regular Season,Hanshin Tigers,26,"Kudo, Kazuhiko",P,25,39,33,0.121,0.171,0.152,0.323,6,1,4,3,1,0,0,5,0,0,2,0,13,0,0,4,0,41343846
+1984,Regular Season,Nippon-Ham Fighters,6,"Kashiwabara, Junichi",1B,130,526,454,0.227,0.328,0.383,0.711,67,68,103,69,15,1,18,174,13,4,68,3,57,16,0,0,3,41343847
+1984,Regular Season,Nankai Hawks,13,"Kanei, Yuji",2B,2,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,41343861
+1984,Regular Season,Seibu Lions,28,"Okamura, Takanori",CF,45,88,69,0.188,0.309,0.232,0.541,5,5,13,10,3,0,0,16,2,2,10,0,9,0,2,7,0,41343863
+1984,Regular Season,Kintetsu Buffaloes,28,"Kanemura, Yoshiaki",3B,54,115,94,0.170,0.271,0.266,0.537,11,10,16,11,3,0,2,25,2,0,11,0,23,3,2,6,2,41343865
+1984,Japan Series,Hiroshima Toyo Carp,13,"Kawabata, Jun",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41343869
+1984,Regular Season,Hiroshima Toyo Carp,13,"Kawabata, Jun",P,17,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41343869
+1984,Regular Season,Yakult Swallows,3,"Marcano, Bobby",2B,123,502,466,0.300,0.345,0.444,0.789,57,77,140,105,18,2,15,207,4,2,28,4,69,13,4,1,3,41543840
+1984,Regular Season,Seibu Lions,34,"Tachibana, Yoshiie",LF,95,263,239,0.226,0.280,0.343,0.623,35,12,54,34,15,2,3,82,1,0,17,1,34,2,1,6,0,41543846
+1984,Regular Season,Chunichi Dragons,29,"Suzuki, Takamasa",P,28,63,59,0.102,0.131,0.136,0.267,4,4,6,4,2,0,0,8,0,0,2,0,21,1,0,2,0,41543847
+1984,Regular Season,Kintetsu Buffaloes,2,"Kurihashi, Shigeru",LF,118,487,427,0.281,0.363,0.450,0.813,61,55,120,77,28,1,14,192,9,4,53,3,66,12,2,0,5,41543849
+1984,Regular Season,Kintetsu Buffaloes,45,"Koyama, Masao",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543867
+1984,Regular Season,Yakult Swallows,60,"Goseki, Masahiko",PH,7,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,41543869
+1984,Regular Season,Hanshin Tigers,37,"Nagao, Yasunori",PH,22,22,19,0.158,0.238,0.211,0.449,0,2,3,2,1,0,0,4,0,0,2,0,2,1,0,0,1,41743847
+1984,Regular Season,Hanshin Tigers,12,"Fukuma, Osamu",P,78,21,15,0.333,0.412,0.400,0.812,2,0,5,4,1,0,0,6,0,0,2,0,2,0,0,4,0,41743848
+1984,Regular Season,Nippon-Ham Fighters,22,"Tamura, Fujio",C,77,215,191,0.272,0.341,0.429,0.770,24,26,52,35,10,1,6,82,0,1,17,0,18,6,3,3,1,41743863
+1984,Regular Season,Hiroshima Toyo Carp,15,"Tsuda, Tsunemi",P,18,18,15,0.267,0.267,0.733,1.000,2,6,4,1,1,0,2,11,0,0,0,0,6,2,0,3,0,41743865
+1984,Japan Series,Hankyu Braves,10,"Tani, Ryoji",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41743869
+1984,Regular Season,Hankyu Braves,10,"Tani, Ryoji",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743869
+1984,Japan Series,Hankyu Braves,1,"Minoda, Koji",RF,7,,22,0.227,,0.364,,,4,5,4,0,0,1,8,1,,5,,5,,,,,41943842
+1984,Regular Season,Hankyu Braves,1,"Minoda, Koji",RF,119,519,436,0.280,0.382,0.502,0.884,74,88,122,80,13,3,26,219,5,2,70,1,56,10,2,5,6,41943842
+1984,Japan Series,Hankyu Braves,13,"Tanimura, Tomohiro",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41943843
+1984,Regular Season,Hankyu Braves,13,"Tanimura, Tomohiro",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943843
+1984,Regular Season,Seibu Lions,31,"Nagai, Tamotsu",P,48,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943845
+1984,Regular Season,Seibu Lions,11,"Mori, Shigekazu",P,39,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943848
+1984,Regular Season,Chunichi Dragons,40,"Fujinami, Yukio",PH,83,133,124,0.282,0.305,0.347,0.652,15,17,35,30,3,1,1,43,2,2,3,0,16,1,1,5,0,41943849
+1984,Regular Season,Hanshin Tigers,29,"Fukuya, Masaaki",P,30,7,5,0.000,0.167,0.000,0.167,0,1,0,0,0,0,0,0,0,0,1,0,4,0,0,1,0,41943865
+1984,Regular Season,Yokohama Taiyo Whales,20,"Tracy, Jim",RF,3,11,9,0.222,0.364,0.556,0.920,1,2,2,1,0,0,1,5,0,0,2,0,1,1,0,0,0,41943867
+1984,Regular Season,Nankai Hawks,4,"Nyman, Chris",1B,125,504,427,0.267,0.370,0.534,0.904,75,82,114,61,21,3,29,228,15,9,62,1,84,11,8,0,7,41943869
+1984,Regular Season,Seibu Lions,8,"Yukizawa, Hisataka",2B,105,277,241,0.270,0.313,0.465,0.778,38,30,65,39,14,3,9,112,5,2,15,0,28,5,0,18,3,51053842
+1984,Japan Series,Hiroshima Toyo Carp,17,"Yamane, Kazuo",P,3,,7,0.286,,0.286,,,0,2,2,0,0,0,2,0,,0,,1,,,,,51053844
+1984,Regular Season,Hiroshima Toyo Carp,17,"Yamane, Kazuo",P,34,83,71,0.155,0.231,0.183,0.414,4,5,11,9,2,0,0,13,0,0,7,0,25,2,0,5,0,51053844
+1984,Japan Series,Hiroshima Toyo Carp,27,"Hara, Shinji",PH,3,,4,0.250,,0.250,,,0,1,1,0,0,0,1,0,,1,,1,,,,,51053863
+1984,Regular Season,Hiroshima Toyo Carp,27,"Hara, Shinji",PH,10,17,15,0.267,0.353,0.400,0.753,2,1,4,2,2,0,0,6,0,0,2,0,2,1,0,0,0,51053863
+1984,Regular Season,Yakult Swallows,14,"Miyamoto, Kenji",P,33,27,24,0.125,0.160,0.167,0.327,2,2,3,2,1,0,0,4,0,0,1,0,8,1,0,2,0,51053865
+1984,Regular Season,Yakult Swallows,20,"Nakamoto, Shigeki",P,38,9,7,0.143,0.143,0.143,0.286,0,1,1,1,0,0,0,1,0,0,0,0,5,0,0,2,0,51053867
+1984,Regular Season,Seibu Lions,33,"Narita, Yukihiro",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053869
+1984,Regular Season,Nankai Hawks,6,"Arai, Hiromasa",LF,127,479,412,0.286,0.352,0.381,0.733,55,39,118,88,25,1,4,157,14,5,40,0,19,6,2,20,5,51153840
+1984,Regular Season,Chunichi Dragons,39,"Aoyama, Hisato",P,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51153842
+1984,Regular Season,Yakult Swallows,29,"Ashizawa, Masaru",PH,37,41,38,0.158,0.220,0.211,0.431,2,2,6,4,2,0,0,8,0,0,1,0,7,1,2,0,0,51153846
+1984,Regular Season,Nankai Hawks,27,"Iwaki, Satoshi",C,57,65,52,0.173,0.283,0.212,0.495,3,5,9,7,2,0,0,11,1,1,7,0,6,2,1,5,0,51153848
+1984,Regular Season,Nippon-Ham Fighters,4,"Igarashi, Shinichi",2B,70,170,144,0.236,0.281,0.431,0.712,23,16,34,19,8,1,6,62,2,2,8,0,27,6,1,17,0,51153861
+1984,Regular Season,Seibu Lions,24,"Akiyama, Koji",CF,54,154,140,0.236,0.301,0.386,0.687,16,14,33,22,5,2,4,54,6,1,10,0,32,4,3,1,0,51153863
+1984,Japan Series,Hankyu Braves,37,"Ariga, Yoshihiro",RF,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,51153865
+1984,Regular Season,Hankyu Braves,37,"Ariga, Yoshihiro",RF,52,62,50,0.120,0.254,0.120,0.374,6,3,6,6,0,0,0,6,0,1,8,0,15,1,1,3,0,51153865
+1984,Regular Season,Hiroshima Toyo Carp,54,"Abe, Keiji",PH,9,6,5,0.200,0.333,0.800,1.133,1,1,1,0,0,0,1,4,0,0,1,0,2,0,0,0,0,51153869
+1984,Japan Series,Hankyu Braves,17,"Yamada, Hisashi",P,3,,9,0.111,,0.111,,,0,1,1,0,0,0,1,0,,0,,3,,,,,51253828
+1984,Regular Season,Hankyu Braves,17,"Yamada, Hisashi",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253828
+1984,Regular Season,Yokohama Taiyo Whales,9,"Wakana, Yoshiharu",C,99,306,292,0.271,0.295,0.373,0.668,26,25,79,65,6,0,8,109,2,2,9,1,45,13,1,2,2,51253849
+1984,Regular Season,Nankai Hawks,29,"Yamamoto, Kazunori",RF,115,363,317,0.306,0.385,0.521,0.906,59,58,97,64,14,3,16,165,15,4,31,2,33,3,10,3,2,51253861
+1984,Japan Series,Hankyu Braves,8,"Matsunaga, Hiromi",3B,7,,26,0.423,,0.577,,,3,11,9,1,0,1,15,1,,3,,2,,,,,51253863
+1984,Regular Season,Hankyu Braves,8,"Matsunaga, Hiromi",3B,125,525,458,0.310,0.390,0.513,0.903,84,70,142,93,24,6,19,235,21,5,55,3,57,10,5,4,3,51253863
+1984,Regular Season,Yomiuri Giants,55,"Yoshimura, Sadaaki",RF,115,298,260,0.342,0.416,0.615,1.031,56,34,89,47,26,3,13,160,8,8,29,1,30,0,4,4,1,51253865
+1984,Regular Season,Nankai Hawks,50,"Fujimoto, Shuji",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253869
+1984,Regular Season,Kintetsu Buffaloes,7,"Ogawa, Toru",1B,83,179,158,0.234,0.316,0.361,0.677,22,23,37,29,2,0,6,57,0,0,17,1,10,2,2,2,0,51353826
+1984,Japan Series,Hankyu Braves,21,"Imai, Yutaro",P,3,,5,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,51353843
+1984,Regular Season,Hankyu Braves,21,"Imai, Yutaro",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353843
+1984,Regular Season,Yakult Swallows,51,"Kugitani, Hajime",PH,63,51,44,0.250,0.340,0.273,0.613,6,4,11,10,1,0,0,12,1,0,5,0,11,4,1,0,1,51353844
+1984,Regular Season,Yokohama Taiyo Whales,44,"Kato, Hirokazu",RF,109,343,304,0.276,0.323,0.345,0.668,39,25,84,68,13,1,2,105,14,4,21,0,42,3,0,17,1,51353845
+1984,Japan Series,Hiroshima Toyo Carp,9,"Osanai, Takashi",1B,6,,15,0.267,,0.267,,,1,4,4,0,0,0,4,1,,2,,3,,,,,51353861
+1984,Regular Season,Hiroshima Toyo Carp,9,"Osanai, Takashi",1B,89,236,204,0.240,0.317,0.417,0.734,28,34,49,32,7,1,9,85,3,1,22,2,37,2,1,4,5,51353861
+1984,Regular Season,Nankai Hawks,49,"Otsu, Kazuhiro",RF,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353869
+1984,Japan Series,Hiroshima Toyo Carp,26,"Yamamoto, Kazuo",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51453863
+1984,Regular Season,Hiroshima Toyo Carp,26,"Yamamoto, Kazuo",P,46,8,8,0.125,0.125,0.125,0.250,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,51453863
+1984,Regular Season,Lotte Orions,2,"Maruyama, Kazuhito",PH,4,2,1,0.000,0.500,0.000,0.500,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,51453867
+1984,Regular Season,Seibu Lions,41,"Watanabe, Hisanobu",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51453869
+1984,Regular Season,Yakult Swallows,5,"Sumi, Fujio",3B,130,538,445,0.267,0.353,0.380,0.733,58,38,119,92,15,1,11,169,1,3,59,4,58,13,0,31,3,51553842
+1984,Regular Season,Nippon-Ham Fighters,13,"Shibata, Yasumitsu",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553848
+1984,Regular Season,Lotte Orions,46,"Kanai, Masayoshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553849
+1984,Japan Series,Hiroshima Toyo Carp,34,"Kawaguchi, Kazuhisa",P,2,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51553863
+1984,Regular Season,Hiroshima Toyo Carp,34,"Kawaguchi, Kazuhisa",P,25,43,36,0.139,0.162,0.222,0.384,3,5,5,4,0,0,1,8,0,0,1,0,16,0,0,5,1,51553863
+1984,Regular Season,Seibu Lions,47,"Kudo, Kimiyasu",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553865
+1984,Regular Season,Hanshin Tigers,22,"Kido, Katsuhiko",C,26,28,23,0.217,0.280,0.304,0.584,2,2,5,3,2,0,0,7,0,0,1,0,5,2,1,3,0,51553867
+1984,Regular Season,Chunichi Dragons,47,"Kurata, Kunifusa",P,27,6,5,0.400,0.400,0.600,1.000,1,0,2,1,1,0,0,3,0,0,0,0,0,0,0,1,0,51553869
+1984,Regular Season,Nippon-Ham Fighters,38,"Nakanishi, Hiroaki",C,3,1,1,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51753842
+1984,Regular Season,Nankai Hawks,54,"Nakao, Akio",SS,85,94,81,0.198,0.253,0.284,0.537,10,12,16,12,2,1,1,23,0,1,6,0,16,3,0,6,1,51753844
+1984,Regular Season,Nankai Hawks,10,"Nakade, Kenji",C,2,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,51753846
+1984,Regular Season,Yomiuri Giants,36,"Nakai, Yasuyuki",PH,9,11,9,0.111,0.200,0.111,0.311,0,0,1,1,0,0,0,1,0,0,0,0,0,1,1,1,0,51753848
+1984,Regular Season,Seibu Lions,10,"Ontiveros, Steve",1B,129,548,461,0.338,0.443,0.542,0.985,64,101,156,103,32,1,20,250,0,1,82,9,57,8,5,0,0,51753861
+1984,Regular Season,Nippon-Ham Fighters,48,"Sasaki, Masayuki",PH,32,52,46,0.239,0.300,0.413,0.713,8,7,11,7,2,0,2,19,1,1,3,0,4,0,1,2,0,51753863
+1984,Regular Season,Lotte Orions,10,"Shirley, Steve",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51753867
+1984,Regular Season,Yakult Swallows,2,"Smith, Chris",RF,52,152,140,0.214,0.276,0.329,0.605,9,15,30,24,1,0,5,46,0,2,11,0,17,2,1,0,0,51753869
+1984,Regular Season,Kintetsu Buffaloes,19,"Tachibana, Kenji",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953845
+1984,Regular Season,Hankyu Braves,33,"Matsumoto, Shoji",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953846
+1984,Regular Season,Seibu Lions,15,"Matsunuma, Hirohisa",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953848
+1984,Regular Season,Lotte Orions,55,"Takenochi, Toru",LF,1,3,2,0.500,0.667,0.500,1.167,0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,51953861
+1984,Regular Season,Nippon-Ham Fighters,11,"Tanaka, Tomio",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953867
+1984,Regular Season,Kintetsu Buffaloes,44,"Duran, Richard",RF,24,82,69,0.188,0.317,0.507,0.824,9,14,13,5,1,0,7,35,0,0,9,0,12,2,4,0,0,51953869
+1984,Japan Series,Hankyu Braves,4,"Mizutani, Jitsuo",DH,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,61063822
+1984,Regular Season,Hankyu Braves,4,"Mizutani, Jitsuo",DH,63,185,160,0.181,0.276,0.256,0.532,14,20,29,23,3,0,3,41,0,1,19,0,42,6,2,0,4,61063822
+1984,Regular Season,Yomiuri Giants,44,"Yamamoto, Masao",PH,52,72,68,0.309,0.347,0.529,0.876,6,8,21,14,3,0,4,36,0,0,4,1,14,1,0,0,0,61063849
+1984,Regular Season,Hanshin Tigers,39,"Yagi, Shigeru",PH,60,78,75,0.187,0.218,0.253,0.471,5,7,14,11,2,0,1,19,2,0,3,0,12,4,0,0,0,61063861
+1984,Regular Season,Seibu Lions,30,"Hirohashi, Koju",LF,76,200,169,0.296,0.377,0.408,0.785,36,17,50,37,10,0,3,69,5,2,21,0,18,2,1,6,3,61063863
+1984,Japan Series,Hankyu Braves,12,"Yamaoki, Yukihiko",P,4,,4,0.250,,0.250,,,0,1,1,0,0,0,1,0,,1,,3,,,,,61063865
+1984,Regular Season,Hankyu Braves,12,"Yamaoki, Yukihiko",P,48,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61063865
+1984,Regular Season,Hanshin Tigers,44,"Bass, Randy",1B,104,407,356,0.326,0.404,0.598,1.002,57,73,116,73,16,0,27,213,1,0,38,3,64,8,9,0,4,61063867
+1984,Regular Season,Chunichi Dragons,46,"Hiranuma, Sadaharu",P,4,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61063869
+1984,Regular Season,Lotte Orions,4,"Inoe, Yoichi",2B,63,131,115,0.252,0.333,0.383,0.716,15,16,29,22,3,0,4,44,2,0,13,0,14,3,1,1,1,61163824
+1984,Regular Season,Nippon-Ham Fighters,31,"Sakakibara, Yoshiyuki",2B,8,12,9,0.111,0.111,0.111,0.222,2,0,1,1,0,0,0,1,0,0,0,0,0,0,0,3,0,61163840
+1984,Regular Season,Yakult Swallows,19,"Kajima, Kenichi",P,35,65,54,0.148,0.220,0.148,0.368,5,1,8,8,0,0,0,8,0,0,5,0,23,0,0,6,0,61163844
+1984,Regular Season,Nankai Hawks,9,"Okamoto, Keisuke",PH,81,142,129,0.256,0.324,0.450,0.774,14,21,33,18,9,2,4,58,0,0,12,0,25,1,1,0,0,61163848
+1984,Regular Season,Yokohama Taiyo Whales,51,"Ishibashi, Mitsugu",2B,24,22,20,0.150,0.190,0.200,0.390,2,1,3,2,1,0,0,4,1,1,1,0,7,0,0,1,0,61163863
+1984,Regular Season,Yakult Swallows,35,"Ogawa, Junji",RF,115,303,278,0.252,0.297,0.424,0.721,34,35,70,46,11,2,11,118,0,2,17,4,49,3,1,4,3,61163865
+1984,Regular Season,Chunichi Dragons,37,"Ichimura, Norio",P,27,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61163867
+1984,Regular Season,Hanshin Tigers,18,"Ikeda, Chikafusa",P,31,51,46,0.065,0.122,0.152,0.274,3,4,3,1,1,0,1,7,0,0,3,0,18,1,0,1,1,61163869
+1984,Regular Season,Nankai Hawks,18,"Yamauchi, Kazuhiro",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61263863
+1984,Regular Season,Nippon-Ham Fighters,28,"Futamura, Tadami",RF,124,430,388,0.258,0.303,0.405,0.708,51,50,100,68,19,1,12,157,10,3,23,0,76,5,2,13,4,61263867
+1984,Regular Season,Kintetsu Buffaloes,46,"Murakami, Takayuki",SS,2,5,5,0.600,0.600,0.600,1.200,0,0,3,3,0,0,0,3,1,0,0,0,0,0,0,0,0,61263869
+1984,Regular Season,Kintetsu Buffaloes,5,"Kato, Hideji",DH,130,572,499,0.253,0.337,0.373,0.710,65,72,126,95,16,1,14,186,1,2,60,0,91,6,4,0,9,61363828
+1984,Regular Season,Yomiuri Giants,20,"Sadaoka, Shoji",P,33,40,38,0.132,0.154,0.184,0.338,1,1,5,4,0,1,0,7,0,0,1,0,8,1,0,1,0,61363844
+1984,Regular Season,Chunichi Dragons,44,"Kanayama, Takuji",C,82,174,150,0.207,0.274,0.307,0.581,14,10,31,24,3,0,4,46,0,1,13,3,31,5,1,10,0,61363847
+1984,Regular Season,Nippon-Ham Fighters,15,"Kudo, Mikio",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363848
+1984,Regular Season,Chunichi Dragons,59,"Kamikawa, Seiji",2B,126,442,404,0.309,0.359,0.450,0.809,47,39,125,87,26,5,7,182,17,5,27,13,16,4,4,5,2,61363865
+1984,Regular Season,Kintetsu Buffaloes,30,"Kato, Tetsuro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363867
+1984,Regular Season,Hanshin Tigers,46,"Kawahara, Shinji",P,7,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363869
+1984,Regular Season,Nankai Hawks,0,"Tateishi, Mitsuo",3B,74,221,199,0.286,0.340,0.482,0.822,26,22,57,34,14,2,7,96,1,1,14,0,20,7,2,6,0,61563846
+1984,Regular Season,Chunichi Dragons,8,"Tanokura, Toshio",2B,29,29,25,0.160,0.250,0.280,0.530,5,2,4,3,0,0,1,7,0,0,3,0,5,2,0,1,0,61563847
+1984,Regular Season,Nippon-Ham Fighters,2,"Takashiro, Nobuhiro",SS,33,122,107,0.262,0.319,0.439,0.758,12,18,28,19,4,0,5,47,0,0,8,0,12,2,1,5,1,61563848
+1984,Regular Season,Seibu Lions,72,"Suzuki, Takayuki",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563865
+1984,Regular Season,Yomiuri Giants,50,"Komada, Norihiro",PH,79,91,84,0.238,0.297,0.369,0.666,11,11,20,14,3,1,2,31,1,0,7,0,21,3,0,0,0,61563867
+1984,Regular Season,Kintetsu Buffaloes,51,"Sato, Junichi",RF,78,39,35,0.143,0.211,0.229,0.440,16,2,5,4,0,0,1,8,5,2,3,0,7,3,0,1,0,61563869
+1984,Regular Season,Nippon-Ham Fighters,21,"Takahashi, Satoshi",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61763826
+1984,Regular Season,Yokohama Taiyo Whales,7,"Nagasaki, Keiji",LF,84,289,250,0.244,0.327,0.368,0.695,38,29,61,41,14,1,5,92,4,1,30,1,21,6,1,4,4,61763847
+1984,Regular Season,Chunichi Dragons,19,"Fujisawa, Kimiya",P,26,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,3,1,0,0,0,61763848
+1984,Regular Season,Yokohama Taiyo Whales,39,"Takaura, Misao",C,8,15,14,0.214,0.267,0.429,0.696,1,1,3,2,0,0,1,6,0,0,1,0,3,0,0,0,0,61763861
+1984,Regular Season,Yokohama Taiyo Whales,3,"Takagi, Yutaka",2B,117,524,443,0.300,0.396,0.438,0.834,76,39,133,98,20,4,11,194,56,28,66,4,51,6,4,7,4,61763863
+1984,Regular Season,Yomiuri Giants,7,"Smith, Reggie",RF,84,263,231,0.255,0.344,0.511,0.855,35,50,59,34,8,0,17,118,1,0,28,2,66,4,3,0,1,61763867
+1984,Regular Season,Yokohama Taiyo Whales,22,"Choshi, Toshio",SS,56,108,104,0.144,0.168,0.192,0.360,8,3,15,12,2,0,1,20,1,0,3,0,17,1,0,1,0,61763869
+1984,Regular Season,Yomiuri Giants,2,"Matsumoto, Tadashi",CF,121,452,394,0.259,0.344,0.343,0.687,61,24,102,82,10,7,3,135,45,17,48,0,58,2,3,4,3,61963844
+1984,Regular Season,Hankyu Braves,19,"Nagamoto, Hiroaki",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963845
+1984,Regular Season,Yokohama Taiyo Whales,31,"Yashiki, Kaname",CF,124,444,397,0.305,0.368,0.421,0.789,40,29,121,88,24,5,4,167,11,4,40,8,90,7,0,5,2,61963846
+1984,Regular Season,Kintetsu Buffaloes,29,"Yamaguchi, Tetsuji",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963848
+1984,Regular Season,Seibu Lions,19,"Nishimoto, Kazuhito",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963863
+1984,Regular Season,Hanshin Tigers,19,"Nakanishi, Kiyoki",P,35,15,13,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,0,61963869
+1984,Regular Season,Yokohama Taiyo Whales,27,"Hiramatsu, Masaji",P,19,32,28,0.107,0.138,0.107,0.245,2,0,3,3,0,0,0,3,0,0,1,0,12,0,0,3,0,71073824
+1984,Regular Season,Chunichi Dragons,6,"Masaoka, Shinji",3B,50,3,3,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,71073826
+1984,Regular Season,Yokohama Taiyo Whales,4,"Yoshimoto, Hiroshi",LF,35,76,71,0.197,0.240,0.479,0.719,9,15,14,5,3,1,5,34,0,1,4,0,13,0,0,0,1,71073846
+1984,Regular Season,Yomiuri Giants,8,"Hara, Tatsunori",3B,130,543,468,0.278,0.372,0.496,0.868,72,81,130,83,19,1,27,232,7,3,67,3,58,8,3,1,4,71073863
+1984,Regular Season,Lotte Orions,22,"Muto, Kazukuni",RF,37,20,17,0.235,0.316,0.412,0.728,5,3,4,3,0,0,1,7,0,0,2,0,5,1,0,1,0,71073865
+1984,Regular Season,Yomiuri Giants,38,"Nimura, Kaoru",LF,26,14,12,0.083,0.154,0.333,0.487,5,2,1,0,0,0,1,4,0,0,1,0,5,0,0,0,1,71073869
+1984,Regular Season,Yomiuri Giants,17,"Asano, Keishi",P,18,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71173824
+1984,Regular Season,Nippon-Ham Fighters,10,"Inoe, Hiroaki",PH,42,86,77,0.221,0.277,0.299,0.576,4,10,17,13,3,0,1,23,1,0,4,0,8,2,2,2,1,71173826
+1984,Regular Season,Nankai Hawks,15,"Ikenoe, Toru",3B,94,221,184,0.255,0.322,0.348,0.670,25,14,47,38,5,0,4,64,3,1,10,0,20,2,8,19,0,71173842
+1984,Regular Season,Hanshin Tigers,20,"Ito, Fumitaka",P,35,55,48,0.208,0.240,0.271,0.511,4,3,10,8,1,1,0,13,0,1,2,0,25,1,0,5,0,71173846
+1984,Regular Season,Kintetsu Buffaloes,24,"Arita, Shuzo",C,72,252,222,0.207,0.293,0.428,0.721,29,43,46,25,7,0,14,95,1,1,26,1,45,11,1,3,0,71173847
+1984,Regular Season,Lotte Orions,37,"Umezawa, Yoshikatsu",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71173848
+1984,Regular Season,Yakult Swallows,37,"Iwashita, Masaaki",PH,106,226,194,0.237,0.318,0.361,0.679,28,24,46,31,9,3,3,70,4,1,16,0,26,0,7,6,3,71173861
+1984,Regular Season,Seibu Lions,27,"Ito, Tsutomu",C,113,408,345,0.284,0.373,0.420,0.793,44,44,98,72,15,1,10,145,20,16,38,0,46,4,11,12,2,71173865
+1984,Regular Season,Yakult Swallows,11,"Araki, Daisuke",P,24,8,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,71173867
+1984,Regular Season,Nankai Hawks,41,"Aoi, Kaname",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71173869
+1984,Japan Series,Hiroshima Toyo Carp,8,"Yamamoto, Koji",LF,7,,27,0.370,,0.556,,,4,10,7,2,0,1,15,0,,4,,4,,,,,71273828
+1984,Regular Season,Hiroshima Toyo Carp,8,"Yamamoto, Koji",LF,123,508,437,0.293,0.386,0.554,0.940,64,94,128,80,15,0,33,242,5,4,64,2,59,12,2,0,5,71273828
+1984,Regular Season,Chunichi Dragons,11,"Misawa, Jun",P,33,8,8,0.375,0.375,0.500,0.875,1,1,3,2,1,0,0,4,0,0,0,0,2,0,0,0,0,71273845
+1984,Japan Series,Hankyu Braves,36,"Yamamori, Masafumi",CF,5,,8,0.375,,0.375,,,2,3,3,0,0,0,3,0,,1,,0,,,,,71273861
+1984,Regular Season,Hankyu Braves,36,"Yamamori, Masafumi",CF,115,214,195,0.205,0.262,0.354,0.616,22,28,40,24,9,1,6,69,2,2,11,0,22,6,4,3,1,71273861
+1984,Regular Season,Seibu Lions,3,"White, Jerry",RF,130,527,469,0.243,0.315,0.456,0.771,70,68,114,70,15,2,27,214,12,7,44,4,75,9,5,3,6,71273869
+1984,Regular Season,Seibu Lions,25,"Ota, Takuji",DH,42,151,141,0.206,0.253,0.362,0.615,19,16,29,19,3,2,5,51,0,1,7,0,7,15,2,0,1,71373828
+1984,Regular Season,Nippon-Ham Fighters,1,"Sugano, Mitsuo",2B,61,44,37,0.162,0.205,0.189,0.394,6,0,6,5,1,0,0,7,0,0,2,0,0,1,0,5,0,71373840
+1984,Regular Season,Nippon-Ham Fighters,34,"Okabe, Noriaki",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373846
+1984,Regular Season,Yomiuri Giants,29,"Katori, Yoshitaka",P,48,17,16,0.125,0.125,0.188,0.313,0,1,2,1,1,0,0,3,0,0,0,0,4,1,0,1,0,71373848
+1984,Regular Season,Nankai Hawks,2,"Kagawa, Nobuyuki",C,82,221,200,0.215,0.263,0.300,0.563,18,20,43,36,2,0,5,60,0,3,10,0,32,8,3,6,2,71373861
+1984,Regular Season,Yokohama Taiyo Whales,16,"Kakehata, Mitsunori",P,29,35,25,0.080,0.281,0.200,0.481,5,3,2,1,0,0,1,5,0,0,6,0,9,1,1,3,0,71373865
+1984,Regular Season,Nankai Hawks,31,"Okubo, Manabu",RF,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373867
+1984,Regular Season,Nankai Hawks,17,"Kato, Shinichi",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373869
+1984,Regular Season,Yakult Swallows,7,"Watanabe, Susumu",1B,121,429,391,0.281,0.336,0.399,0.735,53,53,110,82,19,0,9,156,3,2,26,1,73,12,6,5,1,71473845
+1984,Regular Season,Nippon-Ham Fighters,25,"Yamamoto, Katsura",LF,5,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,71473863
+1984,Regular Season,Hanshin Tigers,56,"Mikoshiba, Susumu",P,2,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,71473867
+1984,Japan Series,Hiroshima Toyo Carp,3,"Kinugasa, Sachio",3B,7,,25,0.200,,0.600,,,3,5,1,1,0,3,15,1,,6,,9,,,,,71573820
+1984,Regular Season,Hiroshima Toyo Carp,3,"Kinugasa, Sachio",3B,130,542,490,0.329,0.378,0.573,0.951,79,102,161,104,25,1,31,281,11,1,34,2,83,13,5,6,7,71573820
+1984,Regular Season,Nankai Hawks,60,"Kadota, Hiromitsu",DH,108,444,362,0.285,0.410,0.564,0.974,60,78,103,62,11,0,30,204,3,1,75,20,75,1,2,0,5,71573841
+1984,Regular Season,Chunichi Dragons,2,"Tao, Yasushi",RF,130,603,536,0.310,0.373,0.483,0.856,94,49,166,119,21,6,20,259,3,5,54,5,50,8,0,10,3,71573842
+1984,Regular Season,Yakult Swallows,41,"Sugimura, Shigeru",PH,60,91,81,0.272,0.337,0.346,0.683,8,11,22,18,3,0,1,28,0,0,7,1,21,4,1,2,0,71573844
+1984,Regular Season,Yakult Swallows,39,"Shibui, Keiichi",SS,74,128,107,0.234,0.322,0.346,0.668,19,11,25,16,7,1,1,37,3,2,12,0,18,1,2,6,1,71573846
+1984,Regular Season,Hanshin Tigers,5,"Kitamura, Terufumi",CF,94,212,193,0.228,0.273,0.358,0.631,25,17,44,31,6,2,5,69,9,7,10,0,30,4,2,6,1,71573861
+1984,Regular Season,Nippon-Ham Fighters,9,"Kimura, Takashi",LF,91,102,85,0.224,0.305,0.329,0.634,17,8,19,15,1,1,2,28,3,5,7,0,23,0,3,7,0,71573863
+1984,Regular Season,Yakult Swallows,46,"Kuriyama, Hideki",SS,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71573869
+1984,Regular Season,Kintetsu Buffaloes,21,"Yanagida, Yutaka",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71673841
+1984,Regular Season,Seibu Lions,22,"Tabuchi, Koichi",DH,86,323,291,0.230,0.304,0.409,0.713,20,55,67,44,8,1,14,119,0,0,28,1,41,15,3,0,1,71773828
+1984,Regular Season,Nankai Hawks,5,"Yamamura, Yoshinori",RF,53,91,84,0.214,0.275,0.298,0.573,11,10,18,13,4,0,1,25,0,0,7,0,5,2,0,0,0,71773840
+1984,Regular Season,Yokohama Taiyo Whales,13,"Sato, Masao",P,13,1,1,1.000,1.000,1.000,2.000,0,2,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,71773843
+1984,Regular Season,Yomiuri Giants,24,"Nakahata, Kiyoshi",1B,130,550,493,0.294,0.365,0.548,0.913,78,83,145,83,30,1,31,270,4,1,51,2,64,12,4,0,2,71773844
+1984,Regular Season,Hanshin Tigers,9,"Sano, Noriyoshi",LF,125,517,475,0.305,0.352,0.440,0.792,61,50,145,112,17,1,15,209,7,3,33,2,32,16,1,1,7,71773849
+1984,Regular Season,Yomiuri Giants,25,"Suzuki, Yasutomo",SS,85,146,126,0.190,0.261,0.325,0.586,16,9,24,13,8,0,3,41,3,1,10,0,24,0,2,8,0,71773861
+1984,Regular Season,Hanshin Tigers,34,"Tanaka, Masahiro",PH,96,109,96,0.250,0.333,0.354,0.687,13,10,24,19,2,1,2,34,1,1,10,0,16,5,2,0,1,71773865
+1984,Regular Season,Nippon-Ham Fighters,24,"Tanaka, Manabu",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773869
+1984,Regular Season,Hanshin Tigers,14,"Nomura, Osamu",P,43,14,12,0.083,0.083,0.083,0.166,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,2,0,71973828
+1984,Regular Season,Lotte Orions,17,"Fukazawa, Yoshio",P,41,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973844
+1984,Regular Season,Seibu Lions,16,"Matsunuma, Masayuki",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973848
+1984,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",SS,128,493,437,0.268,0.315,0.368,0.683,42,41,117,86,24,1,6,161,2,0,28,0,26,9,2,24,2,71973865
+1984,Regular Season,Yakult Swallows,44,"Takani, Hideharu",PR,4,2,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973867
+1984,Regular Season,Kintetsu Buffaloes,15,"Davis, Richard",RF,78,315,287,0.310,0.363,0.554,0.917,42,45,89,55,16,0,18,159,0,3,24,0,28,12,0,0,4,71973869
+1984,Regular Season,Yomiuri Giants,32,"Hashimoto, Keiji",P,28,17,16,0.188,0.188,0.250,0.438,2,0,3,2,1,0,0,4,0,0,0,0,3,2,0,1,0,81083867
+1984,Regular Season,Nippon-Ham Fighters,33,"Brant, Marshall",LF,86,264,237,0.232,0.303,0.477,0.780,32,41,55,30,8,1,16,113,0,0,22,0,64,6,2,1,2,81083869
+1984,Regular Season,Yomiuri Giants,22,"Sasamoto, Shinji",C,39,61,56,0.179,0.207,0.375,0.582,6,7,10,5,2,0,3,21,0,0,2,1,12,0,0,2,1,81183840
+1984,Regular Season,Yomiuri Giants,27,"Ishiwata, Shigeru",SS,56,43,37,0.297,0.381,0.405,0.786,5,2,11,9,1,0,1,15,1,0,5,0,4,0,0,1,0,81183843
+1984,Regular Season,Yokohama Taiyo Whales,24,"Endo, Kazuhiko",P,38,104,83,0.169,0.179,0.193,0.372,5,10,14,13,0,1,0,16,0,0,1,0,24,0,0,20,0,81183846
+1984,Regular Season,Lotte Orions,6,"Ochiai, Hiromitsu",3B,129,562,456,0.314,0.439,0.581,1.020,89,94,143,90,17,3,33,265,8,1,98,8,83,14,4,0,4,81183848
+1984,Japan Series,Hankyu Braves,29,"Ishimine, Kazuhiko",DH,6,,6,0.333,,0.333,,,0,2,2,0,0,0,2,0,,0,,1,,,,,81183863
+1984,Regular Season,Hankyu Braves,29,"Ishimine, Kazuhiko",DH,44,120,108,0.231,0.308,0.454,0.762,13,14,25,13,6,0,6,49,0,0,7,0,19,9,5,0,0,81183863
+1984,Japan Series,Hiroshima Toyo Carp,30,"Ogawa, Tatsuaki",LF,6,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,0,,,,,81183865
+1984,Regular Season,Hiroshima Toyo Carp,30,"Ogawa, Tatsuaki",LF,90,92,76,0.250,0.360,0.487,0.847,12,14,19,11,2,2,4,37,1,2,11,0,9,0,2,1,2,81183865
+1984,Regular Season,Hankyu Braves,14,"Enokida, Kenichiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81183867
+1984,Regular Season,Yakult Swallows,36,"Ikeyama, Takahiro",PH,10,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,81183869
+1984,Regular Season,Nankai Hawks,19,"Yamauchi, Takanori",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81283863
+1984,Regular Season,Hiroshima Toyo Carp,22,"Horiba, Hidetaka",PH,26,34,30,0.233,0.324,0.433,0.757,3,8,7,5,0,0,2,13,1,0,4,0,9,1,0,0,0,81283867
+1984,Regular Season,Yomiuri Giants,56,"Murata, Shinichi",C,17,41,40,0.225,0.225,0.500,0.725,7,5,9,3,3,1,2,20,0,0,0,0,8,0,0,0,1,81283869
+1984,Regular Season,Hanshin Tigers,4,"Kawato, Kozo",PH,62,62,54,0.241,0.339,0.426,0.765,3,20,13,7,4,0,2,23,0,0,6,0,18,2,2,0,0,81383826
+1984,Regular Season,Lotte Orions,39,"Nagamatsu, Sumiaki",C,21,13,13,0.231,0.231,0.308,0.539,0,2,3,2,1,0,0,4,0,0,0,0,1,0,0,0,0,81383840
+1984,Regular Season,Nippon-Ham Fighters,7,"Okaji, Kazuhiko",RF,49,133,116,0.241,0.333,0.388,0.721,17,16,28,21,2,0,5,45,0,0,15,0,15,4,1,1,0,81383841
+1984,Regular Season,Chunichi Dragons,5,"Oshima, Yasunori",LF,130,551,471,0.280,0.379,0.507,0.886,75,87,132,86,15,1,30,239,7,7,73,0,73,14,2,1,4,81383843
+1984,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",2B,126,524,461,0.334,0.403,0.497,0.900,75,66,154,105,35,2,12,229,7,2,51,2,49,7,2,9,1,81383844
+1984,Regular Season,Kintetsu Buffaloes,38,"Keimoto, Hideaki",LF,82,67,60,0.250,0.328,0.350,0.678,8,6,15,13,0,0,2,21,0,1,6,0,8,0,1,0,0,81383846
+1984,Regular Season,Lotte Orions,23,"Sato, Kenichi",SS,77,181,166,0.211,0.251,0.373,0.624,20,21,35,18,12,0,5,62,0,4,7,0,28,3,2,5,1,81383848
+1984,Regular Season,Nippon-Ham Fighters,16,"Kida, Isamu",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383861
+1984,Regular Season,Chunichi Dragons,30,"Kaku, Genji",P,34,83,79,0.215,0.225,0.253,0.478,8,4,17,14,3,0,0,20,0,0,1,0,13,1,0,3,0,81383863
+1984,Regular Season,Yokohama Taiyo Whales,38,"Kawano, Yasuhiko",LF,12,6,6,0.333,0.333,0.500,0.833,2,0,2,1,1,0,0,3,0,0,0,0,3,0,0,0,0,81383865
+1984,Regular Season,Chunichi Dragons,50,"Kaneda, Susumu",C,10,8,7,0.143,0.250,0.143,0.393,1,0,1,1,0,0,0,1,0,0,1,0,2,0,0,0,0,81383867
+1984,Regular Season,Seibu Lions,53,"Kawamura, Kazuaki",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383869
+1984,Regular Season,Nankai Hawks,38,"Yoshimura, Mototomi",RF,2,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,81483867
+1984,Japan Series,Hankyu Braves,24,"Miyamoto, Shiro",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,81583840
+1984,Regular Season,Hankyu Braves,24,"Miyamoto, Shiro",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583840
+1984,Japan Series,Hiroshima Toyo Carp,40,"Tatsukawa, Mitsuo",C,7,,20,0.300,,0.450,,,1,6,5,0,0,1,9,0,,3,,1,,,,,81583846
+1984,Regular Season,Hiroshima Toyo Carp,40,"Tatsukawa, Mitsuo",C,117,371,312,0.244,0.335,0.340,0.675,35,33,76,60,9,0,7,106,1,2,36,7,30,3,7,14,2,81583846
+1984,Regular Season,Chunichi Dragons,12,"Takahashi, Michitake",2B,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583848
+1984,Regular Season,Yakult Swallows,25,"Suzuki, Masayuki",P,9,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583865
+1984,Regular Season,Yomiuri Giants,41,"Saito, Masaki",P,18,15,13,0.231,0.286,0.231,0.517,1,1,3,3,0,0,0,3,0,0,1,0,4,0,0,1,0,81583869
+1984,Regular Season,Kintetsu Buffaloes,25,"Fukiishi, Tokuichi",SS,86,207,189,0.249,0.283,0.365,0.648,25,20,47,35,7,0,5,69,5,0,7,0,19,3,2,9,0,81783842
+1984,Regular Season,Kintetsu Buffaloes,10,"Shimamoto, Kohei",RF,21,21,20,0.150,0.150,0.200,0.350,3,2,3,2,1,0,0,4,0,0,0,0,8,2,0,0,1,81783843
+1984,Regular Season,Yokohama Taiyo Whales,6,"Takagi, Yoshikazu",RF,100,309,271,0.273,0.362,0.387,0.749,26,35,74,56,11,1,6,105,0,1,37,8,40,14,1,0,0,81783845
+1984,Regular Season,Lotte Orions,31,"Takazawa, Hideaki",CF,97,432,385,0.317,0.347,0.496,0.843,70,47,122,80,26,5,11,191,11,7,9,1,29,6,9,27,2,81783861
+1984,Regular Season,Yakult Swallows,15,"Takemoto, Yukio",P,5,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783863
+1984,Regular Season,Seibu Lions,23,"Nishioka, Yoshihiro",CF,81,241,207,0.266,0.315,0.430,0.745,32,28,55,39,5,4,7,89,2,3,13,1,15,7,2,18,1,81783865
+1984,Regular Season,Nippon-Ham Fighters,30,"Tsuno, Hiroshi",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783869
+1984,Japan Series,Hankyu Braves,7,"Fukumoto, Yutaka",LF,7,,24,0.417,,0.500,,,4,10,8,2,0,0,12,1,,4,,3,,,,,81983828
+1984,Regular Season,Hankyu Braves,7,"Fukumoto, Yutaka",LF,130,585,488,0.258,0.370,0.367,0.737,93,41,126,93,22,2,9,179,36,17,85,1,41,3,2,8,2,81983828
+1984,Regular Season,Kintetsu Buffaloes,8,"Nashida, Masataka",C,84,273,241,0.249,0.322,0.390,0.712,29,29,60,42,9,2,7,94,4,3,22,0,26,6,4,5,1,81983845
+1984,Regular Season,Kintetsu Buffaloes,35,"Yanagihara, Takahiro",PH,29,65,62,0.387,0.406,0.645,1.051,10,10,24,13,8,1,2,40,0,0,2,0,16,0,0,0,1,81983846
+1984,Regular Season,Lotte Orions,3,"Fujikura, Kazumasa",PR,27,13,13,0.154,0.154,0.231,0.385,7,1,2,1,1,0,0,3,0,2,0,0,4,0,0,0,0,81983861
+1984,Regular Season,Lotte Orions,47,"Migita, Kazuhiko",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81983865
+1984,Regular Season,Nippon-Ham Fighters,62,"Nakahara, Noboru",RF,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81983869
+1984,Regular Season,Yakult Swallows,17,"Matsuoka, Hiromu",P,25,19,16,0.125,0.222,0.125,0.347,1,1,2,2,0,0,0,2,0,0,2,0,3,0,0,1,0,91093826
+1984,Japan Series,Hankyu Braves,9,"Yoshizawa, Toshiyuki",LF,4,,0,0.000,,0.000,,,0,0,0,0,0,0,0,1,,0,,0,,,,,91093844
+1984,Regular Season,Hankyu Braves,9,"Yoshizawa, Toshiyuki",LF,110,105,85,0.212,0.323,0.318,0.641,23,7,18,13,3,0,2,27,4,1,10,0,22,0,4,4,2,91093844
+1984,Regular Season,Yakult Swallows,6,"Mizutani, Shintaro",SS,125,488,429,0.291,0.346,0.373,0.719,48,33,125,102,15,4,4,160,10,8,33,4,69,1,3,18,5,91093849
+1984,Regular Season,Chunichi Dragons,4,"Macha, Ken",3B,130,530,465,0.316,0.397,0.574,0.971,71,93,147,90,25,1,31,267,1,2,55,4,54,22,7,1,2,91093865
+1984,Japan Series,Hiroshima Toyo Carp,28,"Nishida, Shinji",PH,4,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,91093867
+1984,Regular Season,Hiroshima Toyo Carp,28,"Nishida, Shinji",PH,71,107,97,0.247,0.311,0.402,0.713,7,15,24,14,7,1,2,39,0,0,9,4,20,2,0,1,0,91093867
+1984,Regular Season,Chunichi Dragons,24,"Nimura, Toru",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91093869
+1984,Regular Season,Lotte Orions,8,"Arito, Michiyo",RF,120,435,401,0.244,0.299,0.372,0.671,43,58,98,70,16,1,11,149,6,4,30,1,53,12,1,1,2,91193828
+1984,Regular Season,Yakult Swallows,26,"Ihara, Shinichiro",P,6,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193841
+1984,Regular Season,Nippon-Ham Fighters,35,"Iwai, Takayuki",SS,125,415,371,0.286,0.329,0.385,0.714,49,34,106,84,14,1,7,143,11,4,22,0,40,7,2,16,4,91193842
+1984,Japan Series,Hiroshima Toyo Carp,24,"Ono, Yutaka",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91193844
+1984,Regular Season,Hiroshima Toyo Carp,24,"Ono, Yutaka",P,28,53,47,0.149,0.167,0.149,0.316,4,4,7,7,0,0,0,7,0,0,1,0,12,0,0,5,0,91193844
+1984,Regular Season,Yakult Swallows,21,"Imoto, Takashi",P,28,24,22,0.045,0.087,0.045,0.132,1,2,1,1,0,0,0,1,0,0,1,0,9,0,0,1,0,91193847
+1984,Regular Season,Yomiuri Giants,30,"Egawa, Suguru",P,28,72,58,0.207,0.258,0.276,0.534,5,2,12,10,1,0,1,16,0,0,4,0,18,1,0,10,0,91193848
+1984,Regular Season,Kintetsu Buffaloes,55,"Ishihara, Shuji",PR,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193865
+1984,Regular Season,Lotte Orions,19,"Ibe, Yasuji",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193867
+1984,Regular Season,Seibu Lions,50,"Aoyama, Michio",LF,10,9,6,0.000,0.143,0.000,0.143,2,0,0,0,0,0,0,0,0,0,1,0,2,0,0,2,0,91193869
+1984,Regular Season,Hiroshima Toyo Carp,10,"Michihara, Hiroyuki",C,4,4,3,0.333,0.500,0.333,0.833,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,91293845
+1984,Regular Season,Hankyu Braves,45,"Yonemura, Osamu",1B,68,17,14,0.071,0.235,0.071,0.306,3,0,1,1,0,0,0,1,1,0,3,0,2,0,0,0,0,91293861
+1984,Regular Season,Yokohama Taiyo Whales,18,"Hirose, Shintaro",P,5,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,91293867
+1984,Regular Season,Kintetsu Buffaloes,15,"Money, Don",DH,29,125,100,0.260,0.408,0.520,0.928,17,23,26,16,2,0,8,52,0,0,23,0,10,5,2,0,0,91293869
+1984,Regular Season,Kintetsu Buffaloes,12,"Suzuki, Yasujiro",P,46,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393840
+1984,Japan Series,Hiroshima Toyo Carp,20,"Kitabeppu, Manabu",P,3,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,91393842
+1984,Regular Season,Hiroshima Toyo Carp,20,"Kitabeppu, Manabu",P,33,79,74,0.162,0.195,0.176,0.371,6,3,12,11,1,0,0,13,0,0,3,0,36,1,0,2,0,91393842
+1984,Japan Series,Hankyu Braves,11,"Sato, Yoshinori",P,2,,1,1.000,,2.000,,,0,1,0,1,0,0,2,0,,0,,0,,,,,91393844
+1984,Regular Season,Hankyu Braves,11,"Sato, Yoshinori",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393844
+1984,Regular Season,Seibu Lions,4,"Katahira, Shinsaku",1B,86,256,231,0.268,0.327,0.459,0.786,30,42,62,42,8,0,12,106,0,0,18,0,12,11,2,2,3,91393845
+1984,Regular Season,Seibu Lions,13,"Ono, Kazuyuki",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393863
+1984,Regular Season,Yokohama Taiyo Whales,19,"Kanazawa, Tsugio",P,30,64,52,0.135,0.167,0.154,0.321,2,0,7,6,1,0,0,8,0,0,2,0,14,0,0,10,0,91393865
+1984,Regular Season,Nankai Hawks,52,"Otsubo, Yukio",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393867
+1984,Regular Season,Yakult Swallows,45,"Kato, Takaaki",PH,5,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91393869
+1984,Japan Series,Hankyu Braves,5,"Yumioka, Keijiro",SS,7,,22,0.318,,0.500,,,2,7,5,1,0,1,11,0,,3,,2,,,,,91493863
+1984,Regular Season,Hankyu Braves,5,"Yumioka, Keijiro",SS,125,570,470,0.304,0.365,0.402,0.767,72,45,143,114,18,5,6,189,15,10,43,0,26,12,2,49,6,91493863
+1984,Regular Season,Yakult Swallows,40,"Miyagi, Hiroaki",P,3,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91493867
+1984,Regular Season,Yokohama Taiyo Whales,29,"Kato, Toshio",C,49,164,145,0.248,0.310,0.352,0.662,9,19,36,27,6,0,3,51,0,1,12,0,21,4,1,5,1,91593824
+1984,Regular Season,Yokohama Taiyo Whales,26,"Tashiro, Tomio",3B,130,543,479,0.261,0.340,0.430,0.770,56,71,125,88,14,2,21,206,4,2,54,1,95,21,3,1,6,91593842
+1984,Regular Season,Yomiuri Giants,11,"Sumi, Mitsuo",P,49,9,8,0.375,0.375,0.375,0.750,0,1,3,3,0,0,0,3,0,0,0,0,4,0,0,1,0,91593846
+1984,Regular Season,Yokohama Taiyo Whales,37,"Saotome, Yutaka",P,17,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593847
+1984,Japan Series,Hiroshima Toyo Carp,25,"Kinoshita, Tomio",3B,7,,21,0.286,,0.333,,,0,6,5,1,0,0,7,2,,2,,3,,,,,91593849
+1984,Regular Season,Hiroshima Toyo Carp,25,"Kinoshita, Tomio",3B,109,227,201,0.269,0.316,0.403,0.719,30,22,54,38,10,1,5,81,7,2,14,3,18,9,0,10,2,91593849
+1984,Regular Season,Nippon-Ham Fighters,44,"Cruz, Tommy",DH,124,527,489,0.348,0.389,0.607,0.996,66,96,170,103,36,2,29,297,0,1,33,6,37,12,0,0,5,91593861
+1984,Regular Season,Yokohama Taiyo Whales,49,"Kubo, Fumio",P,28,4,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,91593863
+1984,Japan Series,Hiroshima Toyo Carp,7,"Saito, Hiroyuki",1B,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91593865
+1984,Regular Season,Hiroshima Toyo Carp,7,"Saito, Hiroyuki",1B,12,23,21,0.286,0.348,0.714,1.062,3,3,6,1,3,0,2,15,0,0,2,0,4,0,0,0,0,91593865
+1984,Regular Season,Yakult Swallows,22,"Kuroda, Shinji",P,9,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91593867
+1984,Regular Season,Kintetsu Buffaloes,42,"Corey, Mark",1B,31,91,79,0.215,0.311,0.354,0.665,8,8,17,12,2,0,3,28,0,0,10,0,24,3,1,0,1,91593869
+1984,Regular Season,Seibu Lions,17,"Takahashi, Naoki",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793828
+1984,Regular Season,Lotte Orions,24,"Yoshioka, Toshiaki",PH,90,237,214,0.243,0.305,0.393,0.698,25,30,52,35,9,1,7,84,2,2,18,0,47,2,1,2,2,91793840
+1984,Regular Season,Yomiuri Giants,26,"Nishimoto, Takashi",P,31,88,77,0.195,0.205,0.286,0.491,5,11,15,10,4,0,1,22,0,0,1,0,18,1,0,8,2,91793842
+1984,Regular Season,Lotte Orions,12,"Hakamada, Hidetoshi",C,127,436,382,0.259,0.320,0.369,0.689,40,49,99,70,21,3,5,141,1,7,31,0,48,10,3,19,1,91793846
+1984,Regular Season,Nankai Hawks,3,"Sadaoka, Chiaki",SS,33,118,104,0.221,0.277,0.442,0.719,11,15,23,15,0,1,7,46,0,0,7,0,21,0,1,6,0,91793849
+1984,Regular Season,Seibu Lions,20,"Sugimoto, Tadashi",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793863
+1984,Regular Season,Nippon-Ham Fighters,12,"Tanaka, Yukio",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793865
+1984,Regular Season,Nippon-Ham Fighters,39,"Shimada, Nobutoshi",PR,24,8,7,0.143,0.143,0.286,0.429,1,1,1,0,1,0,0,2,1,0,0,0,1,0,0,0,1,91793867
+1984,Regular Season,Yakult Swallows,34,"Takano, Hikaru",P,38,58,49,0.163,0.212,0.184,0.396,3,1,8,7,1,0,0,9,0,0,3,0,20,0,0,5,1,91793869
+1984,Japan Series,Hankyu Braves,39,"Nakazawa, Shinji",C,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91993820
+1984,Regular Season,Hankyu Braves,39,"Nakazawa, Shinji",C,65,169,148,0.189,0.264,0.243,0.507,12,16,28,23,3,1,1,36,0,0,14,0,28,8,1,5,1,91993820
+1984,Regular Season,Lotte Orions,13,"Fukushima, Kazuto",C,35,13,12,0.167,0.231,0.167,0.398,0,0,2,2,0,0,0,2,0,0,1,0,3,0,0,0,0,91993844
+1984,Regular Season,Chunichi Dragons,13,"Donoe, Terashi",P,42,22,22,0.091,0.091,0.091,0.182,1,0,2,2,0,0,0,2,0,0,0,0,7,2,0,0,0,91993845
+1984,Regular Season,Chunichi Dragons,25,"Toyoda, Seisuke",LF,104,77,72,0.236,0.267,0.403,0.670,17,9,17,13,0,0,4,29,1,1,3,0,16,2,0,2,0,91993861
+1984,Regular Season,Kintetsu Buffaloes,32,"Tani, Shinichi",SS,69,148,126,0.167,0.245,0.222,0.467,11,13,21,17,2,1,1,28,3,3,11,0,20,1,2,9,0,91993867
+1984,Regular Season,Nankai Hawks,1,"Doyle, Jeff",2B,123,522,447,0.262,0.352,0.421,0.773,68,49,117,73,30,1,13,188,7,7,57,0,67,4,5,11,2,91993869

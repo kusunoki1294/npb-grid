@@ -1,0 +1,682 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+1989,Regular Season,Orix Braves,34,"Mori, Koji",P,40,1.000,4,5,0,1,,01003865
+1989,Regular Season,Kintetsu Buffaloes,7,"Awaguchi, Kenji",OF,65,1.000,63,3,0,1,,01103843
+1989,Regular Season,Chunichi Dragons,38,"Omiya, Tatsuo",C,26,0.984,58,4,1,0,2,01103844
+1989,Regular Season,Yomiuri Giants,52,"Inoe, Shinji",OF,75,1.000,104,2,0,0,,01103860
+1989,Regular Season,Lotte Orions,27,"Ushijima, Kazuhiko",P,21,0.966,6,22,1,1,,01103861
+1989,Regular Season,Lotte Orions,62,"Ito, Fumio",OF,5,1.000,3,0,0,0,,01103862
+1989,Regular Season,Fukuoka Daiei Hawks,12,"Inoe, Yuji",P,57,1.000,5,23,0,1,,01103863
+1989,Regular Season,Hanshin Tigers,25,"Inomata, Takashi",P,41,0.941,4,12,1,0,,01103864
+1989,Regular Season,Hiroshima Toyo Carp,36,"Imai, Joji",OF,2,0.000,0,0,0,0,,01103865
+1989,Regular Season,Chunichi Dragons,46,"Takashima, Satoru",P,1,1.000,0,2,0,0,,01103866
+1989,Regular Season,Chunichi Dragons,26,"Nakajima, Haruhiko",P,7,1.000,1,2,0,1,,01103868
+1989,Regular Season,Fukuoka Daiei Hawks,39,"Fujimoto, Hiroshi",1B,3,1.000,29,6,0,2,,01203860
+1989,Regular Season,Fukuoka Daiei Hawks,39,"Fujimoto, Hiroshi",3B,74,0.955,60,153,10,15,,01203860
+1989,Regular Season,Kintetsu Buffaloes,56,"Mitsuyama, Hidekazu",C,11,1.000,19,5,0,0,0,01203862
+1989,Regular Season,Fukuoka Daiei Hawks,14,"Wakai, Motoyasu",2B,1,1.000,1,1,0,0,,01203866
+1989,Regular Season,Fukuoka Daiei Hawks,14,"Wakai, Motoyasu",3B,1,1.000,0,1,0,0,,01203866
+1989,Regular Season,Fukuoka Daiei Hawks,14,"Wakai, Motoyasu",OF,81,0.968,118,2,4,0,,01203866
+1989,Regular Season,Seibu Lions,48,"Maeda, Koji",P,3,1.000,0,1,0,0,,01203869
+1989,Regular Season,Yokohama Taiyo Whales,17,"Saito, Akio",P,18,0.977,8,34,1,5,,01303844
+1989,Regular Season,Chunichi Dragons,23,"Kawamata, Yonetoshi",1B,85,0.991,621,59,6,52,,01303848
+1989,Regular Season,Chunichi Dragons,23,"Kawamata, Yonetoshi",OF,5,1.000,9,0,0,0,,01303848
+1989,Regular Season,Lotte Orions,34,"Kasahara, Eiichi",P,1,0.000,0,0,0,0,,01303862
+1989,Regular Season,Kintetsu Buffaloes,4,"Oishi, Daijiro",2B,108,0.980,263,263,11,62,,01303863
+1989,Regular Season,Hiroshima Toyo Carp,11,"Kito, Makoto",P,61,0.976,7,33,1,1,,01303864
+1989,Regular Season,Hanshin Tigers,5,"Kanamori, Eiji",1B,3,1.000,21,1,0,4,,01303865
+1989,Regular Season,Hanshin Tigers,5,"Kanamori, Eiji",OF,31,1.000,41,2,0,0,,01303865
+1989,Regular Season,Chunichi Dragons,22,"Yamasaki, Takeshi",C,8,0.927,37,1,3,1,3,01303868
+1989,Regular Season,Chunichi Dragons,18,"Kashima, Tadashi",P,54,1.000,7,20,0,1,,01303869
+1989,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,35,1.000,16,43,0,1,,01403862
+1989,Regular Season,Yokohama Taiyo Whales,45,"Muraoka, Koichi",2B,5,1.000,10,8,0,3,,01403867
+1989,Regular Season,Yokohama Taiyo Whales,45,"Muraoka, Koichi",3B,25,1.000,10,22,0,1,,01403867
+1989,Regular Season,Yokohama Taiyo Whales,45,"Muraoka, Koichi",SS,16,0.968,10,20,1,2,,01403867
+1989,Regular Season,Chunichi Dragons,54,"Komatsuzaki, Yoshihisa",1B,2,1.000,2,1,0,0,,01503860
+1989,Regular Season,Chunichi Dragons,54,"Komatsuzaki, Yoshihisa",OF,20,1.000,20,1,0,0,,01503860
+1989,Regular Season,Yakult Swallows,48,"Sakurai, Shinichi",2B,18,0.968,30,31,2,8,,01503862
+1989,Regular Season,Yakult Swallows,48,"Sakurai, Shinichi",3B,8,0.857,1,5,1,0,,01503862
+1989,Regular Season,Yakult Swallows,48,"Sakurai, Shinichi",SS,1,1.000,0,2,0,0,,01503862
+1989,Regular Season,Yokohama Taiyo Whales,21,"Nomura, Hiroki",P,33,0.964,6,21,1,2,,01503866
+1989,Regular Season,Seibu Lions,44,"Kurohara, Yuji",P,3,1.000,0,1,0,0,,01503867
+1989,Regular Season,Chunichi Dragons,96,"Kitamura, Shunsuke",2B,2,1.000,3,5,0,2,,01503868
+1989,Regular Season,Hiroshima Toyo Carp,6,"Kobayakawa, Takehiko",1B,108,0.995,857,74,5,60,,01503869
+1989,Regular Season,Chunichi Dragons,19,"Yonemura, Akira",P,25,1.000,5,11,0,1,,01603860
+1989,Regular Season,Yomiuri Giants,60,"Shirahata, Takahiro",OF,14,1.000,16,0,0,0,,01703860
+1989,Regular Season,Yokohama Taiyo Whales,12,"Takahashi, Kazuhiko",P,6,1.000,1,3,0,0,,01703862
+1989,Regular Season,Seibu Lions,9,"Seike, Masakazu",SS,6,0.889,0,8,1,1,,01703863
+1989,Regular Season,Hiroshima Toyo Carp,12,"Takagi, Nobuhiro",P,3,0.500,1,0,1,0,,01703865
+1989,Regular Season,Lotte Orions,48,"Takahashi, Chuichi",OF,17,0.955,21,0,1,0,,01703869
+1989,Regular Season,Hanshin Tigers,0,"Nakano, Satoru",OF,111,0.993,144,5,1,0,,01903862
+1989,Regular Season,Yomiuri Giants,22,"Nakao, Takayoshi",C,86,0.996,517,44,2,6,3,01903863
+1989,Regular Season,Yomiuri Giants,28,"Hirota, Hiroaki",P,36,0.917,2,9,1,1,,01903864
+1989,Regular Season,Orix Braves,16,"Ito, Atsunori",P,24,1.000,2,13,0,1,,01903866
+1989,Regular Season,Yomiuri Giants,37,"Tsusue, Hideaki",1B,3,1.000,17,2,0,1,,01903867
+1989,Regular Season,Nippon-Ham Fighters,7,"Nakajima, Terushi",1B,26,0.991,103,6,1,5,,01903868
+1989,Regular Season,Nippon-Ham Fighters,7,"Nakajima, Terushi",OF,68,0.966,109,3,4,0,,01903868
+1989,Regular Season,Hiroshima Toyo Carp,49,"Allen, Rod",OF,73,0.989,88,4,1,1,,03403868
+1989,Regular Season,Hanshin Tigers,33,"Kaneko, Seiichi",OF,75,1.000,62,1,0,0,,03503868
+1989,Regular Season,Yakult Swallows,63,"Kato, Hiroto",P,31,0.929,8,31,3,2,,05003868
+1989,Regular Season,Seibu Lions,57,"Ueda, Hiroaki",SS,2,0.750,1,2,1,0,,05303868
+1989,Regular Season,Seibu Lions,39,"Destrade, Orestes",1B,4,0.974,34,3,1,3,,07303868
+1989,Regular Season,Yomiuri Giants,15,"Yamakura, Kazuhiro",C,45,0.992,246,17,2,2,2,11013846
+1989,Regular Season,Hanshin Tigers,7,"Mayumi, Akinobu",OF,76,0.993,131,5,1,0,,11013847
+1989,Regular Season,Fukuoka Daiei Hawks,35,"Yoshida, Hiroyuki",C,25,0.986,125,16,2,1,1,11013848
+1989,Regular Season,Fukuoka Daiei Hawks,21,"Nishikawa, Yoshiaki",P,23,1.000,1,15,0,0,,11013862
+1989,Regular Season,Orix Braves,58,"Yamanaka, Kenji",2B,2,0.833,2,3,1,1,,11013866
+1989,Regular Season,Yokohama Taiyo Whales,37,"Hino, Yoshiaki",1B,4,0.889,8,0,1,1,,11213860
+1989,Regular Season,Yokohama Taiyo Whales,37,"Hino, Yoshiaki",2B,7,1.000,5,11,0,3,,11213860
+1989,Regular Season,Yokohama Taiyo Whales,37,"Hino, Yoshiaki",3B,7,0.667,0,4,2,0,,11213860
+1989,Regular Season,Yokohama Taiyo Whales,37,"Hino, Yoshiaki",SS,25,0.972,25,44,2,6,,11213860
+1989,Regular Season,Lotte Orions,10,"Furukawa, Shinichi",OF,92,0.968,148,2,5,1,,11213862
+1989,Regular Season,Lotte Orions,16,"Horii, Tsuneo",P,18,0.833,0,5,1,0,,11213863
+1989,Regular Season,Hanshin Tigers,3,"Yagi, Hiroshi",3B,8,1.000,1,8,0,1,,11213864
+1989,Regular Season,Hanshin Tigers,3,"Yagi, Hiroshi",OF,7,1.000,9,0,0,0,,11213864
+1989,Regular Season,Hanshin Tigers,3,"Yagi, Hiroshi",SS,86,0.962,116,185,12,34,,11213864
+1989,Regular Season,Fukuoka Daiei Hawks,15,"Hatayama, Hitoshi",OF,51,0.980,47,1,1,0,,11213867
+1989,Regular Season,Chunichi Dragons,0,"Fujio, Yasuharu",OF,6,1.000,6,1,0,0,,11213869
+1989,Regular Season,Seibu Lions,45,"Okubo, Hiromoto",C,3,0.800,4,0,1,0,0,11313860
+1989,Regular Season,Yokohama Taiyo Whales,39,"Okamoto, Tetsushi",C,6,1.000,17,5,0,0,0,11313862
+1989,Regular Season,Kintetsu Buffaloes,13,"Ishimoto, Yoshiaki",P,14,1.000,1,10,0,0,,11313863
+1989,Regular Season,Yokohama Taiyo Whales,8,"Ono, Yuji",1B,33,0.991,219,11,2,19,,11313864
+1989,Regular Season,Yokohama Taiyo Whales,8,"Ono, Yuji",3B,2,1.000,0,1,0,0,,11313864
+1989,Regular Season,Hanshin Tigers,1,"Noda, Koji",P,43,0.971,7,27,1,1,,11313866
+1989,Regular Season,Seibu Lions,52,"Oda, Shinya",P,25,1.000,0,1,0,0,,11313869
+1989,Regular Season,Yakult Swallows,28,"Yaegashi, Yukio",1B,1,1.000,2,0,0,0,,11413843
+1989,Regular Season,Yakult Swallows,28,"Yaegashi, Yukio",C,15,1.000,15,3,0,0,2,11413843
+1989,Regular Season,Fukuoka Daiei Hawks,33,"Yamaguchi, Yuji",OF,12,1.000,6,0,0,0,,11413862
+1989,Regular Season,Fukuoka Daiei Hawks,27,"Yamanaka, Kiyoshi",C,34,0.992,107,14,1,1,1,11413863
+1989,Regular Season,Kintetsu Buffaloes,61,"Kanazawa, Nobuhiko",1B,1,1.000,2,0,0,1,,11413866
+1989,Regular Season,Kintetsu Buffaloes,61,"Kanazawa, Nobuhiko",OF,1,0.000,0,0,0,0,,11413866
+1989,Regular Season,Yomiuri Giants,18,"Kuwata, Masumi",P,30,0.944,15,52,4,1,,11513862
+1989,Regular Season,Chunichi Dragons,35,"Kataoka, Mitsuhiro",1B,2,1.000,6,0,0,0,,11513863
+1989,Regular Season,Chunichi Dragons,35,"Kataoka, Mitsuhiro",2B,10,0.967,12,17,1,6,,11513863
+1989,Regular Season,Chunichi Dragons,35,"Kataoka, Mitsuhiro",3B,10,0.909,3,7,1,1,,11513863
+1989,Regular Season,Yomiuri Giants,40,"Sato, Hiroshi",3B,2,1.000,2,0,0,0,,11513864
+1989,Regular Season,Hiroshima Toyo Carp,19,"Kiyokawa, Eiji",P,44,1.000,0,11,0,0,,11513869
+1989,Regular Season,Yakult Swallows,1,"Wakamatsu, Tsutomu",OF,2,0.000,0,0,0,0,,11613843
+1989,Regular Season,Kintetsu Buffaloes,34,"Murata, Tatsumi",P,14,1.000,4,17,0,0,,11713840
+1989,Regular Season,Hiroshima Toyo Carp,2,"Takahashi, Yoshihiko",3B,2,0.833,4,1,1,0,,11713842
+1989,Regular Season,Hiroshima Toyo Carp,2,"Takahashi, Yoshihiko",SS,124,0.964,160,318,18,68,,11713842
+1989,Regular Season,Fukuoka Daiei Hawks,23,"Takayanagi, Hideki",OF,39,1.000,53,1,0,0,,11713848
+1989,Regular Season,Fukuoka Daiei Hawks,3,"Sasaki, Makoto",OF,123,0.993,279,9,2,4,,11713860
+1989,Regular Season,Yomiuri Giants,25,"Kono, Junki",OF,63,1.000,40,2,0,0,,11713863
+1989,Regular Season,Hanshin Tigers,24,"Sumitomo, Kazuya",P,44,0.955,3,18,1,0,,11713865
+1989,Regular Season,Hiroshima Toyo Carp,21,"Kawashima, Ken",P,10,1.000,4,3,0,0,,11713866
+1989,Regular Season,Nippon-Ham Fighters,17,"Sato, Seiichi",P,47,1.000,6,17,0,1,,11713867
+1989,Regular Season,Nippon-Ham Fighters,55,"Shimizu, Nobuaki",C,4,1.000,3,0,0,0,0,11713869
+1989,Regular Season,Nippon-Ham Fighters,21,"Nishizaki, Yukihiro",P,27,0.958,9,37,2,2,,11913864
+1989,Regular Season,Lotte Orions,3,"Nishimura, Norifumi",OF,96,0.970,186,6,6,2,,11913865
+1989,Regular Season,Yomiuri Giants,12,"Ro, Meishi",OF,13,0.933,14,0,1,0,,11913866
+1989,Regular Season,Nippon-Ham Fighters,48,"Shirai, Yasukatsu",P,4,1.000,0,1,0,0,,11913868
+1989,Regular Season,Hiroshima Toyo Carp,29,"Kondo, Yoshihisa",P,4,1.000,0,2,0,0,,13013868
+1989,Regular Season,Hiroshima Toyo Carp,44,"Rowdon, Wade",3B,122,0.960,100,235,14,14,,13413868
+1989,Regular Season,Lotte Orions,36,"Satomi, Yusuke",P,1,0.000,0,0,0,0,,13613868
+1989,Regular Season,Lotte Orions,0,"Hatsushiba, Kiyoshi",3B,67,0.964,45,117,6,9,,13813868
+1989,Regular Season,Yakult Swallows,40,"Suzuki, Taira",P,8,1.000,4,5,0,1,,15013868
+1989,Regular Season,Seibu Lions,21,"Watanabe, Tomio",P,19,0.971,3,30,1,4,,15113868
+1989,Regular Season,Yakult Swallows,58,"Iida, Tetsuya",C,14,1.000,23,5,0,1,1,15213868
+1989,Regular Season,Seibu Lions,8,"Suzuki, Ken",3B,1,0.000,0,0,0,0,,15313868
+1989,Regular Season,Yokohama Taiyo Whales,41,"Miyazato, Futoshi",C,8,1.000,9,1,0,0,0,15713868
+1989,Regular Season,Yokohama Taiyo Whales,41,"Miyazato, Futoshi",OF,28,0.980,45,3,1,0,,15713868
+1989,Regular Season,Yokohama Taiyo Whales,23,"Yokotani, Akimasa",OF,4,0.833,5,0,1,0,,15913868
+1989,Regular Season,Yakult Swallows,16,"Eichelberger, Juan",P,8,1.000,1,2,0,0,,17313868
+1989,Regular Season,Yakult Swallows,26,"Hata, Shinji",C,82,0.986,370,42,6,6,11,21023860
+1989,Regular Season,Orix Braves,9,"Motonishi, Atsuhiro",2B,1,1.000,1,0,0,0,,21023864
+1989,Regular Season,Orix Braves,9,"Motonishi, Atsuhiro",3B,4,1.000,0,3,0,0,,21023864
+1989,Regular Season,Orix Braves,9,"Motonishi, Atsuhiro",OF,100,0.988,160,3,2,0,,21023864
+1989,Regular Season,Orix Braves,9,"Motonishi, Atsuhiro",SS,4,1.000,2,1,0,1,,21023864
+1989,Regular Season,Orix Braves,13,"Mori, Kozo",P,8,0.000,0,0,0,0,,21023865
+1989,Regular Season,Nippon-Ham Fighters,15,"Takeda, Kazuhiro",P,36,0.973,7,29,1,0,,21023866
+1989,Regular Season,Yomiuri Giants,51,"Ishii, Masahiro",OF,8,1.000,4,1,0,0,,21123860
+1989,Regular Season,Fukuoka Daiei Hawks,1,"Ogawa, Hiroshi",3B,1,0.000,0,0,0,0,,21123861
+1989,Regular Season,Fukuoka Daiei Hawks,1,"Ogawa, Hiroshi",SS,92,0.985,136,269,6,39,,21123861
+1989,Regular Season,Lotte Orions,46,"Ito, Masaru",P,3,1.000,0,2,0,0,,21123862
+1989,Regular Season,Hanshin Tigers,40,"Iwakiri, Eiji",C,10,1.000,22,3,0,0,0,21123864
+1989,Regular Season,Chunichi Dragons,2,"Iwamoto, Yoshihiro",2B,12,1.000,7,9,0,3,,21123865
+1989,Regular Season,Chunichi Dragons,2,"Iwamoto, Yoshihiro",OF,2,1.000,1,0,0,0,,21123865
+1989,Regular Season,Chunichi Dragons,3,"Tatsunami, Kazuyoshi",SS,27,0.971,36,64,3,15,,21123866
+1989,Regular Season,Fukuoka Daiei Hawks,43,"Ito, Toshifumi",1B,3,1.000,10,0,0,0,,21123869
+1989,Regular Season,Fukuoka Daiei Hawks,43,"Ito, Toshifumi",3B,41,0.944,36,65,6,4,,21123869
+1989,Regular Season,Fukuoka Daiei Hawks,4,"Moriwaki, Hiroshi",2B,15,1.000,21,21,0,1,,21223863
+1989,Regular Season,Fukuoka Daiei Hawks,4,"Moriwaki, Hiroshi",3B,29,0.979,16,31,1,4,,21223863
+1989,Regular Season,Fukuoka Daiei Hawks,4,"Moriwaki, Hiroshi",SS,59,0.975,76,157,6,27,,21223863
+1989,Regular Season,Lotte Orions,18,"Irabu, Hideki",P,33,1.000,3,12,0,1,,21223866
+1989,Regular Season,Orix Braves,44,"Wells, Boomer",1B,130,0.993,1142,81,9,86,,21223867
+1989,Regular Season,Yomiuri Giants,31,"Mizuno, Katsuhito",P,15,1.000,1,15,0,1,,21223869
+1989,Regular Season,Lotte Orions,9,"Saito, Ko",C,43,1.000,112,20,0,4,3,21323844
+1989,Regular Season,Hanshin Tigers,48,"Kubo, Yasuo",P,14,1.000,2,5,0,0,,21323846
+1989,Regular Season,Seibu Lions,18,"Kaku, Taigen",P,26,0.980,9,39,1,0,,21323860
+1989,Regular Season,Chunichi Dragons,53,"Kawabata, Yasuhiro",P,20,0.913,8,13,2,0,,21323862
+1989,Regular Season,Nippon-Ham Fighters,24,"Okawa, Akira",P,4,0.000,0,0,0,0,,21323863
+1989,Regular Season,Hiroshima Toyo Carp,47,"Kaneishi, Akihito",P,17,1.000,4,23,0,1,,21323865
+1989,Regular Season,Yakult Swallows,33,"Nakanishi, Chikashi",C,76,0.991,325,22,3,3,4,21323866
+1989,Regular Season,Yomiuri Giants,0,"Kawai, Masahiro",2B,3,1.000,2,4,0,1,,21323869
+1989,Regular Season,Yomiuri Giants,0,"Kawai, Masahiro",3B,10,1.000,2,9,0,0,,21323869
+1989,Regular Season,Yomiuri Giants,0,"Kawai, Masahiro",SS,92,0.992,132,227,3,46,,21323869
+1989,Regular Season,Chunichi Dragons,16,"Miyashita, Masami",P,4,0.667,1,1,1,0,,21423860
+1989,Regular Season,Hanshin Tigers,39,"Yoshida, Yasuo",C,52,0.982,198,24,4,2,5,21423862
+1989,Regular Season,Seibu Lions,2,"Yoshitake, Haruki",OF,91,1.000,118,3,0,0,,21423863
+1989,Regular Season,Lotte Orions,21,"Seki, Kiyokazu",P,18,1.000,0,4,0,0,,21523864
+1989,Regular Season,Yokohama Taiyo Whales,14,"Paciorek, Jim",1B,101,0.990,707,48,8,65,,21523866
+1989,Regular Season,Yokohama Taiyo Whales,14,"Paciorek, Jim",OF,40,1.000,55,2,0,0,,21523866
+1989,Regular Season,Chunichi Dragons,9,"Yamaguchi, Koji",OF,22,1.000,23,0,0,0,,21523868
+1989,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",2B,126,0.992,277,346,5,58,,21623860
+1989,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",SS,5,1.000,6,9,0,2,,21623860
+1989,Regular Season,Yakult Swallows,9,"Sugiura, Toru",1B,3,1.000,27,1,0,0,,21723845
+1989,Regular Season,Yakult Swallows,9,"Sugiura, Toru",OF,29,1.000,53,4,0,1,,21723845
+1989,Regular Season,Yakult Swallows,24,"Naito, Naoyuki",P,41,1.000,7,28,0,2,,21723864
+1989,Regular Season,Yomiuri Giants,38,"Suguro, Hironori",2B,9,1.000,3,8,0,1,,21723866
+1989,Regular Season,Yomiuri Giants,38,"Suguro, Hironori",3B,14,0.824,4,10,3,0,,21723866
+1989,Regular Season,Yomiuri Giants,38,"Suguro, Hironori",SS,40,0.947,37,71,6,19,,21723866
+1989,Regular Season,Hiroshima Toyo Carp,18,"Shiratake, Yoshihisa",P,23,0.966,9,19,1,2,,21723867
+1989,Regular Season,Lotte Orions,7,"Mizukami, Yoshio",2B,11,0.974,18,20,1,4,,21923842
+1989,Regular Season,Lotte Orions,7,"Mizukami, Yoshio",3B,62,0.936,43,103,10,13,,21923842
+1989,Regular Season,Lotte Orions,7,"Mizukami, Yoshio",SS,1,0.500,1,0,1,0,,21923842
+1989,Regular Season,Chunichi Dragons,28,"Miyako, Yujiro",P,1,1.000,0,1,0,0,,21923848
+1989,Regular Season,Hiroshima Toyo Carp,0,"Nagashima, Kiyoyuki",OF,119,0.995,188,0,1,0,,21923861
+1989,Regular Season,Hiroshima Toyo Carp,16,"Nagadomi, Hiroshi",P,28,1.000,8,30,0,5,,21923862
+1989,Regular Season,Hanshin Tigers,28,"Nakada, Yoshihiro",P,8,1.000,0,4,0,0,,21923863
+1989,Regular Season,Orix Braves,40,"Fukuhara, Mineo",2B,64,0.985,57,78,2,20,,21923865
+1989,Regular Season,Orix Braves,40,"Fukuhara, Mineo",3B,4,0.800,1,3,1,0,,21923865
+1989,Regular Season,Orix Braves,40,"Fukuhara, Mineo",SS,2,1.000,1,0,0,0,,21923865
+1989,Regular Season,Nippon-Ham Fighters,33,"Yahagi, Koichi",1B,2,1.000,3,0,0,0,,21923868
+1989,Regular Season,Hanshin Tigers,29,"Tomari, Katsunori",1B,16,0.988,78,6,1,4,,21923869
+1989,Regular Season,Hanshin Tigers,29,"Tomari, Katsunori",3B,2,1.000,0,1,0,0,,21923869
+1989,Regular Season,Hanshin Tigers,29,"Tomari, Katsunori",OF,28,1.000,35,0,0,0,,21923869
+1989,Regular Season,Hanshin Tigers,43,"Miyauchi, Masakazu",OF,8,1.000,1,0,0,0,,23523868
+1989,Regular Season,Lotte Orions,4,"Diaz, Mike",OF,21,0.966,25,3,1,1,,23823868
+1989,Regular Season,Hiroshima Toyo Carp,15,"Katase, Kiyotoshi",P,8,1.000,1,4,0,0,,23923868
+1989,Regular Season,Kintetsu Buffaloes,47,"Nobayashi, Hiroki",3B,1,0.000,0,0,0,0,,25623868
+1989,Regular Season,Yakult Swallows,17,"Kawasaki, Kenjiro",P,23,0.889,4,12,2,2,,25923868
+1989,Regular Season,Hiroshima Toyo Carp,1,"Yamasaki, Ryuzo",3B,2,1.000,1,1,0,0,,31033846
+1989,Regular Season,Hiroshima Toyo Carp,1,"Yamasaki, Ryuzo",OF,120,0.995,184,5,1,2,,31033846
+1989,Regular Season,Orix Braves,56,"Ninomiya, Masami",P,2,0.000,0,0,0,0,,31033860
+1989,Regular Season,Orix Braves,32,"Minamimure, Toyozo",1B,1,1.000,1,0,0,0,,31033865
+1989,Regular Season,Orix Braves,32,"Minamimure, Toyozo",OF,95,1.000,137,2,0,1,,31033865
+1989,Regular Season,Nippon-Ham Fighters,2,"Suzuki, Yoshihiro",OF,101,0.987,149,6,2,0,,31033868
+1989,Regular Season,Chunichi Dragons,7,"Uno, Masaru",2B,6,1.000,10,12,0,3,,31133844
+1989,Regular Season,Chunichi Dragons,7,"Uno, Masaru",3B,47,0.933,14,42,4,6,,31133844
+1989,Regular Season,Chunichi Dragons,7,"Uno, Masaru",SS,103,0.967,131,251,13,54,,31133844
+1989,Regular Season,Kintetsu Buffaloes,58,"Adachi, Toshiya",2B,43,0.993,57,89,1,26,,31133860
+1989,Regular Season,Kintetsu Buffaloes,58,"Adachi, Toshiya",3B,11,0.917,1,10,1,0,,31133860
+1989,Regular Season,Kintetsu Buffaloes,58,"Adachi, Toshiya",OF,2,0.000,0,0,0,0,,31133860
+1989,Regular Season,Kintetsu Buffaloes,58,"Adachi, Toshiya",SS,37,1.000,32,64,0,10,,31133860
+1989,Regular Season,Yokohama Taiyo Whales,20,"Aikawa, Hideaki",P,8,1.000,1,1,0,0,,31133862
+1989,Regular Season,Lotte Orions,1,"Aiko, Takeshi",1B,130,0.994,1194,99,8,117,,31133863
+1989,Regular Season,Lotte Orions,1,"Aiko, Takeshi",OF,2,0.000,0,0,0,0,,31133863
+1989,Regular Season,Chunichi Dragons,17,"Uehara, Akira",P,22,0.909,3,7,1,1,,31133866
+1989,Regular Season,Seibu Lions,25,"Abe, Osamu",1B,2,1.000,18,0,0,1,,31133869
+1989,Regular Season,Seibu Lions,25,"Abe, Osamu",OF,13,0.875,7,0,1,0,,31133869
+1989,Regular Season,Chunichi Dragons,57,"Hikono, Toshikatsu",OF,124,0.996,231,6,1,1,,31233860
+1989,Regular Season,Kintetsu Buffaloes,18,"Yamamura, Tatsuya",P,6,1.000,1,1,0,0,,31233861
+1989,Regular Season,Yokohama Taiyo Whales,7,"Ponce, Carlos",OF,130,0.974,255,9,7,3,,31233862
+1989,Regular Season,Orix Braves,2,"Yamagoshi, Yoshihiro",1B,10,1.000,17,1,0,4,,31233864
+1989,Regular Season,Orix Braves,2,"Yamagoshi, Yoshihiro",2B,5,1.000,4,4,0,0,,31233864
+1989,Regular Season,Orix Braves,2,"Yamagoshi, Yoshihiro",3B,11,1.000,4,8,0,1,,31233864
+1989,Regular Season,Orix Braves,2,"Yamagoshi, Yoshihiro",SS,14,0.943,10,23,2,4,,31233864
+1989,Regular Season,Hiroshima Toyo Carp,45,"Yamada, Tsutomu",OF,10,1.000,6,0,0,0,,31233865
+1989,Regular Season,Fukuoka Daiei Hawks,50,"Murata, Katsuyoshi",P,25,0.917,9,24,3,0,,31233866
+1989,Regular Season,Nippon-Ham Fighters,14,"Kawahara, Shoji",P,23,1.000,4,7,0,1,,31333842
+1989,Regular Season,Yomiuri Giants,21,"Kato, Hajime",P,4,0.800,0,4,1,0,,31333845
+1989,Regular Season,Yakult Swallows,32,"Obana, Takao",P,27,1.000,13,31,0,1,,31333846
+1989,Regular Season,Hanshin Tigers,2,"Ono, Hisashi",OF,121,0.984,237,6,4,2,,31333860
+1989,Regular Season,Hanshin Tigers,16,"Okada, Akinobu",2B,4,1.000,7,6,0,1,,31333861
+1989,Regular Season,Hanshin Tigers,16,"Okada, Akinobu",3B,127,0.957,105,207,14,15,,31333861
+1989,Regular Season,Fukuoka Daiei Hawks,57,"Otsuka, Yoshiki",C,1,0.833,4,1,1,1,0,31333862
+1989,Regular Season,Yokohama Taiyo Whales,33,"Ichikawa, Kazumasa",C,101,0.984,513,56,9,13,8,31333863
+1989,Regular Season,Kintetsu Buffaloes,19,"Onoe, Akira",2B,1,1.000,1,2,0,1,,31333865
+1989,Regular Season,Hanshin Tigers,32,"Yamaguchi, Shigeyuki",1B,5,1.000,24,2,0,1,,31333866
+1989,Regular Season,Hanshin Tigers,32,"Yamaguchi, Shigeyuki",2B,3,0.833,3,2,1,2,,31333866
+1989,Regular Season,Hanshin Tigers,32,"Yamaguchi, Shigeyuki",3B,7,0.833,1,4,1,0,,31333866
+1989,Regular Season,Hanshin Tigers,32,"Yamaguchi, Shigeyuki",SS,11,1.000,11,30,0,2,,31333866
+1989,Regular Season,Kintetsu Buffaloes,26,"Ono, Kazuyoshi",P,25,0.977,3,40,1,4,,31333869
+1989,Regular Season,Orix Braves,28,"Hoshino, Nobuyuki",P,28,1.000,7,55,0,1,,31433860
+1989,Regular Season,Kintetsu Buffaloes,21,"Kato, Masaki",OF,3,1.000,1,0,0,0,,31433866
+1989,Regular Season,Yomiuri Giants,17,"Makihara, Hiromi",P,21,0.969,4,27,1,1,,31433867
+1989,Regular Season,Yomiuri Giants,47,"Kida, Masao",P,8,1.000,3,8,0,0,,31433868
+1989,Regular Season,Nippon-Ham Fighters,8,"Shimada, Makoto",OF,67,1.000,131,2,0,0,,31533844
+1989,Regular Season,Chunichi Dragons,20,"Komatsu, Tatsuo",P,5,0.900,2,7,1,0,,31533846
+1989,Regular Season,Yokohama Taiyo Whales,18,"Okamoto, Toru",P,37,0.964,2,25,1,2,,31533866
+1989,Regular Season,Yomiuri Giants,49,"Cromartie, Warren",1B,1,1.000,2,0,0,1,,31533869
+1989,Regular Season,Yomiuri Giants,49,"Cromartie, Warren",OF,122,0.995,207,1,1,0,,31533869
+1989,Regular Season,Lotte Orions,2,"Yokota, Masashi",OF,109,0.982,157,3,3,0,,31633860
+1989,Regular Season,Yakult Swallows,29,"Tani, Hiroaki",P,12,1.000,1,4,0,0,,31733842
+1989,Regular Season,Kintetsu Buffaloes,22,"Sato, Hideaki",P,47,1.000,3,21,0,6,,31733860
+1989,Regular Season,Kintetsu Buffaloes,44,"Suzuki, Takahisa",3B,1,0.000,0,0,0,0,,31733862
+1989,Regular Season,Kintetsu Buffaloes,44,"Suzuki, Takahisa",OF,110,0.986,201,7,3,1,,31733862
+1989,Regular Season,Fukuoka Daiei Hawks,58,"Tonda, Kunimitsu",OF,7,1.000,9,0,0,0,,31733864
+1989,Regular Season,Hiroshima Toyo Carp,30,"Ko, Shinji",2B,2,1.000,1,0,0,0,,31733866
+1989,Regular Season,Hiroshima Toyo Carp,30,"Ko, Shinji",3B,14,0.875,3,4,1,1,,31733866
+1989,Regular Season,Hiroshima Toyo Carp,30,"Ko, Shinji",SS,1,0.000,0,0,0,0,,31733866
+1989,Regular Season,Nippon-Ham Fighters,59,"Sadaoka, Tetsuhisa",OF,4,0.000,0,0,0,0,,31733867
+1989,Regular Season,Nippon-Ham Fighters,3,"Shirai, Kazuyuki",2B,129,0.994,327,362,4,63,,31733869
+1989,Regular Season,Nippon-Ham Fighters,3,"Shirai, Kazuyuki",SS,2,1.000,1,0,0,0,,31733869
+1989,Regular Season,Nippon-Ham Fighters,5,"Furuya, Hideo",3B,97,0.955,47,143,9,11,,31933846
+1989,Regular Season,Kintetsu Buffaloes,3,"Hada, Koichi",1B,40,0.986,196,8,3,24,,31933847
+1989,Regular Season,Kintetsu Buffaloes,3,"Hada, Koichi",3B,2,1.000,1,1,0,1,,31933847
+1989,Regular Season,Seibu Lions,6,"Tanabe, Norio",SS,114,0.976,172,357,13,66,,31933860
+1989,Regular Season,Kintetsu Buffaloes,37,"Tanizaki, Koji",P,4,0.750,2,1,1,0,,31933863
+1989,Regular Season,Seibu Lions,29,"Van Burkleo, Tyler",OF,3,1.000,1,0,0,0,,31933866
+1989,Regular Season,Seibu Lions,5,"Tsuji, Hatsuhiko",2B,130,0.985,327,413,11,77,,31933869
+1989,Regular Season,Hanshin Tigers,17,"Ota, Takashi",P,16,1.000,1,12,0,0,,33133868
+1989,Regular Season,Lotte Orions,50,"Mori, Koji",P,1,0.000,0,0,0,0,,33633868
+1989,Regular Season,Fukuoka Daiei Hawks,32,"Matsumoto, Takuya",P,23,0.800,0,8,2,0,,33733868
+1989,Regular Season,Fukuoka Daiei Hawks,53,"Yasuda, Hideyuki",1B,2,1.000,16,2,0,1,,33933868
+1989,Regular Season,Yakult Swallows,25,"Tomashino, Kenji",2B,116,0.985,231,300,8,61,,35233868
+1989,Regular Season,Yakult Swallows,25,"Tomashino, Kenji",3B,2,0.750,0,3,1,0,,35233868
+1989,Regular Season,Yakult Swallows,25,"Tomashino, Kenji",OF,5,1.000,2,0,0,0,,35233868
+1989,Regular Season,Kintetsu Buffaloes,40,"Akahori, Motoyuki",P,9,1.000,1,3,0,0,,35433868
+1989,Regular Season,Orix Braves,18,"Sakai, Tsutomu",P,36,0.972,8,27,1,1,,35833868
+1989,Regular Season,Orix Braves,23,"Ogawa, Hirofumi",2B,1,0.000,0,0,0,0,,37133868
+1989,Regular Season,Orix Braves,23,"Ogawa, Hirofumi",SS,115,0.969,148,317,15,51,,37133868
+1989,Regular Season,Orix Braves,38,"Hoffman, Guy",P,19,0.903,4,24,3,1,,37333868
+1989,Regular Season,Lotte Orions,29,"Murata, Choji",P,22,0.940,4,43,3,4,,41043826
+1989,Regular Season,Nippon-Ham Fighters,10,"Hayakawa, Kazuo",OF,3,0.000,0,0,0,0,,41043860
+1989,Regular Season,Nippon-Ham Fighters,44,"Brewer, Tony",OF,65,0.980,99,0,2,0,,41043862
+1989,Regular Season,Seibu Lions,24,"Hirano, Ken",OF,98,0.995,196,21,1,2,,41043863
+1989,Regular Season,Nippon-Ham Fighters,57,"Mori, Noriyuki",2B,3,1.000,4,2,0,0,,41043864
+1989,Regular Season,Nippon-Ham Fighters,57,"Mori, Noriyuki",3B,4,1.000,0,2,0,0,,41043864
+1989,Regular Season,Fukuoka Daiei Hawks,24,"Yano, Minoru",P,50,1.000,2,19,0,1,,41043865
+1989,Regular Season,Nippon-Ham Fighters,9,"Dayett, Brian",OF,84,1.000,133,7,0,1,,41043866
+1989,Regular Season,Seibu Lions,67,"Hamamoto, Ryuji",C,1,1.000,1,0,0,0,0,41043869
+1989,Regular Season,Fukuoka Daiei Hawks,8,"Kono, Takayuki",1B,5,0.950,17,2,1,2,,41143840
+1989,Regular Season,Fukuoka Daiei Hawks,8,"Kono, Takayuki",2B,4,1.000,4,9,0,2,,41143840
+1989,Regular Season,Fukuoka Daiei Hawks,8,"Kono, Takayuki",3B,4,1.000,1,2,0,0,,41143840
+1989,Regular Season,Chunichi Dragons,8,"Oishi, Tomoyoshi",C,32,1.000,53,7,0,2,0,41143861
+1989,Regular Season,Seibu Lions,7,"Ishige, Hiromichi",3B,130,0.960,100,261,15,23,,41143863
+1989,Regular Season,Chunichi Dragons,58,"Emoto, Koichi",P,3,1.000,0,1,0,0,,41143864
+1989,Regular Season,Hanshin Tigers,47,"Shimao, Yasuhito",P,21,1.000,4,6,0,0,,41143866
+1989,Regular Season,Yokohama Taiyo Whales,11,"Ishikawa, Masaru",P,10,1.000,1,4,0,1,,41143867
+1989,Regular Season,Orix Braves,24,"Iizuka, Tomiji",1B,2,1.000,2,0,0,1,,41143869
+1989,Regular Season,Orix Braves,24,"Iizuka, Tomiji",OF,1,0.000,0,0,0,0,,41143869
+1989,Regular Season,Fukuoka Daiei Hawks,25,"Mashiba, Shigekuni",P,15,1.000,0,6,0,1,,41243841
+1989,Regular Season,Kintetsu Buffaloes,57,"Furukubo, Kenji",C,61,0.987,209,25,3,4,0,41243860
+1989,Regular Season,Lotte Orions,30,"Morita, Yoshihiko",2B,27,0.982,21,33,1,7,,41243862
+1989,Regular Season,Lotte Orions,30,"Morita, Yoshihiko",3B,7,1.000,0,2,0,0,,41243862
+1989,Regular Season,Lotte Orions,30,"Morita, Yoshihiko",OF,4,1.000,1,0,0,0,,41243862
+1989,Regular Season,Lotte Orions,30,"Morita, Yoshihiko",SS,51,0.976,75,128,5,46,,41243862
+1989,Regular Season,Lotte Orions,60,"Nagano, Yoshinari",P,16,1.000,0,5,0,0,,41243866
+1989,Regular Season,Orix Braves,25,"Fujita, Hiromasa",C,55,0.995,174,20,1,4,2,41243867
+1989,Regular Season,Yomiuri Giants,19,"Yoshida, Shuji",P,10,1.000,4,3,0,1,,41243868
+1989,Regular Season,Orix Braves,47,"Murakami, Shinichi",1B,1,1.000,1,0,0,0,,41243869
+1989,Regular Season,Yakult Swallows,23,"Sakai, Keiichi",P,5,1.000,1,2,0,0,,41343844
+1989,Regular Season,Hanshin Tigers,26,"Kudo, Kazuhiko",P,5,1.000,0,2,0,0,,41343846
+1989,Regular Season,Seibu Lions,3,"Kiyohara, Kazuhiro",1B,122,0.996,1162,78,5,93,,41343862
+1989,Regular Season,Seibu Lions,3,"Kiyohara, Kazuhiro",3B,1,0.000,0,0,0,0,,41343862
+1989,Regular Season,Chunichi Dragons,44,"Koyama, Kazuyoshi",OF,11,1.000,13,0,0,0,,41343864
+1989,Regular Season,Kintetsu Buffaloes,6,"Kanemura, Yoshiaki",1B,3,1.000,6,0,0,0,,41343865
+1989,Regular Season,Kintetsu Buffaloes,6,"Kanemura, Yoshiaki",2B,4,1.000,0,1,0,0,,41343865
+1989,Regular Season,Kintetsu Buffaloes,6,"Kanemura, Yoshiaki",3B,79,0.954,57,169,11,19,,41343865
+1989,Regular Season,Yakult Swallows,3,"Nagashima, Kazushige",3B,55,0.978,22,67,2,3,,41343866
+1989,Regular Season,Hiroshima Toyo Carp,33,"Kawabata, Jun",P,30,1.000,5,8,0,1,,41343869
+1989,Regular Season,Yomiuri Giants,13,"Miyamoto, Kazutomo",P,18,1.000,5,21,0,1,,41443860
+1989,Regular Season,Yakult Swallows,67,"Ranbashi, Yukihito",P,21,1.000,0,9,0,0,,41443862
+1989,Regular Season,Seibu Lions,33,"Tachibana, Yoshiie",OF,4,1.000,2,0,0,0,,41543846
+1989,Regular Season,Chunichi Dragons,29,"Suzuki, Takamasa",P,24,1.000,0,17,0,0,,41543847
+1989,Regular Season,Kintetsu Buffaloes,2,"Kurihashi, Shigeru",OF,3,0.000,0,0,0,0,,41543849
+1989,Regular Season,Nippon-Ham Fighters,18,"Kono, Hirofumi",P,36,0.923,1,11,1,0,,41543860
+1989,Regular Season,Fukuoka Daiei Hawks,0,"Sakaguchi, Chisen",2B,2,1.000,0,1,0,0,,41543862
+1989,Regular Season,Fukuoka Daiei Hawks,0,"Sakaguchi, Chisen",3B,13,0.692,0,9,4,1,,41543862
+1989,Regular Season,Fukuoka Daiei Hawks,0,"Sakaguchi, Chisen",SS,5,1.000,2,3,0,0,,41543862
+1989,Regular Season,Orix Braves,52,"Takahashi, Satoshi",1B,10,0.950,18,1,1,1,,41543864
+1989,Regular Season,Orix Braves,52,"Takahashi, Satoshi",OF,1,0.000,0,0,0,0,,41543864
+1989,Regular Season,Chunichi Dragons,32,"Hinshaw, George",OF,52,0.970,93,3,3,0,,41543868
+1989,Regular Season,Kintetsu Buffaloes,36,"Goseki, Masahiko",1B,22,0.992,120,7,1,13,,41543869
+1989,Regular Season,Kintetsu Buffaloes,36,"Goseki, Masahiko",OF,1,0.000,0,0,0,0,,41543869
+1989,Regular Season,Hanshin Tigers,12,"Fukuma, Osamu",P,9,1.000,0,3,0,0,,41743848
+1989,Regular Season,Lotte Orions,15,"So, Katsuo",P,28,1.000,14,52,0,7,,41743860
+1989,Regular Season,Nippon-Ham Fighters,37,"Tanaka, Yukio",SS,122,0.965,206,320,19,79,,41743862
+1989,Regular Season,Nippon-Ham Fighters,22,"Tamura, Fujio",C,123,0.996,702,65,3,16,4,41743863
+1989,Regular Season,Kintetsu Buffaloes,60,"Nakatani, Tadami",OF,13,1.000,18,0,0,0,,41743864
+1989,Regular Season,Hiroshima Toyo Carp,14,"Tsuda, Tsunemi",P,51,1.000,3,19,0,1,,41743865
+1989,Regular Season,Yomiuri Giants,32,"Takada, Makoto",C,3,1.000,11,0,0,0,0,41743866
+1989,Regular Season,Orix Braves,20,"Tani, Ryoji",P,1,0.000,0,0,0,0,,41743869
+1989,Regular Season,Yomiuri Giants,2,"Minoda, Koji",OF,15,1.000,19,0,0,0,,41943842
+1989,Regular Season,Fukuoka Daiei Hawks,31,"Nagai, Tamotsu",P,39,1.000,1,1,0,0,,41943845
+1989,Regular Season,Fukuoka Daiei Hawks,51,"Nagata, Toshinori",2B,2,1.000,3,2,0,0,,41943863
+1989,Regular Season,Fukuoka Daiei Hawks,51,"Nagata, Toshinori",3B,7,1.000,3,11,0,1,,41943863
+1989,Regular Season,Fukuoka Daiei Hawks,51,"Nagata, Toshinori",SS,2,0.500,0,1,1,0,,41943863
+1989,Regular Season,Orix Braves,10,"Fujii, Yasuo",1B,7,1.000,18,2,0,0,,41943864
+1989,Regular Season,Orix Braves,10,"Fujii, Yasuo",OF,119,0.984,233,7,4,1,,41943864
+1989,Regular Season,Orix Braves,61,"Kiyohara, Yuichi",P,27,1.000,2,5,0,0,,41943866
+1989,Regular Season,Hiroshima Toyo Carp,7,"Nomura, Kenjiro",2B,5,1.000,6,4,0,1,,43243868
+1989,Regular Season,Hiroshima Toyo Carp,7,"Nomura, Kenjiro",3B,10,0.833,2,3,1,0,,43243868
+1989,Regular Season,Hiroshima Toyo Carp,7,"Nomura, Kenjiro",OF,48,1.000,52,2,0,1,,43243868
+1989,Regular Season,Hiroshima Toyo Carp,7,"Nomura, Kenjiro",SS,12,1.000,10,21,0,0,,43243868
+1989,Regular Season,Hanshin Tigers,37,"Takai, Hajime",1B,2,1.000,14,0,0,2,,43343868
+1989,Regular Season,Lotte Orions,59,"Aoyagi, Susumu",C,9,0.929,13,0,1,0,0,43643868
+1989,Regular Season,Lotte Orions,49,"Hirai, Mitsuchika",OF,4,1.000,11,0,0,0,,43843868
+1989,Regular Season,Seibu Lions,56,"Yamano, Kazuaki",OF,14,0.875,14,0,2,0,,45343868
+1989,Regular Season,Kintetsu Buffaloes,27,"Nakane, Hitoshi",OF,50,0.976,78,3,2,1,,45643868
+1989,Regular Season,Yakult Swallows,19,"Oka, Yukitoshi",P,22,1.000,2,7,0,0,,45943868
+1989,Regular Season,Seibu Lions,17,"Yamane, Kazuo",P,31,1.000,2,9,0,1,,51053844
+1989,Regular Season,Nippon-Ham Fighters,26,"Nishimura, Motofumi",P,26,0.857,1,5,1,1,,51053860
+1989,Regular Season,Fukuoka Daiei Hawks,28,"Harada, Kenji",P,11,1.000,0,5,0,1,,51053862
+1989,Regular Season,Hiroshima Toyo Carp,27,"Hara, Shinji",C,10,0.955,19,2,1,0,2,51053863
+1989,Regular Season,Kintetsu Buffaloes,12,"Makishi, Yasunaga",2B,1,1.000,0,1,0,0,,51053864
+1989,Regular Season,Kintetsu Buffaloes,12,"Makishi, Yasunaga",3B,4,1.000,0,1,0,0,,51053864
+1989,Regular Season,Kintetsu Buffaloes,12,"Makishi, Yasunaga",SS,113,0.977,151,322,11,77,,51053864
+1989,Regular Season,Yakult Swallows,14,"Miyamoto, Kenji",P,33,0.889,1,7,1,0,,51053865
+1989,Regular Season,Nippon-Ham Fighters,6,"Easler, Mike",1B,14,0.983,102,16,2,9,,51053866
+1989,Regular Season,Yakult Swallows,20,"Nakamoto, Shigeki",P,22,1.000,7,29,0,3,,51053867
+1989,Regular Season,Seibu Lions,46,"Narita, Yukihiro",P,1,0.000,0,0,0,0,,51053869
+1989,Regular Season,Kintetsu Buffaloes,9,"Arai, Hiromasa",1B,14,0.990,91,4,1,5,,51153840
+1989,Regular Season,Kintetsu Buffaloes,9,"Arai, Hiromasa",OF,108,0.995,208,9,1,2,,51153840
+1989,Regular Season,Yakult Swallows,43,"Ai, Eijiro",P,4,0.000,0,0,0,0,,51153860
+1989,Regular Season,Nippon-Ham Fighters,4,"Igarashi, Shinichi",1B,13,1.000,30,1,0,5,,51153861
+1989,Regular Season,Nippon-Ham Fighters,4,"Igarashi, Shinichi",2B,5,1.000,2,3,0,1,,51153861
+1989,Regular Season,Nippon-Ham Fighters,4,"Igarashi, Shinichi",3B,4,1.000,0,1,0,0,,51153861
+1989,Regular Season,Nippon-Ham Fighters,4,"Igarashi, Shinichi",OF,10,1.000,12,0,0,0,,51153861
+1989,Regular Season,Yakult Swallows,10,"Arai, Yukio",OF,95,0.984,121,5,2,2,,51153862
+1989,Regular Season,Seibu Lions,1,"Akiyama, Koji",OF,124,0.986,279,10,4,3,,51153863
+1989,Regular Season,Kintetsu Buffaloes,14,"Awano, Hideyuki",P,29,0.967,9,49,2,5,,51153864
+1989,Regular Season,Chunichi Dragons,36,"Enda, Seiji",OF,41,1.000,32,0,0,0,,51153866
+1989,Regular Season,Chunichi Dragons,12,"Chin, Yoshinobu",P,16,0.917,2,9,1,1,,51153868
+1989,Regular Season,Nippon-Ham Fighters,99,"Wakana, Yoshiharu",1B,5,1.000,8,0,0,2,,51253849
+1989,Regular Season,Nippon-Ham Fighters,99,"Wakana, Yoshiharu",C,44,1.000,127,9,0,1,1,51253849
+1989,Regular Season,Fukuoka Daiei Hawks,29,"Yamamoto, Kazunori",OF,26,1.000,63,1,0,1,,51253861
+1989,Regular Season,Fukuoka Daiei Hawks,46,"Matsuzaki, Hideaki",P,5,1.000,0,1,0,1,,51253862
+1989,Regular Season,Orix Braves,8,"Matsunaga, Hiromi",3B,124,0.953,94,267,18,23,,51253863
+1989,Regular Season,Kintetsu Buffaloes,15,"Yamasaki, Shintaro",P,26,0.943,9,41,3,2,,51253864
+1989,Regular Season,Yomiuri Giants,7,"Yoshimura, Sadaaki",OF,6,1.000,8,0,0,0,,51253865
+1989,Regular Season,Fukuoka Daiei Hawks,11,"Yoshida, Toyohiko",P,26,0.939,1,30,2,0,,51253866
+1989,Regular Season,Fukuoka Daiei Hawks,20,"Fujimoto, Shuji",P,4,1.000,0,3,0,0,,51253869
+1989,Regular Season,Orix Braves,21,"Imai, Yutaro",P,28,0.955,3,18,1,0,,51353843
+1989,Regular Season,Yokohama Taiyo Whales,44,"Kato, Hirokazu",OF,8,1.000,4,0,0,0,,51353845
+1989,Regular Season,Hiroshima Toyo Carp,9,"Osanai, Takashi",1B,42,0.993,249,17,2,24,,51353861
+1989,Regular Season,Hiroshima Toyo Carp,9,"Osanai, Takashi",OF,48,0.966,56,1,2,0,,51353861
+1989,Regular Season,Yomiuri Giants,5,"Okazaki, Kaoru",1B,25,0.996,211,13,1,19,,51353865
+1989,Regular Season,Yomiuri Giants,5,"Okazaki, Kaoru",2B,5,1.000,6,10,0,1,,51353865
+1989,Regular Season,Yomiuri Giants,5,"Okazaki, Kaoru",3B,108,0.970,57,199,8,16,,51353865
+1989,Regular Season,Yomiuri Giants,5,"Okazaki, Kaoru",SS,5,1.000,1,4,0,1,,51353865
+1989,Regular Season,Hanshin Tigers,46,"Yokotani, Soichi",1B,12,0.987,72,2,1,3,,51353866
+1989,Regular Season,Hanshin Tigers,46,"Yokotani, Soichi",OF,14,1.000,12,0,0,0,,51353866
+1989,Regular Season,Kintetsu Buffaloes,10,"Yamashita, Kazuhiko",C,112,0.991,585,50,6,10,7,51453862
+1989,Regular Season,Kintetsu Buffaloes,41,"Kinoshita, Fuminobu",P,21,1.000,1,2,0,0,,51453866
+1989,Regular Season,Lotte Orions,39,"Maruyama, Kazuhito",2B,13,0.982,28,26,1,14,,51453867
+1989,Regular Season,Seibu Lions,41,"Watanabe, Hisanobu",P,29,0.943,4,29,2,4,,51453869
+1989,Regular Season,Yakult Swallows,5,"Sumi, Fujio",3B,96,0.982,56,157,4,14,,51553842
+1989,Regular Season,Nippon-Ham Fighters,13,"Shibata, Yasumitsu",P,34,0.942,7,42,3,3,,51553848
+1989,Regular Season,Hiroshima Toyo Carp,34,"Kawaguchi, Kazuhisa",P,26,0.983,3,56,1,5,,51553863
+1989,Regular Season,Seibu Lions,47,"Kudo, Kimiyasu",P,33,0.893,3,22,3,5,,51553865
+1989,Regular Season,Yokohama Taiyo Whales,48,"Kitano, Katsunori",P,1,0.000,0,0,0,0,,51553866
+1989,Regular Season,Hanshin Tigers,22,"Kido, Katsuhiko",C,93,0.997,533,51,2,8,10,51553867
+1989,Regular Season,Chunichi Dragons,56,"Maehara, Hiroyuki",3B,7,1.000,3,13,0,2,,51553868
+1989,Regular Season,Kintetsu Buffaloes,11,"Yoshii, Masato",P,47,1.000,2,17,0,0,,51653860
+1989,Regular Season,Hiroshima Toyo Carp,43,"Sakakibara, Soichiro",OF,3,0.750,3,0,1,0,,51753866
+1989,Regular Season,Nippon-Ham Fighters,19,"Ueoka, Ryoichi",P,2,1.000,0,1,0,0,,51753868
+1989,Regular Season,Yomiuri Giants,44,"Ogata, Koichi",2B,3,1.000,2,7,0,0,,51853868
+1989,Regular Season,Yomiuri Giants,44,"Ogata, Koichi",3B,6,0.923,3,9,1,0,,51853868
+1989,Regular Season,Yomiuri Giants,44,"Ogata, Koichi",OF,43,1.000,59,2,0,1,,51853868
+1989,Regular Season,Yomiuri Giants,44,"Ogata, Koichi",SS,15,0.945,11,41,3,4,,51853868
+1989,Regular Season,Seibu Lions,15,"Matsunuma, Hirohisa",P,24,1.000,8,43,0,4,,51953848
+1989,Regular Season,Hanshin Tigers,21,"Toyama, Shoji",P,10,1.000,1,5,0,0,,51953862
+1989,Regular Season,Fukuoka Daiei Hawks,10,"Nishimura, Hidetsugu",P,9,1.000,2,5,0,2,,51953864
+1989,Regular Season,Chunichi Dragons,41,"Tanaka, Tomio",P,16,1.000,1,8,0,0,,51953867
+1989,Regular Season,Hanshin Tigers,20,"Watanabe, Nobuhiko",P,30,1.000,3,9,0,1,,53153868
+1989,Regular Season,Hanshin Tigers,67,"Kameyama, Tsutomu",OF,15,1.000,8,0,0,0,,53553868
+1989,Regular Season,Lotte Orions,44,"Shimada, Shigeru",1B,2,1.000,2,1,0,0,,53853868
+1989,Regular Season,Lotte Orions,44,"Shimada, Shigeru",OF,9,1.000,7,0,0,0,,53853868
+1989,Regular Season,Yokohama Taiyo Whales,13,"Ishida, Tomoya",P,4,1.000,0,2,0,1,,55553868
+1989,Regular Season,Kintetsu Buffaloes,8,"Yonezaki, Kunji",2B,2,1.000,3,2,0,0,,55653868
+1989,Regular Season,Kintetsu Buffaloes,8,"Yonezaki, Kunji",SS,25,0.977,31,55,2,12,,55653868
+1989,Regular Season,Orix Braves,26,"Ito, Takahide",P,34,0.833,3,7,2,0,,55853868
+1989,Regular Season,Fukuoka Daiei Hawks,22,"Mori, Hiroyuki",C,3,1.000,7,3,0,1,0,61063864
+1989,Regular Season,Orix Braves,12,"Yamaoki, Yukihiko",P,23,1.000,11,31,0,4,,61063865
+1989,Regular Season,Lotte Orions,25,"Hiranuma, Sadaharu",P,36,1.000,5,15,0,2,,61063869
+1989,Regular Season,Yomiuri Giants,23,"Ueda, Kazuaki",2B,6,0.889,8,8,2,2,,61163860
+1989,Regular Season,Yomiuri Giants,23,"Ueda, Kazuaki",3B,4,1.000,0,3,0,1,,61163860
+1989,Regular Season,Yomiuri Giants,23,"Ueda, Kazuaki",OF,15,1.000,2,0,0,0,,61163860
+1989,Regular Season,Yomiuri Giants,23,"Ueda, Kazuaki",SS,19,0.986,20,50,1,10,,61163860
+1989,Regular Season,Hiroshima Toyo Carp,23,"Ueda, Yukihiro",C,62,0.991,279,34,3,3,1,61163862
+1989,Regular Season,Yokohama Taiyo Whales,51,"Ishibashi, Mitsugu",OF,54,0.972,30,5,1,3,,61163863
+1989,Regular Season,Yakult Swallows,35,"Ogawa, Junji",1B,4,1.000,4,2,0,0,,61163865
+1989,Regular Season,Yakult Swallows,35,"Ogawa, Junji",OF,86,0.987,73,3,1,1,,61163865
+1989,Regular Season,Hanshin Tigers,18,"Ikeda, Chikafusa",P,14,0.950,6,13,1,0,,61163869
+1989,Regular Season,Orix Braves,35,"Furumizo, Katsuyuki",P,8,1.000,1,1,0,0,,61263860
+1989,Regular Season,Yakult Swallows,12,"Yano, Kazuya",P,22,1.000,9,23,0,3,,61263862
+1989,Regular Season,Fukuoka Daiei Hawks,18,"Yamauchi, Kazuhiro",P,32,0.967,5,24,1,0,,61263863
+1989,Regular Season,Nippon-Ham Fighters,28,"Futamura, Tadami",3B,3,0.000,0,0,0,0,,61263867
+1989,Regular Season,Nippon-Ham Fighters,28,"Futamura, Tadami",OF,75,0.987,73,2,1,1,,61263867
+1989,Regular Season,Yomiuri Giants,26,"Matsutani, Ryujiro",P,4,0.000,0,0,0,0,,61263868
+1989,Regular Season,Kintetsu Buffaloes,5,"Murakami, Takayuki",1B,23,1.000,178,7,0,13,,61263869
+1989,Regular Season,Kintetsu Buffaloes,5,"Murakami, Takayuki",3B,5,1.000,5,5,0,0,,61263869
+1989,Regular Season,Kintetsu Buffaloes,5,"Murakami, Takayuki",OF,26,0.975,39,0,1,0,,61263869
+1989,Regular Season,Lotte Orions,6,"Kamikawa, Seiji",2B,95,0.992,228,272,4,62,,61363865
+1989,Regular Season,Lotte Orions,6,"Kamikawa, Seiji",3B,12,0.909,5,15,2,2,,61363865
+1989,Regular Season,Kintetsu Buffaloes,30,"Kato, Tetsuro",P,24,0.939,6,25,2,1,,61363867
+1989,Regular Season,Chunichi Dragons,4,"Shimizu, Masaji",2B,16,0.973,16,20,1,5,,61363868
+1989,Regular Season,Chunichi Dragons,4,"Shimizu, Masaji",3B,3,1.000,0,1,0,0,,61363868
+1989,Regular Season,Yokohama Taiyo Whales,59,"Yamazaki, Kenichi",OF,129,1.000,274,13,0,4,,61463860
+1989,Regular Season,Hanshin Tigers,36,"Yamawaki, Koji",2B,5,1.000,10,6,0,2,,61463867
+1989,Regular Season,Hanshin Tigers,36,"Yamawaki, Koji",SS,39,0.977,33,52,2,9,,61463867
+1989,Regular Season,Hiroshima Toyo Carp,5,"Takashiro, Nobuhiro",1B,3,1.000,2,0,0,0,,61563848
+1989,Regular Season,Hiroshima Toyo Carp,5,"Takashiro, Nobuhiro",2B,2,1.000,2,2,0,0,,61563848
+1989,Regular Season,Hiroshima Toyo Carp,5,"Takashiro, Nobuhiro",3B,4,1.000,1,3,0,0,,61563848
+1989,Regular Season,Hiroshima Toyo Carp,5,"Takashiro, Nobuhiro",SS,1,1.000,0,5,0,1,,61563848
+1989,Regular Season,Yomiuri Giants,48,"Koda, Isao",P,19,1.000,2,12,0,1,,61563860
+1989,Regular Season,Yomiuri Giants,10,"Komada, Norihiro",1B,113,0.995,953,53,5,75,,61563867
+1989,Regular Season,Yomiuri Giants,10,"Komada, Norihiro",OF,22,1.000,38,1,0,0,,61563867
+1989,Regular Season,Chunichi Dragons,55,"Taiho, Yasuaki",1B,16,1.000,89,6,0,8,,61563868
+1989,Regular Season,Chunichi Dragons,55,"Taiho, Yasuaki",OF,87,1.000,119,5,0,0,,61563868
+1989,Regular Season,Yokohama Taiyo Whales,3,"Takagi, Yutaka",2B,123,0.992,307,308,5,70,,61763863
+1989,Regular Season,Yokohama Taiyo Whales,3,"Takagi, Yutaka",OF,5,1.000,10,0,0,0,,61763863
+1989,Regular Season,Chunichi Dragons,39,"Nakamura, Takeshi",C,121,0.994,624,76,4,12,8,61763864
+1989,Regular Season,Yomiuri Giants,33,"Masuda, Akinori",P,3,1.000,0,1,0,0,,61763866
+1989,Regular Season,Yokohama Taiyo Whales,9,"Choshi, Toshio",2B,1,1.000,2,1,0,1,,61763869
+1989,Regular Season,Yokohama Taiyo Whales,9,"Choshi, Toshio",3B,114,0.958,52,201,11,16,,61763869
+1989,Regular Season,Yokohama Taiyo Whales,9,"Choshi, Toshio",SS,2,1.000,2,4,0,3,,61763869
+1989,Regular Season,Yokohama Taiyo Whales,31,"Yashiki, Kaname",3B,6,1.000,3,5,0,0,,61963846
+1989,Regular Season,Yokohama Taiyo Whales,31,"Yashiki, Kaname",OF,53,0.974,71,3,2,0,,61963846
+1989,Regular Season,Hanshin Tigers,34,"Nakada, Koji",P,26,0.917,0,22,2,0,,61963860
+1989,Regular Season,Chunichi Dragons,42,"Nakamura, Hiromichi",P,2,0.000,0,0,0,0,,61963862
+1989,Regular Season,Seibu Lions,42,"Nishimoto, Kazuhito",P,37,0.968,3,27,1,2,,61963863
+1989,Regular Season,Seibu Lions,35,"Fujino, Seigo",2B,3,1.000,0,4,0,0,,61963864
+1989,Regular Season,Seibu Lions,35,"Fujino, Seigo",3B,17,0.867,2,11,2,2,,61963864
+1989,Regular Season,Seibu Lions,35,"Fujino, Seigo",SS,24,0.986,21,51,1,9,,61963864
+1989,Regular Season,Seibu Lions,4,"Tomashino, Seiji",1B,4,1.000,21,0,0,2,,61963867
+1989,Regular Season,Seibu Lions,4,"Tomashino, Seiji",2B,9,0.963,14,12,1,5,,61963867
+1989,Regular Season,Seibu Lions,4,"Tomashino, Seiji",3B,3,1.000,1,0,0,0,,61963867
+1989,Regular Season,Seibu Lions,4,"Tomashino, Seiji",OF,24,1.000,26,0,0,0,,61963867
+1989,Regular Season,Hanshin Tigers,19,"Nakanishi, Kiyoki",P,34,0.963,17,35,2,0,,61963869
+1989,Regular Season,Hanshin Tigers,44,"Fielder, Cecil",1B,106,0.993,870,90,7,62,,63363868
+1989,Regular Season,Lotte Orions,11,"Maeda, Yukinaga",P,17,0.889,0,8,1,1,,63463868
+1989,Regular Season,Lotte Orions,66,"Fukuzawa, Yoichi",C,97,0.985,469,57,8,19,7,63663868
+1989,Regular Season,Fukuoka Daiei Hawks,7,"Upshaw, Willie",1B,123,0.996,1185,62,5,86,,63763868
+1989,Regular Season,Hiroshima Toyo Carp,22,"Adachi, Wataru",P,2,0.000,0,0,0,0,,63963868
+1989,Regular Season,Yokohama Taiyo Whales,66,"Ishii, Takuro",P,17,1.000,1,10,0,0,,65563868
+1989,Regular Season,Orix Braves,29,"Takashima, Toru",C,3,1.000,2,1,0,0,0,65863868
+1989,Regular Season,Yakult Swallows,22,"Kaseda, Yukinari",P,5,0.000,0,0,0,0,,65963868
+1989,Regular Season,Nippon-Ham Fighters,1,"Hirose, Tetsuro",2B,2,1.000,1,0,0,0,,71073862
+1989,Regular Season,Nippon-Ham Fighters,1,"Hirose, Tetsuro",3B,26,1.000,3,16,0,2,,71073862
+1989,Regular Season,Nippon-Ham Fighters,1,"Hirose, Tetsuro",SS,14,1.000,3,11,0,2,,71073862
+1989,Regular Season,Yomiuri Giants,8,"Hara, Tatsunori",OF,108,1.000,137,2,0,1,,71073863
+1989,Regular Season,Fukuoka Daiei Hawks,38,"Migita, Masahiko",OF,47,1.000,34,2,0,0,,71073864
+1989,Regular Season,Nippon-Ham Fighters,52,"Tanaka, Minoru",OF,2,0.000,0,0,0,0,,71073866
+1989,Regular Season,Chunichi Dragons,31,"Nimura, Kaoru",OF,60,0.981,52,1,1,0,,71073869
+1989,Regular Season,Hanshin Tigers,14,"Ito, Fumitaka",P,27,1.000,9,26,0,2,,71173846
+1989,Regular Season,Yomiuri Giants,9,"Arita, Shuzo",C,24,0.980,134,13,3,2,2,71173847
+1989,Regular Season,Seibu Lions,27,"Ito, Tsutomu",C,115,0.993,662,53,5,5,2,71173865
+1989,Regular Season,Chunichi Dragons,40,"Oto, Shigeki",OF,69,0.985,122,6,2,1,,71173866
+1989,Regular Season,Chunichi Dragons,14,"Imanaka, Shinji",P,10,1.000,3,8,0,1,,71173868
+1989,Regular Season,Yakult Swallows,8,"Hirosawa, Katsumi",OF,130,0.989,258,10,3,2,,71273860
+1989,Regular Season,Orix Braves,36,"Yamamori, Masafumi",OF,38,0.971,32,1,1,0,,71273861
+1989,Regular Season,Yokohama Taiyo Whales,29,"Matsumoto, Yutaka",P,48,1.000,2,30,0,1,,71273862
+1989,Regular Season,Fukuoka Daiei Hawks,9,"Bernazard, Tony",2B,120,0.967,305,334,22,71,,71273866
+1989,Regular Season,Hanshin Tigers,13,"Okabe, Noriaki",P,6,1.000,0,1,0,0,,71373846
+1989,Regular Season,Yomiuri Giants,29,"Katori, Yoshitaka",P,21,1.000,1,5,0,0,,71373848
+1989,Regular Season,Lotte Orions,38,"Okabe, Akihito",OF,13,1.000,10,3,0,1,,71373860
+1989,Regular Season,Fukuoka Daiei Hawks,2,"Kagawa, Nobuyuki",C,21,1.000,55,5,0,0,0,71373861
+1989,Regular Season,Yokohama Taiyo Whales,16,"Kakehata, Mitsunori",P,31,0.977,7,36,1,3,,71373865
+1989,Regular Season,Hanshin Tigers,41,"Yoshikawa, Hiroyuki",OF,2,1.000,7,0,0,0,,71373866
+1989,Regular Season,Fukuoka Daiei Hawks,17,"Kato, Shinichi",P,26,1.000,7,53,0,1,,71373869
+1989,Regular Season,Kintetsu Buffaloes,20,"Takayanagi, Izumi",P,16,1.000,2,14,0,1,,71473866
+1989,Regular Season,Hanshin Tigers,56,"Mikoshiba, Susumu",P,29,1.000,8,15,0,0,,71473867
+1989,Regular Season,Orix Braves,78,"Kadota, Hiromitsu",OF,51,0.948,69,4,4,1,,71573841
+1989,Regular Season,Hanshin Tigers,8,"Tao, Yasushi",1B,1,1.000,2,0,0,0,,71573842
+1989,Regular Season,Hanshin Tigers,8,"Tao, Yasushi",OF,70,0.978,82,5,2,0,,71573842
+1989,Regular Season,Yakult Swallows,39,"Shibui, Keiichi",2B,74,0.977,56,73,3,17,,71573846
+1989,Regular Season,Yakult Swallows,39,"Shibui, Keiichi",3B,4,0.500,1,0,1,0,,71573846
+1989,Regular Season,Orix Braves,6,"Kumano, Terumitsu",OF,54,1.000,72,3,0,0,,71573860
+1989,Regular Season,Seibu Lions,12,"Kitamura, Terufumi",OF,71,1.000,30,1,0,0,,71573861
+1989,Regular Season,Yokohama Taiyo Whales,5,"Shimizu, Yoshiyuki",2B,2,1.000,1,2,0,0,,71573866
+1989,Regular Season,Yokohama Taiyo Whales,5,"Shimizu, Yoshiyuki",3B,19,0.963,6,20,1,1,,71573866
+1989,Regular Season,Yokohama Taiyo Whales,5,"Shimizu, Yoshiyuki",SS,5,1.000,3,6,0,0,,71573866
+1989,Regular Season,Yakult Swallows,46,"Kuriyama, Hideki",OF,119,0.990,296,7,3,1,,71573869
+1989,Regular Season,Lotte Orions,58,"Yoshioka, Tomoki",P,30,0.947,2,16,1,1,,71673860
+1989,Regular Season,Fukuoka Daiei Hawks,5,"Yamamura, Yoshinori",OF,1,1.000,1,0,0,0,,71773840
+1989,Regular Season,Yomiuri Giants,24,"Nakahata, Kiyoshi",1B,16,0.977,79,6,2,8,,71773844
+1989,Regular Season,Yomiuri Giants,24,"Nakahata, Kiyoshi",3B,22,0.905,12,26,4,2,,71773844
+1989,Regular Season,Hanshin Tigers,9,"Sano, Noriyoshi",OF,3,1.000,6,0,0,0,,71773849
+1989,Regular Season,Hanshin Tigers,27,"Shimada, Munehiko",C,26,0.963,70,7,3,1,1,71773860
+1989,Regular Season,Chunichi Dragons,37,"Suzuki, Yasutomo",2B,34,0.990,43,55,1,10,,71773861
+1989,Regular Season,Chunichi Dragons,37,"Suzuki, Yasutomo",3B,1,0.000,0,0,0,0,,71773861
+1989,Regular Season,Chunichi Dragons,37,"Suzuki, Yasutomo",SS,45,0.971,23,45,2,7,,71773861
+1989,Regular Season,Lotte Orions,28,"Sonokawa, Kazumi",P,28,1.000,8,21,0,4,,71773862
+1989,Regular Season,Yakult Swallows,38,"Dobashi, Katsuyuki",3B,5,0.909,1,9,1,1,,71773864
+1989,Regular Season,Yakult Swallows,38,"Dobashi, Katsuyuki",SS,1,1.000,0,2,0,0,,71773864
+1989,Regular Season,Hiroshima Toyo Carp,55,"Matsubayashi, Kazuo",OF,11,0.750,3,0,1,0,,71773866
+1989,Regular Season,Orix Braves,31,"Shibahara, Minoru",OF,2,0.000,0,0,0,0,,71773867
+1989,Regular Season,Yokohama Taiyo Whales,6,"Takahashi, Masahiro",SS,83,0.957,152,244,18,59,,71973860
+1989,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",1B,14,1.000,22,1,0,4,,71973865
+1989,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",2B,1,1.000,0,2,0,0,,71973865
+1989,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",SS,72,0.964,57,104,6,16,,71973865
+1989,Regular Season,Seibu Lions,32,"Haraguchi, Tetsuya",P,4,0.000,0,0,0,0,,71973866
+1989,Regular Season,Yakult Swallows,44,"Takani, Hideharu",OF,5,0.000,0,0,0,0,,71973867
+1989,Regular Season,Hanshin Tigers,49,"Hattori, Hiroaki",P,2,1.000,0,1,0,0,,73173868
+1989,Regular Season,Hanshin Tigers,38,"Iwata, Toru",C,16,1.000,27,6,0,0,1,73373868
+1989,Regular Season,Hanshin Tigers,38,"Iwata, Toru",OF,1,1.000,1,0,0,0,,73373868
+1989,Regular Season,Lotte Orions,54,"Ishida, Masahiko",P,1,0.000,0,0,0,0,,73673868
+1989,Regular Season,Lotte Orions,45,"Hori, Koichi",2B,36,0.967,61,55,4,8,,73873868
+1989,Regular Season,Lotte Orions,45,"Hori, Koichi",3B,2,1.000,0,2,0,0,,73873868
+1989,Regular Season,Lotte Orions,45,"Hori, Koichi",OF,3,1.000,2,0,0,0,,73873868
+1989,Regular Season,Lotte Orions,45,"Hori, Koichi",SS,3,1.000,4,2,0,1,,73873868
+1989,Regular Season,Fukuoka Daiei Hawks,47,"Hironaga, Yasutaka",OF,13,1.000,16,1,0,0,,73973868
+1989,Regular Season,Yokohama Taiyo Whales,27,"Tanabe, Manabu",P,25,1.000,1,9,0,2,,75573868
+1989,Regular Season,Kintetsu Buffaloes,25,"Dodson, Pat",1B,6,0.956,39,4,2,3,,75673868
+1989,Regular Season,Orix Braves,4,"Brown, Todd",OF,27,0.982,55,1,1,0,,77173868
+1989,Regular Season,Kintetsu Buffaloes,33,"Rivera, German",1B,74,0.988,590,44,8,70,,77373868
+1989,Regular Season,Kintetsu Buffaloes,33,"Rivera, German",3B,56,0.936,36,126,11,9,,77373868
+1989,Regular Season,Seibu Lions,31,"Moriyama, Ryoji",P,2,1.000,0,1,0,0,,81083864
+1989,Regular Season,Fukuoka Daiei Hawks,34,"Otsuka, Kenichi",P,1,0.000,0,0,0,0,,81083866
+1989,Regular Season,Fukuoka Daiei Hawks,48,"Hashimoto, Keiji",P,2,0.000,0,0,0,0,,81083867
+1989,Regular Season,Yokohama Taiyo Whales,24,"Endo, Kazuhiko",P,19,1.000,4,21,0,1,,81183846
+1989,Regular Season,Chunichi Dragons,6,"Ochiai, Hiromitsu",1B,86,0.998,483,46,1,53,,81183848
+1989,Regular Season,Chunichi Dragons,6,"Ochiai, Hiromitsu",3B,96,0.976,47,157,5,14,,81183848
+1989,Regular Season,Lotte Orions,26,"Ogawa, Hiroshi",P,14,0.947,4,14,1,0,,81183860
+1989,Regular Season,Fukuoka Daiei Hawks,30,"Uchida, Tsuyoshi",C,86,0.985,397,61,7,8,7,81183862
+1989,Regular Season,Orix Braves,3,"Ishimine, Kazuhiko",OF,64,0.964,79,2,3,0,,81183863
+1989,Regular Season,Seibu Lions,34,"Ogawa, Munenao",P,7,1.000,2,0,0,0,,81183864
+1989,Regular Season,Hiroshima Toyo Carp,10,"Ogawa, Tatsuaki",OF,61,1.000,40,0,0,0,,81183865
+1989,Regular Season,Yakult Swallows,36,"Ikeyama, Takahiro",SS,128,0.991,228,414,6,88,,81183869
+1989,Regular Season,Fukuoka Daiei Hawks,19,"Yamauchi, Takanori",P,21,0.962,3,22,1,0,,81283863
+1989,Regular Season,Lotte Orions,24,"Yamashita, Norihito",3B,1,0.000,0,0,0,0,,81283866
+1989,Regular Season,Lotte Orions,24,"Yamashita, Norihito",OF,7,1.000,5,0,0,0,,81283866
+1989,Regular Season,Yomiuri Giants,56,"Murata, Shinichi",C,11,1.000,59,5,0,1,0,81283869
+1989,Regular Season,Nippon-Ham Fighters,11,"Oshima, Yasunori",1B,106,0.995,874,58,5,72,,81383843
+1989,Regular Season,Nippon-Ham Fighters,11,"Oshima, Yasunori",OF,2,0.000,0,0,0,0,,81383843
+1989,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",2B,119,0.997,270,367,2,85,,81383844
+1989,Regular Season,Lotte Orions,23,"Sato, Kenichi",2B,1,1.000,2,1,0,0,,81383848
+1989,Regular Season,Lotte Orions,23,"Sato, Kenichi",SS,98,0.976,138,277,10,59,,81383848
+1989,Regular Season,Fukuoka Daiei Hawks,44,"Kishikawa, Katsuya",OF,109,0.989,175,4,2,1,,81383860
+1989,Regular Season,Yokohama Taiyo Whales,10,"Kida, Isamu",P,4,1.000,2,0,0,0,,81383861
+1989,Regular Season,Chunichi Dragons,33,"Kaku, Genji",P,42,1.000,3,12,0,0,,81383863
+1989,Regular Season,Lotte Orions,57,"Sato, Yukihiko",3B,13,0.870,6,14,3,0,,81383864
+1989,Regular Season,Yokohama Taiyo Whales,38,"Kawano, Yasuhiko",1B,6,1.000,41,3,0,2,,81383865
+1989,Regular Season,Yokohama Taiyo Whales,38,"Kawano, Yasuhiko",OF,17,0.958,23,0,1,0,,81383865
+1989,Regular Season,Yakult Swallows,31,"Hashigami, Hideki",OF,32,1.000,36,0,0,0,,81383866
+1989,Regular Season,Seibu Lions,53,"Kawamura, Kazuaki",P,2,0.000,0,0,0,0,,81383869
+1989,Regular Season,Hiroshima Toyo Carp,40,"Tatsukawa, Mitsuo",C,108,0.996,749,54,3,10,8,81583846
+1989,Regular Season,Kintetsu Buffaloes,17,"Sasaki, Osamu",P,20,1.000,0,9,0,0,,81583860
+1989,Regular Season,Orix Braves,19,"Takagi, Koji",P,6,1.000,0,1,0,0,,81583864
+1989,Regular Season,Yomiuri Giants,41,"Saito, Masaki",P,30,0.970,13,52,2,5,,81583869
+1989,Regular Season,Lotte Orions,31,"Takazawa, Hideaki",OF,74,0.983,108,5,2,0,,81783861
+1989,Regular Season,Nippon-Ham Fighters,16,"Takada, Hirohisa",P,5,1.000,1,2,0,0,,81783862
+1989,Regular Season,Fukuoka Daiei Hawks,59,"Nishi, Kiyotaka",P,3,0.000,0,0,0,0,,81783864
+1989,Regular Season,Seibu Lions,23,"Nishioka, Yoshihiro",OF,48,0.982,52,3,1,1,,81783865
+1989,Regular Season,Yomiuri Giants,58,"Matsubara, Yasushi",P,4,1.000,0,2,0,0,,81783866
+1989,Regular Season,Nippon-Ham Fighters,47,"Shimada, Naoya",P,1,0.000,0,0,0,0,,81783868
+1989,Regular Season,Nippon-Ham Fighters,30,"Tsuno, Hiroshi",P,28,0.968,3,27,1,0,,81783869
+1989,Regular Season,Seibu Lions,37,"Nakada, Hideshi",C,40,0.992,118,11,1,0,3,81983860
+1989,Regular Season,Yomiuri Giants,27,"Fukuo, Akihito",2B,8,0.944,8,9,1,1,,81983864
+1989,Regular Season,Yomiuri Giants,27,"Fukuo, Akihito",3B,7,0.909,4,6,1,0,,81983864
+1989,Regular Season,Orix Braves,14,"Yamauchi, Yoshihiro",P,39,1.000,1,11,0,0,,81983866
+1989,Regular Season,Lotte Orions,17,"Konno, Takahiro",P,44,1.000,2,11,0,1,,83483868
+1989,Regular Season,Hanshin Tigers,51,"Takamura, Yosuke",P,1,1.000,0,1,0,0,,83583868
+1989,Regular Season,Fukuoka Daiei Hawks,37,"Mifune, Hideyuki",3B,1,1.000,0,1,0,1,,83783868
+1989,Regular Season,Fukuoka Daiei Hawks,37,"Mifune, Hideyuki",SS,4,1.000,1,2,0,0,,83783868
+1989,Regular Season,Seibu Lions,11,"Ishii, Takehiro",P,33,1.000,2,13,0,0,,83883868
+1989,Regular Season,Hiroshima Toyo Carp,26,"Une, Tatsumi",P,4,1.000,1,1,0,0,,83983868
+1989,Regular Season,Kintetsu Buffaloes,31,"Yamada, Masami",P,10,1.000,0,5,0,1,,85283868
+1989,Regular Season,Seibu Lions,62,"Mori, Hiroyuki",1B,6,0.974,37,0,1,4,,85383868
+1989,Regular Season,Seibu Lions,62,"Mori, Hiroyuki",OF,5,1.000,2,0,0,0,,85383868
+1989,Regular Season,Yokohama Taiyo Whales,1,"Tanishige, Motonobu",C,75,0.985,296,37,5,3,5,85583868
+1989,Regular Season,Orix Braves,39,"Hamuro, Taro",C,1,0.000,0,0,0,0,0,85883868
+1989,Regular Season,Yokohama Taiyo Whales,28,"Niura, Hisao",P,28,0.935,7,36,3,2,,91093843
+1989,Regular Season,Yakult Swallows,6,"Mizutani, Shintaro",2B,4,0.750,1,2,1,0,,91093849
+1989,Regular Season,Yakult Swallows,6,"Mizutani, Shintaro",3B,4,1.000,1,5,0,2,,91093849
+1989,Regular Season,Yakult Swallows,6,"Mizutani, Shintaro",SS,1,1.000,0,2,0,0,,91093849
+1989,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",2B,15,1.000,17,13,0,4,,91093866
+1989,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",3B,51,0.961,28,71,4,5,,91093866
+1989,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",OF,1,0.000,0,0,0,0,,91093866
+1989,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",SS,24,0.984,20,40,1,4,,91093866
+1989,Regular Season,Hiroshima Toyo Carp,28,"Nishida, Shinji",OF,63,1.000,66,1,0,0,,91093867
+1989,Regular Season,Chunichi Dragons,5,"Nimura, Toru",2B,67,0.989,163,199,4,43,,91093869
+1989,Regular Season,Chunichi Dragons,5,"Nimura, Toru",3B,41,0.929,19,46,5,6,,91093869
+1989,Regular Season,Hiroshima Toyo Carp,24,"Ono, Yutaka",P,19,1.000,4,35,0,2,,91193844
+1989,Regular Season,Yakult Swallows,18,"Ito, Akimitsu",P,22,0.974,3,34,1,3,,91193862
+1989,Regular Season,Kintetsu Buffaloes,54,"Ikeue, Koichi",P,20,0.900,3,6,1,0,,91193864
+1989,Regular Season,Chunichi Dragons,48,"Komori, Tetsuya",2B,48,0.987,104,118,3,31,,91193866
+1989,Regular Season,Chunichi Dragons,48,"Komori, Tetsuya",SS,3,1.000,1,5,0,1,,91193866
+1989,Regular Season,Lotte Orions,19,"Ibe, Yasuji",P,10,1.000,2,6,0,2,,91193867
+1989,Regular Season,Seibu Lions,50,"Aoyama, Michio",OF,4,1.000,4,0,0,0,,91193869
+1989,Regular Season,Orix Braves,1,"Fukura, Junichi",2B,114,0.983,252,283,9,63,,91293860
+1989,Regular Season,Chunichi Dragons,60,"Miura, Masaaki",P,5,1.000,1,1,0,0,,91293862
+1989,Regular Season,Yakult Swallows,66,"Yamada, Tsutomu",P,1,0.000,0,0,0,0,,91293864
+1989,Regular Season,Hiroshima Toyo Carp,20,"Kitabeppu, Manabu",P,22,1.000,3,20,0,1,,91393842
+1989,Regular Season,Orix Braves,11,"Sato, Yoshinori",P,28,1.000,5,34,0,1,,91393844
+1989,Regular Season,Yokohama Taiyo Whales,2,"Katahira, Shinsaku",1B,10,1.000,35,1,0,5,,91393845
+1989,Regular Season,Chunichi Dragons,13,"Ono, Kazuyuki",P,21,0.960,4,20,1,1,,91393863
+1989,Regular Season,Hanshin Tigers,4,"Keough, Matt",P,28,0.981,17,35,1,1,,91393864
+1989,Regular Season,Nippon-Ham Fighters,20,"Kanazawa, Tsugio",P,28,0.857,4,14,3,1,,91393865
+1989,Regular Season,Nippon-Ham Fighters,0,"Matsura, Hiroaki",P,6,1.000,1,3,0,0,,91493860
+1989,Regular Season,Orix Braves,5,"Yumioka, Keijiro",2B,1,0.000,0,0,0,0,,91493863
+1989,Regular Season,Orix Braves,5,"Yumioka, Keijiro",3B,2,1.000,1,0,0,0,,91493863
+1989,Regular Season,Orix Braves,5,"Yumioka, Keijiro",SS,46,0.962,26,49,3,7,,91493863
+1989,Regular Season,Kintetsu Buffaloes,16,"Bryant, Ralph",OF,94,0.955,141,9,7,0,,91493866
+1989,Regular Season,Yokohama Taiyo Whales,26,"Tashiro, Tomio",1B,25,0.989,175,11,2,16,,91593842
+1989,Regular Season,Yokohama Taiyo Whales,26,"Tashiro, Tomio",3B,2,0.000,0,0,0,0,,91593842
+1989,Regular Season,Nippon-Ham Fighters,23,"Sumi, Mitsuo",P,15,1.000,2,15,0,2,,91593846
+1989,Regular Season,Yomiuri Giants,11,"Sumi, Mitsuo",P,1,1.000,0,1,0,0,,91593846
+1989,Regular Season,Chunichi Dragons,43,"Saito, Manabu",P,8,1.000,1,3,0,0,,91593862
+1989,Regular Season,Chunichi Dragons,47,"Saito, Hiroyuki",1B,11,1.000,62,4,0,4,,91593865
+1989,Regular Season,Chunichi Dragons,47,"Saito, Hiroyuki",OF,30,1.000,37,2,0,1,,91593865
+1989,Regular Season,Yokohama Taiyo Whales,36,"Shindo, Tatsuya",2B,7,1.000,2,6,0,3,,91593866
+1989,Regular Season,Yokohama Taiyo Whales,36,"Shindo, Tatsuya",3B,2,0.000,0,0,0,0,,91593866
+1989,Regular Season,Yokohama Taiyo Whales,36,"Shindo, Tatsuya",SS,45,0.993,46,94,1,18,,91593866
+1989,Regular Season,Kintetsu Buffaloes,48,"Yoshida, Takashi",2B,7,1.000,6,4,0,2,,91693860
+1989,Regular Season,Kintetsu Buffaloes,48,"Yoshida, Takashi",OF,9,1.000,2,1,0,0,,91693860
+1989,Regular Season,Kintetsu Buffaloes,48,"Yoshida, Takashi",SS,14,1.000,6,8,0,3,,91693860
+1989,Regular Season,Chunichi Dragons,25,"Nishimoto, Takashi",P,30,0.988,15,67,1,6,,91793842
+1989,Regular Season,Lotte Orions,12,"Hakamada, Hidetoshi",C,58,0.989,256,24,3,3,9,91793846
+1989,Regular Season,Hiroshima Toyo Carp,4,"Shoda, Kozo",2B,128,0.981,333,326,13,66,,91793860
+1989,Regular Season,Orix Braves,15,"Sekiguchi, Tomoyuki",P,35,1.000,2,9,0,0,,91793861
+1989,Regular Season,Yokohama Taiyo Whales,54,"Daimon, Kazuhiko",P,34,0.978,7,37,1,5,,91793862
+1989,Regular Season,Chunichi Dragons,21,"Sugimoto, Tadashi",P,23,1.000,3,15,0,2,,91793863
+1989,Regular Season,Orix Braves,27,"Nakajima, Satoshi",C,120,0.987,619,58,9,13,6,91793864
+1989,Regular Season,Nippon-Ham Fighters,12,"Tanaka, Yukio",P,25,1.000,4,12,0,2,,91793865
+1989,Regular Season,Yomiuri Giants,20,"Gullickson, Bill",P,15,1.000,3,19,0,1,,91793866
+1989,Regular Season,Nippon-Ham Fighters,39,"Shimada, Nobutoshi",OF,85,1.000,76,3,0,0,,91793867
+1989,Regular Season,Yakult Swallows,34,"Takano, Hikaru",P,4,1.000,3,6,0,0,,91793869
+1989,Regular Season,Seibu Lions,28,"Takayama, Ikuo",P,21,1.000,4,18,0,1,,91993860
+1989,Regular Season,Yokohama Taiyo Whales,19,"Nakayama, Hiroaki",P,45,0.947,1,17,1,1,,91993862
+1989,Regular Season,Seibu Lions,10,"Hanyuda, Tadakatsu",OF,38,0.981,49,3,1,1,,91993864
+1989,Regular Season,Kintetsu Buffaloes,32,"Tani, Shinichi",2B,4,1.000,3,4,0,0,,91993867
+1989,Regular Season,Kintetsu Buffaloes,32,"Tani, Shinichi",3B,1,1.000,0,1,0,0,,91993867
+1989,Regular Season,Kintetsu Buffaloes,32,"Tani, Shinichi",SS,1,0.000,0,0,0,0,,91993867
+1989,Regular Season,Hiroshima Toyo Carp,41,"Motomura, Shingo",OF,10,0.000,0,0,0,0,,93493868
+1989,Regular Season,Fukuoka Daiei Hawks,55,"Omichi, Noriyoshi",OF,2,0.000,0,0,0,0,,93993868
+1989,Regular Season,Yakult Swallows,15,"Parrish, Larry",1B,129,0.994,1157,108,7,115,,95293868
+1989,Regular Season,Kintetsu Buffaloes,28,"Nakamura, Ryoji",1B,2,1.000,5,0,0,0,,95693868
+1989,Regular Season,Kintetsu Buffaloes,28,"Nakamura, Ryoji",OF,2,0.000,0,0,0,0,,95693868
+1989,Regular Season,Yakult Swallows,27,"Davis, Ron",P,36,0.941,4,12,1,1,,97393868

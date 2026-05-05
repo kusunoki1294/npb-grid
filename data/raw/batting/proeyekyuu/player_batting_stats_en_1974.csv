@@ -1,0 +1,576 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+1974,Regular Season,Kintetsu Buffaloes,17,"Bando, Satomi",P,36,48,42,0.071,0.093,0.071,0.164,1,2,3,3,0,0,0,3,0,0,1,0,16,0,0,5,0,01003821
+1974,Regular Season,Hiroshima Toyo Carp,37,"Nishizawa, Masaji",C,95,283,255,0.267,0.337,0.384,0.721,19,26,68,50,12,0,6,98,2,1,27,2,38,10,0,0,1,01003843
+1974,Regular Season,Kintetsu Buffaloes,37,"Hirano, Mitsuyasu",LF,70,35,32,0.188,0.257,0.219,0.476,7,2,6,5,1,0,0,7,5,2,3,0,9,0,0,0,0,01003845
+1974,Regular Season,Hiroshima Toyo Carp,12,"Matsubayashi, Shigeru",P,30,13,11,0.091,0.167,0.091,0.258,1,0,1,1,0,0,0,1,0,0,1,0,4,0,0,1,0,01003847
+1974,Regular Season,Nippon-Ham Fighters,33,"Murai, Hideshi",C,69,197,174,0.213,0.279,0.339,0.618,18,21,37,26,5,1,5,59,3,1,14,3,37,8,2,7,0,01003849
+1974,Climax Series - Final Stage,Hankyu Braves,5,"Inoe, Osamu",3B,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,01103820
+1974,Regular Season,Hankyu Braves,5,"Inoe, Osamu",3B,109,60,49,0.184,0.286,0.327,0.613,24,5,9,5,2,1,1,16,20,7,6,0,9,0,1,3,1,01103820
+1974,Regular Season,Taiyo Whales,5,"Ito, Isao",C,93,257,235,0.217,0.276,0.366,0.642,20,24,51,36,4,2,9,86,1,2,16,1,40,7,3,1,2,01103823
+1974,Regular Season,Kintetsu Buffaloes,21,"Igarashi, Hideo",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103826
+1974,Regular Season,Hanshin Tigers,37,"Ikejima, Kazuhiko",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103841
+1974,Regular Season,Yomiuri Giants,35,"Awaguchi, Kenji",PH,63,79,68,0.235,0.342,0.426,0.768,8,8,16,10,2,1,3,29,0,0,9,1,17,1,2,0,0,01103843
+1974,Regular Season,Hiroshima Toyo Carp,11,"Ikegaya, Kojiro",P,22,11,10,0.200,0.200,0.300,0.500,0,0,2,1,1,0,0,3,0,0,0,0,2,0,0,1,0,01103849
+1974,Regular Season,Nankai Hawks,11,"Ueda, Takuzo",P,32,8,5,0.000,0.286,0.000,0.286,0,0,0,0,0,0,0,0,0,0,1,0,3,0,1,1,0,01303824
+1974,Regular Season,Nankai Hawks,16,"Emoto, Takenori",P,34,76,68,0.132,0.132,0.162,0.294,3,0,9,7,2,0,0,11,0,0,0,0,33,0,0,8,0,01303843
+1974,Regular Season,Taiyo Whales,45,"Okue, Hideyuki",P,51,16,16,0.125,0.125,0.188,0.313,0,0,2,1,1,0,0,3,0,0,0,0,8,0,0,0,0,01303847
+1974,Regular Season,Hiroshima Toyo Carp,50,"Omata, Susumu",LF,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01303849
+1974,Regular Season,Taiheiyo Club Lions,28,"Miyadera, Katsutoshi",C,52,108,98,0.214,0.280,0.265,0.545,4,4,21,17,3,1,0,26,0,2,8,0,21,3,1,1,0,01403829
+1974,Regular Season,Hankyu Braves,41,"Watanabe, Hiroki",P,35,5,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,01403845
+1974,Regular Season,Kintetsu Buffaloes,49,"Kato, Hideo",P,38,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,01503824
+1974,Regular Season,Taiyo Whales,24,"Kotani, Tadakatsu",P,33,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,01503826
+1974,Regular Season,Nankai Hawks,10,"Shimano, Ikuo",CF,106,413,380,0.274,0.324,0.366,0.690,55,25,104,79,17,6,2,139,30,17,26,1,39,4,2,2,3,01503827
+1974,Japan Series,Chunichi Dragons,23,"Kimata, Tatsuhiko",C,6,,19,0.211,,0.263,,,2,4,3,1,0,0,5,0,,2,,1,,,,,01503829
+1974,Regular Season,Chunichi Dragons,23,"Kimata, Tatsuhiko",C,123,480,438,0.322,0.379,0.507,0.886,49,50,141,97,25,1,18,222,3,3,39,1,68,18,1,2,0,01503829
+1974,Regular Season,Hiroshima Toyo Carp,23,"Kamigochi, Makoto",3B,110,327,295,0.237,0.279,0.336,0.615,34,18,70,53,10,2,5,99,5,5,15,0,42,11,2,12,3,01503841
+1974,Regular Season,Taiyo Whales,63,"Koganemaru, Mitsuru",PH,5,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,01503843
+1974,Regular Season,Nankai Hawks,33,"Kuroda, Masahiro",C,36,13,13,0.077,0.077,0.077,0.154,0,1,1,1,0,0,0,1,0,0,0,0,3,1,0,0,0,01503845
+1974,Regular Season,Taiyo Whales,22,"Shimizu, Hiroyoshi",3B,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01503847
+1974,Regular Season,Hiroshima Toyo Carp,57,"Kimoto, Shigemi",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01503849
+1974,Regular Season,Nankai Hawks,19,"Nomura, Katsuya",C,83,307,265,0.211,0.315,0.374,0.689,33,45,56,37,7,0,12,99,2,0,38,5,30,13,2,0,2,01603809
+1974,Regular Season,Hanshin Tigers,12,"Wada, Toru",1B,63,104,98,0.204,0.243,0.316,0.559,9,8,20,16,0,1,3,31,1,1,5,0,21,2,0,1,0,01603829
+1974,Regular Season,Yomiuri Giants,21,"Takahashi, Kazumi",P,37,37,34,0.147,0.171,0.176,0.347,1,2,5,4,1,0,0,6,0,0,1,0,13,2,0,2,0,01703820
+1974,Regular Season,Nankai Hawks,1,"Sakurai, Teruhide",2B,130,564,502,0.261,0.324,0.333,0.657,56,36,131,105,19,4,3,167,29,5,46,1,52,12,1,11,4,01703824
+1974,Regular Season,Kintetsu Buffaloes,33,"Tameike, Toshitaka",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01703828
+1974,Regular Season,Hanshin Tigers,8,"Sato, Masaharu",CF,49,61,58,0.190,0.203,0.224,0.427,10,1,11,9,2,0,0,13,1,3,0,0,8,2,1,2,0,01703841
+1974,Regular Season,Taiheiyo Club Lions,51,"Nakamura, Masayoshi",PH,7,8,6,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,1,2,0,2,0,0,0,0,01703847
+1974,Regular Season,Nippon-Ham Fighters,38,"Shimazu, Keiichi",CF,18,47,38,0.263,0.404,0.289,0.693,5,0,10,9,1,0,0,11,4,6,8,0,6,2,1,0,0,01703849
+1974,Regular Season,Taiyo Whales,2,"Nakatsuka, Masayuki",CF,129,542,481,0.291,0.361,0.385,0.746,76,37,140,108,24,3,5,185,28,14,53,2,38,10,0,6,2,01903826
+1974,Regular Season,Taiheiyo Club Lions,21,"Higashio, Osamu",P,27,41,37,0.189,0.189,0.189,0.378,3,2,7,7,0,0,0,7,1,1,0,0,7,2,0,4,0,01903828
+1974,Regular Season,Taiyo Whales,33,"Takahashi, Shigeyuki",P,35,37,30,0.133,0.212,0.300,0.512,1,3,4,1,2,0,1,9,0,0,3,0,8,2,0,4,0,01903829
+1974,Japan Series,Lotte Orions,43,"Doi, Kenji",PH,5,,7,0.429,,0.571,,,1,3,2,1,0,0,4,0,,1,,0,,,,,01903841
+1974,Regular Season,Lotte Orions,43,"Doi, Kenji",PH,66,94,83,0.265,0.337,0.373,0.710,3,12,22,18,1,1,2,31,0,1,9,0,10,3,0,0,2,01903841
+1974,Regular Season,Taiheiyo Club Lions,14,"Takahashi, Fumio",CF,113,297,261,0.226,0.263,0.307,0.570,29,18,59,47,7,1,4,80,12,7,13,0,23,1,0,21,2,01903843
+1974,Regular Season,Nankai Hawks,6,"Parker, Wes",1B,127,533,482,0.301,0.358,0.456,0.814,66,59,145,101,27,3,14,220,3,6,39,3,45,10,4,1,7,01903849
+1974,Regular Season,Kintetsu Buffaloes,6,"Yasui, Toshinori",2B,78,201,185,0.238,0.273,0.297,0.570,19,16,44,37,4,2,1,55,8,3,8,0,20,5,1,6,1,03103825
+1974,Regular Season,Hanshin Tigers,2,"Noda, Masanori",SS,40,83,75,0.227,0.301,0.267,0.568,5,0,17,14,3,0,0,20,3,1,5,0,20,2,3,0,0,11013820
+1974,Regular Season,Yomiuri Giants,7,"Shibata, Isao",CF,128,500,448,0.275,0.341,0.395,0.736,67,50,123,95,14,2,12,177,13,9,44,0,64,9,1,5,2,11013825
+1974,Regular Season,Nippon-Ham Fighters,12,"Fujiwara, Makoto",P,32,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,11013828
+1974,Regular Season,Yakult Swallows,37,"Nagai, Shigeo",PH,11,10,10,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,11013841
+1974,Regular Season,Hiroshima Toyo Carp,38,"Toiya, Fukuo",PH,4,4,3,0.000,0.250,0.000,0.250,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,11013843
+1974,Japan Series,Lotte Orions,38,"Narishige, Haruo",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11013845
+1974,Regular Season,Lotte Orions,38,"Narishige, Haruo",P,14,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11013845
+1974,Regular Season,Taiheiyo Club Lions,42,"Mayumi, Akinobu",PR,23,11,10,0.200,0.273,0.200,0.473,4,0,2,2,0,0,0,2,1,1,1,0,5,0,0,0,0,11013847
+1974,Regular Season,Taiheiyo Club Lions,44,"Machii, Noboru",RF,26,9,8,0.125,0.222,0.125,0.347,3,2,1,1,0,0,0,1,1,1,1,0,1,0,0,0,0,11013849
+1974,Regular Season,Taiyo Whales,28,"Matsuoka, Kosuke",3B,49,50,49,0.184,0.200,0.204,0.404,4,3,9,8,1,0,0,10,1,1,0,0,8,4,1,0,0,11213824
+1974,Regular Season,Taiyo Whales,34,"Yoneda, Keizaburo",SS,109,290,260,0.215,0.271,0.258,0.529,25,12,56,49,5,0,2,67,3,3,18,1,40,8,2,9,1,11213826
+1974,Regular Season,Yakult Swallows,33,"Yasuki, Shoji",P,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213828
+1974,Climax Series - Final Stage,Lotte Orions,1,"Lefebvre, Jim",1B,3,,12,0.250,,0.250,,,1,3,3,0,0,0,3,0,,1,,1,,,,,11213847
+1974,Japan Series,Lotte Orions,1,"Lefebvre, Jim",1B,9,,19,0.158,,0.263,,,3,3,1,2,0,0,5,0,,4,,2,,,,,11213847
+1974,Regular Season,Lotte Orions,1,"Lefebvre, Jim",1B,82,310,279,0.283,0.349,0.491,0.840,37,52,79,51,12,2,14,137,1,4,25,3,32,3,3,3,0,11213847
+1974,Regular Season,Nippon-Ham Fighters,3,"Ley, Terry",P,14,15,14,0.357,0.400,0.500,0.900,2,1,5,3,2,0,0,7,0,0,1,0,5,0,0,0,0,11213849
+1974,Regular Season,Kintetsu Buffaloes,39,"Iwaki, Yasuro",C,30,13,11,0.091,0.091,0.091,0.182,1,2,1,1,0,0,0,1,1,0,0,0,2,0,0,1,1,11313820
+1974,Climax Series - Final Stage,Lotte Orions,20,"Kitaru, Masaaki",P,4,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11313822
+1974,Japan Series,Lotte Orions,20,"Kitaru, Masaaki",P,4,,5,0.200,,0.200,,,0,1,1,0,0,0,1,0,,0,,0,,,,,11313822
+1974,Regular Season,Lotte Orions,20,"Kitaru, Masaaki",P,36,78,67,0.179,0.236,0.269,0.505,7,8,12,10,0,0,2,18,0,0,5,0,13,0,0,6,0,11313822
+1974,Regular Season,Chunichi Dragons,16,"Ito, Hisatoshi",P,9,1,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11313824
+1974,Regular Season,Yakult Swallows,15,"Ishioka, Kozo",P,33,20,17,0.118,0.118,0.118,0.236,0,0,2,2,0,0,0,2,0,0,0,0,9,0,0,3,0,11313829
+1974,Regular Season,Yakult Swallows,8,"Uchida, Junzo",RF,95,244,202,0.223,0.329,0.342,0.671,24,21,45,31,8,2,4,69,3,5,28,2,25,5,4,8,2,11313841
+1974,Regular Season,Hiroshima Toyo Carp,45,"Oka, Yoshiaki",SS,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313845
+1974,Regular Season,Nippon-Ham Fighters,41,"Eda, Koichi",P,16,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313847
+1974,Regular Season,Hanshin Tigers,32,"Imanishi, Kazuo",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313849
+1974,Japan Series,Chunichi Dragons,27,"Mizutani, Hisanobu",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11413808
+1974,Regular Season,Chunichi Dragons,27,"Mizutani, Hisanobu",P,33,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,11413808
+1974,Regular Season,Nippon-Ham Fighters,17,"Yamazaki, Takeaki",P,11,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11413820
+1974,Regular Season,Yomiuri Giants,31,"Yamashita, Tsukasa",PR,8,3,3,0.333,0.333,0.333,0.666,2,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,11413824
+1974,Regular Season,Taiheiyo Club Lions,30,"Maeda, Kosuke",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11413841
+1974,Regular Season,Yakult Swallows,28,"Yaegashi, Yukio",C,8,12,10,0.200,0.333,0.500,0.833,2,1,2,1,0,0,1,5,0,0,2,0,5,0,0,0,0,11413843
+1974,Regular Season,Hanshin Tigers,25,"Yamamoto, Kazuyuki",P,32,41,37,0.108,0.132,0.135,0.267,1,0,4,3,1,0,0,5,0,0,1,0,7,0,0,3,0,11413845
+1974,Regular Season,Kintetsu Buffaloes,40,"Oba, Takahiro",P,11,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513824
+1974,Regular Season,Hiroshima Toyo Carp,15,"Kawabata, Kazuto",P,4,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513826
+1974,Regular Season,Taiyo Whales,32,"Kusaka, Masakatsu",PH,29,27,26,0.192,0.222,0.269,0.491,1,2,5,3,2,0,0,7,0,1,0,0,1,1,1,0,0,11513827
+1974,Regular Season,Hanshin Tigers,47,"Kira, Shuichi",P,7,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11513828
+1974,Climax Series - Final Stage,Hankyu Braves,29,"Kawamura, Kenichiro",C,2,,3,0.333,,0.333,,,0,1,1,0,0,0,1,0,,0,,0,,,,,11513845
+1974,Regular Season,Hankyu Braves,29,"Kawamura, Kenichiro",C,59,122,113,0.265,0.308,0.310,0.618,11,9,30,25,5,0,0,35,1,3,6,0,5,4,1,2,0,11513845
+1974,Regular Season,Hanshin Tigers,31,"Kakefu, Masayuki",3B,83,194,162,0.204,0.328,0.309,0.637,13,16,33,22,8,0,3,50,1,1,28,0,38,3,2,0,2,11513849
+1974,Regular Season,Yakult Swallows,1,"Wakamatsu, Tsutomu",LF,130,530,477,0.312,0.376,0.518,0.894,80,74,149,95,30,4,20,247,18,9,45,9,31,8,4,0,4,11613843
+1974,Regular Season,Yomiuri Giants,38,"Suetsugu, Toshimitsu",RF,129,489,440,0.316,0.372,0.480,0.852,54,77,139,97,25,4,13,211,5,4,35,2,36,21,4,3,7,11713820
+1974,Regular Season,Nippon-Ham Fighters,4,"Suenaga, Yoshiyuki",SS,105,359,306,0.265,0.340,0.389,0.729,37,27,81,60,11,3,7,119,11,6,33,2,31,6,2,17,1,11713826
+1974,Regular Season,Hankyu Braves,34,"Kunioka, Keiji",1B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713841
+1974,Regular Season,Yomiuri Giants,29,"Kono, Kazumasa",SS,119,323,293,0.195,0.256,0.386,0.642,38,28,57,28,12,7,10,113,10,1,18,1,82,6,6,5,1,11713843
+1974,Regular Season,Nankai Hawks,31,"Sakata, Takashi",LF,76,11,9,0.000,0.100,0.000,0.100,15,0,0,0,0,0,0,0,6,1,1,0,0,0,0,1,0,11713845
+1974,Japan Series,Chunichi Dragons,9,"Taniki, Kyohei",CF,6,,8,0.125,,0.125,,,0,1,1,0,0,0,1,0,,2,,3,,,,,11713847
+1974,Regular Season,Chunichi Dragons,9,"Taniki, Kyohei",CF,86,214,190,0.274,0.337,0.389,0.726,26,14,52,37,10,3,2,74,5,6,16,0,32,6,2,6,0,11713847
+1974,Regular Season,Hankyu Braves,55,"Sato, Akio",PR,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,11713849
+1974,Regular Season,Yakult Swallows,25,"Funada, Kazuhide",3B,119,423,384,0.250,0.303,0.336,0.639,38,32,96,77,11,2,6,129,20,7,27,3,52,5,2,9,1,11813825
+1974,Japan Series,Lotte Orions,24,"Daigo, Takeo",C,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11913804
+1974,Regular Season,Lotte Orions,24,"Daigo, Takeo",C,33,47,43,0.186,0.239,0.233,0.472,3,5,8,6,2,0,0,10,2,0,3,0,6,1,0,1,0,11913804
+1974,Regular Season,Yomiuri Giants,11,"Takahashi, Yoshimasa",P,24,15,12,0.083,0.214,0.167,0.381,1,1,1,0,1,0,0,2,0,0,2,0,5,0,0,1,0,11913824
+1974,Regular Season,Taiheiyo Club Lions,27,"Takenochi, Masashi",1B,119,481,419,0.258,0.348,0.461,0.809,59,73,108,68,17,1,22,193,11,4,43,3,62,12,15,1,3,11913826
+1974,Regular Season,Yomiuri Giants,25,"Tomita, Masaru",3B,122,267,226,0.265,0.344,0.407,0.751,42,27,60,42,10,2,6,92,3,2,26,0,41,4,1,13,1,11913828
+1974,Japan Series,Chunichi Dragons,17,"Shibuya, Yukiharu",P,3,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11913841
+1974,Regular Season,Chunichi Dragons,17,"Shibuya, Yukiharu",P,40,32,29,0.207,0.207,0.276,0.483,0,3,6,4,2,0,0,8,0,0,0,0,9,1,0,3,0,11913841
+1974,Regular Season,Hanshin Tigers,5,"Suenaga, Masaaki",PH,11,12,12,0.250,0.250,0.667,0.917,2,3,3,1,0,1,1,8,0,0,0,0,1,0,0,0,0,11913843
+1974,Regular Season,Taiyo Whales,16,"Takeuchi, Hiroaki",P,41,32,30,0.133,0.188,0.133,0.321,2,0,4,4,0,0,0,4,0,0,2,0,5,1,0,0,0,11913845
+1974,Regular Season,Nippon-Ham Fighters,16,"Niimi, Satoshi",P,41,69,54,0.093,0.169,0.093,0.262,1,2,5,5,0,0,0,5,0,0,5,0,12,1,0,10,0,11913847
+1974,Regular Season,Taiheiyo Club Lions,5,"Suzuki, Haruhiko",PH,11,12,11,0.091,0.167,0.091,0.258,1,0,1,1,0,0,0,1,0,0,1,0,3,0,0,0,0,11913849
+1974,Regular Season,Nippon-Ham Fighters,20,"Miyazaki, Shoji",P,17,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,13113825
+1974,Regular Season,Taiyo Whales,15,"Hiraoka, Ichiro",P,8,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21023820
+1974,Regular Season,Taiyo Whales,10,"Fukushima, Hisaaki",C,65,133,128,0.211,0.235,0.313,0.548,10,11,27,22,1,0,4,40,1,1,4,0,18,4,0,1,0,21023824
+1974,Climax Series - Final Stage,Hankyu Braves,14,"Miyamoto, Yukinobu",P,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,21023826
+1974,Regular Season,Hankyu Braves,14,"Miyamoto, Yukinobu",P,35,25,23,0.130,0.130,0.348,0.478,2,1,3,0,2,0,1,8,0,0,0,0,12,1,0,2,0,21023826
+1974,Regular Season,Chunichi Dragons,54,"Miyoshi, Shinichi",PR,9,5,5,0.600,0.600,1.200,1.800,3,1,3,2,0,0,1,6,1,0,0,0,1,0,0,0,0,21023828
+1974,Climax Series - Final Stage,Lotte Orions,3,"Hirota, Sumio",CF,3,,12,0.083,,0.083,,,0,1,1,0,0,0,1,1,,1,,0,,,,,21023845
+1974,Japan Series,Lotte Orions,3,"Hirota, Sumio",CF,9,,25,0.400,,0.720,,,7,10,6,2,0,2,18,2,,1,,0,,,,,21023845
+1974,Regular Season,Lotte Orions,3,"Hirota, Sumio",CF,123,477,434,0.295,0.342,0.417,0.759,56,60,128,97,18,4,9,181,26,8,27,1,27,12,4,10,2,21023845
+1974,Regular Season,Nippon-Ham Fighters,26,"Miura, Masaki",P,35,14,11,0.091,0.091,0.091,0.182,1,0,1,1,0,0,0,1,0,0,0,0,4,0,0,3,0,21023847
+1974,Regular Season,Hankyu Braves,51,"Yamashita, Koji",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21023849
+1974,Regular Season,Hanshin Tigers,7,"Ikeda, Junichi",CF,107,405,378,0.251,0.293,0.392,0.685,32,42,95,60,23,6,6,148,1,5,21,0,57,9,1,5,0,21123820
+1974,Regular Season,Nankai Hawks,9,"Aiba, Yoshihiro",PH,48,94,81,0.247,0.344,0.457,0.801,5,9,20,10,6,1,3,37,0,0,12,0,9,5,0,0,1,21123825
+1974,Regular Season,Lotte Orions,11,"Ikeda, Shigeki",LF,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21123826
+1974,Regular Season,Taiheiyo Club Lions,7,"Ihara, Haruki",SS,44,80,78,0.244,0.253,0.321,0.574,5,8,19,15,3,0,1,25,0,1,1,0,12,2,0,0,1,21123843
+1974,Regular Season,Hanshin Tigers,56,"Uetsuji, Osamu",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21123845
+1974,Regular Season,Lotte Orions,33,"Date, Yasuji",CF,6,7,7,0.143,0.143,0.143,0.286,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,21123847
+1974,Regular Season,Hankyu Braves,58,"Ishida, Makoto",P,1,2,2,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21123849
+1974,Japan Series,Lotte Orions,5,"Maeda, Masuho",1B,2,,2,0.500,,2.000,,,3,1,0,0,0,1,4,0,,0,,0,,,,,21223808
+1974,Regular Season,Lotte Orions,5,"Maeda, Masuho",1B,77,102,89,0.281,0.354,0.337,0.691,8,12,25,20,5,0,0,30,2,0,9,0,7,6,1,3,0,21223808
+1974,Regular Season,Nippon-Ham Fighters,13,"Morinaka, Chikara",P,19,5,5,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21223821
+1974,Regular Season,Taiheiyo Club Lions,4,"Motoi, Mitsuo",2B,114,451,391,0.243,0.327,0.366,0.693,50,37,95,72,10,1,12,143,9,4,43,1,57,9,6,9,2,21223824
+1974,Regular Season,Nankai Hawks,23,"Horii, Kazuto",PR,59,23,16,0.313,0.450,0.563,1.013,15,2,5,3,1,0,1,9,11,1,3,0,3,0,1,2,1,21223841
+1974,Regular Season,Chunichi Dragons,34,"Murakami, Yoshinori",P,6,2,2,0.500,0.500,0.500,1.000,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,21223845
+1974,Regular Season,Yomiuri Giants,2,"Ueda, Takeshi",SS,93,217,184,0.266,0.338,0.408,0.746,29,30,49,35,8,0,6,75,6,2,11,0,23,4,9,8,5,21323824
+1974,Regular Season,Nippon-Ham Fighters,31,"Oyamada, Kenichi",PH,12,16,16,0.188,0.188,0.188,0.376,0,0,3,3,0,0,0,3,0,0,0,0,1,2,0,0,0,21323841
+1974,Regular Season,Chunichi Dragons,45,"Okuda, Naoya",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323847
+1974,Regular Season,Hankyu Braves,35,"Oshima, Ikumasa",SS,15,12,10,0.100,0.250,0.100,0.350,0,0,1,1,0,0,0,1,0,0,2,0,4,0,0,0,0,21323849
+1974,Regular Season,Hanshin Tigers,58,"Yamamoto, Seizo",PR,39,44,41,0.195,0.250,0.220,0.470,8,1,8,7,1,0,0,9,1,0,2,0,7,2,1,0,0,21423843
+1974,Regular Season,Hiroshima Toyo Carp,55,"Shiraishi, Shizuo",P,23,21,20,0.200,0.238,0.250,0.488,1,2,4,3,1,0,0,5,0,0,1,0,7,0,0,0,0,21523822
+1974,Regular Season,Hiroshima Toyo Carp,5,"Kunisada, Yasuhiro",PH,44,50,47,0.213,0.260,0.213,0.473,1,4,10,10,0,0,0,10,0,0,3,0,12,3,0,0,0,21523829
+1974,Regular Season,Taiheiyo Club Lions,47,"Kawano, Yuichi",C,23,37,36,0.167,0.167,0.167,0.334,0,0,6,6,0,0,0,6,0,0,0,0,6,0,0,1,0,21523841
+1974,Regular Season,Hiroshima Toyo Carp,36,"Kobayashi, Masayuki",SS,30,15,13,0.231,0.231,0.308,0.539,1,0,3,2,1,0,0,4,0,0,0,0,3,0,0,2,0,21523843
+1974,Regular Season,Taiheiyo Club Lions,43,"Shinobu, Zenko",2B,1,2,0,0.000,1.000,0.000,1.000,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,21523847
+1974,Regular Season,Taiheiyo Club Lions,29,"Kusuki, Toru",C,48,93,82,0.146,0.213,0.268,0.481,9,14,12,8,1,0,3,22,1,1,6,0,23,0,1,3,1,21523849
+1974,Regular Season,Nippon-Ham Fighters,5,"Takahashi, Hiroshi",PH,76,158,145,0.283,0.333,0.469,0.802,15,22,41,29,4,1,7,68,2,2,10,0,12,1,1,1,1,21723820
+1974,Climax Series - Final Stage,Hankyu Braves,25,"Takai, Yasuhiro",PH,3,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,21723822
+1974,Regular Season,Hankyu Braves,25,"Takai, Yasuhiro",PH,102,161,133,0.278,0.385,0.511,0.896,17,31,37,24,4,0,9,68,1,0,23,3,20,6,0,0,5,21723822
+1974,Regular Season,Hanshin Tigers,20,"Tsuji, Yasuhiko",C,23,47,43,0.140,0.159,0.233,0.392,3,3,6,4,1,0,1,10,0,0,1,0,8,4,0,2,1,21723827
+1974,Regular Season,Nankai Hawks,14,"Sato, Michio",P,69,22,19,0.105,0.227,0.105,0.332,0,0,2,2,0,0,0,2,0,0,3,0,5,1,0,0,0,21723841
+1974,Regular Season,Yakult Swallows,55,"Sugiura, Toru",PH,22,28,25,0.200,0.286,0.360,0.646,2,2,5,3,1,0,1,9,0,0,2,0,7,2,1,0,0,21723845
+1974,Regular Season,Kintetsu Buffaloes,20,"Nakane, Masahiro",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723847
+1974,Regular Season,Yomiuri Giants,59,"Shoji, Tomohisa",PR,3,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723849
+1974,Japan Series,Chunichi Dragons,2,"Hirose, Osamu",SS,5,,14,0.357,,0.571,,,1,5,4,0,0,1,8,0,,0,,3,,,,,21923828
+1974,Regular Season,Chunichi Dragons,2,"Hirose, Osamu",SS,125,284,266,0.229,0.260,0.308,0.568,19,26,61,50,6,0,5,82,2,1,10,0,34,10,1,5,2,21923828
+1974,Regular Season,Nankai Hawks,17,"Toyama, Yoshiaki",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21923841
+1974,Regular Season,Taiyo Whales,36,"Tanioka, Kiyoshi",3B,12,13,13,0.231,0.231,0.462,0.693,1,1,3,2,0,0,1,6,0,0,0,0,2,0,0,0,0,21923843
+1974,Regular Season,Hanshin Tigers,14,"Nakamura, Katsuhiro",2B,112,362,307,0.231,0.339,0.394,0.733,41,34,71,46,11,3,11,121,8,3,47,3,65,1,3,4,1,21923845
+1974,Regular Season,Nippon-Ham Fighters,52,"Funada, Masao",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21923847
+1974,Regular Season,Chunichi Dragons,32,"Fujisawa, Tetsuya",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21923849
+1974,Regular Season,Hanshin Tigers,6,"Fujita, Taira",SS,100,417,374,0.302,0.367,0.497,0.864,51,47,113,74,21,2,16,186,6,2,30,3,20,5,8,1,4,31033822
+1974,Regular Season,Nankai Hawks,28,"Hayashi, Toshihiro",PH,73,78,74,0.284,0.321,0.446,0.767,5,8,21,13,6,0,2,33,0,0,4,2,10,1,0,0,0,31033827
+1974,Regular Season,Nankai Hawks,7,"Fujiwara, Mitsuru",3B,76,250,234,0.226,0.270,0.321,0.591,18,20,53,40,8,1,4,75,4,3,14,4,13,9,0,0,2,31033828
+1974,Regular Season,Yakult Swallows,11,"Nishii, Tetsuo",P,36,55,41,0.098,0.159,0.098,0.257,0,1,4,4,0,0,0,4,0,0,3,0,16,0,0,11,0,31033841
+1974,Regular Season,Yakult Swallows,48,"Masukawa, Maiku",3B,21,46,40,0.200,0.304,0.300,0.604,4,4,8,6,1,0,1,12,1,0,3,0,8,1,3,0,0,31033847
+1974,Regular Season,Hanshin Tigers,39,"Matsunaga, Yoshitaka",1B,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31033849
+1974,Regular Season,Kintetsu Buffaloes,38,"Abe, Narihiro",CF,100,82,81,0.284,0.284,0.358,0.642,23,5,23,18,4,1,0,29,19,4,0,0,14,1,0,1,0,31133820
+1974,Regular Season,Lotte Orions,7,"Altman, George",LF,85,327,271,0.351,0.450,0.653,1.103,48,67,95,57,15,2,21,177,1,6,48,7,17,4,1,1,6,31133826
+1974,Regular Season,Hanshin Tigers,19,"Abe, Yoshio",PH,11,11,11,0.091,0.091,0.091,0.182,0,0,1,1,0,0,0,1,0,0,0,0,4,1,0,0,0,31133828
+1974,Regular Season,Yomiuri Giants,10,"Ano, Koji",PH,7,7,6,0.333,0.429,0.333,0.762,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,31133841
+1974,Regular Season,Yakult Swallows,18,"Aida, Teruo",P,36,9,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,31133843
+1974,Regular Season,Hiroshima Toyo Carp,52,"Ishikawa, Masao",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31133845
+1974,Regular Season,Lotte Orions,54,"Abe, Kenichi",LF,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31133847
+1974,Regular Season,Hankyu Braves,20,"Ammann, Gene",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31133849
+1974,Regular Season,Nippon-Ham Fighters,10,"Harimoto, Isao",LF,120,491,406,0.340,0.452,0.507,0.959,64,62,138,101,20,3,14,206,14,6,82,13,28,3,1,0,2,31233808
+1974,Regular Season,Nankai Hawks,20,"Yamauchi, Shinichi",P,30,63,52,0.135,0.182,0.269,0.451,5,4,7,4,1,0,2,14,0,0,3,0,13,0,0,8,0,31233828
+1974,Regular Season,Hiroshima Toyo Carp,31,"Fukazawa, Shuichi",RF,107,198,181,0.193,0.259,0.249,0.508,28,8,35,26,8,1,0,45,6,2,10,0,24,0,6,1,0,31233841
+1974,Regular Season,Taiheiyo Club Lions,26,"Fujii, Nobuyuki",LF,48,121,105,0.219,0.311,0.352,0.663,13,12,23,15,5,0,3,37,1,0,13,1,21,1,1,2,0,31233843
+1974,Regular Season,Taiyo Whales,43,"Matsushima, Hideo",P,5,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233845
+1974,Regular Season,Nankai Hawks,4,"Lolich, Ron",LF,95,365,330,0.252,0.312,0.542,0.854,48,62,83,43,11,2,27,179,1,0,27,1,66,6,2,1,5,31233849
+1974,Climax Series - Final Stage,Hankyu Braves,57,"Imazu, Mitsuo",SS,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31333806
+1974,Regular Season,Hankyu Braves,57,"Imazu, Mitsuo",SS,62,82,76,0.184,0.215,0.184,0.399,12,3,14,14,0,0,0,14,3,2,3,0,8,1,0,3,0,31333806
+1974,Japan Series,Lotte Orions,4,"Ejima, Takumi",LF,5,,8,0.125,,0.125,,,0,1,1,0,0,0,1,0,,1,,0,,,,,31333826
+1974,Regular Season,Lotte Orions,4,"Ejima, Takumi",LF,88,51,46,0.283,0.313,0.391,0.704,9,6,13,10,2,0,1,18,1,1,0,0,9,0,2,3,0,31333826
+1974,Japan Series,Chunichi Dragons,18,"Inaba, Mitsuo",P,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,31333843
+1974,Regular Season,Chunichi Dragons,18,"Inaba, Mitsuo",P,30,33,30,0.233,0.281,0.233,0.514,2,0,7,7,0,0,0,7,0,0,2,0,8,0,0,1,0,31333843
+1974,Regular Season,Taiheiyo Club Lions,11,"Kato, Hajime",P,36,69,56,0.071,0.119,0.071,0.190,2,0,4,4,0,0,0,4,0,0,2,0,22,0,1,10,0,31333845
+1974,Regular Season,Hiroshima Toyo Carp,33,"Irie, Michio",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31333849
+1974,Climax Series - Final Stage,Lotte Orions,2,"Yamazaki, Hiroyuki",2B,9,,10,0.300,,0.700,,,3,3,1,1,0,1,7,1,,2,,0,,,,,31433820
+1974,Japan Series,Lotte Orions,2,"Yamazaki, Hiroyuki",2B,9,,22,0.364,,0.636,,,3,8,4,3,0,1,14,0,,3,,6,,,,,31433820
+1974,Regular Season,Lotte Orions,2,"Yamazaki, Hiroyuki",2B,124,507,454,0.278,0.335,0.434,0.769,62,58,126,80,32,3,11,197,6,5,39,2,70,12,0,9,5,31433820
+1974,Regular Season,Taiyo Whales,17,"Yamashita, Ritsuo",P,44,62,57,0.175,0.175,0.193,0.368,4,3,10,9,1,0,0,11,0,0,0,0,18,0,0,5,0,31433824
+1974,Japan Series,Chunichi Dragons,21,"Matsumoto, Yukitsura",P,3,,5,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31433841
+1974,Regular Season,Chunichi Dragons,21,"Matsumoto, Yukitsura",P,40,82,70,0.114,0.139,0.114,0.253,4,5,8,8,0,0,0,8,0,0,2,0,12,5,0,9,1,31433841
+1974,Regular Season,Yomiuri Giants,15,"Yokoyama, Tadao",P,6,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31433845
+1974,Regular Season,Nippon-Ham Fighters,29,"Okamura, Koji",C,21,32,30,0.167,0.219,0.233,0.452,0,0,5,3,2,0,0,7,0,0,0,0,6,0,2,0,0,31533808
+1974,Regular Season,Taiheiyo Club Lions,18,"Kawahara, Akira",P,32,49,45,0.133,0.152,0.178,0.330,4,2,6,4,2,0,0,8,0,0,1,0,19,0,0,3,0,31533826
+1974,Regular Season,Hankyu Braves,27,"Kiritoshi, Takeshi",PH,12,17,16,0.250,0.294,0.563,0.857,2,2,4,1,2,0,1,9,1,0,1,0,2,0,0,0,0,31533828
+1974,Regular Season,Hankyu Braves,47,"Onishi, Tadashi",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31533843
+1974,Regular Season,Chunichi Dragons,41,"Katagai, Yoshiaki",PH,7,5,4,0.250,0.400,0.250,0.650,0,1,1,1,0,0,0,1,0,0,0,0,1,0,1,0,0,31533849
+1974,Japan Series,Chunichi Dragons,14,"Yazawa, Kenichi",1B,6,,23,0.304,,0.609,,,7,7,4,1,0,2,14,0,,0,,3,,,,,31633841
+1974,Regular Season,Chunichi Dragons,14,"Yazawa, Kenichi",1B,125,516,466,0.290,0.348,0.498,0.846,73,77,135,82,31,0,22,232,2,1,39,2,51,7,3,4,4,31633841
+1974,Regular Season,Chunichi Dragons,22,"Watabe, Tsukasa",P,15,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31633843
+1974,Regular Season,Kintetsu Buffaloes,1,"Suzuki, Keishi",P,36,77,63,0.127,0.167,0.159,0.326,2,1,8,7,0,1,0,10,0,0,3,0,16,2,0,11,0,31733822
+1974,Regular Season,Hiroshima Toyo Carp,21,"Saeki, Kazushi",P,16,25,21,0.000,0.087,0.000,0.087,1,0,0,0,0,0,0,0,0,0,2,0,8,0,0,2,0,31733843
+1974,Regular Season,Taiyo Whales,11,"Sipin, John",2B,115,470,408,0.306,0.395,0.529,0.924,65,73,125,86,12,2,25,216,6,5,59,6,55,19,1,0,2,31733845
+1974,Regular Season,Yomiuri Giants,24,"Tamai, Nobuhiro",P,23,26,23,0.087,0.160,0.174,0.334,3,1,2,1,0,1,0,4,0,0,2,0,15,0,0,1,0,31733847
+1974,Regular Season,Taiyo Whales,56,"Sato, Ryuichiro",PR,10,1,1,0.000,0.000,0.000,0.000,4,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,31733849
+1974,Regular Season,Taiyo Whales,12,"Sakai, Katsuji",P,34,34,28,0.071,0.103,0.071,0.174,0,0,2,2,0,0,0,2,0,0,1,0,16,0,0,5,0,31933808
+1974,Regular Season,Kintetsu Buffaloes,25,"Kitagawa, Koichi",PH,27,28,23,0.217,0.308,0.217,0.525,1,4,5,5,0,0,0,5,0,0,3,0,1,0,0,0,2,31933809
+1974,Regular Season,Yakult Swallows,2,"Takegami, Shiro",2B,113,427,384,0.260,0.332,0.333,0.665,45,33,100,82,13,0,5,128,7,8,40,1,38,7,1,1,1,31933824
+1974,Regular Season,Kintetsu Buffaloes,16,"Sasaki, Koichiro",P,15,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,31933825
+1974,Climax Series - Final Stage,Hankyu Braves,28,"Takemura, Kazuyoshi",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31933826
+1974,Regular Season,Hankyu Braves,28,"Takemura, Kazuyoshi",P,32,46,41,0.244,0.262,0.244,0.506,3,5,10,10,0,0,0,10,5,0,1,0,9,1,0,3,1,31933826
+1974,Regular Season,Nippon-Ham Fighters,23,"Nakahara, Masatoshi",SS,81,181,166,0.205,0.258,0.229,0.487,10,9,34,30,4,0,0,38,3,5,11,0,22,3,1,3,0,31933828
+1974,Regular Season,Nippon-Ham Fighters,15,"Sugita, Hisao",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31933843
+1974,Japan Series,Chunichi Dragons,46,"Takeda, Masafumi",P,3,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,31933845
+1974,Regular Season,Chunichi Dragons,46,"Takeda, Masafumi",P,29,10,10,0.100,0.100,0.100,0.200,1,2,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,31933845
+1974,Regular Season,Kintetsu Buffaloes,30,"Hada, Koichi",3B,130,541,501,0.248,0.291,0.355,0.646,54,55,124,98,12,0,14,178,9,3,29,1,68,22,2,3,6,31933847
+1974,Regular Season,Hiroshima Toyo Carp,17,"Seto, Kazunori",P,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31933849
+1974,Regular Season,Hanshin Tigers,27,"Wako, Tomo",P,21,33,29,0.207,0.233,0.345,0.578,4,2,6,4,1,0,1,10,0,0,1,0,14,0,0,3,0,33333802
+1974,Japan Series,Lotte Orions,6,"Senda, Keisuke",SS,5,,14,0.214,,0.429,,,1,3,2,0,0,1,6,0,,0,,3,,,,,41043825
+1974,Regular Season,Lotte Orions,6,"Senda, Keisuke",SS,85,193,172,0.198,0.277,0.291,0.568,26,6,34,26,2,4,2,50,4,4,18,0,29,3,1,2,0,41043825
+1974,Climax Series - Final Stage,Lotte Orions,29,"Murata, Choji",P,6,,3,0.000,,0.000,,,0,0,0,0,0,0,0,1,,1,,1,,,,,41043826
+1974,Japan Series,Lotte Orions,29,"Murata, Choji",P,6,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,41043826
+1974,Regular Season,Lotte Orions,29,"Murata, Choji",P,33,66,58,0.086,0.086,0.103,0.189,1,4,5,4,1,0,0,6,0,0,0,0,20,3,0,8,0,41043826
+1974,Regular Season,Nankai Hawks,15,"Murakami, Masanori",P,10,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41043827
+1974,Climax Series - Final Stage,Lotte Orions,10,"Mizutani, Norihiro",P,4,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41043828
+1974,Japan Series,Lotte Orions,10,"Mizutani, Norihiro",P,4,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41043828
+1974,Regular Season,Lotte Orions,10,"Mizutani, Norihiro",P,37,13,13,0.231,0.231,0.231,0.462,1,0,3,3,0,0,0,3,0,0,0,0,2,0,0,0,0,41043828
+1974,Regular Season,Yomiuri Giants,32,"Hagiwara, Yasuhiro",PH,18,15,13,0.077,0.200,0.154,0.354,2,1,1,0,1,0,0,2,0,1,2,0,4,0,0,0,0,41043841
+1974,Regular Season,Taiyo Whales,3,"Noguchi, Yoshio",PR,43,21,19,0.158,0.238,0.158,0.396,8,0,3,3,0,0,0,3,8,4,2,0,5,1,0,0,0,41043843
+1974,Regular Season,Taiyo Whales,51,"Yano, Toshikazu",PH,30,35,31,0.226,0.294,0.355,0.649,3,7,7,5,1,0,1,11,1,0,3,0,10,1,0,1,0,41043847
+1974,Regular Season,Taiyo Whales,20,"Yamashita, Daisuke",SS,92,186,166,0.181,0.265,0.271,0.536,15,9,30,24,1,1,4,45,1,1,13,0,37,3,6,1,0,41043849
+1974,Regular Season,Taiheiyo Club Lions,20,"Ishii, Shigeo",P,34,53,44,0.250,0.313,0.409,0.722,4,3,11,6,4,0,1,18,0,1,4,0,7,1,0,5,0,41143806
+1974,Japan Series,Chunichi Dragons,53,"Ide, Takashi",RF,5,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41143824
+1974,Regular Season,Chunichi Dragons,53,"Ide, Takashi",RF,84,20,20,0.150,0.150,0.200,0.350,4,1,3,2,1,0,0,4,1,3,0,0,2,0,0,0,0,41143824
+1974,Regular Season,Lotte Orions,14,"Aono, Shuzo",PH,18,18,16,0.188,0.278,0.563,0.841,2,5,3,1,0,0,2,9,0,0,2,0,4,1,0,0,0,41143825
+1974,Regular Season,Yakult Swallows,13,"Enomoto, Naoki",P,12,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,41143845
+1974,Regular Season,Chunichi Dragons,35,"Ito, Yasunori",PH,13,15,12,0.083,0.267,0.083,0.350,1,0,1,1,0,0,0,1,0,0,2,0,7,0,1,0,0,41143847
+1974,Regular Season,Hankyu Braves,59,"Ishida, Yoshio",P,3,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41143849
+1974,Regular Season,Nankai Hawks,22,"Miyamoto, Yojiro",P,36,9,9,0.111,0.111,0.222,0.333,0,0,1,0,1,0,0,2,0,0,0,0,3,0,0,0,0,41243820
+1974,Climax Series - Final Stage,Lotte Orions,27,"Yagisawa, Soroku",P,3,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41243824
+1974,Japan Series,Lotte Orions,27,"Yagisawa, Soroku",P,3,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41243824
+1974,Regular Season,Lotte Orions,27,"Yagisawa, Soroku",P,39,33,29,0.103,0.133,0.138,0.271,1,2,3,2,1,0,0,4,0,0,1,0,14,1,0,3,0,41243824
+1974,Climax Series - Final Stage,Hankyu Braves,2,"Watanabe, Tsutomu",2B,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41243828
+1974,Regular Season,Hankyu Braves,2,"Watanabe, Tsutomu",2B,34,22,19,0.053,0.182,0.053,0.235,3,0,1,1,0,0,0,1,0,1,3,0,7,1,0,0,0,41243828
+1974,Regular Season,Hanshin Tigers,51,"Furusawa, Kenji",P,37,80,75,0.093,0.105,0.107,0.212,4,0,7,6,1,0,0,8,0,0,1,0,24,3,0,4,0,41243829
+1974,Regular Season,Taiyo Whales,38,"Mashiba, Shigekuni",P,46,22,19,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,10,0,0,3,0,41243841
+1974,Regular Season,Nippon-Ham Fighters,27,"Minagawa, Yasuo",P,31,10,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,41243843
+1974,Regular Season,Nippon-Ham Fighters,51,"Osugi, Katsuo",1B,130,521,461,0.234,0.312,0.408,0.720,54,90,108,72,14,0,22,188,4,2,48,7,73,12,4,0,8,41343820
+1974,Regular Season,Hanshin Tigers,28,"Enatsu, Yutaka",P,42,71,66,0.182,0.206,0.273,0.479,5,5,12,8,3,0,1,18,0,0,2,0,19,1,0,2,1,41343824
+1974,Regular Season,Yakult Swallows,27,"Oya, Akihiko",C,130,471,431,0.239,0.289,0.376,0.665,31,41,103,70,20,0,13,162,6,3,28,7,44,11,2,6,4,41343841
+1974,Regular Season,Hiroshima Toyo Carp,27,"Kaneshiro, Motoyasu",P,44,86,77,0.143,0.185,0.195,0.380,3,7,11,9,1,0,1,15,0,0,4,0,26,0,0,5,0,41343845
+1974,Regular Season,Nankai Hawks,53,"Kashiwabara, Junichi",3B,82,210,188,0.239,0.316,0.399,0.715,24,21,45,28,10,1,6,75,7,2,19,3,31,2,2,0,1,41343847
+1974,Regular Season,Taiyo Whales,46,"Ohashi, Yasunobu",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343849
+1974,Regular Season,Taiheiyo Club Lions,36,"Yoneyama, Tetsuo",PH,64,114,110,0.200,0.228,0.282,0.510,12,13,22,17,3,0,2,31,1,0,4,0,13,3,0,0,0,41443843
+1974,Regular Season,Chunichi Dragons,7,"Shintaku, Hiroshi",C,42,48,46,0.217,0.250,0.239,0.489,4,4,10,9,1,0,0,11,0,0,2,0,7,1,0,0,0,41543822
+1974,Regular Season,Taiheiyo Club Lions,13,"Shibaike, Hiroaki",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543828
+1974,Regular Season,Hankyu Braves,8,"Komatsu, Kenji",RF,71,47,43,0.163,0.217,0.302,0.519,5,3,7,5,0,0,2,13,0,1,3,0,6,2,0,1,0,41543843
+1974,Regular Season,Taiyo Whales,55,"Kobayashi, Koji",LF,48,22,20,0.100,0.182,0.150,0.332,6,0,2,1,1,0,0,3,1,2,2,0,4,0,0,0,0,41543845
+1974,Japan Series,Chunichi Dragons,29,"Suzuki, Takamasa",P,3,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,,,,41543847
+1974,Regular Season,Chunichi Dragons,29,"Suzuki, Takamasa",P,36,12,10,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,41543847
+1974,Regular Season,Kintetsu Buffaloes,2,"Kurihashi, Shigeru",PH,55,79,73,0.178,0.241,0.274,0.515,5,4,13,8,4,0,1,20,1,2,4,0,21,2,2,0,0,41543849
+1974,Regular Season,Nankai Hawks,12,"Hirose, Yoshinori",PH,65,123,111,0.279,0.350,0.396,0.746,16,17,31,23,5,1,2,44,6,2,11,0,10,2,1,0,0,41643802
+1974,Regular Season,Nippon-Ham Fighters,11,"Watanabe, Hidetake",P,44,37,35,0.171,0.194,0.200,0.394,3,2,6,5,1,0,0,7,0,0,1,0,14,0,0,1,0,41643829
+1974,Regular Season,Yomiuri Giants,8,"Takada, Shigeru",LF,121,374,333,0.252,0.327,0.402,0.729,53,30,84,60,10,2,12,134,9,9,31,0,33,4,6,2,2,41743826
+1974,Regular Season,Taiyo Whales,29,"Tsuji, Yoshinori",C,56,147,141,0.284,0.308,0.440,0.748,11,13,40,30,4,0,6,62,0,1,4,1,26,6,1,1,0,41743827
+1974,Regular Season,Nippon-Ham Fighters,35,"Saruwatari, Hiroshige",PH,30,51,49,0.286,0.314,0.327,0.641,4,1,14,12,2,0,0,16,2,1,2,0,9,0,0,0,0,41743841
+1974,Regular Season,Nippon-Ham Fighters,9,"Sendo, Mikio",RF,113,405,356,0.256,0.326,0.348,0.674,31,39,91,73,9,3,6,124,3,6,30,0,22,7,7,8,4,41743845
+1974,Regular Season,Yakult Swallows,6,"Nagao, Yasunori",SS,84,273,249,0.257,0.291,0.333,0.624,23,17,64,54,4,3,3,83,7,8,8,0,24,4,4,11,1,41743847
+1974,Regular Season,Nippon-Ham Fighters,43,"Shinya, Akira",2B,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743849
+1974,Regular Season,Taiyo Whales,25,"Matsubara, Makoto",1B,128,535,496,0.317,0.356,0.504,0.860,74,83,157,108,26,2,21,250,9,4,28,1,24,13,2,1,8,41843825
+1974,Regular Season,Hanshin Tigers,24,"Tohi, Goro",1B,119,397,365,0.260,0.316,0.408,0.724,35,53,95,69,12,0,14,149,1,2,30,2,68,9,0,2,0,41943806
+1974,Climax Series - Final Stage,Lotte Orions,18,"Narita, Fumio",P,3,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41943820
+1974,Japan Series,Lotte Orions,18,"Narita, Fumio",P,3,,1,1.000,,2.000,,,0,1,0,1,0,0,2,0,,0,,0,,,,,41943820
+1974,Regular Season,Lotte Orions,18,"Narita, Fumio",P,37,59,52,0.135,0.196,0.173,0.369,2,2,7,6,0,1,0,9,0,0,4,0,14,1,0,2,1,41943820
+1974,Regular Season,Kintetsu Buffaloes,10,"Nagabuchi, Yozo",PH,94,185,158,0.247,0.350,0.392,0.742,22,13,39,30,2,0,7,62,12,6,25,3,17,1,0,2,0,41943826
+1974,Climax Series - Final Stage,Lotte Orions,9,"Hasegawa, Kazuo",1B,2,,4,0.500,,0.500,,,1,2,2,0,0,0,2,0,,0,,1,,,,,41943827
+1974,Japan Series,Lotte Orions,9,"Hasegawa, Kazuo",1B,5,,4,0.250,,0.250,,,0,1,1,0,0,0,1,0,,1,,0,,,,,41943827
+1974,Regular Season,Lotte Orions,9,"Hasegawa, Kazuo",1B,50,118,97,0.155,0.274,0.237,0.511,5,8,15,11,2,0,2,23,1,5,16,0,12,1,0,4,1,41943827
+1974,Regular Season,Nippon-Ham Fighters,47,"Nakahara, Isamu",P,20,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,41943841
+1974,Regular Season,Hanshin Tigers,18,"Tanimura, Tomohiro",P,36,50,47,0.064,0.064,0.085,0.149,1,0,3,2,1,0,0,4,0,0,0,0,20,3,0,3,0,41943843
+1974,Regular Season,Taiheiyo Club Lions,31,"Nagai, Tamotsu",P,14,1,1,1.000,1.000,2.000,3.000,0,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,41943845
+1974,Japan Series,Chunichi Dragons,3,"Fujinami, Yukio",PH,3,,6,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,,,,41943849
+1974,Regular Season,Chunichi Dragons,3,"Fujinami, Yukio",PH,90,130,114,0.289,0.372,0.351,0.723,13,15,33,28,4,0,1,40,1,0,13,1,15,3,2,1,0,41943849
+1974,Regular Season,Yomiuri Giants,27,"Mori, Masahiko",C,56,118,111,0.243,0.276,0.315,0.591,7,19,27,23,2,0,2,35,0,1,5,1,5,6,0,0,2,43543800
+1974,Climax Series - Final Stage,Hankyu Braves,22,"Tanemo, Masayuki",C,2,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,,,,51053823
+1974,Regular Season,Hankyu Braves,22,"Tanemo, Masayuki",C,31,57,53,0.208,0.263,0.226,0.489,5,1,11,10,1,0,0,12,0,0,4,0,4,3,0,0,0,51053823
+1974,Regular Season,Hankyu Braves,40,"Hirabayashi, Jiro",2B,108,63,54,0.222,0.300,0.241,0.541,19,3,12,11,1,0,0,13,26,9,6,0,11,0,0,2,1,51053824
+1974,Regular Season,Lotte Orions,12,"Jonochi, Kunio",P,6,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51053825
+1974,Regular Season,Taiheiyo Club Lions,22,"Higashida, Masayoshi",LF,65,204,178,0.185,0.289,0.337,0.626,15,17,33,22,3,0,8,60,1,2,25,1,39,9,1,0,0,51053826
+1974,Japan Series,Chunichi Dragons,20,"Hoshino, Senichi",P,3,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,51053828
+1974,Regular Season,Chunichi Dragons,20,"Hoshino, Senichi",P,49,62,59,0.254,0.290,0.424,0.714,6,4,15,9,4,0,2,25,0,0,2,0,9,1,1,0,0,51053828
+1974,Climax Series - Final Stage,Hankyu Braves,11,"Toda, Yoshinori",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51053829
+1974,Regular Season,Hankyu Braves,11,"Toda, Yoshinori",P,41,30,26,0.077,0.143,0.077,0.220,2,1,2,2,0,0,0,2,1,0,2,0,10,1,0,2,0,51053829
+1974,Japan Series,Chunichi Dragons,39,"Nishida, Toru",SS,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,,,,51053841
+1974,Regular Season,Chunichi Dragons,39,"Nishida, Toru",SS,57,53,51,0.235,0.250,0.275,0.525,10,4,12,10,2,0,0,14,0,0,1,0,10,1,0,1,0,51053841
+1974,Regular Season,Nankai Hawks,21,"Nozaki, Tsuneo",P,13,10,9,0.222,0.300,0.222,0.522,1,0,2,2,0,0,0,2,0,0,1,0,2,0,0,0,0,51053845
+1974,Regular Season,Nankai Hawks,69,"Matsumoto, Yoshiyuki",C,4,8,8,0.125,0.125,0.125,0.250,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,51053849
+1974,Japan Series,Chunichi Dragons,12,"Iida, Yukio",PH,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,51153822
+1974,Regular Season,Chunichi Dragons,12,"Iida, Yukio",PH,48,45,42,0.214,0.267,0.429,0.696,6,6,9,6,0,0,3,18,0,1,3,0,15,0,0,0,0,51153822
+1974,Regular Season,Hiroshima Toyo Carp,16,"Aniya, Sohachi",P,33,15,14,0.071,0.071,0.143,0.214,1,0,1,0,1,0,0,2,0,0,0,0,6,1,0,1,0,51153829
+1974,Climax Series - Final Stage,Lotte Orions,32,"Arai, Masanori",1B,6,,3,0.333,,0.333,,,0,1,1,0,0,0,1,0,,0,,0,,,,,51153841
+1974,Japan Series,Lotte Orions,32,"Arai, Masanori",1B,5,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51153841
+1974,Regular Season,Lotte Orions,32,"Arai, Masanori",1B,91,179,157,0.242,0.296,0.318,0.614,26,6,38,30,5,2,1,50,6,4,10,0,27,3,2,9,1,51153841
+1974,Regular Season,Nippon-Ham Fighters,14,"Uda, Toshoku",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51153845
+1974,Regular Season,Nippon-Ham Fighters,8,"Aimoto, Kazunori",SS,11,26,25,0.280,0.280,0.280,0.560,2,1,7,7,0,0,0,7,0,0,0,0,2,0,0,1,0,51153847
+1974,Regular Season,Taiheiyo Club Lions,2,"Alou, Matty",RF,50,208,202,0.312,0.325,0.401,0.726,18,11,63,49,12,0,2,81,0,7,2,0,19,1,2,1,1,51153849
+1974,Regular Season,Hiroshima Toyo Carp,9,"Mimura, Toshiyuki",SS,96,367,331,0.260,0.314,0.429,0.743,36,40,86,58,14,0,14,142,0,3,18,2,37,6,8,8,2,51253824
+1974,Climax Series - Final Stage,Hankyu Braves,17,"Yamada, Hisashi",P,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51253828
+1974,Regular Season,Hankyu Braves,17,"Yamada, Hisashi",P,42,49,40,0.200,0.238,0.225,0.463,6,6,8,7,1,0,0,9,1,1,2,0,14,0,0,7,0,51253828
+1974,Regular Season,Nankai Hawks,34,"Fukushi, Hiroaki",P,29,47,42,0.095,0.116,0.119,0.235,1,0,4,3,1,0,0,5,0,0,1,0,16,0,0,4,0,51253841
+1974,Regular Season,Yakult Swallows,5,"Repoz, Roger",CF,106,408,354,0.232,0.332,0.486,0.818,55,54,82,42,15,0,25,172,5,1,50,6,81,4,3,0,1,51253847
+1974,Regular Season,Taiheiyo Club Lions,39,"Wakana, Yoshiharu",C,6,5,5,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253849
+1974,Regular Season,Taiyo Whales,19,"Ejiri, Akira",RF,120,464,426,0.282,0.332,0.392,0.724,54,37,120,97,9,4,10,167,4,2,29,0,34,6,3,5,1,51353820
+1974,Climax Series - Final Stage,Lotte Orions,16,"Ikebe, Takenori",RF,3,,6,0.333,,0.333,,,0,2,2,0,0,0,2,0,,0,,2,,,,,51353825
+1974,Japan Series,Lotte Orions,16,"Ikebe, Takenori",RF,5,,6,0.167,,0.167,,,0,1,1,0,0,0,1,0,,1,,2,,,,,51353825
+1974,Regular Season,Lotte Orions,16,"Ikebe, Takenori",RF,99,272,249,0.281,0.325,0.390,0.715,28,27,70,54,10,1,5,97,8,3,13,0,28,2,3,6,1,51353825
+1974,Regular Season,Kintetsu Buffaloes,7,"Ogawa, Toru",CF,119,474,392,0.276,0.393,0.352,0.745,59,32,108,94,5,2,7,138,20,13,65,0,26,6,11,5,1,51353826
+1974,Regular Season,Chunichi Dragons,58,"Osumi, Masato",1B,12,9,9,0.222,0.222,0.222,0.444,0,0,2,2,0,0,0,2,0,0,0,0,3,1,0,0,0,51353828
+1974,Regular Season,Hanshin Tigers,1,"Ichieda, Shuhei",2B,57,143,123,0.187,0.275,0.220,0.495,12,10,23,21,1,0,1,27,0,0,14,0,28,5,1,3,2,51353829
+1974,Regular Season,Taiheiyo Club Lions,23,"Umeda, Kunizo",SS,121,392,344,0.218,0.292,0.253,0.545,33,21,75,67,5,2,1,87,18,8,32,1,52,6,4,11,1,51353841
+1974,Regular Season,Hankyu Braves,21,"Imai, Yutaro",P,9,1,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,51353843
+1974,Regular Season,Hanshin Tigers,54,"Ogawa, Seiichi",P,22,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51353847
+1974,Regular Season,Nippon-Ham Fighters,34,"Ukai, Katsuo",P,11,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353849
+1974,Regular Season,Kintetsu Buffaloes,3,"Doi, Masahiro",LF,130,516,429,0.277,0.395,0.499,0.894,60,67,119,82,8,0,29,214,5,2,74,3,35,18,9,0,4,51453825
+1974,Regular Season,Hiroshima Toyo Carp,29,"Kihara, Yoshitaka",P,31,18,17,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,1,0,51553820
+1974,Regular Season,Nankai Hawks,45,"Shibata, Takeshi",C,66,154,133,0.218,0.307,0.293,0.600,10,15,29,21,7,0,1,39,0,0,14,2,17,3,3,3,1,51553822
+1974,Regular Season,Nankai Hawks,3,"Sano, Yoshiyuki",SS,110,388,358,0.240,0.284,0.344,0.628,29,32,86,64,13,3,6,123,11,2,21,1,33,14,1,3,5,51553827
+1974,Regular Season,Taiheiyo Club Lions,12,"Kataoka, Shinnosuke",C,86,229,207,0.193,0.264,0.290,0.554,14,22,40,30,5,0,5,60,2,1,20,1,28,8,0,1,1,51553843
+1974,Regular Season,Hiroshima Toyo Carp,47,"Kubo, Toshimi",SS,13,12,11,0.273,0.333,0.273,0.606,2,0,3,3,0,0,0,3,0,0,1,0,3,0,0,0,0,51553845
+1974,Regular Season,Yakult Swallows,14,"Kobayashi, Kunio",P,21,20,16,0.063,0.063,0.063,0.126,0,0,1,1,0,0,0,1,0,0,0,0,10,0,0,4,0,51553847
+1974,Regular Season,Chunichi Dragons,56,"Kanai, Masayoshi",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553849
+1974,Regular Season,Hiroshima Toyo Carp,14,"Sotokoba, Yoshiro",P,46,115,104,0.202,0.210,0.202,0.412,4,3,21,21,0,0,0,21,0,0,1,0,26,3,0,10,0,51753820
+1974,Climax Series - Final Stage,Hankyu Braves,24,"Sumitomo, Taira",2B,3,,9,0.222,,0.333,,,1,2,1,1,0,0,3,0,,1,,0,,,,,51753822
+1974,Regular Season,Hankyu Braves,24,"Sumitomo, Taira",2B,121,396,348,0.239,0.324,0.408,0.732,37,37,83,51,17,3,12,142,13,6,37,1,32,8,7,2,2,51753822
+1974,Regular Season,Nippon-Ham Fighters,2,"Sakamoto, Toshizo",3B,109,433,393,0.280,0.329,0.417,0.746,38,47,110,78,20,2,10,164,16,6,26,0,41,8,3,8,3,51753824
+1974,Regular Season,Taiheiyo Club Lions,15,"Tanaka, Akira",P,50,34,29,0.276,0.300,0.310,0.610,3,2,8,7,1,0,0,9,0,0,1,0,6,0,0,4,0,51753828
+1974,Regular Season,Nippon-Ham Fighters,24,"Kosaka, Toshihiko",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51753841
+1974,Regular Season,Kintetsu Buffaloes,35,"Sato, Takehide",PH,86,93,83,0.241,0.323,0.458,0.781,10,24,20,12,3,0,5,38,0,0,9,0,22,1,1,0,0,51753843
+1974,Regular Season,Yakult Swallows,20,"Sato, Hiroshi",RF,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51753849
+1974,Regular Season,Yomiuri Giants,6,"Doi, Shozo",2B,94,162,145,0.186,0.234,0.228,0.462,13,12,27,21,6,0,0,33,4,0,8,0,11,4,1,7,1,51953820
+1974,Regular Season,Yomiuri Giants,23,"Tsuchida, Makoto",PH,38,34,29,0.276,0.364,0.379,0.743,5,3,8,5,3,0,0,11,1,2,3,0,7,0,1,1,0,51953824
+1974,Regular Season,Lotte Orions,26,"Tsuchiya, Hiroshi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953826
+1974,Regular Season,Kintetsu Buffaloes,14,"Sei, Toshihiko",P,29,28,25,0.120,0.154,0.120,0.274,0,3,3,3,0,0,0,3,0,1,1,0,8,2,0,2,0,51953829
+1974,Regular Season,Yomiuri Giants,41,"Sugiyama, Shigeru",C,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953843
+1974,Regular Season,Kintetsu Buffaloes,19,"Tachibana, Kenji",P,31,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,51953845
+1974,Regular Season,Yomiuri Giants,33,"Harada, Haruaki",PH,28,31,28,0.250,0.323,0.250,0.573,1,3,7,7,0,0,0,7,0,0,2,0,4,1,1,0,0,51953847
+1974,Regular Season,Nankai Hawks,41,"Tsurusaki, Shigeki",2B,1,5,4,0.500,0.500,0.500,1.000,2,0,2,2,0,0,0,2,0,0,0,0,0,0,0,1,0,51953849
+1974,Regular Season,Taiheiyo Club Lions,3,"Fukutomi, Kunio",CF,113,407,365,0.260,0.325,0.351,0.676,36,42,95,71,19,1,4,128,6,5,33,0,48,3,2,2,5,61063820
+1974,Regular Season,Hiroshima Toyo Carp,4,"Mizutani, Jitsuo",RF,77,224,205,0.249,0.309,0.395,0.704,21,16,51,34,10,1,6,81,0,3,16,2,31,10,2,0,1,61063822
+1974,Regular Season,Hiroshima Toyo Carp,46,"Fujimoto, Kazuhiro",P,4,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61063824
+1974,Regular Season,Kintetsu Buffaloes,31,"Mizutani, Hiroshi",P,30,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,61063828
+1974,Regular Season,Nippon-Ham Fighters,28,"Hosaka, Eiji",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61063845
+1974,Regular Season,Yomiuri Giants,30,"Yamamoto, Kazuo",PR,22,9,7,0.143,0.333,0.143,0.476,4,0,1,1,0,0,0,1,0,0,1,0,2,0,1,0,0,61063847
+1974,Regular Season,Nankai Hawks,51,"Yamamoto, Masao",LF,8,11,9,0.222,0.364,0.556,0.920,1,2,2,1,0,0,1,5,0,0,2,0,2,0,0,0,0,61063849
+1974,Regular Season,Yakult Swallows,39,"Inoe, Yoichi",RF,55,83,74,0.203,0.244,0.351,0.595,11,8,15,8,5,0,2,26,0,1,4,0,14,0,0,5,0,61163824
+1974,Climax Series - Final Stage,Lotte Orions,13,"Iizuka, Yoshihiro",SS,9,,12,0.083,,0.083,,,0,1,1,0,0,0,1,1,,1,,1,,,,,61163828
+1974,Japan Series,Lotte Orions,13,"Iizuka, Yoshihiro",SS,6,,10,0.100,,0.100,,,0,1,1,0,0,0,1,1,,0,,1,,,,,61163828
+1974,Regular Season,Lotte Orions,13,"Iizuka, Yoshihiro",SS,115,319,277,0.271,0.346,0.347,0.693,46,15,75,62,7,4,2,96,23,4,29,1,27,1,3,9,1,61163828
+1974,Regular Season,Lotte Orions,52,"Ikeda, Yukihiro",3B,1,4,4,0.500,0.500,0.750,1.250,1,1,2,1,1,0,0,3,0,0,0,0,0,0,0,0,0,61163847
+1974,Regular Season,Kintetsu Buffaloes,54,"Ishiyama, Kazuhide",C,3,6,6,0.167,0.167,0.333,0.500,1,0,1,0,1,0,0,2,0,0,0,0,1,0,0,0,0,61163849
+1974,Climax Series - Final Stage,Hankyu Braves,9,"Morimoto, Kiyoshi",3B,3,,11,0.364,,0.364,,,0,4,4,0,0,0,4,0,,0,,3,,,,,61263820
+1974,Regular Season,Hankyu Braves,9,"Morimoto, Kiyoshi",3B,121,480,418,0.278,0.367,0.462,0.829,47,61,116,72,27,1,16,193,4,7,55,2,49,12,4,1,2,61263820
+1974,Regular Season,Hiroshima Toyo Carp,41,"Morioka, Shigeki",PH,58,112,104,0.317,0.360,0.385,0.745,14,10,33,28,4,0,1,40,0,0,6,0,13,1,1,1,0,61263843
+1974,Regular Season,Hanshin Tigers,29,"Mochizuki, Mitsuru",LF,88,273,251,0.231,0.283,0.398,0.681,20,32,58,36,11,2,9,100,0,0,11,0,38,7,7,4,0,61263845
+1974,Regular Season,Nankai Hawks,38,"Otsuka, Toru",PH,44,44,41,0.195,0.250,0.195,0.445,0,0,8,8,0,0,0,8,0,0,3,0,7,3,0,0,0,61363820
+1974,Regular Season,Yakult Swallows,29,"Kushiro, Yoshiaki",RF,5,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363827
+1974,Climax Series - Final Stage,Hankyu Braves,10,"Kato, Hideji",1B,3,,12,0.083,,0.250,,,0,1,0,0,1,0,3,0,,0,,2,,,,,61363828
+1974,Regular Season,Hankyu Braves,10,"Kato, Hideji",1B,120,476,428,0.322,0.379,0.523,0.902,65,75,138,92,25,2,19,224,24,11,37,1,55,7,2,2,7,61363828
+1974,Climax Series - Final Stage,Hankyu Braves,12,"Okuma, Tadayoshi",LF,2,,8,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,,,,61363829
+1974,Regular Season,Hankyu Braves,12,"Okuma, Tadayoshi",LF,123,438,379,0.245,0.317,0.356,0.673,59,35,93,68,15,3,7,135,8,2,32,0,40,3,8,16,3,61363829
+1974,Regular Season,Kintetsu Buffaloes,18,"Ota, Koji",P,43,50,41,0.098,0.159,0.098,0.257,4,0,4,4,0,0,0,4,1,0,3,0,2,1,0,6,0,61363841
+1974,Regular Season,Nippon-Ham Fighters,25,"Osawa, Tsutomu",C,10,17,14,0.286,0.333,0.357,0.690,1,1,4,3,1,0,0,5,0,1,1,0,5,0,0,2,0,61363843
+1974,Regular Season,Chunichi Dragons,50,"Kanayama, Takuji",CF,7,4,3,0.333,0.500,0.333,0.833,1,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,61363847
+1974,Regular Season,Hanshin Tigers,33,"Owada, Masami",1B,9,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363849
+1974,Regular Season,Nippon-Ham Fighters,6,"Yaezawa, Kenichi",3B,43,61,51,0.078,0.175,0.137,0.312,3,2,4,3,0,0,1,7,0,1,6,0,14,2,0,4,0,61463841
+1974,Regular Season,Taiyo Whales,13,"Kito, Hiroshi",P,14,3,2,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,61563824
+1974,Regular Season,Hiroshima Toyo Carp,19,"Oishi, Yataro",P,27,23,19,0.053,0.100,0.053,0.153,0,0,1,1,0,0,0,1,0,0,1,0,7,0,0,3,0,61563825
+1974,Japan Series,Chunichi Dragons,8,"Shimatani, Kinji",3B,6,,17,0.176,,0.412,,,2,3,1,1,0,1,7,0,,1,,2,,,,,61563828
+1974,Regular Season,Chunichi Dragons,8,"Shimatani, Kinji",3B,102,381,336,0.259,0.327,0.408,0.735,53,41,87,61,13,2,11,137,7,5,33,2,54,12,1,9,2,61563828
+1974,Regular Season,Yomiuri Giants,5,"Kuroe, Yukinobu",2B,84,188,165,0.212,0.293,0.279,0.572,19,15,35,28,4,2,1,46,4,0,14,1,9,5,5,2,2,61563829
+1974,Regular Season,Kintetsu Buffaloes,27,"Kanbe, Toshio",P,28,52,47,0.191,0.224,0.277,0.501,3,9,9,7,1,0,1,13,0,0,2,0,10,0,0,3,0,61563841
+1974,Regular Season,Lotte Orions,15,"Kondo, Shigeo",P,41,15,13,0.231,0.231,0.308,0.539,0,1,3,2,1,0,0,4,0,0,0,0,4,0,0,2,0,61563845
+1974,Regular Season,Chunichi Dragons,52,"Tanokura, Toshio",SS,4,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,61563847
+1974,Regular Season,Nippon-Ham Fighters,18,"Kekich, Mike",P,24,56,54,0.352,0.352,0.500,0.852,1,8,19,13,5,0,1,27,0,0,0,0,12,2,0,2,0,61563849
+1974,Regular Season,Hiroshima Toyo Carp,53,"Takahashi, Satoshi",P,8,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61763826
+1974,Regular Season,Kintetsu Buffaloes,42,"Jones, Clarence",1B,130,515,411,0.226,0.376,0.538,0.914,66,90,93,42,12,1,38,221,5,1,96,9,112,7,3,0,5,61763841
+1974,Regular Season,Yomiuri Giants,22,"Shimano, Osamu",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61763843
+1974,Regular Season,Taiyo Whales,23,"Nagasaki, Keiji",CF,95,258,225,0.356,0.436,0.640,1.076,49,33,80,45,19,3,13,144,8,2,29,3,34,4,3,1,0,61763847
+1974,Regular Season,Taiyo Whales,21,"Sugiyama, Tomotaka",P,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61763849
+1974,Regular Season,Taiyo Whales,9,"Shigematsu, Shozo",PH,77,104,97,0.216,0.240,0.340,0.580,14,9,21,15,3,0,3,33,0,0,3,1,13,2,0,3,1,61963825
+1974,Regular Season,Yakult Swallows,44,"Nakamura, Kuniaki",1B,90,304,266,0.237,0.328,0.395,0.723,37,27,63,41,11,2,9,105,6,4,35,0,62,5,1,1,1,61963841
+1974,Regular Season,Hiroshima Toyo Carp,26,"Nagamoto, Hiroaki",P,26,18,15,0.000,0.063,0.000,0.063,0,0,0,0,0,0,0,0,0,0,1,0,10,0,0,2,0,61963845
+1974,Regular Season,Hankyu Braves,32,"Hosokawa, Yasuo",RF,16,10,8,0.375,0.500,0.500,1.000,0,1,3,2,1,0,0,4,1,0,2,0,3,0,0,0,0,61963847
+1974,Japan Series,Chunichi Dragons,4,"Martin, Gene",RF,6,,22,0.182,,0.318,,,2,4,3,0,0,1,7,0,,2,,6,,,,,61963849
+1974,Regular Season,Chunichi Dragons,4,"Martin, Gene",RF,128,518,464,0.269,0.339,0.528,0.867,67,87,125,76,13,1,35,245,0,5,45,6,69,6,4,0,5,61963849
+1974,Regular Season,Hanshin Tigers,35,"Yamamoto, Shigemasa",P,29,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,63163825
+1974,Regular Season,Taiyo Whales,27,"Hiramatsu, Masaji",P,46,82,75,0.173,0.205,0.307,0.512,2,4,13,7,4,0,2,23,0,0,3,0,25,1,0,4,0,71073824
+1974,Regular Season,Yakult Swallows,12,"Sugiyama, Shigeo",RF,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71073825
+1974,Japan Series,Chunichi Dragons,51,"Masaoka, Shinji",SS,2,,4,0.500,,0.500,,,0,2,2,0,0,0,2,0,,0,,1,,,,,71073826
+1974,Regular Season,Chunichi Dragons,51,"Masaoka, Shinji",SS,112,68,61,0.197,0.234,0.230,0.464,14,3,12,10,2,0,0,14,5,1,2,0,11,1,1,4,0,71073826
+1974,Regular Season,Kintetsu Buffaloes,34,"Nishimura, Shunji",SS,107,274,246,0.228,0.286,0.317,0.603,24,19,56,42,9,2,3,78,7,5,18,2,40,4,2,6,2,71073841
+1974,Climax Series - Final Stage,Lotte Orions,36,"Mitsui, Masaharu",P,1,,1,1.000,,1.000,,,0,1,1,0,0,0,1,0,,0,,0,,,,,71073849
+1974,Japan Series,Lotte Orions,36,"Mitsui, Masaharu",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71073849
+1974,Regular Season,Lotte Orions,36,"Mitsui, Masaharu",P,31,28,26,0.154,0.154,0.192,0.346,0,0,4,3,1,0,0,5,0,0,0,0,7,0,0,2,0,71073849
+1974,Climax Series - Final Stage,Hankyu Braves,16,"Adachi, Mitsuhiro",P,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,71173808
+1974,Regular Season,Hankyu Braves,16,"Adachi, Mitsuhiro",P,30,61,52,0.154,0.185,0.154,0.339,5,5,8,8,0,0,0,8,3,0,2,0,10,0,0,6,1,71173808
+1974,Regular Season,Yakult Swallows,19,"Asano, Keishi",P,41,95,85,0.059,0.111,0.071,0.182,2,1,5,4,1,0,0,6,0,0,5,0,40,0,0,5,0,71173824
+1974,Japan Series,Chunichi Dragons,6,"Inoe, Hiroaki",LF,6,,23,0.174,,0.217,,,2,4,3,1,0,0,5,1,,3,,4,,,,,71173826
+1974,Regular Season,Chunichi Dragons,6,"Inoe, Hiroaki",LF,128,510,435,0.290,0.380,0.460,0.840,65,58,126,89,18,1,18,200,15,5,50,1,63,11,13,6,6,71173826
+1974,Regular Season,Kintetsu Buffaloes,29,"Akiyama, Shigeo",PH,4,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,71173828
+1974,Regular Season,Hankyu Braves,36,"Arai, Yoshio",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71173841
+1974,Regular Season,Yakult Swallows,3,"Arakawa, Takashi",3B,16,56,49,0.245,0.327,0.510,0.837,5,10,12,5,4,0,3,25,0,0,6,0,8,3,0,0,1,71173843
+1974,Regular Season,Hankyu Braves,45,"Uno, Teruyuki",C,9,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71173845
+1974,Regular Season,Kintetsu Buffaloes,24,"Arita, Shuzo",C,75,85,79,0.165,0.205,0.278,0.483,6,7,13,8,3,0,2,22,0,1,3,0,6,2,1,2,0,71173847
+1974,Regular Season,Kintetsu Buffaloes,13,"Arita, Fumio",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71173849
+1974,Climax Series - Final Stage,Hankyu Braves,15,"Mizutani, Takashi",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71273824
+1974,Regular Season,Hankyu Braves,15,"Mizutani, Takashi",P,26,48,40,0.175,0.214,0.225,0.439,3,2,7,5,2,0,0,9,0,0,2,0,7,0,0,5,1,71273824
+1974,Regular Season,Hiroshima Toyo Carp,8,"Yamamoto, Koji",CF,127,529,476,0.275,0.338,0.508,0.846,74,74,131,78,23,2,28,242,18,8,41,5,72,18,4,6,2,71273828
+1974,Japan Series,Chunichi Dragons,19,"Hoshino, Hidetaka",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71273843
+1974,Regular Season,Chunichi Dragons,19,"Hoshino, Hidetaka",P,37,15,13,0.462,0.462,0.692,1.154,2,4,6,4,1,1,0,9,0,0,0,0,0,0,0,2,0,71273843
+1974,Japan Series,Chunichi Dragons,11,"Misawa, Jun",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71273845
+1974,Regular Season,Chunichi Dragons,11,"Misawa, Jun",P,45,64,55,0.145,0.190,0.182,0.372,2,1,8,6,2,0,0,10,1,0,3,0,23,0,0,6,0,71273845
+1974,Regular Season,Hanshin Tigers,41,"Watanabe, Hirotoshi",P,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71273849
+1974,Regular Season,Taiyo Whales,8,"Eto, Shinichi",LF,111,403,378,0.291,0.333,0.447,0.780,34,67,110,83,11,0,16,169,3,0,24,1,30,13,0,0,1,71373808
+1974,Climax Series - Final Stage,Lotte Orions,35,"Iwasaki, Tadayoshi",RF,8,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71373824
+1974,Japan Series,Lotte Orions,35,"Iwasaki, Tadayoshi",RF,6,,16,0.375,,0.375,,,2,6,6,0,0,0,6,1,,1,,2,,,,,71373824
+1974,Regular Season,Lotte Orions,35,"Iwasaki, Tadayoshi",RF,85,172,150,0.273,0.339,0.340,0.679,15,6,41,33,6,2,0,51,3,3,14,0,11,5,1,6,1,71373824
+1974,Regular Season,Taiheiyo Club Lions,25,"Ota, Takuji",PH,49,73,61,0.295,0.403,0.475,0.878,8,9,18,12,3,1,2,29,2,2,10,0,13,1,1,0,1,71373828
+1974,Regular Season,Nankai Hawks,39,"Umemura, Yoshihiko",C,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373841
+1974,Regular Season,Yakult Swallows,50,"Uehara, Shuhei",RF,4,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71373843
+1974,Regular Season,Yakult Swallows,7,"Oda, Yoshihito",1B,73,184,170,0.200,0.249,0.371,0.620,15,24,34,17,11,0,6,63,0,2,8,1,30,6,3,1,2,71373847
+1974,Climax Series - Final Stage,Hankyu Braves,19,"Austin, Rick",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71373849
+1974,Regular Season,Hankyu Braves,19,"Austin, Rick",P,8,7,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,1,0,71373849
+1974,Regular Season,Taiheiyo Club Lions,34,"Miura, Kiyohiro",P,27,33,29,0.138,0.194,0.138,0.332,2,0,4,4,0,0,0,4,0,0,2,0,9,0,0,2,0,71473804
+1974,Regular Season,Yomiuri Giants,9,"Yoshida, Takashi",C,106,258,234,0.205,0.256,0.329,0.585,15,20,48,33,8,0,7,77,0,1,14,3,40,7,2,7,1,71473820
+1974,Regular Season,Taiheiyo Club Lions,16,"Miwa, Satoru",P,27,9,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,71473841
+1974,Regular Season,Yakult Swallows,36,"Watanabe, Susumu",3B,13,14,13,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,4,2,0,0,1,71473845
+1974,Regular Season,Yakult Swallows,52,"Kido, Norifumi",3B,49,123,110,0.173,0.242,0.209,0.451,7,4,19,15,4,0,0,23,1,1,10,3,17,2,0,2,1,71573804
+1974,Regular Season,Hiroshima Toyo Carp,28,"Kinugasa, Sachio",1B,130,529,471,0.253,0.330,0.482,0.812,72,86,119,76,10,1,32,227,7,5,48,2,78,14,6,0,4,71573820
+1974,Regular Season,Hanshin Tigers,3,"Goto, Kazuaki",3B,92,290,260,0.250,0.311,0.392,0.703,22,33,65,47,8,1,9,102,0,3,21,0,34,3,2,6,1,71573828
+1974,Regular Season,Nankai Hawks,27,"Kadota, Hiromitsu",RF,124,487,432,0.269,0.342,0.528,0.870,62,76,116,62,23,4,27,228,1,2,47,6,59,10,1,0,7,71573841
+1974,Regular Season,Yomiuri Giants,19,"Kobayashi, Shigeru",P,44,33,27,0.074,0.194,0.074,0.268,0,1,2,2,0,0,0,2,0,0,4,0,13,0,0,1,1,71573847
+1974,Regular Season,Kintetsu Buffaloes,58,"Kawamoto, Koji",PH,1,2,2,0.500,0.500,0.500,1.000,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,71573849
+1974,Regular Season,Hiroshima Toyo Carp,7,"Yamamoto, Kazuyoshi",LF,90,268,237,0.287,0.365,0.430,0.795,22,21,68,49,11,1,7,102,2,0,27,3,33,6,2,0,2,71673823
+1974,Regular Season,Taiheiyo Club Lions,17,"Yanagida, Yutaka",P,44,38,38,0.184,0.184,0.211,0.395,2,1,7,6,1,0,0,8,0,0,0,0,11,0,0,0,0,71673841
+1974,Regular Season,Hanshin Tigers,22,"Tabuchi, Koichi",C,129,529,407,0.278,0.440,0.644,1.084,83,95,113,54,14,0,45,262,2,2,102,28,67,13,16,0,4,71773828
+1974,Regular Season,Hiroshima Toyo Carp,39,"Sato, Kunimitsu",P,8,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773841
+1974,Regular Season,Chunichi Dragons,26,"Sato, Masao",P,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773843
+1974,Regular Season,Hiroshima Toyo Carp,1,"Shibuya, Toru",PH,51,84,79,0.165,0.205,0.266,0.471,8,6,13,9,2,0,2,21,0,1,3,0,23,4,1,1,0,71773845
+1974,Regular Season,Hanshin Tigers,40,"Taylor, Bobby",RF,127,551,489,0.278,0.351,0.415,0.766,62,38,136,97,23,4,12,203,7,4,43,2,37,15,12,5,2,71773847
+1974,Regular Season,Hanshin Tigers,9,"Sano, Noriyoshi",3B,61,152,143,0.238,0.278,0.315,0.593,9,11,34,28,3,1,2,45,0,0,8,0,25,4,0,0,1,71773849
+1974,Regular Season,Yakult Swallows,38,"Tojo, Fumihiro",SS,78,275,248,0.226,0.284,0.274,0.558,23,10,56,45,10,1,0,68,8,7,19,0,35,2,1,7,0,71973820
+1974,Climax Series - Final Stage,Hankyu Braves,3,"Nagaike, Tokuji",RF,3,,11,0.273,,0.545,,,2,3,2,0,0,1,6,0,,0,,1,,,,,71973822
+1974,Regular Season,Hankyu Braves,3,"Nagaike, Tokuji",RF,121,485,442,0.290,0.347,0.518,0.865,60,96,128,82,18,1,27,229,9,7,38,1,38,14,1,0,4,71973822
+1974,Climax Series - Final Stage,Lotte Orions,25,"Tokutsu, Takahiro",RF,3,,12,0.500,,0.750,,,4,6,5,0,0,1,9,0,,1,,0,,,,,71973824
+1974,Japan Series,Lotte Orions,25,"Tokutsu, Takahiro",RF,6,,17,0.235,,0.235,,,4,4,4,0,0,0,4,1,,1,,1,,,,,71973824
+1974,Regular Season,Lotte Orions,25,"Tokutsu, Takahiro",RF,118,386,362,0.309,0.349,0.428,0.777,37,37,112,84,18,5,5,155,5,4,20,0,14,6,2,1,1,71973824
+1974,Climax Series - Final Stage,Hankyu Braves,26,"Togin, Hidetaka",PH,3,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,71973826
+1974,Regular Season,Hankyu Braves,26,"Togin, Hidetaka",PH,87,142,111,0.288,0.423,0.405,0.828,19,20,32,23,7,0,2,45,9,2,25,4,18,4,1,5,0,71973826
+1974,Regular Season,Nippon-Ham Fighters,19,"Nomura, Osamu",P,39,41,36,0.111,0.111,0.222,0.333,2,2,4,2,1,0,1,8,0,0,0,0,13,0,0,5,0,71973828
+1974,Regular Season,Kintetsu Buffaloes,4,"Sekine, Tomo",2B,20,2,1,0.000,0.500,0.000,0.500,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,71973829
+1974,Regular Season,Chunichi Dragons,49,"Tsuboi, Shinzaburo",2B,2,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,71973841
+1974,Regular Season,Yomiuri Giants,20,"Sekimoto, Mitsuhiro",P,37,53,44,0.114,0.152,0.114,0.266,2,0,5,5,0,0,0,5,0,0,2,0,19,0,0,7,0,71973843
+1974,Regular Season,Hiroshima Toyo Carp,24,"Hicks, Jim",LF,78,253,230,0.243,0.307,0.513,0.820,31,40,56,28,11,0,17,118,2,2,19,1,46,8,2,1,1,71973847
+1974,Regular Season,Taiyo Whales,48,"Nagano, Satoshi",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973849
+1974,Regular Season,Taiyo Whales,31,"Furuta, Tadashi",PH,11,8,6,0.333,0.429,0.333,0.762,0,0,2,2,0,0,0,2,0,0,1,0,1,0,0,1,0,81083820
+1974,Regular Season,Nippon-Ham Fighters,37,"Yoshida, Makoto",LF,55,35,32,0.156,0.182,0.188,0.370,2,1,5,4,1,0,0,6,2,1,1,0,6,0,0,2,0,81083826
+1974,Regular Season,Hiroshima Toyo Carp,22,"Mizunuma, Shiro",C,69,170,159,0.233,0.278,0.277,0.555,12,11,37,32,4,0,1,44,3,1,9,3,25,3,1,0,1,81083828
+1974,Regular Season,Taiheiyo Club Lions,19,"Hamaura, Toru",P,22,25,25,0.200,0.200,0.200,0.400,1,0,5,5,0,0,0,5,0,0,0,0,2,0,0,0,0,81083843
+1974,Regular Season,Taiheiyo Club Lions,49,"Yoshimura, Kenji",PR,18,4,4,0.250,0.250,0.250,0.500,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,81083847
+1974,Regular Season,Kintetsu Buffaloes,52,"Yoda, Asakichi",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81083849
+1974,Regular Season,Kintetsu Buffaloes,9,"Ise, Takao",PH,74,92,81,0.185,0.275,0.358,0.633,11,10,15,9,2,0,4,29,0,0,9,1,18,1,1,0,1,81183824
+1974,Regular Season,Hanshin Tigers,16,"Ueda, Jiro",P,36,62,51,0.137,0.154,0.137,0.291,2,1,7,7,0,0,0,7,0,0,1,0,26,1,0,10,0,81183841
+1974,Regular Season,Kintetsu Buffaloes,32,"Ishiwata, Shigeru",SS,95,206,179,0.179,0.279,0.246,0.525,20,12,32,25,4,1,2,44,13,4,24,0,30,5,1,1,1,81183843
+1974,Japan Series,Chunichi Dragons,5,"Williams, Jimmy",CF,5,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,3,,,,,81183847
+1974,Regular Season,Chunichi Dragons,5,"Williams, Jimmy",CF,95,269,241,0.224,0.297,0.328,0.625,23,27,54,38,11,1,4,79,3,8,24,0,52,10,1,3,0,81183847
+1974,Regular Season,Kintetsu Buffaloes,11,"Ichihashi, Hidehiko",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81183849
+1974,Regular Season,Yomiuri Giants,36,"Yanagida, Toshiro",LF,102,287,251,0.335,0.410,0.566,0.976,37,52,84,56,13,0,15,142,6,2,31,2,27,5,1,1,3,81283824
+1974,Regular Season,Yakult Swallows,22,"Yasuda, Takeshi",P,28,49,44,0.227,0.277,0.318,0.595,5,3,10,8,1,0,1,14,0,0,3,0,17,0,0,2,0,81283845
+1974,Regular Season,Yomiuri Giants,1,"Oh, Sadaharu",1B,130,553,385,0.332,0.534,0.761,1.295,105,107,128,61,18,0,49,293,1,5,158,45,44,4,8,0,2,81383808
+1974,Regular Season,Hankyu Braves,23,"Okada, Yukiyoshi",C,7,6,3,0.333,0.667,1.333,2.000,1,1,1,0,0,0,1,4,0,0,3,0,1,0,0,0,0,81383820
+1974,Regular Season,Taiyo Whales,7,"Osada, Yukio",PH,51,49,43,0.209,0.306,0.302,0.608,1,4,9,7,1,0,1,13,0,0,6,1,12,2,0,0,0,81383823
+1974,Regular Season,Nippon-Ham Fighters,1,"Oshita, Tsuyoshi",2B,120,514,442,0.247,0.327,0.333,0.660,72,31,109,86,13,5,5,147,34,7,43,0,21,6,10,16,3,81383824
+1974,Regular Season,Hanshin Tigers,4,"Kawato, Kozo",LF,106,240,202,0.198,0.260,0.228,0.488,20,8,40,36,3,0,1,46,9,7,14,0,36,6,3,20,1,81383826
+1974,Climax Series - Final Stage,Lotte Orions,17,"Kaneda, Tomehiro",P,3,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,81383828
+1974,Japan Series,Lotte Orions,17,"Kaneda, Tomehiro",P,3,,5,0.200,,0.200,,,0,1,1,0,0,0,1,0,,0,,0,,,,,81383828
+1974,Regular Season,Lotte Orions,17,"Kaneda, Tomehiro",P,38,75,63,0.254,0.266,0.270,0.536,3,3,16,15,1,0,0,17,0,0,1,0,6,0,0,9,2,81383828
+1974,Regular Season,Nippon-Ham Fighters,53,"Okaji, Kazuhiko",PH,80,183,175,0.234,0.260,0.314,0.574,13,10,41,29,11,0,1,55,3,1,5,0,37,0,1,2,0,81383841
+1974,Japan Series,Chunichi Dragons,40,"Oshima, Yasunori",3B,6,,16,0.188,,0.438,,,1,3,1,1,0,1,7,0,,0,,2,,,,,81383843
+1974,Regular Season,Chunichi Dragons,40,"Oshima, Yasunori",3B,112,294,256,0.258,0.343,0.461,0.804,37,46,66,37,17,1,11,118,1,7,27,2,42,6,6,2,3,81383843
+1974,Regular Season,Hankyu Braves,67,"Okamoto, Kazumitsu",PH,3,3,2,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,81383849
+1974,Regular Season,Yomiuri Giants,12,"Yazawa, Tadashi",C,45,107,99,0.212,0.264,0.354,0.618,12,13,21,15,2,0,4,35,0,0,4,0,17,3,3,1,0,81483841
+1974,Regular Season,Nankai Hawks,2,"Koike, Kenji",SS,40,52,48,0.188,0.235,0.229,0.464,3,0,9,7,2,0,0,11,0,0,3,0,7,0,0,1,0,81583823
+1974,Regular Season,Yakult Swallows,23,"Sunochi, Masao",P,16,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,81583826
+1974,Climax Series - Final Stage,Hankyu Braves,13,"Shogaki, Hironori",PH,2,,3,0.333,,0.333,,,0,1,1,0,0,0,1,0,,1,,0,,,,,81583828
+1974,Regular Season,Hankyu Braves,13,"Shogaki, Hironori",PH,95,120,98,0.184,0.310,0.245,0.555,5,10,18,15,1,1,1,24,1,2,16,1,21,1,2,1,3,81583828
+1974,Regular Season,Hankyu Braves,31,"Kodama, Yoshihiro",P,16,6,5,0.400,0.400,0.600,1.000,1,0,2,1,1,0,0,3,0,0,0,0,3,0,0,1,0,81583843
+1974,Regular Season,Kintetsu Buffaloes,5,"Sasaki, Kyosuke",RF,118,402,362,0.262,0.322,0.439,0.761,40,39,95,57,25,0,13,159,7,8,29,0,49,5,3,5,3,81583845
+1974,Regular Season,Lotte Orions,59,"Sasaki, Nobuyuki",C,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81583849
+1974,Regular Season,Taiheiyo Club Lions,9,"Fujii, Eiji",RF,105,368,320,0.231,0.326,0.319,0.645,26,38,74,54,16,0,4,102,3,1,44,7,31,8,1,1,2,81683825
+1974,Japan Series,Chunichi Dragons,1,"Takagi, Morimichi",2B,5,,22,0.364,,0.545,,,3,8,6,1,0,1,12,0,,0,,1,,,,,81783821
+1974,Regular Season,Chunichi Dragons,1,"Takagi, Morimichi",2B,121,501,456,0.276,0.322,0.432,0.754,71,47,126,87,22,2,15,197,14,11,29,2,42,11,2,10,4,81783821
+1974,Regular Season,Taiyo Whales,14,"Takagaki, Yoshihiro",P,7,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81783824
+1974,Regular Season,Nankai Hawks,8,"Shimamoto, Kohei",PH,9,6,5,0.000,0.167,0.000,0.167,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,81783843
+1974,Regular Season,Taiyo Whales,35,"Takagi, Yoshikazu",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81783845
+1974,Regular Season,Hiroshima Toyo Carp,18,"Nagashima, Yoshikuni",P,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783847
+1974,Regular Season,Hanshin Tigers,45,"Suzuki, Teruo",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783849
+1974,Regular Season,Yomiuri Giants,3,"Nagashima, Shigeo",3B,128,476,442,0.244,0.291,0.387,0.678,56,55,108,76,16,1,15,171,2,1,24,0,33,18,5,1,4,81983806
+1974,Regular Season,Chunichi Dragons,30,"Hirono, Isao",PH,35,37,34,0.176,0.243,0.265,0.508,1,1,6,5,0,0,1,9,0,0,3,0,12,0,0,0,0,81983822
+1974,Regular Season,Nankai Hawks,18,"Nishioka, Sanshiro",P,19,33,27,0.111,0.200,0.111,0.311,1,1,3,3,0,0,0,3,0,0,3,0,7,1,0,3,0,81983826
+1974,Regular Season,Nippon-Ham Fighters,7,"Haku, Jinten",CF,114,457,418,0.261,0.312,0.421,0.733,63,42,109,73,20,1,15,176,24,5,22,1,19,18,9,5,3,81983827
+1974,Climax Series - Final Stage,Hankyu Braves,7,"Fukumoto, Yutaka",CF,3,,11,0.273,,0.364,,,1,3,2,1,0,0,4,0,,2,,3,,,,,81983828
+1974,Regular Season,Hankyu Braves,7,"Fukumoto, Yutaka",CF,129,539,477,0.327,0.402,0.447,0.849,84,52,156,122,19,7,8,213,94,23,58,1,57,2,2,1,1,81983828
+1974,Regular Season,Nankai Hawks,13,"Nakayama, Koichi",P,28,50,45,0.089,0.109,0.111,0.220,2,1,4,3,1,0,0,5,0,0,1,0,16,1,0,4,0,81983841
+1974,Regular Season,Kintetsu Buffaloes,8,"Nashida, Masataka",C,115,280,247,0.194,0.274,0.259,0.533,14,18,48,36,10,0,2,64,2,4,22,2,41,1,5,6,0,81983845
+1974,Regular Season,Hiroshima Toyo Carp,3,"Mcguire, Mickey",2B,104,374,359,0.253,0.272,0.309,0.581,17,26,91,76,12,1,2,111,0,3,8,2,16,13,1,2,4,81983847
+1974,Regular Season,Hankyu Braves,44,"Maeda, Toru",PH,1,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,81983849
+1974,Climax Series - Final Stage,Hankyu Braves,18,"Yoneda, Tetsuya",P,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,83183802
+1974,Regular Season,Hankyu Braves,18,"Yoneda, Tetsuya",P,32,44,36,0.222,0.263,0.389,0.652,4,6,8,4,3,0,1,14,0,0,2,0,14,1,0,6,0,83183802
+1974,Regular Season,Yomiuri Giants,18,"Horiuchi, Tsuneo",P,46,108,97,0.155,0.180,0.278,0.458,8,10,15,11,0,0,4,27,0,0,3,0,41,1,0,7,1,91093822
+1974,Regular Season,Hanshin Tigers,30,"Hirayama, Hideo",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91093824
+1974,Regular Season,Hanshin Tigers,13,"Suzuki, Kiyotake",P,28,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,91093825
+1974,Regular Season,Yakult Swallows,17,"Matsuoka, Hiromu",P,39,89,83,0.120,0.131,0.205,0.336,4,5,10,7,1,0,2,17,0,0,1,0,24,0,0,4,1,91093826
+1974,Regular Season,Nippon-Ham Fighters,39,"Misawa, Kesaharu",PH,36,36,29,0.138,0.306,0.138,0.444,2,2,4,4,0,0,0,4,0,0,7,0,4,4,0,0,0,91093827
+1974,Regular Season,Hiroshima Toyo Carp,20,"Norikae, Hisayoshi",P,10,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91093841
+1974,Regular Season,Yomiuri Giants,28,"Niura, Hisao",P,26,42,37,0.216,0.275,0.216,0.491,1,3,8,8,0,0,0,8,0,0,3,0,17,0,0,2,0,91093843
+1974,Regular Season,Hankyu Braves,49,"Hatano, Minoru",2B,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,91093845
+1974,Regular Season,Lotte Orions,51,"Matsuda, Mitsuyasu",SS,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91093847
+1974,Regular Season,Yakult Swallows,40,"Mizutani, Shintaro",SS,1,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,91093849
+1974,Japan Series,Chunichi Dragons,28,"Eto, Shozo",PH,5,,5,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,91193822
+1974,Regular Season,Chunichi Dragons,28,"Eto, Shozo",PH,78,78,69,0.261,0.320,0.319,0.639,1,9,18,16,1,0,1,22,0,0,6,0,6,5,0,3,0,91193822
+1974,Climax Series - Final Stage,Lotte Orions,8,"Arito, Michiyo",3B,9,,5,0.600,,0.600,,,3,3,3,0,0,0,3,3,,3,,0,,,,,91193828
+1974,Japan Series,Lotte Orions,8,"Arito, Michiyo",3B,9,,21,0.429,,0.714,,,2,9,7,0,0,2,15,2,,4,,2,,,,,91193828
+1974,Regular Season,Lotte Orions,8,"Arito, Michiyo",3B,117,463,419,0.263,0.330,0.501,0.831,79,63,110,65,15,5,25,210,20,4,40,3,82,8,2,1,1,91193828
+1974,Regular Season,Yakult Swallows,26,"Ihara, Shinichiro",P,5,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,91193841
+1974,Regular Season,Taiyo Whales,18,"Uzawa, Tatsuo",P,11,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,91193845
+1974,Regular Season,Kintetsu Buffaloes,12,"Imoto, Takashi",P,35,7,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,0,91193847
+1974,Regular Season,Yakult Swallows,49,"Ikuta, Keiichi",CF,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91193849
+1974,Regular Season,Hankyu Braves,37,"Miyoshi, Yukio",P,28,12,9,0.222,0.364,0.222,0.586,1,0,2,2,0,0,0,2,0,0,2,0,5,0,0,1,0,91293820
+1974,Regular Season,Hiroshima Toyo Carp,2,"Miyagawa, Takao",PH,55,53,42,0.238,0.396,0.262,0.658,0,3,10,9,1,0,0,11,0,0,7,1,6,3,4,0,0,91293821
+1974,Regular Season,Hiroshima Toyo Carp,32,"Yokoyama, Kojiro",P,7,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91293822
+1974,Climax Series - Final Stage,Lotte Orions,28,"Murakami, Kimiyasu",C,9,,10,0.100,,0.200,,,3,1,0,1,0,0,2,0,,1,,1,,,,,91293824
+1974,Japan Series,Lotte Orions,28,"Murakami, Kimiyasu",C,6,,15,0.267,,0.267,,,1,4,4,0,0,0,4,0,,1,,3,,,,,91293824
+1974,Regular Season,Lotte Orions,28,"Murakami, Kimiyasu",C,94,266,236,0.246,0.315,0.428,0.743,22,34,58,34,14,1,9,101,2,2,20,5,27,2,4,5,1,91293824
+1974,Japan Series,Lotte Orions,31,"Yoshioka, Satoru",2B,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91293828
+1974,Regular Season,Lotte Orions,31,"Yoshioka, Satoru",2B,4,13,12,0.250,0.308,0.500,0.808,2,2,3,1,1,1,0,6,0,1,1,0,1,0,0,0,0,91293828
+1974,Regular Season,Taiyo Whales,6,"Boyer, Clete",3B,118,458,432,0.282,0.319,0.456,0.775,44,65,122,86,16,1,19,197,0,0,22,0,48,13,1,1,2,91293841
+1974,Regular Season,Nankai Hawks,5,"Matsui, Masanori",3B,16,33,29,0.207,0.233,0.276,0.509,3,4,6,4,2,0,0,8,0,0,1,0,6,1,0,2,1,91293843
+1974,Regular Season,Hiroshima Toyo Carp,10,"Michihara, Hiroyuki",C,19,22,21,0.095,0.136,0.095,0.231,0,0,2,2,0,0,0,2,0,0,1,0,4,0,0,0,0,91293845
+1974,Regular Season,Yakult Swallows,31,"Okumiya, Taneo",C,9,10,10,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,91393826
+1974,Regular Season,Taiheiyo Club Lions,6,"Kikukawa, Shojiro",3B,79,234,199,0.206,0.282,0.256,0.538,18,16,41,35,4,0,2,51,3,1,20,1,10,3,1,13,1,91393827
+1974,Climax Series - Final Stage,Hankyu Braves,6,"Ohashi, Yutaka",SS,3,,8,0.250,,0.250,,,0,2,2,0,0,0,2,0,,1,,2,,,,,91393828
+1974,Regular Season,Hankyu Braves,6,"Ohashi, Yutaka",SS,110,341,301,0.209,0.281,0.352,0.633,43,28,63,42,9,2,10,106,3,3,23,0,74,5,7,8,2,91393828
+1974,Regular Season,Nankai Hawks,25,"Katahira, Shinsaku",LF,82,225,200,0.265,0.344,0.425,0.769,21,26,53,39,5,0,9,85,0,1,22,2,19,4,2,0,1,91393845
+1974,Regular Season,Nippon-Ham Fighters,46,"Omuro, Katsumi",RF,86,74,66,0.152,0.211,0.197,0.408,16,6,10,7,3,0,0,13,6,4,5,0,4,1,0,2,1,91393847
+1974,Regular Season,Yomiuri Giants,45,"Ogawa, Kunikazu",P,42,26,20,0.200,0.273,0.250,0.523,2,2,4,3,1,0,0,5,0,0,2,0,5,0,0,3,0,91393849
+1974,Regular Season,Yakult Swallows,10,"Yamashita, Keitoku",RF,115,428,395,0.243,0.293,0.367,0.660,40,53,96,68,16,3,9,145,12,4,27,2,60,8,1,4,1,91493843
+1974,Regular Season,Yakult Swallows,16,"Watanabe, Takahiro",P,21,17,15,0.133,0.133,0.133,0.266,0,0,2,2,0,0,0,2,0,0,0,0,2,1,0,2,0,91493845
+1974,Regular Season,Yomiuri Giants,17,"Kurata, Makoto",P,38,16,16,0.125,0.125,0.125,0.250,1,0,2,2,0,0,0,2,0,0,0,0,5,0,0,0,0,91593820
+1974,Regular Season,Nippon-Ham Fighters,22,"Kato, Toshio",C,60,169,137,0.190,0.319,0.226,0.545,11,13,26,23,2,0,1,31,3,1,23,3,22,1,3,3,3,91593824
+1974,Regular Season,Hanshin Tigers,17,"Kuwano, Hakaru",PH,41,70,59,0.169,0.258,0.237,0.495,3,1,10,6,4,0,0,14,0,1,7,0,13,3,0,3,1,91593826
+1974,Japan Series,Lotte Orions,22,"Sakaki, Shinichi",C,2,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91593828
+1974,Regular Season,Lotte Orions,22,"Sakaki, Shinichi",C,58,113,105,0.229,0.264,0.286,0.550,8,10,24,20,3,0,1,30,0,0,5,0,5,3,0,1,2,91593828
+1974,Regular Season,Lotte Orions,46,"Kuramochi, Akira",P,7,4,2,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,91593845
+1974,Regular Season,Hanshin Tigers,21,"Saotome, Yutaka",P,9,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91593847
+1974,Regular Season,Hiroshima Toyo Carp,25,"Kinoshita, Tomio",SS,89,179,165,0.164,0.216,0.230,0.446,14,6,27,21,3,1,2,38,2,3,9,0,27,5,2,3,0,91593849
+1974,Regular Season,Nippon-Ham Fighters,21,"Takahashi, Naoki",P,35,63,55,0.127,0.143,0.127,0.270,0,3,7,7,0,0,0,7,0,0,1,0,19,0,0,7,0,91793828
+1974,Regular Season,Chunichi Dragons,36,"Shirataki, Masataka",PR,6,2,1,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,91793845
+1974,Regular Season,Nankai Hawks,44,"Sadaoka, Chiaki",SS,15,42,37,0.270,0.357,0.432,0.789,4,6,10,8,0,0,2,16,0,0,4,0,12,0,1,0,0,91793849
+1974,Climax Series - Final Stage,Hankyu Braves,39,"Nakazawa, Shinji",C,2,,4,0.500,,0.500,,,1,2,2,0,0,0,2,0,,0,,0,,,,,91993820
+1974,Regular Season,Hankyu Braves,39,"Nakazawa, Shinji",C,113,343,302,0.228,0.307,0.328,0.635,32,41,69,53,9,0,7,99,0,2,33,0,53,11,1,5,2,91993820
+1974,Regular Season,Kintetsu Buffaloes,23,"Hattori, Toshikazu",2B,95,278,248,0.218,0.276,0.270,0.546,17,15,54,46,5,1,2,67,12,4,17,1,40,7,3,9,1,91993828
+1974,Regular Season,Hiroshima Toyo Carp,34,"Sonoda, Toshihiko",3B,94,260,237,0.300,0.336,0.380,0.716,31,21,71,60,6,2,3,90,2,3,12,0,35,2,1,9,1,91993829
+1974,Regular Season,Hankyu Braves,54,"Tanaka, Suekazu",LF,2,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,91993843
+1974,Regular Season,Chunichi Dragons,13,"Donoe, Terashi",P,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91993845
+1974,Regular Season,Taiheiyo Club Lions,1,"Buford, Don",3B,108,453,382,0.330,0.431,0.487,0.918,55,43,126,95,16,1,14,186,15,8,63,4,39,2,5,2,1,91993847
+1974,Regular Season,Taiheiyo Club Lions,10,"Howard, Frank",RF,1,3,2,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,91993849

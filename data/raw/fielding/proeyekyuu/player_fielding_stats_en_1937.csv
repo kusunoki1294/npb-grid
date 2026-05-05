@@ -1,0 +1,530 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+1937 Fall,Regular Season,Lion Baseball Club,16,"Hara, Ichiro",1B,1,0.909,10,0,1,0,,01003874
+1937 Fall,Regular Season,Lion Baseball Club,16,"Hara, Ichiro",C,20,0.954,92,11,5,3,8,01003874
+1937 Spring,Regular Season,Dai Tokyo,16,"Hara, Ichiro",C,4,0.875,6,1,1,0,0,01003874
+1937 Spring,Regular Season,Osaka Tigers,23,"Hara, Ichiro",C,1,1.000,3,1,0,0,0,01003874
+1937 Fall,Regular Season,Lion Baseball Club,3,"Asahara, Naoto",1B,37,0.970,367,19,12,37,,01103872
+1937 Spring,Regular Season,Dai Tokyo,3,"Asahara, Naoto",1B,44,0.970,369,13,12,25,,01103872
+1937 Spring,Regular Season,Dai Tokyo,3,"Asahara, Naoto",3B,6,0.750,4,8,4,1,,01103872
+1937 Spring,Regular Season,Dai Tokyo,3,"Asahara, Naoto",C,4,0.750,5,1,2,0,3,01103872
+1937 Spring,Regular Season,Nagoya Club,15,"Ito, Kunio",P,2,1.000,0,1,0,1,,01103874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,19,"Sei, Kiyoshi",3B,1,0.667,0,2,1,1,,01203872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,19,"Sei, Kiyoshi",SS,46,0.875,80,173,36,31,,01203872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,19,"Sei, Kiyoshi",2B,1,0.000,0,0,1,0,,01203872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,19,"Sei, Kiyoshi",3B,45,0.883,30,128,21,10,,01203872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,19,"Sei, Kiyoshi",SS,6,0.909,15,15,3,1,,01203872
+1937 Fall,Regular Season,Osaka Tigers,27,"Matsuhiro, Kinichi",OF,4,1.000,1,0,0,0,,01203874
+1937 Spring,Regular Season,Osaka Tigers,27,"Matsuhiro, Kinichi",OF,2,0.000,0,0,1,0,,01203874
+1937 Spring,Regular Season,Nagoya Club,5,"Iwata, Tsuguo",1B,3,0.923,22,2,2,4,,01303872
+1937 Spring,Regular Season,Nagoya Club,5,"Iwata, Tsuguo",3B,32,0.897,30,101,15,15,,01303872
+1937 Spring,Regular Season,Nagoya Club,5,"Iwata, Tsuguo",C,1,1.000,0,1,0,0,0,01303872
+1937 Spring,Regular Season,Tokyo Senators,19,"Iwata, Tsuguo",3B,10,0.930,12,28,3,4,,01303872
+1937 Fall,Regular Season,Nagoya Club,19,"Osawa, Nobuo",1B,19,0.993,136,5,1,18,,01303874
+1937 Fall,Regular Season,Nagoya Club,19,"Osawa, Nobuo",3B,38,0.913,36,101,13,15,,01303874
+1937 Spring,Regular Season,Nagoya Club,19,"Osawa, Nobuo",2B,12,0.914,27,26,5,8,,01303874
+1937 Spring,Regular Season,Nagoya Club,19,"Osawa, Nobuo",3B,27,0.858,23,68,15,9,,01303874
+1937 Spring,Regular Season,Nagoya Club,19,"Osawa, Nobuo",P,7,1.000,2,5,0,3,,01303874
+1937 Fall,Regular Season,Lion Baseball Club,8,"Tsubochi, Michinori",OF,49,0.963,127,4,5,0,,01403872
+1937 Spring,Regular Season,Dai Tokyo,8,"Tsubochi, Michinori",OF,41,0.918,87,3,8,1,,01403872
+1937 Fall,Regular Season,Hankyu Club,21,"Mori, Kotaro",2B,1,1.000,0,1,0,0,,01403874
+1937 Fall,Regular Season,Hankyu Club,21,"Mori, Kotaro",OF,1,0.000,0,0,0,0,,01403874
+1937 Spring,Regular Season,Hankyu Club,21,"Mori, Kotaro",P,2,1.000,0,2,0,0,,01403874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,11,"Sasaki, Tsunesuke",2B,1,1.000,7,3,0,0,,01503874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,11,"Sasaki, Tsunesuke",3B,3,1.000,2,4,0,0,,01503874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,11,"Sasaki, Tsunesuke",OF,21,1.000,10,0,0,0,,01503874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,11,"Sasaki, Tsunesuke",SS,2,0.500,0,2,2,0,,01503874
+1937 Spring,Regular Season,Nagoya Golden Dolphins,11,"Sasaki, Tsunesuke",2B,1,1.000,0,1,0,0,,01503874
+1937 Spring,Regular Season,Nagoya Golden Dolphins,11,"Sasaki, Tsunesuke",OF,45,0.972,69,1,2,0,,01503874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,1,"Nakamura, Teruo",C,49,0.980,193,49,5,7,9,01603872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,1,"Nakamura, Teruo",C,53,0.935,214,61,19,6,9,01603872
+1937 Fall,Regular Season,Nagoya Club,17,"Tanaka, Minoru",3B,14,0.877,12,38,7,5,,01703874
+1937 Fall,Regular Season,Nagoya Club,17,"Tanaka, Minoru",P,15,1.000,5,20,0,3,,01703874
+1937 Fall,Regular Season,Nagoya Club,17,"Tanaka, Minoru",SS,3,0.800,2,2,1,0,,01703874
+1937 Spring,Regular Season,Nagoya Club,17,"Tanaka, Minoru",P,36,1.000,3,31,0,3,,01703874
+1937 Fall,Regular Season,Korakuen Eagles,23,"Harris, Bucky",C,49,0.974,214,52,7,7,1,01803872
+1937 Spring,Regular Season,Korakuen Eagles,23,"Harris, Bucky",C,17,1.000,73,17,0,3,2,01803872
+1937 Fall,Regular Season,Nagoya Club,1,"Kojima, Shigeo",1B,40,0.985,314,11,5,42,,01903872
+1937 Spring,Regular Season,Nagoya Club,1,"Kojima, Shigeo",1B,52,0.983,511,15,9,46,,01903872
+1937 Fall,Regular Season,Lion Baseball Club,6,"Tsutsui, Takao",SS,48,0.912,81,189,26,36,,01903874
+1937 Spring,Regular Season,Dai Tokyo,6,"Tsutsui, Takao",SS,37,0.861,65,140,33,19,,01903874
+1937 Fall,Regular Season,Osaka Tigers,11,"Fujii, Isamu",OF,49,0.978,87,3,2,1,,03103872
+1937 Spring,Regular Season,Osaka Tigers,11,"Fujii, Isamu",1B,2,0.750,3,0,1,0,,03103872
+1937 Spring,Regular Season,Osaka Tigers,11,"Fujii, Isamu",OF,56,0.970,95,1,3,0,,03103872
+1937 Fall,Regular Season,Hankyu Club,1,"Miyatake, Saburo",1B,30,0.972,269,9,8,19,,03503872
+1937 Fall,Regular Season,Hankyu Club,1,"Miyatake, Saburo",P,1,1.000,1,4,0,0,,03503872
+1937 Spring,Regular Season,Hankyu Club,1,"Miyatake, Saburo",1B,20,0.973,176,3,5,12,,03503872
+1937 Spring,Regular Season,Hankyu Club,1,"Miyatake, Saburo",3B,2,0.750,2,4,2,0,,03503872
+1937 Spring,Regular Season,Hankyu Club,1,"Miyatake, Saburo",P,2,1.000,1,0,0,0,,03503872
+1937 Fall,Regular Season,Hankyu Club,2,"Yamashita, Minoru",1B,14,0.981,147,7,3,9,,03703872
+1937 Fall,Regular Season,Hankyu Club,2,"Yamashita, Minoru",OF,18,0.929,25,1,2,1,,03703872
+1937 Spring,Regular Season,Hankyu Club,2,"Yamashita, Minoru",1B,23,0.981,202,3,4,15,,03703872
+1937 Spring,Regular Season,Hankyu Club,2,"Yamashita, Minoru",OF,2,1.000,14,1,0,1,,03703872
+1937 Fall,Regular Season,Lion Baseball Club,1,"Kondo, Hisashi",P,21,0.960,1,23,1,3,,11013872
+1937 Spring,Regular Season,Dai Tokyo,1,"Kondo, Hisashi",P,28,0.927,3,35,3,2,,11013872
+1937 Fall,Regular Season,Nagoya Club,0,"Nishizawa, Michio",P,4,1.000,0,2,0,0,,11013874
+1937 Fall,Regular Season,Hankyu Club,8,"Shimamoto, Yoshifumi",C,30,0.953,107,16,6,4,0,11213872
+1937 Spring,Regular Season,Hankyu Club,8,"Shimamoto, Yoshifumi",C,28,0.973,96,13,3,1,2,11213872
+1937 Fall,Regular Season,Lion Baseball Club,2,"Fujinami, Mitsuo",3B,14,0.844,9,18,5,1,,11213874
+1937 Fall,Regular Season,Lion Baseball Club,2,"Fujinami, Mitsuo",C,33,0.955,126,21,7,1,6,11213874
+1937 Spring,Regular Season,Dai Tokyo,2,"Fujinami, Mitsuo",C,55,0.956,213,67,13,9,13,11213874
+1937 Fall,Regular Season,Tokyo Senators,20,"Iemura, Sotaro",1B,24,0.981,201,6,4,20,,11313872
+1937 Fall,Regular Season,Tokyo Senators,20,"Iemura, Sotaro",OF,20,1.000,34,4,0,1,,11313872
+1937 Spring,Regular Season,Tokyo Senators,20,"Iemura, Sotaro",1B,2,1.000,10,0,0,0,,11313872
+1937 Spring,Regular Season,Tokyo Senators,20,"Iemura, Sotaro",OF,37,0.986,64,6,1,1,,11313872
+1937 Spring,Regular Season,Osaka Tigers,5,"Iwasaki, Toshio",C,3,0.833,9,1,2,0,1,11313874
+1937 Fall,Regular Season,Tokyo Senators,22,"Takeda, Isamu",OF,14,1.000,7,1,0,0,,11413872
+1937 Spring,Regular Season,Tokyo Senators,22,"Takeda, Isamu",OF,11,1.000,12,0,0,0,,11413872
+1937 Fall,Regular Season,Osaka Tigers,29,"Minagawa, Sadayuki",3B,1,1.000,0,1,0,0,,11413874
+1937 Fall,Regular Season,Osaka Tigers,29,"Minagawa, Sadayuki",SS,9,0.963,10,16,1,3,,11413874
+1937 Spring,Regular Season,Osaka Tigers,29,"Minagawa, Sadayuki",3B,5,0.813,4,9,3,1,,11413874
+1937 Spring,Regular Season,Osaka Tigers,29,"Minagawa, Sadayuki",SS,5,1.000,11,11,0,3,,11413874
+1937 Fall,Regular Season,Nagoya Club,22,"Endo, Chujiro",1B,1,1.000,3,0,0,0,,11513872
+1937 Fall,Regular Season,Nagoya Club,22,"Endo, Chujiro",2B,1,1.000,1,4,0,0,,11513872
+1937 Fall,Regular Season,Nagoya Club,22,"Endo, Chujiro",OF,21,1.000,26,1,0,1,,11513872
+1937 Fall,Regular Season,Nagoya Club,22,"Endo, Chujiro",P,5,0.857,0,6,1,0,,11513872
+1937 Spring,Regular Season,Dai Tokyo,4,"Endo, Chujiro",P,3,1.000,0,2,0,0,,11513872
+1937 Spring,Regular Season,Nagoya Club,22,"Endo, Chujiro",P,8,0.905,2,17,2,1,,11513872
+1937 Fall,Regular Season,Hankyu Club,27,"Oki, Katsumi",C,14,0.913,18,3,2,1,0,11513874
+1937 Fall,Regular Season,Tokyo Kyojin,3,"Nakajima, Haruyasu",1B,2,1.000,1,0,0,0,,11613872
+1937 Fall,Regular Season,Tokyo Kyojin,3,"Nakajima, Haruyasu",OF,40,0.976,80,3,2,1,,11613872
+1937 Spring,Regular Season,Tokyo Kyojin,3,"Nakajima, Haruyasu",1B,1,1.000,3,0,0,0,,11613872
+1937 Spring,Regular Season,Tokyo Kyojin,3,"Nakajima, Haruyasu",OF,56,0.975,107,9,3,2,,11613872
+1937 Fall,Regular Season,Tokyo Senators,21,"Yokozawa, Saburo",2B,1,1.000,0,2,0,0,,11613874
+1937 Fall,Regular Season,Korakuen Eagles,15,"Kanai, Kiyoshi",OF,7,1.000,4,1,0,0,,11713872
+1937 Spring,Regular Season,Korakuen Eagles,15,"Kanai, Kiyoshi",OF,29,0.980,48,2,1,0,,11713872
+1937 Fall,Regular Season,Nagoya Club,21,"Shiraki, Kazuji",OF,34,0.966,55,1,2,0,,11713874
+1937 Spring,Regular Season,Nagoya Club,21,"Shiraki, Kazuji",OF,44,0.968,88,4,3,1,,11713874
+1937 Fall,Regular Season,Hankyu Club,14,"Nishimura, Masao",OF,36,0.969,58,5,2,2,,11813872
+1937 Spring,Regular Season,Hankyu Club,14,"Nishimura, Masao",OF,52,0.967,102,15,4,4,,11813872
+1937 Fall,Regular Season,Tokyo Kyojin,12,"Kura, Nobuo",C,7,0.935,25,4,2,0,1,11913872
+1937 Spring,Regular Season,Tokyo Kyojin,12,"Kura, Nobuo",C,3,1.000,17,0,0,0,2,11913872
+1937 Fall,Regular Season,Osaka Tigers,22,"Tsukamoto, Hiromutsu",OF,6,1.000,1,0,0,0,,11913874
+1937 Spring,Regular Season,Osaka Tigers,22,"Tsukamoto, Hiromutsu",OF,10,1.000,1,1,0,0,,11913874
+1937 Fall,Regular Season,Hankyu Club,23,"Horio, Fumihito",2B,3,0.833,2,3,1,2,,13313872
+1937 Fall,Regular Season,Hankyu Club,23,"Horio, Fumihito",OF,41,0.989,86,6,1,1,,13313872
+1937 Spring,Regular Season,Hankyu Club,23,"Horio, Fumihito",2B,1,1.000,2,2,0,0,,13313872
+1937 Spring,Regular Season,Hankyu Club,23,"Horio, Fumihito",OF,22,1.000,48,2,0,0,,13313872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,3,"Mikami, Yoshio",OF,24,0.976,39,1,1,0,,13513872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,7,"Yasunaga, Seishiro",1B,14,0.952,78,2,4,7,,13713872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,7,"Yasunaga, Seishiro",2B,1,1.000,1,0,0,0,,13713872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,7,"Yasunaga, Seishiro",3B,4,0.846,4,7,2,0,,13713872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,7,"Yasunaga, Seishiro",1B,4,1.000,23,1,0,2,,13713872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,7,"Yasunaga, Seishiro",2B,9,0.846,12,10,4,3,,13713872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,7,"Yasunaga, Seishiro",3B,6,0.917,8,14,2,0,,13713872
+1937 Fall,Regular Season,Osaka Tigers,18,"Wakabayashi, Tadashi",P,19,0.947,5,31,2,1,,13913872
+1937 Spring,Regular Season,Osaka Tigers,18,"Wakabayashi, Tadashi",P,21,0.930,6,34,3,3,,13913872
+1937 Fall,Regular Season,Tokyo Kyojin,14,"Sawamura, Eiji",P,20,0.962,4,21,1,0,,21023872
+1937 Spring,Regular Season,Tokyo Kyojin,14,"Sawamura, Eiji",P,30,0.957,4,40,2,3,,21023872
+1937 Fall,Regular Season,Lion Baseball Club,10,"Hino, Hiromi",C,9,1.000,17,2,0,0,2,21023874
+1937 Fall,Regular Season,Osaka Tigers,1,"Igaue, Jungo",3B,47,0.929,50,121,13,10,,21123872
+1937 Spring,Regular Season,Osaka Tigers,1,"Igaue, Jungo",3B,51,0.915,53,120,16,11,,21123872
+1937 Spring,Regular Season,Osaka Tigers,1,"Igaue, Jungo",SS,1,1.000,2,4,0,0,,21123872
+1937 Spring,Regular Season,Dai Tokyo,,"Ihara, Tokue",C,9,0.938,13,2,1,0,2,21123874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,5,"Matsumoto, Mitsuhiko",1B,1,1.000,3,0,0,1,,21223874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,5,"Matsumoto, Mitsuhiko",C,1,1.000,1,0,0,0,0,21223874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,5,"Matsumoto, Mitsuhiko",P,13,0.889,1,15,2,2,,21223874
+1937 Spring,Regular Season,Nagoya Golden Dolphins,5,"Matsumoto, Mitsuhiko",1B,1,1.000,3,0,0,0,,21223874
+1937 Spring,Regular Season,Nagoya Golden Dolphins,5,"Matsumoto, Mitsuhiko",C,8,0.947,16,2,1,0,3,21223874
+1937 Spring,Regular Season,Nagoya Golden Dolphins,5,"Matsumoto, Mitsuhiko",OF,1,1.000,1,1,0,0,,21223874
+1937 Spring,Regular Season,Nagoya Golden Dolphins,5,"Matsumoto, Mitsuhiko",P,9,0.889,0,8,1,0,,21223874
+1937 Fall,Regular Season,Hankyu Club,10,"Uno, Kinji",2B,28,0.958,55,60,5,14,,21323872
+1937 Spring,Regular Season,Hankyu Club,10,"Uno, Kinji",1B,2,0.944,17,0,1,0,,21323872
+1937 Spring,Regular Season,Hankyu Club,10,"Uno, Kinji",2B,44,0.959,98,110,9,23,,21323872
+1937 Fall,Regular Season,Hankyu Club,12,"Ohara, Toshio",C,29,0.964,91,16,4,5,3,21323874
+1937 Spring,Regular Season,Hankyu Club,12,"Ohara, Toshio",C,9,0.971,26,7,1,2,1,21323874
+1937 Fall,Regular Season,Tokyo Senators,3,"Moriguchi, Jiro",OF,6,1.000,9,0,0,0,,21423874
+1937 Spring,Regular Season,Dai Tokyo,,"Sayama, Masayoshi",SS,1,0.727,5,3,3,0,,21523874
+1937 Fall,Regular Season,Lion Baseball Club,3,"Kito, Kazuo",2B,11,1.000,24,25,0,7,,21723872
+1937 Fall,Regular Season,Lion Baseball Club,3,"Kito, Kazuo",OF,43,0.917,64,2,6,0,,21723872
+1937 Spring,Regular Season,Dai Tokyo,3,"Kito, Kazuo",2B,4,0.933,9,5,1,0,,21723872
+1937 Spring,Regular Season,Dai Tokyo,3,"Kito, Kazuo",OF,54,0.989,86,5,1,1,,21723872
+1937 Fall,Regular Season,Osaka Tigers,12,"Tanaka, Yoshio",C,43,0.995,169,22,1,4,3,21723874
+1937 Fall,Regular Season,Nagoya Club,6,"Haga, Naokazu",SS,30,0.919,77,115,17,28,,21823872
+1937 Spring,Regular Season,Nagoya Club,6,"Haga, Naokazu",SS,52,0.917,120,189,28,28,,21823872
+1937 Fall,Regular Season,Korakuen Eagles,19,"Kojima, Toshio",1B,18,0.987,149,4,2,9,,21923872
+1937 Fall,Regular Season,Korakuen Eagles,19,"Kojima, Toshio",2B,9,0.917,12,10,2,4,,21923872
+1937 Fall,Regular Season,Korakuen Eagles,19,"Kojima, Toshio",OF,19,1.000,28,1,0,0,,21923872
+1937 Spring,Regular Season,Korakuen Eagles,19,"Kojima, Toshio",2B,14,0.949,32,43,4,5,,21923872
+1937 Spring,Regular Season,Osaka Tigers,21,"Kojima, Toshio",2B,6,0.957,11,11,1,2,,21923872
+1937 Spring,Regular Season,Dai Tokyo,4,"Nakamura, Saburo",1B,11,0.952,97,3,5,13,,21923874
+1937 Spring,Regular Season,Dai Tokyo,4,"Nakamura, Saburo",2B,29,0.963,88,70,6,11,,21923874
+1937 Spring,Regular Season,Dai Tokyo,4,"Nakamura, Saburo",SS,19,0.926,57,68,10,12,,21923874
+1937 Fall,Regular Season,Osaka Tigers,10,"Fujimura, Fumio",2B,19,0.960,59,60,5,19,,23123872
+1937 Fall,Regular Season,Osaka Tigers,10,"Fujimura, Fumio",OF,14,0.923,23,1,2,0,,23123872
+1937 Fall,Regular Season,Osaka Tigers,10,"Fujimura, Fumio",P,5,1.000,1,3,0,1,,23123872
+1937 Spring,Regular Season,Osaka Tigers,10,"Fujimura, Fumio",2B,24,0.906,49,47,10,11,,23123872
+1937 Spring,Regular Season,Osaka Tigers,10,"Fujimura, Fumio",OF,4,1.000,2,1,0,0,,23123872
+1937 Spring,Regular Season,Osaka Tigers,10,"Fujimura, Fumio",P,12,0.933,3,11,1,4,,23123872
+1937 Fall,Regular Season,Osaka Tigers,9,"Matsuki, Kenjiro",1B,44,0.998,426,12,1,44,,23323872
+1937 Spring,Regular Season,Osaka Tigers,9,"Matsuki, Kenjiro",1B,55,0.974,507,14,14,44,,23323872
+1937 Fall,Regular Season,Tokyo Kyojin,9,"Yamamoto, Eiichiro",OF,18,1.000,27,1,0,0,,23723872
+1937 Spring,Regular Season,Tokyo Kyojin,9,"Yamamoto, Eiichiro",OF,14,1.000,4,0,0,0,,23723872
+1937 Fall,Regular Season,Osaka Tigers,19,"Nishimura, Yukio",P,25,0.981,5,46,1,6,,31033874
+1937 Spring,Regular Season,Osaka Tigers,19,"Nishimura, Yukio",P,19,0.929,5,34,3,1,,31033874
+1937 Fall,Regular Season,Tokyo Senators,6,"Aoki, Kozo",OF,29,0.950,37,1,2,1,,31133872
+1937 Spring,Regular Season,Tokyo Senators,6,"Aoki, Kozo",OF,15,1.000,14,0,0,0,,31133872
+1937 Fall,Regular Season,Lion Baseball Club,21,"Ando, Yukinori",2B,4,0.900,4,5,1,2,,31133874
+1937 Fall,Regular Season,Lion Baseball Club,21,"Ando, Yukinori",3B,2,1.000,4,3,0,0,,31133874
+1937 Fall,Regular Season,Tokyo Kyojin,8,"Shiraishi, Katsumi",SS,48,0.910,90,132,22,16,,31233872
+1937 Spring,Regular Season,Tokyo Kyojin,8,"Shiraishi, Katsumi",SS,30,0.904,41,109,16,16,,31233872
+1937 Fall,Regular Season,Korakuen Eagles,20,"Fujino, Fumisaburo",P,12,0.941,1,15,1,2,,31233874
+1937 Spring,Regular Season,Korakuen Eagles,20,"Fujino, Fumisaburo",P,11,0.958,3,20,1,1,,31233874
+1937 Fall,Regular Season,Hankyu Club,5,"Ueda, Fujio",2B,1,0.000,0,0,0,0,,31333874
+1937 Fall,Regular Season,Hankyu Club,5,"Ueda, Fujio",3B,2,1.000,0,1,0,0,,31333874
+1937 Fall,Regular Season,Hankyu Club,5,"Ueda, Fujio",SS,28,0.898,39,67,12,10,,31333874
+1937 Spring,Regular Season,Hankyu Club,5,"Ueda, Fujio",3B,2,1.000,1,5,0,1,,31333874
+1937 Spring,Regular Season,Hankyu Club,5,"Ueda, Fujio",SS,52,0.894,107,179,34,25,,31333874
+1937 Fall,Regular Season,Korakuen Eagles,28,"Murasawa, Hideo",OF,2,0.000,0,0,0,0,,31433874
+1937 Fall,Regular Season,Hankyu Club,25,"Kasamatsu, Minoru",P,20,0.957,2,20,1,1,,31533874
+1937 Spring,Regular Season,Hankyu Club,25,"Kasamatsu, Minoru",OF,1,0.000,0,0,0,0,,31533874
+1937 Spring,Regular Season,Hankyu Club,25,"Kasamatsu, Minoru",P,27,0.947,1,35,2,1,,31533874
+1937 Fall,Regular Season,Korakuen Eagles,16,"Nakane, Susumu",OF,20,0.974,37,1,1,1,,31633872
+1937 Spring,Regular Season,Korakuen Eagles,16,"Nakane, Susumu",OF,52,0.979,89,4,2,0,,31633872
+1937 Fall,Regular Season,Tokyo Senators,10,"Kaneko, Hiroshi",P,8,0.833,3,7,2,1,,31733872
+1937 Spring,Regular Season,Tokyo Senators,10,"Kaneko, Hiroshi",P,6,1.000,0,8,0,0,,31733872
+1937 Fall,Regular Season,Korakuen Eagles,7,"Sugitaya, Mamoru",3B,1,0.500,0,1,1,0,,31733874
+1937 Fall,Regular Season,Korakuen Eagles,7,"Sugitaya, Mamoru",OF,49,0.990,96,7,1,2,,31733874
+1937 Spring,Regular Season,Korakuen Eagles,7,"Sugitaya, Mamoru",3B,23,0.900,20,70,10,5,,31733874
+1937 Spring,Regular Season,Korakuen Eagles,7,"Sugitaya, Mamoru",OF,28,0.979,42,5,1,2,,31733874
+1937 Fall,Regular Season,Nagoya Club,3,"Kuramoto, Shingo",2B,1,0.500,1,0,1,0,,31933872
+1937 Fall,Regular Season,Nagoya Club,3,"Kuramoto, Shingo",3B,5,0.769,3,7,3,1,,31933872
+1937 Fall,Regular Season,Nagoya Club,3,"Kuramoto, Shingo",C,2,1.000,2,0,0,0,0,31933872
+1937 Fall,Regular Season,Nagoya Club,3,"Kuramoto, Shingo",SS,4,0.778,5,9,4,1,,31933872
+1937 Spring,Regular Season,Hankyu Club,17,"Kuramoto, Shingo",1B,2,1.000,13,1,0,1,,31933872
+1937 Spring,Regular Season,Hankyu Club,17,"Kuramoto, Shingo",2B,1,1.000,0,1,0,0,,31933872
+1937 Spring,Regular Season,Hankyu Club,17,"Kuramoto, Shingo",3B,4,0.778,2,5,2,1,,31933872
+1937 Spring,Regular Season,Hankyu Club,17,"Kuramoto, Shingo",C,34,0.970,131,32,5,5,2,31933872
+1937 Spring,Regular Season,Hankyu Club,17,"Kuramoto, Shingo",OF,3,0.800,4,0,1,0,,31933872
+1937 Spring,Regular Season,Hankyu Club,17,"Kuramoto, Shingo",SS,1,1.000,1,4,0,0,,31933872
+1937 Fall,Regular Season,Korakuen Eagles,8,"Tsuji, Nobuo",SS,34,0.868,38,100,21,12,,31933874
+1937 Spring,Regular Season,Korakuen Eagles,8,"Tsuji, Nobuo",3B,5,0.909,2,8,1,2,,31933874
+1937 Spring,Regular Season,Korakuen Eagles,8,"Tsuji, Nobuo",SS,10,0.824,10,18,6,3,,31933874
+1937 Fall,Regular Season,Tokyo Kyojin,18,"Maekawa, Hachiro",2B,7,0.882,6,9,2,1,,33333872
+1937 Fall,Regular Season,Tokyo Kyojin,18,"Maekawa, Hachiro",OF,37,0.955,63,1,3,0,,33333872
+1937 Fall,Regular Season,Tokyo Kyojin,18,"Maekawa, Hachiro",P,9,0.944,3,14,1,2,,33333872
+1937 Spring,Regular Season,Tokyo Kyojin,18,"Maekawa, Hachiro",OF,12,0.952,20,0,1,0,,33333872
+1937 Spring,Regular Season,Tokyo Kyojin,18,"Maekawa, Hachiro",P,20,0.941,10,38,3,3,,33333872
+1937 Spring,Regular Season,Tokyo Kyojin,21,"Mihara, Osamu",2B,46,0.947,114,117,13,29,,33533872
+1937 Fall,Regular Season,Lion Baseball Club,5,"Yanagisawa, Toichi",2B,6,1.000,18,6,0,0,,33733872
+1937 Fall,Regular Season,Lion Baseball Club,5,"Yanagisawa, Toichi",3B,44,0.881,34,99,18,9,,33733872
+1937 Spring,Regular Season,Dai Tokyo,5,"Yanagisawa, Toichi",2B,13,0.926,30,20,4,7,,33733872
+1937 Spring,Regular Season,Dai Tokyo,5,"Yanagisawa, Toichi",3B,39,0.912,43,102,14,3,,33733872
+1937 Spring,Regular Season,Dai Tokyo,5,"Yanagisawa, Toichi",SS,1,1.000,0,4,0,0,,33733872
+1937 Fall,Regular Season,Nagoya Club,2,"Shite, Kiyohiko",OF,2,0.000,0,0,0,0,,41043872
+1937 Spring,Regular Season,Nagoya Club,2,"Shite, Kiyohiko",OF,35,0.973,69,2,2,1,,41043872
+1937 Fall,Regular Season,Osaka Tigers,21,"Hiruki, Torao",3B,2,0.800,3,1,1,0,,41043874
+1937 Spring,Regular Season,Osaka Tigers,21,"Hiruki, Torao",3B,5,0.818,4,5,2,0,,41043874
+1937 Fall,Regular Season,Korakuen Eagles,1,"Ishii, Akio",P,1,1.000,1,2,0,0,,41143874
+1937 Spring,Regular Season,Korakuen Eagles,1,"Ishii, Akio",1B,16,0.980,138,9,3,10,,41143874
+1937 Spring,Regular Season,Korakuen Eagles,1,"Ishii, Akio",P,7,1.000,2,8,0,0,,41143874
+1937 Fall,Regular Season,Korakuen Eagles,24,"Matsumoto, Misao",P,6,0.833,0,5,1,0,,41243874
+1937 Spring,Regular Season,Korakuen Eagles,24,"Matsumoto, Misao",P,12,0.739,3,14,6,1,,41243874
+1937 Fall,Regular Season,Tokyo Kyojin,11,"Uchibori, Tamotsu",C,39,0.993,253,28,2,4,0,41343872
+1937 Spring,Regular Season,Tokyo Kyojin,11,"Uchibori, Tamotsu",C,53,0.984,350,30,6,8,3,41343872
+1937 Fall,Regular Season,Korakuen Eagles,6,"Ota, Kenichi",1B,4,0.955,40,2,2,5,,41343874
+1937 Fall,Regular Season,Korakuen Eagles,6,"Ota, Kenichi",OF,21,0.962,24,1,1,0,,41343874
+1937 Spring,Regular Season,Korakuen Eagles,6,"Ota, Kenichi",1B,40,0.977,322,15,8,26,,41343874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,22,"Yano, Makio",3B,45,0.891,27,104,16,8,,41443874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,22,"Yano, Makio",SS,4,0.857,4,8,2,1,,41443874
+1937 Fall,Regular Season,Osaka Tigers,20,"Kato, Nobuo",3B,1,1.000,1,1,0,0,,41543872
+1937 Spring,Regular Season,Osaka Tigers,20,"Kato, Nobuo",2B,4,1.000,3,2,0,0,,41543872
+1937 Spring,Regular Season,Osaka Tigers,20,"Kato, Nobuo",C,1,1.000,3,0,0,0,0,41543872
+1937 Fall,Regular Season,Korakuen Eagles,25,"Saito, Masahisa",P,2,0.000,0,0,0,0,,41543874
+1937 Fall,Regular Season,Tokyo Kyojin,4,"Nagasawa, Fujio",1B,47,0.991,446,15,4,29,,41643872
+1937 Spring,Regular Season,Tokyo Kyojin,4,"Nagasawa, Fujio",1B,48,0.995,402,19,2,29,,41643872
+1937 Fall,Regular Season,Lion Baseball Club,11,"Kikuya, Yoshio",P,29,0.942,16,49,4,4,,41743872
+1937 Spring,Regular Season,Dai Tokyo,11,"Kikuya, Yoshio",P,12,0.900,6,30,4,1,,41743872
+1937 Spring,Regular Season,Osaka Tigers,14,"Kikuya, Yoshio",P,4,1.000,0,3,0,1,,41743872
+1937 Fall,Regular Season,Korakuen Eagles,22,"Tamura, Minoru",OF,1,0.000,0,0,0,0,,41743874
+1937 Spring,Regular Season,Korakuen Eagles,22,"Tamura, Minoru",OF,21,0.931,27,0,2,0,,41743874
+1937 Fall,Regular Season,Korakuen Eagles,10,"Hatafuku, Toshihide",1B,5,0.966,28,0,1,3,,41843872
+1937 Fall,Regular Season,Korakuen Eagles,10,"Hatafuku, Toshihide",P,29,0.933,1,41,3,4,,41843872
+1937 Spring,Regular Season,Korakuen Eagles,10,"Hatafuku, Toshihide",OF,3,1.000,2,0,0,0,,41843872
+1937 Spring,Regular Season,Korakuen Eagles,10,"Hatafuku, Toshihide",P,32,0.963,14,64,3,2,,41843872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,16,"Kobayashi, Toshizo",1B,31,0.989,274,6,3,30,,41943872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,16,"Kobayashi, Toshizo",1B,54,0.979,487,22,11,33,,41943872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,16,"Kobayashi, Toshizo",2B,2,0.923,5,7,1,1,,41943872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,6,"Nakayama, Tadayoshi",P,19,0.923,5,19,2,2,,41943874
+1937 Spring,Regular Season,Nagoya Golden Dolphins,6,"Nakayama, Tadayoshi",OF,1,0.000,0,0,0,0,,41943874
+1937 Spring,Regular Season,Nagoya Golden Dolphins,6,"Nakayama, Tadayoshi",P,24,0.966,4,24,1,2,,41943874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,12,"Furuya, Kuranosuke",1B,2,0.857,6,0,1,0,,43143872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,12,"Furuya, Kuranosuke",P,20,1.000,3,23,0,2,,43143872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,12,"Furuya, Kuranosuke",1B,5,1.000,23,1,0,1,,43143872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,12,"Furuya, Kuranosuke",P,36,0.964,11,69,3,3,,43143872
+1937 Fall,Regular Season,Lion Baseball Club,15,"Murata, Shigeharu",1B,1,1.000,1,1,0,0,,43543872
+1937 Fall,Regular Season,Lion Baseball Club,15,"Murata, Shigeharu",OF,6,0.000,0,0,0,0,,43543872
+1937 Fall,Regular Season,Lion Baseball Club,15,"Murata, Shigeharu",P,1,0.000,0,0,0,0,,43543872
+1937 Spring,Regular Season,Dai Tokyo,15,"Murata, Shigeharu",OF,4,0.900,9,0,1,0,,43543872
+1937 Spring,Regular Season,Dai Tokyo,15,"Murata, Shigeharu",P,4,1.000,1,4,0,0,,43543872
+1937 Fall,Regular Season,Korakuen Eagles,14,"Sato, Takeo",1B,5,0.950,19,0,1,1,,51053872
+1937 Spring,Regular Season,Korakuen Eagles,14,"Sato, Takeo",1B,10,0.966,82,4,3,9,,51053872
+1937 Spring,Regular Season,Korakuen Eagles,14,"Sato, Takeo",C,36,0.969,149,38,6,5,6,51053872
+1937 Fall,Regular Season,Hankyu Club,7,"Nogami, Kiyomitsu",2B,24,0.960,58,62,5,17,,51053874
+1937 Fall,Regular Season,Hankyu Club,7,"Nogami, Kiyomitsu",3B,15,0.855,14,51,11,2,,51053874
+1937 Fall,Regular Season,Hankyu Club,7,"Nogami, Kiyomitsu",SS,2,0.800,3,5,2,0,,51053874
+1937 Fall,Regular Season,Tokyo Kyojin,13,"Aoshiba, Kenichi",P,13,0.933,2,12,1,0,,51153872
+1937 Spring,Regular Season,Tokyo Kyojin,13,"Aoshiba, Kenichi",P,1,1.000,0,2,0,0,,51153872
+1937 Fall,Regular Season,Tokyo Kyojin,17,"Starffin, Victor",P,26,0.974,4,33,1,1,,51253872
+1937 Spring,Regular Season,Tokyo Kyojin,17,"Starffin, Victor",OF,1,1.000,1,0,0,0,,51253872
+1937 Spring,Regular Season,Tokyo Kyojin,17,"Starffin, Victor",P,25,1.000,5,49,0,5,,51253872
+1937 Fall,Regular Season,Korakuen Eagles,18,"Furukawa, Masao",2B,2,0.800,2,2,1,0,,51253874
+1937 Spring,Regular Season,Korakuen Eagles,18,"Furukawa, Masao",2B,5,1.000,6,7,0,3,,51253874
+1937 Spring,Regular Season,Korakuen Eagles,18,"Furukawa, Masao",P,10,1.000,2,18,0,2,,51253874
+1937 Fall,Regular Season,Hankyu Club,3,"Ishida, Mitsuhiko",2B,1,0.000,0,0,0,0,,51353872
+1937 Fall,Regular Season,Hankyu Club,3,"Ishida, Mitsuhiko",OF,1,1.000,2,0,0,0,,51353872
+1937 Fall,Regular Season,Hankyu Club,3,"Ishida, Mitsuhiko",P,20,0.962,12,39,2,5,,51353872
+1937 Spring,Regular Season,Hankyu Club,3,"Ishida, Mitsuhiko",OF,2,1.000,1,0,0,0,,51353872
+1937 Spring,Regular Season,Hankyu Club,3,"Ishida, Mitsuhiko",P,23,1.000,6,50,0,3,,51353872
+1937 Spring,Regular Season,Osaka Tigers,33,"Ueda, Tadashi",2B,1,1.000,0,2,0,0,,51353874
+1937 Spring,Regular Season,Osaka Tigers,33,"Ueda, Tadashi",OF,5,1.000,1,0,0,0,,51353874
+1937 Fall,Regular Season,Tokyo Kyojin,2,"Tsuda, Shiro",2B,2,1.000,1,2,0,0,,51453872
+1937 Fall,Regular Season,Tokyo Kyojin,2,"Tsuda, Shiro",C,6,0.933,12,2,1,2,5,51453872
+1937 Spring,Regular Season,Tokyo Kyojin,2,"Tsuda, Shiro",2B,1,0.000,0,0,0,0,,51453872
+1937 Spring,Regular Season,Tokyo Kyojin,2,"Tsuda, Shiro",C,4,0.929,12,1,1,0,0,51453872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,14,"Murata, Shinichi",C,9,1.000,18,3,0,1,1,51453874
+1937 Spring,Regular Season,Nagoya Golden Dolphins,14,"Murata, Shinichi",C,4,1.000,6,2,0,0,0,51453874
+1937 Fall,Regular Season,Lion Baseball Club,5,"Otomo, Kazuaki",1B,3,1.000,13,0,0,1,,51553872
+1937 Fall,Regular Season,Lion Baseball Club,5,"Otomo, Kazuaki",2B,39,0.963,118,116,9,26,,51553872
+1937 Fall,Regular Season,Lion Baseball Club,5,"Otomo, Kazuaki",3B,1,0.000,0,0,1,0,,51553872
+1937 Fall,Regular Season,Lion Baseball Club,5,"Otomo, Kazuaki",P,9,0.889,0,8,1,1,,51553872
+1937 Fall,Regular Season,Lion Baseball Club,5,"Otomo, Kazuaki",SS,1,0.750,2,1,1,0,,51553872
+1937 Spring,Regular Season,Dai Tokyo,5,"Otomo, Kazuaki",2B,21,0.893,41,34,9,10,,51553872
+1937 Spring,Regular Season,Dai Tokyo,5,"Otomo, Kazuaki",3B,3,0.875,1,6,1,0,,51553872
+1937 Spring,Regular Season,Dai Tokyo,5,"Otomo, Kazuaki",P,23,0.948,6,49,3,1,,51553872
+1937 Spring,Regular Season,Dai Tokyo,5,"Otomo, Kazuaki",SS,1,1.000,4,1,0,0,,51553872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,10,"Kawakami, Ryosaku",3B,4,0.600,2,1,2,0,,51553874
+1937 Spring,Regular Season,Nagoya Golden Dolphins,10,"Kawakami, Ryosaku",3B,6,0.778,3,4,2,1,,51553874
+1937 Fall,Regular Season,Tokyo Senators,15,"Karita, Hisanori",2B,46,0.970,182,171,11,52,,51753872
+1937 Fall,Regular Season,Tokyo Senators,15,"Karita, Hisanori",3B,5,0.941,7,9,1,2,,51753872
+1937 Fall,Regular Season,Tokyo Senators,15,"Karita, Hisanori",SS,1,0.000,0,0,0,0,,51753872
+1937 Spring,Regular Season,Tokyo Senators,15,"Karita, Hisanori",2B,55,0.929,196,169,28,54,,51753872
+1937 Spring,Regular Season,Tokyo Senators,15,"Karita, Hisanori",SS,2,1.000,6,2,0,1,,51753872
+1937 Fall,Regular Season,Lion Baseball Club,17,"Susumago, Den",1B,4,0.917,30,3,3,5,,51753874
+1937 Fall,Regular Season,Lion Baseball Club,17,"Susumago, Den",OF,13,0.842,15,1,3,0,,51753874
+1937 Spring,Regular Season,Dai Tokyo,17,"Susumago, Den",1B,11,0.946,67,3,4,3,,51753874
+1937 Spring,Regular Season,Dai Tokyo,17,"Susumago, Den",OF,21,0.982,54,2,1,0,,51753874
+1937 Fall,Regular Season,Tokyo Senators,18,"Noguchi, Akira",1B,5,0.941,30,2,2,7,,51853872
+1937 Fall,Regular Season,Tokyo Senators,18,"Noguchi, Akira",3B,1,0.000,0,0,0,0,,51853872
+1937 Fall,Regular Season,Tokyo Senators,18,"Noguchi, Akira",C,1,1.000,1,0,0,0,0,51853872
+1937 Fall,Regular Season,Tokyo Senators,18,"Noguchi, Akira",OF,8,1.000,6,0,0,0,,51853872
+1937 Fall,Regular Season,Tokyo Senators,18,"Noguchi, Akira",P,33,1.000,13,87,0,5,,51853872
+1937 Spring,Regular Season,Tokyo Senators,18,"Noguchi, Akira",1B,2,1.000,11,1,0,2,,51853872
+1937 Spring,Regular Season,Tokyo Senators,18,"Noguchi, Akira",3B,2,1.000,1,3,0,0,,51853872
+1937 Spring,Regular Season,Tokyo Senators,18,"Noguchi, Akira",OF,2,1.000,2,0,0,0,,51853872
+1937 Spring,Regular Season,Tokyo Senators,18,"Noguchi, Akira",P,37,0.976,16,105,3,17,,51853872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,4,"Kurosawa, Toshio",OF,48,0.952,73,6,4,0,,51953872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,4,"Kurosawa, Toshio",OF,56,0.980,94,4,2,1,,51953872
+1937 Fall,Regular Season,Korakuen Eagles,2,"Terauchi, Kazutaka",OF,49,0.956,123,7,6,4,,51953874
+1937 Spring,Regular Season,Korakuen Eagles,2,"Terauchi, Kazutaka",OF,51,0.976,109,11,3,3,,51953874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,15,"Hirakawa, Kiyomi",1B,9,0.978,86,3,2,8,,53153872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,15,"Hirakawa, Kiyomi",1B,5,0.967,27,2,1,2,,53153872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,15,"Hirakawa, Kiyomi",OF,3,1.000,3,0,0,0,,53153872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,15,"Hirakawa, Kiyomi",P,2,1.000,0,4,0,1,,53153872
+1937 Spring,Regular Season,Nagoya Club,4,"Maeda, Kiyoshi",OF,46,0.961,71,3,3,0,,53353872
+1937 Fall,Regular Season,Osaka Tigers,15,"Misono, Takao",OF,11,1.000,15,2,0,1,,53553872
+1937 Fall,Regular Season,Osaka Tigers,15,"Misono, Takao",P,15,0.971,3,30,1,3,,53553872
+1937 Spring,Regular Season,Osaka Tigers,15,"Misono, Takao",OF,21,1.000,23,3,0,0,,53553872
+1937 Spring,Regular Season,Osaka Tigers,15,"Misono, Takao",P,18,0.926,0,25,2,2,,53553872
+1937 Fall,Regular Season,Osaka Tigers,8,"Yamaguchi, Masanobu",OF,48,0.992,123,7,1,0,,53753872
+1937 Spring,Regular Season,Osaka Tigers,8,"Yamaguchi, Masanobu",OF,54,0.952,135,4,7,1,,53753872
+1937 Fall,Regular Season,Tokyo Senators,4,"Watanuki, Soji",1B,22,0.984,235,9,4,25,,53953872
+1937 Spring,Regular Season,Tokyo Senators,4,"Watanuki, Soji",1B,42,0.992,367,11,3,47,,53953872
+1937 Fall,Regular Season,Hankyu Club,22,"Shigematsu, Michio",P,11,0.875,5,9,2,3,,61063872
+1937 Spring,Regular Season,Hankyu Club,22,"Shigematsu, Michio",1B,1,1.000,1,0,0,0,,61063872
+1937 Spring,Regular Season,Hankyu Club,22,"Shigematsu, Michio",P,23,0.922,8,39,4,3,,61063872
+1937 Fall,Regular Season,Tokyo Kyojin,15,"Hirayama, Kikuji",OF,25,0.957,20,2,1,0,,61063874
+1937 Spring,Regular Season,Tokyo Kyojin,15,"Hirayama, Kikuji",OF,22,1.000,17,2,0,0,,61063874
+1937 Fall,Regular Season,Tokyo Kyojin,5,"Ito, Kentaro",OF,40,0.947,52,2,3,1,,61163872
+1937 Spring,Regular Season,Tokyo Kyojin,5,"Ito, Kentaro",OF,33,0.966,54,2,2,0,,61163872
+1937 Fall,Regular Season,Nagoya Club,11,"Ishida, Masayoshi",OF,46,0.989,82,8,1,2,,61163874
+1937 Spring,Regular Season,Nagoya Club,11,"Ishida, Masayoshi",OF,6,1.000,9,1,0,1,,61163874
+1937 Fall,Regular Season,Nagoya Club,20,"Miura, Toshikazu",C,44,0.964,171,45,8,5,4,61263874
+1937 Spring,Regular Season,Nagoya Club,20,"Miura, Toshikazu",C,48,0.977,145,67,5,12,5,61263874
+1937 Fall,Regular Season,Korakuen Eagles,26,"Urushibara, Susumu",3B,49,0.943,47,169,13,11,,61363872
+1937 Spring,Regular Season,Dai Tokyo,11,"Urushibara, Susumu",3B,22,0.865,16,48,10,6,,61363872
+1937 Spring,Regular Season,Korakuen Eagles,26,"Urushibara, Susumu",3B,11,0.917,12,43,5,3,,61363872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,30,"Okada, Genzaburo",C,1,0.000,0,0,1,0,0,61363874
+1937 Fall,Regular Season,Hankyu Club,11,"Yamada, Den",OF,21,0.971,33,1,1,1,,61463874
+1937 Fall,Regular Season,Osaka Tigers,6,"Kageura, Masaru",OF,35,0.933,55,1,4,1,,61563872
+1937 Fall,Regular Season,Osaka Tigers,6,"Kageura, Masaru",P,8,1.000,1,8,0,0,,61563872
+1937 Spring,Regular Season,Osaka Tigers,6,"Kageura, Masaru",3B,1,0.000,0,0,0,0,,61563872
+1937 Spring,Regular Season,Osaka Tigers,6,"Kageura, Masaru",OF,50,0.963,72,7,3,1,,61563872
+1937 Spring,Regular Season,Osaka Tigers,6,"Kageura, Masaru",P,22,0.931,4,23,2,1,,61563872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,20,"Shioda, Ineo",P,4,1.000,0,4,0,1,,61563874
+1937 Fall,Regular Season,Tokyo Kyojin,20,"Narita, Tomosaburo",P,6,0.750,0,3,1,0,,61663872
+1937 Spring,Regular Season,Hankyu Club,15,"Kitai, Masao",OF,16,1.000,28,1,0,0,,61763872
+1937 Spring,Regular Season,Hankyu Club,15,"Kitai, Masao",P,7,0.917,1,10,1,1,,61763872
+1937 Fall,Regular Season,Nagoya Club,14,"Takagi, Shigeru",OF,42,0.989,87,7,1,2,,61763874
+1937 Spring,Regular Season,Nagoya Club,14,"Takagi, Shigeru",OF,12,1.000,14,1,0,1,,61763874
+1937 Spring,Regular Season,Nagoya Club,9,"Hattori, Kazuo",OF,7,1.000,4,1,0,1,,61863872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,17,"Gomi, Yoshio",2B,5,1.000,4,1,0,0,,61963872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,17,"Gomi, Yoshio",3B,1,0.500,0,1,1,0,,61963872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,17,"Gomi, Yoshio",SS,1,1.000,0,3,0,0,,61963872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,17,"Gomi, Yoshio",2B,11,0.944,25,26,3,6,,61963872
+1937 Spring,Regular Season,Dai Tokyo,10,"Naruse, Yoshiteru",3B,2,1.000,0,2,0,0,,61963874
+1937 Spring,Regular Season,Dai Tokyo,10,"Naruse, Yoshiteru",SS,1,0.500,0,1,1,0,,61963874
+1937 Fall,Regular Season,Nagoya Club,7,"Morii, Shigeru",P,27,0.953,4,37,2,4,,63563872
+1937 Spring,Regular Season,Nagoya Club,7,"Morii, Shigeru",P,19,0.968,4,26,1,1,,63563872
+1937 Fall,Regular Season,Tokyo Senators,11,"Yokozawa, Shiro",OF,2,1.000,4,0,0,0,,63763872
+1937 Spring,Regular Season,Tokyo Senators,11,"Yokozawa, Shiro",OF,3,0.750,3,0,1,0,,63763872
+1937 Spring,Regular Season,Osaka Tigers,32,"Hashimoto, Shogo",P,1,0.000,0,0,0,0,,71073874
+1937 Fall,Regular Season,Tokyo Senators,7,"Asaoka, Saburo",1B,1,0.000,0,0,0,0,,71173872
+1937 Fall,Regular Season,Tokyo Senators,7,"Asaoka, Saburo",2B,1,0.250,0,1,3,0,,71173872
+1937 Fall,Regular Season,Tokyo Senators,7,"Asaoka, Saburo",OF,4,1.000,2,0,0,0,,71173872
+1937 Fall,Regular Season,Tokyo Senators,7,"Asaoka, Saburo",P,20,0.952,4,36,2,6,,71173872
+1937 Spring,Regular Season,Tokyo Senators,7,"Asaoka, Saburo",3B,1,1.000,0,1,0,0,,71173872
+1937 Spring,Regular Season,Tokyo Senators,7,"Asaoka, Saburo",OF,1,1.000,1,0,0,0,,71173872
+1937 Spring,Regular Season,Tokyo Senators,7,"Asaoka, Saburo",P,23,1.000,9,23,0,3,,71173872
+1937 Fall,Regular Season,Osaka Tigers,28,"Aoki, Shoichi",P,3,1.000,2,1,0,0,,71173874
+1937 Spring,Regular Season,Osaka Tigers,28,"Aoki, Shoichi",P,3,0.000,0,0,0,0,,71173874
+1937 Fall,Regular Season,Nagoya Club,10,"Suzuki, Hideo",C,8,0.957,14,8,1,0,1,71273872
+1937 Spring,Regular Season,Nagoya Club,10,"Suzuki, Hideo",1B,1,1.000,1,0,0,0,,71273872
+1937 Spring,Regular Season,Nagoya Club,10,"Suzuki, Hideo",C,9,1.000,16,3,0,2,2,71273872
+1937 Fall,Regular Season,Osaka Tigers,24,"Hondo, Yasuya",1B,5,1.000,47,3,0,3,,71273874
+1937 Fall,Regular Season,Osaka Tigers,24,"Hondo, Yasuya",2B,29,0.956,70,60,6,14,,71273874
+1937 Spring,Regular Season,Osaka Tigers,24,"Hondo, Yasuya",1B,9,1.000,29,0,0,3,,71273874
+1937 Spring,Regular Season,Osaka Tigers,24,"Hondo, Yasuya",C,2,1.000,12,0,0,0,0,71273874
+1937 Fall,Regular Season,Tokyo Senators,5,"Omoda, Kano",OF,48,0.981,99,3,2,1,,71373874
+1937 Spring,Regular Season,Tokyo Senators,5,"Omoda, Kano",OF,56,0.977,121,5,3,1,,71373874
+1937 Fall,Regular Season,Tokyo Kyojin,7,"Tsutsui, Osamu",1B,2,0.700,7,0,3,0,,71473872
+1937 Fall,Regular Season,Tokyo Kyojin,7,"Tsutsui, Osamu",2B,44,0.958,99,128,10,23,,71473872
+1937 Spring,Regular Season,Tokyo Kyojin,7,"Tsutsui, Osamu",1B,17,0.971,129,6,4,15,,71473872
+1937 Spring,Regular Season,Tokyo Kyojin,7,"Tsutsui, Osamu",2B,12,0.981,33,18,1,0,,71473872
+1937 Spring,Regular Season,Tokyo Kyojin,7,"Tsutsui, Osamu",SS,27,0.924,42,68,9,8,,71473872
+1937 Fall,Regular Season,Korakuen Eagles,5,"Mochizuki, Junichi",P,4,1.000,1,5,0,0,,71473874
+1937 Spring,Regular Season,Korakuen Eagles,5,"Mochizuki, Junichi",P,3,1.000,1,4,0,0,,71473874
+1937 Fall,Regular Season,Tokyo Senators,3,"Onuki, Ken",1B,2,0.750,3,0,1,1,,71573872
+1937 Fall,Regular Season,Tokyo Senators,3,"Onuki, Ken",OF,25,0.938,38,7,3,2,,71573872
+1937 Spring,Regular Season,Tokyo Senators,3,"Onuki, Ken",1B,2,1.000,2,0,0,0,,71573872
+1937 Spring,Regular Season,Tokyo Senators,3,"Onuki, Ken",OF,41,0.980,47,2,1,1,,71573872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,9,"Kobayashi, Shigeta",OF,49,0.966,103,9,4,3,,71573874
+1937 Spring,Regular Season,Nagoya Golden Dolphins,9,"Kobayashi, Shigeta",OF,38,1.000,78,3,0,1,,71573874
+1937 Fall,Regular Season,Tokyo Senators,2,"Nakamura, Shinichi",2B,1,1.000,4,0,0,2,,71673872
+1937 Fall,Regular Season,Tokyo Senators,2,"Nakamura, Shinichi",SS,30,0.907,42,95,14,18,,71673872
+1937 Spring,Regular Season,Tokyo Senators,2,"Nakamura, Shinichi",3B,1,0.000,0,0,0,0,,71673872
+1937 Spring,Regular Season,Tokyo Senators,2,"Nakamura, Shinichi",SS,53,0.877,87,162,35,31,,71673872
+1937 Fall,Regular Season,Hankyu Club,4,"Kawamura, Tokuhisa",2B,1,0.000,0,0,0,0,,71773872
+1937 Fall,Regular Season,Hankyu Club,4,"Kawamura, Tokuhisa",3B,2,0.333,0,1,2,1,,71773872
+1937 Spring,Regular Season,Hankyu Club,4,"Kawamura, Tokuhisa",2B,19,0.983,27,31,1,3,,71773872
+1937 Spring,Regular Season,Hankyu Club,4,"Kawamura, Tokuhisa",3B,6,0.885,5,18,3,0,,71773872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,18,"Suzuki, Tsuruo",1B,1,0.750,3,0,1,0,,71773874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,18,"Suzuki, Tsuruo",P,23,0.963,3,49,2,6,,71773874
+1937 Spring,Regular Season,Nagoya Golden Dolphins,18,"Suzuki, Tsuruo",P,20,0.917,3,30,3,3,,71773874
+1937 Fall,Regular Season,Korakuen Eagles,3,"Nomura, Minoru",2B,13,0.889,16,16,4,1,,71873872
+1937 Fall,Regular Season,Korakuen Eagles,3,"Nomura, Minoru",3B,3,1.000,1,3,0,0,,71873872
+1937 Fall,Regular Season,Korakuen Eagles,3,"Nomura, Minoru",SS,14,0.864,17,40,9,6,,71873872
+1937 Spring,Regular Season,Korakuen Eagles,3,"Nomura, Minoru",2B,23,0.975,66,50,3,15,,71873872
+1937 Spring,Regular Season,Korakuen Eagles,3,"Nomura, Minoru",3B,18,0.889,22,42,8,4,,71873872
+1937 Spring,Regular Season,Korakuen Eagles,3,"Nomura, Minoru",SS,7,0.811,8,22,7,2,,71873872
+1937 Fall,Regular Season,Hankyu Club,24,"Kuroda, Kengo",2B,1,0.000,0,0,0,0,,71973872
+1937 Fall,Regular Season,Hankyu Club,24,"Kuroda, Kengo",3B,28,0.958,27,87,5,7,,71973872
+1937 Fall,Regular Season,Hankyu Club,24,"Kuroda, Kengo",SS,29,0.943,40,93,8,16,,71973872
+1937 Spring,Regular Season,Hankyu Club,24,"Kuroda, Kengo",3B,45,0.933,58,138,14,11,,71973872
+1937 Spring,Regular Season,Hankyu Club,24,"Kuroda, Kengo",SS,4,1.000,12,8,0,1,,71973872
+1937 Fall,Regular Season,Osaka Tigers,26,"Nara, Tomo",2B,11,0.929,15,24,3,5,,71973874
+1937 Fall,Regular Season,Osaka Tigers,26,"Nara, Tomo",3B,1,0.000,0,0,0,0,,71973874
+1937 Spring,Regular Season,Osaka Tigers,26,"Nara, Tomo",2B,41,0.941,88,86,11,21,,71973874
+1937 Spring,Regular Season,Osaka Tigers,26,"Nara, Tomo",3B,1,0.000,0,0,1,0,,71973874
+1937 Fall,Regular Season,Lion Baseball Club,1,"Mizutani, Norikazu",OF,48,0.968,87,4,3,0,,73573872
+1937 Spring,Regular Season,Dai Tokyo,1,"Mizutani, Norikazu",OF,56,0.941,108,4,7,1,,73573872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,21,"Shima, Hidenosuke",OF,48,0.959,112,5,5,1,,81083872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,21,"Shima, Hidenosuke",OF,39,1.000,74,1,0,1,,81083872
+1937 Fall,Regular Season,Tokyo Senators,24,"Ito, Jiro",OF,20,0.970,32,0,1,0,,81183872
+1937 Fall,Regular Season,Tokyo Senators,24,"Ito, Jiro",P,14,0.870,4,16,3,2,,81183872
+1937 Spring,Regular Season,Tokyo Senators,24,"Ito, Jiro",1B,1,0.000,0,0,0,0,,81183872
+1937 Spring,Regular Season,Tokyo Senators,24,"Ito, Jiro",OF,29,0.938,45,0,3,0,,81183872
+1937 Spring,Regular Season,Tokyo Senators,24,"Ito, Jiro",P,16,1.000,5,26,0,2,,81183872
+1937 Fall,Regular Season,Nagoya Club,12,"Ishimaru, Tokichi",2B,46,0.958,164,134,13,54,,81183874
+1937 Fall,Regular Season,Nagoya Club,12,"Ishimaru, Tokichi",SS,3,0.895,9,8,2,1,,81183874
+1937 Spring,Regular Season,Nagoya Club,12,"Ishimaru, Tokichi",2B,33,0.920,112,83,17,22,,81183874
+1937 Fall,Regular Season,Korakuen Eagles,12,"Takahashi, Yoshio",2B,44,0.963,130,106,9,31,,81283872
+1937 Fall,Regular Season,Korakuen Eagles,12,"Takahashi, Yoshio",3B,7,1.000,0,7,0,0,,81283872
+1937 Fall,Regular Season,Korakuen Eagles,12,"Takahashi, Yoshio",SS,16,0.898,25,28,6,5,,81283872
+1937 Spring,Regular Season,Korakuen Eagles,12,"Takahashi, Yoshio",2B,20,0.932,69,55,9,15,,81283872
+1937 Spring,Regular Season,Korakuen Eagles,12,"Takahashi, Yoshio",3B,1,1.000,0,1,0,0,,81283872
+1937 Spring,Regular Season,Korakuen Eagles,12,"Takahashi, Yoshio",SS,35,0.857,67,136,34,20,,81283872
+1937 Fall,Regular Season,Hankyu Club,20,"Mizobe, Takeo",P,15,0.976,0,40,1,0,,81283874
+1937 Spring,Regular Season,Hankyu Club,20,"Mizobe, Takeo",P,14,0.917,1,10,1,1,,81283874
+1937 Fall,Regular Season,Nagoya Golden Dolphins,2,"Eguchi, Yukio",1B,2,1.000,8,0,0,1,,81383872
+1937 Fall,Regular Season,Nagoya Golden Dolphins,2,"Eguchi, Yukio",2B,49,0.942,190,153,21,41,,81383872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,2,"Eguchi, Yukio",1B,1,1.000,2,0,0,0,,81383872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,2,"Eguchi, Yukio",2B,49,0.928,138,134,21,22,,81383872
+1937 Fall,Regular Season,Nagoya Club,18,"Okamoto, Toshizo",1B,1,1.000,7,0,0,1,,81383874
+1937 Fall,Regular Season,Nagoya Club,18,"Okamoto, Toshizo",3B,1,1.000,2,4,0,0,,81383874
+1937 Spring,Regular Season,Nagoya Club,18,"Okamoto, Toshizo",1B,2,0.966,28,0,1,3,,81383874
+1937 Spring,Regular Season,Nagoya Club,18,"Okamoto, Toshizo",2B,10,0.952,18,22,2,5,,81383874
+1937 Spring,Regular Season,Nagoya Club,18,"Okamoto, Toshizo",C,6,0.923,18,6,2,0,0,81383874
+1937 Spring,Regular Season,Korakuen Eagles,9,"Yamamoto, Hirochika",3B,5,0.826,3,16,4,1,,81483874
+1937 Spring,Regular Season,Korakuen Eagles,9,"Yamamoto, Hirochika",SS,9,0.830,17,22,8,4,,81483874
+1937 Fall,Regular Season,Nagoya Club,24,"Shigeri, Sakae",P,13,0.875,1,13,2,2,,81583874
+1937 Fall,Regular Season,Tokyo Senators,17,"Kitaura, Mitsuo",C,7,0.966,25,3,1,1,0,81783872
+1937 Spring,Regular Season,Tokyo Senators,17,"Kitaura, Mitsuo",C,43,0.979,158,29,4,4,2,81783872
+1937 Fall,Regular Season,Osaka Tigers,25,"Tamai, Sakae",OF,14,1.000,7,0,0,0,,81783874
+1937 Spring,Regular Season,Osaka Tigers,25,"Tamai, Sakae",OF,16,1.000,12,1,0,0,,81783874
+1937 Fall,Regular Season,Lion Baseball Club,18,"Nishiike, Hidetaka",C,1,1.000,1,0,0,0,0,81983874
+1937 Spring,Regular Season,Nagoya Golden Dolphins,20,"Hoshino, Masao",2B,1,0.000,0,0,0,0,,83183872
+1937 Spring,Regular Season,Nagoya Golden Dolphins,20,"Hoshino, Masao",3B,8,0.871,7,20,4,0,,83183872
+1937 Fall,Regular Season,Hankyu Club,19,"Maruo, Chitoji",P,15,0.929,2,24,2,2,,83383872
+1937 Spring,Regular Season,Hankyu Club,19,"Maruo, Chitoji",P,4,1.000,1,4,0,0,,83383872
+1937 Fall,Regular Season,Osaka Tigers,17,"Monzen, Masato",C,11,1.000,23,2,0,0,0,83583872
+1937 Spring,Regular Season,Osaka Tigers,17,"Monzen, Masato",C,49,0.983,208,18,4,1,4,83583872
+1937 Fall,Regular Season,Tokyo Senators,14,"Yokozawa, Shichiro",2B,2,0.857,1,5,1,0,,83783872
+1937 Fall,Regular Season,Tokyo Senators,14,"Yokozawa, Shichiro",3B,41,0.914,23,116,13,17,,83783872
+1937 Fall,Regular Season,Tokyo Senators,14,"Yokozawa, Shichiro",P,1,1.000,0,1,0,0,,83783872
+1937 Spring,Regular Season,Tokyo Senators,14,"Yokozawa, Shichiro",2B,1,0.889,3,5,1,1,,83783872
+1937 Spring,Regular Season,Tokyo Senators,14,"Yokozawa, Shichiro",3B,34,0.862,29,90,19,11,,83783872
+1937 Fall,Regular Season,Lion Baseball Club,14,"Sakurai, Shichinosuke",1B,8,0.947,53,1,3,7,,91093872
+1937 Fall,Regular Season,Lion Baseball Club,14,"Sakurai, Shichinosuke",P,20,0.929,3,23,2,2,,91093872
+1937 Spring,Regular Season,Dai Tokyo,14,"Sakurai, Shichinosuke",P,19,0.893,5,20,3,1,,91093872
+1937 Fall,Regular Season,Hankyu Club,18,"Hayashi, Shinichiro",1B,13,0.991,102,3,1,11,,91093874
+1937 Fall,Regular Season,Hankyu Club,18,"Hayashi, Shinichiro",2B,1,1.000,1,0,0,0,,91093874
+1937 Fall,Regular Season,Hankyu Club,18,"Hayashi, Shinichiro",3B,16,0.868,10,36,7,1,,91093874
+1937 Fall,Regular Season,Hankyu Club,18,"Hayashi, Shinichiro",SS,1,0.000,0,0,0,0,,91093874
+1937 Spring,Regular Season,Hankyu Club,18,"Hayashi, Shinichiro",1B,23,0.969,145,9,5,11,,91093874
+1937 Fall,Regular Season,Hankyu Club,9,"Yamada, Katsusaburo",OF,6,0.750,3,0,1,0,,91193872
+1937 Fall,Regular Season,Hankyu Club,9,"Yamada, Katsusaburo",P,1,0.000,0,0,0,0,,91193872
+1937 Spring,Regular Season,Hankyu Club,9,"Yamada, Katsusaburo",OF,29,0.938,45,0,3,0,,91193872
+1937 Fall,Regular Season,Tokyo Kyojin,25,"Inoe, Yasuhiro",2B,3,1.000,2,0,0,0,,91193874
+1937 Fall,Regular Season,Tokyo Kyojin,25,"Inoe, Yasuhiro",OF,1,0.000,0,0,0,0,,91193874
+1937 Spring,Regular Season,Nagoya Club,,"Suzuki, Minoru",OF,2,1.000,2,0,0,0,,91293872
+1937 Fall,Regular Season,Nagoya Club,23,"Matsuo, Kozo",P,14,0.955,2,19,1,2,,91293874
+1937 Fall,Regular Season,Tokyo Senators,8,"Imaoka, Kenjiro",2B,2,0.929,3,10,1,4,,91393872
+1937 Fall,Regular Season,Tokyo Senators,8,"Imaoka, Kenjiro",3B,12,0.810,6,11,4,3,,91393872
+1937 Fall,Regular Season,Tokyo Senators,8,"Imaoka, Kenjiro",SS,18,0.812,25,44,16,10,,91393872
+1937 Spring,Regular Season,Tokyo Senators,8,"Imaoka, Kenjiro",2B,5,1.000,6,4,0,0,,91393872
+1937 Spring,Regular Season,Tokyo Senators,8,"Imaoka, Kenjiro",3B,17,0.776,14,24,11,1,,91393872
+1937 Spring,Regular Season,Tokyo Senators,8,"Imaoka, Kenjiro",SS,5,0.941,9,7,1,1,,91393872
+1937 Spring,Regular Season,Korakuen Eagles,21,"Oishi, Tsuna",OF,2,1.000,1,0,0,0,,91393874
+1937 Spring,Regular Season,Korakuen Eagles,21,"Oishi, Tsuna",P,5,0.923,3,9,1,0,,91393874
+1937 Fall,Regular Season,Korakuen Eagles,11,"Tsutsui, Yoshitake",2B,1,1.000,0,1,0,0,,91493872
+1937 Fall,Regular Season,Korakuen Eagles,11,"Tsutsui, Yoshitake",3B,1,0.000,0,0,0,0,,91493872
+1937 Spring,Regular Season,Korakuen Eagles,11,"Tsutsui, Yoshitake",C,6,0.852,18,5,4,0,3,91493872
+1937 Fall,Regular Season,Osaka Tigers,3,"Okada, Muneyoshi",SS,46,0.927,111,143,20,30,,91593872
+1937 Spring,Regular Season,Osaka Tigers,3,"Okada, Muneyoshi",SS,51,0.908,100,177,28,34,,91593872
+1937 Fall,Regular Season,Tokyo Kyojin,23,"Go, Shosei",OF,16,0.971,30,3,1,0,,91593874
+1937 Spring,Regular Season,Tokyo Kyojin,23,"Go, Shosei",OF,55,0.984,120,7,2,2,,91593874
+1937 Fall,Regular Season,Tokyo Senators,25,"Nakamura, Tamio",1B,3,1.000,27,2,0,5,,91693872
+1937 Fall,Regular Season,Tokyo Senators,25,"Nakamura, Tamio",C,41,0.965,163,29,7,4,4,91693872
+1937 Spring,Regular Season,Tokyo Senators,25,"Nakamura, Tamio",1B,19,0.981,146,8,3,15,,91693872
+1937 Spring,Regular Season,Tokyo Senators,25,"Nakamura, Tamio",C,24,0.955,96,10,5,1,4,91693872
+1937 Fall,Regular Season,Nagoya Club,16,"Kinoshita, Hiroki",P,13,0.917,2,9,1,0,,91793872
+1937 Spring,Regular Season,Nagoya Club,16,"Kinoshita, Hiroki",P,24,0.960,4,44,2,2,,91793872
+1937 Fall,Regular Season,Tokyo Kyojin,24,"Tashiro, Sueo",C,7,0.824,11,3,3,0,0,91793874
+1937 Spring,Regular Season,Nagoya Golden Dolphins,8,"Nonin, Wataru",SS,52,0.892,93,187,34,27,,91893872
+1937 Fall,Regular Season,Nagoya Club,8,"Kosaka, Saburo",2B,1,0.000,0,0,0,0,,91993872
+1937 Fall,Regular Season,Nagoya Club,8,"Kosaka, Saburo",3B,1,0.875,2,5,1,0,,91993872
+1937 Fall,Regular Season,Nagoya Club,8,"Kosaka, Saburo",SS,14,0.870,17,43,9,10,,91993872
+1937 Spring,Regular Season,Nagoya Club,8,"Kosaka, Saburo",2B,5,0.964,15,12,1,2,,91993872
+1937 Spring,Regular Season,Nagoya Club,8,"Kosaka, Saburo",3B,6,0.900,2,7,1,2,,91993872
+1937 Spring,Regular Season,Nagoya Club,8,"Kosaka, Saburo",SS,13,0.956,9,34,2,4,,91993872
+1937 Fall,Regular Season,Korakuen Eagles,27,"Nakagawa, Miyoshi",1B,34,0.978,252,14,6,22,,91993874
+1937 Fall,Regular Season,Korakuen Eagles,27,"Nakagawa, Miyoshi",P,20,1.000,9,27,0,2,,91993874
+1937 Fall,Regular Season,Osaka Tigers,7,"Hirota, Shuzo",C,18,0.971,30,4,1,0,1,93193872
+1937 Spring,Regular Season,Osaka Tigers,7,"Hirota, Shuzo",C,14,0.935,52,6,4,1,2,93193872
+1937 Fall,Regular Season,Nagoya Club,50,"Masu, Kaichi",2B,2,0.750,3,3,2,0,,93393872
+1937 Fall,Regular Season,Nagoya Club,50,"Masu, Kaichi",OF,38,0.976,78,5,2,1,,93393872
+1937 Spring,Regular Season,Nagoya Club,50,"Masu, Kaichi",OF,47,0.975,113,4,3,1,,93393872
+1937 Fall,Regular Season,Tokyo Kyojin,19,"Mizuhara, Shigeru",3B,48,0.893,37,122,19,11,,93593872
+1937 Spring,Regular Season,Tokyo Kyojin,19,"Mizuhara, Shigeru",3B,56,0.925,48,125,14,15,,93593872
+1937 Fall,Regular Season,Hankyu Club,16,"Yamashita, Koichi",OF,48,0.941,88,7,6,2,,93793872
+1937 Spring,Regular Season,Hankyu Club,16,"Yamashita, Koichi",OF,56,0.993,134,6,1,0,,93793872

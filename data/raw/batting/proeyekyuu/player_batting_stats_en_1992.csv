@@ -1,0 +1,571 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+1992,Regular Season,Orix Bluewave,34,"Mori, Koji",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01003865
+1992,Regular Season,Chiba Lotte Marines,00,"Taijun, Masahiro",DH,9,36,34,0.147,0.194,0.235,0.429,1,4,5,4,0,0,1,8,0,0,1,0,9,0,1,0,0,01003883
+1992,Japan Series,Seibu Lions,22,"Omiya, Tatsuo",C,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,01103844
+1992,Regular Season,Seibu Lions,22,"Omiya, Tatsuo",C,27,25,21,0.190,0.320,0.190,0.510,1,2,4,4,0,0,0,4,0,0,4,0,8,2,0,0,0,01103844
+1992,Regular Season,Yomiuri Giants,52,"Inoe, Shinji",PH,6,9,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,01103860
+1992,Regular Season,Chiba Lotte Marines,27,"Ushijima, Kazuhiko",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103861
+1992,Regular Season,Fukuoka Daiei Hawks,12,"Inoe, Yuji",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103863
+1992,Regular Season,Hanshin Tigers,25,"Inomata, Takashi",P,19,30,27,0.148,0.207,0.148,0.355,2,3,4,4,0,0,0,4,0,1,2,0,12,1,0,1,0,01103864
+1992,Regular Season,Nippon-Ham Fighters,24,"Arikura, Masashi",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103881
+1992,Regular Season,Yomiuri Giants,37,"Motoki, Daisuke",SS,34,72,59,0.186,0.314,0.220,0.534,7,2,11,9,2,0,0,13,2,2,10,0,15,2,1,2,0,01103883
+1992,Regular Season,Fukuoka Daiei Hawks,5,"Fujimoto, Hiroshi",3B,130,454,368,0.253,0.379,0.467,0.846,48,56,93,56,15,2,20,172,2,0,76,0,89,14,0,8,2,01203860
+1992,Regular Season,Kintetsu Buffaloes,44,"Mitsuyama, Hidekazu",C,74,176,161,0.267,0.312,0.478,0.790,22,22,43,27,6,2,8,77,1,3,5,0,21,10,6,3,1,01203862
+1992,Regular Season,Seibu Lions,43,"Yokota, Hisanori",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01203864
+1992,Regular Season,Fukuoka Daiei Hawks,25,"Wakai, Motoyasu",PH,44,56,51,0.275,0.321,0.294,0.615,4,7,14,13,1,0,0,15,0,0,4,0,11,0,0,0,1,01203866
+1992,Regular Season,Seibu Lions,48,"Maeda, Koji",2B,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01203869
+1992,Regular Season,Seibu Lions,64,"Nonogaki, Takeshi",PR,7,1,1,0.000,0.000,0.000,0.000,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01203881
+1992,Regular Season,Yokohama Taiyo Whales,17,"Saito, Akio",P,17,27,22,0.182,0.182,0.182,0.364,2,2,4,4,0,0,0,4,0,0,0,0,6,2,0,5,0,01303844
+1992,Regular Season,Chunichi Dragons,23,"Kawamata, Yonetoshi",RF,84,195,167,0.269,0.364,0.443,0.807,14,15,45,26,14,0,5,74,0,0,26,3,22,2,0,0,2,01303848
+1992,Regular Season,Kintetsu Buffaloes,4,"Oishi, Daijiro",2B,130,576,487,0.269,0.354,0.380,0.734,76,47,131,95,24,6,6,185,39,13,62,1,56,4,3,23,1,01303863
+1992,Regular Season,Hiroshima Toyo Carp,11,"Kito, Makoto",P,22,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,01303864
+1992,Regular Season,Hanshin Tigers,5,"Kanamori, Eiji",PH,42,44,44,0.227,0.227,0.227,0.454,1,3,10,10,0,0,0,10,0,0,0,0,9,2,0,0,0,01303865
+1992,Regular Season,Chunichi Dragons,22,"Yamasaki, Takeshi",RF,40,117,106,0.236,0.308,0.396,0.704,6,10,25,16,5,0,4,42,0,0,10,0,26,6,1,0,0,01303868
+1992,Regular Season,Chunichi Dragons,18,"Kashima, Tadashi",P,38,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,01303869
+1992,Japan Series,Seibu Lions,23,"Otsuka, Koji",RF,6,,17,0.353,,0.353,,,2,6,6,0,0,0,6,1,,2,,1,,,,,01303881
+1992,Regular Season,Seibu Lions,23,"Otsuka, Koji",RF,64,104,94,0.340,0.367,0.426,0.793,22,12,32,26,4,2,0,40,4,5,4,0,17,1,0,6,0,01303881
+1992,Regular Season,Nippon-Ham Fighters,38,"Kataoka, Atsushi",3B,125,486,431,0.290,0.342,0.413,0.755,44,53,125,95,17,3,10,178,5,3,33,3,93,3,2,18,2,01303885
+1992,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,33,60,52,0.231,0.231,0.269,0.500,1,2,12,10,2,0,0,14,0,0,0,0,16,2,0,8,0,01403862
+1992,Regular Season,Yomiuri Giants,62,"Kojima, Keiichi",P,5,7,6,0.167,0.167,0.167,0.334,2,0,1,1,0,0,0,1,0,0,0,0,2,0,0,1,0,01403868
+1992,Regular Season,Yakult Swallows,48,"Sakurai, Shinichi",2B,51,130,117,0.222,0.276,0.265,0.541,6,10,26,21,5,0,0,31,0,0,9,5,19,3,0,2,1,01503862
+1992,Regular Season,Yokohama Taiyo Whales,21,"Nomura, Hiroki",P,23,35,31,0.258,0.258,0.387,0.645,2,4,8,6,1,0,1,12,0,0,0,0,14,0,0,4,0,01503866
+1992,Regular Season,Hiroshima Toyo Carp,6,"Kobayakawa, Takehiko",1B,113,392,330,0.279,0.383,0.439,0.822,36,55,92,62,18,1,11,145,0,1,53,3,75,8,5,0,4,01503869
+1992,Regular Season,Chiba Lotte Marines,21,"Yoshida, Atsushi",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01603885
+1992,Regular Season,Yokohama Taiyo Whales,60,"Shirahata, Takahiro",PH,19,18,17,0.235,0.278,0.353,0.631,3,1,4,3,0,1,0,6,0,0,0,0,3,1,1,0,0,01703860
+1992,Regular Season,Yakult Swallows,7,"Seike, Masakazu",3B,13,21,20,0.300,0.333,0.300,0.633,1,5,6,6,0,0,0,6,0,0,1,0,8,0,0,0,0,01703863
+1992,Regular Season,Hanshin Tigers,21,"Sekikawa, Koichi",C,31,46,43,0.116,0.174,0.140,0.314,1,2,5,4,1,0,0,6,0,0,3,0,13,1,0,0,0,01703883
+1992,Regular Season,Kintetsu Buffaloes,40,"Shinada, Ayahito",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01703885
+1992,Regular Season,Chunichi Dragons,32,"Yamada, Kikuo",P,45,19,17,0.118,0.118,0.118,0.236,2,0,2,2,0,0,0,2,0,0,0,0,6,0,0,2,0,01803881
+1992,Japan Series,Yakult Swallows,44,"Howell, Jack",3B,7,,30,0.133,,0.367,,,4,4,1,1,0,2,11,1,,2,,16,,,,,01803885
+1992,Regular Season,Yakult Swallows,44,"Howell, Jack",3B,113,435,387,0.331,0.402,0.685,1.087,67,87,128,68,21,1,38,265,3,3,41,2,86,10,6,0,1,01803885
+1992,Regular Season,Hanshin Tigers,0,"Nakano, Satoru",LF,72,63,52,0.192,0.333,0.327,0.660,12,6,10,7,1,0,2,17,0,2,9,1,16,1,2,0,0,01903862
+1992,Regular Season,Seibu Lions,14,"Nakao, Takayoshi",PH,9,13,12,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,01903863
+1992,Regular Season,Yomiuri Giants,22,"Nakao, Takayoshi",C,5,22,20,0.300,0.364,0.650,1.014,2,5,6,3,0,2,1,13,0,0,2,0,4,0,0,0,0,01903863
+1992,Regular Season,Yomiuri Giants,28,"Hirota, Hiroaki",P,32,14,12,0.000,0.143,0.000,0.143,1,0,0,0,0,0,0,0,0,0,2,0,4,0,0,0,0,01903864
+1992,Regular Season,Orix Bluewave,16,"Ito, Atsunori",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903866
+1992,Regular Season,Nippon-Ham Fighters,7,"Nakajima, Terushi",1B,115,485,441,0.290,0.342,0.435,0.777,49,66,128,91,23,1,13,192,0,0,35,0,83,16,2,2,5,01903868
+1992,Regular Season,Hanshin Tigers,63,"Shinjo, Tsuyoshi",CF,95,378,353,0.278,0.320,0.433,0.753,39,46,98,68,16,3,11,153,5,2,18,0,73,11,4,3,0,01903881
+1992,Regular Season,Seibu Lions,53,"Uchiyama, Tomoyuki",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903883
+1992,Regular Season,Orix Bluewave,6,"Taguchi, So",SS,47,141,123,0.268,0.318,0.374,0.692,12,7,33,22,10,0,1,46,5,0,8,0,26,1,1,9,0,01903885
+1992,Regular Season,Chunichi Dragons,30,"Powell, Alonzo",CF,88,326,302,0.308,0.356,0.493,0.849,44,35,93,64,15,1,13,149,4,6,20,1,59,5,3,0,1,03103885
+1992,Regular Season,Hanshin Tigers,33,"Kaneko, Seiichi",RF,12,8,6,0.167,0.375,0.167,0.542,3,0,1,1,0,0,0,1,0,0,1,0,3,0,1,0,0,03503868
+1992,Regular Season,Fukuoka Daiei Hawks,27,"Yoshinaga, Koichiro",C,124,460,420,0.290,0.345,0.431,0.776,44,49,122,88,20,3,11,181,0,3,36,1,55,13,0,2,2,03703868
+1992,Regular Season,Yakult Swallows,13,"Kato, Hiroto",P,14,13,13,0.077,0.077,0.077,0.154,0,1,1,1,0,0,0,1,0,0,0,0,7,0,0,0,0,05003868
+1992,Regular Season,Orix Bluewave,59,"Kohama, Yuichi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05803868
+1992,Japan Series,Seibu Lions,39,"Destrade, Orestes",DH,7,,25,0.360,,0.760,,,4,9,5,1,0,3,19,0,,3,,5,,,,,07303868
+1992,Regular Season,Seibu Lions,39,"Destrade, Orestes",DH,128,548,448,0.266,0.396,0.583,0.979,87,87,119,59,19,0,41,261,12,8,95,3,125,9,3,0,2,07303868
+1992,Regular Season,Hanshin Tigers,7,"Mayumi, Akinobu",PH,68,109,101,0.208,0.248,0.257,0.505,7,12,21,18,2,0,1,26,0,0,5,3,22,5,1,0,2,11013847
+1992,Regular Season,Hanshin Tigers,29,"Yoshida, Hiroyuki",C,3,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11013848
+1992,Regular Season,Yakult Swallows,52,"Yamanaka, Kenji",PR,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,11013866
+1992,Regular Season,Chiba Lotte Marines,10,"Furukawa, Shinichi",PH,17,32,27,0.111,0.226,0.148,0.374,0,2,3,2,1,0,0,4,0,0,4,0,11,0,0,1,0,11213862
+1992,Regular Season,Hanshin Tigers,3,"Yagi, Hiroshi",CF,129,492,424,0.267,0.359,0.483,0.842,57,60,113,66,23,3,21,205,8,6,59,3,84,8,3,5,1,11213864
+1992,Regular Season,Yokohama Taiyo Whales,49,"Hatayama, Hitoshi",1B,71,186,172,0.221,0.274,0.453,0.727,18,21,38,20,6,2,10,78,1,0,12,0,57,1,1,0,1,11213867
+1992,Regular Season,Nippon-Ham Fighters,35,"Fujio, Yasuharu",PH,4,3,3,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,11213869
+1992,Regular Season,Fukuoka Daiei Hawks,42,"Nishi, Shunji",3B,4,10,9,0.111,0.111,0.111,0.222,1,0,1,1,0,0,0,1,0,0,0,0,3,0,0,1,0,11213881
+1992,Regular Season,Yomiuri Giants,22,"Okubo, Hiromoto",C,84,285,260,0.277,0.337,0.504,0.841,37,43,72,43,14,0,15,131,0,0,20,9,48,7,4,0,1,11313860
+1992,Regular Season,Nippon-Ham Fighters,28,"Okamoto, Tetsushi",C,6,13,13,0.154,0.154,0.154,0.308,0,0,2,2,0,0,0,2,0,0,0,0,2,1,0,0,0,11313862
+1992,Regular Season,Yomiuri Giants,32,"Ono, Yuji",PH,51,85,75,0.240,0.329,0.387,0.716,8,7,18,11,5,0,2,29,0,0,10,0,19,2,0,0,0,11313864
+1992,Regular Season,Hanshin Tigers,18,"Noda, Koji",P,26,40,39,0.128,0.128,0.179,0.307,1,2,5,4,0,1,0,7,0,0,0,0,17,0,0,1,0,11313866
+1992,Japan Series,Seibu Lions,52,"Oda, Shinya",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11313869
+1992,Regular Season,Seibu Lions,52,"Oda, Shinya",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313869
+1992,Regular Season,Kintetsu Buffaloes,41,"Iriki, Satoshi",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313881
+1992,Regular Season,Chunichi Dragons,21,"Kojima, Hiromu",P,18,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313883
+1992,Regular Season,Yokohama Taiyo Whales,10,"Udo, Katsuya",P,20,17,14,0.214,0.267,0.214,0.481,1,1,3,3,0,0,0,3,0,0,1,0,5,1,0,2,0,11313885
+1992,Japan Series,Yakult Swallows,28,"Yaegashi, Yukio",PH,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11413843
+1992,Regular Season,Yakult Swallows,28,"Yaegashi, Yukio",PH,36,38,33,0.242,0.263,0.394,0.657,1,9,8,5,2,0,1,13,0,0,2,0,6,2,0,0,3,11413843
+1992,Regular Season,Fukuoka Daiei Hawks,00,"Yamaguchi, Yuji",CF,37,101,84,0.298,0.385,0.369,0.754,17,4,25,20,4,1,0,31,15,1,10,0,24,1,2,5,0,11413862
+1992,Regular Season,Nippon-Ham Fighters,40,"Yamanaka, Kiyoshi",C,37,72,64,0.219,0.242,0.281,0.523,7,4,14,10,4,0,0,18,0,0,2,0,12,0,0,6,0,11413863
+1992,Regular Season,Fukuoka Daiei Hawks,32,"Motohara, Masaharu",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11413868
+1992,Regular Season,Fukuoka Daiei Hawks,15,"Eguchi, Takayoshi",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11413883
+1992,Regular Season,Yomiuri Giants,18,"Kuwata, Masumi",P,32,78,69,0.217,0.239,0.348,0.587,8,8,15,10,3,0,2,24,0,0,2,0,17,2,0,7,0,11513862
+1992,Regular Season,Yomiuri Giants,40,"Sato, Hiroshi",PH,34,52,45,0.267,0.327,0.311,0.638,4,2,12,10,2,0,0,14,1,0,3,1,10,3,1,3,0,11513864
+1992,Regular Season,Yokohama Taiyo Whales,40,"Okawa, Ryusai",PH,28,44,33,0.182,0.250,0.242,0.492,4,3,6,4,2,0,0,8,0,1,3,0,12,3,0,7,0,11513866
+1992,Regular Season,Kintetsu Buffaloes,47,"Kiyokawa, Eiji",P,36,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11513869
+1992,Japan Series,Yakult Swallows,15,"Okabayashi, Yoichi",P,2,,7,0.286,,0.286,,,0,2,2,0,0,0,2,0,,1,,0,,,,,11513883
+1992,Regular Season,Yakult Swallows,15,"Okabayashi, Yoichi",P,40,70,57,0.123,0.167,0.123,0.290,0,2,7,7,0,0,0,7,0,0,3,0,20,0,0,10,0,11513883
+1992,Japan Series,Yakult Swallows,27,"Furuta, Atsuya",C,7,,32,0.250,,0.375,,,3,8,6,1,0,1,12,0,,0,,3,,,,,11613881
+1992,Regular Season,Yakult Swallows,27,"Furuta, Atsuya",C,131,568,474,0.316,0.422,0.576,0.998,87,86,150,90,27,3,30,273,3,2,78,10,87,12,11,1,4,11613881
+1992,Regular Season,Fukuoka Daiei Hawks,63,"Muramatsu, Arihito",CF,39,80,69,0.188,0.253,0.246,0.499,4,1,13,11,0,2,0,17,0,1,5,0,12,0,1,5,0,11613883
+1992,Regular Season,Hanshin Tigers,2,"Takahashi, Yoshihiko",PH,19,27,23,0.217,0.296,0.261,0.557,2,2,5,4,1,0,0,6,0,1,3,0,4,0,0,0,1,11713842
+1992,Regular Season,Fukuoka Daiei Hawks,3,"Sasaki, Makoto",RF,126,548,509,0.322,0.364,0.505,0.869,83,54,164,115,26,2,21,257,40,11,30,5,64,7,5,2,2,11713860
+1992,Regular Season,Yokohama Taiyo Whales,8,"Kono, Junki",PH,14,25,23,0.130,0.167,0.174,0.341,3,1,3,2,1,0,0,4,2,0,1,0,11,0,0,0,0,11713863
+1992,Regular Season,Hanshin Tigers,15,"Yufune, Toshiro",P,31,52,46,0.087,0.100,0.087,0.187,2,7,4,4,0,0,0,4,0,0,1,0,26,1,0,2,3,11713883
+1992,Regular Season,Fukuoka Daiei Hawks,10,"Sakuyama, Kazuhide",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713885
+1992,Regular Season,Yomiuri Giants,35,"Yojo, Minoru",PH,83,147,129,0.310,0.386,0.395,0.781,12,10,40,33,4,2,1,51,1,0,15,5,21,4,1,2,0,11813868
+1992,Regular Season,Kintetsu Buffaloes,33,"Bean, Billy",LF,7,26,24,0.208,0.231,0.292,0.523,2,2,5,3,2,0,0,7,0,0,1,0,5,0,0,0,1,11813885
+1992,Regular Season,Nippon-Ham Fighters,21,"Nishizaki, Yukihiro",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913864
+1992,Regular Season,Chiba Lotte Marines,3,"Nishimura, Norifumi",CF,97,394,348,0.216,0.285,0.290,0.575,34,27,75,57,11,6,1,101,14,2,34,0,36,3,0,11,1,11913865
+1992,Regular Season,Nippon-Ham Fighters,48,"Shirai, Yasukatsu",P,43,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913868
+1992,Regular Season,Orix Bluewave,51,"Suzuki, Ichiro",LF,40,99,95,0.253,0.276,0.305,0.581,9,5,24,19,5,0,0,29,3,2,3,0,11,0,0,1,0,11913885
+1992,Regular Season,Hiroshima Toyo Carp,29,"Kondo, Yoshihisa",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13013868
+1992,Regular Season,Chiba Lotte Marines,0,"Hatsushiba, Kiyoshi",3B,110,422,377,0.249,0.292,0.374,0.666,37,46,94,67,17,0,10,141,0,3,22,2,58,9,3,14,6,13813868
+1992,Regular Season,Yakult Swallows,40,"Suzuki, Taira",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15013868
+1992,Regular Season,Seibu Lions,21,"Watanabe, Tomio",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15113868
+1992,Japan Series,Yakult Swallows,2,"Iida, Tetsuya",CF,7,,30,0.367,,0.500,,,3,11,8,2,1,0,15,0,,2,,5,,,,,15213868
+1992,Regular Season,Yakult Swallows,2,"Iida, Tetsuya",CF,125,574,521,0.294,0.345,0.411,0.756,69,42,153,114,24,8,7,214,33,4,39,3,83,5,3,9,2,15213868
+1992,Japan Series,Seibu Lions,8,"Suzuki, Ken",PH,5,,5,0.200,,0.800,,,3,1,0,0,0,1,4,0,,0,,2,,,,,15313868
+1992,Regular Season,Seibu Lions,8,"Suzuki, Ken",PH,69,104,92,0.261,0.327,0.478,0.805,10,19,24,15,3,1,5,44,0,0,9,2,24,1,1,0,2,15313868
+1992,Regular Season,Yokohama Taiyo Whales,7,"Miyazato, Futoshi",LF,96,190,173,0.254,0.306,0.341,0.647,22,16,44,33,8,2,1,59,7,4,13,0,15,3,0,4,0,15713868
+1992,Regular Season,Yokohama Taiyo Whales,4,"Yokotani, Akimasa",PH,63,77,73,0.233,0.253,0.356,0.609,11,9,17,13,1,1,2,26,0,1,2,1,10,0,0,2,0,15913868
+1992,Japan Series,Yakult Swallows,26,"Hata, Shinji",RF,7,,23,0.261,,0.435,,,1,6,4,1,0,1,10,0,,3,,5,,,,,21023860
+1992,Regular Season,Yakult Swallows,26,"Hata, Shinji",RF,112,392,342,0.251,0.342,0.439,0.781,42,51,86,52,19,0,15,150,5,0,40,2,63,1,8,0,2,21023860
+1992,Regular Season,Orix Bluewave,9,"Motonishi, Atsuhiro",CF,95,232,203,0.236,0.284,0.310,0.594,22,19,48,39,3,6,0,63,5,2,14,0,34,6,1,10,4,21023864
+1992,Regular Season,Nippon-Ham Fighters,4,"Takeda, Kazuhiro",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21023866
+1992,Regular Season,Chiba Lotte Marines,9,"Igarashi, Akihito",PH,12,10,9,0.111,0.200,0.111,0.311,0,0,1,1,0,0,0,1,0,0,1,1,2,1,0,0,0,21023883
+1992,Regular Season,Kintetsu Buffaloes,66,"Nakamura, Norihiro",3B,11,27,27,0.222,0.222,0.481,0.703,4,5,6,3,1,0,2,13,0,0,0,0,8,0,0,0,0,21023885
+1992,Regular Season,Fukuoka Daiei Hawks,1,"Ogawa, Hiroshi",SS,77,98,88,0.216,0.266,0.284,0.550,13,7,19,15,2,2,0,25,3,1,6,0,14,2,0,4,0,21123861
+1992,Regular Season,Chunichi Dragons,3,"Tatsunami, Kazuyoshi",2B,98,438,379,0.301,0.383,0.404,0.787,52,42,114,89,16,4,5,153,8,4,51,1,52,6,2,2,4,21123866
+1992,Regular Season,Yomiuri Giants,43,"Ito, Hiroyasu",RF,9,22,19,0.211,0.318,0.316,0.634,2,0,4,2,2,0,0,6,0,0,3,0,5,0,0,0,0,21123885
+1992,Regular Season,Fukuoka Daiei Hawks,4,"Moriwaki, Hiroshi",3B,77,41,34,0.206,0.270,0.382,0.652,9,4,7,4,1,1,1,13,1,0,1,0,11,0,2,4,0,21223863
+1992,Regular Season,Chiba Lotte Marines,18,"Irabu, Hideki",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21223866
+1992,Regular Season,Fukuoka Daiei Hawks,23,"Wells, Boomer",1B,129,551,506,0.271,0.319,0.466,0.785,56,97,137,91,19,1,26,236,4,1,37,3,38,17,2,0,6,21223867
+1992,Regular Season,Kintetsu Buffaloes,11,"Nomo, Hideo",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21223881
+1992,Regular Season,Hanshin Tigers,48,"Kubo, Yasuo",P,11,3,1,0.000,0.500,0.000,0.500,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,21323846
+1992,Japan Series,Seibu Lions,18,"Kaku, Taigen",P,1,,1,1.000,,1.000,,,0,1,1,0,0,0,1,0,,0,,0,,,,,21323860
+1992,Regular Season,Seibu Lions,18,"Kaku, Taigen",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323860
+1992,Regular Season,Orix Bluewave,0,"Kawabata, Yasuhiro",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323862
+1992,Regular Season,Chunichi Dragons,13,"Kondo, Shinichi",P,6,1,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,21323864
+1992,Regular Season,Nippon-Ham Fighters,23,"Kaneishi, Akihito",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323865
+1992,Regular Season,Yakult Swallows,33,"Nakanishi, Chikashi",C,9,7,6,0.167,0.286,0.167,0.453,1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,21323866
+1992,Regular Season,Chunichi Dragons,62,"Hasebe, Yutaka",PH,11,12,11,0.364,0.417,0.455,0.872,2,1,4,3,1,0,0,5,0,0,0,0,4,1,1,0,0,21323868
+1992,Regular Season,Yomiuri Giants,0,"Kawai, Masahiro",SS,98,398,330,0.258,0.312,0.348,0.660,42,23,85,66,13,1,5,115,4,5,20,0,38,9,6,42,0,21323869
+1992,Regular Season,Seibu Lions,2,"Yoshitake, Haruki",LF,19,24,21,0.143,0.217,0.143,0.360,2,2,3,3,0,0,0,3,0,0,2,0,9,0,0,1,0,21423863
+1992,Regular Season,Kintetsu Buffaloes,39,"Fujitate, Jiro",RF,71,136,121,0.281,0.331,0.438,0.769,16,10,34,22,8,1,3,53,2,2,8,0,25,1,1,6,0,21423881
+1992,Regular Season,Hanshin Tigers,42,"Paciorek, Jim",1B,129,562,512,0.311,0.361,0.504,0.865,73,88,159,104,33,0,22,258,0,2,40,1,73,18,4,0,6,21523866
+1992,Regular Season,Chunichi Dragons,9,"Yamaguchi, Koji",RF,88,120,108,0.269,0.331,0.333,0.664,14,14,29,24,4,0,1,36,3,2,10,0,27,1,0,2,0,21523868
+1992,Regular Season,Yokohama Taiyo Whales,38,"Kawabata, Kazuaki",PH,3,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21523881
+1992,Regular Season,Yakult Swallows,6,"Ray, Johnny",2B,49,169,153,0.190,0.249,0.275,0.524,13,13,29,21,5,1,2,42,0,0,13,1,16,8,0,0,3,21523883
+1992,Regular Season,Yomiuri Giants,15,"Koharazawa, Shigeyori",P,7,8,6,0.167,0.167,0.167,0.334,0,1,1,1,0,0,0,1,0,0,0,0,4,0,0,2,0,21523885
+1992,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",2B,132,606,550,0.278,0.328,0.349,0.677,65,23,153,122,23,8,0,192,1,6,40,3,48,9,1,15,0,21623860
+1992,Regular Season,Orix Bluewave,4,"Matsuyama, Hideaki",3B,9,24,20,0.300,0.391,0.650,1.041,5,2,6,2,2,1,1,13,0,0,3,0,3,1,0,1,0,21623881
+1992,Regular Season,Fukuoka Daiei Hawks,14,"Wakatabe, Kenichi",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21623885
+1992,Japan Series,Yakult Swallows,9,"Sugiura, Toru",PH,6,,10,0.200,,0.500,,,5,2,1,0,0,1,5,0,,2,,2,,,,,21723845
+1992,Regular Season,Yakult Swallows,9,"Sugiura, Toru",PH,18,16,11,0.182,0.438,0.455,0.893,1,2,2,1,0,0,1,5,0,0,5,0,3,0,0,0,0,21723845
+1992,Japan Series,Yakult Swallows,24,"Naito, Naoyuki",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,21723864
+1992,Regular Season,Yakult Swallows,24,"Naito, Naoyuki",P,35,18,15,0.133,0.188,0.133,0.321,1,1,2,2,0,0,0,2,0,0,1,0,7,1,0,2,0,21723864
+1992,Regular Season,Orix Bluewave,25,"Suguro, Hironori",SS,22,43,40,0.275,0.326,0.300,0.626,3,4,11,10,1,0,0,12,3,0,3,0,3,0,0,0,0,21723866
+1992,Regular Season,Chiba Lotte Marines,20,"Shiratake, Yoshihisa",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723867
+1992,Regular Season,Hiroshima Toyo Carp,18,"Sasaoka, Shinji",P,31,82,66,0.182,0.250,0.242,0.492,8,5,12,8,4,0,0,16,0,0,6,0,31,0,0,10,0,21723881
+1992,Regular Season,Hanshin Tigers,1,"O'Malley, Tom",3B,111,478,381,0.325,0.460,0.533,0.993,55,62,124,77,30,2,15,203,3,1,94,7,70,8,2,0,1,21723883
+1992,Regular Season,Nippon-Ham Fighters,19,"Shimazaki, Takeshi",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723885
+1992,Regular Season,Yomiuri Giants,12,"Perez, Yorkis",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21823885
+1992,Regular Season,Fukuoka Daiei Hawks,7,"Mizukami, Yoshio",DH,6,2,2,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21923842
+1992,Regular Season,Chunichi Dragons,0,"Nagashima, Kiyoyuki",LF,78,194,175,0.240,0.306,0.366,0.672,19,14,42,31,5,1,5,64,1,0,17,0,32,5,0,1,1,21923861
+1992,Regular Season,Hiroshima Toyo Carp,16,"Nagadomi, Hiroshi",P,35,46,33,0.091,0.143,0.091,0.234,1,0,3,3,0,0,0,3,0,0,2,0,18,0,0,11,0,21923862
+1992,Regular Season,Hanshin Tigers,28,"Nakada, Yoshihiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21923863
+1992,Regular Season,Orix Bluewave,40,"Fukuhara, Mineo",2B,26,17,17,0.059,0.059,0.059,0.118,0,0,1,1,0,0,0,1,0,0,0,0,6,0,0,0,0,21923865
+1992,Regular Season,Orix Bluewave,62,"Kazaoka, Naoyuki",SS,15,25,19,0.053,0.100,0.105,0.205,0,1,1,0,1,0,0,2,1,0,1,0,6,0,0,5,0,21923866
+1992,Regular Season,Seibu Lions,28,"Takeshita, Jun",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21923885
+1992,Regular Season,Yokohama Taiyo Whales,23,"Reynolds, R.J.",RF,113,470,427,0.248,0.313,0.419,0.732,57,66,106,71,16,0,19,179,12,6,39,2,102,13,2,0,2,23123883
+1992,Regular Season,Chiba Lotte Marines,4,"Motley, Darryl",DH,25,106,96,0.208,0.274,0.427,0.701,13,17,20,10,4,1,5,41,0,0,7,0,29,0,2,0,1,23123885
+1992,Regular Season,Hiroshima Toyo Carp,50,"Kawada, Yusuke",PR,37,20,17,0.176,0.263,0.176,0.439,6,0,3,3,0,0,0,3,6,0,2,0,4,0,0,1,0,23423868
+1992,Regular Season,Fukuoka Daiei Hawks,62,"Kawagoe, Toru",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23723868
+1992,Regular Season,Chiba Lotte Marines,4,"Diaz, Mike",DH,50,212,174,0.184,0.307,0.402,0.709,21,35,32,16,5,0,11,70,0,0,31,1,51,4,2,0,5,23823868
+1992,Regular Season,Hiroshima Toyo Carp,15,"Katase, Kiyotoshi",P,46,33,29,0.069,0.100,0.138,0.238,0,3,2,1,0,1,0,4,0,0,1,0,15,1,0,3,0,23923868
+1992,Regular Season,Yakult Swallows,00,"Jo, Tomohiro",LF,83,229,188,0.223,0.301,0.266,0.567,30,2,42,34,8,0,0,50,10,3,15,0,37,4,6,20,0,25223868
+1992,Regular Season,Yokohama Taiyo Whales,9,"Horie, Kenji",3B,38,108,94,0.287,0.330,0.351,0.681,12,11,27,23,3,0,1,33,7,1,5,0,21,1,1,8,0,25723868
+1992,Regular Season,Seibu Lions,33,"Kakiuchi, Tetsuya",LF,7,8,7,0.143,0.250,0.143,0.393,0,0,1,1,0,0,0,1,0,0,1,0,4,0,0,0,0,27123868
+1992,Regular Season,Hiroshima Toyo Carp,1,"Yamasaki, Ryuzo",RF,111,376,332,0.265,0.339,0.373,0.712,32,31,88,64,18,0,6,124,2,1,36,2,54,9,2,4,2,31033846
+1992,Regular Season,Chunichi Dragons,40,"Minamimure, Toyozo",LF,18,23,22,0.182,0.182,0.318,0.500,3,1,4,3,0,0,1,7,0,0,0,0,4,1,0,1,0,31033865
+1992,Regular Season,Orix Bluewave,37,"Watanabe, Shinji",PH,33,44,41,0.366,0.386,0.439,0.825,1,7,15,12,3,0,0,18,0,1,2,0,9,0,0,0,1,31033866
+1992,Regular Season,Nippon-Ham Fighters,2,"Suzuki, Yoshihiro",CF,120,491,430,0.284,0.337,0.372,0.709,56,34,122,101,10,5,6,160,20,8,28,2,73,2,7,24,1,31033868
+1992,Regular Season,Chunichi Dragons,7,"Uno, Masaru",3B,110,378,335,0.239,0.323,0.367,0.690,32,52,80,60,8,1,11,123,1,4,42,1,86,5,0,0,1,31133844
+1992,Regular Season,Kintetsu Buffaloes,25,"Adachi, Toshiya",SS,79,152,136,0.250,0.313,0.353,0.666,16,13,34,24,7,2,1,48,2,3,11,0,25,0,2,2,1,31133860
+1992,Regular Season,Chiba Lotte Marines,1,"Aiko, Takeshi",1B,130,534,464,0.274,0.339,0.390,0.729,42,53,127,91,26,2,8,181,4,5,42,1,83,8,7,15,6,31133863
+1992,Regular Season,Chunichi Dragons,17,"Uehara, Akira",P,17,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,31133866
+1992,Regular Season,Chunichi Dragons,53,"Kamanaka, Masaaki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31133868
+1992,Japan Series,Seibu Lions,25,"Abe, Osamu",LF,3,,4,0.250,,0.250,,,0,1,1,0,0,0,1,0,,0,,1,,,,,31133869
+1992,Regular Season,Seibu Lions,25,"Abe, Osamu",LF,84,248,220,0.245,0.324,0.418,0.742,24,25,54,30,17,0,7,92,0,3,25,1,29,10,1,1,1,31133869
+1992,Regular Season,Hiroshima Toyo Carp,53,"Akimura, Norihiro",P,45,4,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,31133881
+1992,Japan Series,Yakult Swallows,16,"Ishii, Kazuhisa",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31133885
+1992,Regular Season,Yakult Swallows,16,"Ishii, Kazuhisa",P,14,7,6,0.167,0.286,0.167,0.453,0,1,1,1,0,0,0,1,0,1,1,0,3,1,0,0,0,31133885
+1992,Regular Season,Chunichi Dragons,8,"Hikono, Toshikatsu",PH,23,29,28,0.107,0.138,0.143,0.281,0,2,3,2,1,0,0,4,0,0,1,0,11,0,0,0,0,31233860
+1992,Regular Season,Orix Bluewave,2,"Yamagoshi, Yoshihiro",PR,47,48,40,0.250,0.318,0.275,0.593,12,1,10,9,1,0,0,11,1,2,1,0,11,1,3,4,0,31233864
+1992,Regular Season,Fukuoka Daiei Hawks,18,"Murata, Katsuyoshi",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233866
+1992,Regular Season,Fukuoka Daiei Hawks,67,"Nishijima, Takayuki",RF,2,5,4,0.500,0.600,0.500,1.100,0,0,2,2,0,0,0,2,1,0,1,0,1,0,0,0,0,31233881
+1992,Regular Season,Nippon-Ham Fighters,59,"Kimura, Takuya",CF,6,15,13,0.231,0.286,0.385,0.671,3,1,3,2,0,1,0,5,1,0,1,0,3,0,0,1,0,31233883
+1992,Regular Season,Yakult Swallows,37,"Nishioka, Hiroshi",P,7,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,31233885
+1992,Regular Season,Fukuoka Daiei Hawks,2,"Ono, Hisashi",CF,96,298,245,0.208,0.274,0.298,0.572,30,17,51,36,11,1,3,73,18,4,22,0,54,2,1,28,2,31333860
+1992,Regular Season,Hanshin Tigers,16,"Okada, Akinobu",1B,70,212,185,0.189,0.278,0.281,0.559,9,19,35,22,11,0,2,52,1,0,22,1,48,3,2,0,3,31333861
+1992,Regular Season,Yokohama Taiyo Whales,53,"Otsuka, Yoshiki",C,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31333862
+1992,Regular Season,Yokohama Taiyo Whales,33,"Ichikawa, Kazumasa",PH,19,25,23,0.304,0.360,0.348,0.708,1,2,7,6,1,0,0,8,0,0,2,0,3,1,0,0,0,31333863
+1992,Regular Season,Hanshin Tigers,32,"Yamaguchi, Shigeyuki",3B,20,13,9,0.222,0.462,0.333,0.795,3,1,2,1,1,0,0,3,0,0,3,0,2,0,1,0,0,31333866
+1992,Regular Season,Kintetsu Buffaloes,26,"Ono, Kazuyoshi",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333869
+1992,Regular Season,Chunichi Dragons,25,"Yoshida, Futoshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333883
+1992,Regular Season,Kintetsu Buffaloes,13,"Esaka, Masaaki",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333885
+1992,Regular Season,Orix Bluewave,28,"Hoshino, Nobuyuki",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31433860
+1992,Regular Season,Kintetsu Buffaloes,29,"Kato, Masaki",LF,18,27,26,0.269,0.269,0.308,0.577,3,1,7,6,1,0,0,8,0,0,0,0,4,0,0,1,0,31433866
+1992,Regular Season,Yomiuri Giants,17,"Makihara, Hiromi",P,33,77,68,0.103,0.129,0.132,0.261,1,1,7,5,2,0,0,9,0,0,0,0,27,1,2,7,0,31433867
+1992,Regular Season,Yomiuri Giants,47,"Kida, Masao",P,34,25,23,0.174,0.174,0.174,0.348,1,0,4,4,0,0,0,4,0,0,0,0,10,2,0,2,0,31433868
+1992,Regular Season,Fukuoka Daiei Hawks,39,"Baba, Toshifumi",2B,10,25,20,0.100,0.280,0.100,0.380,1,1,2,2,0,0,0,2,0,0,5,0,6,1,0,0,0,31433881
+1992,Regular Season,Fukuoka Daiei Hawks,52,"Ashikaga, Yutaka",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31433883
+1992,Regular Season,Hanshin Tigers,24,"Hiyama, Shinjiro",RF,7,17,17,0.176,0.176,0.176,0.352,1,1,3,3,0,0,0,3,0,0,0,0,5,0,0,0,0,31433885
+1992,Regular Season,Chunichi Dragons,20,"Komatsu, Tatsuo",P,22,47,39,0.103,0.186,0.179,0.365,3,4,4,3,0,0,1,7,0,0,4,0,18,1,0,4,0,31533846
+1992,Japan Series,Yakult Swallows,30,"Kiminami, Takayoshi",PH,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31533865
+1992,Regular Season,Yakult Swallows,30,"Kiminami, Takayoshi",PH,29,29,26,0.154,0.241,0.308,0.549,2,2,4,2,1,0,1,8,0,0,3,0,7,3,0,0,0,31533865
+1992,Regular Season,Yokohama Taiyo Whales,18,"Okamoto, Toru",P,30,57,51,0.137,0.185,0.157,0.342,3,2,7,6,1,0,0,8,0,0,3,0,17,2,0,3,0,31533866
+1992,Regular Season,Chunichi Dragons,49,"Sakai, Tadaharu",SS,74,144,125,0.264,0.319,0.280,0.599,10,5,33,31,2,0,0,35,1,0,10,2,27,0,0,9,0,31533868
+1992,Regular Season,Yakult Swallows,21,"Osaka, Katsuhito",P,29,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,31533883
+1992,Regular Season,Chiba Lotte Marines,2,"Yokota, Masashi",LF,96,212,175,0.257,0.351,0.337,0.688,24,9,45,37,4,2,2,59,15,3,23,1,24,1,3,10,1,31633860
+1992,Regular Season,Yomiuri Giants,59,"Ishige, Hiroshi",P,52,11,10,0.100,0.182,0.100,0.282,1,1,1,1,0,0,0,1,0,0,1,0,8,0,0,0,0,31633868
+1992,Regular Season,Hiroshima Toyo Carp,31,"Maeda, Tomonori",CF,130,585,493,0.308,0.375,0.483,0.858,82,89,152,107,23,3,19,238,18,4,54,3,51,7,2,30,6,31633881
+1992,Regular Season,Kintetsu Buffaloes,2,"Suzuki, Takahisa",RF,61,195,167,0.186,0.289,0.383,0.672,16,26,31,16,6,0,9,64,3,1,22,1,42,5,3,1,2,31733862
+1992,Regular Season,Hiroshima Toyo Carp,0,"Ko, Shinji",3B,83,46,40,0.300,0.349,0.550,0.899,7,6,12,7,2,1,2,22,0,1,2,0,7,0,1,3,0,31733866
+1992,Regular Season,Nippon-Ham Fighters,3,"Shirai, Kazuyuki",2B,128,495,410,0.215,0.312,0.288,0.600,33,30,88,68,14,2,4,118,11,7,54,0,57,5,5,24,2,31733869
+1992,Regular Season,Chiba Lotte Marines,14,"Komiyama, Satoru",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733881
+1992,Regular Season,Hanshin Tigers,36,"Tamura, Tsutomu",P,24,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,31733883
+1992,Regular Season,Orix Bluewave,5,"Torve, Kelvin",1B,96,403,367,0.305,0.353,0.452,0.805,42,58,112,81,19,1,11,166,3,1,29,0,70,9,1,1,5,31833885
+1992,Regular Season,Hanshin Tigers,12,"Furuya, Hideo",PH,13,19,17,0.059,0.158,0.059,0.217,0,1,1,1,0,0,0,1,1,0,2,0,2,1,0,0,0,31933846
+1992,Japan Series,Seibu Lions,6,"Tanabe, Norio",SS,6,,18,0.111,,0.111,,,1,2,2,0,0,0,2,0,,1,,3,,,,,31933860
+1992,Regular Season,Seibu Lions,6,"Tanabe, Norio",SS,126,441,401,0.302,0.336,0.479,0.815,50,63,121,76,32,0,13,192,4,4,19,0,48,10,3,16,2,31933860
+1992,Japan Series,Seibu Lions,5,"Tsuji, Hatsuhiko",2B,7,,32,0.250,,0.281,,,0,8,7,1,0,0,9,1,,1,,3,,,,,31933869
+1992,Regular Season,Seibu Lions,5,"Tsuji, Hatsuhiko",2B,123,553,474,0.285,0.373,0.388,0.761,66,48,135,102,23,4,6,184,23,7,59,0,38,6,8,11,1,31933869
+1992,Regular Season,Hanshin Tigers,17,"Ota, Takashi",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33133868
+1992,Regular Season,Fukuoka Daiei Hawks,40,"Wakisaka, Koji",3B,10,16,15,0.067,0.125,0.067,0.192,1,0,1,1,0,0,0,1,0,0,1,0,5,0,0,0,0,33133881
+1992,Regular Season,Hiroshima Toyo Carp,32,"Nishiyama, Shuji",C,79,192,170,0.224,0.287,0.324,0.611,18,20,38,29,5,0,4,55,2,1,16,6,33,4,0,4,2,33233868
+1992,Regular Season,Fukuoka Daiei Hawks,22,"Tunnell, Lee",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33333883
+1992,Regular Season,Chiba Lotte Marines,35,"Watanabe, Hideaki",SS,5,9,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,33833868
+1992,Regular Season,Fukuoka Daiei Hawks,45,"Yasuda, Hideyuki",C,43,49,44,0.182,0.217,0.364,0.581,9,6,8,4,2,0,2,16,1,1,2,0,12,2,0,3,0,33933868
+1992,Regular Season,Seibu Lions,60,"Yamamoto, Masanori",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35133868
+1992,Japan Series,Yakult Swallows,4,"Tomashino, Kenji",2B,5,,14,0.143,,0.143,,,0,2,2,0,0,0,2,0,,1,,2,,,,,35233868
+1992,Regular Season,Yakult Swallows,4,"Tomashino, Kenji",2B,73,164,144,0.257,0.310,0.313,0.623,15,7,37,32,3,1,1,45,8,5,10,1,24,3,1,9,0,35233868
+1992,Regular Season,Kintetsu Buffaloes,19,"Akahori, Motoyuki",P,51,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35433868
+1992,Regular Season,Orix Bluewave,18,"Sakai, Tsutomu",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35833868
+1992,Regular Season,Orix Bluewave,23,"Ogawa, Hirofumi",SS,103,396,344,0.291,0.331,0.390,0.721,39,38,100,73,23,1,3,134,3,1,20,1,54,8,3,24,5,37133868
+1992,Japan Series,Seibu Lions,24,"Hirano, Ken",RF,6,,20,0.150,,0.150,,,1,3,3,0,0,0,3,0,,1,,1,,,,,41043863
+1992,Regular Season,Seibu Lions,24,"Hirano, Ken",RF,122,512,436,0.280,0.317,0.356,0.673,57,45,122,98,19,1,4,155,15,7,24,0,65,9,1,48,3,41043863
+1992,Regular Season,Nippon-Ham Fighters,57,"Mori, Noriyuki",SS,94,241,205,0.302,0.360,0.385,0.745,29,15,62,49,11,0,2,79,5,3,19,0,35,3,1,13,3,41043864
+1992,Regular Season,Orix Bluewave,21,"Yano, Minoru",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043865
+1992,Regular Season,Nippon-Ham Fighters,16,"Kojima, Yoshihiro",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043883
+1992,Japan Series,Seibu Lions,7,"Ishige, Hiromichi",3B,7,,25,0.240,,0.440,,,4,6,3,2,0,1,11,0,,2,,2,,,,,41143863
+1992,Regular Season,Seibu Lions,7,"Ishige, Hiromichi",3B,125,504,438,0.297,0.359,0.413,0.772,64,52,130,95,27,0,8,181,11,3,39,0,80,16,4,22,1,41143863
+1992,Regular Season,Hanshin Tigers,47,"Shimao, Yasuhito",P,25,10,10,0.100,0.100,0.100,0.200,0,0,1,1,0,0,0,1,0,0,0,0,6,0,0,0,0,41143866
+1992,Regular Season,Nippon-Ham Fighters,30,"Ishikawa, Masaru",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41143867
+1992,Regular Season,Orix Bluewave,24,"Iizuka, Tomiji",RF,23,32,30,0.233,0.281,0.500,0.781,5,6,7,3,1,2,1,15,0,0,2,0,12,1,0,0,0,41143869
+1992,Regular Season,Kintetsu Buffaloes,3,"Ishii, Hiro",1B,128,540,473,0.290,0.370,0.535,0.905,68,89,137,80,27,1,29,253,4,3,58,4,59,16,5,0,4,41143881
+1992,Regular Season,Kintetsu Buffaloes,57,"Furukubo, Kenji",C,78,204,174,0.207,0.277,0.333,0.610,19,17,36,24,6,2,4,58,0,2,17,0,49,1,0,13,0,41243860
+1992,Regular Season,Chiba Lotte Marines,30,"Morita, Yoshihiko",PR,49,10,7,0.143,0.333,0.143,0.476,2,0,1,1,0,0,0,1,0,0,2,0,4,0,0,1,0,41243862
+1992,Regular Season,Chiba Lotte Marines,47,"Nagano, Yoshinari",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243866
+1992,Regular Season,Yomiuri Giants,38,"Fujita, Hiromasa",C,26,44,41,0.195,0.250,0.220,0.470,3,4,8,7,1,0,0,9,0,0,3,0,5,1,0,0,0,41243867
+1992,Regular Season,Yomiuri Giants,19,"Yoshida, Shuji",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243868
+1992,Regular Season,Orix Bluewave,47,"Murakami, Shinichi",LF,55,119,109,0.275,0.328,0.404,0.732,12,17,30,21,6,1,2,44,1,1,7,0,25,1,2,0,1,41243869
+1992,Regular Season,Fukuoka Daiei Hawks,16,"Hashimoto, Takehiro",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243881
+1992,Regular Season,Nippon-Ham Fighters,53,"Ota, Yuji",LF,42,39,36,0.167,0.167,0.167,0.334,2,1,6,6,0,0,0,6,1,1,0,0,5,1,0,3,0,41243883
+1992,Japan Series,Seibu Lions,3,"Kiyohara, Kazuhiro",1B,7,,29,0.207,,0.345,,,2,6,4,1,0,1,10,0,,1,,5,,,,,41343862
+1992,Regular Season,Seibu Lions,3,"Kiyohara, Kazuhiro",1B,129,556,464,0.289,0.401,0.558,0.959,82,96,134,81,17,0,36,259,5,3,85,0,98,13,4,0,3,41343862
+1992,Regular Season,Chunichi Dragons,44,"Koyama, Kazuyoshi",PH,12,14,11,0.091,0.214,0.091,0.305,1,1,1,1,0,0,0,1,0,0,2,0,2,1,0,0,1,41343864
+1992,Regular Season,Kintetsu Buffaloes,6,"Kanemura, Yoshiaki",3B,102,390,335,0.260,0.355,0.427,0.782,50,44,87,60,11,3,13,143,5,3,48,4,66,7,2,4,1,41343865
+1992,Regular Season,Hiroshima Toyo Carp,17,"Kawabata, Jun",P,33,16,13,0.231,0.333,0.231,0.564,3,1,3,3,0,0,0,3,0,0,2,0,3,1,0,1,0,41343869
+1992,Regular Season,Yomiuri Giants,24,"Omori, Takeshi",PH,2,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,41343881
+1992,Regular Season,Chunichi Dragons,2,"Yano, Akihiro",C,72,118,108,0.259,0.314,0.315,0.629,10,8,28,22,6,0,0,34,0,1,8,0,20,3,1,0,1,41343883
+1992,Regular Season,Hiroshima Toyo Carp,10,"Kanemoto, Tomoaki",PH,5,5,3,0.000,0.250,0.000,0.250,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,41343885
+1992,Regular Season,Yomiuri Giants,21,"Miyamoto, Kazutomo",P,32,54,49,0.184,0.200,0.224,0.424,3,3,9,7,2,0,0,11,0,0,1,0,15,1,0,4,0,41443860
+1992,Regular Season,Yakult Swallows,46,"Ranbashi, Yukihito",P,28,8,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,1,0,41443862
+1992,Regular Season,Yokohama Taiyo Whales,46,"Miura, Daisuke",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41443885
+1992,Regular Season,Hanshin Tigers,55,"Tachibana, Yoshiie",PH,59,101,93,0.237,0.287,0.344,0.631,9,7,22,15,5,1,1,32,1,0,7,1,36,3,0,0,1,41543846
+1992,Regular Season,Nippon-Ham Fighters,18,"Kono, Hirofumi",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543860
+1992,Regular Season,Nippon-Ham Fighters,32,"Sakaguchi, Chisen",SS,20,18,15,0.200,0.250,0.200,0.450,5,2,3,3,0,0,0,3,1,1,1,0,3,0,0,2,0,41543862
+1992,Regular Season,Orix Bluewave,44,"Takahashi, Satoshi",LF,127,520,465,0.297,0.360,0.578,0.938,84,78,138,72,30,7,29,269,3,0,45,3,118,11,3,3,4,41543864
+1992,Regular Season,Yokohama Taiyo Whales,15,"Morita, Koki",P,57,31,26,0.077,0.111,0.077,0.188,1,1,2,2,0,0,0,2,0,0,1,0,8,1,0,4,0,41543866
+1992,Regular Season,Kintetsu Buffaloes,36,"Goseki, Masahiko",PH,7,10,10,0.100,0.100,0.100,0.200,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,41543869
+1992,Regular Season,Kintetsu Buffaloes,32,"Mizuguchi, Eiji",SS,53,48,43,0.209,0.261,0.233,0.494,4,2,9,8,1,0,0,10,3,0,3,0,10,1,0,2,0,41643883
+1992,Regular Season,Chiba Lotte Marines,15,"So, Katsuo",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743860
+1992,Regular Season,Nippon-Ham Fighters,6,"Tanaka, Yukio",DH,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,41743862
+1992,Regular Season,Nippon-Ham Fighters,22,"Tamura, Fujio",C,116,413,345,0.243,0.332,0.359,0.691,36,35,84,63,11,1,9,124,0,1,47,1,72,10,0,19,2,41743863
+1992,Regular Season,Kintetsu Buffaloes,60,"Nakatani, Tadami",PH,47,56,52,0.308,0.357,0.385,0.742,3,10,16,12,4,0,0,20,0,0,4,0,12,4,0,0,0,41743864
+1992,Regular Season,Orix Bluewave,38,"Takada, Makoto",C,56,155,132,0.273,0.331,0.348,0.679,8,18,36,27,8,1,0,46,0,0,12,0,14,3,1,7,3,41743866
+1992,Regular Season,Chunichi Dragons,43,"Igarashi, Akira",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743868
+1992,Japan Series,Seibu Lions,17,"Shintani, Hiroshi",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41743885
+1992,Regular Season,Seibu Lions,17,"Shintani, Hiroshi",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743885
+1992,Regular Season,Hiroshima Toyo Carp,2,"Seto, Terunobu",C,5,7,5,0.000,0.167,0.000,0.167,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,41843883
+1992,Regular Season,Yomiuri Giants,55,"Cary, Chuck",P,19,16,14,0.143,0.200,0.143,0.343,1,2,2,2,0,0,0,2,0,0,1,0,5,1,0,1,0,41843885
+1992,Regular Season,Orix Bluewave,10,"Fujii, Yasuo",RF,20,73,67,0.269,0.315,0.343,0.658,3,8,18,13,5,0,0,23,0,0,5,0,9,2,0,0,1,41943864
+1992,Regular Season,Orix Bluewave,46,"Kiyohara, Yuichi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943866
+1992,Regular Season,Nippon-Ham Fighters,36,"Fujishima, Seigo",LF,31,52,49,0.122,0.154,0.143,0.297,6,3,6,5,1,0,0,7,0,0,2,0,24,2,0,0,1,41943868
+1992,Japan Series,Yakult Swallows,42,"Paredes, Johnny",2B,3,,10,0.400,,0.400,,,1,4,4,0,0,0,4,0,,2,,4,,,,,43143885
+1992,Regular Season,Yakult Swallows,42,"Paredes, Johnny",2B,53,175,157,0.242,0.306,0.350,0.656,22,12,38,28,6,1,3,55,1,1,14,3,30,3,1,2,1,43143885
+1992,Regular Season,Hiroshima Toyo Carp,7,"Nomura, Kenjiro",SS,130,611,545,0.288,0.358,0.424,0.782,89,63,157,116,22,5,14,231,21,6,56,5,73,5,5,2,3,43243868
+1992,Regular Season,Chiba Lotte Marines,59,"Aoyagi, Susumu",C,107,362,322,0.245,0.307,0.385,0.692,38,41,79,53,16,1,9,124,0,0,26,0,84,8,3,10,1,43643868
+1992,Regular Season,Hiroshima Toyo Carp,63,"Matsui, Takamasa",PH,13,13,12,0.083,0.154,0.083,0.237,1,1,1,1,0,0,0,1,0,0,0,0,1,0,1,0,0,43743868
+1992,Regular Season,Chiba Lotte Marines,49,"Hirai, Mitsuchika",LF,99,321,281,0.281,0.345,0.370,0.715,21,32,79,60,14,4,1,104,1,0,30,0,27,2,0,5,5,43843868
+1992,Regular Season,Kintetsu Buffaloes,27,"Nakane, Hitoshi",CF,52,94,81,0.148,0.207,0.235,0.442,8,5,12,7,4,0,1,19,2,0,6,0,21,0,0,7,0,45643868
+1992,Regular Season,Chiba Lotte Marines,55,"Omura, Iwao",LF,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,47143868
+1992,Regular Season,Nippon-Ham Fighters,26,"Nishimura, Motofumi",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053860
+1992,Regular Season,Hiroshima Toyo Carp,27,"Hara, Shinji",PH,50,53,50,0.220,0.245,0.320,0.565,5,7,11,8,2,0,1,16,0,0,2,0,15,1,0,0,1,51053863
+1992,Regular Season,Yakult Swallows,20,"Nakamoto, Shigeki",P,33,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,51053867
+1992,Regular Season,Chiba Lotte Marines,45,"Jozume, Masahiko",C,25,64,57,0.140,0.197,0.246,0.443,7,4,8,4,3,0,1,14,0,2,4,0,13,0,0,3,0,51053883
+1992,Regular Season,Kintetsu Buffaloes,9,"Arai, Hiromasa",CF,106,341,295,0.220,0.294,0.319,0.613,38,25,65,46,12,4,3,94,2,1,29,0,32,6,3,11,3,51153840
+1992,Regular Season,Chiba Lotte Marines,33,"Ai, Eijiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51153860
+1992,Regular Season,Nippon-Ham Fighters,15,"Igarashi, Shinichi",LF,103,335,301,0.292,0.331,0.382,0.713,20,37,88,68,15,3,2,115,0,3,19,1,52,7,0,12,3,51153861
+1992,Japan Series,Yakult Swallows,10,"Arai, Yukio",LF,7,,20,0.250,,0.350,,,1,5,3,2,0,0,7,0,,2,,2,,,,,51153862
+1992,Regular Season,Yakult Swallows,10,"Arai, Yukio",LF,93,273,230,0.252,0.356,0.361,0.717,32,25,58,45,6,2,5,83,4,0,37,1,27,6,0,6,0,51153862
+1992,Japan Series,Seibu Lions,1,"Akiyama, Koji",CF,7,,25,0.280,,0.400,,,3,7,6,0,0,1,10,1,,4,,4,,,,,51153863
+1992,Regular Season,Seibu Lions,1,"Akiyama, Koji",CF,130,566,480,0.296,0.398,0.552,0.950,92,89,142,83,26,2,31,265,13,4,77,1,114,6,6,1,2,51153863
+1992,Regular Season,Kintetsu Buffaloes,14,"Awano, Hideyuki",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51153864
+1992,Regular Season,Fukuoka Daiei Hawks,29,"Yamamoto, Kazunori",LF,130,543,475,0.265,0.348,0.429,0.777,58,65,126,85,22,1,18,204,3,4,57,0,67,10,6,0,5,51253861
+1992,Regular Season,Orix Bluewave,8,"Matsunaga, Hiromi",3B,118,540,473,0.298,0.379,0.406,0.785,72,39,141,100,34,4,3,192,15,6,62,7,70,3,1,2,2,51253863
+1992,Regular Season,Kintetsu Buffaloes,15,"Yamasaki, Shintaro",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253864
+1992,Regular Season,Yomiuri Giants,7,"Yoshimura, Sadaaki",LF,91,248,224,0.317,0.375,0.442,0.817,25,32,71,55,10,0,6,99,1,0,20,2,22,5,2,0,2,51253865
+1992,Regular Season,Fukuoka Daiei Hawks,11,"Yoshida, Toyohiko",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253866
+1992,Regular Season,Yakult Swallows,29,"Nishimura, Tatsuji",P,36,74,61,0.098,0.141,0.098,0.239,2,1,6,6,0,0,0,6,0,0,3,0,30,1,0,10,0,51253881
+1992,Regular Season,Nippon-Ham Fighters,5,"Sumiyoshi, Yoshinori",PH,2,3,3,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,51253883
+1992,Regular Season,Yokohama Taiyo Whales,28,"Osanai, Takashi",1B,86,256,233,0.223,0.290,0.361,0.651,27,27,52,36,6,4,6,84,0,2,21,1,45,3,1,1,0,51353861
+1992,Regular Season,Yomiuri Giants,5,"Okazaki, Kaoru",3B,124,510,461,0.252,0.320,0.390,0.710,57,53,116,78,24,2,12,180,1,2,45,2,86,6,2,0,2,51353865
+1992,Regular Season,Nippon-Ham Fighters,43,"Uchiyama, Masahiro",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353881
+1992,Regular Season,Chunichi Dragons,28,"Anderson, Scott",P,31,45,39,0.103,0.125,0.179,0.304,1,3,4,3,0,0,1,7,0,0,1,0,19,0,0,5,0,51353883
+1992,Regular Season,Kintetsu Buffaloes,10,"Yamashita, Kazuhiko",C,54,93,82,0.207,0.278,0.220,0.498,3,4,17,16,1,0,0,18,0,0,5,0,22,2,3,3,0,51453862
+1992,Regular Season,Kintetsu Buffaloes,34,"Kinoshita, Fuminobu",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51453866
+1992,Regular Season,Yomiuri Giants,53,"Ogiwara, Mitsuru",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51453868
+1992,Japan Series,Seibu Lions,41,"Watanabe, Hisanobu",P,3,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,51453869
+1992,Regular Season,Seibu Lions,41,"Watanabe, Hisanobu",P,29,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,51453869
+1992,Japan Series,Yakult Swallows,5,"Sumi, Fujio",3B,2,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51553842
+1992,Regular Season,Yakult Swallows,5,"Sumi, Fujio",3B,79,76,66,0.197,0.280,0.303,0.583,5,8,13,10,1,0,2,20,0,1,8,2,14,1,0,1,1,51553842
+1992,Regular Season,Nippon-Ham Fighters,13,"Shibata, Yasumitsu",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553848
+1992,Regular Season,Hiroshima Toyo Carp,34,"Kawaguchi, Kazuhisa",P,26,71,62,0.161,0.188,0.177,0.365,3,3,10,9,1,0,0,11,0,0,2,0,26,0,0,7,0,51553863
+1992,Japan Series,Seibu Lions,47,"Kudo, Kimiyasu",P,1,,1,0.000,,0.000,,,1,0,0,0,0,0,0,0,,0,,0,,,,,51553865
+1992,Regular Season,Seibu Lions,47,"Kudo, Kimiyasu",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553865
+1992,Regular Season,Chunichi Dragons,61,"Kitano, Katsunori",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553866
+1992,Regular Season,Hanshin Tigers,22,"Kido, Katsuhiko",C,63,99,89,0.101,0.167,0.180,0.347,8,10,9,6,1,0,2,16,1,0,7,0,21,3,0,3,0,51553867
+1992,Regular Season,Chunichi Dragons,56,"Maehara, Hiroyuki",3B,112,379,335,0.269,0.343,0.424,0.767,37,32,90,58,21,2,9,142,3,3,34,3,94,11,4,6,0,51553868
+1992,Regular Season,Hanshin Tigers,13,"Kasai, Minoru",P,21,34,28,0.071,0.133,0.179,0.312,3,1,2,1,0,0,1,5,0,0,2,0,15,1,0,4,0,51553881
+1992,Regular Season,Yakult Swallows,22,"Takatsu, Shingo",P,27,27,21,0.048,0.091,0.048,0.139,1,1,1,1,0,0,0,1,0,0,1,0,8,0,0,5,0,51553883
+1992,Regular Season,Hanshin Tigers,8,"Kuji, Teruyoshi",SS,121,441,371,0.245,0.319,0.310,0.629,29,21,91,75,8,8,0,115,4,5,41,3,50,9,1,24,4,51553885
+1992,Regular Season,Kintetsu Buffaloes,21,"Yoshii, Masato",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51653860
+1992,Regular Season,Kintetsu Buffaloes,37,"Sano, Shigeki",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51653883
+1992,Regular Season,Hanshin Tigers,60,"Shimada, Akihiro",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,51753860
+1992,Regular Season,Seibu Lions,38,"Soma, Katsuya",C,11,16,15,0.067,0.125,0.067,0.192,0,0,1,1,0,0,0,1,0,0,1,0,4,1,0,0,0,51753862
+1992,Regular Season,Yokohama Taiyo Whales,30,"Deni, Tomori",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51753864
+1992,Regular Season,Yomiuri Giants,44,"Ogata, Koichi",2B,98,411,357,0.286,0.370,0.387,0.757,47,30,102,79,16,1,6,138,7,9,46,1,42,7,2,6,0,51853868
+1992,Regular Season,Nippon-Ham Fighters,9,"Marshall, Mike",RF,67,264,244,0.246,0.299,0.418,0.717,27,26,60,36,15,0,9,102,0,1,15,1,56,1,4,0,1,51853885
+1992,Regular Season,Chiba Lotte Marines,16,"Toyama, Shoji",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953862
+1992,Regular Season,Chunichi Dragons,41,"Tanaka, Tomio",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953867
+1992,Regular Season,Hanshin Tigers,20,"Watanabe, Nobuhiko",P,11,1,1,1.000,1.000,1.000,2.000,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,53153868
+1992,Regular Season,Yomiuri Giants,49,"Moseby, Lloyd",CF,96,385,337,0.306,0.387,0.579,0.966,60,71,103,62,15,1,25,195,6,4,42,2,90,1,4,0,2,53153885
+1992,Regular Season,Hiroshima Toyo Carp,33,"Eto, Akira",3B,89,317,277,0.289,0.366,0.513,0.879,41,45,80,50,14,0,16,142,2,2,32,2,51,4,3,3,2,53253868
+1992,Regular Season,Hanshin Tigers,00,"Kameyama, Tsutomu",RF,131,548,488,0.287,0.343,0.369,0.712,65,28,140,115,14,7,4,180,15,13,41,1,94,6,2,15,2,53553868
+1992,Regular Season,Chiba Lotte Marines,44,"Shimada, Shigeru",DH,44,142,124,0.242,0.331,0.371,0.702,10,14,30,21,5,1,3,46,0,0,16,1,25,2,1,0,1,53853868
+1992,Regular Season,Yakult Swallows,53,"Koda, Masahiro",SS,3,5,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,55253868
+1992,Regular Season,Kintetsu Buffaloes,8,"Yonezaki, Kunji",SS,5,9,9,0.222,0.222,0.222,0.444,0,0,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,55653868
+1992,Regular Season,Orix Bluewave,26,"Ito, Takahide",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55853868
+1992,Regular Season,Orix Bluewave,12,"Yamaoki, Yukihiko",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61063865
+1992,Regular Season,Chiba Lotte Marines,25,"Hiranuma, Sadaharu",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61063869
+1992,Regular Season,Nippon-Ham Fighters,34,"Minami, Ryuji",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61063883
+1992,Regular Season,Yomiuri Giants,23,"Ueda, Kazuaki",SS,40,79,67,0.179,0.214,0.269,0.483,8,5,12,9,1,1,1,18,1,0,2,0,13,0,1,9,0,61163860
+1992,Regular Season,Hiroshima Toyo Carp,23,"Ueda, Yukihiro",C,21,18,15,0.133,0.235,0.333,0.568,2,1,2,1,0,0,1,5,0,0,2,0,5,0,0,1,0,61163862
+1992,Regular Season,Nippon-Ham Fighters,47,"Ogawa, Junji",LF,47,58,48,0.146,0.212,0.271,0.483,5,3,7,5,0,0,2,13,0,0,3,0,16,0,1,6,0,61163865
+1992,Regular Season,Fukuoka Daiei Hawks,21,"Ikeda, Chikafusa",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61163869
+1992,Regular Season,Chunichi Dragons,38,"Inoe, Kazuki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61163881
+1992,Regular Season,Orix Bluewave,35,"Furumizo, Katsuyuki",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61263860
+1992,Regular Season,Chunichi Dragons,46,"Yamauchi, Kazuhiro",P,13,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61263863
+1992,Regular Season,Nippon-Ham Fighters,56,"Watanabe, Hiroshi",PH,19,27,24,0.208,0.296,0.250,0.546,6,2,5,4,1,0,0,6,0,0,1,0,11,0,2,0,0,61263864
+1992,Regular Season,Yokohama Taiyo Whales,44,"Futamura, Tadami",PH,10,12,9,0.111,0.333,0.111,0.444,1,2,1,1,0,0,0,1,0,0,3,0,4,0,0,0,0,61263867
+1992,Regular Season,Yomiuri Giants,26,"Matsutani, Ryujiro",P,6,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61263868
+1992,Regular Season,Kintetsu Buffaloes,5,"Murakami, Takayuki",CF,116,443,388,0.250,0.324,0.472,0.796,63,59,97,54,20,3,20,183,15,5,44,0,106,4,0,8,3,61263869
+1992,Regular Season,Kintetsu Buffaloes,7,"Hatayama, Shunji",RF,10,12,11,0.091,0.167,0.091,0.258,1,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,61263881
+1992,Regular Season,Fukuoka Daiei Hawks,20,"Kimura, Keiji",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61263883
+1992,Regular Season,Fukuoka Daiei Hawks,0,"Hamana, Chihiro",SS,124,353,314,0.239,0.296,0.331,0.627,35,30,75,57,12,1,5,104,9,2,26,0,76,8,0,12,1,61263885
+1992,Regular Season,Chiba Lotte Marines,6,"Kamikawa, Seiji",PH,57,102,95,0.221,0.260,0.284,0.544,5,5,21,17,3,0,1,27,0,0,5,0,8,1,0,2,0,61363865
+1992,Regular Season,Kintetsu Buffaloes,30,"Kato, Tetsuro",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363867
+1992,Regular Season,Chunichi Dragons,42,"Shimizu, Masaji",CF,114,397,341,0.229,0.315,0.311,0.626,49,22,78,59,14,1,4,106,14,10,43,0,63,9,1,10,2,61363868
+1992,Regular Season,Chunichi Dragons,31,"Yamamoto, Yasushi",SS,23,48,42,0.167,0.239,0.214,0.453,6,2,7,5,2,0,0,9,0,0,3,0,8,1,1,2,0,61363883
+1992,Regular Season,Yokohama Taiyo Whales,2,"Yamazaki, Kenichi",CF,62,188,163,0.258,0.326,0.344,0.670,23,19,42,31,9,1,1,56,9,1,17,1,27,2,1,4,3,61463860
+1992,Regular Season,Hanshin Tigers,4,"Yamawaki, Koji",PR,19,10,9,0.333,0.333,0.444,0.777,2,0,3,2,1,0,0,4,0,0,0,0,3,0,0,1,0,61463867
+1992,Regular Season,Fukuoka Daiei Hawks,44,"Laga, Mike",DH,12,35,32,0.156,0.200,0.469,0.669,4,6,5,1,1,0,3,15,0,0,2,0,13,3,0,0,1,61463883
+1992,Regular Season,Yomiuri Giants,48,"Koda, Isao",P,22,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563860
+1992,Regular Season,Hiroshima Toyo Carp,52,"Ishibashi, Fumio",LF,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61563866
+1992,Regular Season,Yomiuri Giants,10,"Komada, Norihiro",RF,130,556,505,0.307,0.367,0.521,0.888,73,64,155,102,25,1,27,263,1,4,47,7,70,10,2,0,2,61563867
+1992,Regular Season,Chunichi Dragons,55,"Taiho, Yasuaki",LF,81,280,251,0.267,0.343,0.478,0.821,24,39,67,37,18,1,11,120,0,2,27,3,52,7,2,0,0,61563868
+1992,Regular Season,Seibu Lions,59,"Kitahara, Taiji",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563881
+1992,Regular Season,Yokohama Taiyo Whales,11,"Saito, Takashi",P,7,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,61563885
+1992,Regular Season,Chiba Lotte Marines,7,"Minamibuchi, Tokitaka",SS,105,362,299,0.254,0.334,0.351,0.685,34,27,76,55,16,2,3,105,2,1,35,1,40,6,2,24,2,61663881
+1992,Regular Season,Yokohama Taiyo Whales,3,"Takagi, Yutaka",2B,131,599,500,0.300,0.394,0.402,0.796,76,39,150,111,32,2,5,201,24,12,81,5,62,7,1,10,7,61763863
+1992,Regular Season,Chunichi Dragons,39,"Nakamura, Takeshi",C,113,391,351,0.245,0.314,0.365,0.679,25,31,86,60,16,4,6,128,1,1,34,5,57,7,2,3,1,61763864
+1992,Regular Season,Hiroshima Toyo Carp,9,"Choshi, Toshio",PH,13,9,7,0.143,0.333,0.143,0.476,1,0,1,1,0,0,0,1,1,0,2,0,4,0,0,0,0,61763869
+1992,Regular Season,Yokohama Taiyo Whales,22,"Sasaki, Kazuhiro",P,53,14,13,0.154,0.154,0.154,0.308,0,2,2,2,0,0,0,2,0,0,0,0,7,0,0,1,0,61763881
+1992,Regular Season,Orix Bluewave,15,"Nomura, Takahito",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61763883
+1992,Regular Season,Yokohama Taiyo Whales,26,"Sheets, Larry",LF,131,537,487,0.308,0.365,0.542,0.907,61,100,150,90,32,2,26,264,1,0,40,7,59,17,6,0,4,61863885
+1992,Regular Season,Yokohama Taiyo Whales,31,"Yashiki, Kaname",CF,115,406,365,0.277,0.340,0.353,0.693,41,31,101,79,18,2,2,129,8,8,36,0,62,2,0,3,2,61963846
+1992,Regular Season,Hanshin Tigers,34,"Nakada, Koji",P,35,78,71,0.155,0.155,0.197,0.352,3,3,11,8,3,0,0,14,0,0,0,0,18,0,0,7,0,61963860
+1992,Japan Series,Seibu Lions,4,"Tomashino, Seiji",LF,4,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,61963867
+1992,Regular Season,Seibu Lions,4,"Tomashino, Seiji",LF,107,194,166,0.295,0.355,0.398,0.753,26,19,49,39,6,1,3,66,16,4,14,0,21,5,2,11,1,61963867
+1992,Regular Season,Hanshin Tigers,19,"Nakanishi, Kiyoki",P,32,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,61963869
+1992,Regular Season,Seibu Lions,34,"Suzuki, Tetsu",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963881
+1992,Regular Season,Hiroshima Toyo Carp,35,"Mochizuki, Hidetsugu",P,47,16,12,0.417,0.500,0.833,1.333,3,3,5,2,2,0,1,10,0,0,2,0,4,1,0,2,0,63063868
+1992,Regular Season,Hanshin Tigers,99,"Nakagomi, Shin",P,29,76,64,0.094,0.121,0.094,0.215,1,1,6,6,0,0,0,6,0,0,2,0,29,1,0,10,0,63163868
+1992,Regular Season,Kintetsu Buffaloes,35,"Reid, Jessie",LF,77,296,246,0.232,0.355,0.402,0.757,33,37,57,36,10,1,10,99,0,0,47,0,66,5,1,0,2,63163883
+1992,Regular Season,Chiba Lotte Marines,11,"Maeda, Yukinaga",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63463868
+1992,Regular Season,Chiba Lotte Marines,39,"Fukuzawa, Yoichi",C,40,36,32,0.125,0.200,0.125,0.325,1,1,4,4,0,0,0,4,0,0,3,1,12,0,0,1,0,63663868
+1992,Regular Season,Hiroshima Toyo Carp,22,"Adachi, Wataru",P,6,6,5,0.000,0.167,0.000,0.167,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,63963868
+1992,Regular Season,Yokohama Taiyo Whales,39,"Akimoto, Kosaku",C,98,283,244,0.213,0.299,0.295,0.594,20,27,52,37,12,1,2,72,2,0,29,3,51,5,2,5,3,65163868
+1992,Regular Season,Yokohama Taiyo Whales,66,"Ishii, Takuro",3B,69,250,219,0.269,0.312,0.352,0.664,26,23,59,50,3,3,3,77,4,1,12,0,33,4,2,16,1,65563868
+1992,Regular Season,Kintetsu Buffaloes,43,"Matsukubo, Shingo",RF,20,50,44,0.159,0.260,0.227,0.487,3,1,7,4,3,0,0,10,0,0,6,1,14,3,0,0,0,65663868
+1992,Regular Season,Orix Bluewave,29,"Takashima, Toru",PH,2,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65863868
+1992,Regular Season,Nippon-Ham Fighters,1,"Hirose, Tetsuro",SS,96,171,146,0.260,0.303,0.336,0.639,18,14,38,30,6,1,1,49,7,0,8,0,19,3,1,16,0,71073862
+1992,Regular Season,Yomiuri Giants,8,"Hara, Tatsunori",1B,117,493,437,0.272,0.349,0.508,0.857,61,77,119,73,17,1,28,222,4,3,46,1,71,13,7,0,3,71073863
+1992,Regular Season,Nippon-Ham Fighters,52,"Tanaka, Minoru",PH,68,125,110,0.191,0.258,0.209,0.467,11,9,21,19,2,0,0,23,5,6,10,0,12,1,0,5,0,71073866
+1992,Regular Season,Nippon-Ham Fighters,27,"Kawana, Shinichi",PR,22,8,8,0.250,0.250,0.250,0.500,9,0,2,2,0,0,0,2,1,0,0,0,4,0,0,0,0,71073868
+1992,Japan Series,Seibu Lions,27,"Ito, Tsutomu",C,7,,23,0.217,,0.217,,,2,5,5,0,0,0,5,0,,2,,5,,,,,71173865
+1992,Regular Season,Seibu Lions,27,"Ito, Tsutomu",C,124,443,365,0.263,0.350,0.351,0.701,52,49,96,75,14,3,4,128,10,2,45,3,59,3,6,23,4,71173865
+1992,Regular Season,Hiroshima Toyo Carp,30,"Oto, Shigeki",RF,85,76,73,0.260,0.270,0.411,0.681,12,4,19,12,5,0,2,30,0,0,1,0,10,1,0,2,0,71173866
+1992,Japan Series,Yakult Swallows,11,"Araki, Daisuke",P,2,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71173867
+1992,Regular Season,Yakult Swallows,11,"Araki, Daisuke",P,5,5,5,0.200,0.200,0.200,0.400,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,71173867
+1992,Regular Season,Chunichi Dragons,14,"Imanaka, Shinji",P,11,29,25,0.160,0.192,0.160,0.352,3,1,4,4,0,0,0,4,0,0,1,0,11,0,0,3,0,71173868
+1992,Regular Season,Fukuoka Daiei Hawks,41,"Aoi, Kaname",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71173869
+1992,Regular Season,Yomiuri Giants,39,"Yoshihara, Kosuke",C,49,88,74,0.270,0.372,0.297,0.669,11,8,20,18,2,0,0,22,2,0,12,2,17,3,0,2,0,71173883
+1992,Japan Series,Yakult Swallows,8,"Hirosawa, Katsumi",1B,7,,28,0.179,,0.286,,,1,5,4,0,0,1,8,0,,4,,8,,,,,71273860
+1992,Regular Season,Yakult Swallows,8,"Hirosawa, Katsumi",1B,131,577,503,0.276,0.365,0.461,0.826,84,85,139,96,18,0,25,232,3,0,70,0,130,16,1,1,2,71273860
+1992,Regular Season,Orix Bluewave,36,"Yamamori, Masafumi",RF,89,119,107,0.206,0.239,0.252,0.491,7,8,22,18,3,1,0,27,3,0,4,0,17,2,1,6,1,71273861
+1992,Regular Season,Yokohama Taiyo Whales,29,"Matsumoto, Yutaka",P,30,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,71273862
+1992,Regular Season,Nippon-Ham Fighters,8,"Bathe, Bill",DH,40,131,115,0.191,0.282,0.252,0.534,7,11,22,17,3,2,0,29,1,0,15,0,32,4,0,0,1,71273883
+1992,Japan Series,Seibu Lions,26,"Katori, Yoshitaka",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71373848
+1992,Regular Season,Seibu Lions,26,"Katori, Yoshitaka",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373848
+1992,Regular Season,Chiba Lotte Marines,38,"Okabe, Akihito",LF,9,35,34,0.206,0.229,0.353,0.582,2,1,7,4,2,0,1,12,0,0,1,0,2,0,0,0,0,71373860
+1992,Regular Season,Yokohama Taiyo Whales,16,"Kakehata, Mitsunori",P,57,9,8,0.000,0.111,0.000,0.111,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,71373865
+1992,Regular Season,Chunichi Dragons,45,"Morita, Koichi",P,42,20,18,0.167,0.167,0.167,0.334,0,0,3,3,0,0,0,3,0,0,0,0,7,0,0,2,0,71373883
+1992,Regular Season,Hiroshima Toyo Carp,25,"Yamada, Kazutoshi",2B,93,335,266,0.282,0.387,0.410,0.797,44,29,75,57,10,0,8,109,6,2,42,1,60,1,5,20,2,71473862
+1992,Regular Season,Kintetsu Buffaloes,20,"Takayanagi, Izumi",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71473866
+1992,Regular Season,Hanshin Tigers,56,"Mikoshiba, Susumu",P,31,7,6,0.000,0.143,0.000,0.143,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,71473867
+1992,Regular Season,Yokohama Taiyo Whales,35,"Hiratsuka, Katsuhiro",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71473881
+1992,Regular Season,Yakult Swallows,23,"Masuda, Masayuki",P,10,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,71473885
+1992,Regular Season,Fukuoka Daiei Hawks,53,"Kadota, Hiromitsu",DH,65,179,155,0.258,0.341,0.432,0.773,15,23,40,27,6,0,7,67,0,0,19,3,37,5,2,0,3,71573841
+1992,Regular Season,Yomiuri Giants,2,"Kumano, Terumitsu",PH,74,90,74,0.162,0.281,0.270,0.551,8,6,12,6,4,2,0,20,1,0,12,0,17,1,1,1,2,71573860
+1992,Regular Season,Chunichi Dragons,37,"Kitamura, Terufumi",RF,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71573861
+1992,Regular Season,Yokohama Taiyo Whales,5,"Shimizu, Yoshiyuki",3B,96,352,278,0.223,0.313,0.306,0.619,35,29,62,48,9,1,4,85,2,2,36,1,51,7,2,32,4,71573866
+1992,Regular Season,Chunichi Dragons,54,"Matsui, Tatsunori",RF,16,41,39,0.256,0.293,0.436,0.729,4,4,10,7,1,0,2,17,0,0,2,0,10,0,0,0,0,71673881
+1992,Regular Season,Seibu Lions,12,"Suzuki, Yasutomo",3B,33,26,23,0.348,0.423,0.435,0.858,1,2,8,6,2,0,0,10,0,0,1,0,4,0,2,0,0,71773861
+1992,Regular Season,Chiba Lotte Marines,28,"Sonokawa, Kazumi",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773862
+1992,Japan Series,Yakult Swallows,38,"Dobashi, Katsuyuki",LF,4,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,71773864
+1992,Regular Season,Yakult Swallows,38,"Dobashi, Katsuyuki",LF,59,120,108,0.287,0.333,0.546,0.879,14,16,31,15,10,0,6,59,2,0,8,2,25,2,0,3,1,71773864
+1992,Regular Season,Orix Bluewave,31,"Shibahara, Minoru",RF,104,275,244,0.254,0.315,0.385,0.700,24,26,62,41,14,3,4,94,6,4,20,2,39,2,3,5,3,71773867
+1992,Regular Season,Nippon-Ham Fighters,14,"Sakai, Mitsujiro",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773881
+1992,Regular Season,Chunichi Dragons,4,"Sano, Kokoro",LF,21,10,10,0.100,0.100,0.300,0.400,5,1,1,0,0,1,0,3,3,0,0,0,1,0,0,0,0,71773885
+1992,Regular Season,Chiba Lotte Marines,8,"Venable, Max",RF,111,482,425,0.268,0.346,0.440,0.786,57,50,114,71,26,4,13,187,13,6,49,5,65,8,4,0,4,71873885
+1992,Regular Season,Yokohama Taiyo Whales,6,"Takahashi, Masahiro",PR,22,25,22,0.136,0.240,0.182,0.422,3,1,3,2,1,0,0,4,1,0,3,0,10,0,0,0,0,71973860
+1992,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",SS,40,55,48,0.167,0.200,0.208,0.408,2,6,8,6,2,0,0,10,3,0,0,0,8,2,2,5,0,71973865
+1992,Regular Season,Seibu Lions,32,"Haraguchi, Tetsuya",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973866
+1992,Regular Season,Nippon-Ham Fighters,51,"Ushiyama, Tsutomu",C,5,2,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71973868
+1992,Japan Series,Seibu Lions,16,"Shiozaki, Tetsuya",P,3,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71973881
+1992,Regular Season,Seibu Lions,16,"Shiozaki, Tetsuya",P,47,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71973881
+1992,Regular Season,Hanshin Tigers,49,"Hattori, Hiroaki",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73173868
+1992,Regular Season,Yokohama Taiyo Whales,25,"Miyakawa, Kazuhiko",PH,21,24,23,0.261,0.292,0.348,0.640,2,0,6,4,2,0,0,8,0,0,1,0,4,0,0,0,0,73173883
+1992,Regular Season,Chunichi Dragons,1,"Taneda, Hitoshi",SS,102,357,317,0.246,0.284,0.334,0.618,42,27,78,60,11,4,3,106,7,2,17,1,35,0,0,22,1,73373881
+1992,Regular Season,Chiba Lotte Marines,5,"Hori, Koichi",2B,105,462,409,0.281,0.351,0.416,0.767,66,38,115,79,25,3,8,170,11,4,43,3,63,6,2,6,2,73873868
+1992,Regular Season,Fukuoka Daiei Hawks,47,"Hironaga, Yasutaka",LF,81,171,153,0.176,0.263,0.333,0.596,13,18,27,16,4,1,6,51,0,1,18,0,48,0,0,0,0,73973868
+1992,Regular Season,Seibu Lions,54,"Nakamura, Hideo",DH,2,4,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,75373868
+1992,Regular Season,Yokohama Taiyo Whales,27,"Tanabe, Manabu",P,36,44,37,0.189,0.231,0.243,0.474,3,3,7,5,2,0,0,9,0,0,2,0,18,0,0,5,0,75573868
+1992,Regular Season,Seibu Lions,31,"Moriyama, Ryoji",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81083864
+1992,Regular Season,Yokohama Taiyo Whales,24,"Endo, Kazuhiko",P,14,20,19,0.105,0.105,0.105,0.210,0,0,2,2,0,0,0,2,0,0,0,0,5,2,0,1,0,81183846
+1992,Regular Season,Chunichi Dragons,6,"Ochiai, Hiromitsu",1B,116,481,384,0.292,0.422,0.526,0.948,58,71,112,67,22,1,22,202,2,3,88,8,74,12,3,0,6,81183848
+1992,Regular Season,Orix Bluewave,3,"Ishimine, Kazuhiko",DH,130,549,506,0.267,0.321,0.407,0.728,56,68,135,100,17,0,18,206,2,2,37,2,66,17,4,0,2,81183863
+1992,Japan Series,Yakult Swallows,1,"Ikeyama, Takahiro",SS,7,,30,0.233,,0.433,,,3,7,5,0,0,2,13,1,,0,,7,,,,,81183869
+1992,Regular Season,Yakult Swallows,1,"Ikeyama, Takahiro",SS,127,536,477,0.279,0.350,0.537,0.887,74,79,133,72,29,2,30,256,13,5,52,3,148,9,2,1,4,81183869
+1992,Japan Series,Yakult Swallows,0,"Yanada, Masao",PR,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,81283862
+1992,Regular Season,Yakult Swallows,0,"Yanada, Masao",PR,15,5,5,0.200,0.200,0.200,0.400,1,0,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,81283862
+1992,Regular Season,Fukuoka Daiei Hawks,19,"Yamauchi, Takanori",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81283863
+1992,Regular Season,Chiba Lotte Marines,24,"Yamashita, Norihito",PH,11,21,18,0.111,0.238,0.222,0.460,2,2,2,1,0,1,0,4,0,0,1,0,7,1,2,0,0,81283866
+1992,Regular Season,Yomiuri Giants,30,"Hashimoto, Kiyoshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81283868
+1992,Regular Season,Yomiuri Giants,9,"Murata, Shinichi",C,34,92,86,0.233,0.283,0.407,0.690,9,9,20,11,6,0,3,35,0,1,5,0,28,0,1,0,0,81283869
+1992,Regular Season,Nippon-Ham Fighters,11,"Oshima, Yasunori",1B,98,269,236,0.258,0.340,0.352,0.692,24,28,61,49,7,0,5,83,1,0,30,1,44,7,0,1,2,81383843
+1992,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",2B,67,257,241,0.266,0.305,0.307,0.612,22,21,64,54,10,0,0,74,2,1,14,3,35,4,0,1,1,81383844
+1992,Regular Season,Chiba Lotte Marines,23,"Sato, Kenichi",SS,73,188,154,0.208,0.285,0.312,0.597,13,11,32,24,4,0,4,48,1,1,15,1,29,1,2,16,1,81383848
+1992,Regular Season,Fukuoka Daiei Hawks,8,"Kishikawa, Katsuya",PH,87,219,180,0.222,0.356,0.317,0.673,16,20,40,31,5,0,4,57,0,0,37,4,47,6,1,0,1,81383860
+1992,Regular Season,Chunichi Dragons,33,"Kaku, Genji",P,19,28,25,0.160,0.160,0.160,0.320,0,2,4,4,0,0,0,4,0,1,0,0,8,1,0,3,0,81383863
+1992,Regular Season,Chiba Lotte Marines,57,"Sato, Yukihiko",LF,53,148,128,0.219,0.287,0.398,0.685,13,12,28,15,7,2,4,51,0,0,13,0,34,2,0,5,2,81383864
+1992,Japan Series,Yakult Swallows,31,"Hashigami, Hideki",RF,4,,8,0.625,,1.125,,,1,5,3,1,0,1,9,1,,1,,0,,,,,81383866
+1992,Regular Season,Yakult Swallows,31,"Hashigami, Hideki",RF,107,205,176,0.227,0.328,0.381,0.709,24,18,40,27,5,2,6,67,5,3,27,0,37,6,0,1,1,81383866
+1992,Regular Season,Yokohama Taiyo Whales,50,"Okamoto, Ryuji",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81383881
+1992,Regular Season,Chunichi Dragons,16,"Ryal, Mark",RF,7,22,20,0.300,0.364,0.350,0.714,1,1,6,5,1,0,0,7,0,0,2,1,1,1,0,0,0,81383883
+1992,Regular Season,Chiba Lotte Marines,46,"Kawamoto, Yasuyuki",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383885
+1992,Regular Season,Fukuoka Daiei Hawks,6,"Yugamidani, Hiroshi",2B,130,410,367,0.286,0.330,0.376,0.706,47,40,105,86,11,2,6,138,15,2,25,0,67,3,1,13,4,81483860
+1992,Regular Season,Hanshin Tigers,52,"Furusato, Yasutaka",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81483881
+1992,Regular Season,Orix Bluewave,20,"Motohigashi, Hiroshi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81483885
+1992,Regular Season,Hiroshima Toyo Carp,40,"Tatsukawa, Mitsuo",C,100,283,236,0.233,0.347,0.250,0.597,17,14,55,51,4,0,0,59,2,1,36,8,29,11,5,6,0,81583846
+1992,Regular Season,Kintetsu Buffaloes,17,"Sasaki, Osamu",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583860
+1992,Regular Season,Hiroshima Toyo Carp,37,"Ogata, Koichi",LF,86,127,115,0.226,0.282,0.330,0.612,25,10,26,20,3,0,3,38,18,1,8,0,21,2,1,3,0,81583866
+1992,Regular Season,Yomiuri Giants,11,"Saito, Masaki",P,31,76,57,0.193,0.281,0.298,0.579,4,4,11,8,1,1,1,17,0,0,7,0,18,0,0,12,0,81583869
+1992,Regular Season,Chiba Lotte Marines,31,"Takazawa, Hideaki",LF,67,145,128,0.180,0.255,0.273,0.528,16,7,23,17,3,0,3,35,6,0,11,1,19,4,2,4,0,81783861
+1992,Regular Season,Yokohama Taiyo Whales,47,"Takada, Hirohisa",P,15,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,81783862
+1992,Regular Season,Yomiuri Giants,29,"Nishioka, Yoshihiro",LF,70,160,147,0.231,0.278,0.374,0.652,14,20,34,21,9,0,4,55,0,0,10,2,18,1,0,2,1,81783865
+1992,Regular Season,Seibu Lions,19,"Matsubara, Yasushi",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783866
+1992,Regular Season,Yokohama Taiyo Whales,48,"Shimada, Naoya",P,15,11,9,0.111,0.200,0.111,0.311,0,1,1,1,0,0,0,1,0,0,1,0,5,0,0,1,0,81783868
+1992,Regular Season,Hiroshima Toyo Carp,13,"Tsuno, Hiroshi",RF,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783869
+1992,Regular Season,Orix Bluewave,45,"Sato, Kazuhiro",PH,35,43,37,0.162,0.233,0.162,0.395,2,4,6,6,0,0,0,6,0,0,3,0,2,1,1,0,2,81783881
+1992,Regular Season,Orix Bluewave,17,"Hasegawa, Shigetoshi",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783883
+1992,Regular Season,Chunichi Dragons,29,"Yoda, Tsuyoshi",P,41,13,13,0.077,0.077,0.154,0.231,0,0,1,0,1,0,0,2,0,0,0,0,6,0,0,0,0,81883881
+1992,Regular Season,Yokohama Taiyo Whales,34,"Mizuo, Yoshitaka",P,10,8,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,1,0,81883883
+1992,Regular Season,Orix Bluewave,00,"Martinez, Carmelo",1B,42,181,150,0.227,0.359,0.393,0.752,21,23,34,22,5,1,6,59,0,1,30,0,33,6,1,0,0,81883885
+1992,Regular Season,Yomiuri Giants,27,"Fukuo, Akihito",PH,30,46,43,0.186,0.222,0.302,0.524,1,1,8,3,5,0,0,13,0,0,2,0,6,1,0,1,0,81983864
+1992,Regular Season,Orix Bluewave,14,"Yamauchi, Yoshihiro",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81983866
+1992,Regular Season,Chiba Lotte Marines,22,"Suzuki, Toshio",PH,3,6,5,0.200,0.333,0.200,0.533,0,2,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,81983881
+1992,Japan Series,Seibu Lions,9,"Narahara, Hiroshi",SS,6,,3,0.333,,0.333,,,1,1,1,0,0,0,1,0,,0,,1,,,,,81983883
+1992,Regular Season,Seibu Lions,9,"Narahara, Hiroshi",SS,66,40,35,0.171,0.237,0.200,0.437,9,4,6,5,1,0,0,7,3,1,3,0,7,0,0,2,0,81983883
+1992,Regular Season,Chiba Lotte Marines,12,"Tanba, Kenji",PH,5,10,10,0.100,0.100,0.200,0.300,1,2,1,0,1,0,0,2,0,0,0,0,2,0,0,0,0,81983885
+1992,Regular Season,Nippon-Ham Fighters,10,"Winters, Matt",DH,120,503,426,0.282,0.390,0.582,0.972,70,79,120,63,21,1,35,248,1,0,75,9,77,12,1,0,1,83183881
+1992,Regular Season,Yomiuri Giants,49,"Gonzalez, Denny",LF,1,3,2,0.500,0.667,0.500,1.167,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,83183883
+1992,Regular Season,Kintetsu Buffaloes,33,"Davis, Alvin",DH,40,147,131,0.275,0.347,0.412,0.759,10,12,36,28,3,0,5,54,1,1,14,0,19,3,1,0,1,83183885
+1992,Regular Season,Hanshin Tigers,62,"Ayukawa, Yoshifumi",PH,4,5,5,0.400,0.400,0.600,1.000,1,0,2,1,1,0,0,3,0,0,0,0,1,0,0,0,0,83383868
+1992,Regular Season,Chiba Lotte Marines,17,"Konno, Takahiro",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83483868
+1992,Regular Season,Chiba Lotte Marines,68,"Inokubo, Goichi",C,3,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,83683868
+1992,Regular Season,Fukuoka Daiei Hawks,37,"Mifune, Hideyuki",LF,47,77,68,0.235,0.288,0.324,0.612,14,2,16,12,3,0,1,22,2,0,5,0,10,2,0,4,0,83783868
+1992,Japan Series,Seibu Lions,11,"Ishii, Takehiro",P,1,,3,0.333,,0.333,,,1,1,1,0,0,0,1,0,,0,,2,,,,,83883868
+1992,Regular Season,Seibu Lions,11,"Ishii, Takehiro",P,39,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,83883868
+1992,Regular Season,Kintetsu Buffaloes,31,"Yamada, Masami",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85283868
+1992,Japan Series,Seibu Lions,20,"Mori, Hiroyuki",PH,2,,2,0.500,,0.500,,,2,1,1,0,0,0,1,0,,0,,0,,,,,85383868
+1992,Regular Season,Seibu Lions,20,"Mori, Hiroyuki",PH,45,53,50,0.140,0.189,0.180,0.369,3,4,7,5,2,0,0,9,0,0,3,0,12,0,0,0,0,85383868
+1992,Regular Season,Yokohama Taiyo Whales,1,"Tanishige, Motonobu",C,74,186,162,0.191,0.280,0.284,0.564,16,9,31,20,9,0,2,46,0,0,18,5,34,2,2,4,0,85583868
+1992,Regular Season,Orix Bluewave,39,"Hamuro, Taro",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,85883868
+1992,Regular Season,Fukuoka Daiei Hawks,28,"Niura, Hisao",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91093843
+1992,Regular Season,Yakult Swallows,49,"Niura, Hisao",P,14,6,6,0.167,0.167,0.167,0.334,0,2,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,91093843
+1992,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",SS,50,129,111,0.252,0.325,0.315,0.640,16,13,28,21,7,0,0,35,3,0,12,0,22,3,1,3,2,91093866
+1992,Regular Season,Hiroshima Toyo Carp,28,"Nishida, Shinji",RF,93,296,255,0.231,0.319,0.353,0.672,23,32,59,38,16,0,5,90,5,0,35,3,49,3,0,1,5,91093867
+1992,Regular Season,Chunichi Dragons,5,"Nimura, Toru",PH,87,151,132,0.212,0.311,0.326,0.637,10,14,28,21,3,0,4,43,0,0,18,0,27,4,1,0,0,91093869
+1992,Regular Season,Hiroshima Toyo Carp,24,"Ono, Yutaka",P,42,13,11,0.091,0.091,0.091,0.182,0,0,1,1,0,0,0,1,0,0,0,0,5,0,0,2,0,91193844
+1992,Japan Series,Yakult Swallows,18,"Ito, Akimitsu",P,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91193862
+1992,Regular Season,Yakult Swallows,18,"Ito, Akimitsu",P,36,54,44,0.159,0.196,0.182,0.378,2,2,7,6,1,0,0,8,0,0,2,0,17,0,0,8,0,91193862
+1992,Regular Season,Chunichi Dragons,48,"Komori, Tetsuya",PR,9,2,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193866
+1992,Regular Season,Chiba Lotte Marines,19,"Ibe, Yasuji",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193867
+1992,Regular Season,Yokohama Taiyo Whales,0,"Aoyama, Michio",PH,38,39,34,0.265,0.333,0.412,0.745,2,11,9,6,2,0,1,14,0,0,4,0,8,0,0,0,1,91193869
+1992,Regular Season,Yokohama Taiyo Whales,12,"Azuse, Kotaro",P,24,3,2,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,91193881
+1992,Regular Season,Orix Bluewave,1,"Fukura, Junichi",2B,114,492,409,0.284,0.368,0.364,0.732,57,37,116,93,16,4,3,149,13,5,50,1,52,5,6,24,3,91293860
+1992,Regular Season,Yakult Swallows,66,"Yamada, Tsutomu",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91293864
+1992,Regular Season,Hiroshima Toyo Carp,20,"Kitabeppu, Manabu",P,26,65,58,0.086,0.172,0.086,0.258,5,2,5,5,0,0,0,5,0,0,6,0,37,1,0,1,0,91393842
+1992,Regular Season,Orix Bluewave,11,"Sato, Yoshinori",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393844
+1992,Regular Season,Yomiuri Giants,13,"Okada, Hirokazu",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393862
+1992,Regular Season,Chunichi Dragons,11,"Ono, Kazuyuki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393863
+1992,Japan Series,Yakult Swallows,41,"Kanazawa, Tsugio",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91393865
+1992,Regular Season,Yakult Swallows,41,"Kanazawa, Tsugio",P,41,13,12,0.000,0.077,0.000,0.077,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,0,0,91393865
+1992,Regular Season,Chunichi Dragons,47,"Teranishi, Hideto",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393883
+1992,Regular Season,Nippon-Ham Fighters,0,"Matsura, Hiroaki",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91493860
+1992,Regular Season,Kintetsu Buffaloes,16,"Bryant, Ralph",DH,119,501,448,0.243,0.319,0.545,0.864,78,96,109,52,17,2,38,244,6,3,45,6,176,4,6,0,2,91493866
+1992,Regular Season,Fukuoka Daiei Hawks,46,"Bonishi, Koji",C,13,10,9,0.222,0.300,0.222,0.522,2,0,2,2,0,0,0,2,0,0,0,0,1,1,1,0,0,91493883
+1992,Regular Season,Hiroshima Toyo Carp,5,"Machida, Kojiro",LF,49,175,153,0.268,0.349,0.458,0.807,19,19,41,25,9,1,6,70,1,1,16,0,34,3,4,0,2,91493885
+1992,Regular Season,Yakult Swallows,45,"Sumi, Mitsuo",P,46,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,91593846
+1992,Regular Season,Fukuoka Daiei Hawks,33,"Saito, Manabu",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593862
+1992,Regular Season,Nippon-Ham Fighters,31,"Saito, Hiroyuki",LF,8,21,17,0.235,0.316,0.294,0.610,0,1,4,3,1,0,0,5,0,1,2,0,6,0,0,2,0,91593865
+1992,Regular Season,Yokohama Taiyo Whales,36,"Shindo, Tatsuya",SS,108,388,353,0.246,0.304,0.397,0.701,45,30,87,57,18,1,11,140,7,0,25,2,75,7,4,6,0,91593866
+1992,Regular Season,Fukuoka Daiei Hawks,26,"Kanazawa, Kenichi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593881
+1992,Regular Season,Kintetsu Buffaloes,0,"Yoshida, Takashi",SS,109,334,296,0.257,0.308,0.328,0.636,43,30,76,64,6,3,3,97,27,6,21,0,58,5,2,13,2,91693860
+1992,Regular Season,Chunichi Dragons,27,"Matsunaga, Yukio",P,19,4,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,91693881
+1992,Regular Season,Hanshin Tigers,14,"Yuminaga, Tatsuhiro",P,51,12,12,0.083,0.083,0.083,0.166,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,91693885
+1992,Regular Season,Chunichi Dragons,24,"Nishimoto, Takashi",P,18,24,24,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,10,1,0,0,0,91793842
+1992,Regular Season,Hiroshima Toyo Carp,4,"Shoda, Kozo",2B,89,409,359,0.301,0.366,0.398,0.764,49,33,108,82,21,1,4,143,15,7,37,3,29,5,1,10,2,91793860
+1992,Regular Season,Yokohama Taiyo Whales,14,"Daimon, Kazuhiko",P,41,13,11,0.091,0.167,0.091,0.258,0,1,1,1,0,0,0,1,0,0,1,0,3,0,0,1,0,91793862
+1992,Regular Season,Fukuoka Daiei Hawks,31,"Sugimoto, Tadashi",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793863
+1992,Regular Season,Orix Bluewave,27,"Nakajima, Satoshi",C,115,408,342,0.249,0.332,0.339,0.671,44,33,85,66,13,0,6,116,5,4,37,2,68,15,8,16,5,91793864
+1992,Regular Season,Nippon-Ham Fighters,39,"Shimada, Nobutoshi",RF,63,72,61,0.262,0.308,0.328,0.636,11,5,16,14,1,0,1,20,2,2,4,0,13,1,0,7,0,91793867
+1992,Regular Season,Nippon-Ham Fighters,29,"Shibakusa, Hiroshi",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793868
+1992,Regular Season,Yakult Swallows,34,"Takano, Hikaru",RF,43,35,34,0.235,0.235,0.265,0.500,1,6,8,7,1,0,0,9,0,0,0,0,8,0,0,1,0,91793869
+1992,Regular Season,Hiroshima Toyo Carp,43,"Brown, Marty",LF,109,427,386,0.233,0.307,0.443,0.750,37,68,90,48,22,1,19,171,2,2,38,1,93,4,3,0,0,91893885
+1992,Regular Season,Hiroshima Toyo Carp,12,"Takayama, Ikuo",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91993860
+1992,Japan Series,Seibu Lions,10,"Hanyuda, Tadakatsu",RF,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91993864
+1992,Regular Season,Seibu Lions,10,"Hanyuda, Tadakatsu",RF,24,15,11,0.182,0.308,0.455,0.763,6,1,2,1,0,0,1,5,0,2,2,0,2,0,0,2,0,91993864
+1992,Regular Season,Seibu Lions,29,"Young, Ray",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91993883
+1992,Regular Season,Kintetsu Buffaloes,24,"Takamura, Hiroshi",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91993885
+1992,Regular Season,Hiroshima Toyo Carp,19,"Ishinuki, Hiromi",P,32,4,4,0.250,0.250,0.250,0.500,0,1,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,93093868
+1992,Regular Season,Orix Bluewave,42,"Schulze, Don",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93193881
+1992,Regular Season,Hanshin Tigers,35,"Yamada, Katsuhiko",C,114,340,313,0.204,0.239,0.281,0.520,17,31,64,48,12,0,4,88,0,1,14,8,81,7,1,9,3,93393868
+1992,Regular Season,Fukuoka Daiei Hawks,55,"Omichi, Noriyoshi",PH,53,84,73,0.192,0.268,0.452,0.720,8,12,14,6,2,1,5,33,1,0,8,1,21,3,0,2,1,93993868
+1992,Japan Series,Seibu Lions,55,"Ando, Shinji",PH,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,95393868
+1992,Regular Season,Seibu Lions,55,"Ando, Shinji",PH,14,24,20,0.250,0.348,0.300,0.648,1,3,5,4,1,0,0,6,0,0,3,0,3,1,0,1,0,95393868
+1992,Regular Season,Seibu Lions,51,"Go, Toshihiro",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,95593868
+1992,Regular Season,Kintetsu Buffaloes,28,"Nakamura, Ryoji",PH,3,4,4,0.250,0.250,0.500,0.750,1,0,1,0,1,0,0,2,0,0,0,0,1,0,0,0,0,95693868

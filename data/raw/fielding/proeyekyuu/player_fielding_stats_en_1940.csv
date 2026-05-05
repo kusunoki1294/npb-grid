@@ -1,0 +1,333 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+1940,Regular Season,Tokyo Kyojin,27,"Yoshihara, Masaki",C,104,0.990,598,97,7,8,7,01003876
+1940,Regular Season,Nagoya Club,15,"Yoshida, Kazuo",OF,103,0.950,209,17,12,5,,01003878
+1940,Regular Season,Nankai Club,27,"Yoshitomi, Kinya",P,2,1.000,0,1,0,0,,01003891
+1940,Regular Season,Nagoya Golden Dolphins,18,"Isobe, Takeo",OF,1,0.000,0,0,0,0,,01103876
+1940,Regular Season,Nagoya Golden Dolphins,18,"Isobe, Takeo",P,1,0.000,0,0,0,0,,01103876
+1940,Regular Season,Lion Baseball Club,12,"Izutsu, Kenichi",3B,1,0.000,0,0,0,0,,01103878
+1940,Regular Season,Lion Baseball Club,12,"Izutsu, Kenichi",OF,31,1.000,43,1,0,0,,01103878
+1940,Regular Season,Lion Baseball Club,12,"Izutsu, Kenichi",P,24,0.967,7,22,1,1,,01103878
+1940,Regular Season,Tsubasa Baseball Club,25,"Ishii, Yutaka",1B,63,0.989,452,10,5,37,,01103891
+1940,Regular Season,Nagoya Golden Dolphins,19,"Sei, Kiyoshi",2B,2,0.800,2,2,1,1,,01203872
+1940,Regular Season,Nagoya Golden Dolphins,19,"Sei, Kiyoshi",3B,16,0.837,11,25,7,2,,01203872
+1940,Regular Season,Nagoya Club,4,"Osawa, Nobuo",1B,94,0.992,825,23,7,95,,01303874
+1940,Regular Season,Nagoya Club,4,"Osawa, Nobuo",3B,5,1.000,4,9,0,1,,01303874
+1940,Regular Season,Nagoya Club,4,"Osawa, Nobuo",OF,10,0.955,20,1,1,1,,01303874
+1940,Regular Season,Nagoya Club,4,"Osawa, Nobuo",P,9,1.000,1,8,0,0,,01303874
+1940,Regular Season,Tokyo Kyojin,16,"Kawakami, Tetsuharu",1B,103,0.991,994,23,9,78,,01303876
+1940,Regular Season,Tokyo Kyojin,16,"Kawakami, Tetsuharu",P,6,0.857,1,5,1,1,,01303876
+1940,Regular Season,Nankai Club,7,"Okamura, Toshiaki",OF,96,0.975,146,7,4,1,,01303878
+1940,Regular Season,Nankai Club,21,"Kawasaki, Tokuji",P,11,0.952,0,20,1,0,,01303891
+1940,Regular Season,Lion Baseball Club,8,"Tsubochi, Michinori",OF,102,0.996,250,9,1,1,,01403872
+1940,Regular Season,Hankyu Club,21,"Mori, Kotaro",1B,1,1.000,1,0,0,0,,01403874
+1940,Regular Season,Hankyu Club,21,"Mori, Kotaro",P,54,0.992,19,109,1,9,,01403874
+1940,Regular Season,Nagoya Golden Dolphins,11,"Sasaki, Tsunesuke",OF,81,0.978,167,7,4,1,,01503874
+1940,Regular Season,Hankyu Club,7,"Shimomura, Yutaka",2B,1,1.000,1,0,0,0,,01503876
+1940,Regular Season,Hankyu Club,7,"Shimomura, Yutaka",3B,5,0.800,2,6,2,1,,01503876
+1940,Regular Season,Hankyu Club,7,"Shimomura, Yutaka",SS,31,0.876,51,83,19,10,,01503876
+1940,Regular Season,Kurowashi,35,"Tani, Yoshio",OF,80,0.980,132,12,3,4,,01503891
+1940,Regular Season,Tokyo Kyojin,18,"Nakao, Hiroshi",P,48,0.929,13,66,6,6,,01703878
+1940,Regular Season,Nankai Club,27,"Hanada, Kanichiro",C,2,1.000,8,0,0,0,0,01703891
+1940,Regular Season,Lion Baseball Club,2,"Matsuoka, Koji",2B,4,1.000,0,1,0,0,,01903878
+1940,Regular Season,Lion Baseball Club,2,"Matsuoka, Koji",3B,2,0.857,2,4,1,0,,01903878
+1940,Regular Season,Lion Baseball Club,2,"Matsuoka, Koji",SS,42,0.879,64,96,22,14,,01903878
+1940,Regular Season,Nagoya Golden Dolphins,14,"Matsumoto, Riichi",P,2,0.000,0,0,0,0,,01903891
+1940,Regular Season,Hankyu Club,2,"Yamashita, Minoru",1B,20,1.000,208,5,0,16,,03703872
+1940,Regular Season,Lion Baseball Club,1,"Kondo, Hisashi",P,47,0.911,3,48,5,3,,11013872
+1940,Regular Season,Nagoya Club,17,"Nishizawa, Michio",P,44,0.971,7,60,2,4,,11013874
+1940,Regular Season,Nagoya Club,8,"Murase, Ichizo",SS,104,0.912,183,376,54,78,,11013876
+1940,Regular Season,Nagoya Golden Dolphins,23,"Morita, Minoru",OF,104,0.991,215,11,2,2,,11013878
+1940,Regular Season,Lion Baseball Club,10,"Murakami, Shigeo",OF,35,0.968,59,1,2,1,,11013891
+1940,Regular Season,Kurowashi,14,"Iwagaki, Jiro",OF,97,0.984,175,10,3,2,,11313878
+1940,Regular Season,Tokyo Kyojin,26,"Ohashi, Tomohisa",C,3,0.333,1,0,2,0,1,11313891
+1940,Regular Season,Osaka Tigers,29,"Minagawa, Sadayuki",SS,104,0.923,233,389,52,88,,11413874
+1940,Regular Season,Kurowashi,23,"Kan, Toshio",1B,23,0.965,151,13,6,13,,11513878
+1940,Regular Season,Kurowashi,23,"Kan, Toshio",OF,1,1.000,2,0,0,0,,11513878
+1940,Regular Season,Lion Baseball Club,16,"Sano, Tadasumi",2B,1,1.000,1,0,0,0,,11513891
+1940,Regular Season,Lion Baseball Club,16,"Sano, Tadasumi",3B,2,0.000,0,0,0,0,,11513891
+1940,Regular Season,Lion Baseball Club,16,"Sano, Tadasumi",SS,1,0.600,1,2,2,0,,11513891
+1940,Regular Season,Tokyo Kyojin,3,"Nakajima, Haruyasu",OF,103,0.986,206,7,3,2,,11613872
+1940,Regular Season,Lion Baseball Club,23,"Tamakoshi, Toshio",1B,84,0.988,779,12,10,55,,11713876
+1940,Regular Season,Lion Baseball Club,23,"Tamakoshi, Toshio",2B,12,0.915,24,19,4,3,,11713876
+1940,Regular Season,Lion Baseball Club,23,"Tamakoshi, Toshio",OF,2,1.000,1,0,0,0,,11713876
+1940,Regular Season,Hankyu Club,10,"Tanaka, Naritaka",2B,2,1.000,1,2,0,0,,11713878
+1940,Regular Season,Hankyu Club,10,"Tanaka, Naritaka",3B,3,1.000,5,1,0,0,,11713878
+1940,Regular Season,Hankyu Club,10,"Tanaka, Naritaka",SS,32,0.873,35,68,15,10,,11713878
+1940,Regular Season,Hankyu Club,14,"Nishimura, Masao",OF,51,1.000,91,2,0,1,,11813872
+1940,Regular Season,Nagoya Club,10,"Hattori, Tsuguhiro",C,28,0.971,78,21,3,3,3,11913878
+1940,Regular Season,Tsubasa Baseball Club,19,"Hotehama, Akira",OF,4,1.000,4,0,0,0,,11913891
+1940,Regular Season,Osaka Tigers,31,"Horio, Fumihito",OF,98,0.978,214,6,5,2,,13313872
+1940,Regular Season,Osaka Tigers,18,"Wakabayashi, Tadashi",P,56,0.984,17,105,2,11,,13913872
+1940,Regular Season,Tokyo Kyojin,14,"Sawamura, Eiji",P,12,1.000,1,17,0,1,,21023872
+1940,Regular Season,Nankai Club,6,"Ryu, Sesho",P,30,0.930,5,35,3,1,,21023876
+1940,Regular Season,Osaka Tigers,1,"Igaue, Jungo",3B,93,0.942,83,212,18,23,,21123872
+1940,Regular Season,Nagoya Club,20,"Iwamoto, Akira",OF,25,0.968,59,1,2,0,,21123876
+1940,Regular Season,Hankyu Club,26,"Ito, Jinkichi",2B,73,0.952,164,172,17,44,,21123878
+1940,Regular Season,Hankyu Club,26,"Ito, Jinkichi",3B,1,1.000,0,1,0,0,,21123878
+1940,Regular Season,Tokyo Kyojin,24,"Izumida, Kiyoshi",P,5,1.000,1,4,0,0,,21123891
+1940,Regular Season,Nagoya Golden Dolphins,2,"Matsumoto, Mitsuhiko",1B,1,1.000,3,0,0,0,,21223874
+1940,Regular Season,Nagoya Golden Dolphins,2,"Matsumoto, Mitsuhiko",C,24,0.953,89,13,5,2,3,21223874
+1940,Regular Season,Nagoya Golden Dolphins,2,"Matsumoto, Mitsuhiko",P,3,1.000,0,1,0,0,,21223874
+1940,Regular Season,Osaka Tigers,14,"Kinoshita, Isamu",P,42,0.973,9,64,2,4,,21323876
+1940,Regular Season,Nagoya Club,11,"Kawamura, Akira",P,16,1.000,1,13,0,3,,21323891
+1940,Regular Season,Nagoya Golden Dolphins,26,"Shibata, Tamao",1B,3,0.929,12,1,1,0,,21523878
+1940,Regular Season,Nagoya Golden Dolphins,26,"Shibata, Tamao",C,19,0.972,54,15,2,0,7,21523878
+1940,Regular Season,Nagoya Golden Dolphins,26,"Shibata, Tamao",OF,1,0.000,0,0,0,0,,21523878
+1940,Regular Season,Kurowashi,34,"Tamakoshi, Tadayoshi",OF,34,1.000,28,2,0,0,,21523891
+1940,Regular Season,Kurowashi,34,"Tamakoshi, Tadayoshi",P,9,0.968,4,26,1,3,,21523891
+1940,Regular Season,Lion Baseball Club,7,"Kito, Kazuo",2B,2,1.000,2,1,0,0,,21723872
+1940,Regular Season,Lion Baseball Club,7,"Kito, Kazuo",OF,102,0.972,205,6,6,2,,21723872
+1940,Regular Season,Osaka Tigers,12,"Tanaka, Yoshio",1B,3,1.000,27,0,0,5,,21723874
+1940,Regular Season,Osaka Tigers,12,"Tanaka, Yoshio",C,100,0.982,341,99,8,14,4,21723874
+1940,Regular Season,Osaka Tigers,35,"Nakada, Kinichi",1B,9,1.000,60,2,0,10,,21723878
+1940,Regular Season,Osaka Tigers,35,"Nakada, Kinichi",OF,47,0.937,55,4,4,3,,21723878
+1940,Regular Season,Nankai Club,17,"Fukao, Fumihiko",3B,6,0.900,5,13,2,1,,21723891
+1940,Regular Season,Nankai Club,17,"Fukao, Fumihiko",OF,8,1.000,5,0,0,0,,21723891
+1940,Regular Season,Nankai Club,17,"Fukao, Fumihiko",P,1,0.000,0,0,0,0,,21723891
+1940,Regular Season,Nagoya Club,6,"Haga, Naokazu",3B,101,0.947,127,305,24,27,,21823872
+1940,Regular Season,Nagoya Club,6,"Haga, Naokazu",C,1,1.000,1,1,0,0,1,21823872
+1940,Regular Season,Nagoya Club,16,"Nakamura, Saburo",1B,13,0.969,121,4,4,8,,21923874
+1940,Regular Season,Nagoya Club,16,"Nakamura, Saburo",2B,93,0.952,294,265,28,76,,21923874
+1940,Regular Season,Lion Baseball Club,18,"Fukushi, Isamu",P,50,0.898,5,48,6,2,,21923876
+1940,Regular Season,Osaka Tigers,38,"Miwa, Hachiro",P,47,0.982,7,48,1,7,,21923878
+1940,Regular Season,Tsubasa Baseball Club,24,"Mitomi, Tsuneo",P,27,0.957,3,41,2,2,,21923891
+1940,Regular Season,Osaka Tigers,30,"Matsuki, Kenjiro",1B,97,0.985,1048,25,16,111,,23323872
+1940,Regular Season,Tokyo Kyojin,9,"Yamamoto, Eiichiro",OF,3,1.000,4,0,0,0,,23723872
+1940,Regular Season,Osaka Tigers,34,"Yamane, Minoru",OF,45,0.976,37,3,1,1,,31033878
+1940,Regular Season,Nagoya Golden Dolphins,9,"Murowaki, Masanobu",1B,22,0.980,197,1,4,12,,31033891
+1940,Regular Season,Nagoya Golden Dolphins,9,"Murowaki, Masanobu",OF,62,0.957,131,3,6,2,,31033891
+1940,Regular Season,Nankai Club,8,"Amakawa, Seizaburo",P,16,0.938,0,15,1,0,,31133878
+1940,Regular Season,Nagoya Golden Dolphins,21,"Arai, Hajime",C,1,1.000,2,0,0,0,0,31133891
+1940,Regular Season,Nagoya Golden Dolphins,21,"Arai, Hajime",OF,15,1.000,11,0,0,0,,31133891
+1940,Regular Season,Tokyo Kyojin,8,"Shiraishi, Katsumi",SS,104,0.904,152,309,49,56,,31233872
+1940,Regular Season,Hankyu Club,5,"Ueda, Fujio",2B,44,0.970,102,91,6,17,,31333874
+1940,Regular Season,Hankyu Club,5,"Ueda, Fujio",SS,70,0.920,114,230,30,42,,31333874
+1940,Regular Season,Tsubasa Baseball Club,22,"Oribe, Yoshizo",OF,101,0.977,205,9,5,3,,31333878
+1940,Regular Season,Kurowashi,33,"Okada, Fukuyoshi",2B,97,0.961,256,283,22,75,,31333891
+1940,Regular Season,Nagoya Club,21,"Kimura, Shinichi",2B,30,0.943,52,63,7,16,,31533878
+1940,Regular Season,Nagoya Club,21,"Kimura, Shinichi",3B,4,0.857,3,3,1,0,,31533878
+1940,Regular Season,Nankai Club,5,"Shimizu, Hideo",1B,56,0.976,524,10,13,44,,31533891
+1940,Regular Season,Nankai Club,5,"Shimizu, Hideo",OF,2,1.000,4,1,0,0,,31533891
+1940,Regular Season,Nankai Club,5,"Shimizu, Hideo",P,42,0.941,11,69,5,5,,31533891
+1940,Regular Season,Tsubasa Baseball Club,10,"Kaneko, Hiroshi",1B,1,1.000,7,0,0,0,,31733872
+1940,Regular Season,Tsubasa Baseball Club,10,"Kaneko, Hiroshi",P,21,0.957,4,18,1,1,,31733872
+1940,Regular Season,Kurowashi,7,"Sugitaya, Mamoru",2B,3,1.000,4,5,0,1,,31733874
+1940,Regular Season,Kurowashi,7,"Sugitaya, Mamoru",OF,15,1.000,11,1,0,1,,31733874
+1940,Regular Season,Tokyo Kyojin,22,"Chiba, Shigeru",2B,80,0.958,187,244,19,61,,31733876
+1940,Regular Season,Tokyo Kyojin,22,"Chiba, Shigeru",3B,11,0.881,9,28,5,0,,31733876
+1940,Regular Season,Hankyu Club,28,"Nakajima, Takashi",OF,79,0.979,133,5,3,3,,31733891
+1940,Regular Season,Nagoya Golden Dolphins,10,"Kuramoto, Shingo",2B,5,1.000,6,3,0,0,,31933872
+1940,Regular Season,Nagoya Golden Dolphins,10,"Kuramoto, Shingo",3B,11,0.920,19,27,4,2,,31933872
+1940,Regular Season,Nagoya Golden Dolphins,10,"Nagashima, Susumu",C,49,0.973,259,34,8,5,7,31933876
+1940,Regular Season,Hankyu Club,12,"Hibino, Takeshi",C,37,0.978,106,27,3,4,1,31933878
+1940,Regular Season,Nagoya Club,24,"Honda, Chikayoshi",OF,8,0.947,17,1,1,0,,31933891
+1940,Regular Season,Hankyu Club,17,"Hidaka, Tokuyuki",P,1,0.000,0,0,0,0,,33133872
+1940,Regular Season,Osaka Tigers,21,"Hiruki, Torao",3B,2,0.800,2,2,1,0,,41043874
+1940,Regular Season,Nankai Club,16,"Ueda, Yoshio",2B,32,0.922,86,68,13,20,,41143876
+1940,Regular Season,Nankai Club,16,"Ueda, Yoshio",3B,8,0.788,7,19,7,3,,41143876
+1940,Regular Season,Nankai Club,16,"Ueda, Yoshio",SS,35,0.892,54,103,19,15,,41143876
+1940,Regular Season,Lion Baseball Club,10,"Ito, Yoshio",2B,3,1.000,2,4,0,1,,41143878
+1940,Regular Season,Nankai Club,1,"Iwamoto, Yoshiyuki",1B,1,1.000,2,0,0,0,,41143891
+1940,Regular Season,Nankai Club,1,"Iwamoto, Yoshiyuki",C,1,1.000,1,0,0,0,0,41143891
+1940,Regular Season,Nankai Club,1,"Iwamoto, Yoshiyuki",OF,45,0.956,83,4,4,0,,41143891
+1940,Regular Season,Nankai Club,1,"Iwamoto, Yoshiyuki",P,1,0.000,0,0,0,0,,41143891
+1940,Regular Season,Kurowashi,6,"Ota, Kenichi",OF,60,0.985,64,1,1,1,,41343874
+1940,Regular Season,Kurowashi,22,"Kinoshita, Masafumi",3B,77,0.934,55,213,19,14,,41343876
+1940,Regular Season,Kurowashi,22,"Kinoshita, Masafumi",C,1,0.000,0,0,0,0,0,41343876
+1940,Regular Season,Lion Baseball Club,15,"Kito, Seiichi",3B,46,0.922,59,131,16,14,,41343891
+1940,Regular Season,Nagoya Club,12,"Kito, Seiichi",2B,1,0.000,0,0,0,0,,41343891
+1940,Regular Season,Hankyu Club,27,"Shintomi, Usaburo",1B,68,0.997,604,14,2,46,,41543878
+1940,Regular Season,Hankyu Club,27,"Shintomi, Usaburo",OF,1,0.000,0,0,0,0,,41543878
+1940,Regular Season,Osaka Tigers,19,"Doigaki, Takeshi",C,15,1.000,46,8,0,0,0,41543891
+1940,Regular Season,Tokyo Kyojin,4,"Nagasawa, Fujio",1B,22,0.986,67,2,1,6,,41643872
+1940,Regular Season,Tokyo Kyojin,4,"Nagasawa, Fujio",2B,3,1.000,2,2,0,0,,41643872
+1940,Regular Season,Lion Baseball Club,11,"Kikuya, Yoshio",OF,4,0.750,6,0,2,0,,41743872
+1940,Regular Season,Lion Baseball Club,11,"Kikuya, Yoshio",P,47,0.923,11,49,5,0,,41743872
+1940,Regular Season,Nagoya Golden Dolphins,25,"Nagao, Sadatoshi",P,23,0.962,2,23,1,2,,41743878
+1940,Regular Season,Nagoya Golden Dolphins,10,"Fukunaga, Kazuma",C,4,1.000,7,0,0,0,0,41743891
+1940,Regular Season,Nagoya Golden Dolphins,6,"Nakayama, Tadayoshi",P,61,0.914,15,91,10,5,,41943874
+1940,Regular Season,Tsubasa Baseball Club,8,"Muramatsu, Chotaro",OF,44,0.987,72,2,1,0,,41943878
+1940,Regular Season,Tsubasa Baseball Club,8,"Muramatsu, Chotaro",P,11,0.889,0,8,1,1,,41943878
+1940,Regular Season,Osaka Tigers,26,"Miyazaki, Takeshi",2B,83,0.953,238,289,26,73,,41943891
+1940,Regular Season,Osaka Tigers,26,"Miyazaki, Takeshi",SS,2,1.000,1,1,0,0,,41943891
+1940,Regular Season,Nagoya Golden Dolphins,12,"Furuya, Kuranosuke",1B,36,0.981,207,4,4,14,,43143872
+1940,Regular Season,Nagoya Golden Dolphins,12,"Furuya, Kuranosuke",P,43,0.970,17,80,3,5,,43143872
+1940,Regular Season,Lion Baseball Club,15,"Yamamoto, Hisatoshi",2B,1,0.500,1,1,2,1,,43743872
+1940,Regular Season,Lion Baseball Club,15,"Yamamoto, Hisatoshi",3B,18,0.859,15,40,9,4,,43743872
+1940,Regular Season,Lion Baseball Club,15,"Yamamoto, Hisatoshi",OF,3,1.000,3,0,0,0,,43743872
+1940,Regular Season,Tsubasa Baseball Club,12,"Sato, Takeo",C,101,0.983,453,77,9,9,12,51053872
+1940,Regular Season,Nankai Club,22,"Yamao, Toshikazu",OF,57,0.981,104,2,2,2,,51053876
+1940,Regular Season,Tsubasa Baseball Club,28,"Yamamoto, Aiichiro",SS,1,0.000,0,0,0,0,,51053878
+1940,Regular Season,Hankyu Club,29,"Morita, Sadao",1B,34,0.997,301,7,1,33,,51053891
+1940,Regular Season,Nankai Club,25,"Ito, Tsunemori",1B,35,0.969,277,5,9,21,,51153876
+1940,Regular Season,Nagoya Club,7,"Amano, Takeichi",2B,1,0.000,0,0,0,0,,51153878
+1940,Regular Season,Hankyu Club,25,"Inokawa, Toshiharu",C,66,0.973,212,38,7,6,7,51153891
+1940,Regular Season,Tokyo Kyojin,17,"Starffin, Victor",P,55,0.978,25,152,4,17,,51253872
+1940,Regular Season,Hankyu Club,3,"Ishida, Mitsuhiko",OF,1,0.000,0,0,0,0,,51353872
+1940,Regular Season,Hankyu Club,3,"Ishida, Mitsuhiko",P,43,0.959,10,84,4,8,,51353872
+1940,Regular Season,Tsubasa Baseball Club,17,"Yanagi, Tsuruji",1B,1,1.000,6,1,0,0,,51353878
+1940,Regular Season,Tsubasa Baseball Club,17,"Yanagi, Tsuruji",SS,103,0.860,174,286,75,37,,51353878
+1940,Regular Season,Nagoya Club,22,"Okamoto, Toshio",P,5,1.000,2,6,0,2,,51353891
+1940,Regular Season,Nankai Club,24,"Kimura, Tsutomu",OF,55,0.954,118,7,6,2,,51553878
+1940,Regular Season,Nankai Club,24,"Kimura, Tsutomu",P,2,0.500,0,1,1,0,,51553878
+1940,Regular Season,Nankai Club,14,"Suezaki, Masataka",1B,29,0.970,186,8,6,12,,51553891
+1940,Regular Season,Tsubasa Baseball Club,15,"Karita, Hisanori",2B,100,0.971,312,257,17,75,,51753872
+1940,Regular Season,Tsubasa Baseball Club,15,"Karita, Hisanori",3B,1,1.000,1,1,0,0,,51753872
+1940,Regular Season,Tsubasa Baseball Club,15,"Karita, Hisanori",OF,2,1.000,1,0,0,0,,51753872
+1940,Regular Season,Tsubasa Baseball Club,15,"Karita, Hisanori",P,2,1.000,0,1,0,0,,51753872
+1940,Regular Season,Tsubasa Baseball Club,15,"Karita, Hisanori",SS,4,0.920,11,12,2,2,,51753872
+1940,Regular Season,Lion Baseball Club,30,"Takada, Katsuo",OF,1,1.000,1,0,0,0,,51753878
+1940,Regular Season,Tsubasa Baseball Club,27,"Nishioka, Yoshiharu",OF,42,0.969,60,3,2,2,,51753891
+1940,Regular Season,Nagoya Golden Dolphins,3,"Kurosawa, Toshio",OF,51,0.963,102,1,4,0,,51953872
+1940,Regular Season,Kurowashi,2,"Terauchi, Kazutaka",OF,77,0.983,117,2,2,0,,51953874
+1940,Regular Season,Lion Baseball Club,16,"Nishibata, Toshiro",2B,40,0.944,112,107,13,23,,51953876
+1940,Regular Season,Nankai Club,26,"Hirano, Shotaro",OF,10,1.000,8,0,0,0,,51953878
+1940,Regular Season,Nankai Club,26,"Hirano, Shotaro",P,9,1.000,1,13,0,0,,51953878
+1940,Regular Season,Nankai Club,12,"Maeda, Sadayuki",3B,15,0.961,22,52,3,5,,51953891
+1940,Regular Season,Nankai Club,12,"Maeda, Sadayuki",OF,1,1.000,1,0,0,0,,51953891
+1940,Regular Season,Nankai Club,12,"Maeda, Sadayuki",SS,48,0.869,75,110,28,21,,51953891
+1940,Regular Season,Hankyu Club,22,"Shigematsu, Michio",P,13,0.947,1,17,1,1,,61063872
+1940,Regular Season,Tokyo Kyojin,15,"Hirayama, Kikuji",2B,26,0.936,62,55,8,4,,61063874
+1940,Regular Season,Tokyo Kyojin,15,"Hirayama, Kikuji",OF,80,0.963,128,3,5,1,,61063874
+1940,Regular Season,Nagoya Club,3,"Ishida, Masayoshi",OF,66,0.994,171,2,1,0,,61163874
+1940,Regular Season,Hankyu Club,8,"Ikeda, Hisayuki",C,17,0.952,45,14,3,2,3,61163878
+1940,Regular Season,Nagoya Golden Dolphins,27,"Ueno, Yoshiaki",1B,59,0.982,421,21,8,40,,61163891
+1940,Regular Season,Nagoya Golden Dolphins,27,"Ueno, Yoshiaki",C,1,1.000,4,0,0,0,0,61163891
+1940,Regular Season,Nagoya Golden Dolphins,27,"Ueno, Yoshiaki",OF,2,1.000,2,0,0,0,,61163891
+1940,Regular Season,Tsubasa Baseball Club,1,"Takahashi, Teruhiko",1B,14,1.000,117,1,0,9,,61263872
+1940,Regular Season,Tsubasa Baseball Club,1,"Takahashi, Teruhiko",2B,7,0.909,16,14,3,4,,61263872
+1940,Regular Season,Tsubasa Baseball Club,1,"Takahashi, Teruhiko",3B,6,0.833,2,3,1,0,,61263872
+1940,Regular Season,Nagoya Club,9,"Miura, Toshikazu",1B,15,0.942,80,1,5,6,,61263874
+1940,Regular Season,Nagoya Club,9,"Miura, Toshikazu",C,91,0.982,311,72,7,10,8,61263874
+1940,Regular Season,Nagoya Golden Dolphins,5,"Urushibara, Susumu",3B,55,0.920,65,119,16,11,,61363872
+1940,Regular Season,Tokyo Kyojin,10,"Kumabe, Ichiro",1B,3,1.000,6,0,0,2,,61363891
+1940,Regular Season,Hankyu Club,11,"Yamada, Den",2B,2,0.727,4,4,3,0,,61463874
+1940,Regular Season,Hankyu Club,11,"Yamada, Den",OF,97,0.984,243,8,4,4,,61463874
+1940,Regular Season,Hankyu Club,11,"Yamada, Den",P,4,1.000,1,12,0,0,,61463874
+1940,Regular Season,Tokyo Kyojin,28,"Suzukida, Tomaru",OF,18,1.000,16,2,0,0,,61563878
+1940,Regular Season,Lion Baseball Club,5,"Togawa, Nobuo",1B,3,1.000,11,0,0,1,,61563891
+1940,Regular Season,Lion Baseball Club,5,"Togawa, Nobuo",2B,48,0.951,100,95,10,22,,61563891
+1940,Regular Season,Lion Baseball Club,5,"Togawa, Nobuo",3B,31,0.925,30,68,8,4,,61563891
+1940,Regular Season,Nagoya Club,2,"Takagi, Shigeru",OF,12,0.962,23,2,1,1,,61763874
+1940,Regular Season,Nankai Club,29,"Fujito, Itsuro",2B,4,1.000,8,8,0,4,,61763891
+1940,Regular Season,Nankai Club,29,"Fujito, Itsuro",3B,69,0.878,81,172,35,12,,61763891
+1940,Regular Season,Nankai Club,29,"Fujito, Itsuro",SS,23,0.881,39,65,14,10,,61763891
+1940,Regular Season,Nagoya Golden Dolphins,17,"Gomi, Yoshio",2B,95,0.958,286,264,24,74,,61963872
+1940,Regular Season,Nagoya Club,18,"Muramatsu, Yukio",P,51,0.981,9,92,2,10,,61963878
+1940,Regular Season,Kurowashi,29,"Miyazaki, Hiroshi",C,3,1.000,1,1,0,0,0,61963891
+1940,Regular Season,Nagoya Club,23,"Morii, Shigeru",P,1,1.000,0,1,0,0,,63563872
+1940,Regular Season,Hankyu Club,15,"Hashimoto, Shogo",P,3,1.000,0,1,0,0,,71073874
+1940,Regular Season,Kurowashi,15,"Yamada, Kiyoshi",SS,94,0.944,206,366,34,68,,71073876
+1940,Regular Season,Nagoya Golden Dolphins,7,"Yamakawa, Takenori",2B,1,0.667,2,0,1,0,,71073891
+1940,Regular Season,Nagoya Golden Dolphins,7,"Yamakawa, Takenori",3B,11,0.867,12,14,4,0,,71073891
+1940,Regular Season,Nagoya Golden Dolphins,7,"Yamakawa, Takenori",SS,1,1.000,0,1,0,0,,71073891
+1940,Regular Season,Tsubasa Baseball Club,7,"Asaoka, Saburo",1B,21,1.000,102,1,0,7,,71173872
+1940,Regular Season,Tsubasa Baseball Club,7,"Asaoka, Saburo",2B,2,0.600,2,1,2,1,,71173872
+1940,Regular Season,Tsubasa Baseball Club,7,"Asaoka, Saburo",OF,2,1.000,5,1,0,1,,71173872
+1940,Regular Season,Tsubasa Baseball Club,7,"Asaoka, Saburo",P,41,0.990,15,86,1,10,,71173872
+1940,Regular Season,Hankyu Club,6,"Ishii, Takeo",1B,1,0.917,11,0,1,0,,71173876
+1940,Regular Season,Nagoya Golden Dolphins,20,"Arakawa, Masayoshi",1B,5,0.923,36,0,3,6,,71173878
+1940,Regular Season,Nagoya Golden Dolphins,20,"Arakawa, Masayoshi",OF,10,1.000,10,0,0,0,,71173878
+1940,Regular Season,Lion Baseball Club,22,"Isegawa, Masumi",C,49,0.990,169,29,2,3,4,71173891
+1940,Regular Season,Lion Baseball Club,5,"Suzuki, Hideo",OF,1,1.000,3,0,0,0,,71273872
+1940,Regular Season,Osaka Tigers,24,"Hondo, Yasuya",1B,4,1.000,31,1,0,4,,71273874
+1940,Regular Season,Osaka Tigers,24,"Hondo, Yasuya",2B,26,0.924,55,78,11,18,,71273874
+1940,Regular Season,Osaka Tigers,24,"Hondo, Yasuya",3B,5,0.938,3,12,1,2,,71273874
+1940,Regular Season,Osaka Tigers,24,"Hondo, Yasuya",OF,80,0.993,130,7,1,0,,71273874
+1940,Regular Season,Tsubasa Baseball Club,9,"Ishihara, Shigezo",P,5,1.000,0,2,0,0,,71373872
+1940,Regular Season,Lion Baseball Club,20,"Kachi, Kenzaburo",2B,2,1.000,0,1,0,0,,71373891
+1940,Regular Season,Lion Baseball Club,20,"Kachi, Kenzaburo",3B,17,0.884,17,21,5,3,,71373891
+1940,Regular Season,Lion Baseball Club,20,"Kachi, Kenzaburo",SS,35,0.861,65,77,23,11,,71373891
+1940,Regular Season,Tsubasa Baseball Club,9,"Kobayashi, Shigeta",OF,89,0.961,219,5,9,4,,71573874
+1940,Regular Season,Tsubasa Baseball Club,9,"Kobayashi, Shigeta",P,1,1.000,0,1,0,0,,71573874
+1940,Regular Season,Nankai Club,18,"Kunihisa, Shoichi",1B,7,1.000,48,0,0,6,,71573878
+1940,Regular Season,Nankai Club,18,"Kunihisa, Shoichi",2B,77,0.937,209,208,28,46,,71573878
+1940,Regular Season,Nankai Club,18,"Kunihisa, Shoichi",3B,4,0.875,4,17,3,0,,71573878
+1940,Regular Season,Nankai Club,18,"Kunihisa, Shoichi",C,18,1.000,49,10,0,0,2,71573878
+1940,Regular Season,Nankai Club,18,"Kunihisa, Shoichi",OF,1,0.000,0,0,0,0,,71573878
+1940,Regular Season,Kurowashi,32,"Takeuchi, Isamu",3B,38,0.864,24,78,16,7,,71573891
+1940,Regular Season,Tsubasa Baseball Club,2,"Nakamura, Shinichi",3B,4,1.000,2,6,0,0,,71673872
+1940,Regular Season,Osaka Tigers,5,"Tsuri, Tsuneo",OF,4,0.500,2,0,2,0,,71773876
+1940,Regular Season,Osaka Tigers,5,"Tsuri, Tsuneo",P,3,1.000,2,2,0,0,,71773876
+1940,Regular Season,Hankyu Club,23,"Doi, Shozo",3B,25,0.933,25,72,7,12,,71773878
+1940,Regular Season,Kurowashi,8,"Hasegawa, Shigekazu",1B,19,0.986,138,5,2,13,,71773891
+1940,Regular Season,Kurowashi,8,"Hasegawa, Shigekazu",OF,1,0.000,0,0,0,0,,71773891
+1940,Regular Season,Kurowashi,8,"Hasegawa, Shigekazu",P,32,0.957,9,81,4,11,,71773891
+1940,Regular Season,Hankyu Club,24,"Kuroda, Kengo",2B,16,0.955,47,37,4,16,,71973872
+1940,Regular Season,Hankyu Club,24,"Kuroda, Kengo",3B,87,0.922,90,277,31,21,,71973872
+1940,Regular Season,Hankyu Club,24,"Kuroda, Kengo",OF,6,1.000,9,3,0,2,,71973872
+1940,Regular Season,Hankyu Club,24,"Kuroda, Kengo",P,1,1.000,1,0,0,0,,71973872
+1940,Regular Season,Hankyu Club,24,"Kuroda, Kengo",SS,1,1.000,1,3,0,0,,71973872
+1940,Regular Season,Lion Baseball Club,17,"Nomura, Takayoshi",OF,41,0.969,56,6,2,1,,71973876
+1940,Regular Season,Nagoya Golden Dolphins,16,"Nomura, Takayoshi",OF,15,0.957,21,1,1,0,,71973876
+1940,Regular Season,Lion Baseball Club,6,"Maeda, Satoji",2B,23,0.935,44,43,6,4,,71973891
+1940,Regular Season,Lion Baseball Club,6,"Maeda, Satoji",3B,3,0.889,3,5,1,1,,71973891
+1940,Regular Season,Lion Baseball Club,6,"Maeda, Satoji",SS,48,0.881,99,153,34,22,,71973891
+1940,Regular Season,Lion Baseball Club,9,"Mizutani, Norikazu",OF,10,1.000,13,2,0,0,,73573872
+1940,Regular Season,Tsubasa Baseball Club,5,"Yamazaki, Fumikazu",OF,67,0.949,88,6,5,2,,73773872
+1940,Regular Season,Nankai Club,11,"Iwade, Kiyoshi",OF,80,0.975,152,7,4,5,,81183878
+1940,Regular Season,Kurowashi,28,"Onodera, Hiroshi",P,2,1.000,1,1,0,0,,81183891
+1940,Regular Season,Kurowashi,12,"Takahashi, Yoshio",1B,3,1.000,33,1,0,1,,81283872
+1940,Regular Season,Kurowashi,12,"Takahashi, Yoshio",2B,5,0.926,9,16,2,3,,81283872
+1940,Regular Season,Tokyo Kyojin,12,"Kusunoki, Yasuo",3B,10,0.861,9,22,5,1,,81383876
+1940,Regular Season,Tokyo Kyojin,12,"Kusunoki, Yasuo",C,8,1.000,8,1,0,0,0,81383876
+1940,Regular Season,Tokyo Kyojin,12,"Kusunoki, Yasuo",P,5,1.000,0,6,0,1,,81383876
+1940,Regular Season,Osaka Tigers,39,"Kameda, Toshio",P,5,1.000,0,2,0,0,,81383878
+1940,Regular Season,Nankai Club,23,"Sano, Seizo",C,5,0.923,22,2,2,0,2,81383891
+1940,Regular Season,Nagoya Golden Dolphins,15,"Naito, Kozo",OF,2,0.000,0,0,0,0,,81483872
+1940,Regular Season,Nagoya Golden Dolphins,15,"Naito, Kozo",P,41,1.000,5,42,0,1,,81483872
+1940,Regular Season,Kurowashi,3,"Seike, Chutaro",C,104,0.974,506,103,16,16,11,81583878
+1940,Regular Season,Nankai Club,10,"Toda, Yosaburo",3B,15,0.732,13,17,11,0,,81583891
+1940,Regular Season,Nankai Club,19,"Masano, Iwao",2B,3,0.917,5,6,1,1,,81783876
+1940,Regular Season,Nankai Club,19,"Masano, Iwao",P,48,0.962,15,113,5,12,,81783876
+1940,Regular Season,Tsubasa Baseball Club,18,"Noguchi, Jiro",1B,44,0.988,329,9,4,31,,81783878
+1940,Regular Season,Tsubasa Baseball Club,18,"Noguchi, Jiro",2B,4,0.875,5,2,1,1,,81783878
+1940,Regular Season,Tsubasa Baseball Club,18,"Noguchi, Jiro",OF,11,0.917,10,1,1,0,,81783878
+1940,Regular Season,Tsubasa Baseball Club,18,"Noguchi, Jiro",P,57,0.985,16,114,2,9,,81783878
+1940,Regular Season,Osaka Tigers,9,"Fujimura, Takao",1B,3,1.000,6,1,0,0,,81783891
+1940,Regular Season,Osaka Tigers,9,"Fujimura, Takao",OF,3,1.000,3,0,0,0,,81783891
+1940,Regular Season,Osaka Tigers,9,"Fujimura, Takao",P,21,1.000,5,50,0,4,,81783891
+1940,Regular Season,Tokyo Kyojin,1,"Hayashi, Kiyomitsu",OF,60,0.931,74,7,6,1,,81883872
+1940,Regular Season,Osaka Tigers,32,"Mori, Kunigoro",OF,76,1.000,71,2,0,1,,81983878
+1940,Regular Season,Kurowashi,31,"Somiya, Fusanosuke",SS,20,0.829,26,42,14,10,,81983891
+1940,Regular Season,Tsubasa Baseball Club,14,"Yokozawa, Shichiro",2B,1,1.000,0,3,0,0,,83783872
+1940,Regular Season,Tsubasa Baseball Club,14,"Yokozawa, Shichiro",3B,104,0.918,103,245,31,31,,83783872
+1940,Regular Season,Nankai Club,2,"Yoshikawa, Yoshitsugu",1B,1,1.000,2,0,0,0,,91093876
+1940,Regular Season,Nankai Club,2,"Yoshikawa, Yoshitsugu",C,86,0.977,465,76,13,10,3,91093876
+1940,Regular Season,Nagoya Golden Dolphins,24,"Yamamoto, Jiro",2B,1,1.000,1,2,0,0,,91093878
+1940,Regular Season,Nagoya Golden Dolphins,24,"Yamamoto, Jiro",3B,27,0.948,28,64,5,8,,91093878
+1940,Regular Season,Nagoya Golden Dolphins,24,"Yamamoto, Jiro",SS,2,1.000,1,2,0,1,,91093878
+1940,Regular Season,Lion Baseball Club,14,"Yamamoto, Hideo",1B,1,0.800,4,0,1,0,,91093891
+1940,Regular Season,Lion Baseball Club,14,"Yamamoto, Hideo",OF,1,1.000,4,1,0,0,,91093891
+1940,Regular Season,Lion Baseball Club,14,"Yamamoto, Hideo",P,13,1.000,0,4,0,0,,91093891
+1940,Regular Season,Hankyu Club,9,"Yamada, Katsusaburo",OF,35,0.979,43,4,1,2,,91193872
+1940,Regular Season,Hankyu Club,9,"Yamada, Katsusaburo",P,27,0.967,13,45,2,0,,91193872
+1940,Regular Season,Nagoya Golden Dolphins,29,"Iizuka, Tatsuo",C,16,0.947,59,13,4,1,4,91193891
+1940,Regular Season,Nagoya Club,19,"Matsuo, Kozo",P,38,0.930,2,38,3,1,,91293874
+1940,Regular Season,Kurowashi,25,"Kameda, Tadashi",P,56,0.944,14,139,9,14,,91393876
+1940,Regular Season,Nagoya Golden Dolphins,28,"Omiya, Kiyoshi",C,5,0.875,20,1,3,1,1,91393878
+1940,Regular Season,Nagoya Golden Dolphins,28,"Omiya, Kiyoshi",P,2,1.000,1,0,0,0,,91393878
+1940,Regular Season,Nankai Club,32,"Kato, Kisaku",3B,1,0.000,0,0,0,0,,91393891
+1940,Regular Season,Nankai Club,32,"Kato, Kisaku",SS,19,0.917,39,72,10,10,,91393891
+1940,Regular Season,Osaka Tigers,3,"Okada, Muneyoshi",2B,8,1.000,10,24,0,3,,91593872
+1940,Regular Season,Osaka Tigers,3,"Okada, Muneyoshi",3B,10,0.943,11,22,2,3,,91593872
+1940,Regular Season,Tokyo Kyojin,23,"Go, Shosei",OF,88,0.989,167,6,2,1,,91593874
+1940,Regular Season,Tokyo Kyojin,23,"Go, Shosei",P,1,1.000,0,1,0,0,,91593874
+1940,Regular Season,Tsubasa Baseball Club,11,"Kojima, Oto",1B,5,1.000,18,0,0,3,,91593878
+1940,Regular Season,Tsubasa Baseball Club,11,"Kojima, Oto",C,20,0.953,47,14,3,1,3,91593878
+1940,Regular Season,Nagoya Golden Dolphins,22,"Takebayashi, Minoru",1B,12,0.988,84,1,1,10,,91593891
+1940,Regular Season,Nagoya Golden Dolphins,22,"Takebayashi, Minoru",2B,15,0.952,31,28,3,1,,91593891
+1940,Regular Season,Nagoya Golden Dolphins,22,"Takebayashi, Minoru",3B,1,1.000,0,1,0,0,,91593891
+1940,Regular Season,Nagoya Golden Dolphins,22,"Takebayashi, Minoru",OF,1,0.000,0,0,0,0,,91593891
+1940,Regular Season,Nagoya Golden Dolphins,22,"Takebayashi, Minoru",SS,6,0.818,7,11,4,3,,91593891
+1940,Regular Season,Osaka Tigers,23,"Tomimatsu, Nobuhiko",OF,19,0.944,16,1,1,0,,91793878
+1940,Regular Season,Lion Baseball Club,2,"Haiyama, Motoaki",1B,21,0.972,162,12,5,13,,91793891
+1940,Regular Season,Nagoya Golden Dolphins,8,"Nonin, Wataru",SS,100,0.909,189,313,50,43,,91893872
+1940,Regular Season,Kurowashi,27,"Nakagawa, Miyoshi",1B,84,0.989,815,26,9,85,,91993874
+1940,Regular Season,Kurowashi,27,"Nakagawa, Miyoshi",P,32,0.987,6,72,1,5,,91993874
+1940,Regular Season,Osaka Tigers,7,"Matsuo, Goro",OF,23,0.968,30,0,1,0,,91993891
+1940,Regular Season,Lion Baseball Club,3,"Hirota, Shuzo",1B,4,0.961,47,2,2,3,,93193872
+1940,Regular Season,Lion Baseball Club,3,"Hirota, Shuzo",C,76,0.978,296,68,8,3,7,93193872
+1940,Regular Season,Nagoya Club,25,"Masu, Kaichi",OF,103,0.975,214,17,6,5,,93393872
+1940,Regular Season,Tokyo Kyojin,19,"Mizuhara, Shigeru",3B,85,0.905,79,206,30,16,,93593872
+1940,Regular Season,Hankyu Club,16,"Yamashita, Koichi",OF,90,1.000,182,4,0,0,,93793872

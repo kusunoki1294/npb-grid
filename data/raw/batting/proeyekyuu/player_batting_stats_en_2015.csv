@@ -1,0 +1,913 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+2015,Regular Season,Saitama Seibu Lions,66,"Tanaka, Yasuhiro",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005112
+2015,Regular Season,Orix Buffaloes,1,"Nakajima, Hiroyuki",1B,117,483,417,0.240,0.342,0.357,0.699,43,46,100,71,19,0,10,149,1,2,53,1,93,10,12,0,1,01005113
+2015,Regular Season,Yokohama DeNA Baystars,22,"Takasaki, Kentaro",P,7,10,8,0.250,0.333,0.250,0.583,0,0,2,2,0,0,0,2,0,0,1,0,3,0,0,1,0,01005114
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,41,"Takai, Yuhei",RF,4,15,15,0.333,0.333,0.333,0.666,0,0,5,5,0,0,0,5,0,0,0,0,2,1,0,0,0,01005117
+2015,Japan Series,Tokyo Yakult Swallows,41,"Takai, Yuhei",RF,5,20,20,0.150,0.150,0.200,0.350,1,0,3,2,1,0,0,4,0,0,0,0,5,0,0,0,0,01005117
+2015,Regular Season,Tokyo Yakult Swallows,41,"Takai, Yuhei",RF,141,585,551,0.270,0.307,0.388,0.695,57,60,149,104,33,4,8,214,7,4,27,1,82,7,3,1,3,01005117
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,62,"Takahama, Yuto",3B,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005130
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,41,"Senga, Koudai",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005133
+2015,Japan Series,Fukuoka Softbank Hawks,41,"Senga, Koudai",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005133
+2015,Regular Season,Fukuoka Softbank Hawks,41,"Senga, Koudai",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005133
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,30,"Takeda, Shota",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005135
+2015,Japan Series,Fukuoka Softbank Hawks,30,"Takeda, Shota",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005135
+2015,Regular Season,Fukuoka Softbank Hawks,30,"Takeda, Shota",P,25,6,5,0.200,0.200,0.200,0.400,0,1,1,1,0,0,0,1,0,0,0,0,3,0,0,1,0,01005135
+2015,Regular Season,Fukuoka Softbank Hawks,16,"Higashihama, Nao",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005137
+2015,Regular Season,Hiroshima Toyo Carp,48,"Nishihara, Keita",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005139
+2015,Regular Season,Hiroshima Toyo Carp,28,"Arai, Takahiro",1B,125,480,426,0.275,0.348,0.385,0.733,52,57,117,86,22,2,7,164,3,0,48,1,73,15,2,0,4,01103888
+2015,Climax Series - First Stage,Hanshin Tigers,32,"Arai, Ryota",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01105112
+2015,Regular Season,Hanshin Tigers,32,"Arai, Ryota",PH,93,162,150,0.193,0.247,0.327,0.574,10,19,29,17,8,0,4,49,0,0,10,0,41,3,1,0,1,01105112
+2015,Regular Season,Hiroshima Toyo Carp,49,"Amaya, Soichiro",PH,30,34,28,0.214,0.353,0.214,0.567,1,2,6,6,0,0,0,6,3,4,6,0,7,1,0,0,0,01105115
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,24,"Araki, Takahiro",LF,1,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,01105131
+2015,Japan Series,Tokyo Yakult Swallows,24,"Araki, Takahiro",LF,2,0,0,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01105131
+2015,Regular Season,Tokyo Yakult Swallows,24,"Araki, Takahiro",LF,73,196,170,0.253,0.319,0.335,0.654,21,12,43,33,8,0,2,57,5,3,16,0,30,3,1,8,1,01105131
+2015,Regular Season,Yokohama DeNA Baystars,4,"Aranami, Sho",CF,70,207,188,0.298,0.354,0.463,0.817,29,14,56,35,15,2,4,87,4,3,16,0,26,2,1,1,1,01105133
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,49,"Ishikawa, Shingo",RF,43,99,87,0.207,0.289,0.345,0.634,11,11,18,11,4,1,2,30,1,1,9,0,11,2,1,2,0,01105135
+2015,Regular Season,Fukuoka Softbank Hawks,42,"Iida, Yuya",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01105137
+2015,Regular Season,Chiba Lotte Marines,2,"Nemoto, Shunichi",1B,62,187,163,0.245,0.326,0.362,0.688,19,15,40,30,3,5,2,59,2,1,20,0,41,0,0,3,1,01205112
+2015,Regular Season,Chunichi Dragons,63,"Donoue, Naomichi",3B,43,43,38,0.158,0.238,0.237,0.475,3,1,6,5,0,0,1,9,0,0,4,0,8,0,0,1,0,01205114
+2015,Regular Season,Yokohama DeNA Baystars,24,"Hayashi, Masanori",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205115
+2015,Regular Season,Tohoku Rakuten Golden Eagles,17,"Hasebe, Kohei",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205116
+2015,Regular Season,Hiroshima Toyo Carp,20,"Nagakawa, Katsuhiro",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205117
+2015,Regular Season,Chiba Lotte Marines,29,"Nishino, Yuji",P,54,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205118
+2015,Regular Season,Orix Buffaloes,67,"Furukawa, Shuichi",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205131
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,62,"Tokuyama, Takeaki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205135
+2015,Regular Season,Tokyo Yakult Swallows,62,"Tokuyama, Takeaki",P,39,3,2,0.000,0.333,0.000,0.333,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,01205135
+2015,Climax Series - Final Stage,Chiba Lotte Marines,28,"Matsunaga, Takahiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205137
+2015,Climax Series - First Stage,Chiba Lotte Marines,28,"Matsunaga, Takahiro",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205137
+2015,Regular Season,Chiba Lotte Marines,28,"Matsunaga, Takahiro",P,41,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205137
+2015,Climax Series - Final Stage,Yomiuri Giants,8,"Kataoka, Yasuyuki",2B,4,9,9,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,01305110
+2015,Climax Series - First Stage,Yomiuri Giants,8,"Kataoka, Yasuyuki",2B,3,14,10,0.300,0.364,0.300,0.664,0,1,3,3,0,0,0,3,0,0,1,0,1,0,0,3,0,01305110
+2015,Regular Season,Yomiuri Giants,8,"Kataoka, Yasuyuki",2B,113,411,348,0.244,0.299,0.374,0.673,42,36,85,61,13,1,10,130,21,9,25,0,36,7,2,36,0,01305110
+2015,Climax Series - Final Stage,Chiba Lotte Marines,8,"Imae, Toshiaki",3B,3,10,10,0.200,0.200,0.200,0.400,0,0,2,2,0,0,0,2,0,0,0,0,3,0,0,0,0,01305115
+2015,Climax Series - First Stage,Chiba Lotte Marines,8,"Imae, Toshiaki",3B,3,13,11,0.455,0.538,0.636,1.174,1,3,5,3,2,0,0,7,0,0,2,0,0,0,0,0,0,01305115
+2015,Regular Season,Chiba Lotte Marines,8,"Imae, Toshiaki",3B,98,400,373,0.287,0.330,0.365,0.695,40,38,107,84,18,4,1,136,2,2,16,1,35,17,9,0,2,01305115
+2015,Regular Season,Hiroshima Toyo Carp,29,"Egusa, Hirotaka",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01305117
+2015,Climax Series - First Stage,Hanshin Tigers,4,"Uemoto, Hiroki",2B,3,12,10,0.100,0.182,0.100,0.282,0,0,1,1,0,0,0,1,0,0,1,0,2,0,0,1,0,01305118
+2015,Regular Season,Hanshin Tigers,4,"Uemoto, Hiroki",2B,108,452,375,0.253,0.338,0.339,0.677,44,31,95,72,18,1,4,127,19,11,44,1,69,1,4,29,0,01305118
+2015,Regular Season,Yomiuri Giants,13,"Katsuki, Ryota",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01305119
+2015,Regular Season,Chunichi Dragons,8,"Ohshima, Yohei",CF,142,620,565,0.260,0.313,0.342,0.655,70,27,147,117,20,4,6,193,22,8,39,1,65,5,5,10,1,01305131
+2015,Regular Season,Hanshin Tigers,13,"Enokida, Daiki",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01305133
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,11,"Ohtani, Shohei",PH,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01305137
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,11,"Ohtani, Shohei",PH,70,119,109,0.202,0.252,0.376,0.628,15,17,22,13,4,0,5,41,1,0,8,1,43,1,0,0,2,01305137
+2015,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01403862
+2015,Regular Season,Hiroshima Toyo Carp,44,"Matsuyama, Ryuhei",PH,100,229,202,0.277,0.349,0.446,0.795,14,26,56,36,13,0,7,90,1,1,23,0,30,8,1,0,3,01405116
+2015,Regular Season,Hiroshima Toyo Carp,37,"Noma, Takayoshi",RF,127,188,170,0.241,0.286,0.371,0.657,21,10,41,27,7,6,1,63,8,2,10,0,37,2,1,6,1,01405130
+2015,Regular Season,Yokohama DeNA Baystars,66,"Nishimori, Masashi",PR,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,01405135
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,38,"Mori, Yuito",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01405139
+2015,Japan Series,Fukuoka Softbank Hawks,38,"Mori, Yuito",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01405139
+2015,Regular Season,Fukuoka Softbank Hawks,38,"Mori, Yuito",P,55,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01405139
+2015,Climax Series - Final Stage,Chiba Lotte Marines,11,"Ohmine, Yuta",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01505114
+2015,Regular Season,Chiba Lotte Marines,11,"Ohmine, Yuta",P,24,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,01505114
+2015,Regular Season,Tohoku Rakuten Golden Eagles,58,"Karashima, Wataru",P,14,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01505118
+2015,Regular Season,Saitama Seibu Lions,2,"Kaneko, Yuji",SS,57,176,156,0.224,0.271,0.308,0.579,22,6,35,27,4,3,1,48,11,7,10,0,43,0,0,10,0,01505137
+2015,Regular Season,Yomiuri Giants,31,"Matsumoto, Tetsuya",CF,44,37,34,0.147,0.194,0.176,0.370,8,0,5,4,1,0,0,6,3,0,2,0,10,0,0,1,0,01605114
+2015,Regular Season,Tohoku Rakuten Golden Eagles,31,"Mima, Manabu",P,16,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,01605133
+2015,Regular Season,Hanshin Tigers,56,"Matsuda, Ryoma",P,30,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,01605135
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,37,"Kita, Atsushi",PR,2,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01705114
+2015,Regular Season,Hiroshima Toyo Carp,66,"Kimura, Shogo",3B,72,109,93,0.269,0.297,0.355,0.652,14,8,25,19,4,2,0,33,2,0,5,0,22,1,0,8,3,01705117
+2015,Regular Season,Saitama Seibu Lions,88,"Sakata, Ryo",RF,15,42,41,0.146,0.167,0.195,0.362,0,1,6,4,2,0,0,8,0,0,1,0,10,1,0,0,0,01705118
+2015,Regular Season,Yokohama DeNA Baystars,65,"Kuniyoshi, Yuki",P,28,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01705131
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,26,"Kyuko, Kentaro",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01705133
+2015,Japan Series,Tokyo Yakult Swallows,26,"Kyuko, Kentaro",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01705133
+2015,Regular Season,Tokyo Yakult Swallows,26,"Kyuko, Kentaro",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01705133
+2015,Regular Season,Tohoku Rakuten Golden Eagles,39,"Shimotsuma, Takahiro",C,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01705137
+2015,Climax Series - Final Stage,Chiba Lotte Marines,47,"Cruz, Luis",2B,3,11,11,0.091,0.091,0.091,0.182,1,0,1,1,0,0,0,1,0,0,0,0,2,1,0,0,0,01805139
+2015,Climax Series - First Stage,Chiba Lotte Marines,47,"Cruz, Luis",2B,3,12,12,0.333,0.333,0.417,0.750,2,1,4,3,1,0,0,5,0,0,0,0,0,0,0,0,0,01805139
+2015,Regular Season,Chiba Lotte Marines,47,"Cruz, Luis",2B,133,532,501,0.255,0.289,0.401,0.690,48,73,128,88,23,1,16,201,0,0,24,1,66,7,2,0,5,01805139
+2015,Regular Season,Tohoku Rakuten Golden Eagles,37,"Shima, Motohiro",C,117,411,338,0.219,0.338,0.287,0.625,28,18,74,60,9,1,4,97,6,3,60,4,69,11,1,11,1,01905114
+2015,Climax Series - Final Stage,Yomiuri Giants,14,"Donoe, Takehiro",PH,3,4,4,0.250,0.250,0.250,0.500,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,01905119
+2015,Climax Series - First Stage,Yomiuri Giants,14,"Donoe, Takehiro",PH,2,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,01905119
+2015,Regular Season,Yomiuri Giants,14,"Donoe, Takehiro",PH,59,104,98,0.276,0.301,0.480,0.781,7,13,27,14,9,1,3,47,0,0,4,0,20,6,0,1,1,01905119
+2015,Regular Season,Saitama Seibu Lions,34,"Sano, Yasuo",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01905130
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,18,"Saitoh, Yuki",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01905133
+2015,Regular Season,Tohoku Rakuten Golden Eagles,40,"Wheeler, Zelous",3B,91,313,274,0.255,0.339,0.453,0.792,28,50,70,44,12,0,14,124,1,0,30,0,63,6,6,0,3,03105130
+2015,Regular Season,Orix Buffaloes,4,"German, Esteban",3B,73,245,221,0.267,0.339,0.326,0.665,31,15,59,49,8,1,1,72,17,2,24,0,40,7,0,0,0,03105135
+2015,Regular Season,Orix Buffaloes,99,"Caraballo, Francisco",1B,64,247,222,0.252,0.316,0.455,0.771,26,35,56,35,9,0,12,101,0,1,17,0,63,3,5,0,3,03305131
+2015,Regular Season,Saitama Seibu Lions,47,"Leblanc, Wade",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03505130
+2015,Climax Series - Final Stage,Chiba Lotte Marines,54,"Despaigne, Alfredo",DH,3,9,6,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,03505139
+2015,Climax Series - First Stage,Chiba Lotte Marines,54,"Despaigne, Alfredo",DH,3,10,10,0.200,0.200,0.500,0.700,1,1,2,1,0,0,1,5,0,0,0,0,2,2,0,0,0,03505139
+2015,Regular Season,Chiba Lotte Marines,54,"Despaigne, Alfredo",DH,103,409,353,0.258,0.352,0.462,0.814,49,62,91,55,18,0,18,163,0,1,49,2,89,9,4,0,3,03505139
+2015,Climax Series - First Stage,Hanshin Tigers,34,"Takamiya, Kazuya",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11015112
+2015,Regular Season,Hanshin Tigers,34,"Takamiya, Kazuya",P,52,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11015112
+2015,Regular Season,Yokohama DeNA Baystars,46,"Tanaka, Kenjiro",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11015116
+2015,Regular Season,Tokyo Yakult Swallows,17,"Naruse, Yoshihisa",P,14,26,24,0.167,0.167,0.208,0.375,0,0,4,3,1,0,0,5,0,0,0,0,8,0,0,2,0,11015119
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,46,"Segawa, Hayao",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11015130
+2015,Regular Season,Tohoku Rakuten Golden Eagles,11,"Shiomi, Takahiro",P,16,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11015133
+2015,Regular Season,Orix Buffaloes,26,"Tohmei, Daiki",P,25,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,11015139
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,7,"Nakamura, Akira",RF,3,10,7,0.429,0.500,0.429,0.929,0,0,3,3,0,0,0,3,0,0,1,0,1,0,0,2,0,11215116
+2015,Japan Series,Fukuoka Softbank Hawks,7,"Nakamura, Akira",RF,5,20,20,0.200,0.200,0.350,0.550,1,1,4,3,0,0,1,7,0,0,0,0,3,0,0,0,0,11215116
+2015,Regular Season,Fukuoka Softbank Hawks,7,"Nakamura, Akira",RF,135,590,506,0.300,0.386,0.350,0.736,58,39,152,129,22,0,1,177,7,4,66,0,47,7,6,9,3,11215116
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,9,"Nakashima, Takuya",SS,3,13,11,0.455,0.500,0.455,0.955,1,1,5,5,0,0,0,5,0,1,1,0,1,0,0,1,0,11215118
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,9,"Nakashima, Takuya",SS,143,617,515,0.264,0.350,0.287,0.637,69,39,136,126,8,2,0,148,34,7,66,0,93,10,2,34,0,11215118
+2015,Regular Season,Orix Buffaloes,20,"Mahara, Takahiro",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11215119
+2015,Regular Season,Fukuoka Softbank Hawks,32,"Tsukada, Masayoshi",LF,12,12,12,0.167,0.167,0.417,0.584,1,1,2,1,0,0,1,5,2,0,0,0,2,0,0,0,0,11215135
+2015,Regular Season,Hanshin Tigers,2,"Hojoh, Fumiya",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11215137
+2015,Regular Season,Fukuoka Softbank Hawks,43,"Egawa, Tomoaki",PH,25,37,34,0.206,0.243,0.382,0.625,4,4,7,3,3,0,1,13,0,0,2,0,11,1,0,0,1,11315110
+2015,Regular Season,Hiroshima Toyo Carp,62,"Imai, Keisuke",P,11,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,11315112
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,19,"Ishikawa, Masanori",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11315115
+2015,Japan Series,Tokyo Yakult Swallows,19,"Ishikawa, Masanori",P,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11315115
+2015,Regular Season,Tokyo Yakult Swallows,19,"Ishikawa, Masanori",P,25,47,38,0.184,0.225,0.184,0.409,2,1,7,7,0,0,0,7,0,0,2,0,13,1,0,7,0,11315115
+2015,Regular Season,Chiba Lotte Marines,30,"Ito, Yoshihiro",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11315116
+2015,Regular Season,Yokohama DeNA Baystars,14,"Ishida, Kenta",P,12,24,22,0.045,0.045,0.045,0.090,0,0,1,1,0,0,0,1,0,0,0,0,8,1,0,2,0,11315130
+2015,Regular Season,Chiba Lotte Marines,44,"Inoue, Seiya",1B,5,12,11,0.182,0.250,0.182,0.432,0,0,2,2,0,0,0,2,0,0,1,0,1,1,0,0,0,11315139
+2015,Regular Season,Saitama Seibu Lions,59,"Nagae, Kyohei",SS,54,30,22,0.182,0.280,0.273,0.553,6,4,4,3,0,1,0,6,0,0,1,0,13,0,2,5,0,11415135
+2015,Regular Season,Hiroshima Toyo Carp,59,"Mima, Yuki",3B,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11415137
+2015,Regular Season,Yokohama DeNA Baystars,62,"Mantani, Kohei",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11415139
+2015,Regular Season,Chunichi Dragons,17,"Kawai, Yudai",P,3,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,11515110
+2015,Regular Season,Tohoku Rakuten Golden Eagles,65,"Oyama, Keiji",C,6,6,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,1,0,11515112
+2015,Regular Season,Saitama Seibu Lions,9,"Osaki, Yutaro",PH,47,85,73,0.219,0.277,0.301,0.578,2,9,16,12,3,0,1,22,0,0,5,1,16,0,2,2,3,11515114
+2015,Regular Season,Yomiuri Giants,17,"Ohtake, Kan",P,11,16,15,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,7,2,0,1,0,11515115
+2015,Regular Season,Chunichi Dragons,64,"Oguma, Ryosuke",P,13,10,8,0.000,0.111,0.000,0.111,1,0,0,0,0,0,0,0,0,0,1,0,5,0,0,1,0,11515118
+2015,Regular Season,Yomiuri Giants,38,"Okamoto, Kazuma",3B,17,31,28,0.214,0.290,0.321,0.611,2,4,6,5,0,0,1,9,2,0,2,0,4,3,1,0,0,11515130
+2015,Regular Season,Chunichi Dragons,21,"Okada, Toshiya",P,50,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11515131
+2015,Regular Season,Chunichi Dragons,22,"Ohno, Yudai",P,28,69,62,0.113,0.127,0.129,0.256,0,2,7,6,1,0,0,8,0,0,1,0,30,0,0,6,0,11515133
+2015,Regular Season,Tokyo Yakult Swallows,91,"Kanabushi, Ugo",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11515135
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,29,"Ogawa, Yasuhiro",P,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,11515137
+2015,Japan Series,Tokyo Yakult Swallows,29,"Ogawa, Yasuhiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11515137
+2015,Regular Season,Tokyo Yakult Swallows,29,"Ogawa, Yasuhiro",P,27,57,46,0.109,0.180,0.174,0.354,4,4,5,4,0,0,1,8,0,0,4,0,24,0,0,7,0,11515137
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,31,"Oka, Hiromi",RF,3,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11515139
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,31,"Oka, Hiromi",RF,101,294,259,0.236,0.299,0.336,0.635,35,26,61,43,14,0,4,87,18,3,17,0,64,8,7,10,1,11515139
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,37,"Fukuda, Shuhei",RF,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11615114
+2015,Japan Series,Fukuoka Softbank Hawks,37,"Fukuda, Shuhei",RF,5,16,12,0.417,0.533,0.417,0.950,1,2,5,5,0,0,0,5,2,1,3,0,1,0,0,1,0,11615114
+2015,Regular Season,Fukuoka Softbank Hawks,37,"Fukuda, Shuhei",RF,84,183,168,0.232,0.283,0.339,0.622,28,14,39,25,11,2,1,57,10,4,12,0,35,1,0,3,0,11615114
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,10,"Morioka, Ryosuke",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11615117
+2015,Japan Series,Tokyo Yakult Swallows,10,"Morioka, Ryosuke",PH,3,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,11615117
+2015,Regular Season,Tokyo Yakult Swallows,10,"Morioka, Ryosuke",PH,75,125,112,0.188,0.246,0.250,0.496,10,9,21,17,2,1,1,28,1,1,8,0,22,6,1,3,1,11615117
+2015,Regular Season,Fukuoka Softbank Hawks,00,"Hosoyamada, Takeshi",C,12,8,6,0.167,0.286,0.333,0.619,2,2,1,0,1,0,0,2,1,0,1,1,0,0,0,1,0,11615118
+2015,Regular Season,Tohoku Rakuten Golden Eagles,24,"Fukuda, Masayoshi",CF,67,210,185,0.216,0.277,0.270,0.547,20,12,40,32,7,0,1,50,5,8,13,0,45,2,3,8,1,11615130
+2015,Regular Season,Tokyo Yakult Swallows,20,"Yamamoto, Tetsuya",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11615131
+2015,Climax Series - Final Stage,Chiba Lotte Marines,18,"Fujioka, Takahiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11615135
+2015,Regular Season,Chiba Lotte Marines,18,"Fujioka, Takahiro",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11615135
+2015,Regular Season,Tokyo Yakult Swallows,46,"Yachi, Ryota",PH,4,6,6,0.500,0.500,0.667,1.167,1,0,3,2,1,0,0,4,0,0,0,0,1,0,0,0,0,11615137
+2015,Regular Season,Hanshin Tigers,99,"Kano, Keisuke",PH,66,93,84,0.274,0.333,0.429,0.762,6,13,23,16,4,0,3,36,1,0,4,0,12,3,4,0,1,11715113
+2015,Regular Season,Yokohama DeNA Baystars,54,"Kosugi, Yota",P,27,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,11715118
+2015,Regular Season,Chunichi Dragons,50,"Kaneko, Takeshi",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11715130
+2015,Regular Season,Tokyo Yakult Swallows,64,"Kawasaki, Nariaki",PH,13,12,11,0.091,0.167,0.091,0.258,1,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,11715133
+2015,Regular Season,Tohoku Rakuten Golden Eagles,63,"Kitagawa, Rintaro",LF,31,86,79,0.215,0.267,0.253,0.520,8,4,17,14,3,0,0,20,3,1,6,0,19,2,0,0,1,11715135
+2015,Regular Season,Yomiuri Giants,56,"Sakaguchi, Masaki",1B,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11715137
+2015,Regular Season,Orix Buffaloes,66,"Yamamoto, Kazunao",3B,3,8,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,11815118
+2015,Regular Season,Tohoku Rakuten Golden Eagles,2,"Miyoshi, Takumi",2B,9,33,29,0.207,0.258,0.310,0.568,2,3,6,4,1,1,0,9,0,0,1,0,9,1,1,2,0,11815135
+2015,Climax Series - Final Stage,Yomiuri Giants,42,"Anderson, Leslie",1B,4,5,5,0.200,0.200,0.200,0.400,0,2,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,11815139
+2015,Climax Series - First Stage,Yomiuri Giants,42,"Anderson, Leslie",1B,2,4,4,0.250,0.250,1.000,1.250,1,1,1,0,0,0,1,4,0,0,0,0,1,0,0,0,0,11815139
+2015,Regular Season,Yomiuri Giants,42,"Anderson, Leslie",1B,83,260,234,0.252,0.327,0.402,0.729,20,31,59,38,14,0,7,94,1,1,21,1,37,5,5,0,0,11815139
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,3,"Tanaka, Kensuke",2B,3,12,11,0.273,0.333,0.364,0.697,1,1,3,2,1,0,0,4,0,0,1,0,2,0,0,0,0,11915111
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,3,"Tanaka, Kensuke",2B,134,596,532,0.284,0.354,0.352,0.706,62,66,151,125,20,2,4,187,9,3,57,0,58,9,1,5,1,11915111
+2015,Regular Season,Hanshin Tigers,29,"Kojima, Tatsuya",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11915114
+2015,Regular Season,Yokohama DeNA Baystars,55,"Goto, Taketoshi",PH,70,76,68,0.206,0.289,0.441,0.730,4,11,14,6,4,0,4,30,0,0,8,1,17,2,0,0,0,11915117
+2015,Regular Season,Orix Buffaloes,15,"Sato, Tatsuya",P,59,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11915135
+2015,Japan Series,Fukuoka Softbank Hawks,0,"Takata, Tomoki",2B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11915137
+2015,Regular Season,Fukuoka Softbank Hawks,0,"Takata, Tomoki",2B,81,175,156,0.237,0.292,0.288,0.580,16,11,37,32,3,1,1,45,4,2,12,0,43,2,0,7,0,11915137
+2015,Regular Season,Yokohama DeNA Baystars,68,"Sunada, Yoshiki",P,14,24,22,0.091,0.091,0.091,0.182,0,2,2,2,0,0,0,2,0,0,0,0,13,0,0,2,0,11915139
+2015,Regular Season,Saitama Seibu Lions,7,"Wakiya, Ryota",1B,118,272,235,0.294,0.367,0.396,0.763,32,22,69,52,13,1,3,93,4,2,27,0,47,3,1,8,1,13115112
+2015,Regular Season,Hiroshima Toyo Carp,58,"Zagurski, Mike",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13315130
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,4,"Balentien, Wladimir",LF,4,14,12,0.333,0.429,0.417,0.846,0,2,4,3,1,0,0,5,0,0,1,1,3,2,1,0,0,13315133
+2015,Japan Series,Tokyo Yakult Swallows,4,"Balentien, Wladimir",LF,5,17,17,0.176,0.176,0.176,0.352,2,0,3,3,0,0,0,3,0,0,0,0,6,1,0,0,0,13315133
+2015,Regular Season,Tokyo Yakult Swallows,4,"Balentien, Wladimir",LF,15,52,43,0.186,0.327,0.302,0.629,4,6,8,5,2,0,1,13,0,0,9,0,14,1,0,0,0,13315133
+2015,Regular Season,Tokyo Yakult Swallows,85,"Milledge, Lastings",LF,24,81,76,0.211,0.259,0.303,0.562,3,9,16,12,2,1,1,23,0,2,5,0,16,1,0,0,0,13315135
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,44,"Van Den Hurk, Rick",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13515130
+2015,Japan Series,Fukuoka Softbank Hawks,44,"Van Den Hurk, Rick",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13515130
+2015,Regular Season,Fukuoka Softbank Hawks,44,"Van Den Hurk, Rick",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13515130
+2015,Regular Season,Hiroshima Toyo Carp,55,"Eldred, Brad",LF,79,300,264,0.227,0.307,0.466,0.773,32,54,60,35,6,0,19,123,1,2,31,0,91,3,1,0,4,13515135
+2015,Regular Season,Hiroshima Toyo Carp,57,"Schierholtz, Nate",RF,65,248,232,0.250,0.298,0.435,0.733,27,30,58,36,11,1,10,101,3,2,14,0,67,0,2,0,0,13715130
+2015,Regular Season,Tohoku Rakuten Golden Eagles,90,"Murillo, Agustin",3B,9,37,32,0.313,0.405,0.344,0.749,1,1,10,9,1,0,0,11,2,0,5,0,3,1,0,0,0,13915130
+2015,Regular Season,Yomiuri Giants,36,"Nakai, Daisuke",PH,29,47,43,0.209,0.261,0.233,0.494,2,2,9,8,1,0,0,10,0,0,2,0,9,0,1,1,0,21025116
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,36,"Nakamura, Masaru",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21025131
+2015,Regular Season,Chunichi Dragons,12,"Tajima, Shinji",P,64,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21025135
+2015,Regular Season,Chunichi Dragons,24,"Fukutani, Koji",P,42,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21025137
+2015,Regular Season,Tohoku Rakuten Golden Eagles,38,"Nishimiya, Yusuke",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21025139
+2015,Climax Series - Final Stage,Yomiuri Giants,10,"Abe, Shinnosuke",1B,4,17,16,0.688,0.706,0.688,1.394,0,2,11,11,0,0,0,11,0,0,1,0,0,1,0,0,0,21125113
+2015,Climax Series - First Stage,Yomiuri Giants,10,"Abe, Shinnosuke",1B,3,12,11,0.273,0.250,0.273,0.523,0,2,3,3,0,0,0,3,0,0,0,0,1,0,0,0,1,21125113
+2015,Regular Season,Yomiuri Giants,10,"Abe, Shinnosuke",1B,111,419,343,0.242,0.370,0.414,0.784,44,47,83,54,14,0,15,142,0,0,64,1,84,9,8,0,4,21125113
+2015,Regular Season,Chunichi Dragons,65,"Itoh, Junki",P,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21125118
+2015,Regular Season,Hiroshima Toyo Carp,30,"Ichioka, Ryuji",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21125135
+2015,Japan Series,Tokyo Yakult Swallows,12,"Ishiyama, Taichi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21125137
+2015,Regular Season,Tokyo Yakult Swallows,12,"Ishiyama, Taichi",P,21,33,29,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,13,2,0,4,0,21125137
+2015,Regular Season,Chunichi Dragons,7,"Morino, Masahiko",1B,82,252,206,0.262,0.378,0.301,0.679,25,10,54,46,8,0,0,62,2,0,37,1,38,0,3,3,3,21223884
+2015,Regular Season,Tohoku Rakuten Golden Eagles,6,"Fujita, Kazuya",2B,111,451,392,0.270,0.326,0.349,0.675,38,43,106,86,14,1,5,137,8,3,28,2,30,3,8,16,7,21225110
+2015,Regular Season,Tohoku Rakuten Golden Eagles,30,"Nagai, Satoshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21225114
+2015,Climax Series - Final Stage,Yomiuri Giants,50,"Tone, Chiaki",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21225130
+2015,Climax Series - First Stage,Yomiuri Giants,50,"Tone, Chiaki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21225130
+2015,Regular Season,Yomiuri Giants,50,"Tone, Chiaki",P,46,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21225130
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,8,"Nishikawa, Haruki",LF,3,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21225133
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,8,"Nishikawa, Haruki",LF,125,521,442,0.276,0.368,0.391,0.759,68,35,122,90,18,9,5,173,30,7,60,2,98,1,4,15,0,21225133
+2015,Regular Season,Hiroshima Toyo Carp,53,"Toda, Takaya",P,34,12,11,0.091,0.091,0.091,0.182,1,0,1,1,0,0,0,1,0,0,0,0,6,0,0,1,0,21225135
+2015,Regular Season,Orix Buffaloes,11,"Matsuba, Takahiro",P,18,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21225137
+2015,Regular Season,Chiba Lotte Marines,64,"Futaki, Kota",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21225139
+2015,Regular Season,Chunichi Dragons,36,"Ogasawara, Michihiro",PH,53,59,51,0.294,0.373,0.353,0.726,2,8,15,12,3,0,0,18,0,0,7,1,10,1,0,0,1,21323884
+2015,Climax Series - Final Stage,Yomiuri Giants,40,"Kato, Ken",C,4,8,5,0.000,0.286,0.000,0.286,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,0,21323888
+2015,Climax Series - First Stage,Yomiuri Giants,40,"Kato, Ken",C,3,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,21323888
+2015,Regular Season,Yomiuri Giants,40,"Kato, Ken",C,35,83,75,0.240,0.272,0.280,0.552,3,3,18,15,3,0,0,21,0,0,4,0,24,2,0,2,2,21323888
+2015,Regular Season,Hiroshima Toyo Carp,24,"Kawauchi, Takaya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21325111
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,1,"Uchikawa, Seiichi",LF,3,13,12,0.417,0.462,0.500,0.962,2,4,5,4,1,0,0,6,0,0,0,0,0,0,1,0,0,21325113
+2015,Regular Season,Fukuoka Softbank Hawks,1,"Uchikawa, Seiichi",LF,136,585,529,0.284,0.340,0.395,0.735,60,82,150,114,24,1,11,209,1,0,45,2,55,24,4,0,7,21325113
+2015,Climax Series - First Stage,Hanshin Tigers,25,"Egoshi, Taiga",CF,3,9,8,0.250,0.333,0.375,0.708,1,0,2,1,1,0,0,3,0,0,0,0,4,0,1,0,0,21325130
+2015,Regular Season,Hanshin Tigers,25,"Egoshi, Taiga",CF,56,176,168,0.214,0.250,0.387,0.637,21,16,36,20,8,3,5,65,2,0,6,0,64,0,2,0,0,21325130
+2015,Regular Season,Tohoku Rakuten Golden Eagles,27,"Okajima, Takero",LF,41,155,137,0.168,0.232,0.255,0.487,13,13,23,15,5,2,1,35,7,2,12,0,15,0,0,4,2,21325135
+2015,Regular Season,Tohoku Rakuten Golden Eagles,47,"Otsuka, Takahito",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21325137
+2015,Climax Series - First Stage,Hanshin Tigers,44,"Umeno, Ryutaro",C,2,5,5,0.600,0.600,0.800,1.400,0,1,3,2,1,0,0,4,0,1,0,0,0,0,0,0,0,21325139
+2015,Regular Season,Hanshin Tigers,44,"Umeno, Ryutaro",C,56,149,138,0.239,0.276,0.406,0.682,16,18,33,19,9,1,4,56,0,2,6,0,33,2,1,4,0,21325139
+2015,Regular Season,Saitama Seibu Lions,36,"Yoneno, Tomohito",RF,2,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21425111
+2015,Regular Season,Chiba Lotte Marines,59,"Hosoya, Kei",1B,16,14,10,0.300,0.429,0.300,0.729,4,2,3,3,0,0,0,3,1,0,3,0,1,0,0,0,1,21425112
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,24,"Hasegawa, Yuya",DH,2,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,21425114
+2015,Japan Series,Fukuoka Softbank Hawks,24,"Hasegawa, Yuya",DH,4,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,21425114
+2015,Regular Season,Fukuoka Softbank Hawks,24,"Hasegawa, Yuya",DH,30,96,85,0.224,0.313,0.400,0.713,8,12,19,14,0,0,5,34,0,0,11,1,27,0,0,0,0,21425114
+2015,Regular Season,Hiroshima Toyo Carp,9,"Maru, Yoshihiro",CF,143,633,530,0.249,0.361,0.413,0.774,81,63,132,84,28,1,19,219,15,7,94,2,143,4,1,4,4,21425116
+2015,Regular Season,Chunichi Dragons,20,"Nomura, Ryosuke",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21425130
+2015,Regular Season,Hiroshima Toyo Carp,19,"Nomura, Yusuke",P,15,27,22,0.000,0.043,0.000,0.043,0,0,0,0,0,0,0,0,0,0,1,0,12,0,0,4,0,21425135
+2015,Regular Season,Orix Buffaloes,64,"Morimoto, Shota",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21425137
+2015,Regular Season,Saitama Seibu Lions,33,"Yamakawa, Hotaka",PH,1,1,1,1.000,1.000,1.000,2.000,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,21425139
+2015,Regular Season,Hiroshima Toyo Carp,15,"Kuroda, Hiroki",P,26,56,47,0.064,0.120,0.085,0.205,1,1,3,2,1,0,0,4,0,0,3,0,25,0,0,6,0,21523884
+2015,Regular Season,Hanshin Tigers,63,"Kato, Kosuke",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525113
+2015,Regular Season,Chiba Lotte Marines,19,"Karakawa, Yuki",P,12,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,21525116
+2015,Regular Season,Yokohama DeNA Baystars,16,"Kaga, Shigeru",P,9,1,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,21525131
+2015,Regular Season,Hanshin Tigers,48,"Kaneda, Kazuyuki",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525137
+2015,Regular Season,Tokyo Yakult Swallows,70,"Yagi, Ryosuke",P,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21625118
+2015,Climax Series - Final Stage,Yomiuri Giants,30,"Miyaguni, Ryosuke",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21625133
+2015,Climax Series - First Stage,Yomiuri Giants,30,"Miyaguni, Ryosuke",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21625133
+2015,Regular Season,Yomiuri Giants,30,"Miyaguni, Ryosuke",P,39,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21625133
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,12,"Matsumoto, Go",PH,11,14,11,0.182,0.250,0.273,0.523,2,0,2,1,1,0,0,3,0,0,1,0,5,0,0,2,0,21625135
+2015,Climax Series - First Stage,Hanshin Tigers,40,"Tsuruoka, Kazunari",C,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21723882
+2015,Regular Season,Hanshin Tigers,40,"Tsuruoka, Kazunari",C,70,179,153,0.229,0.296,0.301,0.597,16,15,35,26,8,0,1,46,0,0,15,1,43,2,0,10,1,21723882
+2015,Regular Season,Yokohama DeNA Baystars,47,"Takahashi, Hisanori",P,6,1,0,0.000,1.000,0.000,1.000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,21725111
+2015,Regular Season,Yokohama DeNA Baystars,9,"Kurobane, Toshiki",C,63,149,129,0.178,0.239,0.225,0.464,8,7,23,19,3,0,1,29,0,1,11,0,32,2,0,7,2,21725112
+2015,Regular Season,Saitama Seibu Lions,65,"Saito, Shogo",LF,103,112,96,0.260,0.324,0.375,0.699,19,5,25,18,5,0,2,36,4,2,5,0,35,1,4,7,0,21725116
+2015,Regular Season,Hanshin Tigers,00,"Shibata, Kohei",CF,20,49,42,0.190,0.261,0.214,0.475,2,2,8,7,1,0,0,9,0,0,3,0,15,0,1,3,0,21725118
+2015,Regular Season,Tohoku Rakuten Golden Eagles,29,"Koseki, Shota",C,40,78,68,0.162,0.208,0.221,0.429,6,5,11,9,1,0,1,15,0,1,3,0,12,3,1,6,0,21725131
+2015,Regular Season,Saitama Seibu Lions,58,"Kumashiro, Masato",RF,38,41,36,0.111,0.175,0.111,0.286,3,3,4,4,0,0,0,4,1,0,3,0,6,0,0,1,1,21725133
+2015,Regular Season,Yokohama DeNA Baystars,29,"Shirasaki, Hiroyuki",SS,81,238,204,0.225,0.269,0.368,0.637,25,9,46,30,9,1,6,75,2,4,11,0,45,1,1,22,0,21725137
+2015,Regular Season,Tohoku Rakuten Golden Eagles,99,"Konno, Ryuta",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21725139
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,31,"Matsumoto, Yuichi",PH,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21823888
+2015,Japan Series,Tokyo Yakult Swallows,31,"Matsumoto, Yuichi",PH,4,4,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,21823888
+2015,Regular Season,Tokyo Yakult Swallows,31,"Matsumoto, Yuichi",PH,39,51,47,0.170,0.216,0.213,0.429,1,5,8,6,2,0,0,10,0,0,3,0,5,1,0,0,1,21823888
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,1,"Yoh, Daikan",CF,3,13,11,0.182,0.308,0.273,0.581,2,0,2,1,1,0,0,3,0,0,2,1,4,1,0,0,0,21825112
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,1,"Yoh, Daikan",CF,86,381,352,0.259,0.306,0.358,0.664,47,36,91,72,10,2,7,126,14,2,21,1,93,4,4,2,2,21825112
+2015,Regular Season,Orix Buffaloes,17,"Yamasaki, Sachiya",P,17,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,21825130
+2015,Regular Season,Yomiuri Giants,68,"Yoshikawa, Daiki",3B,47,60,56,0.250,0.276,0.375,0.651,11,4,14,8,5,1,0,21,3,0,2,0,15,1,0,2,0,21825133
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,20,"Crotta, Michael",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21825139
+2015,Climax Series - Final Stage,Chiba Lotte Marines,9,"Fukura, Kazuya",1B,2,8,6,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,21923889
+2015,Climax Series - First Stage,Chiba Lotte Marines,9,"Fukura, Kazuya",1B,2,7,7,0.571,0.571,0.714,1.285,2,1,4,3,1,0,0,5,0,0,0,0,1,0,0,0,0,21923889
+2015,Regular Season,Chiba Lotte Marines,9,"Fukura, Kazuya",1B,73,199,173,0.272,0.367,0.324,0.691,17,21,47,42,3,0,2,56,1,0,20,1,34,4,6,0,0,21923889
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,7,"Tanaka, Hiroyasu",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21925110
+2015,Japan Series,Tokyo Yakult Swallows,7,"Tanaka, Hiroyasu",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21925110
+2015,Regular Season,Tokyo Yakult Swallows,7,"Tanaka, Hiroyasu",PH,82,151,134,0.201,0.272,0.261,0.533,13,11,27,22,3,1,1,35,3,0,11,0,18,4,2,4,0,21925110
+2015,Regular Season,Hiroshima Toyo Carp,6,"Soyogi, Eishin",3B,96,332,283,0.237,0.323,0.360,0.683,24,27,67,45,15,1,6,102,2,2,36,0,49,6,1,10,2,21925112
+2015,Climax Series - Final Stage,Chiba Lotte Marines,00,"Takahama, Takuya",1B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21925116
+2015,Climax Series - First Stage,Chiba Lotte Marines,00,"Takahama, Takuya",1B,3,2,1,0.000,0.500,0.000,0.500,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,21925116
+2015,Regular Season,Chiba Lotte Marines,00,"Takahama, Takuya",1B,33,45,42,0.286,0.302,0.333,0.635,5,4,12,10,2,0,0,14,0,0,1,0,11,0,0,2,0,21925116
+2015,Regular Season,Orix Buffaloes,9,"Sakaguchi, Tomotaka",LF,36,121,107,0.262,0.333,0.355,0.688,8,5,28,20,7,0,1,38,1,0,12,0,18,1,0,1,1,21925117
+2015,Climax Series - First Stage,Hanshin Tigers,1,"Toritani, Takashi",SS,3,14,13,0.308,0.357,0.385,0.742,1,0,4,3,1,0,0,5,0,0,1,0,3,0,0,0,0,21925119
+2015,Regular Season,Hanshin Tigers,1,"Toritani, Takashi",SS,143,646,551,0.281,0.380,0.367,0.747,69,42,155,124,21,4,6,202,9,6,89,2,77,8,1,2,3,21925119
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,39,"Takanashi, Hirotoshi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21925139
+2015,Regular Season,Orix Buffaloes,42,"Blanco, Tony",DH,52,189,165,0.194,0.286,0.364,0.650,13,24,32,22,1,0,9,60,0,0,21,1,53,2,1,0,2,23125118
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,58,"Ondrusek, Logan",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23125130
+2015,Japan Series,Tokyo Yakult Swallows,58,"Ondrusek, Logan",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23125130
+2015,Regular Season,Tokyo Yakult Swallows,58,"Ondrusek, Logan",P,72,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23125130
+2015,Regular Season,Chunichi Dragons,60,"Nanita, Ricardo",LF,52,169,156,0.308,0.351,0.385,0.736,9,15,48,36,12,0,0,60,1,0,9,0,24,4,2,1,1,23325130
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,5,"Laird, Brandon",3B,3,12,10,0.500,0.583,0.800,1.383,2,1,5,2,3,0,0,8,0,0,1,0,1,1,1,0,0,23525130
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Laird, Brandon",3B,143,554,498,0.231,0.301,0.488,0.789,62,97,115,57,22,2,34,243,1,0,43,0,129,18,9,0,4,23525130
+2015,Climax Series - First Stage,Chiba Lotte Marines,49,"Chen, Kuan-Yu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23525133
+2015,Regular Season,Chiba Lotte Marines,49,"Chen, Kuan-Yu",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23525133
+2015,Regular Season,Hiroshima Toyo Carp,70,"Heath, Deunte",P,43,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23525139
+2015,Regular Season,Yokohama DeNA Baystars,42,"Below, Duane",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23725130
+2015,Regular Season,Yokohama DeNA Baystars,00,"Tono, Shun",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035110
+2015,Regular Season,Tokyo Yakult Swallows,8,"Takeuchi, Shinichi",1B,51,71,66,0.197,0.243,0.227,0.470,5,3,13,11,2,0,0,15,0,0,4,0,15,1,0,1,0,31035112
+2015,Regular Season,Orix Buffaloes,0,"Tsuchiya, Teppei",RF,13,22,22,0.136,0.136,0.182,0.318,0,1,3,2,1,0,0,4,0,0,0,0,2,1,0,0,0,31035113
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,48,"Tanimoto, Keisuke",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035118
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,48,"Tanimoto, Keisuke",P,61,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035118
+2015,Regular Season,Yomiuri Giants,35,"Nishimura, Kentaro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035119
+2015,Climax Series - Final Stage,Yomiuri Giants,54,"Takagi, Hayato",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035130
+2015,Regular Season,Yomiuri Giants,54,"Takagi, Hayato",P,26,48,42,0.095,0.095,0.119,0.214,1,0,4,3,1,0,0,5,0,0,0,0,21,2,0,6,0,31035130
+2015,Climax Series - First Stage,Yomiuri Giants,28,"Takagi, Kyosuke",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035135
+2015,Regular Season,Yomiuri Giants,28,"Takagi, Kyosuke",P,33,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31035135
+2015,Regular Season,Saitama Seibu Lions,19,"Toyoda, Takuya",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035139
+2015,Regular Season,Chiba Lotte Marines,63,"Aomatsu, Keiyo",1B,13,20,20,0.150,0.150,0.350,0.500,2,2,3,1,1,0,1,7,0,0,0,0,7,0,0,0,0,31135110
+2015,Regular Season,Hiroshima Toyo Carp,27,"Aizawa, Tsubasa",C,93,290,252,0.246,0.330,0.369,0.699,23,30,62,46,7,3,6,93,0,1,26,3,49,9,7,2,3,31135114
+2015,Regular Season,Chunichi Dragons,69,"Akasaka, Kazuyuki",PH,35,49,43,0.326,0.408,0.372,0.780,2,8,14,12,2,0,0,16,2,0,6,0,8,0,0,0,0,31135116
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,26,"Asama, Daiki",RF,3,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31135130
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,26,"Asama, Daiki",RF,46,140,130,0.285,0.307,0.377,0.684,16,10,37,28,6,3,0,49,4,2,5,0,29,2,0,3,2,31135130
+2015,Regular Season,Chunichi Dragons,68,"Akada, Ryuichiro",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31135131
+2015,Regular Season,Saitama Seibu Lions,55,"Akiyama, Shogo",CF,143,675,602,0.359,0.419,0.522,0.941,108,55,216,156,36,10,14,314,17,17,60,2,78,6,4,7,2,31135133
+2015,Regular Season,Orix Buffaloes,3,"Adachi, Ryoichi",SS,139,593,506,0.239,0.310,0.348,0.658,57,55,121,91,16,3,11,176,16,15,48,0,68,11,6,29,4,31135135
+2015,Regular Season,Yokohama DeNA Baystars,31,"Akahori, Daichi",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31135137
+2015,Regular Season,Tohoku Rakuten Golden Eagles,62,"Aizawa, Susumu",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31135139
+2015,Regular Season,Orix Buffaloes,34,"Nakayama, Shinya",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31235112
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,33,"Hatakeyama, Kazuhiro",1B,4,16,13,0.231,0.313,0.462,0.775,1,2,3,2,0,0,1,6,0,0,1,0,2,0,1,0,1,31235113
+2015,Japan Series,Tokyo Yakult Swallows,33,"Hatakeyama, Kazuhiro",1B,5,20,18,0.222,0.300,0.556,0.856,2,3,4,2,0,0,2,10,0,0,2,0,7,0,0,0,0,31235113
+2015,Regular Season,Tokyo Yakult Swallows,33,"Hatakeyama, Kazuhiro",1B,137,584,512,0.268,0.344,0.471,0.815,64,105,137,85,26,0,26,241,0,0,62,0,92,10,2,0,8,31235113
+2015,Regular Season,Hiroshima Toyo Carp,34,"Nakata, Ren",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31235118
+2015,Regular Season,Hiroshima Toyo Carp,56,"Nakazaki, Shota",P,69,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31235133
+2015,Regular Season,Chiba Lotte Marines,69,"Hijii, Ryuzo",LF,6,14,14,0.143,0.143,0.286,0.429,1,2,2,0,2,0,0,4,0,0,0,0,3,0,0,0,0,31235139
+2015,Climax Series - First Stage,Hanshin Tigers,49,"Imanari, Ryota",3B,2,10,9,0.111,0.111,0.222,0.333,0,0,1,0,1,0,0,2,0,0,0,0,4,0,0,1,0,31335112
+2015,Regular Season,Hanshin Tigers,49,"Imanari, Ryota",3B,93,304,269,0.283,0.345,0.320,0.665,25,16,76,68,7,0,1,86,1,1,24,0,78,1,2,8,1,31335112
+2015,Regular Season,Yomiuri Giants,52,"Inzen, Tomoya",PH,3,2,2,1.000,1.000,1.000,2.000,0,2,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,31335114
+2015,Regular Season,Fukuoka Softbank Hawks,21,"Iwasaki, Sho",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335116
+2015,Regular Season,Orix Buffaloes,30,"Iwasaki, Kyohei",2B,35,113,96,0.281,0.343,0.427,0.770,13,8,27,21,2,0,4,41,2,2,8,0,23,0,1,8,0,31335118
+2015,Regular Season,Tohoku Rakuten Golden Eagles,46,"Ito, Ryota",DH,8,23,22,0.273,0.304,0.591,0.895,2,2,6,3,1,0,2,13,1,0,0,0,5,1,1,0,0,31335130
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,2,"Imamiya, Kenta",SS,3,12,10,0.300,0.300,0.300,0.600,1,0,3,3,0,0,0,3,0,0,0,0,1,1,0,2,0,31335131
+2015,Japan Series,Fukuoka Softbank Hawks,2,"Imamiya, Kenta",SS,5,20,18,0.278,0.350,0.500,0.850,6,1,5,3,1,0,1,9,0,0,1,0,6,0,1,0,0,31335131
+2015,Regular Season,Fukuoka Softbank Hawks,2,"Imamiya, Kenta",SS,142,530,457,0.228,0.279,0.326,0.605,52,45,104,76,18,3,7,149,3,3,34,0,83,13,0,35,4,31335131
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,32,"Inui, Masahiro",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335133
+2015,Climax Series - First Stage,Hanshin Tigers,67,"Iwazaki, Suguru",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335139
+2015,Regular Season,Hanshin Tigers,67,"Iwazaki, Suguru",P,15,28,26,0.154,0.154,0.154,0.308,0,0,4,4,0,0,0,4,0,0,0,0,8,0,0,2,0,31335139
+2015,Regular Season,Chunichi Dragons,5,"Wada, Kazuhiro",LF,79,234,218,0.298,0.346,0.404,0.750,16,26,65,52,8,0,5,88,1,0,14,0,40,9,2,0,0,31433884
+2015,Climax Series - First Stage,Hanshin Tigers,7,"Nishioka, Tsuyoshi",3B,3,3,2,0.500,0.333,0.500,0.833,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,31435117
+2015,Regular Season,Hanshin Tigers,7,"Nishioka, Tsuyoshi",3B,50,196,172,0.262,0.347,0.343,0.690,20,14,45,35,8,0,2,59,1,3,22,0,21,5,1,0,1,31435117
+2015,Regular Season,Chunichi Dragons,31,"Nomoto, Kei",PH,10,16,14,0.143,0.250,0.214,0.464,1,0,2,1,1,0,0,3,0,0,2,1,6,0,0,0,0,31435118
+2015,Regular Season,Tokyo Yakult Swallows,57,"Matsui, Jun",PH,7,13,12,0.167,0.231,0.167,0.398,1,0,2,2,0,0,0,2,0,0,0,0,3,0,1,0,0,31435131
+2015,Regular Season,Hiroshima Toyo Carp,11,"Fukui, Yuya",P,21,41,36,0.028,0.054,0.028,0.082,0,1,1,1,0,0,0,1,0,0,1,0,22,2,0,4,0,31435133
+2015,Regular Season,Yokohama DeNA Baystars,35,"Mikami, Tomoya",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31435139
+2015,Regular Season,Hiroshima Toyo Carp,40,"Kura, Yoshikazu",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31533886
+2015,Regular Season,Saitama Seibu Lions,4,"Onizaki, Yuji",SS,59,124,107,0.196,0.263,0.243,0.506,9,6,21,16,5,0,0,26,1,0,10,0,23,1,0,6,1,31535116
+2015,Regular Season,Yokohama DeNA Baystars,56,"Osada, Shuichiro",P,45,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535117
+2015,Regular Season,Fukuoka Softbank Hawks,23,"Kidokoro, Ryuma",DH,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,31535119
+2015,Regular Season,Orix Buffaloes,50,"Oda, Yuya",RF,31,97,89,0.326,0.362,0.461,0.823,14,6,29,22,4,1,2,41,6,1,4,0,23,1,1,3,0,31535130
+2015,Regular Season,Saitama Seibu Lions,30,"Okamoto, Yosuke",P,42,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535131
+2015,Regular Season,Tohoku Rakuten Golden Eagles,21,"Kamata, Yoshinao",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535135
+2015,Regular Season,Saitama Seibu Lions,37,"Okada, Masatoshi",C,36,54,50,0.240,0.283,0.300,0.583,3,5,12,11,0,0,1,15,0,0,3,0,10,1,0,1,0,31535139
+2015,Climax Series - First Stage,Chiba Lotte Marines,16,"Wakui, Hideaki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31635110
+2015,Regular Season,Chiba Lotte Marines,16,"Wakui, Hideaki",P,28,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,31635110
+2015,Regular Season,Chunichi Dragons,55,"Fukuda, Nobumasa",1B,79,185,169,0.243,0.297,0.408,0.705,12,23,41,27,6,2,6,69,0,0,14,0,62,7,0,0,2,31635114
+2015,Regular Season,Chunichi Dragons,29,"Yamai, Daisuke",P,33,38,33,0.121,0.147,0.121,0.268,1,2,4,4,0,0,0,4,0,0,1,0,15,0,0,4,0,31635115
+2015,Regular Season,Yokohama DeNA Baystars,28,"Fukuchi, Motoharu",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31635130
+2015,Regular Season,Tokyo Yakult Swallows,68,"Yamanaka, Hirofumi",P,9,15,14,0.143,0.143,0.143,0.286,0,1,2,2,0,0,0,2,0,0,0,0,8,2,0,1,0,31635137
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,5,"Kawabata, Shingo",3B,4,16,15,0.467,0.500,0.467,0.967,4,0,7,7,0,0,0,7,0,0,0,0,1,0,1,0,0,31735112
+2015,Japan Series,Tokyo Yakult Swallows,5,"Kawabata, Shingo",3B,5,21,18,0.167,0.286,0.167,0.453,2,1,3,3,0,0,0,3,0,0,3,0,2,1,0,0,0,31735112
+2015,Regular Season,Tokyo Yakult Swallows,5,"Kawabata, Shingo",3B,143,632,581,0.336,0.383,0.439,0.822,87,57,195,152,34,1,8,255,4,3,43,0,72,15,3,2,2,31735112
+2015,Regular Season,Tohoku Rakuten Golden Eagles,26,"Kaneto, Norihito",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31735114
+2015,Regular Season,Hanshin Tigers,64,"Kuwahara, Kentaro",P,6,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31735116
+2015,Regular Season,Tokyo Yakult Swallows,16,"Kiya, Ryohei",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31735135
+2015,Regular Season,Fukuoka Softbank Hawks,54,"Yanase, Akihiro",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31835112
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,9,"Yanagita, Yuki",CF,3,13,12,0.167,0.231,0.417,0.648,2,2,2,1,0,0,1,5,0,0,1,0,1,0,0,0,0,31835133
+2015,Japan Series,Fukuoka Softbank Hawks,9,"Yanagita, Yuki",CF,5,23,19,0.158,0.304,0.211,0.515,2,2,3,2,1,0,0,4,1,0,4,0,3,0,0,0,0,31835133
+2015,Regular Season,Fukuoka Softbank Hawks,9,"Yanagita, Yuki",CF,138,605,502,0.363,0.469,0.631,1.100,110,99,182,116,31,1,34,317,32,8,88,4,101,9,14,0,1,31835133
+2015,Regular Season,Tohoku Rakuten Golden Eagles,34,"Muto, Yoshitaka",P,60,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31835135
+2015,Regular Season,Chunichi Dragons,00,"Hernandez, Anderson",SS,138,548,498,0.271,0.317,0.400,0.717,54,58,135,95,27,2,11,199,5,3,35,1,106,13,0,10,4,31835139
+2015,Regular Season,Orix Buffaloes,28,"Komatsu, Satoshi",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31935114
+2015,Regular Season,Yomiuri Giants,18,"Sugiuchi, Toshiya",P,17,28,26,0.115,0.115,0.115,0.230,1,2,3,3,0,0,0,3,0,0,0,0,9,0,0,2,0,31935115
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,33,"Sunaga, Hideki",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31935119
+2015,Regular Season,Yokohama DeNA Baystars,12,"Kobayashi, Hiroshi",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31935133
+2015,Regular Season,Saitama Seibu Lions,43,"Takahashi, Tomomi",P,62,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31935137
+2015,Regular Season,Yokohama DeNA Baystars,63,"Sekine, Taiki",CF,55,159,144,0.222,0.261,0.326,0.587,14,10,32,24,2,5,1,47,8,3,8,0,22,1,0,6,1,31935139
+2015,Regular Season,Hanshin Tigers,12,"Watanabe, Ryo",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33135112
+2015,Regular Season,Chunichi Dragons,51,"Yamamoto, Masashi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33135130
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,58,"Sarfate, Dennis",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33135133
+2015,Japan Series,Fukuoka Softbank Hawks,58,"Sarfate, Dennis",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33135133
+2015,Regular Season,Fukuoka Softbank Hawks,58,"Sarfate, Dennis",P,65,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33135133
+2015,Regular Season,Chiba Lotte Marines,56,"Huffman, Chad",LF,6,13,11,0.091,0.231,0.091,0.322,0,0,1,1,0,0,0,1,0,0,2,0,4,0,0,0,0,33135139
+2015,Regular Season,Tohoku Rakuten Golden Eagles,3,"Sanchez, Gaby",1B,66,232,199,0.226,0.328,0.392,0.720,19,18,45,26,12,0,7,78,3,2,27,0,40,4,4,0,2,33335130
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,53,"Roman, Orlando",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33335135
+2015,Japan Series,Tokyo Yakult Swallows,53,"Roman, Orlando",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33335135
+2015,Regular Season,Tokyo Yakult Swallows,53,"Roman, Orlando",P,61,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33335135
+2015,Climax Series - Final Stage,Yomiuri Giants,49,"Poreda, Aaron",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33535130
+2015,Climax Series - First Stage,Yomiuri Giants,49,"Poreda, Aaron",P,1,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,33535130
+2015,Regular Season,Yomiuri Giants,49,"Poreda, Aaron",P,24,44,43,0.093,0.114,0.093,0.207,0,1,4,4,0,0,0,4,0,0,1,0,29,0,0,0,0,33535130
+2015,Regular Season,Orix Buffaloes,91,"Maestri, Alessandro",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33535135
+2015,Regular Season,Tohoku Rakuten Golden Eagles,49,"Cruz, Rhiner",P,52,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33535139
+2015,Regular Season,Yomiuri Giants,21,"Francisco, Juan",1B,5,18,18,0.167,0.167,0.167,0.334,0,1,3,3,0,0,0,3,0,0,0,0,11,0,0,0,0,33735130
+2015,Regular Season,Hanshin Tigers,46,"Tsuru, Naoto",P,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41045112
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,12,"Takaya, Hiroaki",C,3,6,5,0.000,0.167,0.000,0.167,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,41045114
+2015,Japan Series,Fukuoka Softbank Hawks,12,"Takaya, Hiroaki",C,3,10,8,0.375,0.375,0.375,0.750,1,1,3,3,0,0,0,3,0,0,0,0,1,0,0,2,0,41045114
+2015,Regular Season,Fukuoka Softbank Hawks,12,"Takaya, Hiroaki",C,93,192,171,0.175,0.234,0.240,0.474,14,16,30,22,6,1,1,41,0,1,13,0,31,2,0,8,0,41045114
+2015,Regular Season,Tohoku Rakuten Golden Eagles,56,"Nakagawa, Taishi",1B,62,206,187,0.235,0.293,0.358,0.651,14,21,44,31,8,0,5,67,2,1,12,0,60,6,4,1,2,41045118
+2015,Regular Season,Tohoku Rakuten Golden Eagles,55,"Nishida, Tetsuro",SS,62,183,168,0.220,0.268,0.280,0.548,19,8,37,29,7,0,1,47,2,4,11,0,44,4,0,4,0,41045131
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,64,"Taniguchi, Yuya",RF,48,124,107,0.243,0.325,0.346,0.671,15,10,26,19,5,0,2,37,5,2,14,0,25,3,0,1,2,41045133
+2015,Regular Season,Saitama Seibu Lions,61,"Tashiro, Shotaro",RF,7,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,1,0,0,4,0,0,0,0,41045135
+2015,Climax Series - First Stage,Hanshin Tigers,19,"Fujinami, Shintaro",P,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41045137
+2015,Regular Season,Hanshin Tigers,19,"Fujinami, Shintaro",P,28,69,57,0.140,0.167,0.175,0.342,2,6,8,6,2,0,0,10,0,0,2,0,31,0,0,9,1,41045137
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,43,"Hakumura, Akihiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41045139
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,43,"Hakumura, Akihiro",P,50,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41045139
+2015,Regular Season,Chiba Lotte Marines,3,"Omura, Saburo",PH,36,52,46,0.217,0.308,0.304,0.612,2,4,10,8,1,0,1,14,0,0,6,0,14,1,0,0,0,41143880
+2015,Climax Series - Final Stage,Yomiuri Giants,2,"Ibata, Hirokazu",3B,4,13,8,0.125,0.462,0.125,0.587,0,0,1,1,0,0,0,1,0,0,5,0,0,0,0,0,0,41143886
+2015,Climax Series - First Stage,Yomiuri Giants,2,"Ibata, Hirokazu",3B,2,8,8,0.375,0.375,0.375,0.750,1,0,3,3,0,0,0,3,0,0,0,0,1,0,0,0,0,41143886
+2015,Regular Season,Yomiuri Giants,2,"Ibata, Hirokazu",3B,98,321,269,0.234,0.331,0.279,0.610,20,19,63,53,9,0,1,75,3,3,37,0,36,4,3,10,2,41143886
+2015,Climax Series - First Stage,Hanshin Tigers,16,"Ando, Yuya",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41145115
+2015,Regular Season,Hanshin Tigers,16,"Ando, Yuya",P,50,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41145115
+2015,Climax Series - Final Stage,Chiba Lotte Marines,12,"Ishikawa, Ayumu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41145139
+2015,Climax Series - First Stage,Chiba Lotte Marines,12,"Ishikawa, Ayumu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41145139
+2015,Regular Season,Chiba Lotte Marines,12,"Ishikawa, Ayumu",P,27,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,41145139
+2015,Regular Season,Saitama Seibu Lions,0,"Morimoto, Hichori",RF,12,15,12,0.000,0.143,0.000,0.143,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,1,0,41243888
+2015,Regular Season,Fukuoka Softbank Hawks,47,"Hoashi, Kazuyuki",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41245113
+2015,Regular Season,Saitama Seibu Lions,44,"Tonosaki, Shuta",SS,43,110,97,0.186,0.240,0.247,0.487,16,4,18,14,3,0,1,24,9,1,6,0,30,1,1,6,0,41245130
+2015,Regular Season,Orix Buffaloes,60,"Maeda, Yuji",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41245131
+2015,Japan Series,Tokyo Yakult Swallows,30,"Nishida, Akihisa",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41245133
+2015,Regular Season,Tokyo Yakult Swallows,30,"Nishida, Akihisa",C,13,40,34,0.147,0.216,0.265,0.481,1,2,5,3,1,0,1,9,0,0,3,0,11,1,0,3,0,41245133
+2015,Regular Season,Yokohama DeNA Baystars,17,"Mishima, Kazuki",P,20,30,25,0.120,0.120,0.120,0.240,1,0,3,3,0,0,0,3,0,0,0,0,10,0,0,5,0,41245137
+2015,Regular Season,Orix Buffaloes,19,"Kaneko, Chihiro",P,16,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,41345110
+2015,Regular Season,Yomiuri Giants,44,"Ohta, Taishi",CF,60,138,130,0.277,0.319,0.354,0.673,13,3,36,28,7,0,1,46,3,2,7,0,39,0,1,0,0,41345118
+2015,Climax Series - Final Stage,Chiba Lotte Marines,67,"Kanamori, Takayuki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41345119
+2015,Regular Season,Chiba Lotte Marines,67,"Kanamori, Takayuki",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41345119
+2015,Regular Season,Chunichi Dragons,23,"Endoh, Issei",SS,41,165,140,0.271,0.348,0.386,0.734,16,14,38,30,4,0,4,54,3,3,11,0,25,1,7,4,3,41345130
+2015,Climax Series - Final Stage,Chiba Lotte Marines,14,"Ohtani, Tomohisa",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41345131
+2015,Climax Series - First Stage,Chiba Lotte Marines,14,"Ohtani, Tomohisa",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41345131
+2015,Regular Season,Chiba Lotte Marines,14,"Ohtani, Tomohisa",P,56,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41345131
+2015,Regular Season,Tohoku Rakuten Golden Eagles,36,"Enomoto, Aoi",CF,15,19,18,0.056,0.105,0.056,0.161,3,0,1,1,0,0,0,1,0,0,1,0,5,0,0,0,0,41345133
+2015,Regular Season,Yokohama DeNA Baystars,33,"Otosaka, Tomo",CF,52,138,124,0.226,0.276,0.339,0.615,11,10,28,22,1,2,3,42,2,3,9,0,25,0,0,4,1,41345135
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,17,"Urano, Hiroshi",P,12,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,41345139
+2015,Regular Season,Yomiuri Giants,23,"Aikawa, Ryoji",C,40,114,99,0.313,0.384,0.505,0.889,11,17,31,22,3,2,4,50,1,0,12,0,16,1,0,2,1,41443880
+2015,Regular Season,Yokohama DeNA Baystars,18,"Miura, Daisuke",P,17,31,28,0.143,0.143,0.179,0.322,0,0,4,3,1,0,0,5,0,0,0,0,7,0,0,3,0,41443885
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,46,"Honda, Yuichi",2B,3,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41445112
+2015,Japan Series,Fukuoka Softbank Hawks,46,"Honda, Yuichi",2B,4,1,1,1.000,1.000,1.000,2.000,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,41445112
+2015,Regular Season,Fukuoka Softbank Hawks,46,"Honda, Yuichi",2B,61,174,158,0.228,0.274,0.278,0.552,17,4,36,28,8,0,0,44,5,4,9,0,36,2,1,6,0,41445112
+2015,Regular Season,Orix Buffaloes,2,"Hara, Takuya",3B,92,148,135,0.170,0.233,0.230,0.463,14,8,23,19,2,0,2,31,1,0,10,0,34,1,1,2,0,41445114
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,25,"Miyanishi, Naoki",P,50,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41445116
+2015,Regular Season,Chunichi Dragons,47,"Hamada, Tomohiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41445130
+2015,Regular Season,Chiba Lotte Marines,58,"Yachi, Kento",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41445131
+2015,Regular Season,Saitama Seibu Lions,35,"Makita, Kazuhisa",P,34,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,41445133
+2015,Regular Season,Chunichi Dragons,62,"Kudo, Takahito",LF,13,7,6,0.167,0.286,0.167,0.453,2,0,1,1,0,0,0,1,0,0,1,0,3,0,0,0,0,41545110
+2015,Climax Series - Final Stage,Chiba Lotte Marines,61,"Kakunaka, Katsuya",LF,3,13,13,0.308,0.308,0.538,0.846,1,0,4,1,3,0,0,7,0,0,0,0,5,0,0,0,0,41545114
+2015,Climax Series - First Stage,Chiba Lotte Marines,61,"Kakunaka, Katsuya",LF,3,14,10,0.200,0.385,0.200,0.585,0,0,2,2,0,0,0,2,0,0,3,0,4,0,0,1,0,41545114
+2015,Regular Season,Chiba Lotte Marines,61,"Kakunaka, Katsuya",LF,111,484,427,0.293,0.363,0.405,0.768,57,52,125,94,20,5,6,173,8,4,47,0,52,12,1,7,2,41545114
+2015,Regular Season,Tohoku Rakuten Golden Eagles,59,"Kikuchi, Yasunori",P,18,5,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,1,0,41545116
+2015,Regular Season,Chiba Lotte Marines,34,"Kimura, Yuta",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41545118
+2015,Regular Season,Hanshin Tigers,39,"Komiyama, Shinji",C,10,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41545119
+2015,Regular Season,Chunichi Dragons,39,"Katoh, Takuma",C,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41545130
+2015,Regular Season,Orix Buffaloes,46,"Kawabata, Takayoshi",LF,56,141,134,0.239,0.270,0.299,0.569,9,7,32,26,4,2,0,40,1,0,5,0,17,3,1,0,1,41545135
+2015,Regular Season,Chunichi Dragons,40,"Katsura, Iori",C,47,113,105,0.229,0.250,0.314,0.564,8,7,24,20,1,1,2,33,1,0,3,0,33,2,0,5,0,41545139
+2015,Regular Season,Tohoku Rakuten Golden Eagles,0,"Moriyama, Makoto",PR,47,21,15,0.200,0.294,0.267,0.561,11,0,3,2,1,0,0,4,9,3,2,0,4,2,0,4,0,41645112
+2015,Regular Season,Orix Buffaloes,24,"Miyazaki, Yuki",RF,43,148,131,0.252,0.324,0.298,0.622,13,14,33,28,4,1,0,39,3,4,13,0,25,3,1,3,0,41645133
+2015,Regular Season,Orix Buffaloes,37,"Wakatsuki, Kenya",C,5,11,11,0.091,0.091,0.091,0.182,0,0,1,1,0,0,0,1,0,0,0,0,2,1,0,0,0,41645139
+2015,Regular Season,Yokohama DeNA Baystars,8,"Tamura, Hitoshi",CF,4,8,7,0.143,0.250,0.143,0.393,1,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,41743880
+2015,Regular Season,Tohoku Rakuten Golden Eagles,70,"Kosai, Yusuke",3B,17,47,43,0.140,0.191,0.163,0.354,2,2,6,5,1,0,0,7,0,0,3,0,14,2,0,0,1,41745112
+2015,Regular Season,Saitama Seibu Lions,51,"Kimura, Fumikazu",RF,49,92,82,0.195,0.250,0.451,0.701,12,12,16,6,4,1,5,37,1,0,4,0,28,0,2,4,0,41745114
+2015,Regular Season,Hiroshima Toyo Carp,32,"Shirahama, Yuta",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41745119
+2015,Regular Season,Chiba Lotte Marines,43,"Kurosawa, Shota",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41745133
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,54,"Kondoh, Kensuke",DH,3,12,12,0.333,0.333,0.333,0.666,1,0,4,4,0,0,0,4,0,0,0,0,0,2,0,0,0,41745135
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,54,"Kondoh, Kensuke",DH,129,504,435,0.326,0.405,0.467,0.872,68,60,142,99,33,2,8,203,6,2,59,2,59,9,2,3,5,41745135
+2015,Climax Series - Final Stage,Yomiuri Giants,19,"Sugano, Tomoyuki",P,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41745137
+2015,Climax Series - First Stage,Yomiuri Giants,19,"Sugano, Tomoyuki",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,41745137
+2015,Regular Season,Yomiuri Giants,19,"Sugano, Tomoyuki",P,25,60,53,0.075,0.093,0.132,0.225,0,2,4,2,1,1,0,7,0,0,0,0,21,0,1,6,0,41745137
+2015,Regular Season,Chunichi Dragons,19,"Yoshimi, Kazuki",P,8,17,15,0.133,0.188,0.133,0.321,0,0,2,2,0,0,0,2,0,0,1,0,6,0,0,1,0,41845112
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,34,"Yoshikawa, Mitsuo",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41845114
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,34,"Yoshikawa, Mitsuo",P,26,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41845114
+2015,Regular Season,Yokohama DeNA Baystars,19,"Yamasaki, Yasuaki",P,58,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41845130
+2015,Climax Series - First Stage,Hanshin Tigers,5,"Gomez, Mauro",1B,3,13,11,0.273,0.385,0.636,1.021,1,2,3,1,1,0,1,7,0,0,2,0,4,0,0,0,0,41845139
+2015,Regular Season,Hanshin Tigers,5,"Gomez, Mauro",1B,143,601,520,0.271,0.364,0.423,0.787,49,72,141,96,28,0,17,220,0,1,72,1,134,15,6,0,3,41845139
+2015,Regular Season,Hanshin Tigers,97,"Tamaki, Yutaka",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41945110
+2015,Regular Season,Saitama Seibu Lions,48,"Takekuma, Shota",P,67,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41945116
+2015,Regular Season,Fukuoka Softbank Hawks,39,"Shimabukuro, Yosuke",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41945130
+2015,Regular Season,Yokohama DeNA Baystars,25,"Tsutsugo, Yoshitomo",LF,138,568,496,0.317,0.400,0.522,0.922,79,93,157,104,28,1,24,259,0,0,68,0,98,5,2,0,2,41945131
+2015,Climax Series - Final Stage,Chiba Lotte Marines,45,"Tamura, Tatsuhiro",C,3,9,9,0.333,0.333,0.333,0.666,0,1,3,3,0,0,0,3,0,0,0,0,2,0,0,0,0,41945137
+2015,Climax Series - First Stage,Chiba Lotte Marines,45,"Tamura, Tatsuhiro",C,3,11,5,0.200,0.556,0.200,0.756,0,1,1,1,0,0,0,1,0,0,4,0,0,0,0,2,0,41945137
+2015,Regular Season,Chiba Lotte Marines,45,"Tamura, Tatsuhiro",C,117,365,305,0.170,0.251,0.230,0.481,26,32,52,39,10,1,2,70,3,2,33,0,69,3,1,22,4,41945137
+2015,Regular Season,Yomiuri Giants,90,"Taguchi, Kazuto",P,13,19,16,0.125,0.125,0.125,0.250,0,2,2,2,0,0,0,2,0,0,0,0,8,1,0,3,0,41945139
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,42,"Garate, Victor",P,13,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43145130
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,15,"Mendoza, Luis",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43145139
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,15,"Mendoza, Luis",P,26,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,43145139
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,7,"Hermida, Jeremy",RF,50,192,166,0.211,0.318,0.289,0.607,12,18,35,25,8,1,1,48,1,1,24,0,60,1,2,0,0,43345130
+2015,Regular Season,Yomiuri Giants,5,"Cepeda, Frederich",PH,20,28,21,0.000,0.250,0.000,0.250,1,1,0,0,0,0,0,0,0,0,7,0,6,1,0,0,0,43345139
+2015,Regular Season,Yokohama DeNA Baystars,53,"Herrera, Yoslan",P,52,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,43545130
+2015,Climax Series - First Stage,Hanshin Tigers,50,"Fujii, Akihito",C,1,4,3,0.333,0.500,0.333,0.833,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,51053888
+2015,Regular Season,Hanshin Tigers,50,"Fujii, Akihito",C,71,159,134,0.172,0.284,0.194,0.478,8,3,23,21,1,1,0,26,0,0,21,1,20,4,0,4,0,51053888
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,11,"Nakata, Kenichi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51055110
+2015,Japan Series,Fukuoka Softbank Hawks,11,"Nakata, Kenichi",P,1,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,51055110
+2015,Regular Season,Fukuoka Softbank Hawks,11,"Nakata, Kenichi",P,24,7,7,0.429,0.429,0.571,1.000,1,2,3,2,1,0,0,4,0,0,0,0,4,0,0,0,0,51055110
+2015,Regular Season,Chunichi Dragons,70,"Tani, Tetsuya",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51055116
+2015,Regular Season,Orix Buffaloes,36,"Takagi, Ban",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51055130
+2015,Japan Series,Tokyo Yakult Swallows,54,"Nakazawa, Masato",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51055131
+2015,Regular Season,Tokyo Yakult Swallows,54,"Nakazawa, Masato",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51055131
+2015,Regular Season,Hanshin Tigers,69,"Shimamoto, Hiroya",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51055133
+2015,Regular Season,Yokohama DeNA Baystars,32,"Takajoh, Shuto",C,64,148,129,0.202,0.270,0.279,0.549,9,9,26,18,7,0,1,36,0,0,8,0,32,6,4,7,0,51055135
+2015,Regular Season,Tohoku Rakuten Golden Eagles,14,"Norimoto, Takahiro",P,28,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,51055137
+2015,Climax Series - Final Stage,Chiba Lotte Marines,6,"Iguchi, Tadahito",1B,1,4,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,51153884
+2015,Climax Series - First Stage,Chiba Lotte Marines,6,"Iguchi, Tadahito",1B,3,6,5,0.200,0.333,0.800,1.133,1,1,1,0,0,0,1,4,0,0,1,0,1,0,0,0,0,51153884
+2015,Regular Season,Chiba Lotte Marines,6,"Iguchi, Tadahito",1B,87,250,227,0.247,0.316,0.410,0.726,21,28,56,32,17,1,6,93,1,0,21,0,65,4,2,0,0,51153884
+2015,Regular Season,Hiroshima Toyo Carp,38,"Akamatsu, Masato",PR,52,9,9,0.222,0.222,0.333,0.555,13,0,2,1,1,0,0,3,6,3,0,0,2,0,0,0,0,51155110
+2015,Regular Season,Chunichi Dragons,14,"Asakura, Kenta",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51155111
+2015,Regular Season,Saitama Seibu Lions,32,"Asamura, Hideto",2B,141,627,537,0.270,0.362,0.385,0.747,88,81,145,111,19,2,13,207,12,9,69,0,136,13,12,2,7,51155118
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,36,"Akashi, Kenji",2B,3,9,8,0.375,0.375,0.375,0.750,2,0,3,3,0,0,0,3,0,0,0,0,1,0,0,1,0,51155119
+2015,Japan Series,Fukuoka Softbank Hawks,36,"Akashi, Kenji",2B,5,23,16,0.438,0.609,0.750,1.359,4,3,7,4,2,0,1,12,3,2,6,0,1,0,1,0,0,51155119
+2015,Regular Season,Fukuoka Softbank Hawks,36,"Akashi, Kenji",2B,115,394,342,0.263,0.330,0.342,0.672,49,30,90,72,12,3,3,117,11,5,31,1,64,4,5,12,4,51155119
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,16,"Arihara, Kohei",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51155130
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,16,"Arihara, Kohei",P,18,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51155130
+2015,Regular Season,Hanshin Tigers,27,"Akiyama, Takumi",P,3,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,51155131
+2015,Regular Season,Tohoku Rakuten Golden Eagles,53,"Aihara, Kazutomo",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51155139
+2015,Climax Series - Final Stage,Yomiuri Giants,00,"Terauchi, Takayuki",PR,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51255114
+2015,Climax Series - First Stage,Yomiuri Giants,00,"Terauchi, Takayuki",PR,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51255114
+2015,Regular Season,Yomiuri Giants,00,"Terauchi, Takayuki",PR,31,29,24,0.250,0.280,0.250,0.530,6,3,6,6,0,0,0,6,4,0,0,0,6,0,1,4,0,51255114
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,52,"Nakamura, Yuhei",C,4,14,11,0.000,0.154,0.000,0.154,0,0,0,0,0,0,0,0,0,0,2,0,3,1,0,1,0,51255118
+2015,Japan Series,Tokyo Yakult Swallows,52,"Nakamura, Yuhei",C,5,16,16,0.188,0.188,0.250,0.438,1,3,3,2,1,0,0,4,0,0,0,0,2,0,0,0,0,51255118
+2015,Regular Season,Tokyo Yakult Swallows,52,"Nakamura, Yuhei",C,136,502,442,0.231,0.299,0.276,0.575,36,33,102,86,14,0,2,122,3,2,40,1,80,9,4,14,2,51255118
+2015,Climax Series - First Stage,Hanshin Tigers,68,"Fujikawa, Shunsuke",LF,2,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,51255131
+2015,Regular Season,Hanshin Tigers,68,"Fujikawa, Shunsuke",LF,112,126,102,0.245,0.319,0.294,0.613,21,2,25,20,5,0,0,30,3,3,9,0,20,2,2,13,0,51255131
+2015,Regular Season,Hanshin Tigers,60,"Nakatani, Masahiro",PR,11,11,11,0.182,0.182,0.182,0.364,1,0,2,2,0,0,0,2,0,0,0,0,3,0,0,0,0,51255133
+2015,Regular Season,Yomiuri Giants,67,"Tsuchida, Mizuki",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51255135
+2015,Regular Season,Yokohama DeNA Baystars,34,"Hirata, Shingo",P,28,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51255139
+2015,Regular Season,Yokohama DeNA Baystars,21,"Okajima, Hideki",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353889
+2015,Climax Series - First Stage,Hanshin Tigers,21,"Iwata, Minoru",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51355112
+2015,Regular Season,Hanshin Tigers,21,"Iwata, Minoru",P,27,60,54,0.093,0.093,0.130,0.223,1,3,5,4,0,1,0,7,0,0,0,0,23,3,0,6,0,51355112
+2015,Regular Season,Hiroshima Toyo Carp,31,"Ishihara, Yoshiyuki",C,83,238,216,0.241,0.287,0.296,0.583,15,12,52,44,6,0,2,64,1,0,14,2,42,10,0,8,0,51355115
+2015,Regular Season,Chiba Lotte Marines,51,"Uematsu, Masatomo",P,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51355116
+2015,Regular Season,Chunichi Dragons,28,"Iwata, Shinji",P,3,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,51355118
+2015,Regular Season,Saitama Seibu Lions,22,"Okamoto, Atsushi",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51355119
+2015,Regular Season,Tohoku Rakuten Golden Eagles,50,"Irino, Takahiro",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51355130
+2015,Regular Season,Hiroshima Toyo Carp,16,"Imamura, Takeru",P,21,1,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,51355131
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,63,"Uwasawa, Naoyuki",P,13,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,51355135
+2015,Regular Season,Hanshin Tigers,17,"Iwasada, Yuta",P,5,6,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,51355139
+2015,Regular Season,Tohoku Rakuten Golden Eagles,68,"Yamasaki, Koji",SS,40,80,71,0.141,0.153,0.155,0.308,4,2,10,9,1,0,0,11,0,0,1,0,12,1,0,8,0,51453888
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,21,"Matsuoka, Kenichi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51455110
+2015,Japan Series,Tokyo Yakult Swallows,21,"Matsuoka, Kenichi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51455110
+2015,Regular Season,Tokyo Yakult Swallows,21,"Matsuoka, Kenichi",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51455110
+2015,Regular Season,Chunichi Dragons,4,"Fujii, Atsushi",LF,118,315,275,0.295,0.349,0.415,0.764,28,45,81,63,9,3,6,114,3,0,23,1,69,4,2,11,4,51455112
+2015,Regular Season,Saitama Seibu Lions,28,"Fujiwara, Ryohei",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51455116
+2015,Climax Series - Final Stage,Yomiuri Giants,32,"Hashimoto, Itaru",CF,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51455118
+2015,Climax Series - First Stage,Yomiuri Giants,32,"Hashimoto, Itaru",CF,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51455118
+2015,Regular Season,Yomiuri Giants,32,"Hashimoto, Itaru",CF,68,151,137,0.219,0.270,0.336,0.606,19,10,30,17,11,1,1,46,4,1,9,0,35,1,1,3,1,51455118
+2015,Climax Series - Final Stage,Chiba Lotte Marines,23,"Nakamura, Shogo",3B,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51455130
+2015,Climax Series - First Stage,Chiba Lotte Marines,23,"Nakamura, Shogo",3B,2,5,5,0.200,0.200,0.200,0.400,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,51455130
+2015,Regular Season,Chiba Lotte Marines,23,"Nakamura, Shogo",3B,111,299,269,0.230,0.279,0.331,0.610,43,21,62,49,4,4,5,89,4,4,15,0,69,4,4,9,2,51455130
+2015,Regular Season,Chunichi Dragons,38,"Matsui, Masato",C,51,146,133,0.135,0.179,0.165,0.344,4,7,18,14,4,0,0,22,2,1,5,0,43,3,2,6,0,51455131
+2015,Regular Season,Yokohama DeNA Baystars,51,"Miyazaki, Toshiro",2B,58,163,152,0.289,0.331,0.362,0.693,13,10,44,35,8,0,1,55,0,0,6,0,21,5,4,0,1,51455137
+2015,Regular Season,Chiba Lotte Marines,37,"Miki, Ryo",PR,40,29,29,0.138,0.138,0.241,0.379,6,2,4,3,0,0,1,7,1,0,0,0,5,2,0,0,0,51455139
+2015,Regular Season,Fukuoka Softbank Hawks,28,"Otonari, Kenji",P,11,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,51555114
+2015,Regular Season,Yomiuri Giants,63,"Kasahara, Shoki",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51555118
+2015,Regular Season,Tohoku Rakuten Golden Eagles,15,"Ono, Fumiya",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51555130
+2015,Regular Season,Chunichi Dragons,57,"Ogawa, Ryuya",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51555131
+2015,Regular Season,Yokohama DeNA Baystars,41,"Ohara, Shinji",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51555133
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,30,"Kagiya, Yohei",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51555137
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,30,"Kagiya, Yohei",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51555137
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",3B,3,11,9,0.111,0.273,0.111,0.384,1,0,1,1,0,0,0,1,0,0,1,0,3,0,1,0,0,51655112
+2015,Japan Series,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",3B,5,22,20,0.200,0.273,0.400,0.673,1,1,4,2,1,0,1,8,1,1,1,0,6,0,1,0,0,51655112
+2015,Regular Season,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",3B,143,603,533,0.287,0.357,0.533,0.890,91,94,153,94,22,2,35,284,8,10,60,3,135,17,2,0,8,51655112
+2015,Regular Season,Hiroshima Toyo Carp,18,"Maeda, Kenta",P,29,73,62,0.194,0.219,0.274,0.493,4,5,12,9,2,0,1,17,0,0,2,0,25,1,0,9,0,51655114
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,37,"Yano, Kenji",PH,2,5,5,0.200,0.200,0.200,0.400,0,2,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,51655117
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,37,"Yano, Kenji",PH,40,84,76,0.197,0.274,0.289,0.563,5,5,15,10,4,0,1,22,0,0,4,0,10,3,4,0,0,51655117
+2015,Regular Season,Yomiuri Giants,48,"Yano, Kenji",PH,8,14,14,0.071,0.071,0.071,0.142,0,1,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,51655117
+2015,Regular Season,Yokohama DeNA Baystars,61,"Matsumoto, Keijiro",PH,51,85,73,0.274,0.329,0.384,0.713,10,7,20,14,5,0,1,28,0,1,7,0,19,2,0,3,2,51655118
+2015,Regular Season,Chunichi Dragons,37,"Mitsumata, Taiki",SS,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51655133
+2015,Regular Season,Tokyo Yakult Swallows,40,"Furuno, Masato",P,27,14,10,0.100,0.231,0.100,0.331,1,2,1,1,0,0,0,1,0,0,2,0,6,0,0,1,1,51655135
+2015,Regular Season,Chunichi Dragons,61,"Wakamatsu, Shunta",P,23,47,41,0.073,0.116,0.073,0.189,0,1,3,3,0,0,0,3,0,0,2,0,24,0,0,4,0,51655137
+2015,Regular Season,Tohoku Rakuten Golden Eagles,54,"Yokoyama, Takaaki",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51655139
+2015,Climax Series - Final Stage,Yomiuri Giants,27,"Sanematsu, Kazunari",C,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51753888
+2015,Regular Season,Yomiuri Giants,27,"Sanematsu, Kazunari",C,22,39,33,0.182,0.270,0.273,0.543,5,3,6,5,0,0,1,9,1,0,2,0,9,0,2,2,0,51753888
+2015,Regular Season,Orix Buffaloes,18,"Kishida, Mamoru",P,50,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51755112
+2015,Regular Season,Saitama Seibu Lions,1,"Kuriyama, Takumi",LF,142,622,533,0.268,0.358,0.371,0.729,66,42,143,108,25,0,10,198,3,1,72,0,88,15,5,8,4,51755115
+2015,Regular Season,Hiroshima Toyo Carp,4,"Kokubo, Tetsuya",PH,69,88,71,0.296,0.419,0.366,0.785,2,15,21,18,2,0,1,26,1,0,15,0,18,2,0,2,0,51755116
+2015,Regular Season,Saitama Seibu Lions,16,"Kikuchi, Yusei",P,23,4,4,0.250,0.250,0.500,0.750,0,0,1,0,1,0,0,2,0,0,0,0,2,0,0,0,0,51755131
+2015,Regular Season,Yokohama DeNA Baystars,37,"Kuwahara, Masayuki",CF,60,116,103,0.184,0.222,0.272,0.494,14,5,19,13,4,1,1,28,1,1,5,0,26,1,0,8,0,51755135
+2015,Regular Season,Yokohama DeNA Baystars,11,"Yamaguchi, Shun",P,20,33,29,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,17,1,0,4,0,51855112
+2015,Regular Season,Orix Buffaloes,32,"Dickson, Brandon",P,20,5,4,0.250,0.250,0.250,0.500,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,51855137
+2015,Regular Season,Hanshin Tigers,22,Oh Seung-hwan,P,63,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51855139
+2015,Regular Season,Saitama Seibu Lions,13,"Nishiguchi, Fumiya",P,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51953880
+2015,Climax Series - Final Stage,Yomiuri Giants,24,"Takahashi, Yoshinobu",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,51953886
+2015,Climax Series - First Stage,Yomiuri Giants,24,"Takahashi, Yoshinobu",PH,2,2,1,1.000,1.000,2.000,3.000,0,1,1,0,1,0,0,2,0,0,1,0,0,0,0,0,0,51953886
+2015,Regular Season,Yomiuri Giants,24,"Takahashi, Yoshinobu",PH,77,158,133,0.278,0.386,0.429,0.815,11,21,37,27,5,0,5,57,2,0,20,0,39,3,4,0,1,51953886
+2015,Climax Series - Final Stage,Yomiuri Giants,6,"Sakamoto, Hayato",SS,4,17,14,0.286,0.412,0.500,0.912,1,2,4,3,0,0,1,7,0,0,3,0,3,0,0,0,0,51955114
+2015,Climax Series - First Stage,Yomiuri Giants,6,"Sakamoto, Hayato",SS,3,13,10,0.200,0.385,0.300,0.685,2,0,2,1,1,0,0,3,0,1,3,0,3,0,0,0,0,51955114
+2015,Regular Season,Yomiuri Giants,6,"Sakamoto, Hayato",SS,130,558,479,0.269,0.353,0.401,0.754,50,68,129,93,21,3,12,192,10,4,65,1,79,5,0,9,5,51955114
+2015,Regular Season,Orix Buffaloes,43,"Sakayori, Seiichi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51955130
+2015,Regular Season,Hanshin Tigers,61,"Tagami, Kenichi",PR,9,1,1,0.000,0.000,0.000,0.000,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51955131
+2015,Regular Season,Yomiuri Giants,59,"Koyama, Yuki",P,7,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,51955133
+2015,Regular Season,Hanshin Tigers,15,"Yokoyama, Yuya",P,4,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53155130
+2015,Climax Series - First Stage,Hanshin Tigers,9,"Murton, Matt",LF,3,13,11,0.455,0.538,0.727,1.265,2,1,5,4,0,0,1,8,0,1,2,0,2,0,0,0,0,53155131
+2015,Regular Season,Hanshin Tigers,9,"Murton, Matt",LF,140,583,544,0.276,0.316,0.375,0.691,46,59,150,114,27,0,9,204,0,1,31,0,77,21,3,0,5,53155131
+2015,Regular Season,Chunichi Dragons,0,"Luna, Hector",3B,134,564,496,0.292,0.367,0.397,0.764,61,60,145,110,26,1,8,197,11,0,57,2,77,13,5,0,6,53155137
+2015,Regular Season,Hiroshima Toyo Carp,42,"Johnson, Kris",P,28,64,60,0.150,0.177,0.167,0.344,5,1,9,8,1,0,0,10,0,0,2,0,29,0,0,2,0,53355130
+2015,Regular Season,Hiroshima Toyo Carp,69,"Rosario, Rainel",LF,42,136,124,0.258,0.324,0.347,0.671,9,12,32,25,5,0,2,43,1,1,11,0,23,1,1,0,0,53355139
+2015,Climax Series - Final Stage,Yomiuri Giants,39,"Mikolas, Miles",P,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,53555130
+2015,Climax Series - First Stage,Yomiuri Giants,39,"Mikolas, Miles",P,1,3,3,0.333,0.333,0.667,1.000,0,1,1,0,1,0,0,2,0,0,0,0,2,0,0,0,0,53555130
+2015,Regular Season,Yomiuri Giants,39,"Mikolas, Miles",P,21,54,49,0.143,0.160,0.184,0.344,5,3,7,5,2,0,0,9,0,1,1,0,22,1,0,4,0,53555130
+2015,Regular Season,Tokyo Yakult Swallows,71,"Dening, Mitch",LF,64,227,194,0.222,0.326,0.345,0.671,13,22,43,27,12,0,4,67,0,1,23,1,43,2,8,0,2,53755130
+2015,Regular Season,Fukuoka Softbank Hawks,3,"Matsunaka, Nobuhiko",PH,9,16,15,0.067,0.125,0.067,0.192,0,1,1,1,0,0,0,1,0,0,1,0,9,0,0,0,0,61063884
+2015,Climax Series - First Stage,Hanshin Tigers,14,"Nohmi, Atsushi",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61065110
+2015,Regular Season,Hanshin Tigers,14,"Nohmi, Atsushi",P,27,59,54,0.130,0.145,0.148,0.293,2,2,7,6,1,0,0,8,0,0,1,0,27,3,0,4,0,61065110
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,6,"Nakata, Sho",1B,3,12,11,0.273,0.333,0.273,0.606,0,2,3,3,0,0,0,3,0,0,1,0,1,0,0,0,0,61065116
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,6,"Nakata, Sho",1B,143,611,539,0.263,0.339,0.479,0.818,72,102,142,86,26,0,30,258,1,0,64,4,120,11,1,0,7,61065116
+2015,Regular Season,Chunichi Dragons,52,"Takeyama, Shingo",C,11,27,22,0.091,0.231,0.091,0.322,1,0,2,2,0,0,0,2,0,0,4,0,8,1,0,1,0,61065117
+2015,Regular Season,Orix Buffaloes,59,"Tsukahara, Shohei",P,41,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61065133
+2015,Climax Series - Final Stage,Yomiuri Giants,37,"Tahara, Seiji",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61065135
+2015,Climax Series - First Stage,Yomiuri Giants,37,"Tahara, Seiji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61065135
+2015,Regular Season,Yomiuri Giants,37,"Tahara, Seiji",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61065135
+2015,Regular Season,Orix Buffaloes,23,"Fushimi, Torai",C,20,26,22,0.273,0.333,0.318,0.651,2,0,6,5,1,0,0,7,0,0,1,0,6,1,1,2,0,61065137
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,44,"Ugumori, Atsushi",DH,3,3,2,0.000,0.333,0.000,0.333,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,61165110
+2015,Regular Season,Tokyo Yakult Swallows,9,"Iihara, Yasushi",PH,18,34,32,0.219,0.235,0.250,0.485,2,3,7,6,1,0,0,8,0,0,1,0,9,1,0,0,1,61165112
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,59,"Imanami, Takahiro",SS,3,6,5,0.200,0.333,0.200,0.533,0,1,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,61165114
+2015,Japan Series,Tokyo Yakult Swallows,59,"Imanami, Takahiro",SS,5,15,14,0.286,0.333,0.286,0.619,1,0,4,4,0,0,0,4,0,0,1,0,0,0,0,0,0,61165114
+2015,Regular Season,Tokyo Yakult Swallows,59,"Imanami, Takahiro",SS,68,139,123,0.317,0.375,0.431,0.806,13,13,39,29,8,0,2,53,1,0,12,0,14,1,0,3,1,61165114
+2015,Regular Season,Tohoku Rakuten Golden Eagles,48,"Ishimine, Tadashi",PH,54,149,133,0.241,0.308,0.346,0.654,13,14,32,24,5,0,3,46,0,1,12,0,36,2,1,3,0,61165116
+2015,Climax Series - Final Stage,Chiba Lotte Marines,21,"Uchi, Tatsuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61165119
+2015,Climax Series - First Stage,Chiba Lotte Marines,21,"Uchi, Tatsuya",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61165119
+2015,Regular Season,Chiba Lotte Marines,21,"Uchi, Tatsuya",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61165119
+2015,Climax Series - Final Stage,Chiba Lotte Marines,5,"Ishimine, Shota",CF,3,12,11,0.273,0.333,0.273,0.606,1,0,3,3,0,0,0,3,1,0,1,0,2,0,0,0,0,61165133
+2015,Climax Series - First Stage,Chiba Lotte Marines,5,"Ishimine, Shota",CF,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61165133
+2015,Regular Season,Chiba Lotte Marines,5,"Ishimine, Shota",CF,34,109,86,0.291,0.357,0.326,0.683,10,12,25,22,3,0,0,28,5,0,10,0,10,0,0,11,2,61165133
+2015,Regular Season,Yokohama DeNA Baystars,15,"Inoh, Shoichi",P,21,42,40,0.100,0.100,0.100,0.200,1,1,4,4,0,0,0,4,0,0,0,0,18,0,0,2,0,61165137
+2015,Regular Season,Chunichi Dragons,6,"Hirata, Ryosuke",RF,130,559,491,0.283,0.369,0.430,0.799,76,53,139,96,27,3,13,211,11,7,64,1,86,5,3,1,0,61265112
+2015,Regular Season,Tohoku Rakuten Golden Eagles,5,"Makida, Akihisa",LF,82,172,151,0.311,0.376,0.377,0.753,17,14,47,40,5,1,1,57,4,3,14,0,14,7,3,2,2,61265113
+2015,Regular Season,Hiroshima Toyo Carp,00,"Nakahigashi, Naoki",PR,9,4,3,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,61265114
+2015,Regular Season,Orix Buffaloes,5,"Hirano, Keiichi",2B,29,123,107,0.262,0.333,0.299,0.632,12,5,28,24,4,0,0,32,1,0,11,1,11,1,1,3,1,61265115
+2015,Regular Season,Tohoku Rakuten Golden Eagles,23,"Hijirisawa, Ryo",CF,86,288,258,0.252,0.317,0.314,0.631,26,12,65,51,12,2,0,81,15,5,23,0,68,4,2,4,1,61265116
+2015,Regular Season,Fukuoka Softbank Hawks,13,"Niho, Akira",P,44,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61265118
+2015,Regular Season,Chunichi Dragons,16,"Matayoshi, Katsuki",P,63,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61265139
+2015,Regular Season,Orix Buffaloes,55,"Okada, Takahiro",LF,105,416,389,0.280,0.317,0.424,0.741,44,51,109,77,19,2,11,165,2,0,17,0,80,9,6,0,4,61365112
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,2,"Ohno, Shota",C,3,7,7,0.429,0.429,0.429,0.858,0,0,3,3,0,0,0,3,0,0,0,0,0,0,0,0,0,61365118
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,2,"Ohno, Shota",C,74,180,155,0.194,0.273,0.245,0.518,10,10,30,22,8,0,0,38,1,0,16,0,29,6,1,8,0,61365118
+2015,Regular Season,Fukuoka Softbank Hawks,4,"Kaneko, Keisuke",2B,9,4,4,0.500,0.500,0.500,1.000,0,0,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,61365119
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,14,"Otsuka, Yutaka",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61365131
+2015,Regular Season,Chiba Lotte Marines,53,"Emura, Naoya",C,14,7,6,0.000,0.143,0.000,0.143,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,61365133
+2015,Regular Season,Orix Buffaloes,47,"Kaida, Tomoyuki",P,48,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61365135
+2015,Regular Season,Hiroshima Toyo Carp,14,"Ohsera, Daichi",P,51,23,22,0.000,0.043,0.000,0.043,0,0,0,0,0,0,0,0,0,0,1,0,13,0,0,0,0,61365139
+2015,Climax Series - First Stage,Hanshin Tigers,0,"Yamato, Maeda",CF,3,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,61465112
+2015,Regular Season,Hanshin Tigers,0,"Yamato, Maeda",CF,123,293,249,0.225,0.272,0.245,0.517,25,12,56,51,5,0,0,61,5,7,12,2,35,2,4,28,0,61465112
+2015,Regular Season,Tohoku Rakuten Golden Eagles,98,"Fujie, Hitoshi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61465118
+2015,Regular Season,Orix Buffaloes,57,"Yamada, Nobuyoshi",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61465131
+2015,Regular Season,Fukuoka Softbank Hawks,69,"Makihara, Taisei",CF,43,51,44,0.159,0.170,0.182,0.352,6,4,7,6,1,0,0,8,2,0,0,0,4,2,1,4,2,61465133
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,0,"Hiyane, Wataru",CF,3,5,4,0.500,0.600,0.750,1.350,1,1,2,1,1,0,0,3,1,0,1,0,1,0,0,0,0,61465135
+2015,Japan Series,Tokyo Yakult Swallows,0,"Hiyane, Wataru",CF,3,6,5,0.000,0.167,0.000,0.167,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,61465135
+2015,Regular Season,Tokyo Yakult Swallows,0,"Hiyane, Wataru",CF,84,240,209,0.230,0.300,0.301,0.601,42,9,48,39,6,0,3,63,6,2,17,0,38,2,4,10,0,61465135
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,57,"Yagi, Shogo",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61465137
+2015,Regular Season,Tohoku Rakuten Golden Eagles,44,"Saito, Takashi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563885
+2015,Regular Season,Yokohama DeNA Baystars,27,"Kubo, Yasutomo",P,21,34,28,0.071,0.103,0.071,0.174,1,0,2,2,0,0,0,2,0,0,1,0,17,0,0,5,0,61565110
+2015,Regular Season,Yokohama DeNA Baystars,3,"Kajitani, Takayuki",RF,134,578,520,0.275,0.342,0.425,0.767,70,66,143,93,35,2,13,221,28,13,54,0,132,4,0,2,2,61565114
+2015,Climax Series - First Stage,Hanshin Tigers,35,"Saka, Katsuhiko",1B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61565119
+2015,Regular Season,Hanshin Tigers,35,"Saka, Katsuhiko",1B,87,46,40,0.175,0.250,0.225,0.475,2,2,7,6,0,1,0,9,1,0,3,0,13,0,1,2,0,61565119
+2015,Regular Season,Tohoku Rakuten Golden Eagles,52,"Kato, Masashi",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61565130
+2015,Regular Season,Hiroshima Toyo Carp,33,"Kikuchi, Ryosuke",2B,143,644,562,0.254,0.292,0.343,0.635,62,32,143,112,20,3,8,193,19,9,29,2,92,7,2,49,2,61565135
+2015,Regular Season,Chunichi Dragons,58,"Yagi, Tomoya",P,14,17,16,0.125,0.176,0.125,0.301,1,0,2,2,0,0,0,2,0,0,1,0,3,0,0,0,0,61665112
+2015,Regular Season,Fukuoka Softbank Hawks,19,"Morifuku, Masahiko",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61665114
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,6,"Yoshimura, Yuki",PH,3,7,7,0.143,0.143,0.143,0.286,0,2,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,61665117
+2015,Japan Series,Fukuoka Softbank Hawks,6,"Yoshimura, Yuki",PH,3,5,5,0.200,0.200,0.200,0.400,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,61665117
+2015,Regular Season,Fukuoka Softbank Hawks,6,"Yoshimura, Yuki",PH,73,151,129,0.217,0.325,0.357,0.682,12,15,28,18,5,2,3,46,0,0,16,2,36,1,5,0,1,61665117
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,33,"Yanuki, Toshiyuki",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61665118
+2015,Regular Season,Yomiuri Giants,48,"Yanuki, Toshiyuki",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61665118
+2015,Regular Season,Chunichi Dragons,25,"Mutoh, Yuta",P,8,6,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,61665133
+2015,Climax Series - Final Stage,Yomiuri Giants,12,"Suzuki, Takahiro",PR,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61763884
+2015,Regular Season,Yomiuri Giants,12,"Suzuki, Takahiro",PR,65,22,17,0.294,0.400,0.529,0.929,22,4,5,3,1,0,1,9,10,1,2,0,4,0,1,2,0,61763884
+2015,Climax Series - First Stage,Hanshin Tigers,26,"Saiuchi, Hiroaki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61765135
+2015,Regular Season,Hanshin Tigers,26,"Saiuchi, Hiroaki",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61765135
+2015,Regular Season,Chunichi Dragons,45,"Sugiyama, Shota",C,64,161,153,0.183,0.209,0.261,0.470,8,17,28,22,3,0,3,40,1,1,3,1,33,3,2,3,0,61765137
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,18,"Sugiura, Toshihiro",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61765139
+2015,Japan Series,Tokyo Yakult Swallows,18,"Sugiura, Toshihiro",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61765139
+2015,Regular Season,Tokyo Yakult Swallows,18,"Sugiura, Toshihiro",P,7,12,11,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,7,1,0,1,0,61765139
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,10,"I, Deho",DH,3,12,12,0.417,0.417,0.917,1.334,3,4,5,3,0,0,2,11,0,0,0,0,3,0,0,0,0,61865135
+2015,Japan Series,Fukuoka Softbank Hawks,10,"I, Deho",DH,5,21,16,0.500,0.619,1.000,1.619,3,8,8,4,2,0,2,16,0,0,3,0,4,0,2,0,0,61865135
+2015,Regular Season,Fukuoka Softbank Hawks,10,"I, Deho",DH,141,584,510,0.282,0.368,0.524,0.892,68,98,144,83,30,0,31,267,0,1,62,0,109,17,9,0,3,61865135
+2015,Climax Series - First Stage,Hanshin Tigers,8,"Fukudome, Kosuke",RF,3,13,13,0.231,0.231,0.538,0.769,2,1,3,1,1,0,1,7,0,0,0,0,3,0,0,0,0,61963888
+2015,Regular Season,Hanshin Tigers,8,"Fukudome, Kosuke",RF,140,569,495,0.281,0.361,0.463,0.824,53,76,139,92,24,3,20,229,1,2,65,1,75,15,1,1,7,61963888
+2015,Regular Season,Fukuoka Softbank Hawks,25,"Tatsumi, Shingo",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61965118
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,10,"Shimizu, Yushi",C,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61965130
+2015,Regular Season,Hiroshima Toyo Carp,7,"Dohbayashi, Shota",PH,33,73,69,0.261,0.292,0.290,0.582,5,3,18,16,2,0,0,20,1,0,3,0,16,1,0,1,0,61965131
+2015,Regular Season,Hiroshima Toyo Carp,63,"Tanaka, Kosuke",SS,141,590,543,0.274,0.325,0.413,0.738,61,45,149,99,33,9,8,224,6,7,34,2,105,8,7,5,1,61965139
+2015,Regular Season,Saitama Seibu Lions,12,"Kuo, Junrin",P,21,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,63165130
+2015,Climax Series - Final Stage,Yomiuri Giants,20,"Mathieson, Scott",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63165135
+2015,Climax Series - First Stage,Yomiuri Giants,20,"Mathieson, Scott",P,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,63165135
+2015,Regular Season,Yomiuri Giants,20,"Mathieson, Scott",P,63,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63165135
+2015,Regular Season,Yokohama DeNA Baystars,49,"Moscoso, Guillermo",P,15,15,13,0.231,0.231,0.231,0.462,0,1,3,3,0,0,0,3,0,0,0,0,6,0,0,2,0,63165139
+2015,Regular Season,Saitama Seibu Lions,26,"Vasquez, Esmerling",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63365130
+2015,Regular Season,Chiba Lotte Marines,99,"Rosa, Carlos",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63565133
+2015,Regular Season,Chunichi Dragons,54,"Naylor, Drew",P,10,17,14,0.071,0.133,0.286,0.419,2,1,1,0,0,0,1,4,0,0,1,0,9,0,0,2,0,63765130
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,38,"Takeda, Masaru",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71075112
+2015,Regular Season,Saitama Seibu Lions,17,"Takahashi, Kona",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71075130
+2015,Regular Season,Yokohama DeNA Baystars,20,"Suda, Kota",P,29,11,7,0.143,0.250,0.143,0.393,0,0,1,1,0,0,0,1,0,0,1,0,3,0,0,3,0,71075133
+2015,Regular Season,Chunichi Dragons,43,"Hamada, Tatsuro",P,4,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,71075137
+2015,Regular Season,Chunichi Dragons,2,"Araki, Masahiro",2B,97,238,211,0.251,0.315,0.299,0.614,23,13,53,43,10,0,0,63,9,1,20,0,31,1,0,6,1,71173882
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,4,"Iiyama, Yuji",2B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71173886
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,4,"Iiyama, Yuji",2B,75,29,24,0.250,0.280,0.333,0.613,4,4,6,4,2,0,0,8,0,1,1,0,6,0,0,4,0,71173886
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,13,"Ishii, Yuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71175110
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,13,"Ishii, Yuya",P,51,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71175110
+2015,Regular Season,Chunichi Dragons,41,"Asao, Takuya",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71175114
+2015,Regular Season,Chiba Lotte Marines,60,"Abe, Kazunari",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71175116
+2015,Regular Season,Tohoku Rakuten Golden Eagles,20,"Anraku, Tomohiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71175130
+2015,Regular Season,Tohoku Rakuten Golden Eagles,00,"Abe, Toshihito",SS,66,110,102,0.196,0.219,0.235,0.454,10,5,20,17,2,1,0,24,6,4,2,0,21,1,1,5,0,71175133
+2015,Regular Season,Yokohama DeNA Baystars,43,"Abe, Tateki",P,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71175137
+2015,Regular Season,Tohoku Rakuten Golden Eagles,66,"Nishimura, Wataru",PR,3,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,71275112
+2015,Japan Series,Fukuoka Softbank Hawks,8,"Tsuruoka, Shinya",C,1,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71275117
+2015,Regular Season,Fukuoka Softbank Hawks,8,"Tsuruoka, Shinya",C,56,142,128,0.195,0.234,0.258,0.492,7,9,25,20,3,1,1,33,1,0,7,0,17,2,0,5,2,71275117
+2015,Regular Season,Orix Buffaloes,21,"Nishi, Yuki",P,24,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71275118
+2015,Regular Season,Orix Buffaloes,54,"Tsutsumi, Yuki",PH,6,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,71275135
+2015,Regular Season,Saitama Seibu Lions,14,"Masuda, Tatsushi",P,73,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71275137
+2015,Regular Season,Saitama Seibu Lions,50,"Fukukura, Kentaro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71275139
+2015,Regular Season,Chiba Lotte Marines,10,"Omatsu, Shoitsu",1B,18,53,49,0.224,0.264,0.286,0.550,5,5,11,8,3,0,0,14,0,0,3,0,12,2,0,0,1,71375110
+2015,Regular Season,Tohoku Rakuten Golden Eagles,33,"Akaminai, Ginji",1B,82,354,316,0.301,0.359,0.348,0.707,24,36,95,83,10,1,1,110,8,3,30,1,19,5,1,3,4,71375112
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,50,"Ueda, Tsuyoshi",CF,4,13,12,0.083,0.154,0.083,0.237,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,71375114
+2015,Japan Series,Tokyo Yakult Swallows,50,"Ueda, Tsuyoshi",CF,5,20,17,0.176,0.263,0.235,0.498,1,2,3,2,1,0,0,4,0,1,2,0,2,0,0,1,0,71375114
+2015,Regular Season,Tokyo Yakult Swallows,50,"Ueda, Tsuyoshi",CF,82,238,209,0.263,0.313,0.306,0.619,18,19,55,50,2,2,1,64,8,1,14,0,29,5,2,11,2,71375114
+2015,Regular Season,Yokohama DeNA Baystars,23,"Uchimura, Kensuke",2B,28,46,39,0.179,0.220,0.179,0.399,8,1,7,7,0,0,0,7,2,1,2,0,9,0,0,5,0,71375116
+2015,Regular Season,Saitama Seibu Lions,49,"Uemoto, Tatsuyuki",C,6,14,13,0.154,0.214,0.154,0.368,1,1,2,2,0,0,0,2,0,0,1,0,2,1,0,0,0,71375117
+2015,Regular Season,Hiroshima Toyo Carp,10,"Iwamoto, Takahiro",PH,7,10,10,0.300,0.300,0.400,0.700,1,0,3,2,1,0,0,4,0,0,0,0,1,0,0,0,0,71375118
+2015,Regular Season,Chunichi Dragons,26,"Iryo, Masataka",PH,9,7,7,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,1,0,0,0,3,1,0,0,0,71375130
+2015,Regular Season,Saitama Seibu Lions,31,"Iwao, Toshihiro",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71375131
+2015,Regular Season,Hanshin Tigers,59,"Iwamoto, Akira",P,13,9,7,0.000,0.125,0.000,0.125,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,1,0,71375133
+2015,Regular Season,Tokyo Yakult Swallows,44,"Iwahashi, Keiji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71375139
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,22,"Fujioka, Yoshiaki",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71475112
+2015,Regular Season,Orix Buffaloes,62,"Yamazaki, Katsuki",C,79,188,147,0.204,0.302,0.238,0.540,12,14,30,25,5,0,0,35,1,1,13,0,31,2,8,19,1,71475113
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,27,"Hosokawa, Toru",C,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71475115
+2015,Japan Series,Fukuoka Softbank Hawks,27,"Hosokawa, Toru",C,2,4,4,0.500,0.500,1.500,2.000,1,2,2,0,1,0,1,6,0,0,0,0,1,0,0,0,0,71475115
+2015,Regular Season,Fukuoka Softbank Hawks,27,"Hosokawa, Toru",C,59,114,95,0.116,0.190,0.168,0.358,4,5,11,6,5,0,0,16,0,0,9,0,37,2,0,9,1,71475115
+2015,Regular Season,Chunichi Dragons,56,"Matsui, Yusuke",LF,30,32,31,0.194,0.194,0.194,0.388,0,0,6,6,0,0,0,6,0,0,0,0,6,0,0,1,0,71475131
+2015,Regular Season,Tohoku Rakuten Golden Eagles,64,"Fukuyama, Hiroyuki",P,65,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71475133
+2015,Regular Season,Chunichi Dragons,32,"Nishikawa, Kentaro",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71475135
+2015,Regular Season,Yokohama DeNA Baystars,39,"Minei, Hiroki",C,74,208,186,0.237,0.298,0.371,0.669,18,26,44,30,8,1,5,69,0,0,12,0,46,2,5,3,2,71475139
+2015,Climax Series - Final Stage,Chiba Lotte Marines,42,"Katsuki, Ryoji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71575118
+2015,Regular Season,Chiba Lotte Marines,42,"Katsuki, Ryoji",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71575118
+2015,Climax Series - Final Stage,Chiba Lotte Marines,4,"Ogino, Takashi",LF,2,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,71575131
+2015,Climax Series - First Stage,Chiba Lotte Marines,4,"Ogino, Takashi",LF,3,11,10,0.100,0.182,0.100,0.282,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,71575131
+2015,Regular Season,Chiba Lotte Marines,4,"Ogino, Takashi",LF,82,309,279,0.269,0.317,0.337,0.654,42,13,75,62,9,2,2,94,18,5,16,0,38,5,4,9,1,71575131
+2015,Regular Season,Chunichi Dragons,53,"Kamezawa, Kyohei",2B,107,376,331,0.269,0.304,0.299,0.603,30,12,89,81,6,2,0,99,9,8,15,0,44,3,2,27,1,71575135
+2015,Regular Season,Saitama Seibu Lions,68,"Miyata, Kazuki",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675118
+2015,Regular Season,Fukuoka Softbank Hawks,17,"Wolfe, Brian",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675131
+2015,Climax Series - Final Stage,Chiba Lotte Marines,52,"Masuda, Naoya",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675135
+2015,Climax Series - First Stage,Chiba Lotte Marines,52,"Masuda, Naoya",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675135
+2015,Regular Season,Chiba Lotte Marines,52,"Masuda, Naoya",P,51,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71675135
+2015,Regular Season,Orix Buffaloes,14,"Yoshida, Kazumasa",P,14,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71675139
+2015,Regular Season,Tohoku Rakuten Golden Eagles,4,"Goto, Mitsutaka",SS,117,444,413,0.237,0.265,0.346,0.611,31,42,98,71,18,0,9,143,13,8,12,0,48,8,5,10,4,71775115
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,29,"Kisanuki, Hiroshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71775117
+2015,Regular Season,Saitama Seibu Lions,29,"Koishi, Hirotaka",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71775135
+2015,Regular Season,Hiroshima Toyo Carp,12,"Kuri, Aren",P,7,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,71775139
+2015,Climax Series - Final Stage,Yomiuri Giants,47,"Yamaguchi, Tetsuya",P,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71875112
+2015,Climax Series - First Stage,Yomiuri Giants,47,"Yamaguchi, Tetsuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875112
+2015,Regular Season,Yomiuri Giants,47,"Yamaguchi, Tetsuya",P,60,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875112
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,34,"Barnette, Tony",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875131
+2015,Japan Series,Tokyo Yakult Swallows,34,"Barnette, Tony",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875131
+2015,Regular Season,Tokyo Yakult Swallows,34,"Barnette, Tony",P,59,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71875131
+2015,Regular Season,Fukuoka Softbank Hawks,22,"Yamashita, Ayatsugu",C,11,9,6,0.167,0.444,0.167,0.611,0,0,1,1,0,0,0,1,0,1,3,0,1,1,0,0,0,71875133
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,47,"Moriuchi, Toshiharu",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875135
+2015,Regular Season,Orix Buffaloes,25,"Takehara, Naotaka",PH,41,88,75,0.267,0.375,0.453,0.828,9,13,20,10,8,0,2,34,0,0,12,0,14,2,1,0,0,71975110
+2015,Regular Season,Chunichi Dragons,67,"Takahashi, Akifumi",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71975115
+2015,Regular Season,Orix Buffaloes,49,"Shiranita, Hirokazu",P,43,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71975116
+2015,Regular Season,Orix Buffaloes,31,"Koyano, Eiichi",3B,56,206,183,0.295,0.348,0.410,0.758,19,22,54,41,9,0,4,75,0,1,13,1,22,7,3,5,2,71975117
+2015,Regular Season,Tokyo Yakult Swallows,28,"Tanaka, Masahiko",C,6,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71975119
+2015,Regular Season,Hiroshima Toyo Carp,54,"Takeuchi, Hisashi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71975131
+2015,Regular Season,Tohoku Rakuten Golden Eagles,35,"Shimauchi, Hiroaki",CF,25,81,74,0.203,0.241,0.311,0.552,6,6,15,10,2,3,0,23,5,1,4,0,6,0,0,2,1,71975135
+2015,Regular Season,Yokohama DeNA Baystars,52,"Baldiris, Aarom",3B,139,525,465,0.258,0.333,0.391,0.724,38,56,120,84,23,0,13,182,0,0,43,2,62,12,12,0,5,73375116
+2015,Regular Season,Tohoku Rakuten Golden Eagles,12,"Ray, Kenny",P,22,3,3,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,73375137
+2015,Regular Season,Saitama Seibu Lions,42,"Mejia, Miguel",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73575130
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,55,"Lively, Mitch",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73775130
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,55,"Lively, Mitch",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73775130
+2015,Regular Season,Orix Buffaloes,97,"Tanaka, Daisuke",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81085114
+2015,Regular Season,Saitama Seibu Lions,60,"Nakamura, Takeya",3B,139,599,521,0.278,0.367,0.559,0.926,82,124,145,73,35,0,37,291,1,0,68,4,172,12,7,0,3,81085115
+2015,Regular Season,Saitama Seibu Lions,64,"Nakata, Shota",C,8,12,9,0.000,0.182,0.000,0.182,0,0,0,0,0,0,0,0,0,0,2,0,5,0,0,1,0,81085116
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,25,"Tateyama, Shohei",P,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81085117
+2015,Japan Series,Tokyo Yakult Swallows,25,"Tateyama, Shohei",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81085117
+2015,Regular Season,Tokyo Yakult Swallows,25,"Tateyama, Shohei",P,11,20,15,0.200,0.294,0.400,0.694,2,3,3,2,0,0,1,6,0,0,2,0,9,0,0,3,0,81085117
+2015,Regular Season,Chiba Lotte Marines,31,"Tanaka, Eisuke",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81085130
+2015,Regular Season,Orix Buffaloes,35,"Higa, Motoki",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81085131
+2015,Regular Season,Tohoku Rakuten Golden Eagles,13,"Hamaya, Kodai",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81085139
+2015,Regular Season,Tohoku Rakuten Golden Eagles,92,"Umetsu, Tomohiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81185110
+2015,Regular Season,Tohoku Rakuten Golden Eagles,67,"Iwasaki, Tatsuro",SS,44,42,38,0.263,0.300,0.289,0.589,5,6,10,9,1,0,0,11,0,0,2,0,12,0,0,2,0,81185114
+2015,Regular Season,Orix Buffaloes,22,"Itoh, Hikaru",C,104,290,247,0.271,0.348,0.328,0.676,20,28,67,56,9,1,1,81,0,1,29,1,53,4,1,11,2,81185116
+2015,Regular Season,Fukuoka Softbank Hawks,68,"Inomoto, Kentaro",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81185118
+2015,Climax Series - Final Stage,Yomiuri Giants,26,"Utsumi, Tetsuya",P,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81185119
+2015,Regular Season,Yomiuri Giants,26,"Utsumi, Tetsuya",P,5,8,8,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,81185119
+2015,Regular Season,Hanshin Tigers,30,"Ishizaki, Tsuyoshi",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81185130
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,56,"Ichikawa, Tomoya",C,2,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81185131
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,56,"Ichikawa, Tomoya",C,43,120,106,0.226,0.272,0.340,0.612,11,12,24,17,4,1,2,36,0,0,6,0,30,0,1,6,1,81185131
+2015,Regular Season,Hiroshima Toyo Carp,61,"Isomura, Yoshitaka",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81185133
+2015,Climax Series - First Stage,Hanshin Tigers,51,"Itoh, Hayata",CF,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81185135
+2015,Regular Season,Hanshin Tigers,51,"Itoh, Hayata",CF,63,150,135,0.252,0.302,0.348,0.650,10,12,34,25,7,0,2,47,0,1,11,0,31,0,0,1,3,81185135
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,68,"Ishikawa, Ryo",C,27,31,28,0.214,0.226,0.286,0.512,1,3,6,4,2,0,0,8,0,0,1,0,9,0,0,0,2,81185139
+2015,Regular Season,Orix Buffaloes,16,"Hirano, Yoshihisa",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285112
+2015,Regular Season,Saitama Seibu Lions,20,"Nogami, Ryoma",P,27,6,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,81285118
+2015,Regular Season,Chunichi Dragons,1,"Tomonaga, Shota",PH,7,20,18,0.056,0.105,0.056,0.161,0,0,1,1,0,0,0,1,2,0,1,0,7,1,0,1,0,81285130
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,19,"Masui, Hirotoshi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285131
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,19,"Masui, Hirotoshi",P,56,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285131
+2015,Regular Season,Tohoku Rakuten Golden Eagles,1,"Matsui, Yuki",P,63,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285139
+2015,Regular Season,Tohoku Rakuten Golden Eagles,45,"Kawai, Takashi",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383888
+2015,Climax Series - Final Stage,Yomiuri Giants,9,"Kamei, Yoshiyuki",LF,4,15,14,0.214,0.214,0.286,0.500,1,0,3,2,1,0,0,4,0,0,0,0,3,0,0,1,0,81385110
+2015,Climax Series - First Stage,Yomiuri Giants,9,"Kamei, Yoshiyuki",LF,3,13,9,0.333,0.538,0.333,0.871,0,1,3,3,0,0,0,3,0,0,4,1,0,1,0,0,0,81385110
+2015,Regular Season,Yomiuri Giants,9,"Kamei, Yoshiyuki",LF,109,432,382,0.272,0.338,0.374,0.712,42,35,104,77,21,0,6,143,8,1,40,0,59,6,1,3,6,81385110
+2015,Climax Series - Final Stage,Chiba Lotte Marines,66,"Okada, Yoshifumi",CF,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81385118
+2015,Climax Series - First Stage,Chiba Lotte Marines,66,"Okada, Yoshifumi",CF,1,2,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81385118
+2015,Regular Season,Chiba Lotte Marines,66,"Okada, Yoshifumi",CF,112,205,188,0.245,0.283,0.287,0.570,24,13,46,41,2,3,0,54,11,2,8,0,22,0,2,7,0,81385118
+2015,Regular Season,Chiba Lotte Marines,50,"Omine, Shota",1B,41,30,25,0.120,0.207,0.120,0.327,2,2,3,3,0,0,0,3,0,0,2,0,6,0,1,1,1,81385131
+2015,Regular Season,Saitama Seibu Lions,15,"Oishi, Tatsuya",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81385133
+2015,Regular Season,Tohoku Rakuten Golden Eagles,32,"Masuda, Shintaro",LF,28,94,82,0.232,0.330,0.354,0.684,7,7,19,14,2,1,2,29,3,1,12,0,24,3,0,0,0,81485112
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,60,"Miwa, Masayoshi",LF,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81485116
+2015,Japan Series,Tokyo Yakult Swallows,60,"Miwa, Masayoshi",LF,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81485116
+2015,Regular Season,Tokyo Yakult Swallows,60,"Miwa, Masayoshi",LF,87,102,86,0.233,0.302,0.291,0.593,13,7,20,17,1,2,0,25,4,2,9,0,23,1,0,6,1,81485116
+2015,Climax Series - Final Stage,Yomiuri Giants,25,"Murata, Shuichi",3B,3,10,8,0.000,0.111,0.000,0.111,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,81485117
+2015,Climax Series - First Stage,Yomiuri Giants,25,"Murata, Shuichi",3B,3,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,81485117
+2015,Regular Season,Yomiuri Giants,25,"Murata, Shuichi",3B,103,370,330,0.236,0.310,0.373,0.683,33,39,78,57,9,0,12,123,1,1,28,2,65,12,8,2,2,81485117
+2015,Regular Season,Tohoku Rakuten Golden Eagles,51,"Fernando, Luciano",PH,39,84,78,0.192,0.250,0.256,0.506,3,7,15,12,2,0,1,20,0,0,6,0,25,4,0,0,0,81485130
+2015,Regular Season,Hanshin Tigers,47,"Yamamoto, Shoya",P,7,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81485139
+2015,Regular Season,Tohoku Rakuten Golden Eagles,57,"Koyama, Shinichiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583884
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,35,"Kawashima, Keizo",2B,3,8,7,0.286,0.286,0.286,0.572,0,0,2,2,0,0,0,2,0,0,0,0,1,0,0,1,0,81585112
+2015,Japan Series,Fukuoka Softbank Hawks,35,"Kawashima, Keizo",2B,3,9,9,0.333,0.333,0.444,0.777,0,1,3,2,1,0,0,4,0,1,0,0,3,0,0,0,0,81585112
+2015,Regular Season,Fukuoka Softbank Hawks,35,"Kawashima, Keizo",2B,77,194,157,0.274,0.368,0.401,0.769,34,20,43,31,6,4,2,63,7,2,22,0,29,2,3,9,3,81585112
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,40,"Kanehira, Masashi",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81585139
+2015,Regular Season,Yokohama DeNA Baystars,36,"Yanagida, Shigeo",PH,24,49,43,0.209,0.261,0.256,0.517,1,5,9,7,2,0,0,11,0,0,1,0,11,2,2,3,0,81685112
+2015,Regular Season,Yokohama DeNA Baystars,0,"Yamazaki, Noriharu",2B,25,34,29,0.103,0.188,0.138,0.326,4,2,3,2,1,0,0,4,2,0,3,0,12,0,0,2,0,81685118
+2015,Regular Season,Hanshin Tigers,37,"Morikoshi, Yuto",3B,7,8,7,0.000,0.125,0.000,0.125,2,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,81685133
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,23,"Watanabe, Ryo",2B,9,13,13,0.154,0.154,0.154,0.308,0,0,2,2,0,0,0,2,0,0,0,0,4,0,0,0,0,81685139
+2015,Climax Series - First Stage,Hanshin Tigers,3,"Sekimoto, Kentaro",PH,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,81783884
+2015,Regular Season,Hanshin Tigers,3,"Sekimoto, Kentaro",PH,55,54,42,0.262,0.407,0.262,0.669,1,10,11,11,0,0,0,11,1,0,8,0,10,1,3,0,1,81783884
+2015,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,61,"Sugiya, Kenshi",RF,3,9,7,0.143,0.250,0.143,0.393,1,0,1,1,0,0,0,1,1,0,1,0,1,0,0,1,0,81785118
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,61,"Sugiya, Kenshi",RF,84,192,166,0.295,0.355,0.367,0.722,25,12,49,41,5,2,1,61,8,7,9,0,28,1,7,9,1,81785118
+2015,Regular Season,Orix Buffaloes,8,"Gotoh, Shunta",CF,135,382,334,0.234,0.294,0.287,0.581,31,31,78,66,8,2,2,96,8,9,24,0,69,4,6,15,3,81785133
+2015,Regular Season,Hiroshima Toyo Carp,51,"Suzuki, Seiya",RF,97,238,211,0.275,0.329,0.403,0.732,21,25,58,44,6,3,5,85,6,7,16,0,38,3,2,7,2,81785137
+2015,Regular Season,Chunichi Dragons,18,"Suzuki, Shota",P,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81785139
+2015,Regular Season,Saitama Seibu Lions,8,"Watanabe, Naoto",3B,83,188,158,0.272,0.348,0.329,0.677,20,23,43,35,7,1,0,52,1,0,14,0,26,2,5,10,1,81885114
+2015,Regular Season,Yokohama DeNA Baystars,38,"Yamashita, Kouki",2B,23,43,42,0.238,0.238,0.286,0.524,2,2,10,8,2,0,0,12,0,1,0,0,12,0,0,1,0,81885130
+2015,Climax Series - First Stage,Hanshin Tigers,28,"Fukuhara, Shinobu",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81983888
+2015,Regular Season,Hanshin Tigers,28,"Fukuhara, Shinobu",P,61,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81983888
+2015,Regular Season,Tohoku Rakuten Golden Eagles,7,"Matsui, Kazuo",RF,126,501,445,0.256,0.324,0.366,0.690,52,48,114,86,17,1,10,163,14,2,43,3,82,7,3,7,3,81983889
+2015,Regular Season,Yokohama DeNA Baystars,50,"Shimozono, Tatsuya",PH,53,84,74,0.284,0.354,0.378,0.732,8,8,21,16,4,0,1,28,0,0,8,0,14,2,0,2,0,81985114
+2015,Climax Series - Final Stage,Yomiuri Giants,58,"Tateoka, Soichiro",CF,4,17,17,0.353,0.353,0.588,0.941,2,0,6,2,4,0,0,10,0,1,0,0,3,0,0,0,0,81985118
+2015,Climax Series - First Stage,Yomiuri Giants,58,"Tateoka, Soichiro",CF,3,13,12,0.417,0.462,0.750,1.212,3,0,5,3,0,2,0,9,0,0,1,0,4,0,0,0,0,81985118
+2015,Regular Season,Yomiuri Giants,58,"Tateoka, Soichiro",CF,91,367,339,0.304,0.343,0.348,0.691,36,14,103,91,9,3,0,118,16,6,18,0,61,2,4,3,3,81985118
+2015,Regular Season,Orix Buffaloes,68,"Suzuki, Yu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81985130
+2015,Regular Season,Tohoku Rakuten Golden Eagles,22,"Tomura, Kenji",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81985131
+2015,Climax Series - Final Stage,Yomiuri Giants,15,"Sawamura, Hirokazu",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81985133
+2015,Climax Series - First Stage,Yomiuri Giants,15,"Sawamura, Hirokazu",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81985133
+2015,Regular Season,Yomiuri Giants,15,"Sawamura, Hirokazu",P,60,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81985133
+2015,Climax Series - Final Stage,Chiba Lotte Marines,7,"Suzuki, Daichi",SS,3,11,11,0.091,0.091,0.182,0.273,1,1,1,0,1,0,0,2,0,0,0,0,2,0,0,0,0,81985135
+2015,Climax Series - First Stage,Chiba Lotte Marines,7,"Suzuki, Daichi",SS,3,12,9,0.111,0.273,0.222,0.495,1,1,1,0,1,0,0,2,0,0,2,0,0,0,0,1,0,81985135
+2015,Regular Season,Chiba Lotte Marines,7,"Suzuki, Daichi",SS,142,564,487,0.263,0.330,0.366,0.696,60,50,128,94,24,4,6,178,1,5,47,1,58,10,3,24,3,81985135
+2015,Regular Season,Yomiuri Giants,65,"Tsuji, Harutomo",3B,2,4,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,81985137
+2015,Regular Season,Hiroshima Toyo Carp,13,"Guzman, Jesus",1B,34,116,100,0.230,0.336,0.420,0.756,10,12,23,11,8,1,3,42,0,0,15,0,25,2,1,0,0,83185130
+2015,Regular Season,Orix Buffaloes,27,"Bullington, Bryan",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83185133
+2015,Regular Season,Chunichi Dragons,44,"Valdes, Raul",P,22,45,45,0.133,0.133,0.178,0.311,2,2,6,4,2,0,0,8,0,0,0,0,13,1,0,0,0,83385130
+2015,Regular Season,Saitama Seibu Lions,99,"Mejia, Ernesto",1B,135,525,473,0.235,0.307,0.471,0.778,52,89,111,53,31,0,27,223,0,0,45,1,153,14,5,0,2,83385139
+2015,Japan Series,Fukuoka Softbank Hawks,55,"Standridge, Jason",P,1,2,1,0.000,0.500,0.000,0.500,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,83585114
+2015,Regular Season,Fukuoka Softbank Hawks,55,"Standridge, Jason",P,23,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,83585114
+2015,Regular Season,Hanshin Tigers,41,"Santiago, Mario",P,3,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,83585130
+2015,Regular Season,Yomiuri Giants,93,"Castellanos, Alex",LF,6,22,20,0.100,0.182,0.150,0.332,2,1,2,1,1,0,0,3,0,0,2,0,11,0,0,0,0,83785130
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,65,"Barrios, Edison",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83785133
+2015,Japan Series,Fukuoka Softbank Hawks,65,"Barrios, Edison",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83785133
+2015,Regular Season,Fukuoka Softbank Hawks,65,"Barrios, Edison",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83785133
+2015,Regular Season,Chunichi Dragons,27,"Tanishige, Motonobu",C,30,52,47,0.277,0.320,0.383,0.703,4,4,13,10,2,0,1,18,0,0,3,0,9,0,0,2,0,85583868
+2015,Regular Season,Orix Buffaloes,63,"Nakamura, Issei",LF,67,38,35,0.200,0.200,0.286,0.486,6,5,7,4,3,0,0,10,2,6,0,0,8,0,0,3,0,91095110
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,20,"Terahara, Hayato",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91095115
+2015,Regular Season,Fukuoka Softbank Hawks,20,"Terahara, Hayato",P,21,3,3,0.333,0.333,0.333,0.666,0,2,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,91095115
+2015,Regular Season,Chunichi Dragons,3,"Takahashi, Shuhei",3B,51,172,154,0.208,0.287,0.338,0.625,10,18,32,21,6,1,4,52,2,1,16,0,42,5,1,1,0,91095135
+2015,Regular Season,Tokyo Yakult Swallows,3,"Nishiura, Naomichi",SS,26,48,44,0.295,0.340,0.477,0.817,9,5,13,8,3,1,1,21,1,0,3,0,12,0,0,1,0,91095139
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,53,"Igarashi, Ryota",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193886
+2015,Japan Series,Fukuoka Softbank Hawks,53,"Igarashi, Ryota",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193886
+2015,Regular Season,Fukuoka Softbank Hawks,53,"Igarashi, Ryota",P,54,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193886
+2015,Regular Season,Yokohama DeNA Baystars,7,"Ishikawa, Takehiro",2B,89,375,343,0.259,0.306,0.297,0.603,43,18,89,79,8,1,1,102,6,3,16,1,82,2,7,9,0,91195110
+2015,Regular Season,Tohoku Rakuten Golden Eagles,41,"Aoyama, Kouji",P,61,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91195112
+2015,Regular Season,Hiroshima Toyo Carp,60,"Abe, Tomohiro",3B,26,74,70,0.243,0.254,0.243,0.497,6,2,17,17,0,0,0,17,1,2,1,0,6,1,0,3,0,91195116
+2015,Regular Season,Tokyo Yakult Swallows,66,"Arakaki, Nagisa",P,15,24,20,0.200,0.238,0.250,0.488,1,2,4,3,1,0,0,5,0,0,1,0,7,1,0,3,0,91195117
+2015,Regular Season,Orix Buffaloes,7,"Itoi, Yoshio",RF,132,565,484,0.262,0.366,0.413,0.779,61,68,127,88,22,0,17,200,11,4,72,2,78,10,8,0,1,91195119
+2015,Regular Season,Hiroshima Toyo Carp,39,"Iida, Tetsuya",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91195130
+2015,Regular Season,Hanshin Tigers,58,"Araki, Fumiya",1B,29,41,35,0.200,0.282,0.200,0.482,8,0,7,7,0,0,0,7,4,0,3,0,7,1,1,2,0,91195133
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,28,"Arakaki, Hayato",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91195137
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,14,"Akiyoshi, Ryo",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91195139
+2015,Japan Series,Tokyo Yakult Swallows,14,"Akiyoshi, Ryo",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91195139
+2015,Regular Season,Tokyo Yakult Swallows,14,"Akiyoshi, Ryo",P,74,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91195139
+2015,Regular Season,Tokyo Yakult Swallows,38,"Terada, Tetsuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91295130
+2015,Regular Season,Hanshin Tigers,66,"Futagami, Kazuhito",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91295131
+2015,Regular Season,Hiroshima Toyo Carp,22,"Nakamura, Kyohei",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91295133
+2015,Regular Season,Saitama Seibu Lions,21,"Togame, Ken",P,26,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,91295135
+2015,Regular Season,Tokyo Yakult Swallows,51,"Fujii, Ryota",CF,13,38,34,0.176,0.222,0.206,0.428,5,2,6,5,1,0,0,7,0,1,2,0,13,1,0,2,0,91295139
+2015,Regular Season,Hanshin Tigers,57,"Okazaki, Taichi",C,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91395110
+2015,Regular Season,Yokohama DeNA Baystars,26,"Ide, Shotaro",PH,40,102,98,0.255,0.275,0.449,0.724,8,13,25,14,7,0,4,44,0,0,3,0,28,0,0,0,1,91395115
+2015,Regular Season,Chiba Lotte Marines,15,"Ueno, Hiroki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91395118
+2015,Climax Series - Final Stage,Fukuoka Softbank Hawks,51,"Uebayashi, Seiji",RF,1,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91395139
+2015,Japan Series,Fukuoka Softbank Hawks,51,"Uebayashi, Seiji",RF,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91395139
+2015,Regular Season,Fukuoka Softbank Hawks,51,"Uebayashi, Seiji",RF,15,45,44,0.318,0.333,0.591,0.924,6,6,14,7,4,1,2,26,0,2,0,0,13,0,1,0,0,91395139
+2015,Climax Series - Final Stage,Chiba Lotte Marines,27,"Furuya, Takuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91495112
+2015,Regular Season,Chiba Lotte Marines,27,"Furuya, Takuya",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91495112
+2015,Regular Season,Orix Buffaloes,39,"Nishino, Masahiro",2B,57,213,191,0.304,0.370,0.403,0.773,31,22,58,47,6,2,3,77,9,2,18,0,25,0,2,2,0,91495130
+2015,Regular Season,Tohoku Rakuten Golden Eagles,16,"Mori, Yudai",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91495137
+2015,Regular Season,Saitama Seibu Lions,10,"Mori, Tomoya",DH,138,531,474,0.287,0.357,0.468,0.825,51,68,136,85,33,1,17,222,0,4,44,3,143,5,9,0,3,91495139
+2015,Regular Season,Yomiuri Giants,33,"Kinjo, Tatsuhiko",PH,36,95,90,0.233,0.266,0.300,0.566,9,10,21,17,3,0,1,27,1,0,3,0,11,0,1,1,0,91593888
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,2,"Obiki, Keiji",SS,4,10,8,0.125,0.300,0.125,0.425,1,0,1,1,0,0,0,1,0,0,2,1,1,0,0,0,0,91595114
+2015,Japan Series,Tokyo Yakult Swallows,2,"Obiki, Keiji",SS,2,5,4,0.250,0.400,0.250,0.650,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,91595114
+2015,Regular Season,Tokyo Yakult Swallows,2,"Obiki, Keiji",SS,96,347,311,0.225,0.287,0.338,0.625,25,41,70,46,18,1,5,105,6,3,27,0,56,5,1,6,2,91595114
+2015,Regular Season,Tokyo Yakult Swallows,32,"Kazahari, Ren",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91595130
+2015,Regular Season,Fukuoka Softbank Hawks,62,"Kai, Takuya",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91595133
+2015,Regular Season,Fukuoka Softbank Hawks,57,"Kayama, Shinya",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91595135
+2015,Regular Season,Chiba Lotte Marines,65,"Katoh, Shohei",CF,21,63,57,0.228,0.267,0.246,0.513,3,2,13,12,1,0,0,14,2,0,3,0,11,0,0,3,0,91595137
+2015,Regular Season,Yokohama DeNA Baystars,40,"Matsui, Hyuma",SS,59,135,116,0.224,0.250,0.345,0.595,14,9,26,15,9,1,1,40,1,0,3,0,23,2,1,15,0,91695135
+2015,Climax Series - Final Stage,Chiba Lotte Marines,24,"Yoshida, Yuta",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91695139
+2015,Regular Season,Chiba Lotte Marines,24,"Yoshida, Yuta",C,65,131,110,0.227,0.287,0.264,0.551,6,9,25,23,1,0,1,29,1,0,9,0,26,2,1,9,2,91695139
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,27,"Nakajima, Satoshi",C,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793864
+2015,Regular Season,Saitama Seibu Lions,11,"Kishi, Takayuki",P,16,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91795114
+2015,Regular Season,Orix Buffaloes,65,"Kondoh, Kazuki",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91795115
+2015,Regular Season,Orix Buffaloes,52,"Sakakibara, Ryo",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91795118
+2015,Regular Season,Yokohama DeNA Baystars,5,"Kuramoto, Toshihiko",SS,102,265,245,0.208,0.244,0.249,0.493,11,20,51,45,4,0,2,61,0,0,10,0,60,8,2,7,1,91795130
+2015,Climax Series - Final Stage,Chiba Lotte Marines,1,"Kiyota, Ikuhiro",RF,3,13,10,0.200,0.385,0.400,0.785,0,2,2,0,2,0,0,4,1,1,2,0,0,0,1,0,0,91795131
+2015,Climax Series - First Stage,Chiba Lotte Marines,1,"Kiyota, Ikuhiro",RF,3,14,12,0.167,0.286,0.417,0.703,2,3,2,1,0,0,1,5,0,0,2,0,4,0,0,0,0,91795131
+2015,Regular Season,Chiba Lotte Marines,1,"Kiyota, Ikuhiro",RF,130,548,489,0.317,0.387,0.503,0.890,67,67,155,98,38,4,15,246,10,4,54,0,93,11,3,0,2,91795131
+2015,Regular Season,Orix Buffaloes,38,"Kojima, Shuhei",1B,41,52,47,0.170,0.235,0.213,0.448,8,6,8,6,2,0,0,10,3,3,4,0,12,1,0,1,0,91795135
+2015,Regular Season,Hiroshima Toyo Carp,35,"Shimozuru, Ko",RF,5,10,10,0.200,0.200,0.200,0.400,0,0,2,2,0,0,0,2,0,0,0,0,3,0,0,0,0,91795137
+2015,Climax Series - Final Stage,Yomiuri Giants,22,"Kobayashi, Seiji",C,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91795139
+2015,Climax Series - First Stage,Yomiuri Giants,22,"Kobayashi, Seiji",C,2,6,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,91795139
+2015,Regular Season,Yomiuri Giants,22,"Kobayashi, Seiji",C,70,204,177,0.226,0.312,0.294,0.606,13,13,40,32,6,0,2,52,2,0,19,1,39,6,3,5,0,91795139
+2015,Regular Season,Hiroshima Toyo Carp,23,"Yabuta, Kazuki",P,6,8,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,0,91895130
+2015,Climax Series - Final Stage,Tokyo Yakult Swallows,23,"Yamada, Tetsuto",2B,4,16,14,0.286,0.375,0.357,0.732,3,1,4,3,1,0,0,5,0,0,2,0,3,1,0,0,0,91895133
+2015,Japan Series,Tokyo Yakult Swallows,23,"Yamada, Tetsuto",2B,5,20,19,0.211,0.250,0.684,0.934,3,5,4,1,0,0,3,13,1,0,1,0,5,0,0,0,0,91895133
+2015,Regular Season,Tokyo Yakult Swallows,23,"Yamada, Tetsuto",2B,143,646,557,0.329,0.416,0.610,1.026,119,100,183,104,39,2,38,340,34,4,81,1,111,11,5,0,3,91895133
+2015,Japan Series,Fukuoka Softbank Hawks,95,"Canizares, Barbaro",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91895139
+2015,Regular Season,Fukuoka Softbank Hawks,95,"Canizares, Barbaro",PH,14,36,33,0.333,0.389,0.455,0.844,3,3,11,9,1,0,1,15,0,0,3,0,5,1,0,0,0,91895139
+2015,Regular Season,Orix Buffaloes,10,"Tani, Yoshitomo",LF,11,32,27,0.185,0.313,0.222,0.535,5,3,5,4,1,0,0,6,0,0,4,0,2,0,1,0,0,91993884
+2015,Regular Season,Saitama Seibu Lions,27,"Sumitani, Ginjiro",C,133,443,399,0.211,0.247,0.281,0.528,31,35,84,64,16,0,4,112,0,0,16,0,87,7,4,22,2,91995112
+2015,Regular Season,Hokkaido Nippon-Ham Fighters,52,"Sato, Kenji",RF,16,29,28,0.214,0.241,0.250,0.491,3,5,6,5,1,0,0,7,0,0,1,0,14,0,0,0,0,91995114
+2015,Japan Series,Fukuoka Softbank Hawks,50,"Settsu, Tadashi",P,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,91995118
+2015,Regular Season,Fukuoka Softbank Hawks,50,"Settsu, Tadashi",P,20,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91995118
+2015,Regular Season,Hanshin Tigers,20,"Tsutsui, Kazuya",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91995119
+2015,Climax Series - Final Stage,Yomiuri Giants,7,"Chono, Hisayoshi",RF,4,16,13,0.154,0.313,0.154,0.467,0,0,2,2,0,0,0,2,0,0,2,0,0,3,1,0,0,91995131
+2015,Climax Series - First Stage,Yomiuri Giants,7,"Chono, Hisayoshi",RF,3,14,13,0.385,0.429,0.385,0.814,1,0,5,5,0,0,0,5,1,0,1,0,1,0,0,0,0,91995131
+2015,Regular Season,Yomiuri Giants,7,"Chono, Hisayoshi",RF,130,479,434,0.251,0.310,0.415,0.725,49,52,109,71,20,3,15,180,3,2,34,0,81,12,4,5,2,91995131
+2015,Regular Season,Orix Buffaloes,33,"Shimada, Takuya",2B,80,152,133,0.226,0.288,0.361,0.649,17,16,30,17,10,1,2,48,3,0,12,0,30,1,0,6,1,91995135
+2015,Regular Season,Orix Buffaloes,56,"Takeda, Kengo",RF,9,16,14,0.071,0.133,0.071,0.204,0,0,1,1,0,0,0,1,0,0,1,0,4,0,0,1,0,91995137
+2015,Regular Season,Chunichi Dragons,33,"Sobue, Daisuke",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91995139
+2015,Regular Season,Chiba Lotte Marines,38,"I, Deun",P,37,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,93195130
+2015,Climax Series - First Stage,Hanshin Tigers,54,"Messenger, Randy",P,1,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,93195131
+2015,Regular Season,Hanshin Tigers,54,"Messenger, Randy",P,29,59,52,0.096,0.096,0.096,0.192,2,1,5,5,0,0,0,5,0,0,0,0,15,0,0,7,0,93195131
+2015,Regular Season,Tohoku Rakuten Golden Eagles,42,"Mo Pena, Wily",DH,125,492,406,0.268,0.396,0.448,0.844,51,40,109,71,20,1,17,182,1,3,70,0,111,5,16,0,0,93195135
+2015,Regular Season,Yokohama DeNA Baystars,2,"Lopez, Jose",1B,140,565,516,0.291,0.347,0.496,0.843,63,73,150,95,29,1,25,256,1,1,44,3,82,14,2,0,3,93195137
+2015,Regular Season,Saitama Seibu Lions,6,"Seratelli, Anthony",RF,33,74,60,0.183,0.329,0.233,0.562,8,6,11,9,1,1,0,14,1,0,12,0,21,1,1,1,0,93395130
+2015,Regular Season,Yomiuri Giants,94,"Mendoza, Hector",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93595139
+2015,Regular Season,Hanshin Tigers,95,"Perez, Nelson",RF,3,10,9,0.000,0.100,0.000,0.100,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,93795130

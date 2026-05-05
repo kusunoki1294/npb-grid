@@ -19,3 +19,11 @@ See:
 - [FIRST_IMPORT_GUIDE.md](/Users/shugo/Desktop/npb/data/raw/FIRST_IMPORT_GUIDE.md)
 - [registry-template.csv](/Users/shugo/Desktop/npb/data/raw/registry/registry-template.csv)
 - [batting-template.csv](/Users/shugo/Desktop/npb/data/raw/batting/batting-template.csv)
+
+Before importing, run:
+
+```bash
+npm run data:audit-raw
+```
+
+That command tells you whether the directory still only contains sample files, and shows row counts and year coverage for any real historical CSVs you have added.

@@ -1,0 +1,664 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+1993,Regular Season,Yakult Swallows,12,"Mori, Koji",P,21,1.000,2,9,0,1,,01003865
+1993,Regular Season,Yomiuri Giants,52,"Inoe, Shinji",OF,2,1.000,1,0,0,0,,01103860
+1993,Regular Season,Chiba Lotte Marines,27,"Ushijima, Kazuhiko",P,9,1.000,3,11,0,4,,01103861
+1993,Regular Season,Fukuoka Daiei Hawks,12,"Inoe, Yuji",P,10,1.000,0,2,0,0,,01103863
+1993,Regular Season,Hanshin Tigers,25,"Inomata, Takashi",P,27,1.000,5,30,0,1,,01103864
+1993,Regular Season,Nippon-Ham Fighters,24,"Arikura, Masashi",P,20,1.000,3,9,0,1,,01103881
+1993,Regular Season,Yomiuri Giants,37,"Motoki, Daisuke",2B,51,0.989,74,114,2,21,,01103883
+1993,Regular Season,Yomiuri Giants,37,"Motoki, Daisuke",3B,6,0.933,2,12,1,3,,01103883
+1993,Regular Season,Yomiuri Giants,37,"Motoki, Daisuke",SS,15,0.923,6,6,1,3,,01103883
+1993,Regular Season,Fukuoka Daiei Hawks,5,"Fujimoto, Hiroshi",1B,122,0.995,935,49,5,84,,01203860
+1993,Regular Season,Fukuoka Daiei Hawks,5,"Fujimoto, Hiroshi",3B,17,1.000,8,20,0,0,,01203860
+1993,Regular Season,Kintetsu Buffaloes,44,"Mitsuyama, Hidekazu",C,78,0.998,528,44,1,9,4,01203862
+1993,Regular Season,Seibu Lions,43,"Yokota, Hisanori",P,3,0.000,0,0,0,0,,01203864
+1993,Regular Season,Fukuoka Daiei Hawks,25,"Wakai, Motoyasu",2B,3,1.000,2,1,0,0,,01203866
+1993,Regular Season,Fukuoka Daiei Hawks,25,"Wakai, Motoyasu",3B,40,0.958,18,50,3,3,,01203866
+1993,Regular Season,Fukuoka Daiei Hawks,25,"Wakai, Motoyasu",OF,3,1.000,2,0,0,0,,01203866
+1993,Regular Season,Hiroshima Toyo Carp,13,"Maeda, Koji",P,41,1.000,1,8,0,0,,01203869
+1993,Regular Season,Chiba Lotte Marines,17,"Muto, Junichiro",P,12,1.000,0,2,0,0,,01203887
+1993,Regular Season,Yokohama BayStars,17,"Saito, Akio",P,6,1.000,1,0,0,0,,01303844
+1993,Regular Season,Chunichi Dragons,23,"Kawamata, Yonetoshi",1B,13,1.000,77,2,0,12,,01303848
+1993,Regular Season,Chunichi Dragons,23,"Kawamata, Yonetoshi",OF,56,1.000,66,4,0,0,,01303848
+1993,Regular Season,Kintetsu Buffaloes,4,"Oishi, Daijiro",2B,124,0.975,239,383,16,65,,01303863
+1993,Regular Season,Hiroshima Toyo Carp,11,"Kito, Makoto",P,20,1.000,1,2,0,0,,01303864
+1993,Regular Season,Yakult Swallows,32,"Kanamori, Eiji",OF,6,1.000,7,0,0,0,,01303865
+1993,Regular Season,Chunichi Dragons,22,"Yamasaki, Takeshi",1B,1,1.000,3,1,0,0,,01303868
+1993,Regular Season,Chunichi Dragons,22,"Yamasaki, Takeshi",OF,51,0.986,70,2,1,2,,01303868
+1993,Regular Season,Chunichi Dragons,18,"Kashima, Tadashi",P,57,1.000,5,14,0,0,,01303869
+1993,Regular Season,Seibu Lions,23,"Otsuka, Koji",OF,72,0.985,65,1,1,0,,01303881
+1993,Regular Season,Nippon-Ham Fighters,8,"Kataoka, Atsushi",3B,124,0.970,97,224,10,13,,01303885
+1993,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,27,1.000,5,30,0,2,,01403862
+1993,Regular Season,Yomiuri Giants,62,"Kojima, Keiichi",P,5,0.714,1,4,2,1,,01403868
+1993,Regular Season,Chunichi Dragons,37,"Yoshitsuru, Kenji",C,11,1.000,24,2,0,1,1,01403887
+1993,Regular Season,Yakult Swallows,39,"Sakurai, Shinichi",1B,1,0.000,0,0,0,0,,01503862
+1993,Regular Season,Yakult Swallows,39,"Sakurai, Shinichi",2B,1,1.000,0,2,0,0,,01503862
+1993,Regular Season,Yakult Swallows,39,"Sakurai, Shinichi",3B,17,0.950,5,14,1,1,,01503862
+1993,Regular Season,Yakult Swallows,39,"Sakurai, Shinichi",SS,24,0.976,37,45,2,13,,01503862
+1993,Regular Season,Yokohama BayStars,21,"Nomura, Hiroki",P,28,0.974,12,25,1,2,,01503866
+1993,Regular Season,Hiroshima Toyo Carp,6,"Kobayakawa, Takehiko",1B,92,0.999,690,66,1,55,,01503869
+1993,Regular Season,Yakult Swallows,61,"Kawano, Ryo",OF,1,0.000,0,0,0,0,,01503881
+1993,Regular Season,Yokohama BayStars,19,"Kohiyama, Masahito",P,44,1.000,3,13,0,2,,01503887
+1993,Regular Season,Chiba Lotte Marines,21,"Yoshida, Atsushi",P,7,0.750,0,3,1,0,,01603885
+1993,Regular Season,Yomiuri Giants,29,"Barfield, Jesse",OF,102,0.970,190,7,6,0,,01603887
+1993,Regular Season,Hanshin Tigers,21,"Sekikawa, Koichi",C,86,1.000,486,29,0,6,6,01703883
+1993,Regular Season,Hiroshima Toyo Carp,14,"Suzuki, Ken",P,19,1.000,3,9,0,2,,01703887
+1993,Regular Season,Chunichi Dragons,32,"Yamada, Kikuo",P,46,0.857,3,9,2,0,,01803881
+1993,Regular Season,Yakult Swallows,44,"Howell, Jack",1B,1,1.000,5,0,0,0,,01803885
+1993,Regular Season,Yakult Swallows,44,"Howell, Jack",3B,118,0.954,81,187,13,13,,01803885
+1993,Regular Season,Hanshin Tigers,0,"Nakano, Satoru",OF,5,1.000,3,0,0,0,,01903862
+1993,Regular Season,Seibu Lions,14,"Nakao, Takayoshi",C,13,1.000,20,1,0,0,1,01903863
+1993,Regular Season,Orix Bluewave,16,"Ito, Atsunori",P,9,1.000,6,16,0,1,,01903866
+1993,Regular Season,Nippon-Ham Fighters,7,"Nakajima, Terushi",OF,75,0.991,108,1,1,1,,01903868
+1993,Regular Season,Hanshin Tigers,5,"Shinjo, Tsuyoshi",OF,102,0.976,236,13,6,1,,01903881
+1993,Regular Season,Seibu Lions,53,"Uchiyama, Tomoyuki",P,31,0.958,6,17,1,2,,01903883
+1993,Regular Season,Orix Bluewave,6,"Taguchi, So",3B,1,0.625,1,4,3,0,,01903885
+1993,Regular Season,Orix Bluewave,6,"Taguchi, So",OF,21,1.000,36,1,0,0,,01903885
+1993,Regular Season,Chunichi Dragons,30,"Powell, Alonzo",OF,97,0.989,179,2,2,0,,03103885
+1993,Regular Season,Hanshin Tigers,33,"Kaneko, Seiichi",OF,89,0.989,88,6,1,2,,03503868
+1993,Regular Season,Fukuoka Daiei Hawks,27,"Yoshinaga, Koichiro",C,125,0.995,688,71,4,14,8,03703868
+1993,Regular Season,Seibu Lions,57,"Ueda, Hiroaki",2B,5,1.000,1,2,0,0,,05303868
+1993,Regular Season,Seibu Lions,57,"Ueda, Hiroaki",3B,1,0.000,0,0,0,0,,05303868
+1993,Regular Season,Seibu Lions,57,"Ueda, Hiroaki",SS,3,1.000,0,2,0,0,,05303868
+1993,Regular Season,Orix Bluewave,59,"Kohama, Yuichi",P,2,1.000,0,2,0,0,,05803868
+1993,Regular Season,Hanshin Tigers,7,"Mayumi, Akinobu",1B,3,1.000,14,0,0,2,,11013847
+1993,Regular Season,Yomiuri Giants,41,"Suzuki, Nozomu",3B,1,1.000,0,1,0,0,,11013881
+1993,Regular Season,Yomiuri Giants,41,"Suzuki, Nozomu",SS,2,1.000,1,0,0,0,,11013881
+1993,Regular Season,Chiba Lotte Marines,19,"Narimoto, Toshihide",P,37,0.955,5,16,1,2,,11013887
+1993,Regular Season,Chiba Lotte Marines,10,"Furukawa, Shinichi",OF,36,1.000,27,1,0,0,,11213862
+1993,Regular Season,Hanshin Tigers,3,"Yagi, Hiroshi",3B,1,0.000,0,0,0,0,,11213864
+1993,Regular Season,Hanshin Tigers,3,"Yagi, Hiroshi",OF,98,0.987,144,3,2,1,,11213864
+1993,Regular Season,Yokohama BayStars,25,"Hatayama, Hitoshi",1B,5,0.960,24,0,1,4,,11213867
+1993,Regular Season,Yokohama BayStars,25,"Hatayama, Hitoshi",OF,120,0.995,195,9,1,3,,11213867
+1993,Regular Season,Fukuoka Daiei Hawks,42,"Nishi, Shunji",1B,3,1.000,9,1,0,0,,11213881
+1993,Regular Season,Fukuoka Daiei Hawks,42,"Nishi, Shunji",3B,29,0.928,27,37,5,7,,11213881
+1993,Regular Season,Fukuoka Daiei Hawks,42,"Nishi, Shunji",SS,1,1.000,0,1,0,0,,11213881
+1993,Regular Season,Nippon-Ham Fighters,41,"Komaki, Yuichi",OF,1,0.000,0,0,0,0,,11213883
+1993,Regular Season,Seibu Lions,19,"Maeda, Katsuhiro",P,12,1.000,0,1,0,0,,11213887
+1993,Regular Season,Yomiuri Giants,22,"Okubo, Hiromoto",1B,5,0.952,39,1,2,0,,11313860
+1993,Regular Season,Yomiuri Giants,22,"Okubo, Hiromoto",C,28,0.995,189,20,1,2,5,11313860
+1993,Regular Season,Nippon-Ham Fighters,28,"Okamoto, Tetsushi",C,2,1.000,2,0,0,0,1,11313862
+1993,Regular Season,Orix Bluewave,21,"Noda, Koji",P,26,1.000,10,29,0,0,,11313866
+1993,Regular Season,Kintetsu Buffaloes,41,"Iriki, Satoshi",P,26,0.889,4,12,2,1,,11313881
+1993,Regular Season,Chunichi Dragons,21,"Kojima, Hiromu",P,26,0.833,3,2,1,0,,11313883
+1993,Regular Season,Yokohama BayStars,10,"Udo, Katsuya",P,25,1.000,12,25,0,3,,11313885
+1993,Regular Season,Yakult Swallows,54,"Ogura, Hisashi",P,1,0.000,0,0,0,0,,11313887
+1993,Regular Season,Fukuoka Daiei Hawks,00,"Yamaguchi, Yuji",OF,104,0.990,199,5,2,1,,11413862
+1993,Regular Season,Nippon-Ham Fighters,40,"Yamanaka, Kiyoshi",C,22,1.000,25,5,0,0,1,11413863
+1993,Regular Season,Fukuoka Daiei Hawks,32,"Motohara, Masaharu",P,17,1.000,0,1,0,0,,11413868
+1993,Regular Season,Chiba Lotte Marines,32,"Higuchi, Kazutoshi",2B,4,1.000,2,13,0,0,,11413885
+1993,Regular Season,Nippon-Ham Fighters,20,"Yamahara, Kazutoshi",P,22,0.909,3,7,1,0,,11413887
+1993,Regular Season,Yomiuri Giants,18,"Kuwata, Masumi",P,26,0.981,10,42,1,2,,11513862
+1993,Regular Season,Yokohama BayStars,40,"Okawa, Ryusai",OF,45,0.971,34,0,1,0,,11513866
+1993,Regular Season,Kintetsu Buffaloes,47,"Kiyokawa, Eiji",P,23,1.000,3,2,0,0,,11513869
+1993,Regular Season,Yakult Swallows,15,"Okabayashi, Yoichi",P,17,1.000,3,27,0,1,,11513883
+1993,Regular Season,Yakult Swallows,27,"Furuta, Atsuya",C,130,0.999,969,65,1,18,7,11613881
+1993,Regular Season,Fukuoka Daiei Hawks,23,"Muramatsu, Arihito",OF,10,1.000,20,1,0,0,,11613883
+1993,Regular Season,Seibu Lions,45,"Tolentino, Jose",1B,1,1.000,2,0,0,1,,11613887
+1993,Regular Season,Seibu Lions,45,"Tolentino, Jose",OF,9,1.000,9,0,0,0,,11613887
+1993,Regular Season,Fukuoka Daiei Hawks,3,"Sasaki, Makoto",OF,112,0.987,215,13,3,4,,11713860
+1993,Regular Season,Yokohama BayStars,49,"Kono, Junki",OF,3,1.000,3,0,0,0,,11713863
+1993,Regular Season,Chiba Lotte Marines,13,"Kobayashi, Akinori",P,2,1.000,1,2,0,1,,11713881
+1993,Regular Season,Hanshin Tigers,15,"Yufune, Toshiro",P,23,0.977,7,36,1,1,,11713883
+1993,Regular Season,Chunichi Dragons,24,"Sato, Hideki",P,13,1.000,5,3,0,0,,11713887
+1993,Regular Season,Yomiuri Giants,35,"Yojo, Minoru",1B,2,1.000,10,1,0,0,,11813868
+1993,Regular Season,Yomiuri Giants,35,"Yojo, Minoru",OF,13,1.000,14,0,0,0,,11813868
+1993,Regular Season,Chunichi Dragons,7,"Jacoby, Brook",3B,17,0.953,8,33,2,0,,11813887
+1993,Regular Season,Nippon-Ham Fighters,21,"Nishizaki, Yukihiro",P,23,1.000,10,30,0,2,,11913864
+1993,Regular Season,Chiba Lotte Marines,3,"Nishimura, Norifumi",OF,102,0.995,198,2,1,1,,11913865
+1993,Regular Season,Nippon-Ham Fighters,48,"Shirai, Yasukatsu",P,27,0.970,8,24,1,3,,11913868
+1993,Regular Season,Orix Bluewave,51,"Suzuki, Ichiro",OF,32,1.000,34,1,0,0,,11913885
+1993,Regular Season,Kintetsu Buffaloes,9,"Takumi, Masahiro",OF,79,0.973,106,4,3,0,,11913887
+1993,Regular Season,Hiroshima Toyo Carp,29,"Kondo, Yoshihisa",P,60,0.818,3,6,2,3,,13013868
+1993,Regular Season,Yokohama BayStars,41,"Kato, Masato",P,28,0.889,2,6,1,1,,13113883
+1993,Regular Season,Chiba Lotte Marines,0,"Hatsushiba, Kiyoshi",3B,113,0.955,65,234,14,18,,13813868
+1993,Regular Season,Fukuoka Daiei Hawks,61,"Yanagita, Shikato",2B,5,1.000,7,4,0,1,,13913868
+1993,Regular Season,Yakult Swallows,2,"Iida, Tetsuya",OF,95,0.975,154,4,4,0,,15213868
+1993,Regular Season,Seibu Lions,8,"Suzuki, Ken",3B,16,1.000,8,30,0,2,,15313868
+1993,Regular Season,Yokohama BayStars,7,"Miyazato, Futoshi",1B,5,1.000,13,1,0,1,,15713868
+1993,Regular Season,Yokohama BayStars,7,"Miyazato, Futoshi",C,1,1.000,3,0,0,0,1,15713868
+1993,Regular Season,Yokohama BayStars,7,"Miyazato, Futoshi",OF,53,1.000,48,1,0,0,,15713868
+1993,Regular Season,Yokohama BayStars,4,"Yokotani, Akimasa",OF,16,1.000,7,0,0,0,,15913868
+1993,Regular Season,Yakult Swallows,26,"Hata, Shinji",OF,84,1.000,108,2,0,0,,21023860
+1993,Regular Season,Orix Bluewave,0,"Motonishi, Atsuhiro",3B,31,0.915,16,49,6,1,,21023864
+1993,Regular Season,Orix Bluewave,0,"Motonishi, Atsuhiro",OF,89,0.987,77,1,1,0,,21023864
+1993,Regular Season,Nippon-Ham Fighters,4,"Takeda, Kazuhiro",P,27,0.976,8,33,1,2,,21023866
+1993,Regular Season,Chiba Lotte Marines,9,"Igarashi, Akihito",SS,15,1.000,11,12,0,5,,21023883
+1993,Regular Season,Kintetsu Buffaloes,66,"Nakamura, Norihiro",3B,8,1.000,3,5,0,0,,21023885
+1993,Regular Season,Fukuoka Daiei Hawks,1,"Ogawa, Hiroshi",2B,7,1.000,4,3,0,1,,21123861
+1993,Regular Season,Fukuoka Daiei Hawks,1,"Ogawa, Hiroshi",3B,18,0.950,6,13,1,0,,21123861
+1993,Regular Season,Fukuoka Daiei Hawks,1,"Ogawa, Hiroshi",SS,40,0.961,41,57,4,18,,21123861
+1993,Regular Season,Chunichi Dragons,3,"Tatsunami, Kazuyoshi",2B,127,0.997,311,357,2,94,,21123866
+1993,Regular Season,Yakult Swallows,20,"Ito, Tomohito",P,14,1.000,5,5,0,0,,21123887
+1993,Regular Season,Fukuoka Daiei Hawks,4,"Moriwaki, Hiroshi",2B,2,1.000,1,1,0,0,,21223863
+1993,Regular Season,Fukuoka Daiei Hawks,4,"Moriwaki, Hiroshi",3B,92,0.975,55,104,4,9,,21223863
+1993,Regular Season,Fukuoka Daiei Hawks,4,"Moriwaki, Hiroshi",SS,2,1.000,1,3,0,0,,21223863
+1993,Regular Season,Chiba Lotte Marines,18,"Irabu, Hideki",P,32,0.944,4,13,1,1,,21223866
+1993,Regular Season,Yomiuri Giants,31,"Mizuno, Katsuhito",P,43,1.000,2,4,0,0,,21223869
+1993,Regular Season,Kintetsu Buffaloes,11,"Nomo, Hideo",P,32,0.941,13,19,2,3,,21223881
+1993,Regular Season,Hanshin Tigers,48,"Kubo, Yasuo",P,34,1.000,4,8,0,0,,21323846
+1993,Regular Season,Seibu Lions,18,"Kaku, Taigen",P,22,1.000,7,27,0,1,,21323860
+1993,Regular Season,Orix Bluewave,34,"Kawabata, Yasuhiro",P,28,0.929,5,8,1,1,,21323862
+1993,Regular Season,Chunichi Dragons,13,"Kondo, Shinichi",P,1,0.000,0,0,0,0,,21323864
+1993,Regular Season,Nippon-Ham Fighters,23,"Kaneishi, Akihito",P,32,1.000,8,14,0,3,,21323865
+1993,Regular Season,Yakult Swallows,33,"Nakanishi, Chikashi",C,7,1.000,29,1,0,1,1,21323866
+1993,Regular Season,Chunichi Dragons,62,"Hasebe, Yutaka",C,1,1.000,4,0,0,0,1,21323868
+1993,Regular Season,Yomiuri Giants,0,"Kawai, Masahiro",SS,131,0.986,203,375,8,77,,21323869
+1993,Regular Season,Seibu Lions,2,"Yoshitake, Haruki",OF,22,1.000,20,0,0,0,,21423863
+1993,Regular Season,Kintetsu Buffaloes,39,"Fujitate, Jiro",OF,17,0.905,19,0,2,0,,21423881
+1993,Regular Season,Hiroshima Toyo Carp,40,"Yoshimoto, Ryo",C,1,0.000,0,0,0,0,0,21423887
+1993,Regular Season,Chiba Lotte Marines,37,"Seki, Kiyokazu",P,2,0.000,0,0,0,0,,21523864
+1993,Regular Season,Hanshin Tigers,42,"Paciorek, Jim",1B,19,1.000,77,6,0,4,,21523866
+1993,Regular Season,Hanshin Tigers,42,"Paciorek, Jim",OF,69,0.990,92,4,1,0,,21523866
+1993,Regular Season,Chunichi Dragons,9,"Yamaguchi, Koji",OF,25,1.000,16,0,0,0,,21523868
+1993,Regular Season,Yokohama BayStars,38,"Kawabata, Kazuaki",OF,1,1.000,1,0,0,0,,21523881
+1993,Regular Season,Yokohama BayStars,26,"Saeki, Takahiro",1B,3,1.000,10,1,0,3,,21523887
+1993,Regular Season,Yokohama BayStars,26,"Saeki, Takahiro",OF,46,0.957,44,0,2,0,,21523887
+1993,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",2B,119,0.997,269,315,2,73,,21623860
+1993,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",3B,18,1.000,4,27,0,1,,21623860
+1993,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",SS,8,1.000,3,5,0,0,,21623860
+1993,Regular Season,Orix Bluewave,4,"Matsuyama, Hideaki",3B,2,1.000,1,2,0,0,,21623881
+1993,Regular Season,Fukuoka Daiei Hawks,14,"Wakatabe, Kenichi",P,23,1.000,7,27,0,3,,21623885
+1993,Regular Season,Hanshin Tigers,20,"Kakuri, Tateo",P,27,1.000,7,13,0,0,,21623887
+1993,Regular Season,Yakult Swallows,9,"Sugiura, Toru",1B,2,1.000,3,1,0,0,,21723845
+1993,Regular Season,Yakult Swallows,24,"Naito, Naoyuki",P,17,1.000,5,4,0,0,,21723864
+1993,Regular Season,Orix Bluewave,25,"Suguro, Hironori",2B,1,1.000,0,1,0,1,,21723866
+1993,Regular Season,Orix Bluewave,25,"Suguro, Hironori",3B,2,1.000,1,5,0,1,,21723866
+1993,Regular Season,Orix Bluewave,25,"Suguro, Hironori",SS,92,0.980,134,255,8,52,,21723866
+1993,Regular Season,Chiba Lotte Marines,20,"Shiratake, Yoshihisa",P,24,0.909,2,8,1,0,,21723867
+1993,Regular Season,Hiroshima Toyo Carp,18,"Sasaoka, Shinji",P,30,0.978,11,33,1,1,,21723881
+1993,Regular Season,Hanshin Tigers,1,"O'Malley, Tom",1B,124,0.994,989,77,6,81,,21723883
+1993,Regular Season,Hanshin Tigers,1,"O'Malley, Tom",3B,2,1.000,0,7,0,0,,21723883
+1993,Regular Season,Nippon-Ham Fighters,19,"Shimazaki, Takeshi",P,1,0.000,0,0,0,0,,21723885
+1993,Regular Season,Yomiuri Giants,50,"Goto, Koji",OF,1,1.000,1,0,0,0,,21823868
+1993,Regular Season,Yomiuri Giants,61,"Yoshioka, Yuji",3B,10,1.000,4,12,0,1,,21823881
+1993,Regular Season,Chiba Lotte Marines,31,"Nagashima, Kiyoyuki",OF,24,0.962,25,0,1,0,,21923861
+1993,Regular Season,Hiroshima Toyo Carp,16,"Nagadomi, Hiroshi",P,28,1.000,7,22,0,1,,21923862
+1993,Regular Season,Hanshin Tigers,28,"Nakada, Yoshihiro",P,13,1.000,1,2,0,0,,21923863
+1993,Regular Season,Orix Bluewave,62,"Kazaoka, Naoyuki",2B,29,0.976,18,23,1,8,,21923866
+1993,Regular Season,Orix Bluewave,62,"Kazaoka, Naoyuki",3B,17,1.000,0,8,0,0,,21923866
+1993,Regular Season,Orix Bluewave,62,"Kazaoka, Naoyuki",SS,2,1.000,0,1,0,0,,21923866
+1993,Regular Season,Seibu Lions,28,"Takeshita, Jun",P,5,1.000,0,4,0,1,,21923885
+1993,Regular Season,Chunichi Dragons,28,"Tsuruta, Yasushi",P,29,1.000,5,13,0,5,,21923887
+1993,Regular Season,Kintetsu Buffaloes,33,"Reynolds, R.J.",OF,101,0.970,158,5,5,0,,23123883
+1993,Regular Season,Chiba Lotte Marines,00,"Motley, Darryl",OF,19,1.000,29,1,0,1,,23123885
+1993,Regular Season,Hiroshima Toyo Carp,50,"Kawada, Yusuke",OF,12,1.000,2,0,0,0,,23423868
+1993,Regular Season,Hanshin Tigers,43,"Miyauchi, Masakazu",OF,1,0.000,0,0,0,0,,23523868
+1993,Regular Season,Hiroshima Toyo Carp,15,"Katase, Kiyotoshi",P,17,0.917,5,17,2,2,,23923868
+1993,Regular Season,Yakult Swallows,00,"Jo, Tomohiro",OF,84,0.985,128,5,2,2,,25223868
+1993,Regular Season,Yokohama BayStars,9,"Horie, Kenji",1B,1,1.000,1,0,0,1,,25723868
+1993,Regular Season,Yokohama BayStars,9,"Horie, Kenji",2B,4,1.000,1,3,0,1,,25723868
+1993,Regular Season,Yokohama BayStars,9,"Horie, Kenji",3B,13,0.905,6,13,2,1,,25723868
+1993,Regular Season,Yokohama BayStars,9,"Horie, Kenji",SS,6,1.000,4,6,0,1,,25723868
+1993,Regular Season,Yakult Swallows,17,"Kawasaki, Kenjiro",P,27,1.000,12,20,0,1,,25923868
+1993,Regular Season,Seibu Lions,33,"Kakiuchi, Tetsuya",C,8,1.000,34,2,0,0,1,27123868
+1993,Regular Season,Seibu Lions,33,"Kakiuchi, Tetsuya",OF,27,0.933,26,2,2,1,,27123868
+1993,Regular Season,Hiroshima Toyo Carp,1,"Yamasaki, Ryuzo",2B,7,1.000,9,5,0,3,,31033846
+1993,Regular Season,Hiroshima Toyo Carp,1,"Yamasaki, Ryuzo",3B,28,0.974,19,55,2,6,,31033846
+1993,Regular Season,Hiroshima Toyo Carp,1,"Yamasaki, Ryuzo",OF,43,1.000,57,1,0,0,,31033846
+1993,Regular Season,Chunichi Dragons,65,"Ninomiya, Masami",P,13,1.000,2,3,0,1,,31033860
+1993,Regular Season,Chunichi Dragons,40,"Minamimure, Toyozo",OF,5,1.000,4,0,0,0,,31033865
+1993,Regular Season,Orix Bluewave,37,"Watanabe, Shinji",1B,5,1.000,17,0,0,1,,31033866
+1993,Regular Season,Nippon-Ham Fighters,2,"Suzuki, Yoshihiro",OF,114,0.987,215,11,3,2,,31033868
+1993,Regular Season,Chiba Lotte Marines,2,"Uno, Masaru",3B,1,0.000,0,0,0,0,,31133844
+1993,Regular Season,Chiba Lotte Marines,2,"Uno, Masaru",SS,51,0.988,66,101,2,28,,31133844
+1993,Regular Season,Kintetsu Buffaloes,25,"Adachi, Toshiya",1B,9,0.944,16,1,1,2,,31133860
+1993,Regular Season,Kintetsu Buffaloes,25,"Adachi, Toshiya",2B,3,1.000,3,3,0,2,,31133860
+1993,Regular Season,Kintetsu Buffaloes,25,"Adachi, Toshiya",3B,38,0.932,11,30,3,2,,31133860
+1993,Regular Season,Kintetsu Buffaloes,25,"Adachi, Toshiya",SS,9,1.000,9,12,0,1,,31133860
+1993,Regular Season,Chiba Lotte Marines,1,"Aiko, Takeshi",1B,123,0.996,975,88,4,105,,31133863
+1993,Regular Season,Chunichi Dragons,17,"Uehara, Akira",P,13,1.000,0,5,0,2,,31133866
+1993,Regular Season,Seibu Lions,25,"Abe, Osamu",1B,2,1.000,9,1,0,0,,31133869
+1993,Regular Season,Seibu Lions,25,"Abe, Osamu",OF,36,0.966,26,2,1,0,,31133869
+1993,Regular Season,Hiroshima Toyo Carp,47,"Akimura, Norihiro",P,48,1.000,3,12,0,0,,31133881
+1993,Regular Season,Yakult Swallows,16,"Ishii, Kazuhisa",P,19,1.000,1,6,0,1,,31133885
+1993,Regular Season,Chunichi Dragons,8,"Hikono, Toshikatsu",OF,73,0.988,73,7,1,3,,31233860
+1993,Regular Season,Orix Bluewave,2,"Yamagoshi, Yoshihiro",1B,7,1.000,12,0,0,1,,31233864
+1993,Regular Season,Orix Bluewave,2,"Yamagoshi, Yoshihiro",2B,3,1.000,3,7,0,0,,31233864
+1993,Regular Season,Orix Bluewave,2,"Yamagoshi, Yoshihiro",3B,75,0.971,15,52,2,6,,31233864
+1993,Regular Season,Orix Bluewave,2,"Yamagoshi, Yoshihiro",OF,1,0.000,0,0,0,0,,31233864
+1993,Regular Season,Fukuoka Daiei Hawks,18,"Murata, Katsuyoshi",P,25,1.000,9,33,0,6,,31233866
+1993,Regular Season,Nippon-Ham Fighters,59,"Kimura, Takuya",OF,26,1.000,13,0,0,0,,31233883
+1993,Regular Season,Yakult Swallows,37,"Nishioka, Hiroshi",P,4,0.000,0,0,0,0,,31233885
+1993,Regular Season,Orix Bluewave,61,"Makino, Rui",P,3,1.000,1,2,0,1,,31233887
+1993,Regular Season,Fukuoka Daiei Hawks,2,"Ono, Hisashi",OF,53,0.959,68,2,3,0,,31333860
+1993,Regular Season,Hanshin Tigers,16,"Okada, Akinobu",OF,13,0.923,11,1,1,0,,31333861
+1993,Regular Season,Hanshin Tigers,32,"Yamaguchi, Shigeyuki",1B,3,1.000,1,0,0,1,,31333866
+1993,Regular Season,Hanshin Tigers,32,"Yamaguchi, Shigeyuki",3B,3,1.000,2,3,0,0,,31333866
+1993,Regular Season,Kintetsu Buffaloes,26,"Ono, Kazuyoshi",P,3,1.000,1,2,0,0,,31333869
+1993,Regular Season,Chunichi Dragons,25,"Yoshida, Futoshi",P,4,0.000,0,0,0,0,,31333883
+1993,Regular Season,Kintetsu Buffaloes,13,"Esaka, Masaaki",P,21,1.000,8,19,0,1,,31333885
+1993,Regular Season,Orix Bluewave,28,"Hoshino, Nobuyuki",P,25,0.978,4,40,1,3,,31433860
+1993,Regular Season,Kintetsu Buffaloes,29,"Kato, Masaki",OF,5,0.000,0,0,0,0,,31433866
+1993,Regular Season,Yomiuri Giants,17,"Makihara, Hiromi",P,28,0.957,3,19,1,1,,31433867
+1993,Regular Season,Yomiuri Giants,19,"Kida, Masao",P,35,1.000,6,27,0,2,,31433868
+1993,Regular Season,Fukuoka Daiei Hawks,39,"Baba, Toshifumi",2B,55,0.995,86,96,1,17,,31433881
+1993,Regular Season,Fukuoka Daiei Hawks,39,"Baba, Toshifumi",3B,7,1.000,1,3,0,0,,31433881
+1993,Regular Season,Fukuoka Daiei Hawks,52,"Ashikaga, Yutaka",P,24,0.857,5,19,4,1,,31433883
+1993,Regular Season,Hanshin Tigers,24,"Hiyama, Shinjiro",OF,23,1.000,35,0,0,0,,31433885
+1993,Regular Season,Yakult Swallows,45,"Yamamoto, Tatsuki",P,13,1.000,0,1,0,0,,31433887
+1993,Regular Season,Chunichi Dragons,20,"Komatsu, Tatsuo",P,16,1.000,1,13,0,3,,31533846
+1993,Regular Season,Yokohama BayStars,18,"Okamoto, Toru",P,10,1.000,2,6,0,0,,31533866
+1993,Regular Season,Chunichi Dragons,49,"Sakai, Tadaharu",2B,1,0.000,0,0,0,0,,31533868
+1993,Regular Season,Chunichi Dragons,49,"Sakai, Tadaharu",3B,26,0.973,9,27,1,5,,31533868
+1993,Regular Season,Chunichi Dragons,49,"Sakai, Tadaharu",SS,20,0.824,4,10,3,2,,31533868
+1993,Regular Season,Yakult Swallows,21,"Osaka, Katsuhito",P,20,1.000,1,11,0,0,,31533883
+1993,Regular Season,Chunichi Dragons,12,"Yokota, Masashi",OF,19,1.000,13,0,0,0,,31633860
+1993,Regular Season,Yomiuri Giants,59,"Ishige, Hiroshi",P,48,0.938,4,11,1,0,,31633868
+1993,Regular Season,Hiroshima Toyo Carp,31,"Maeda, Tomonori",OF,128,0.993,262,9,2,3,,31633881
+1993,Regular Season,Orix Bluewave,42,"Gainey, Ty",OF,79,0.960,118,3,5,1,,31633887
+1993,Regular Season,Kintetsu Buffaloes,2,"Suzuki, Takahisa",OF,83,0.978,126,5,3,2,,31733862
+1993,Regular Season,Hiroshima Toyo Carp,0,"Ko, Shinji",2B,21,0.987,29,46,1,10,,31733866
+1993,Regular Season,Hiroshima Toyo Carp,0,"Ko, Shinji",3B,36,0.944,2,15,1,3,,31733866
+1993,Regular Season,Hiroshima Toyo Carp,0,"Ko, Shinji",SS,7,1.000,1,3,0,1,,31733866
+1993,Regular Season,Nippon-Ham Fighters,3,"Shirai, Kazuyuki",2B,130,0.992,300,356,5,75,,31733869
+1993,Regular Season,Chiba Lotte Marines,14,"Komiyama, Satoru",P,27,0.968,19,41,2,7,,31733881
+1993,Regular Season,Hanshin Tigers,36,"Tamura, Tsutomu",P,30,1.000,2,3,0,0,,31733883
+1993,Regular Season,Chunichi Dragons,26,"Sasaki, Kenichi",P,5,1.000,2,3,0,1,,31733885
+1993,Regular Season,Nippon-Ham Fighters,53,"Fujioka, Hiroki",1B,1,1.000,1,0,0,0,,31833868
+1993,Regular Season,Nippon-Ham Fighters,53,"Fujioka, Hiroki",3B,5,1.000,1,1,0,1,,31833868
+1993,Regular Season,Nippon-Ham Fighters,53,"Fujioka, Hiroki",OF,1,1.000,1,1,0,1,,31833868
+1993,Regular Season,Nippon-Ham Fighters,53,"Fujioka, Hiroki",SS,11,0.944,7,10,1,2,,31833868
+1993,Regular Season,Orix Bluewave,5,"Torve, Kelvin",1B,96,0.997,814,63,3,73,,31833885
+1993,Regular Season,Chunichi Dragons,7,"Stairs, Matt",3B,2,0.500,2,1,3,0,,31833887
+1993,Regular Season,Chunichi Dragons,7,"Stairs, Matt",OF,44,0.961,45,4,2,1,,31833887
+1993,Regular Season,Seibu Lions,6,"Tanabe, Norio",2B,1,1.000,1,0,0,0,,31933860
+1993,Regular Season,Seibu Lions,6,"Tanabe, Norio",SS,93,0.976,88,199,7,29,,31933860
+1993,Regular Season,Seibu Lions,5,"Tsuji, Hatsuhiko",2B,110,0.993,214,333,4,64,,31933869
+1993,Regular Season,Hanshin Tigers,17,"Ota, Takashi",P,8,0.833,1,4,1,0,,33133868
+1993,Regular Season,Yokohama BayStars,61,"Watabe, Takashi",P,35,1.000,3,15,0,0,,33133883
+1993,Regular Season,Hiroshima Toyo Carp,32,"Nishiyama, Shuji",C,108,0.992,543,55,5,14,2,33233868
+1993,Regular Season,Fukuoka Daiei Hawks,22,"Tunnell, Lee",P,20,0.938,1,14,1,2,,33333883
+1993,Regular Season,Chiba Lotte Marines,35,"Watanabe, Hideaki",2B,3,1.000,2,0,0,0,,33833868
+1993,Regular Season,Chiba Lotte Marines,35,"Watanabe, Hideaki",3B,3,1.000,1,2,0,0,,33833868
+1993,Regular Season,Chiba Lotte Marines,35,"Watanabe, Hideaki",SS,9,0.935,10,19,2,6,,33833868
+1993,Regular Season,Yakult Swallows,4,"Tomashino, Kenji",2B,34,0.984,56,64,2,12,,35233868
+1993,Regular Season,Yakult Swallows,4,"Tomashino, Kenji",3B,8,0.941,3,13,1,1,,35233868
+1993,Regular Season,Yakult Swallows,4,"Tomashino, Kenji",OF,34,1.000,76,2,0,0,,35233868
+1993,Regular Season,Yakult Swallows,4,"Tomashino, Kenji",SS,5,1.000,9,14,0,2,,35233868
+1993,Regular Season,Kintetsu Buffaloes,19,"Akahori, Motoyuki",P,46,1.000,3,10,0,1,,35433868
+1993,Regular Season,Orix Bluewave,18,"Sakai, Tsutomu",P,8,1.000,2,10,0,0,,35833868
+1993,Regular Season,Orix Bluewave,23,"Ogawa, Hirofumi",2B,1,1.000,0,1,0,0,,37133868
+1993,Regular Season,Orix Bluewave,23,"Ogawa, Hirofumi",3B,78,0.972,44,127,5,9,,37133868
+1993,Regular Season,Orix Bluewave,23,"Ogawa, Hirofumi",SS,48,0.959,69,120,8,20,,37133868
+1993,Regular Season,Chunichi Dragons,59,"Hayakawa, Kazuo",OF,1,0.000,0,0,0,0,,41043860
+1993,Regular Season,Seibu Lions,24,"Hirano, Ken",OF,97,1.000,140,3,0,0,,41043863
+1993,Regular Season,Nippon-Ham Fighters,57,"Mori, Noriyuki",2B,3,1.000,4,6,0,1,,41043864
+1993,Regular Season,Nippon-Ham Fighters,57,"Mori, Noriyuki",3B,4,1.000,1,1,0,0,,41043864
+1993,Regular Season,Nippon-Ham Fighters,57,"Mori, Noriyuki",OF,8,1.000,3,0,0,0,,41043864
+1993,Regular Season,Nippon-Ham Fighters,57,"Mori, Noriyuki",SS,5,1.000,3,7,0,2,,41043864
+1993,Regular Season,Fukuoka Daiei Hawks,38,"Yano, Minoru",P,15,1.000,1,5,0,1,,41043865
+1993,Regular Season,Seibu Lions,7,"Ishige, Hiromichi",3B,117,0.969,80,205,9,14,,41143863
+1993,Regular Season,Nippon-Ham Fighters,30,"Ishikawa, Masaru",P,15,1.000,0,4,0,0,,41143867
+1993,Regular Season,Orix Bluewave,24,"Iizuka, Tomiji",1B,30,0.989,171,9,2,7,,41143869
+1993,Regular Season,Orix Bluewave,24,"Iizuka, Tomiji",3B,14,0.909,7,23,3,0,,41143869
+1993,Regular Season,Orix Bluewave,24,"Iizuka, Tomiji",OF,9,1.000,1,0,0,0,,41143869
+1993,Regular Season,Kintetsu Buffaloes,3,"Ishii, Hiro",1B,130,0.995,1117,89,6,101,,41143881
+1993,Regular Season,Kintetsu Buffaloes,57,"Furukubo, Kenji",C,64,0.987,328,38,5,7,1,41243860
+1993,Regular Season,Chiba Lotte Marines,30,"Morita, Yoshihiko",3B,2,1.000,0,1,0,0,,41243862
+1993,Regular Season,Yokohama BayStars,12,"Nagano, Yoshinari",P,20,0.857,2,10,2,0,,41243866
+1993,Regular Season,Yomiuri Giants,38,"Fujita, Hiromasa",C,6,1.000,28,0,0,0,1,41243867
+1993,Regular Season,Orix Bluewave,47,"Murakami, Shinichi",OF,2,1.000,1,0,0,0,,41243869
+1993,Regular Season,Fukuoka Daiei Hawks,16,"Hashimoto, Takehiro",P,20,1.000,0,15,0,2,,41243881
+1993,Regular Season,Seibu Lions,3,"Kiyohara, Kazuhiro",1B,128,0.997,1180,90,4,84,,41343862
+1993,Regular Season,Kintetsu Buffaloes,6,"Kanemura, Yoshiaki",3B,47,0.944,33,69,6,8,,41343865
+1993,Regular Season,Yomiuri Giants,36,"Nagashima, Kazushige",3B,32,0.981,14,38,1,5,,41343866
+1993,Regular Season,Yomiuri Giants,36,"Nagashima, Kazushige",OF,18,1.000,21,1,0,0,,41343866
+1993,Regular Season,Yomiuri Giants,24,"Omori, Takeshi",1B,2,1.000,11,0,0,0,,41343881
+1993,Regular Season,Chunichi Dragons,2,"Yano, Akihiro",C,21,1.000,56,7,0,1,3,41343883
+1993,Regular Season,Chunichi Dragons,2,"Yano, Akihiro",OF,1,0.000,0,0,0,0,,41343883
+1993,Regular Season,Hiroshima Toyo Carp,10,"Kanemoto, Tomoaki",OF,26,1.000,38,0,0,0,,41343885
+1993,Regular Season,Yomiuri Giants,21,"Miyamoto, Kazutomo",P,26,1.000,6,22,0,3,,41443860
+1993,Regular Season,Yakult Swallows,46,"Ranbashi, Yukihito",P,12,1.000,0,1,0,0,,41443862
+1993,Regular Season,Yokohama BayStars,46,"Miura, Daisuke",P,15,1.000,3,6,0,0,,41443885
+1993,Regular Season,Nippon-Ham Fighters,18,"Kono, Hirofumi",P,25,1.000,1,15,0,1,,41543860
+1993,Regular Season,Orix Bluewave,44,"Takahashi, Satoshi",OF,97,0.980,198,3,4,0,,41543864
+1993,Regular Season,Yokohama BayStars,15,"Morita, Koki",P,22,0.923,2,10,1,0,,41543866
+1993,Regular Season,Yakult Swallows,25,"Arai, Kiyoshi",1B,1,1.000,6,0,0,0,,41543883
+1993,Regular Season,Yakult Swallows,25,"Arai, Kiyoshi",2B,7,1.000,7,8,0,0,,41543883
+1993,Regular Season,Yakult Swallows,25,"Arai, Kiyoshi",3B,6,1.000,1,3,0,0,,41543883
+1993,Regular Season,Yakult Swallows,25,"Arai, Kiyoshi",SS,6,1.000,3,2,0,0,,41543883
+1993,Regular Season,Yomiuri Giants,56,"Sugiyama, Naoki",C,12,1.000,33,5,0,0,1,41643868
+1993,Regular Season,Kintetsu Buffaloes,32,"Mizuguchi, Eiji",2B,5,1.000,1,3,0,2,,41643883
+1993,Regular Season,Kintetsu Buffaloes,32,"Mizuguchi, Eiji",3B,2,1.000,1,2,0,0,,41643883
+1993,Regular Season,Kintetsu Buffaloes,32,"Mizuguchi, Eiji",SS,41,0.989,28,66,1,15,,41643883
+1993,Regular Season,Hiroshima Toyo Carp,57,"Medina, Luis",OF,3,1.000,4,0,0,0,,41643887
+1993,Regular Season,Chiba Lotte Marines,15,"So, Katsuo",P,21,1.000,3,10,0,0,,41743860
+1993,Regular Season,Nippon-Ham Fighters,6,"Tanaka, Yukio",OF,104,0.995,175,7,1,3,,41743862
+1993,Regular Season,Nippon-Ham Fighters,6,"Tanaka, Yukio",SS,21,0.992,44,73,1,24,,41743862
+1993,Regular Season,Nippon-Ham Fighters,22,"Tamura, Fujio",C,129,0.998,807,71,2,17,3,41743863
+1993,Regular Season,Kintetsu Buffaloes,60,"Nakatani, Tadami",OF,1,0.000,0,0,0,0,,41743864
+1993,Regular Season,Orix Bluewave,38,"Takada, Makoto",C,84,0.997,533,41,2,6,1,41743866
+1993,Regular Season,Seibu Lions,17,"Shintani, Hiroshi",P,24,1.000,4,26,0,3,,41743885
+1993,Regular Season,Hiroshima Toyo Carp,2,"Seto, Terunobu",C,25,0.990,93,9,1,1,3,41843883
+1993,Regular Season,Orix Bluewave,8,"Fujii, Yasuo",1B,25,0.990,196,9,2,14,,41943864
+1993,Regular Season,Orix Bluewave,8,"Fujii, Yasuo",OF,110,0.995,176,9,1,3,,41943864
+1993,Regular Season,Yomiuri Giants,25,"Taniguchi, Koichi",P,3,1.000,0,1,0,0,,41943885
+1993,Regular Season,Hiroshima Toyo Carp,7,"Nomura, Kenjiro",OF,1,0.000,0,0,0,0,,43243868
+1993,Regular Season,Hiroshima Toyo Carp,7,"Nomura, Kenjiro",SS,130,0.961,212,374,24,84,,43243868
+1993,Regular Season,Chiba Lotte Marines,59,"Aoyagi, Susumu",C,96,0.991,572,62,6,10,10,43643868
+1993,Regular Season,Chiba Lotte Marines,49,"Hirai, Mitsuchika",OF,41,1.000,54,2,0,0,,43843868
+1993,Regular Season,Seibu Lions,44,"Yamano, Kazuaki",OF,27,1.000,21,1,0,1,,45343868
+1993,Regular Season,Kintetsu Buffaloes,27,"Nakane, Hitoshi",OF,99,1.000,165,5,0,3,,45643868
+1993,Regular Season,Chiba Lotte Marines,55,"Omura, Iwao",OF,28,1.000,24,2,0,0,,47143868
+1993,Regular Season,Nippon-Ham Fighters,26,"Nishimura, Motofumi",P,11,0.800,0,4,1,0,,51053860
+1993,Regular Season,Hiroshima Toyo Carp,27,"Hara, Shinji",2B,1,0.500,0,1,1,0,,51053863
+1993,Regular Season,Hiroshima Toyo Carp,27,"Hara, Shinji",3B,1,0.000,0,0,0,0,,51053863
+1993,Regular Season,Kintetsu Buffaloes,12,"Makishi, Yasunaga",3B,21,1.000,7,8,0,1,,51053864
+1993,Regular Season,Kintetsu Buffaloes,12,"Makishi, Yasunaga",SS,10,0.941,13,19,2,7,,51053864
+1993,Regular Season,Yakult Swallows,14,"Miyamoto, Kenji",OF,1,0.000,0,0,0,0,,51053865
+1993,Regular Season,Yakult Swallows,14,"Miyamoto, Kenji",P,13,0.929,3,10,1,1,,51053865
+1993,Regular Season,Chiba Lotte Marines,45,"Jozume, Masahiko",C,57,0.990,265,30,3,3,5,51053883
+1993,Regular Season,Yomiuri Giants,47,"Nishiyama, Kazutaka",P,2,0.000,0,0,0,0,,51053887
+1993,Regular Season,Nippon-Ham Fighters,15,"Igarashi, Shinichi",1B,2,1.000,3,0,0,0,,51153861
+1993,Regular Season,Nippon-Ham Fighters,15,"Igarashi, Shinichi",OF,41,1.000,45,0,0,0,,51153861
+1993,Regular Season,Yakult Swallows,10,"Arai, Yukio",OF,98,0.980,146,2,3,2,,51153862
+1993,Regular Season,Seibu Lions,1,"Akiyama, Koji",OF,127,0.989,266,9,3,3,,51153863
+1993,Regular Season,Kintetsu Buffaloes,14,"Awano, Hideyuki",P,22,0.875,5,16,3,2,,51153864
+1993,Regular Season,Hiroshima Toyo Carp,61,"Asai, Itsuki",OF,1,0.000,0,0,0,0,,51153881
+1993,Regular Season,Hanshin Tigers,02,"Matsunaga, Hiromi",3B,79,0.967,53,123,6,20,,51253863
+1993,Regular Season,Kintetsu Buffaloes,15,"Yamasaki, Shintaro",P,22,1.000,11,25,0,2,,51253864
+1993,Regular Season,Yomiuri Giants,7,"Yoshimura, Sadaaki",OF,88,0.993,141,3,1,0,,51253865
+1993,Regular Season,Fukuoka Daiei Hawks,11,"Yoshida, Toyohiko",P,24,1.000,1,22,0,0,,51253866
+1993,Regular Season,Seibu Lions,13,"Fujimoto, Shuji",P,27,1.000,3,6,0,0,,51253869
+1993,Regular Season,Yakult Swallows,29,"Nishimura, Tatsuji",P,26,1.000,8,25,0,0,,51253881
+1993,Regular Season,Yomiuri Giants,55,"Matsui, Hideki",OF,48,0.986,68,1,1,0,,51253887
+1993,Regular Season,Yokohama BayStars,28,"Osanai, Takashi",1B,3,1.000,12,4,0,3,,51353861
+1993,Regular Season,Yomiuri Giants,5,"Okazaki, Kaoru",1B,1,1.000,9,0,0,1,,51353865
+1993,Regular Season,Yomiuri Giants,5,"Okazaki, Kaoru",2B,22,0.982,48,60,2,18,,51353865
+1993,Regular Season,Yomiuri Giants,5,"Okazaki, Kaoru",3B,17,0.973,15,21,1,2,,51353865
+1993,Regular Season,Kintetsu Buffaloes,00,"Oshima, Koichi",2B,21,0.982,21,35,1,8,,51353887
+1993,Regular Season,Kintetsu Buffaloes,00,"Oshima, Koichi",3B,58,0.948,38,90,7,7,,51353887
+1993,Regular Season,Kintetsu Buffaloes,00,"Oshima, Koichi",SS,5,0.833,6,4,2,1,,51353887
+1993,Regular Season,Kintetsu Buffaloes,10,"Yamashita, Kazuhiko",C,29,1.000,133,13,0,1,1,51453862
+1993,Regular Season,Seibu Lions,41,"Watanabe, Hisanobu",P,26,0.947,5,13,1,2,,51453869
+1993,Regular Season,Yakult Swallows,5,"Sumi, Fujio",3B,9,1.000,5,3,0,0,,51553842
+1993,Regular Season,Nippon-Ham Fighters,13,"Shibata, Yasumitsu",P,25,0.967,6,23,1,0,,51553848
+1993,Regular Season,Hiroshima Toyo Carp,34,"Kawaguchi, Kazuhisa",P,25,1.000,9,41,0,2,,51553863
+1993,Regular Season,Seibu Lions,47,"Kudo, Kimiyasu",P,24,0.976,10,30,1,1,,51553865
+1993,Regular Season,Chunichi Dragons,61,"Kitano, Katsunori",P,5,1.000,1,0,0,0,,51553866
+1993,Regular Season,Hanshin Tigers,22,"Kido, Katsuhiko",C,49,0.996,214,17,1,3,1,51553867
+1993,Regular Season,Chunichi Dragons,56,"Maehara, Hiroyuki",2B,9,1.000,13,16,0,2,,51553868
+1993,Regular Season,Chunichi Dragons,56,"Maehara, Hiroyuki",3B,65,0.947,31,95,7,7,,51553868
+1993,Regular Season,Chunichi Dragons,56,"Maehara, Hiroyuki",OF,1,1.000,2,1,0,0,,51553868
+1993,Regular Season,Chunichi Dragons,56,"Maehara, Hiroyuki",SS,1,1.000,0,3,0,0,,51553868
+1993,Regular Season,Hanshin Tigers,13,"Kasai, Minoru",P,10,1.000,2,9,0,2,,51553881
+1993,Regular Season,Yakult Swallows,22,"Takatsu, Shingo",OF,1,0.000,0,0,0,0,,51553883
+1993,Regular Season,Yakult Swallows,22,"Takatsu, Shingo",P,56,0.957,3,19,1,2,,51553883
+1993,Regular Season,Hanshin Tigers,8,"Kuji, Teruyoshi",SS,128,0.975,160,356,13,60,,51553885
+1993,Regular Season,Chunichi Dragons,46,"Koike, Takuichi",P,6,0.000,0,0,0,0,,51553887
+1993,Regular Season,Kintetsu Buffaloes,21,"Yoshii, Masato",P,22,0.935,9,20,2,5,,51653860
+1993,Regular Season,Kintetsu Buffaloes,37,"Sano, Shigeki",P,43,1.000,2,14,0,1,,51653883
+1993,Regular Season,Yokohama BayStars,37,"Yamane, Yoshinobu",C,15,0.971,32,2,1,0,0,51653885
+1993,Regular Season,Nippon-Ham Fighters,9,"Schu, Rick",1B,128,0.993,1130,72,9,96,,51653887
+1993,Regular Season,Hanshin Tigers,60,"Shimada, Akihiro",OF,49,0.985,63,1,1,0,,51753860
+1993,Regular Season,Yokohama BayStars,30,"Deni, Tomori",P,12,1.000,1,4,0,0,,51753864
+1993,Regular Season,Hanshin Tigers,45,"Shimata, Tetsuya",P,13,1.000,3,5,0,0,,51753883
+1993,Regular Season,Yomiuri Giants,44,"Ogata, Koichi",2B,14,1.000,22,25,0,5,,51853868
+1993,Regular Season,Yomiuri Giants,44,"Ogata, Koichi",OF,90,1.000,141,3,0,0,,51853868
+1993,Regular Season,Yomiuri Giants,93,"Brantley, Mickey",OF,12,1.000,18,2,0,0,,51853887
+1993,Regular Season,Chiba Lotte Marines,16,"Toyama, Shoji",P,25,1.000,2,2,0,1,,51953862
+1993,Regular Season,Hanshin Tigers,26,"Takeuchi, Yoshiya",P,8,0.000,0,0,0,0,,51953887
+1993,Regular Season,Hanshin Tigers,41,"Watanabe, Nobuhiko",P,21,1.000,4,6,0,1,,53153868
+1993,Regular Season,Yomiuri Giants,49,"Moseby, Lloyd",OF,36,1.000,73,3,0,1,,53153885
+1993,Regular Season,Hiroshima Toyo Carp,33,"Eto, Akira",1B,50,0.986,262,19,4,28,,53253868
+1993,Regular Season,Hiroshima Toyo Carp,33,"Eto, Akira",3B,110,0.971,72,163,7,13,,53253868
+1993,Regular Season,Hanshin Tigers,00,"Kameyama, Tsutomu",OF,44,0.988,77,3,1,1,,53553868
+1993,Regular Season,Chiba Lotte Marines,44,"Shimada, Shigeru",1B,23,1.000,99,3,0,5,,53853868
+1993,Regular Season,Chiba Lotte Marines,44,"Shimada, Shigeru",3B,24,0.948,12,43,3,3,,53853868
+1993,Regular Season,Chiba Lotte Marines,44,"Shimada, Shigeru",OF,36,0.962,48,3,2,0,,53853868
+1993,Regular Season,Chiba Lotte Marines,44,"Shimada, Shigeru",SS,1,0.000,0,0,0,0,,53853868
+1993,Regular Season,Yakult Swallows,53,"Koda, Masahiro",3B,1,0.000,0,0,0,0,,55253868
+1993,Regular Season,Kintetsu Buffaloes,8,"Yonezaki, Kunji",2B,2,0.000,0,0,0,0,,55653868
+1993,Regular Season,Kintetsu Buffaloes,8,"Yonezaki, Kunji",SS,2,1.000,0,2,0,1,,55653868
+1993,Regular Season,Orix Bluewave,26,"Ito, Takahide",P,33,0.875,2,5,1,1,,55853868
+1993,Regular Season,Yokohama BayStars,32,"Inoe, Jun",OF,13,1.000,10,1,0,0,,55953868
+1993,Regular Season,Orix Bluewave,12,"Yamaoki, Yukihiko",P,5,1.000,3,3,0,0,,61063865
+1993,Regular Season,Chiba Lotte Marines,25,"Hiranuma, Sadaharu",P,36,0.923,3,21,2,2,,61063869
+1993,Regular Season,Nippon-Ham Fighters,34,"Minami, Ryuji",P,3,1.000,0,1,0,0,,61063883
+1993,Regular Season,Yokohama BayStars,55,"Nagaike, Yasuo",2B,6,1.000,6,12,0,4,,61063885
+1993,Regular Season,Yokohama BayStars,55,"Nagaike, Yasuo",3B,4,1.000,1,2,0,0,,61063885
+1993,Regular Season,Yokohama BayStars,55,"Nagaike, Yasuo",SS,7,0.750,1,2,1,1,,61063885
+1993,Regular Season,Yomiuri Giants,23,"Ueda, Kazuaki",2B,3,1.000,0,1,0,0,,61163860
+1993,Regular Season,Yomiuri Giants,23,"Ueda, Kazuaki",OF,1,0.000,0,0,0,0,,61163860
+1993,Regular Season,Yomiuri Giants,23,"Ueda, Kazuaki",SS,1,1.000,0,1,0,0,,61163860
+1993,Regular Season,Hiroshima Toyo Carp,23,"Ueda, Yukihiro",C,56,1.000,221,13,0,2,1,61163862
+1993,Regular Season,Fukuoka Daiei Hawks,21,"Ikeda, Chikafusa",P,31,0.857,0,6,1,0,,61163869
+1993,Regular Season,Nippon-Ham Fighters,35,"Imazeki, Masaru",P,1,1.000,0,1,0,0,,61163887
+1993,Regular Season,Orix Bluewave,35,"Furumizo, Katsuyuki",P,1,1.000,0,1,0,0,,61263860
+1993,Regular Season,Nippon-Ham Fighters,00,"Futamura, Tadami",OF,20,1.000,14,0,0,0,,61263867
+1993,Regular Season,Yomiuri Giants,26,"Matsutani, Ryujiro",P,1,0.000,0,0,0,0,,61263868
+1993,Regular Season,Kintetsu Buffaloes,5,"Murakami, Takayuki",1B,1,1.000,2,0,0,1,,61263869
+1993,Regular Season,Kintetsu Buffaloes,5,"Murakami, Takayuki",OF,88,1.000,131,9,0,2,,61263869
+1993,Regular Season,Fukuoka Daiei Hawks,20,"Kimura, Keiji",P,35,0.947,2,16,1,0,,61263883
+1993,Regular Season,Fukuoka Daiei Hawks,0,"Hamana, Chihiro",2B,1,0.000,0,0,0,0,,61263885
+1993,Regular Season,Fukuoka Daiei Hawks,0,"Hamana, Chihiro",SS,121,0.978,170,285,10,62,,61263885
+1993,Regular Season,Yomiuri Giants,51,"Monna, Tetsuhiro",P,33,1.000,2,9,0,0,,61263887
+1993,Regular Season,Chunichi Dragons,42,"Shimizu, Masaji",2B,1,0.000,0,0,0,0,,61363868
+1993,Regular Season,Chunichi Dragons,42,"Shimizu, Masaji",3B,2,1.000,1,0,0,0,,61363868
+1993,Regular Season,Chunichi Dragons,42,"Shimizu, Masaji",OF,60,0.933,27,1,2,0,,61363868
+1993,Regular Season,Hanshin Tigers,9,"Okamoto, Keiji",2B,42,0.992,66,60,1,12,,61363881
+1993,Regular Season,Hanshin Tigers,9,"Okamoto, Keiji",OF,14,1.000,16,0,0,0,,61363881
+1993,Regular Season,Chunichi Dragons,31,"Yamamoto, Yasushi",3B,3,0.800,0,4,1,1,,61363883
+1993,Regular Season,Yomiuri Giants,57,"Kimura, Ryuji",P,16,1.000,1,2,0,0,,61363887
+1993,Regular Season,Yokohama BayStars,2,"Yamazaki, Kenichi",OF,46,0.984,60,1,1,0,,61463860
+1993,Regular Season,Hanshin Tigers,4,"Yamawaki, Koji",2B,2,0.000,0,0,0,0,,61463867
+1993,Regular Season,Hanshin Tigers,4,"Yamawaki, Koji",3B,12,0.958,4,19,1,1,,61463867
+1993,Regular Season,Hanshin Tigers,4,"Yamawaki, Koji",SS,4,0.917,1,10,1,0,,61463867
+1993,Regular Season,Nippon-Ham Fighters,45,"Funayama, Yasushi",P,4,0.000,0,0,0,0,,61463881
+1993,Regular Season,Fukuoka Daiei Hawks,28,"Watanabe, Masakazu",P,24,0.929,1,12,1,0,,61463887
+1993,Regular Season,Yomiuri Giants,48,"Koda, Isao",P,22,0.960,5,19,1,2,,61563860
+1993,Regular Season,Hiroshima Toyo Carp,52,"Ishibashi, Fumio",OF,3,1.000,7,0,0,0,,61563866
+1993,Regular Season,Yomiuri Giants,10,"Komada, Norihiro",1B,115,0.992,921,47,8,80,,61563867
+1993,Regular Season,Yomiuri Giants,10,"Komada, Norihiro",OF,11,1.000,12,0,0,0,,61563867
+1993,Regular Season,Chunichi Dragons,55,"Taiho, Yasuaki",1B,1,1.000,1,0,0,1,,61563868
+1993,Regular Season,Chunichi Dragons,55,"Taiho, Yasuaki",OF,111,0.988,154,4,2,0,,61563868
+1993,Regular Season,Yakult Swallows,60,"Matsumoto, Shuichiro",2B,4,0.944,7,10,1,3,,61563883
+1993,Regular Season,Yakult Swallows,60,"Matsumoto, Shuichiro",3B,7,1.000,3,9,0,1,,61563883
+1993,Regular Season,Yakult Swallows,60,"Matsumoto, Shuichiro",OF,18,1.000,18,0,0,0,,61563883
+1993,Regular Season,Yokohama BayStars,11,"Saito, Takashi",P,29,0.969,15,16,1,3,,61563885
+1993,Regular Season,Fukuoka Daiei Hawks,7,"Sato, Shinichi",OF,38,0.966,55,2,2,0,,61563887
+1993,Regular Season,Chiba Lotte Marines,7,"Minamibuchi, Tokitaka",2B,2,1.000,0,1,0,0,,61663881
+1993,Regular Season,Chiba Lotte Marines,7,"Minamibuchi, Tokitaka",SS,104,0.975,123,229,9,55,,61663881
+1993,Regular Season,Yokohama BayStars,23,"Rose, Robert",2B,129,0.989,287,341,7,97,,61663887
+1993,Regular Season,Yokohama BayStars,3,"Takagi, Yutaka",1B,125,0.998,1060,83,2,106,,61763863
+1993,Regular Season,Yokohama BayStars,3,"Takagi, Yutaka",3B,5,0.833,5,5,2,0,,61763863
+1993,Regular Season,Chunichi Dragons,39,"Nakamura, Takeshi",C,127,0.997,884,82,3,16,9,61763864
+1993,Regular Season,Hiroshima Toyo Carp,9,"Choshi, Toshio",2B,4,1.000,9,8,0,4,,61763869
+1993,Regular Season,Hiroshima Toyo Carp,9,"Choshi, Toshio",3B,1,0.000,0,0,0,0,,61763869
+1993,Regular Season,Yokohama BayStars,22,"Sasaki, Kazuhiro",P,38,0.846,2,9,2,0,,61763881
+1993,Regular Season,Orix Bluewave,15,"Nomura, Takahito",P,36,1.000,5,14,0,2,,61763883
+1993,Regular Season,Yokohama BayStars,31,"Yashiki, Kaname",OF,53,0.988,82,0,1,0,,61963846
+1993,Regular Season,Hanshin Tigers,34,"Nakada, Koji",P,27,0.846,4,7,2,1,,61963860
+1993,Regular Season,Seibu Lions,4,"Tomashino, Seiji",1B,2,1.000,2,1,0,1,,61963867
+1993,Regular Season,Seibu Lions,4,"Tomashino, Seiji",2B,24,0.977,35,50,2,10,,61963867
+1993,Regular Season,Seibu Lions,4,"Tomashino, Seiji",OF,84,0.989,89,1,1,0,,61963867
+1993,Regular Season,Hanshin Tigers,19,"Nakanishi, Kiyoki",P,33,1.000,6,11,0,2,,61963869
+1993,Regular Season,Seibu Lions,34,"Suzuki, Tetsu",P,5,1.000,0,1,0,0,,61963881
+1993,Regular Season,Fukuoka Daiei Hawks,69,"Tabata, Kazuya",P,13,1.000,0,4,0,0,,61963885
+1993,Regular Season,Hiroshima Toyo Carp,35,"Mochizuki, Hidetsugu",P,48,1.000,3,13,0,0,,63063868
+1993,Regular Season,Hanshin Tigers,99,"Nakagomi, Shin",P,28,0.979,13,33,1,0,,63163868
+1993,Regular Season,Chiba Lotte Marines,11,"Maeda, Yukinaga",P,27,0.953,5,36,2,8,,63463868
+1993,Regular Season,Chiba Lotte Marines,39,"Fukuzawa, Yoichi",C,29,0.978,83,4,2,2,3,63663868
+1993,Regular Season,Yokohama BayStars,39,"Akimoto, Kosaku",C,59,0.985,244,24,4,1,3,65163868
+1993,Regular Season,Yokohama BayStars,0,"Ishii, Takuro",3B,107,0.979,71,203,6,24,,65563868
+1993,Regular Season,Yokohama BayStars,0,"Ishii, Takuro",OF,7,1.000,4,0,0,0,,65563868
+1993,Regular Season,Yokohama BayStars,0,"Ishii, Takuro",SS,11,0.976,16,24,1,7,,65563868
+1993,Regular Season,Kintetsu Buffaloes,43,"Matsukubo, Shingo",OF,9,1.000,4,0,0,0,,65663868
+1993,Regular Season,Orix Bluewave,29,"Takashima, Toru",C,28,0.974,100,13,3,2,1,65863868
+1993,Regular Season,Nippon-Ham Fighters,1,"Hirose, Tetsuro",3B,2,1.000,0,3,0,0,,71073862
+1993,Regular Season,Nippon-Ham Fighters,1,"Hirose, Tetsuro",SS,108,0.982,185,346,10,65,,71073862
+1993,Regular Season,Yomiuri Giants,8,"Hara, Tatsunori",1B,15,1.000,123,7,0,14,,71073863
+1993,Regular Season,Yomiuri Giants,8,"Hara, Tatsunori",3B,80,0.945,56,98,9,7,,71073863
+1993,Regular Season,Hanshin Tigers,58,"Migita, Masahiko",OF,1,1.000,3,0,0,0,,71073864
+1993,Regular Season,Nippon-Ham Fighters,27,"Kawana, Shinichi",OF,74,0.971,99,0,3,0,,71073868
+1993,Regular Season,Seibu Lions,27,"Ito, Tsutomu",C,126,0.994,934,54,6,15,1,71173865
+1993,Regular Season,Hiroshima Toyo Carp,30,"Oto, Shigeki",OF,8,1.000,6,1,0,1,,71173866
+1993,Regular Season,Yakult Swallows,11,"Araki, Daisuke",P,21,1.000,2,10,0,1,,71173867
+1993,Regular Season,Chunichi Dragons,14,"Imanaka, Shinji",P,31,0.978,10,34,1,2,,71173868
+1993,Regular Season,Yomiuri Giants,39,"Yoshihara, Kosuke",C,38,1.000,206,22,0,4,1,71173883
+1993,Regular Season,Yokohama BayStars,13,"Igarashi, Hideki",P,27,1.000,2,7,0,1,,71173887
+1993,Regular Season,Yakult Swallows,8,"Hirosawa, Katsumi",1B,132,0.993,1101,97,8,91,,71273860
+1993,Regular Season,Orix Bluewave,36,"Yamamori, Masafumi",OF,50,1.000,31,0,0,0,,71273861
+1993,Regular Season,Hiroshima Toyo Carp,55,"Nihei, Kaoru",OF,24,1.000,6,0,0,0,,71273881
+1993,Regular Season,Nippon-Ham Fighters,33,"Matsuda, Shinji",P,25,0.917,1,10,1,0,,71273887
+1993,Regular Season,Seibu Lions,26,"Katori, Yoshitaka",P,42,1.000,5,13,0,1,,71373848
+1993,Regular Season,Yokohama BayStars,16,"Kakehata, Mitsunori",P,2,1.000,0,1,0,0,,71373865
+1993,Regular Season,Chunichi Dragons,45,"Morita, Koichi",P,22,1.000,2,5,0,0,,71373883
+1993,Regular Season,Chunichi Dragons,19,"Ochiai, Eiji",P,10,1.000,0,3,0,1,,71373885
+1993,Regular Season,Kintetsu Buffaloes,20,"Takayanagi, Izumi",P,8,1.000,2,6,0,0,,71473866
+1993,Regular Season,Hanshin Tigers,56,"Mikoshiba, Susumu",P,41,0.917,3,8,1,0,,71473867
+1993,Regular Season,Yokohama BayStars,35,"Hiratsuka, Katsuhiro",OF,3,0.833,4,1,1,1,,71473881
+1993,Regular Season,Yokohama BayStars,43,"Yoshii, Akira",P,12,1.000,1,3,0,0,,71473887
+1993,Regular Season,Yomiuri Giants,2,"Kumano, Terumitsu",OF,7,0.750,3,0,1,0,,71573860
+1993,Regular Season,Seibu Lions,22,"Shimizu, Yoshiyuki",2B,5,0.955,8,13,1,1,,71573866
+1993,Regular Season,Seibu Lions,22,"Shimizu, Yoshiyuki",3B,12,1.000,3,7,0,0,,71573866
+1993,Regular Season,Kintetsu Buffaloes,23,"Koike, Hideo",P,27,0.923,3,9,1,0,,71573887
+1993,Regular Season,Chunichi Dragons,54,"Matsui, Tatsunori",1B,7,0.980,44,4,1,4,,71673881
+1993,Regular Season,Chunichi Dragons,54,"Matsui, Tatsunori",OF,19,1.000,30,0,0,0,,71673881
+1993,Regular Season,Chiba Lotte Marines,28,"Sonokawa, Kazumi",P,32,0.975,9,30,1,1,,71773862
+1993,Regular Season,Yakult Swallows,38,"Dobashi, Katsuyuki",OF,91,0.988,76,4,1,1,,71773864
+1993,Regular Season,Orix Bluewave,31,"Shibahara, Minoru",OF,52,1.000,66,1,0,1,,71773867
+1993,Regular Season,Nippon-Ham Fighters,14,"Sakai, Mitsujiro",P,46,1.000,4,19,0,1,,71773881
+1993,Regular Season,Hanshin Tigers,65,"Yamazaki, Kazuharu",P,14,1.000,6,5,0,1,,71773883
+1993,Regular Season,Chunichi Dragons,0,"Jinno, Junichi",3B,3,1.000,3,3,0,1,,71773887
+1993,Regular Season,Chunichi Dragons,0,"Jinno, Junichi",SS,7,0.929,8,5,1,2,,71773887
+1993,Regular Season,Hiroshima Toyo Carp,45,"Takahashi, Hideki",P,23,1.000,5,12,0,0,,71873883
+1993,Regular Season,Chiba Lotte Marines,8,"Venable, Max",OF,101,0.976,160,3,4,1,,71873885
+1993,Regular Season,Yokohama BayStars,6,"Takahashi, Masahiro",2B,1,1.000,4,3,0,1,,71973860
+1993,Regular Season,Yokohama BayStars,6,"Takahashi, Masahiro",3B,22,0.932,6,35,3,5,,71973860
+1993,Regular Season,Yokohama BayStars,6,"Takahashi, Masahiro",OF,45,1.000,67,2,0,0,,71973860
+1993,Regular Season,Yokohama BayStars,6,"Takahashi, Masahiro",SS,1,1.000,0,2,0,0,,71973860
+1993,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",1B,10,0.917,10,1,1,1,,71973865
+1993,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",3B,13,1.000,3,9,0,1,,71973865
+1993,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",SS,6,1.000,4,6,0,0,,71973865
+1993,Regular Season,Nippon-Ham Fighters,51,"Ushiyama, Tsutomu",C,2,1.000,2,0,0,0,1,71973868
+1993,Regular Season,Seibu Lions,16,"Shiozaki, Tetsuya",OF,1,0.000,0,0,0,0,,71973881
+1993,Regular Season,Seibu Lions,16,"Shiozaki, Tetsuya",P,53,0.952,3,17,1,0,,71973881
+1993,Regular Season,Hanshin Tigers,49,"Hattori, Hiroaki",P,4,0.667,1,1,1,0,,73173868
+1993,Regular Season,Chunichi Dragons,1,"Taneda, Hitoshi",3B,1,1.000,0,1,0,1,,73373881
+1993,Regular Season,Chunichi Dragons,1,"Taneda, Hitoshi",OF,2,1.000,1,0,0,0,,73373881
+1993,Regular Season,Chunichi Dragons,1,"Taneda, Hitoshi",SS,132,0.977,189,408,14,71,,73373881
+1993,Regular Season,Hanshin Tigers,68,"Hoshino, Osamu",2B,1,0.000,0,0,0,0,,73573868
+1993,Regular Season,Hanshin Tigers,68,"Hoshino, Osamu",3B,4,1.000,0,1,0,1,,73573868
+1993,Regular Season,Hanshin Tigers,68,"Hoshino, Osamu",SS,5,1.000,3,15,0,1,,73573868
+1993,Regular Season,Chiba Lotte Marines,5,"Hori, Koichi",2B,128,0.988,319,339,8,83,,73873868
+1993,Regular Season,Fukuoka Daiei Hawks,47,"Hironaga, Yasutaka",OF,8,1.000,2,0,0,0,,73973868
+1993,Regular Season,Yokohama BayStars,69,"Nakamura, Hideo",1B,3,1.000,22,1,0,2,,75373868
+1993,Regular Season,Yokohama BayStars,27,"Tanabe, Manabu",P,25,0.971,5,28,1,1,,75573868
+1993,Regular Season,Yokohama BayStars,24,"Moriyama, Ryoji",P,13,1.000,0,7,0,0,,81083864
+1993,Regular Season,Chiba Lotte Marines,40,"Hoshiba, Takahisa",P,2,0.000,0,0,0,0,,81083887
+1993,Regular Season,Chunichi Dragons,6,"Ochiai, Hiromitsu",1B,118,0.997,1090,54,4,100,,81183848
+1993,Regular Season,Fukuoka Daiei Hawks,30,"Uchida, Tsuyoshi",C,11,0.966,26,2,1,0,0,81183862
+1993,Regular Season,Orix Bluewave,3,"Ishimine, Kazuhiko",OF,11,1.000,18,0,0,0,,81183863
+1993,Regular Season,Hanshin Tigers,54,"Tagi, Atsushi",P,2,1.000,1,2,0,0,,81183866
+1993,Regular Season,Yakult Swallows,1,"Ikeyama, Takahiro",SS,108,0.983,188,280,8,65,,81183869
+1993,Regular Season,Chiba Lotte Marines,24,"Yamashita, Norihito",1B,1,1.000,1,0,0,0,,81283866
+1993,Regular Season,Chiba Lotte Marines,24,"Yamashita, Norihito",OF,40,0.984,59,1,1,0,,81283866
+1993,Regular Season,Yomiuri Giants,30,"Hashimoto, Kiyoshi",P,52,0.933,1,13,1,0,,81283868
+1993,Regular Season,Yomiuri Giants,9,"Murata, Shinichi",C,82,0.997,612,35,2,5,3,81283869
+1993,Regular Season,Fukuoka Daiei Hawks,24,"Shimoyanagi, Tsuyoshi",P,50,0.955,5,16,1,1,,81283883
+1993,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",2B,54,0.992,98,148,2,33,,81383844
+1993,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",3B,1,1.000,1,3,0,0,,81383844
+1993,Regular Season,Fukuoka Daiei Hawks,8,"Kishikawa, Katsuya",1B,3,1.000,18,0,0,0,,81383860
+1993,Regular Season,Fukuoka Daiei Hawks,8,"Kishikawa, Katsuya",OF,40,1.000,67,0,0,0,,81383860
+1993,Regular Season,Chunichi Dragons,33,"Kaku, Genji",P,39,0.941,10,22,2,5,,81383863
+1993,Regular Season,Chiba Lotte Marines,57,"Sato, Yukihiko",1B,1,1.000,4,0,0,0,,81383864
+1993,Regular Season,Chiba Lotte Marines,57,"Sato, Yukihiko",OF,72,1.000,91,0,0,0,,81383864
+1993,Regular Season,Yakult Swallows,7,"Hashigami, Hideki",OF,45,0.981,51,1,1,0,,81383866
+1993,Regular Season,Chiba Lotte Marines,46,"Kawamoto, Yasuyuki",P,40,1.000,1,11,0,0,,81383885
+1993,Regular Season,Fukuoka Daiei Hawks,6,"Yugamidani, Hiroshi",2B,113,0.986,235,265,7,61,,81483860
+1993,Regular Season,Fukuoka Daiei Hawks,6,"Yugamidani, Hiroshi",SS,4,1.000,1,2,0,0,,81483860
+1993,Regular Season,Kintetsu Buffaloes,17,"Sasaki, Osamu",P,5,0.750,3,0,1,1,,81583860
+1993,Regular Season,Hiroshima Toyo Carp,37,"Ogata, Koichi",OF,75,1.000,90,3,0,1,,81583866
+1993,Regular Season,Yomiuri Giants,11,"Saito, Masaki",P,23,1.000,5,23,0,2,,81583869
+1993,Regular Season,Hiroshima Toyo Carp,17,"Sato, Takeshi",P,13,1.000,0,5,0,0,,81583887
+1993,Regular Season,Seibu Lions,62,"Watanabe, Takao",C,1,0.000,0,0,0,0,0,81683885
+1993,Regular Season,Yokohama BayStars,44,"Braggs, Glenn",OF,71,0.982,158,7,3,4,,81683887
+1993,Regular Season,Hiroshima Toyo Carp,41,"Nishi, Kiyotaka",P,5,0.000,0,0,0,0,,81783864
+1993,Regular Season,Yomiuri Giants,12,"Nishioka, Yoshihiro",OF,48,1.000,27,0,0,0,,81783865
+1993,Regular Season,Yokohama BayStars,48,"Shimada, Naoya",P,16,0.944,2,15,1,3,,81783868
+1993,Regular Season,Chunichi Dragons,52,"Tsuno, Hiroshi",P,27,1.000,4,21,0,2,,81783869
+1993,Regular Season,Orix Bluewave,17,"Hasegawa, Shigetoshi",P,23,0.972,8,27,1,2,,81783883
+1993,Regular Season,Hiroshima Toyo Carp,51,"Sugita, Isamu",C,2,0.667,2,0,1,0,0,81783885
+1993,Regular Season,Chunichi Dragons,29,"Yoda, Tsuyoshi",P,15,1.000,2,5,0,2,,81883881
+1993,Regular Season,Yokohama BayStars,34,"Mizuo, Yoshitaka",P,1,0.000,0,0,0,0,,81883883
+1993,Regular Season,Yomiuri Giants,27,"Fukuo, Akihito",2B,17,1.000,17,25,0,3,,81983864
+1993,Regular Season,Yomiuri Giants,27,"Fukuo, Akihito",3B,4,0.800,4,0,1,0,,81983864
+1993,Regular Season,Orix Bluewave,14,"Yamauchi, Yoshihiro",P,2,1.000,0,2,0,0,,81983866
+1993,Regular Season,Chiba Lotte Marines,22,"Suzuki, Toshio",1B,3,1.000,11,0,0,0,,81983881
+1993,Regular Season,Chiba Lotte Marines,22,"Suzuki, Toshio",C,1,1.000,2,0,0,0,1,81983881
+1993,Regular Season,Seibu Lions,9,"Narahara, Hiroshi",2B,4,1.000,3,6,0,0,,81983883
+1993,Regular Season,Seibu Lions,9,"Narahara, Hiroshi",SS,102,0.985,82,183,4,43,,81983883
+1993,Regular Season,Chiba Lotte Marines,12,"Tanba, Kenji",1B,5,1.000,31,2,0,3,,81983885
+1993,Regular Season,Chiba Lotte Marines,12,"Tanba, Kenji",3B,2,1.000,1,3,0,2,,81983885
+1993,Regular Season,Nippon-Ham Fighters,10,"Winters, Matt",OF,4,0.833,5,0,1,0,,83183881
+1993,Regular Season,Hiroshima Toyo Carp,39,"Sato, Hiroyuki",SS,2,1.000,1,5,0,0,,83283868
+1993,Regular Season,Hanshin Tigers,40,"Ayukawa, Yoshifumi",1B,16,1.000,49,2,0,2,,83383868
+1993,Regular Season,Hanshin Tigers,40,"Ayukawa, Yoshifumi",3B,38,0.932,19,63,6,3,,83383868
+1993,Regular Season,Chunichi Dragons,16,"Konno, Takahiro",P,16,0.800,1,3,1,1,,83483868
+1993,Regular Season,Seibu Lions,11,"Ishii, Takehiro",P,26,1.000,10,38,0,0,,83883868
+1993,Regular Season,Kintetsu Buffaloes,31,"Yamada, Masami",P,1,0.000,0,0,0,0,,85283868
+1993,Regular Season,Seibu Lions,20,"Mori, Hiroyuki",1B,8,1.000,36,0,0,5,,85383868
+1993,Regular Season,Seibu Lions,20,"Mori, Hiroyuki",OF,7,0.800,4,0,1,0,,85383868
+1993,Regular Season,Yokohama BayStars,8,"Tanishige, Motonobu",C,109,0.996,667,65,3,14,3,85583868
+1993,Regular Season,Orix Bluewave,39,"Hamuro, Taro",C,4,1.000,9,1,0,1,1,85883868
+1993,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",1B,6,1.000,27,1,0,3,,91093866
+1993,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",3B,7,1.000,3,9,0,1,,91093866
+1993,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",OF,59,1.000,72,6,0,1,,91093866
+1993,Regular Season,Hiroshima Toyo Carp,28,"Nishida, Shinji",OF,6,1.000,3,1,0,0,,91093867
+1993,Regular Season,Chunichi Dragons,5,"Nimura, Toru",1B,8,1.000,22,1,0,3,,91093869
+1993,Regular Season,Chunichi Dragons,5,"Nimura, Toru",2B,1,1.000,1,0,0,0,,91093869
+1993,Regular Season,Chunichi Dragons,5,"Nimura, Toru",3B,71,0.970,41,155,6,10,,91093869
+1993,Regular Season,Chunichi Dragons,5,"Nimura, Toru",OF,2,1.000,4,0,0,0,,91093869
+1993,Regular Season,Hiroshima Toyo Carp,24,"Ono, Yutaka",P,31,1.000,2,8,0,0,,91193844
+1993,Regular Season,Yakult Swallows,18,"Ito, Akimitsu",P,26,0.975,10,29,1,1,,91193862
+1993,Regular Season,Kintetsu Buffaloes,54,"Ikeue, Koichi",P,2,0.000,0,0,0,0,,91193864
+1993,Regular Season,Chunichi Dragons,48,"Komori, Tetsuya",2B,5,1.000,4,2,0,0,,91193866
+1993,Regular Season,Chunichi Dragons,48,"Komori, Tetsuya",3B,1,0.000,0,0,0,0,,91193866
+1993,Regular Season,Chunichi Dragons,48,"Komori, Tetsuya",SS,1,0.667,1,1,1,0,,91193866
+1993,Regular Season,Chiba Lotte Marines,47,"Azuse, Kotaro",P,10,1.000,0,2,0,1,,91193881
+1993,Regular Season,Orix Bluewave,1,"Fukura, Junichi",2B,129,0.994,235,342,3,70,,91293860
+1993,Regular Season,Yakult Swallows,66,"Yamada, Tsutomu",P,47,0.818,4,5,2,0,,91293864
+1993,Regular Season,Fukuoka Daiei Hawks,44,"Wright, George",OF,93,0.988,237,7,3,2,,91293866
+1993,Regular Season,Hanshin Tigers,31,"Hagiwara, Makoto",OF,5,0.800,4,0,1,0,,91293885
+1993,Regular Season,Yakult Swallows,31,"Manaka, Mitsuru",OF,17,0.952,20,0,1,0,,91293887
+1993,Regular Season,Hiroshima Toyo Carp,20,"Kitabeppu, Manabu",P,13,1.000,3,11,0,0,,91393842
+1993,Regular Season,Orix Bluewave,11,"Sato, Yoshinori",P,21,1.000,11,21,0,0,,91393844
+1993,Regular Season,Yomiuri Giants,13,"Okada, Hirokazu",P,1,0.000,0,0,0,0,,91393862
+1993,Regular Season,Yakult Swallows,41,"Kanazawa, Tsugio",P,31,1.000,1,10,0,0,,91393865
+1993,Regular Season,Hiroshima Toyo Carp,65,"Obata, Koji",C,12,0.960,22,2,1,0,0,91393885
+1993,Regular Season,Orix Bluewave,40,"Kaneda, Masahiko",P,28,1.000,1,15,0,0,,91393887
+1993,Regular Season,Nippon-Ham Fighters,0,"Matsura, Hiroaki",P,30,1.000,3,10,0,0,,91493860
+1993,Regular Season,Fukuoka Daiei Hawks,46,"Bonishi, Koji",C,18,1.000,33,5,0,0,2,91493883
+1993,Regular Season,Hiroshima Toyo Carp,5,"Machida, Kojiro",OF,83,0.994,154,4,1,0,,91493885
+1993,Regular Season,Fukuoka Daiei Hawks,33,"Saito, Manabu",P,8,0.750,1,2,1,0,,91593862
+1993,Regular Season,Yokohama BayStars,1,"Shindo, Tatsuya",SS,123,0.979,183,382,12,76,,91593866
+1993,Regular Season,Orix Bluewave,22,"Kobayashi, Hiroshi",P,9,1.000,0,3,0,0,,91593887
+1993,Regular Season,Kintetsu Buffaloes,0,"Yoshida, Takashi",3B,3,1.000,0,4,0,0,,91693860
+1993,Regular Season,Kintetsu Buffaloes,0,"Yoshida, Takashi",SS,112,0.963,158,305,14,54,,91693860
+1993,Regular Season,Chunichi Dragons,27,"Matsunaga, Yukio",P,1,0.000,0,0,0,0,,91693881
+1993,Regular Season,Hanshin Tigers,14,"Yuminaga, Tatsuhiro",P,54,0.957,3,19,1,1,,91693885
+1993,Regular Season,Yakult Swallows,49,"Hudler, Rex",1B,2,1.000,4,0,0,0,,91693887
+1993,Regular Season,Yakult Swallows,49,"Hudler, Rex",2B,114,0.976,250,319,14,65,,91693887
+1993,Regular Season,Yakult Swallows,49,"Hudler, Rex",OF,1,1.000,2,0,0,0,,91693887
+1993,Regular Season,Orix Bluewave,52,"Nishimoto, Takashi",P,13,1.000,5,16,0,1,,91793842
+1993,Regular Season,Hiroshima Toyo Carp,4,"Shoda, Kozo",2B,118,0.987,274,334,8,66,,91793860
+1993,Regular Season,Orix Bluewave,27,"Nakajima, Satoshi",C,55,0.991,308,33,3,1,2,91793864
+1993,Regular Season,Nippon-Ham Fighters,39,"Shimada, Nobutoshi",OF,57,0.972,34,1,1,0,,91793867
+1993,Regular Season,Nippon-Ham Fighters,29,"Shibakusa, Hiroshi",P,27,0.909,1,9,1,1,,91793868
+1993,Regular Season,Seibu Lions,29,"Sugiyama, Kento",P,54,1.000,5,11,0,1,,91793887
+1993,Regular Season,Hiroshima Toyo Carp,68,"Yamasaki, Ken",P,4,0.000,0,0,0,0,,91893883
+1993,Regular Season,Hiroshima Toyo Carp,43,"Brown, Marty",1B,24,0.995,177,14,1,14,,91893885
+1993,Regular Season,Hiroshima Toyo Carp,43,"Brown, Marty",OF,97,0.956,147,6,7,1,,91893885
+1993,Regular Season,Hiroshima Toyo Carp,12,"Takayama, Ikuo",P,3,1.000,0,1,0,0,,91993860
+1993,Regular Season,Seibu Lions,10,"Hanyuda, Tadakatsu",OF,36,1.000,50,0,0,0,,91993864
+1993,Regular Season,Kintetsu Buffaloes,24,"Takamura, Hiroshi",P,23,0.968,13,17,1,0,,91993885
+1993,Regular Season,Yokohama BayStars,51,"Suzuki, Takanori",OF,9,0.857,6,0,1,0,,93193883
+1993,Regular Season,Hanshin Tigers,27,"Yamada, Katsuhiko",C,62,1.000,238,25,0,6,2,93393868
+1993,Regular Season,Hiroshima Toyo Carp,67,"Kobayakawa, Koji",P,18,1.000,0,3,0,1,,93793868
+1993,Regular Season,Fukuoka Daiei Hawks,55,"Omichi, Noriyoshi",1B,29,0.988,155,8,2,11,,93993868
+1993,Regular Season,Fukuoka Daiei Hawks,55,"Omichi, Noriyoshi",3B,5,0.750,1,5,2,0,,93993868
+1993,Regular Season,Fukuoka Daiei Hawks,55,"Omichi, Noriyoshi",OF,27,1.000,26,4,0,0,,93993868
+1993,Regular Season,Seibu Lions,55,"Ando, Shinji",2B,5,1.000,5,7,0,3,,95393868
+1993,Regular Season,Kintetsu Buffaloes,28,"Nakamura, Ryoji",OF,6,1.000,8,0,0,0,,95693868

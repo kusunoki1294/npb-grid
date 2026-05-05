@@ -1,0 +1,592 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+1990,Regular Season,Yokohama Taiyo Whales,46,"Miyashita, Shiro",PH,5,7,7,0.143,0.143,0.143,0.286,1,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,01003864
+1990,Regular Season,Orix Braves,34,"Mori, Koji",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01003865
+1990,Regular Season,Seibu Lions,22,"Omiya, Tatsuo",C,33,74,62,0.194,0.278,0.242,0.520,5,6,12,9,3,0,0,15,1,0,8,0,16,3,0,2,2,01103844
+1990,Japan Series,Yomiuri Giants,52,"Inoe, Shinji",RF,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,01103860
+1990,Regular Season,Yomiuri Giants,52,"Inoe, Shinji",RF,53,93,85,0.271,0.315,0.459,0.774,10,12,23,14,5,1,3,39,0,1,4,0,18,2,2,1,1,01103860
+1990,Regular Season,Lotte Orions,27,"Ushijima, Kazuhiko",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103861
+1990,Regular Season,Lotte Orions,62,"Ito, Fumio",1B,10,22,21,0.238,0.273,0.381,0.654,4,1,5,4,0,0,1,8,0,0,1,0,9,0,0,0,0,01103862
+1990,Regular Season,Fukuoka Daiei Hawks,12,"Inoe, Yuji",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103863
+1990,Regular Season,Hanshin Tigers,25,"Inomata, Takashi",P,23,51,49,0.020,0.020,0.020,0.040,2,1,1,1,0,0,0,1,0,0,0,0,35,1,0,2,0,01103864
+1990,Regular Season,Chunichi Dragons,46,"Takashima, Satoru",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01103866
+1990,Regular Season,Fukuoka Daiei Hawks,15,"Takashima, Satoru",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103866
+1990,Regular Season,Nippon-Ham Fighters,24,"Arikura, Masashi",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103881
+1990,Regular Season,Fukuoka Daiei Hawks,5,"Fujimoto, Hiroshi",3B,112,388,332,0.211,0.295,0.386,0.681,26,61,70,39,16,3,12,128,2,1,37,1,84,11,3,15,1,01203860
+1990,Regular Season,Kintetsu Buffaloes,44,"Mitsuyama, Hidekazu",C,87,227,206,0.301,0.339,0.505,0.844,25,33,62,44,6,0,12,104,1,1,11,0,47,3,2,6,2,01203862
+1990,Regular Season,Fukuoka Daiei Hawks,14,"Wakai, Motoyasu",1B,64,209,189,0.265,0.327,0.349,0.676,18,22,50,39,8,1,2,66,3,1,18,1,15,4,0,1,1,01203866
+1990,Regular Season,Seibu Lions,48,"Maeda, Koji",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01203869
+1990,Regular Season,Yokohama Taiyo Whales,17,"Saito, Akio",P,24,57,48,0.208,0.283,0.229,0.512,3,0,10,9,1,0,0,11,0,0,5,0,13,1,0,4,0,01303844
+1990,Regular Season,Chunichi Dragons,23,"Kawamata, Yonetoshi",RF,94,212,167,0.246,0.385,0.365,0.750,18,18,41,25,14,0,2,61,2,1,36,4,34,3,3,4,2,01303848
+1990,Regular Season,Lotte Orions,41,"Kasahara, Eiichi",2B,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01303862
+1990,Regular Season,Kintetsu Buffaloes,4,"Oishi, Daijiro",2B,125,541,471,0.314,0.378,0.520,0.898,93,69,148,97,25,6,20,245,20,4,49,0,51,8,2,15,4,01303863
+1990,Regular Season,Hiroshima Toyo Carp,11,"Kito, Makoto",P,36,6,5,0.400,0.500,0.400,0.900,1,0,2,2,0,0,0,2,0,0,1,0,3,0,0,0,0,01303864
+1990,Regular Season,Hanshin Tigers,5,"Kanamori, Eiji",PH,68,120,95,0.263,0.408,0.358,0.766,11,13,25,16,9,0,0,34,0,1,20,2,5,4,4,0,1,01303865
+1990,Regular Season,Chunichi Dragons,22,"Yamasaki, Takeshi",PH,5,8,7,0.429,0.500,0.571,1.071,1,0,3,2,1,0,0,4,0,0,1,0,1,0,0,0,0,01303868
+1990,Regular Season,Chunichi Dragons,18,"Kashima, Tadashi",P,45,12,11,0.000,0.083,0.000,0.083,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,01303869
+1990,Regular Season,Seibu Lions,23,"Otsuka, Koji",PR,24,15,15,0.267,0.267,0.267,0.534,6,0,4,4,0,0,0,4,0,1,0,0,5,0,0,0,0,01303881
+1990,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,26,58,47,0.149,0.231,0.149,0.380,2,4,7,7,0,0,0,7,0,1,5,0,15,2,0,6,0,01403862
+1990,Japan Series,Seibu Lions,14,"Muraoka, Koichi",PR,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,01403867
+1990,Regular Season,Seibu Lions,14,"Muraoka, Koichi",PR,58,46,32,0.125,0.317,0.188,0.505,8,1,4,2,2,0,0,6,6,0,9,0,5,1,0,5,0,01403867
+1990,Regular Season,Nippon-Ham Fighters,34,"Komatsuzaki, Yoshihisa",PH,32,53,49,0.184,0.231,0.184,0.415,3,2,9,9,0,0,0,9,0,0,1,0,19,1,2,1,0,01503860
+1990,Regular Season,Yokohama Taiyo Whales,21,"Nomura, Hiroki",P,28,62,55,0.218,0.246,0.345,0.591,5,4,12,8,2,1,1,19,0,0,2,0,25,1,0,5,0,01503866
+1990,Regular Season,Seibu Lions,44,"Kurohara, Yuji",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01503867
+1990,Regular Season,Hiroshima Toyo Carp,6,"Kobayakawa, Takehiko",1B,105,409,353,0.283,0.367,0.467,0.834,49,61,100,70,12,1,17,165,2,3,45,1,71,7,5,0,6,01503869
+1990,Regular Season,Chunichi Dragons,19,"Yonemura, Akira",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01603860
+1990,Regular Season,Yomiuri Giants,60,"Shirahata, Takahiro",PH,7,7,7,0.286,0.286,0.429,0.715,1,2,2,1,1,0,0,3,0,0,0,0,4,0,0,0,0,01703860
+1990,Regular Season,Seibu Lions,19,"Takahashi, Kazuhiko",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01703862
+1990,Regular Season,Hiroshima Toyo Carp,12,"Takagi, Nobuhiro",P,30,22,22,0.091,0.091,0.091,0.182,0,1,2,2,0,0,0,2,0,0,0,0,6,1,0,0,0,01703865
+1990,Regular Season,Lotte Orions,48,"Takahashi, Chuichi",LF,29,66,51,0.255,0.406,0.333,0.739,8,5,13,10,2,1,0,17,1,0,13,0,14,0,0,2,0,01703869
+1990,Regular Season,Chunichi Dragons,32,"Yamada, Kikuo",P,17,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01803881
+1990,Regular Season,Hanshin Tigers,0,"Nakano, Satoru",CF,96,205,176,0.261,0.358,0.352,0.710,27,11,46,38,3,2,3,62,6,6,21,0,28,4,6,1,1,01903862
+1990,Japan Series,Yomiuri Giants,22,"Nakao, Takayoshi",C,2,,4,0.250,,0.250,,,0,1,1,0,0,0,1,0,,0,,1,,,,,01903863
+1990,Regular Season,Yomiuri Giants,22,"Nakao, Takayoshi",C,56,135,114,0.254,0.326,0.456,0.782,17,18,29,20,2,0,7,52,0,0,14,4,20,3,0,2,4,01903863
+1990,Japan Series,Yomiuri Giants,28,"Hirota, Hiroaki",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,01903864
+1990,Regular Season,Yomiuri Giants,28,"Hirota, Hiroaki",P,15,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,01903864
+1990,Regular Season,Orix Braves,16,"Ito, Atsunori",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903866
+1990,Regular Season,Yomiuri Giants,37,"Tsusue, Hideaki",PH,18,18,12,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,6,0,5,1,0,0,0,01903867
+1990,Regular Season,Nippon-Ham Fighters,7,"Nakajima, Terushi",1B,117,361,328,0.253,0.303,0.409,0.712,35,50,83,55,16,1,11,134,5,4,21,0,54,13,4,5,3,01903868
+1990,Regular Season,Yakult Swallows,7,"Murphy, Dwayne",CF,34,144,109,0.229,0.396,0.422,0.818,19,22,25,14,6,0,5,46,1,0,31,3,34,3,1,0,3,03103881
+1990,Regular Season,Fukuoka Daiei Hawks,00,"Wilson, Jim",DH,6,18,17,0.059,0.111,0.235,0.346,1,2,1,0,0,0,1,4,0,0,1,0,4,1,0,0,0,03303881
+1990,Regular Season,Hiroshima Toyo Carp,49,"Allen, Rod",LF,98,367,326,0.313,0.383,0.586,0.969,56,61,102,64,12,1,25,191,2,2,32,3,60,10,6,1,2,03403868
+1990,Regular Season,Hanshin Tigers,33,"Kaneko, Seiichi",RF,87,142,130,0.238,0.303,0.362,0.665,22,10,31,21,6,2,2,47,7,1,12,0,41,1,0,0,0,03503868
+1990,Regular Season,Lotte Orions,65,"Yashima, Shoji",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03603868
+1990,Regular Season,Fukuoka Daiei Hawks,49,"Yoshinaga, Koichiro",DH,69,195,180,0.311,0.356,0.517,0.873,17,34,56,35,12,2,7,93,0,0,13,0,40,3,0,1,1,03703868
+1990,Regular Season,Yakult Swallows,13,"Kato, Hiroto",P,37,30,22,0.227,0.292,0.273,0.565,0,1,5,4,1,0,0,6,0,0,2,0,13,0,0,6,0,05003868
+1990,Regular Season,Seibu Lions,57,"Ueda, Hiroaki",3B,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,05303868
+1990,Regular Season,Kintetsu Buffaloes,46,"Omura, Shinji",PH,3,6,4,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,1,0,4,0,1,0,0,05603868
+1990,Regular Season,Orix Braves,59,"Kohama, Yuichi",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,05803868
+1990,Japan Series,Seibu Lions,39,"Destrade, Orestes",DH,4,,16,0.375,,0.875,,,8,6,2,2,0,2,14,1,,2,,7,,,,,07303868
+1990,Regular Season,Seibu Lions,39,"Destrade, Orestes",DH,130,552,476,0.263,0.359,0.567,0.926,81,106,125,64,19,0,42,270,10,5,70,3,165,7,3,0,3,07303868
+1990,Regular Season,Yomiuri Giants,15,"Yamakura, Kazuhiro",C,44,101,85,0.212,0.320,0.318,0.638,6,14,18,13,3,0,2,27,0,0,14,1,13,2,0,1,1,11013846
+1990,Regular Season,Hanshin Tigers,7,"Mayumi, Akinobu",LF,79,276,247,0.304,0.362,0.551,0.913,32,49,75,48,10,0,17,136,3,0,24,3,43,3,1,0,4,11013847
+1990,Regular Season,Fukuoka Daiei Hawks,35,"Yoshida, Hiroyuki",C,32,76,63,0.206,0.315,0.302,0.617,8,6,13,10,1,1,1,19,0,2,10,0,8,0,0,3,0,11013848
+1990,Regular Season,Fukuoka Daiei Hawks,21,"Nishikawa, Yoshiaki",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11013862
+1990,Regular Season,Orix Braves,58,"Yamanaka, Kenji",1B,6,5,4,0.250,0.400,0.250,0.650,2,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,11013866
+1990,Regular Season,Yokohama Taiyo Whales,37,"Hino, Yoshiaki",SS,25,34,31,0.258,0.303,0.323,0.626,3,6,8,6,2,0,0,10,0,1,2,0,12,0,0,1,0,11213860
+1990,Regular Season,Lotte Orions,10,"Furukawa, Shinichi",LF,38,83,77,0.221,0.235,0.338,0.573,7,7,17,12,3,0,2,26,2,0,2,0,21,0,0,2,2,11213862
+1990,Regular Season,Lotte Orions,16,"Horii, Tsuneo",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213863
+1990,Regular Season,Hanshin Tigers,3,"Yagi, Hiroshi",3B,124,463,412,0.250,0.317,0.500,0.817,63,66,103,58,15,2,28,206,4,2,41,2,101,8,1,4,3,11213864
+1990,Regular Season,Fukuoka Daiei Hawks,44,"Hatayama, Hitoshi",PH,16,20,18,0.167,0.250,0.222,0.472,2,0,3,2,1,0,0,4,0,0,2,0,6,0,0,0,0,11213867
+1990,Regular Season,Nippon-Ham Fighters,35,"Fujio, Yasuharu",PH,75,160,142,0.246,0.331,0.394,0.725,10,14,35,23,7,1,4,56,1,0,18,0,34,2,0,0,0,11213869
+1990,Regular Season,Fukuoka Daiei Hawks,10,"Nishi, Shunji",3B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213881
+1990,Regular Season,Seibu Lions,45,"Okubo, Hiromoto",PH,13,18,16,0.188,0.278,0.563,0.841,2,2,3,1,0,0,2,9,0,0,2,0,5,1,0,0,0,11313860
+1990,Regular Season,Nippon-Ham Fighters,28,"Okamoto, Tetsushi",C,4,9,8,0.125,0.111,0.125,0.236,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1,11313862
+1990,Regular Season,Kintetsu Buffaloes,13,"Ishimoto, Yoshiaki",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313863
+1990,Regular Season,Yokohama Taiyo Whales,8,"Ono, Yuji",3B,57,149,126,0.310,0.401,0.492,0.893,17,18,39,26,8,0,5,62,0,1,19,3,21,1,1,2,1,11313864
+1990,Regular Season,Hanshin Tigers,1,"Noda, Koji",P,40,28,26,0.077,0.111,0.077,0.188,0,1,2,2,0,0,0,2,0,0,1,0,15,0,0,1,0,11313866
+1990,Regular Season,Seibu Lions,52,"Oda, Shinya",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313869
+1990,Regular Season,Kintetsu Buffaloes,41,"Iriki, Satoshi",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313881
+1990,Regular Season,Yakult Swallows,28,"Yaegashi, Yukio",PH,54,88,78,0.179,0.273,0.282,0.555,6,13,14,10,2,0,2,22,0,0,8,1,10,3,2,0,0,11413843
+1990,Regular Season,Fukuoka Daiei Hawks,33,"Yamaguchi, Yuji",LF,46,65,61,0.164,0.188,0.328,0.516,7,4,10,5,2,1,2,20,3,2,2,0,13,1,0,1,1,11413862
+1990,Regular Season,Chunichi Dragons,43,"Yamanaka, Kiyoshi",C,66,167,144,0.271,0.355,0.375,0.730,13,22,39,28,9,0,2,54,1,4,16,6,14,6,4,1,2,11413863
+1990,Regular Season,Fukuoka Daiei Hawks,32,"Motohara, Masaharu",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11413868
+1990,Regular Season,Lotte Orions,53,"Hayashi, Hiroyasu",PH,10,14,13,0.231,0.286,0.462,0.748,3,3,3,2,0,0,1,6,0,0,1,0,6,0,0,0,0,11413881
+1990,Regular Season,Yomiuri Giants,18,"Kuwata, Masumi",P,27,79,60,0.233,0.266,0.267,0.533,7,3,14,12,2,0,0,16,0,0,3,0,17,2,0,15,1,11513862
+1990,Regular Season,Yomiuri Giants,40,"Sato, Hiroshi",3B,1,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513864
+1990,Regular Season,Hiroshima Toyo Carp,19,"Kiyokawa, Eiji",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513869
+1990,Regular Season,Yakult Swallows,27,"Furuta, Atsuya",C,106,334,280,0.250,0.353,0.332,0.685,32,26,70,54,12,1,3,93,1,1,43,3,44,11,4,3,4,11613881
+1990,Regular Season,Yokohama Taiyo Whales,34,"Murata, Tatsumi",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713840
+1990,Regular Season,Lotte Orions,5,"Takahashi, Yoshihiko",DH,100,294,261,0.207,0.269,0.349,0.618,33,28,54,37,6,2,9,91,7,4,23,0,41,1,0,7,2,11713842
+1990,Regular Season,Fukuoka Daiei Hawks,23,"Takayanagi, Hideki",DH,27,58,51,0.235,0.310,0.373,0.683,5,4,12,7,4,0,1,19,0,0,6,0,13,2,0,0,1,11713848
+1990,Regular Season,Fukuoka Daiei Hawks,3,"Sasaki, Makoto",RF,130,569,516,0.273,0.318,0.434,0.752,69,52,141,90,33,4,14,224,19,8,34,1,76,6,2,13,4,11713860
+1990,Regular Season,Yomiuri Giants,25,"Kono, Junki",PR,6,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,11713863
+1990,Regular Season,Hanshin Tigers,24,"Sumitomo, Kazuya",P,19,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11713865
+1990,Regular Season,Nippon-Ham Fighters,17,"Sato, Seiichi",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713867
+1990,Regular Season,Nippon-Ham Fighters,55,"Shimizu, Nobuaki",C,8,5,5,0.400,0.400,0.400,0.800,1,0,2,2,0,0,0,2,0,0,0,0,2,0,0,0,0,11713869
+1990,Regular Season,Lotte Orions,13,"Kobayashi, Akinori",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713881
+1990,Japan Series,Yomiuri Giants,35,"Yojo, Minoru",RF,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,0,,,,,11813868
+1990,Regular Season,Yomiuri Giants,35,"Yojo, Minoru",RF,15,23,22,0.273,0.304,0.409,0.713,1,3,6,4,1,1,0,9,0,0,1,1,7,1,0,0,0,11813868
+1990,Regular Season,Nippon-Ham Fighters,21,"Nishizaki, Yukihiro",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11913864
+1990,Regular Season,Lotte Orions,3,"Nishimura, Norifumi",CF,117,520,438,0.338,0.418,0.443,0.861,78,38,148,113,27,5,3,194,35,8,59,1,40,7,3,18,2,11913865
+1990,Regular Season,Yomiuri Giants,12,"Ro, Meishi",PH,7,14,13,0.308,0.357,0.308,0.665,0,0,4,4,0,0,0,4,0,0,1,0,2,0,0,0,0,11913866
+1990,Regular Season,Hiroshima Toyo Carp,29,"Kondo, Yoshihisa",RF,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13013868
+1990,Japan Series,Yomiuri Giants,9,"Brown, Mike",RF,2,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,,,,13313881
+1990,Regular Season,Yomiuri Giants,9,"Brown, Mike",RF,70,242,227,0.282,0.322,0.432,0.754,26,29,64,44,13,0,7,98,0,1,12,1,43,6,2,0,1,13313881
+1990,Regular Season,Hiroshima Toyo Carp,44,"Rowdon, Wade",3B,26,101,87,0.230,0.317,0.379,0.696,7,15,20,11,7,0,2,33,0,2,12,1,15,3,0,0,2,13413868
+1990,Regular Season,Lotte Orions,36,"Satomi, Yusuke",2B,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13613868
+1990,Regular Season,Lotte Orions,0,"Hatsushiba, Kiyoshi",3B,120,455,426,0.265,0.301,0.444,0.745,50,67,113,76,16,3,18,189,0,5,21,4,81,10,2,3,3,13813868
+1990,Regular Season,Fukuoka Daiei Hawks,61,"Yanagita, Shikato",3B,8,21,19,0.316,0.381,0.474,0.855,3,4,6,5,0,0,1,9,0,0,1,0,4,1,1,0,0,13913868
+1990,Regular Season,Yakult Swallows,40,"Suzuki, Taira",P,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15013868
+1990,Regular Season,Seibu Lions,21,"Watanabe, Tomio",P,24,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15113868
+1990,Regular Season,Yakult Swallows,58,"Iida, Tetsuya",2B,117,484,441,0.279,0.330,0.381,0.711,69,33,123,96,15,6,6,168,29,16,28,0,66,5,6,8,1,15213868
+1990,Regular Season,Seibu Lions,8,"Suzuki, Ken",3B,11,28,27,0.259,0.286,0.296,0.582,2,0,7,6,1,0,0,8,0,0,1,0,7,1,0,0,0,15313868
+1990,Regular Season,Yokohama Taiyo Whales,41,"Miyazato, Futoshi",PH,108,267,236,0.309,0.370,0.360,0.730,34,30,73,64,7,1,1,85,13,3,24,2,20,3,0,5,2,15713868
+1990,Regular Season,Yokohama Taiyo Whales,4,"Yokotani, Akimasa",RF,116,365,319,0.276,0.349,0.317,0.666,33,21,88,77,10,0,1,101,9,2,33,1,50,2,4,6,2,15913868
+1990,Regular Season,Yakult Swallows,26,"Hata, Shinji",RF,93,279,250,0.292,0.358,0.520,0.878,26,35,73,41,18,3,11,130,1,1,22,1,57,0,5,0,2,21023860
+1990,Regular Season,Orix Braves,9,"Motonishi, Atsuhiro",CF,105,309,270,0.289,0.338,0.396,0.734,35,31,78,58,14,3,3,107,12,4,21,0,43,5,0,16,2,21023864
+1990,Regular Season,Nippon-Ham Fighters,15,"Takeda, Kazuhiro",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21023866
+1990,Regular Season,Yomiuri Giants,51,"Ishii, Masahiro",LF,5,2,1,0.000,0.500,0.000,0.500,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,21123860
+1990,Regular Season,Fukuoka Daiei Hawks,1,"Ogawa, Hiroshi",SS,106,316,275,0.251,0.296,0.331,0.627,36,27,69,53,13,0,3,91,6,1,17,0,36,9,2,19,3,21123861
+1990,Regular Season,Lotte Orions,46,"Ito, Masaru",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21123862
+1990,Regular Season,Hanshin Tigers,40,"Iwakiri, Eiji",C,38,25,19,0.263,0.391,0.263,0.654,0,2,5,5,0,0,0,5,0,1,4,1,3,0,0,2,0,21123864
+1990,Regular Season,Chunichi Dragons,4,"Iwamoto, Yoshihiro",PR,8,1,1,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,21123865
+1990,Regular Season,Chunichi Dragons,3,"Tatsunami, Kazuyoshi",SS,128,591,511,0.303,0.381,0.456,0.837,73,45,155,105,33,6,11,233,18,9,60,1,61,3,5,14,1,21123866
+1990,Regular Season,Fukuoka Daiei Hawks,4,"Moriwaki, Hiroshi",SS,46,111,90,0.222,0.308,0.278,0.586,8,6,20,17,2,0,1,25,0,1,12,0,20,5,0,7,2,21223863
+1990,Regular Season,Lotte Orions,18,"Irabu, Hideki",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21223866
+1990,Regular Season,Orix Braves,44,"Wells, Boomer",1B,46,186,163,0.307,0.382,0.479,0.861,25,31,50,36,7,0,7,78,1,1,20,3,16,3,1,0,2,21223867
+1990,Regular Season,Yomiuri Giants,31,"Mizuno, Katsuhito",P,34,13,9,0.222,0.364,0.333,0.697,0,3,2,1,1,0,0,3,0,0,2,0,3,0,0,2,0,21223869
+1990,Regular Season,Kintetsu Buffaloes,11,"Nomo, Hideo",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21223881
+1990,Regular Season,Lotte Orions,9,"Saito, Ko",1B,28,48,40,0.200,0.283,0.250,0.533,2,6,8,7,0,1,0,10,0,0,5,0,7,1,0,2,1,21323844
+1990,Regular Season,Hanshin Tigers,48,"Kubo, Yasuo",P,56,9,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,2,0,21323846
+1990,Regular Season,Seibu Lions,18,"Kaku, Taigen",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323860
+1990,Regular Season,Chunichi Dragons,53,"Kawabata, Yasuhiro",P,15,8,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21323862
+1990,Regular Season,Chunichi Dragons,1,"Kondo, Shinichi",P,6,11,10,0.200,0.200,0.200,0.400,0,0,2,2,0,0,0,2,0,0,0,0,3,0,0,1,0,21323864
+1990,Regular Season,Hiroshima Toyo Carp,47,"Kaneishi, Akihito",P,31,33,30,0.100,0.129,0.133,0.262,2,2,3,2,1,0,0,4,0,0,1,0,16,0,0,2,0,21323865
+1990,Regular Season,Yakult Swallows,33,"Nakanishi, Chikashi",C,25,54,50,0.120,0.185,0.160,0.345,2,1,6,5,0,1,0,8,0,0,4,0,13,3,0,0,0,21323866
+1990,Regular Season,Chunichi Dragons,62,"Hasebe, Yutaka",C,12,13,12,0.083,0.154,0.083,0.237,0,1,1,1,0,0,0,1,0,1,1,0,3,0,0,0,0,21323868
+1990,Japan Series,Yomiuri Giants,0,"Kawai, Masahiro",SS,4,,10,0.200,,0.500,,,1,2,1,0,0,1,5,0,,1,,2,,,,,21323869
+1990,Regular Season,Yomiuri Giants,0,"Kawai, Masahiro",SS,94,406,309,0.288,0.356,0.450,0.806,53,32,89,59,19,2,9,139,9,5,32,0,34,4,3,58,4,21323869
+1990,Regular Season,Hanshin Tigers,39,"Yoshida, Yasuo",C,42,31,26,0.154,0.214,0.192,0.406,6,0,4,3,1,0,0,5,0,0,2,0,6,0,0,3,0,21423862
+1990,Japan Series,Seibu Lions,2,"Yoshitake, Haruki",LF,4,,11,0.182,,0.273,,,0,2,1,1,0,0,3,0,,0,,2,,,,,21423863
+1990,Regular Season,Seibu Lions,2,"Yoshitake, Haruki",LF,75,144,123,0.260,0.341,0.333,0.674,17,10,32,25,6,0,1,41,3,2,14,0,20,2,1,6,0,21423863
+1990,Regular Season,Fukuoka Daiei Hawks,36,"Yamakawa, Shuichi",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21423867
+1990,Regular Season,Kintetsu Buffaloes,39,"Fujitate, Jiro",CF,2,3,3,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21423881
+1990,Regular Season,Yokohama Taiyo Whales,63,"Koyama, Akiyoshi",C,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21523860
+1990,Regular Season,Lotte Orions,40,"Sato, Kazuhito",LF,47,53,43,0.326,0.408,0.372,0.780,6,2,14,12,2,0,0,16,1,1,6,1,7,1,0,4,0,21523862
+1990,Regular Season,Lotte Orions,21,"Seki, Kiyokazu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21523864
+1990,Regular Season,Yokohama Taiyo Whales,14,"Paciorek, Jim",LF,133,562,527,0.326,0.361,0.503,0.864,78,94,172,116,36,3,17,265,3,2,26,5,47,14,5,0,4,21523866
+1990,Regular Season,Chunichi Dragons,9,"Yamaguchi, Koji",CF,4,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21523868
+1990,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",SS,126,569,496,0.304,0.375,0.401,0.776,72,36,151,123,16,4,8,199,17,9,54,6,59,8,4,12,3,21623860
+1990,Regular Season,Orix Braves,4,"Matsuyama, Hideaki",2B,7,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21623881
+1990,Regular Season,Yakult Swallows,9,"Sugiura, Toru",1B,72,178,164,0.244,0.298,0.439,0.737,18,23,40,25,6,1,8,72,0,0,13,2,32,4,0,0,1,21723845
+1990,Regular Season,Yakult Swallows,24,"Naito, Naoyuki",P,33,47,38,0.105,0.150,0.263,0.413,2,6,4,2,0,0,2,10,0,0,2,0,15,1,0,7,0,21723864
+1990,Regular Season,Yomiuri Giants,38,"Suguro, Hironori",SS,20,25,22,0.136,0.200,0.136,0.336,2,1,3,3,0,0,0,3,0,0,2,0,9,0,0,0,1,21723866
+1990,Regular Season,Lotte Orions,20,"Shiratake, Yoshihisa",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21723867
+1990,Regular Season,Hiroshima Toyo Carp,18,"Sasaoka, Shinji",P,46,47,46,0.152,0.152,0.239,0.391,1,3,7,5,1,0,1,11,0,0,0,0,19,1,0,1,0,21723881
+1990,Regular Season,Hiroshima Toyo Carp,5,"Mizukami, Yoshio",3B,76,152,134,0.194,0.273,0.351,0.624,13,13,26,16,4,1,5,47,4,0,15,0,36,4,0,2,1,21923842
+1990,Regular Season,Hiroshima Toyo Carp,0,"Nagashima, Kiyoyuki",CF,115,322,285,0.277,0.343,0.421,0.764,37,39,79,53,18,1,7,120,5,4,29,0,62,2,0,7,1,21923861
+1990,Regular Season,Hiroshima Toyo Carp,16,"Nagadomi, Hiroshi",P,34,65,56,0.179,0.220,0.232,0.452,1,2,10,7,3,0,0,13,0,0,3,0,18,1,0,6,0,21923862
+1990,Regular Season,Hanshin Tigers,28,"Nakada, Yoshihiro",P,45,17,15,0.067,0.067,0.200,0.267,0,1,1,0,0,1,0,3,0,0,0,0,10,0,0,2,0,21923863
+1990,Regular Season,Orix Braves,40,"Fukuhara, Mineo",2B,95,161,133,0.218,0.318,0.338,0.656,17,16,29,21,3,2,3,45,1,0,20,0,26,7,0,7,1,21923865
+1990,Regular Season,Nippon-Ham Fighters,33,"Yahagi, Koichi",PH,14,19,19,0.158,0.158,0.158,0.316,0,3,3,3,0,0,0,3,0,0,0,0,7,0,0,0,0,21923868
+1990,Regular Season,Hanshin Tigers,29,"Tomari, Katsunori",PH,28,41,38,0.105,0.146,0.263,0.409,3,4,4,2,0,0,2,10,0,0,2,0,10,2,0,0,1,21923869
+1990,Regular Season,Yakult Swallows,15,"Bannister, Floyd",P,9,19,18,0.167,0.167,0.167,0.334,0,0,3,3,0,0,0,3,0,0,0,0,4,0,0,1,0,23123881
+1990,Regular Season,Hiroshima Toyo Carp,50,"Kawada, Yusuke",PR,17,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,23423868
+1990,Regular Season,Hanshin Tigers,43,"Miyauchi, Masakazu",CF,18,31,30,0.333,0.355,0.467,0.822,4,6,10,6,4,0,0,14,1,1,1,0,8,2,0,0,0,23523868
+1990,Regular Season,Lotte Orions,43,"Shibahara, Hiroshi",C,14,11,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,4,0,23623868
+1990,Regular Season,Lotte Orions,4,"Diaz, Mike",DH,128,554,454,0.311,0.435,0.584,1.019,74,101,141,84,23,1,33,265,3,1,97,15,88,3,3,0,0,23823868
+1990,Regular Season,Hiroshima Toyo Carp,15,"Katase, Kiyotoshi",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23923868
+1990,Regular Season,Yakult Swallows,60,"Jo, Tomohiro",CF,4,11,11,0.273,0.273,0.273,0.546,1,0,3,3,0,0,0,3,1,0,0,0,2,0,0,0,0,25223868
+1990,Regular Season,Yakult Swallows,17,"Kawasaki, Kenjiro",P,45,74,61,0.066,0.136,0.066,0.202,1,3,4,4,0,0,0,4,0,0,5,0,20,0,0,8,0,25923868
+1990,Regular Season,Hiroshima Toyo Carp,1,"Yamasaki, Ryuzo",3B,127,474,402,0.294,0.361,0.415,0.776,51,50,118,86,22,3,7,167,8,5,40,0,61,7,3,28,1,31033846
+1990,Regular Season,Orix Braves,0,"Minamimure, Toyozo",RF,14,7,7,0.286,0.286,0.429,0.715,3,1,2,1,1,0,0,3,2,0,0,0,2,0,0,0,0,31033865
+1990,Regular Season,Orix Braves,37,"Watanabe, Shinji",PH,8,9,8,0.125,0.222,0.250,0.472,1,0,1,0,1,0,0,2,0,0,1,0,5,0,0,0,0,31033866
+1990,Regular Season,Nippon-Ham Fighters,2,"Suzuki, Yoshihiro",RF,86,222,193,0.244,0.297,0.306,0.603,31,9,47,39,6,0,2,59,8,5,13,0,27,0,3,10,3,31033868
+1990,Regular Season,Chunichi Dragons,7,"Uno, Masaru",LF,119,510,454,0.289,0.361,0.515,0.876,66,78,131,82,22,0,27,234,4,2,52,2,105,14,1,1,2,31133844
+1990,Regular Season,Kintetsu Buffaloes,25,"Adachi, Toshiya",SS,103,191,170,0.218,0.265,0.300,0.565,21,10,37,27,6,4,0,51,6,1,11,0,26,3,0,10,0,31133860
+1990,Regular Season,Lotte Orions,1,"Aiko, Takeshi",RF,130,580,523,0.243,0.305,0.415,0.720,75,72,127,79,27,0,21,217,15,4,48,1,112,5,0,6,3,31133863
+1990,Regular Season,Chunichi Dragons,17,"Uehara, Akira",P,13,13,12,0.250,0.250,0.250,0.500,1,0,3,3,0,0,0,3,1,0,0,0,6,0,0,1,0,31133866
+1990,Japan Series,Seibu Lions,25,"Abe, Osamu",LF,3,,6,0.500,,0.500,,,4,3,3,0,0,0,3,0,,0,,1,,,,,31133869
+1990,Regular Season,Seibu Lions,25,"Abe, Osamu",LF,34,75,62,0.210,0.315,0.290,0.605,2,6,13,9,3,1,0,18,2,2,10,0,12,1,0,2,1,31133869
+1990,Regular Season,Hiroshima Toyo Carp,53,"Akimura, Norihiro",P,33,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,31133881
+1990,Regular Season,Chunichi Dragons,57,"Hikono, Toshikatsu",CF,109,418,353,0.249,0.344,0.391,0.735,41,42,88,62,14,0,12,138,7,8,44,3,51,7,7,14,0,31233860
+1990,Regular Season,Yokohama Taiyo Whales,7,"Ponce, Carlos",LF,15,60,57,0.193,0.233,0.316,0.549,3,3,11,6,3,2,0,18,0,1,2,0,12,0,1,0,0,31233862
+1990,Regular Season,Orix Braves,2,"Yamagoshi, Yoshihiro",1B,81,123,104,0.231,0.302,0.423,0.725,14,13,24,13,5,3,3,44,6,4,10,0,21,1,1,7,1,31233864
+1990,Regular Season,Fukuoka Daiei Hawks,15,"Murata, Katsuyoshi",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233866
+1990,Regular Season,Yomiuri Giants,21,"Kato, Hajime",P,13,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333845
+1990,Regular Season,Yakult Swallows,32,"Obana, Takao",P,4,9,5,0.000,0.167,0.000,0.167,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,31333846
+1990,Regular Season,Hanshin Tigers,2,"Ono, Hisashi",CF,117,403,360,0.247,0.304,0.350,0.654,48,26,89,64,17,4,4,126,16,4,26,1,73,7,4,11,2,31333860
+1990,Regular Season,Hanshin Tigers,16,"Okada, Akinobu",2B,130,571,486,0.265,0.368,0.444,0.812,75,75,129,82,27,0,20,216,7,2,74,5,87,12,7,0,4,31333861
+1990,Regular Season,Fukuoka Daiei Hawks,57,"Otsuka, Yoshiki",C,17,45,42,0.357,0.372,0.643,1.015,5,7,15,9,3,0,3,27,0,0,1,0,7,1,0,2,0,31333862
+1990,Regular Season,Yokohama Taiyo Whales,33,"Ichikawa, Kazumasa",C,71,146,127,0.283,0.340,0.417,0.757,12,20,36,25,7,2,2,53,1,0,10,4,14,3,2,5,2,31333863
+1990,Regular Season,Kintetsu Buffaloes,19,"Onoe, Akira",PH,13,13,10,0.300,0.462,0.400,0.862,2,0,3,2,1,0,0,4,0,0,3,0,1,0,0,0,0,31333865
+1990,Regular Season,Hanshin Tigers,32,"Yamaguchi, Shigeyuki",3B,26,15,13,0.000,0.071,0.000,0.071,2,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,31333866
+1990,Regular Season,Kintetsu Buffaloes,26,"Ono, Kazuyoshi",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333869
+1990,Regular Season,Orix Braves,28,"Hoshino, Nobuyuki",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31433860
+1990,Regular Season,Kintetsu Buffaloes,29,"Kato, Masaki",LF,92,190,172,0.285,0.328,0.424,0.752,20,24,49,33,11,2,3,73,0,2,10,1,17,2,1,7,0,31433866
+1990,Japan Series,Yomiuri Giants,17,"Makihara, Hiromi",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31433867
+1990,Regular Season,Yomiuri Giants,17,"Makihara, Hiromi",P,18,42,37,0.054,0.079,0.054,0.133,1,2,2,2,0,0,0,2,0,0,0,0,16,3,1,4,0,31433867
+1990,Japan Series,Yomiuri Giants,47,"Kida, Masao",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31433868
+1990,Regular Season,Yomiuri Giants,47,"Kida, Masao",P,33,66,57,0.105,0.177,0.193,0.370,3,3,6,3,2,0,1,11,0,0,5,0,21,0,0,4,0,31433868
+1990,Regular Season,Fukuoka Daiei Hawks,39,"Baba, Toshifumi",3B,54,85,67,0.164,0.288,0.254,0.542,7,3,11,7,3,0,1,17,0,0,10,0,15,1,2,5,1,31433881
+1990,Regular Season,Nippon-Ham Fighters,8,"Shimada, Makoto",PH,51,123,106,0.264,0.342,0.311,0.653,9,5,28,23,5,0,0,33,1,2,13,0,8,2,0,3,1,31533844
+1990,Regular Season,Chunichi Dragons,20,"Komatsu, Tatsuo",P,18,42,37,0.189,0.189,0.351,0.540,5,3,7,3,3,0,1,13,0,0,0,0,7,1,0,5,0,31533846
+1990,Regular Season,Yakult Swallows,30,"Kiminami, Takayoshi",PH,50,70,68,0.250,0.246,0.353,0.599,6,8,17,12,4,0,1,24,0,0,0,0,16,2,0,1,1,31533865
+1990,Regular Season,Yokohama Taiyo Whales,18,"Okamoto, Toru",P,52,14,10,0.100,0.250,0.200,0.450,0,0,1,0,1,0,0,2,0,0,2,0,4,0,0,2,0,31533866
+1990,Regular Season,Chunichi Dragons,49,"Sakai, Tadaharu",SS,4,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,31533868
+1990,Japan Series,Yomiuri Giants,49,"Cromartie, Warren",CF,4,,15,0.200,,0.200,,,1,3,3,0,0,0,3,0,,2,,3,,,,,31533869
+1990,Regular Season,Yomiuri Giants,49,"Cromartie, Warren",CF,117,495,450,0.293,0.356,0.442,0.798,68,55,132,94,23,1,14,199,2,2,43,2,52,5,1,0,1,31533869
+1990,Regular Season,Lotte Orions,56,"Onodera, Zaijiro",PR,3,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,31533881
+1990,Regular Season,Lotte Orions,2,"Yokota, Masashi",LF,66,165,143,0.224,0.300,0.350,0.650,17,16,32,22,5,2,3,50,4,2,14,1,10,2,2,5,1,31633860
+1990,Regular Season,Hiroshima Toyo Carp,51,"Maeda, Tomonori",LF,56,45,43,0.256,0.273,0.326,0.599,15,5,11,8,3,0,0,14,4,1,1,0,3,0,0,1,0,31633881
+1990,Regular Season,Kintetsu Buffaloes,22,"Sato, Hideaki",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733860
+1990,Regular Season,Kintetsu Buffaloes,2,"Suzuki, Takahisa",RF,122,480,422,0.270,0.338,0.476,0.814,65,71,114,71,21,0,22,201,4,1,40,1,59,11,5,10,3,31733862
+1990,Regular Season,Yokohama Taiyo Whales,45,"Komazaki, Yukiichi",PH,24,25,24,0.208,0.240,0.208,0.448,1,2,5,5,0,0,0,5,0,0,0,0,6,1,1,0,0,31733863
+1990,Regular Season,Hiroshima Toyo Carp,30,"Ko, Shinji",3B,64,73,67,0.284,0.304,0.343,0.647,9,6,19,15,4,0,0,23,0,1,2,0,9,2,0,4,0,31733866
+1990,Regular Season,Nippon-Ham Fighters,3,"Shirai, Kazuyuki",2B,20,66,53,0.283,0.361,0.472,0.833,11,7,15,7,6,2,0,25,7,1,7,0,10,0,0,5,1,31733869
+1990,Regular Season,Lotte Orions,14,"Komiyama, Satoru",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733881
+1990,Regular Season,Yomiuri Giants,36,"Fujioka, Hiroki",3B,4,5,5,0.200,0.200,0.200,0.400,1,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,31833868
+1990,Regular Season,Nippon-Ham Fighters,5,"Furuya, Hideo",3B,67,207,181,0.221,0.285,0.343,0.628,18,17,40,27,8,1,4,62,2,1,16,0,27,7,1,7,2,31933846
+1990,Japan Series,Seibu Lions,6,"Tanabe, Norio",SS,2,,4,0.250,,0.250,,,1,1,1,0,0,0,1,0,,0,,0,,,,,31933860
+1990,Regular Season,Seibu Lions,6,"Tanabe, Norio",SS,113,371,330,0.239,0.277,0.361,0.638,34,34,79,52,20,1,6,119,8,7,17,0,30,5,1,21,2,31933860
+1990,Regular Season,Seibu Lions,29,"Van Burkleo, Tyler",LF,41,129,112,0.196,0.302,0.464,0.766,22,22,22,10,3,0,9,52,2,0,14,0,34,3,3,0,0,31933866
+1990,Japan Series,Seibu Lions,5,"Tsuji, Hatsuhiko",2B,4,,16,0.500,,0.562,,,3,8,7,1,0,0,9,1,,1,,1,,,,,31933869
+1990,Regular Season,Seibu Lions,5,"Tsuji, Hatsuhiko",2B,130,498,421,0.266,0.347,0.337,0.684,59,39,112,90,17,2,3,142,31,9,45,0,38,4,8,22,2,31933869
+1990,Regular Season,Hanshin Tigers,17,"Ota, Takashi",P,22,12,10,0.100,0.182,0.100,0.282,0,0,1,1,0,0,0,1,0,0,1,0,6,0,0,1,0,33133868
+1990,Regular Season,Fukuoka Daiei Hawks,40,"Wakisaka, Koji",3B,40,80,71,0.211,0.266,0.211,0.477,5,4,15,15,0,0,0,15,0,0,6,0,14,0,0,1,2,33133881
+1990,Regular Season,Hiroshima Toyo Carp,32,"Nishiyama, Shuji",C,25,22,21,0.286,0.286,0.381,0.667,4,2,6,4,2,0,0,8,0,0,0,0,4,0,0,1,0,33233868
+1990,Regular Season,Hiroshima Toyo Carp,43,"Young, Mike",LF,69,250,222,0.234,0.320,0.432,0.752,27,35,52,30,11,0,11,96,0,2,26,1,65,7,2,0,0,33333881
+1990,Regular Season,Lotte Orions,50,"Mori, Koji",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33633868
+1990,Regular Season,Fukuoka Daiei Hawks,53,"Yasuda, Hideyuki",PH,15,25,22,0.227,0.292,0.318,0.610,1,2,5,3,2,0,0,7,0,0,1,0,9,1,1,1,0,33933868
+1990,Regular Season,Yakult Swallows,25,"Tomashino, Kenji",2B,71,216,202,0.228,0.256,0.317,0.573,20,8,46,35,6,3,2,64,6,5,8,1,36,4,0,5,1,35233868
+1990,Regular Season,Kintetsu Buffaloes,40,"Akahori, Motoyuki",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35433868
+1990,Regular Season,Orix Braves,18,"Sakai, Tsutomu",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35833868
+1990,Regular Season,Orix Braves,23,"Ogawa, Hirofumi",SS,125,436,385,0.260,0.320,0.338,0.658,43,41,100,81,13,1,5,130,22,7,33,0,84,10,2,14,2,37133868
+1990,Regular Season,Orix Braves,38,"Hoffman, Guy",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37333868
+1990,Regular Season,Lotte Orions,29,"Murata, Choji",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043826
+1990,Regular Season,Chunichi Dragons,59,"Hayakawa, Kazuo",LF,4,13,13,0.385,0.385,0.462,0.847,1,0,5,4,1,0,0,6,0,0,0,0,1,0,0,0,0,41043860
+1990,Regular Season,Nippon-Ham Fighters,44,"Brewer, Tony",LF,109,469,407,0.295,0.382,0.469,0.851,65,63,120,85,16,2,17,191,4,2,51,0,51,15,8,0,3,41043862
+1990,Japan Series,Seibu Lions,24,"Hirano, Ken",RF,4,,14,0.500,,0.643,,,2,7,5,2,0,0,9,0,,1,,2,,,,,41043863
+1990,Regular Season,Seibu Lions,24,"Hirano, Ken",RF,123,532,445,0.267,0.320,0.346,0.666,55,42,119,92,21,4,2,154,23,8,34,0,72,2,1,50,2,41043863
+1990,Regular Season,Nippon-Ham Fighters,57,"Mori, Noriyuki",2B,67,120,103,0.243,0.307,0.340,0.647,22,5,25,18,5,1,1,35,3,1,10,0,19,2,0,6,1,41043864
+1990,Regular Season,Fukuoka Daiei Hawks,24,"Yano, Minoru",P,47,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043865
+1990,Regular Season,Nippon-Ham Fighters,9,"Dayett, Brian",LF,15,64,53,0.208,0.313,0.377,0.690,7,11,11,8,0,0,3,20,3,1,8,0,14,1,1,0,2,41043866
+1990,Regular Season,Chunichi Dragons,8,"Oishi, Tomoyoshi",C,36,39,35,0.229,0.243,0.229,0.472,1,2,8,8,0,0,0,8,0,0,1,0,6,2,0,2,1,41143861
+1990,Japan Series,Seibu Lions,7,"Ishige, Hiromichi",3B,4,,12,0.083,,0.083,,,0,1,1,0,0,0,1,0,,4,,2,,,,,41143863
+1990,Regular Season,Seibu Lions,7,"Ishige, Hiromichi",3B,100,413,359,0.298,0.364,0.429,0.793,48,47,107,77,21,1,8,154,7,1,39,2,41,12,1,9,5,41143863
+1990,Regular Season,Hanshin Tigers,47,"Shimao, Yasuhito",P,9,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41143866
+1990,Regular Season,Yokohama Taiyo Whales,11,"Ishikawa, Masaru",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41143867
+1990,Regular Season,Orix Braves,24,"Iizuka, Tomiji",1B,14,24,22,0.091,0.167,0.136,0.303,2,0,2,1,1,0,0,3,0,0,2,0,6,1,0,0,0,41143869
+1990,Regular Season,Kintetsu Buffaloes,3,"Ishii, Hiro",1B,86,319,263,0.300,0.410,0.605,1.015,48,46,79,44,12,1,22,159,1,0,46,0,57,3,5,2,3,41143881
+1990,Regular Season,Fukuoka Daiei Hawks,25,"Mashiba, Shigekuni",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243841
+1990,Regular Season,Kintetsu Buffaloes,57,"Furukubo, Kenji",C,33,51,44,0.250,0.271,0.432,0.703,4,6,11,7,2,0,2,19,1,1,1,0,13,1,1,3,2,41243860
+1990,Regular Season,Lotte Orions,30,"Morita, Yoshihiko",2B,79,91,74,0.270,0.386,0.338,0.724,8,6,20,17,2,0,1,25,1,3,14,0,12,0,0,3,0,41243862
+1990,Regular Season,Lotte Orions,47,"Nagano, Yoshinari",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243866
+1990,Regular Season,Orix Braves,25,"Fujita, Hiromasa",C,65,176,157,0.248,0.310,0.395,0.705,16,17,39,28,5,0,6,62,1,2,13,0,26,6,1,5,0,41243867
+1990,Regular Season,Yomiuri Giants,19,"Yoshida, Shuji",P,21,9,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,0,0,41243868
+1990,Regular Season,Orix Braves,47,"Murakami, Shinichi",PH,112,233,189,0.302,0.420,0.450,0.870,32,26,57,41,9,2,5,85,10,4,35,0,42,4,5,2,2,41243869
+1990,Regular Season,Fukuoka Daiei Hawks,16,"Hashimoto, Takehiro",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243881
+1990,Regular Season,Yakult Swallows,23,"Sakai, Keiichi",1B,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343844
+1990,Regular Season,Hanshin Tigers,26,"Kudo, Kazuhiko",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343846
+1990,Japan Series,Seibu Lions,3,"Kiyohara, Kazuhiro",1B,4,,13,0.308,,0.385,,,3,4,3,1,0,0,5,0,,5,,4,,,,,41343862
+1990,Regular Season,Seibu Lions,3,"Kiyohara, Kazuhiro",1B,129,560,436,0.307,0.454,0.615,1.069,99,94,134,76,19,2,37,268,11,5,105,6,85,7,15,0,4,41343862
+1990,Regular Season,Chunichi Dragons,44,"Koyama, Kazuyoshi",PH,55,117,102,0.265,0.324,0.324,0.648,13,7,27,23,3,0,1,33,0,3,9,0,21,3,0,6,0,41343864
+1990,Regular Season,Kintetsu Buffaloes,6,"Kanemura, Yoshiaki",3B,113,450,376,0.274,0.382,0.481,0.863,67,51,103,60,25,1,17,181,7,7,64,3,85,6,3,5,2,41343865
+1990,Regular Season,Yakult Swallows,3,"Nagashima, Kazushige",3B,35,57,54,0.167,0.211,0.296,0.507,6,6,9,5,2,1,1,16,0,0,3,0,15,1,0,0,0,41343866
+1990,Regular Season,Hiroshima Toyo Carp,17,"Kawabata, Jun",P,36,10,9,0.444,0.444,0.556,1.000,2,0,4,3,1,0,0,5,0,0,0,0,3,0,0,1,0,41343869
+1990,Japan Series,Yomiuri Giants,24,"Omori, Takeshi",PH,3,,6,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,41343881
+1990,Regular Season,Yomiuri Giants,24,"Omori, Takeshi",PH,38,55,48,0.146,0.255,0.292,0.547,4,6,7,3,2,1,1,14,0,0,7,0,14,0,0,0,0,41343881
+1990,Japan Series,Yomiuri Giants,13,"Miyamoto, Kazutomo",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41443860
+1990,Regular Season,Yomiuri Giants,13,"Miyamoto, Kazutomo",P,30,72,59,0.153,0.206,0.153,0.359,2,1,9,9,0,0,0,9,0,0,3,0,22,1,1,9,0,41443860
+1990,Regular Season,Yakult Swallows,46,"Ranbashi, Yukihito",P,32,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,41443862
+1990,Regular Season,Seibu Lions,33,"Tachibana, Yoshiie",PH,40,52,50,0.200,0.231,0.360,0.591,3,11,10,6,2,0,2,18,0,0,2,0,8,2,0,0,0,41543846
+1990,Regular Season,Nippon-Ham Fighters,18,"Kono, Hirofumi",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543860
+1990,Regular Season,Fukuoka Daiei Hawks,0,"Sakaguchi, Chisen",SS,10,19,19,0.158,0.158,0.211,0.369,1,0,3,2,1,0,0,4,0,0,0,0,4,1,0,0,0,41543862
+1990,Regular Season,Orix Braves,52,"Takahashi, Satoshi",CF,26,56,50,0.200,0.273,0.440,0.713,7,7,10,2,6,0,2,22,2,0,5,0,15,3,0,1,0,41543864
+1990,Regular Season,Yokohama Taiyo Whales,15,"Morita, Koki",P,8,5,5,0.400,0.400,0.400,0.800,2,0,2,2,0,0,0,2,0,0,0,0,2,0,0,0,0,41543866
+1990,Regular Season,Kintetsu Buffaloes,36,"Goseki, Masahiko",PH,14,18,14,0.071,0.235,0.071,0.306,2,0,1,1,0,0,0,1,0,0,3,0,3,2,0,1,0,41543869
+1990,Regular Season,Yomiuri Giants,89,"Sugiyama, Naoki",C,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,41643868
+1990,Regular Season,Hanshin Tigers,12,"Fukuma, Osamu",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743848
+1990,Regular Season,Lotte Orions,15,"So, Katsuo",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743860
+1990,Regular Season,Nippon-Ham Fighters,37,"Tanaka, Yukio",SS,130,495,450,0.287,0.341,0.482,0.823,63,52,129,79,30,2,18,217,4,6,38,2,61,7,0,5,2,41743862
+1990,Regular Season,Nippon-Ham Fighters,22,"Tamura, Fujio",C,106,327,279,0.244,0.333,0.405,0.738,36,33,68,43,14,2,9,113,3,2,35,0,54,7,3,9,1,41743863
+1990,Regular Season,Kintetsu Buffaloes,60,"Nakatani, Tadami",PH,68,123,112,0.304,0.336,0.438,0.774,8,20,34,26,4,1,3,49,2,0,7,0,23,0,0,1,3,41743864
+1990,Regular Season,Hiroshima Toyo Carp,14,"Tsuda, Tsunemi",P,6,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743865
+1990,Regular Season,Orix Braves,13,"Yoshida, Naoki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41843881
+1990,Regular Season,Yomiuri Giants,2,"Minoda, Koji",PH,17,24,20,0.150,0.292,0.350,0.642,3,1,3,1,1,0,1,7,0,0,4,0,5,1,0,0,0,41943842
+1990,Regular Season,Fukuoka Daiei Hawks,31,"Nagai, Tamotsu",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943845
+1990,Regular Season,Fukuoka Daiei Hawks,51,"Nagata, Toshinori",SS,5,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,41943863
+1990,Regular Season,Orix Braves,10,"Fujii, Yasuo",RF,128,544,463,0.285,0.381,0.587,0.968,81,96,132,68,25,2,37,272,6,4,68,4,109,6,7,0,6,41943864
+1990,Regular Season,Orix Braves,61,"Kiyohara, Yuichi",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943866
+1990,Regular Season,Orix Braves,49,"Sugimoto, Naofumi",C,4,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943881
+1990,Regular Season,Kintetsu Buffaloes,33,"Traber, Jim",1B,123,528,495,0.303,0.337,0.503,0.840,64,92,150,100,25,1,24,249,2,2,25,5,70,18,3,0,5,43143881
+1990,Regular Season,Hiroshima Toyo Carp,7,"Nomura, Kenjiro",SS,125,576,519,0.287,0.354,0.464,0.818,84,44,149,97,28,8,16,241,33,23,45,3,83,1,9,2,1,43243868
+1990,Regular Season,Hanshin Tigers,37,"Takai, Hajime",PH,66,119,111,0.270,0.314,0.405,0.719,12,17,30,20,7,1,2,45,0,1,7,0,19,1,0,1,0,43343868
+1990,Regular Season,Fukuoka Daiei Hawks,54,"Gossage, Rich",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43343881
+1990,Regular Season,Lotte Orions,59,"Aoyagi, Susumu",C,87,216,181,0.227,0.327,0.387,0.714,18,20,41,25,9,1,6,70,0,2,27,0,54,3,1,5,2,43643868
+1990,Regular Season,Lotte Orions,49,"Hirai, Mitsuchika",LF,42,95,83,0.145,0.209,0.217,0.426,7,7,12,7,4,1,0,18,0,0,7,0,15,0,0,4,1,43843868
+1990,Regular Season,Seibu Lions,56,"Yamano, Kazuaki",PR,4,5,5,0.200,0.200,0.200,0.400,1,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,45343868
+1990,Regular Season,Kintetsu Buffaloes,27,"Nakane, Hitoshi",CF,86,213,189,0.217,0.286,0.339,0.625,29,23,41,25,12,1,3,64,3,3,17,0,47,5,2,3,2,45643868
+1990,Regular Season,Yakult Swallows,19,"Oka, Yukitoshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45943868
+1990,Regular Season,Nippon-Ham Fighters,26,"Nishimura, Motofumi",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053860
+1990,Regular Season,Fukuoka Daiei Hawks,69,"Harada, Kenji",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053862
+1990,Regular Season,Hiroshima Toyo Carp,27,"Hara, Shinji",PH,36,35,33,0.273,0.294,0.303,0.597,1,0,9,8,1,0,0,10,0,0,1,0,10,0,0,1,0,51053863
+1990,Regular Season,Kintetsu Buffaloes,12,"Makishi, Yasunaga",SS,35,64,57,0.175,0.230,0.316,0.546,6,3,10,6,2,0,2,18,0,1,4,0,8,1,0,3,0,51053864
+1990,Regular Season,Yakult Swallows,14,"Miyamoto, Kenji",P,31,60,50,0.140,0.173,0.180,0.353,4,0,7,5,2,0,0,9,0,0,1,0,13,0,1,8,0,51053865
+1990,Regular Season,Yakult Swallows,20,"Nakamoto, Shigeki",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053867
+1990,Regular Season,Yokohama Taiyo Whales,48,"Narita, Yukihiro",RF,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053869
+1990,Regular Season,Kintetsu Buffaloes,9,"Arai, Hiromasa",CF,115,424,363,0.292,0.357,0.416,0.773,58,34,106,77,19,4,6,151,4,3,35,3,26,3,3,21,2,51153840
+1990,Regular Season,Nippon-Ham Fighters,4,"Igarashi, Shinichi",PH,69,133,119,0.235,0.276,0.328,0.604,12,13,28,20,6,1,1,39,0,0,7,0,16,4,0,6,1,51153861
+1990,Regular Season,Yakult Swallows,10,"Arai, Yukio",LF,119,457,412,0.282,0.346,0.396,0.742,55,38,116,86,21,1,8,163,3,1,40,2,38,1,2,0,3,51153862
+1990,Japan Series,Seibu Lions,1,"Akiyama, Koji",CF,4,,17,0.235,,0.412,,,2,4,3,0,0,1,7,1,,1,,1,,,,,51153863
+1990,Regular Season,Seibu Lions,1,"Akiyama, Koji",CF,130,559,476,0.256,0.349,0.511,0.860,84,91,122,71,16,0,35,243,51,9,68,0,120,11,5,1,9,51153863
+1990,Regular Season,Kintetsu Buffaloes,14,"Awano, Hideyuki",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51153864
+1990,Regular Season,Chunichi Dragons,36,"Enda, Seiji",PR,6,2,2,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,51153866
+1990,Regular Season,Chunichi Dragons,12,"Chin, Yoshinobu",P,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51153868
+1990,Regular Season,Nippon-Ham Fighters,99,"Wakana, Yoshiharu",C,63,147,138,0.239,0.286,0.304,0.590,6,11,33,27,4,1,1,42,0,1,7,0,16,3,2,0,0,51253849
+1990,Regular Season,Fukuoka Daiei Hawks,29,"Yamamoto, Kazunori",LF,70,276,224,0.304,0.410,0.473,0.883,35,25,68,42,20,0,6,106,4,1,43,5,31,5,1,3,5,51253861
+1990,Regular Season,Orix Braves,8,"Matsunaga, Hiromi",3B,128,602,518,0.284,0.379,0.471,0.850,103,70,147,96,26,4,21,244,26,8,78,8,120,10,3,1,2,51253863
+1990,Regular Season,Kintetsu Buffaloes,15,"Yamasaki, Shintaro",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253864
+1990,Japan Series,Yomiuri Giants,7,"Yoshimura, Sadaaki",RF,4,,12,0.167,,0.167,,,0,2,2,0,0,0,2,0,,0,,1,,,,,51253865
+1990,Regular Season,Yomiuri Giants,7,"Yoshimura, Sadaaki",RF,84,241,208,0.327,0.415,0.582,0.997,26,45,68,43,11,0,14,121,0,0,29,6,25,4,3,0,1,51253865
+1990,Regular Season,Fukuoka Daiei Hawks,11,"Yoshida, Toyohiko",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253866
+1990,Regular Season,Fukuoka Daiei Hawks,20,"Fujimoto, Shuji",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51253869
+1990,Regular Season,Yakult Swallows,29,"Nishimura, Tatsuji",P,35,67,54,0.111,0.158,0.111,0.269,0,3,6,6,0,0,0,6,0,0,3,0,32,0,0,10,0,51253881
+1990,Regular Season,Orix Braves,21,"Imai, Yutaro",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353843
+1990,Regular Season,Yokohama Taiyo Whales,44,"Kato, Hirokazu",PH,63,60,54,0.315,0.383,0.389,0.772,7,4,17,15,1,0,1,21,1,1,6,0,10,2,0,0,0,51353845
+1990,Regular Season,Hiroshima Toyo Carp,9,"Osanai, Takashi",1B,108,301,257,0.268,0.359,0.444,0.803,34,40,69,46,12,0,11,114,0,0,37,3,44,9,2,0,5,51353861
+1990,Regular Season,Yokohama Taiyo Whales,10,"Kamogawa, Shigeharu",P,5,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51353864
+1990,Japan Series,Yomiuri Giants,5,"Okazaki, Kaoru",3B,4,,12,0.417,,0.750,,,3,5,3,1,0,1,9,0,,3,,2,,,,,51353865
+1990,Regular Season,Yomiuri Giants,5,"Okazaki, Kaoru",3B,102,403,356,0.289,0.361,0.441,0.802,52,49,103,67,24,6,6,157,2,1,41,1,50,10,1,1,4,51353865
+1990,Regular Season,Hanshin Tigers,46,"Yokotani, Soichi",CF,4,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,51353866
+1990,Regular Season,Nippon-Ham Fighters,43,"Uchiyama, Masahiro",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353881
+1990,Regular Season,Kintetsu Buffaloes,10,"Yamashita, Kazuhiko",C,87,228,199,0.236,0.275,0.352,0.627,27,22,47,32,11,0,4,70,0,1,8,1,49,4,3,17,1,51453862
+1990,Regular Season,Kintetsu Buffaloes,34,"Kinoshita, Fuminobu",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51453866
+1990,Japan Series,Seibu Lions,41,"Watanabe, Hisanobu",P,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51453869
+1990,Regular Season,Seibu Lions,41,"Watanabe, Hisanobu",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51453869
+1990,Regular Season,Yakult Swallows,5,"Sumi, Fujio",3B,112,409,366,0.301,0.348,0.399,0.747,26,51,110,88,14,2,6,146,2,2,29,6,41,11,1,7,6,51553842
+1990,Regular Season,Nippon-Ham Fighters,13,"Shibata, Yasumitsu",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553848
+1990,Regular Season,Hiroshima Toyo Carp,34,"Kawaguchi, Kazuhisa",P,33,80,71,0.085,0.096,0.085,0.181,1,3,6,6,0,0,0,6,1,0,1,0,36,1,0,7,1,51553863
+1990,Japan Series,Seibu Lions,47,"Kudo, Kimiyasu",P,1,,2,0.500,,0.500,,,0,1,1,0,0,0,1,0,,0,,0,,,,,51553865
+1990,Regular Season,Seibu Lions,47,"Kudo, Kimiyasu",P,13,1,0,0.000,1.000,0.000,1.000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,51553865
+1990,Regular Season,Chunichi Dragons,61,"Kitano, Katsunori",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553866
+1990,Regular Season,Hanshin Tigers,22,"Kido, Katsuhiko",C,102,264,230,0.235,0.307,0.330,0.637,19,30,54,42,7,0,5,76,0,1,21,3,49,7,4,7,2,51553867
+1990,Regular Season,Chunichi Dragons,56,"Maehara, Hiroyuki",3B,45,57,54,0.241,0.255,0.315,0.570,6,3,13,10,2,1,0,17,0,0,1,0,10,1,0,2,0,51553868
+1990,Regular Season,Hanshin Tigers,13,"Kasai, Minoru",P,4,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51553881
+1990,Regular Season,Kintetsu Buffaloes,21,"Yoshii, Masato",P,46,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51653860
+1990,Regular Season,Fukuoka Daiei Hawks,00,"Sakakibara, Soichiro",1B,12,31,29,0.138,0.194,0.241,0.435,3,2,4,3,0,0,1,7,0,2,0,0,6,1,2,0,0,51753866
+1990,Regular Season,Hiroshima Toyo Carp,36,"Sakakibara, Soichiro",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51753866
+1990,Regular Season,Seibu Lions,62,"Saeki, Hideki",SS,7,12,12,0.167,0.167,0.417,0.584,1,2,2,1,0,0,1,5,0,0,0,0,3,0,0,0,0,51753881
+1990,Japan Series,Yomiuri Giants,44,"Ogata, Koichi",2B,3,,6,0.167,,0.167,,,1,1,1,0,0,0,1,0,,0,,1,,,,,51853868
+1990,Regular Season,Yomiuri Giants,44,"Ogata, Koichi",2B,119,448,401,0.259,0.313,0.362,0.675,70,27,104,75,20,6,3,145,33,12,28,2,72,2,4,12,2,51853868
+1990,Regular Season,Seibu Lions,15,"Matsunuma, Hirohisa",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953848
+1990,Regular Season,Hanshin Tigers,21,"Toyama, Shoji",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953862
+1990,Regular Season,Chunichi Dragons,41,"Tanaka, Tomio",P,21,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51953867
+1990,Regular Season,Hanshin Tigers,20,"Watanabe, Nobuhiko",P,42,9,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,1,0,53153868
+1990,Regular Season,Chunichi Dragons,30,"Distefano, Benny",RF,56,200,181,0.215,0.270,0.320,0.590,18,14,39,30,4,0,5,58,1,2,10,1,33,2,4,4,1,53153881
+1990,Regular Season,Hiroshima Toyo Carp,33,"Eto, Akira",PH,38,81,71,0.239,0.325,0.549,0.874,11,10,17,7,3,2,5,39,0,0,8,0,16,2,1,1,0,53253868
+1990,Regular Season,Hanshin Tigers,42,"Wieligman, Richard",PH,26,52,47,0.191,0.269,0.340,0.609,2,4,9,5,2,1,1,16,0,0,5,0,16,2,0,0,0,53353881
+1990,Regular Season,Hanshin Tigers,67,"Kameyama, Tsutomu",CF,28,58,44,0.227,0.382,0.341,0.723,8,2,10,5,5,0,0,15,2,1,10,0,15,2,1,3,0,53553868
+1990,Regular Season,Fukuoka Daiei Hawks,13,"Murakami, Seiichi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53753868
+1990,Regular Season,Lotte Orions,44,"Shimada, Shigeru",1B,55,110,97,0.216,0.303,0.361,0.664,10,11,21,14,3,1,3,35,1,1,11,0,14,3,1,1,0,53853868
+1990,Regular Season,Fukuoka Daiei Hawks,60,"Yamanochi, Kenichi",PH,7,8,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,53953868
+1990,Regular Season,Yakult Swallows,47,"Uchiyama, Kenichi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55053868
+1990,Regular Season,Yokohama Taiyo Whales,13,"Ishida, Tomoya",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55553868
+1990,Regular Season,Kintetsu Buffaloes,8,"Yonezaki, Kunji",SS,70,185,169,0.243,0.293,0.325,0.618,21,20,41,31,8,0,2,55,3,0,11,0,24,1,1,4,0,55653868
+1990,Regular Season,Orix Braves,26,"Ito, Takahide",P,49,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55853868
+1990,Regular Season,Yokohama Taiyo Whales,32,"Inoe, Jun",PH,4,4,4,0.250,0.250,0.250,0.500,0,1,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,55953868
+1990,Regular Season,Orix Braves,50,"Toba, Takashi",SS,22,33,28,0.179,0.303,0.250,0.553,1,3,5,3,2,0,0,7,0,0,4,0,9,0,1,0,0,57153868
+1990,Regular Season,Chunichi Dragons,25,"Hirohashi, Koju",PH,18,26,24,0.208,0.208,0.333,0.541,3,1,5,4,0,0,1,8,1,1,0,0,7,0,0,2,0,61063863
+1990,Regular Season,Fukuoka Daiei Hawks,63,"Mori, Hiroyuki",C,15,26,21,0.143,0.308,0.429,0.737,5,5,3,1,0,0,2,9,0,0,3,0,5,1,2,0,0,61063864
+1990,Regular Season,Orix Braves,12,"Yamaoki, Yukihiko",P,31,1,0,0.000,1.000,0.000,1.000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,61063865
+1990,Regular Season,Lotte Orions,25,"Hiranuma, Sadaharu",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61063869
+1990,Japan Series,Yomiuri Giants,23,"Ueda, Kazuaki",SS,1,,2,0.500,,0.500,,,0,1,1,0,0,0,1,0,,0,,0,,,,,61163860
+1990,Regular Season,Yomiuri Giants,23,"Ueda, Kazuaki",SS,59,130,110,0.209,0.275,0.327,0.602,21,7,23,15,5,1,2,36,4,4,8,0,21,3,2,10,0,61163860
+1990,Regular Season,Hiroshima Toyo Carp,23,"Ueda, Yukihiro",C,74,145,120,0.200,0.315,0.383,0.698,24,17,24,13,5,1,5,46,0,0,19,3,27,2,2,2,2,61163862
+1990,Regular Season,Yakult Swallows,35,"Ogawa, Junji",LF,50,90,77,0.169,0.281,0.455,0.736,11,15,13,5,1,0,7,35,1,0,12,0,22,6,0,1,0,61163865
+1990,Regular Season,Chunichi Dragons,51,"Tsujimoto, Hiroki",P,4,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61163868
+1990,Regular Season,Hanshin Tigers,18,"Ikeda, Chikafusa",P,19,24,24,0.167,0.167,0.208,0.375,0,2,4,3,1,0,0,5,0,0,0,0,6,0,0,0,0,61163869
+1990,Regular Season,Orix Braves,35,"Furumizo, Katsuyuki",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61263860
+1990,Regular Season,Yakult Swallows,12,"Yano, Kazuya",P,28,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61263862
+1990,Regular Season,Chunichi Dragons,46,"Yamauchi, Kazuhiro",P,20,9,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,61263863
+1990,Regular Season,Fukuoka Daiei Hawks,18,"Yamauchi, Kazuhiro",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61263863
+1990,Regular Season,Nippon-Ham Fighters,56,"Watanabe, Hiroshi",2B,10,15,12,0.167,0.231,0.167,0.398,1,1,2,2,0,0,0,2,0,0,1,0,4,1,0,2,0,61263864
+1990,Regular Season,Yokohama Taiyo Whales,39,"Futamura, Tadami",RF,31,85,73,0.219,0.310,0.356,0.666,5,9,16,10,4,0,2,26,0,0,9,0,9,2,1,1,1,61263867
+1990,Regular Season,Kintetsu Buffaloes,5,"Murakami, Takayuki",CF,71,239,211,0.327,0.389,0.569,0.958,31,37,69,42,13,4,10,120,1,2,20,2,31,3,2,5,1,61263869
+1990,Regular Season,Kintetsu Buffaloes,7,"Hatayama, Shunji",PH,5,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61263881
+1990,Regular Season,Lotte Orions,6,"Kamikawa, Seiji",2B,107,313,291,0.292,0.314,0.433,0.747,27,28,85,59,17,3,6,126,7,0,9,2,19,3,2,7,4,61363865
+1990,Regular Season,Kintetsu Buffaloes,30,"Kato, Tetsuro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363867
+1990,Regular Season,Chunichi Dragons,42,"Shimizu, Masaji",PR,15,1,0,0.000,1.000,0.000,1.000,10,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,61363868
+1990,Regular Season,Yokohama Taiyo Whales,2,"Yamazaki, Kenichi",CF,109,463,421,0.259,0.315,0.342,0.657,56,34,109,87,13,5,4,144,18,12,32,0,47,6,3,6,1,61463860
+1990,Regular Season,Hanshin Tigers,36,"Yamawaki, Koji",PH,88,143,131,0.282,0.321,0.328,0.649,19,10,37,33,3,0,1,43,8,1,8,0,19,5,0,3,1,61463867
+1990,Regular Season,Yomiuri Giants,86,"Harada, Akihiro",RF,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61463868
+1990,Japan Series,Yomiuri Giants,48,"Koda, Isao",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,61563860
+1990,Regular Season,Yomiuri Giants,48,"Koda, Isao",P,26,47,37,0.189,0.302,0.189,0.491,3,1,7,7,0,0,0,7,0,0,6,0,14,0,0,4,0,61563860
+1990,Regular Season,Hiroshima Toyo Carp,52,"Ishibashi, Fumio",PH,4,2,2,1.000,1.000,1.000,2.000,2,0,2,2,0,0,0,2,0,1,0,0,0,0,0,0,0,61563866
+1990,Japan Series,Yomiuri Giants,10,"Komada, Norihiro",1B,4,,14,0.143,,0.143,,,0,2,2,0,0,0,2,0,,1,,5,,,,,61563867
+1990,Regular Season,Yomiuri Giants,10,"Komada, Norihiro",1B,130,528,470,0.287,0.356,0.498,0.854,70,83,135,83,27,3,22,234,7,3,51,6,70,11,2,0,5,61563867
+1990,Regular Season,Chunichi Dragons,55,"Taiho, Yasuaki",LF,105,291,259,0.274,0.333,0.556,0.889,34,48,71,38,13,0,20,144,2,0,23,3,63,5,1,6,2,61563868
+1990,Regular Season,Kintetsu Buffaloes,35,"Sato, Junichi",CF,2,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61563869
+1990,Regular Season,Lotte Orions,31,"Minamibuchi, Tokitaka",2B,37,96,80,0.263,0.372,0.363,0.735,12,5,21,13,8,0,0,29,2,1,13,0,13,4,1,2,0,61663881
+1990,Regular Season,Yokohama Taiyo Whales,3,"Takagi, Yutaka",2B,118,475,406,0.323,0.408,0.463,0.871,61,55,131,97,21,3,10,188,13,8,57,5,57,3,4,4,4,61763863
+1990,Regular Season,Chunichi Dragons,39,"Nakamura, Takeshi",C,97,282,256,0.250,0.301,0.367,0.668,22,21,64,48,9,0,7,94,1,1,18,6,43,4,1,6,1,61763864
+1990,Regular Season,Yokohama Taiyo Whales,9,"Choshi, Toshio",2B,37,77,61,0.279,0.397,0.328,0.725,7,2,17,15,1,1,0,20,0,1,12,2,15,0,0,4,0,61763869
+1990,Regular Season,Yokohama Taiyo Whales,22,"Sasaki, Kazuhiro",P,25,15,15,0.200,0.200,0.267,0.467,0,0,3,2,1,0,0,4,0,0,0,0,5,0,0,0,0,61763881
+1990,Regular Season,Yokohama Taiyo Whales,31,"Yashiki, Kaname",CF,12,47,42,0.310,0.383,0.357,0.740,9,3,13,12,0,1,0,15,3,0,5,0,9,0,0,0,0,61963846
+1990,Regular Season,Hanshin Tigers,34,"Nakada, Koji",P,46,45,40,0.125,0.146,0.175,0.321,1,1,5,3,2,0,0,7,0,0,1,0,9,0,0,4,0,61963860
+1990,Regular Season,Seibu Lions,42,"Nishimoto, Kazuhito",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963863
+1990,Regular Season,Seibu Lions,35,"Fujino, Seigo",3B,6,2,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963864
+1990,Japan Series,Seibu Lions,4,"Tomashino, Seiji",LF,1,,2,1.000,,1.000,,,0,2,2,0,0,0,2,0,,0,,0,,,,,61963867
+1990,Regular Season,Seibu Lions,4,"Tomashino, Seiji",LF,90,172,140,0.271,0.333,0.350,0.683,26,7,38,30,5,3,0,49,11,1,12,0,23,3,1,19,0,61963867
+1990,Regular Season,Hanshin Tigers,19,"Nakanishi, Kiyoki",P,17,33,31,0.226,0.250,0.323,0.573,2,5,7,4,3,0,0,10,0,0,1,0,10,1,0,1,0,61963869
+1990,Regular Season,Seibu Lions,34,"Suzuki, Tetsu",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963881
+1990,Regular Season,Hiroshima Toyo Carp,35,"Mochizuki, Hidetsugu",P,7,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,63063868
+1990,Regular Season,Hanshin Tigers,99,"Nakagomi, Shin",P,6,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,63163868
+1990,Regular Season,Yokohama Taiyo Whales,23,"Meyer, Joey",1B,104,426,378,0.275,0.347,0.529,0.876,59,77,104,60,18,0,26,200,0,1,40,2,82,13,4,0,4,63163881
+1990,Regular Season,Yakult Swallows,16,"Rochford, Mike",P,10,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,63363881
+1990,Regular Season,Lotte Orions,11,"Maeda, Yukinaga",P,42,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63463868
+1990,Regular Season,Lotte Orions,66,"Fukuzawa, Yoichi",C,68,160,136,0.250,0.297,0.346,0.643,10,9,34,25,7,0,2,47,3,2,6,0,20,1,3,15,0,63663868
+1990,Regular Season,Fukuoka Daiei Hawks,7,"Upshaw, Willie",1B,51,223,191,0.220,0.332,0.398,0.730,22,17,42,22,12,2,6,76,0,0,32,1,41,1,0,0,0,63763868
+1990,Regular Season,Hiroshima Toyo Carp,22,"Adachi, Wataru",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63963868
+1990,Regular Season,Yokohama Taiyo Whales,83,"Akimoto, Kosaku",C,67,124,115,0.200,0.242,0.348,0.590,10,11,23,13,6,1,3,40,0,1,7,0,29,3,0,0,2,65163868
+1990,Regular Season,Yokohama Taiyo Whales,66,"Ishii, Takuro",P,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65563868
+1990,Regular Season,Kintetsu Buffaloes,43,"Matsukubo, Shingo",PH,2,5,4,0.500,0.600,0.500,1.100,0,0,2,2,0,0,0,2,1,0,1,0,1,0,0,0,0,65663868
+1990,Regular Season,Nippon-Ham Fighters,1,"Hirose, Tetsuro",3B,72,142,123,0.236,0.293,0.350,0.643,18,11,29,19,7,2,1,43,8,0,9,0,21,2,1,9,0,71073862
+1990,Japan Series,Yomiuri Giants,8,"Hara, Tatsunori",LF,4,,15,0.267,,0.333,,,0,4,3,1,0,0,5,0,,1,,3,,,,,71073863
+1990,Regular Season,Yomiuri Giants,8,"Hara, Tatsunori",LF,103,425,366,0.303,0.391,0.519,0.910,58,68,111,73,17,1,20,190,6,4,52,3,64,4,3,0,4,71073863
+1990,Regular Season,Fukuoka Daiei Hawks,38,"Migita, Masahiko",PH,36,56,51,0.176,0.236,0.255,0.491,5,2,9,7,1,0,1,13,2,0,2,0,16,0,2,1,0,71073864
+1990,Regular Season,Nippon-Ham Fighters,52,"Tanaka, Minoru",CF,110,160,128,0.281,0.374,0.328,0.702,25,11,36,31,4,1,0,42,5,7,19,0,16,0,0,13,0,71073866
+1990,Regular Season,Nippon-Ham Fighters,27,"Kawana, Shinichi",PR,5,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,71073868
+1990,Regular Season,Chunichi Dragons,31,"Nimura, Kaoru",CF,14,23,22,0.136,0.136,0.318,0.454,2,1,3,1,1,0,1,7,0,0,0,0,7,0,0,1,0,71073869
+1990,Regular Season,Hanshin Tigers,14,"Ito, Fumitaka",P,26,18,11,0.000,0.214,0.000,0.214,0,0,0,0,0,0,0,0,0,0,3,0,8,0,0,4,0,71173846
+1990,Regular Season,Fukuoka Daiei Hawks,22,"Arita, Shuzo",C,36,39,33,0.242,0.342,0.364,0.706,2,3,8,6,0,2,0,12,0,0,5,0,11,0,0,1,0,71173847
+1990,Japan Series,Seibu Lions,27,"Ito, Tsutomu",C,4,,15,0.333,,0.733,,,4,5,1,3,0,1,11,0,,1,,2,,,,,71173865
+1990,Regular Season,Seibu Lions,27,"Ito, Tsutomu",C,119,421,366,0.281,0.341,0.443,0.784,47,43,103,69,20,3,11,162,4,2,30,3,56,2,5,16,4,71173865
+1990,Regular Season,Chunichi Dragons,40,"Oto, Shigeki",CF,10,40,32,0.344,0.475,0.406,0.881,3,4,11,9,2,0,0,13,2,1,7,1,0,0,1,0,0,71173866
+1990,Regular Season,Chunichi Dragons,14,"Imanaka, Shinji",P,31,51,43,0.140,0.159,0.186,0.345,2,2,6,4,2,0,0,8,0,0,1,0,17,2,0,7,0,71173868
+1990,Regular Season,Fukuoka Daiei Hawks,41,"Aoi, Kaname",P,49,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71173869
+1990,Regular Season,Yakult Swallows,8,"Hirosawa, Katsumi",1B,130,566,496,0.317,0.396,0.518,0.914,81,72,157,108,23,1,25,257,4,1,64,3,128,11,3,0,3,71273860
+1990,Regular Season,Orix Braves,36,"Yamamori, Masafumi",CF,88,51,43,0.326,0.396,0.605,1.001,17,9,14,8,3,0,3,26,6,3,5,0,11,1,0,3,0,71273861
+1990,Regular Season,Yokohama Taiyo Whales,29,"Matsumoto, Yutaka",P,39,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,71273862
+1990,Regular Season,Fukuoka Daiei Hawks,48,"Yamada, Takeshi",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71273864
+1990,Regular Season,Fukuoka Daiei Hawks,9,"Bernazard, Tony",DH,75,325,276,0.275,0.372,0.482,0.854,36,40,76,45,18,0,13,133,3,2,43,5,59,1,2,0,4,71273866
+1990,Regular Season,Hiroshima Toyo Carp,55,"Nihei, Kaoru",PR,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,71273881
+1990,Japan Series,Seibu Lions,26,"Katori, Yoshitaka",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71373848
+1990,Regular Season,Seibu Lions,26,"Katori, Yoshitaka",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373848
+1990,Regular Season,Lotte Orions,38,"Okabe, Akihito",PH,5,10,8,0.250,0.400,0.250,0.650,2,0,2,2,0,0,0,2,0,0,2,1,3,0,0,0,0,71373860
+1990,Regular Season,Nippon-Ham Fighters,31,"Oki, Yasushi",PR,9,6,5,0.200,0.333,0.200,0.533,3,0,1,1,0,0,0,1,2,0,1,0,1,0,0,0,0,71373862
+1990,Regular Season,Hiroshima Toyo Carp,31,"Katahira, Tetsuya",PH,11,13,13,0.231,0.231,0.231,0.462,1,1,3,3,0,0,0,3,0,0,0,0,4,1,0,0,0,71373864
+1990,Regular Season,Yokohama Taiyo Whales,16,"Kakehata, Mitsunori",P,27,25,20,0.350,0.409,0.600,1.009,3,3,7,4,2,0,1,12,0,0,2,0,8,0,0,3,0,71373865
+1990,Regular Season,Chunichi Dragons,16,"Yamada, Kazutoshi",2B,29,51,40,0.200,0.304,0.225,0.529,3,3,8,7,1,0,0,9,1,2,6,1,13,0,0,5,0,71473862
+1990,Regular Season,Kintetsu Buffaloes,20,"Takayanagi, Izumi",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71473866
+1990,Regular Season,Hanshin Tigers,56,"Mikoshiba, Susumu",P,15,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71473867
+1990,Regular Season,Yokohama Taiyo Whales,35,"Hiratsuka, Katsuhiro",PH,23,46,40,0.225,0.304,0.300,0.604,7,5,9,6,3,0,0,12,0,0,5,0,7,0,0,0,1,71473881
+1990,Regular Season,Orix Braves,78,"Kadota, Hiromitsu",DH,119,527,446,0.280,0.387,0.536,0.923,77,91,125,73,21,0,31,239,0,1,78,7,118,11,1,0,2,71573841
+1990,Regular Season,Hanshin Tigers,8,"Tao, Yasushi",RF,119,428,386,0.280,0.347,0.402,0.749,41,50,108,83,14,0,11,155,2,1,40,1,56,13,0,2,0,71573842
+1990,Regular Season,Yakult Swallows,39,"Shibui, Keiichi",2B,25,26,21,0.143,0.250,0.143,0.393,1,1,3,3,0,0,0,3,0,0,3,0,8,0,0,2,0,71573846
+1990,Regular Season,Orix Braves,6,"Kumano, Terumitsu",CF,102,275,240,0.246,0.302,0.379,0.681,34,27,59,40,12,1,6,91,12,1,20,0,43,4,0,13,2,71573860
+1990,Regular Season,Chunichi Dragons,37,"Kitamura, Terufumi",CF,65,47,42,0.214,0.283,0.452,0.735,12,5,9,3,4,0,2,19,1,2,4,0,10,2,0,1,0,71573861
+1990,Regular Season,Yokohama Taiyo Whales,52,"Shiozaki, Kenichi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71573864
+1990,Regular Season,Yokohama Taiyo Whales,5,"Shimizu, Yoshiyuki",3B,122,425,364,0.264,0.338,0.357,0.695,34,45,96,74,14,4,4,130,4,2,39,1,58,5,4,14,4,71573866
+1990,Regular Season,Yakult Swallows,4,"Kuriyama, Hideki",CF,69,109,96,0.229,0.253,0.281,0.534,15,4,22,20,0,1,1,27,3,0,2,0,7,3,1,10,0,71573869
+1990,Regular Season,Chunichi Dragons,54,"Matsui, Tatsunori",CF,33,92,81,0.272,0.314,0.358,0.672,13,7,22,19,1,0,2,29,1,1,5,0,17,1,0,6,0,71673881
+1990,Regular Season,Hanshin Tigers,27,"Shimada, Munehiko",C,47,112,100,0.150,0.211,0.240,0.451,7,10,15,10,3,0,2,24,0,0,8,0,20,4,0,3,1,71773860
+1990,Regular Season,Seibu Lions,12,"Suzuki, Yasutomo",SS,65,101,83,0.217,0.301,0.301,0.602,7,7,18,14,2,1,1,25,0,2,10,0,11,2,0,8,0,71773861
+1990,Regular Season,Lotte Orions,28,"Sonokawa, Kazumi",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773862
+1990,Regular Season,Yakult Swallows,38,"Dobashi, Katsuyuki",PH,13,15,12,0.083,0.267,0.083,0.350,1,1,1,1,0,0,0,1,0,0,3,0,3,0,0,0,0,71773864
+1990,Regular Season,Fukuoka Daiei Hawks,52,"Matsubayashi, Kazuo",LF,12,32,25,0.160,0.250,0.360,0.610,4,4,4,1,2,0,1,9,0,1,3,0,9,0,0,4,0,71773866
+1990,Regular Season,Orix Braves,31,"Shibahara, Minoru",PH,45,44,38,0.211,0.318,0.395,0.713,8,9,8,5,1,0,2,15,0,0,6,0,7,1,0,0,0,71773867
+1990,Regular Season,Nippon-Ham Fighters,14,"Sakai, Mitsujiro",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773881
+1990,Regular Season,Yokohama Taiyo Whales,6,"Takahashi, Masahiro",SS,119,473,385,0.226,0.309,0.294,0.603,47,15,87,67,16,2,2,113,14,4,44,0,76,4,3,40,1,71973860
+1990,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",1B,60,84,72,0.347,0.385,0.389,0.774,6,10,25,22,3,0,0,28,0,2,5,0,6,4,0,6,1,71973865
+1990,Regular Season,Yakult Swallows,44,"Takani, Hideharu",PH,11,7,5,0.000,0.167,0.000,0.167,1,0,0,0,0,0,0,0,0,0,1,0,3,0,0,1,0,71973867
+1990,Japan Series,Seibu Lions,16,"Shiozaki, Tetsuya",P,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,,,,71973881
+1990,Regular Season,Seibu Lions,16,"Shiozaki, Tetsuya",P,43,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973881
+1990,Regular Season,Hanshin Tigers,49,"Hattori, Hiroaki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73173868
+1990,Regular Season,Chunichi Dragons,2,"Law, Vance",3B,122,507,457,0.313,0.371,0.560,0.931,69,78,143,89,24,1,29,256,2,4,42,3,83,14,2,3,3,73173881
+1990,Regular Season,Hanshin Tigers,38,"Iwata, Toru",C,2,4,3,0.333,0.333,1.333,1.666,1,1,1,0,0,0,1,4,0,0,0,0,0,0,0,1,0,73373868
+1990,Regular Season,Chunichi Dragons,0,"Taneda, Hitoshi",PR,8,6,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,2,0,73373881
+1990,Regular Season,Lotte Orions,45,"Hori, Koichi",2B,59,141,126,0.270,0.331,0.508,0.839,23,18,34,18,8,2,6,64,2,0,11,0,27,2,1,2,1,73873868
+1990,Regular Season,Fukuoka Daiei Hawks,47,"Hironaga, Yasutaka",LF,80,217,198,0.313,0.367,0.500,0.867,27,23,62,42,11,1,8,99,1,2,15,0,49,8,2,2,0,73973868
+1990,Regular Season,Yokohama Taiyo Whales,27,"Tanabe, Manabu",P,2,4,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,75573868
+1990,Regular Season,Seibu Lions,31,"Moriyama, Ryoji",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81083864
+1990,Regular Season,Yokohama Taiyo Whales,24,"Endo, Kazuhiko",P,45,14,13,0.077,0.077,0.077,0.154,0,1,1,1,0,0,0,1,0,0,0,0,7,0,0,1,0,81183846
+1990,Regular Season,Chunichi Dragons,6,"Ochiai, Hiromitsu",1B,131,570,458,0.290,0.416,0.559,0.975,93,102,133,79,19,1,34,256,3,3,100,17,87,7,4,0,8,81183848
+1990,Regular Season,Lotte Orions,26,"Ogawa, Hiroshi",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81183860
+1990,Regular Season,Fukuoka Daiei Hawks,30,"Uchida, Tsuyoshi",C,94,260,224,0.250,0.314,0.335,0.649,24,16,56,43,9,2,2,75,0,2,20,0,28,5,1,15,0,81183862
+1990,Regular Season,Orix Braves,3,"Ishimine, Kazuhiko",LF,130,545,473,0.273,0.358,0.529,0.887,72,106,129,83,8,1,37,250,0,2,64,6,83,16,2,0,6,81183863
+1990,Regular Season,Chunichi Dragons,28,"Ogawa, Munenao",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81183864
+1990,Regular Season,Fukuoka Daiei Hawks,45,"Ogawa, Tatsuaki",PR,9,8,8,0.250,0.250,0.250,0.500,2,1,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,81183865
+1990,Regular Season,Hanshin Tigers,54,"Tagi, Atsushi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81183866
+1990,Regular Season,Chunichi Dragons,52,"Takahashi, Koji",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81183868
+1990,Regular Season,Yakult Swallows,36,"Ikeyama, Takahiro",SS,130,556,502,0.303,0.365,0.554,0.919,83,97,152,92,25,4,31,278,11,3,48,1,100,14,2,2,2,81183869
+1990,Regular Season,Yokohama Taiyo Whales,57,"Imakurusu, Nariyuki",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81183881
+1990,Regular Season,Yakult Swallows,52,"Yanada, Masao",CF,119,428,379,0.237,0.280,0.327,0.607,40,38,90,68,14,4,4,124,21,7,24,0,65,2,0,21,4,81283862
+1990,Regular Season,Fukuoka Daiei Hawks,19,"Yamauchi, Takanori",P,39,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81283863
+1990,Regular Season,Lotte Orions,24,"Yamashita, Norihito",1B,100,337,300,0.250,0.315,0.370,0.685,35,32,75,51,15,6,3,111,6,6,28,3,71,4,1,7,1,81283866
+1990,Japan Series,Yomiuri Giants,56,"Murata, Shinichi",C,4,,10,0.200,,0.600,,,1,2,0,1,0,1,6,0,,0,,2,,,,,81283869
+1990,Regular Season,Yomiuri Giants,56,"Murata, Shinichi",C,84,243,209,0.273,0.358,0.541,0.899,23,44,57,28,15,1,13,113,0,1,29,5,63,5,1,0,4,81283869
+1990,Regular Season,Fukuoka Daiei Hawks,25,"Hamanaka, Eiji",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81283881
+1990,Regular Season,Nippon-Ham Fighters,11,"Oshima, Yasunori",1B,110,417,360,0.267,0.356,0.411,0.767,43,50,96,67,17,1,11,148,2,1,51,2,68,16,1,1,4,81383843
+1990,Japan Series,Yomiuri Giants,6,"Shinozuka, Kazunori",2B,4,,11,0.182,,0.455,,,1,2,1,0,0,1,5,0,,1,,0,,,,,81383844
+1990,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",2B,71,253,232,0.284,0.329,0.405,0.734,31,29,66,49,11,1,5,94,1,0,15,1,27,5,1,4,1,81383844
+1990,Regular Season,Lotte Orions,23,"Sato, Kenichi",SS,118,450,361,0.271,0.347,0.399,0.746,48,43,98,72,15,2,9,144,5,0,37,2,71,3,5,47,0,81383848
+1990,Regular Season,Fukuoka Daiei Hawks,8,"Kishikawa, Katsuya",CF,121,490,438,0.258,0.329,0.441,0.770,51,74,113,75,16,2,20,193,2,1,43,0,103,10,5,0,4,81383860
+1990,Regular Season,Chunichi Dragons,45,"Kida, Isamu",P,18,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81383861
+1990,Regular Season,Chunichi Dragons,33,"Kaku, Genji",P,22,19,16,0.000,0.059,0.000,0.059,0,0,0,0,0,0,0,0,0,0,1,0,8,0,0,2,0,81383863
+1990,Regular Season,Lotte Orions,57,"Sato, Yukihiko",PH,6,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,81383864
+1990,Regular Season,Seibu Lions,30,"Kawano, Yasuhiko",LF,2,2,2,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81383865
+1990,Regular Season,Yakult Swallows,31,"Hashigami, Hideki",PR,25,26,22,0.227,0.346,0.318,0.664,2,0,5,4,0,1,0,7,2,3,4,1,7,1,0,0,0,81383866
+1990,Regular Season,Yakult Swallows,50,"Kawamura, Kazuaki",P,30,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,81383869
+1990,Regular Season,Fukuoka Daiei Hawks,6,"Yugamidani, Hiroshi",2B,130,518,453,0.265,0.334,0.344,0.678,70,27,120,96,17,2,5,156,13,1,46,1,48,9,2,15,2,81483860
+1990,Regular Season,Hiroshima Toyo Carp,40,"Tatsukawa, Mitsuo",C,101,305,272,0.265,0.312,0.331,0.643,19,33,72,60,9,0,3,90,3,1,15,4,34,8,6,7,5,81583846
+1990,Regular Season,Kintetsu Buffaloes,17,"Sasaki, Osamu",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583860
+1990,Regular Season,Orix Braves,19,"Takagi, Koji",P,42,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583864
+1990,Regular Season,Hiroshima Toyo Carp,37,"Ogata, Koichi",LF,32,15,14,0.357,0.400,0.929,1.329,9,4,5,2,0,1,2,13,2,0,1,0,3,0,0,0,0,81583866
+1990,Japan Series,Yomiuri Giants,11,"Saito, Masaki",P,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,81583869
+1990,Regular Season,Yomiuri Giants,11,"Saito, Masaki",P,28,89,74,0.243,0.300,0.284,0.584,5,5,18,15,3,0,0,21,0,0,6,0,30,0,0,9,0,81583869
+1990,Regular Season,Hiroshima Toyo Carp,10,"Takazawa, Hideaki",CF,91,281,240,0.254,0.341,0.400,0.741,28,24,61,40,13,2,6,96,5,0,23,3,35,5,9,8,1,81783861
+1990,Japan Series,Yomiuri Giants,29,"Nishioka, Yoshihiro",LF,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,0,,,,,81783865
+1990,Regular Season,Yomiuri Giants,29,"Nishioka, Yoshihiro",LF,94,192,169,0.249,0.297,0.391,0.688,21,23,42,28,8,2,4,66,2,1,11,0,20,7,2,7,3,81783865
+1990,Regular Season,Nippon-Ham Fighters,47,"Shimada, Naoya",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783868
+1990,Regular Season,Nippon-Ham Fighters,30,"Tsuno, Hiroshi",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81783869
+1990,Regular Season,Orix Braves,45,"Sato, Kazuhiro",1B,42,142,133,0.331,0.360,0.444,0.804,20,8,44,31,12,0,1,59,3,1,6,0,12,1,0,3,0,81783881
+1990,Regular Season,Chunichi Dragons,29,"Yoda, Tsuyoshi",P,50,17,15,0.067,0.125,0.067,0.192,1,1,1,1,0,0,0,1,0,0,1,0,8,0,0,1,0,81883881
+1990,Regular Season,Seibu Lions,37,"Nakada, Hideshi",C,8,9,9,0.111,0.111,0.111,0.222,1,0,1,1,0,0,0,1,1,0,0,0,3,0,0,0,0,81983860
+1990,Japan Series,Yomiuri Giants,27,"Fukuo, Akihito",PH,3,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,,,,81983864
+1990,Regular Season,Yomiuri Giants,27,"Fukuo, Akihito",PH,32,55,47,0.213,0.315,0.234,0.549,3,0,10,9,1,0,0,11,0,0,7,0,8,2,0,1,0,81983864
+1990,Regular Season,Orix Braves,14,"Yamauchi, Yoshihiro",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81983866
+1990,Regular Season,Nippon-Ham Fighters,10,"Winters, Matt",DH,127,543,468,0.278,0.374,0.551,0.925,73,97,130,73,21,1,35,258,3,1,68,9,98,15,5,0,2,83183881
+1990,Regular Season,Hanshin Tigers,62,"Ayukawa, Yoshifumi",PH,18,36,33,0.242,0.306,0.303,0.609,5,2,8,7,0,1,0,10,0,0,2,0,7,0,1,0,0,83383868
+1990,Regular Season,Lotte Orions,17,"Konno, Takahiro",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83483868
+1990,Regular Season,Hanshin Tigers,51,"Takamura, Yosuke",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83583868
+1990,Regular Season,Lotte Orions,68,"Inokubo, Goichi",C,42,54,42,0.190,0.306,0.286,0.592,7,4,8,6,1,0,1,12,0,1,4,0,10,1,3,5,0,83683868
+1990,Regular Season,Fukuoka Daiei Hawks,37,"Mifune, Hideyuki",SS,65,64,56,0.179,0.220,0.268,0.488,10,6,10,7,2,0,1,15,3,1,2,0,21,1,1,5,0,83783868
+1990,Regular Season,Seibu Lions,11,"Ishii, Takehiro",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83883868
+1990,Regular Season,Hiroshima Toyo Carp,26,"Une, Tatsumi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83983868
+1990,Regular Season,Kintetsu Buffaloes,31,"Yamada, Masami",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85283868
+1990,Regular Season,Seibu Lions,20,"Mori, Hiroyuki",PH,60,89,78,0.282,0.360,0.385,0.745,7,10,22,18,2,0,2,30,2,0,9,0,15,3,1,0,1,85383868
+1990,Regular Season,Yokohama Taiyo Whales,1,"Tanishige, Motonobu",C,75,182,154,0.175,0.264,0.279,0.543,8,16,27,17,7,0,3,43,2,0,17,3,36,4,2,8,1,85583868
+1990,Regular Season,Orix Braves,39,"Hamuro, Taro",C,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85883868
+1990,Regular Season,Yakult Swallows,37,"Kaku, Kensei",P,19,15,13,0.154,0.214,0.385,0.599,0,3,2,0,1,1,0,5,0,0,1,0,5,0,0,1,0,85983868
+1990,Regular Season,Yokohama Taiyo Whales,28,"Niura, Hisao",P,43,38,33,0.182,0.229,0.212,0.441,2,1,6,5,1,0,0,7,0,0,2,0,23,0,0,3,0,91093843
+1990,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",2B,104,380,334,0.290,0.369,0.380,0.749,43,34,97,75,18,0,4,127,8,5,40,2,63,5,3,1,2,91093866
+1990,Regular Season,Hiroshima Toyo Carp,28,"Nishida, Shinji",RF,77,207,186,0.349,0.411,0.634,1.045,31,36,65,39,12,1,13,118,4,2,18,0,28,2,2,0,1,91093867
+1990,Regular Season,Chunichi Dragons,5,"Nimura, Toru",2B,100,331,289,0.298,0.360,0.401,0.761,37,32,86,64,18,0,4,116,2,3,28,1,56,12,2,9,3,91093869
+1990,Regular Season,Hiroshima Toyo Carp,24,"Ono, Yutaka",P,30,40,34,0.059,0.158,0.059,0.217,0,2,2,2,0,0,0,2,1,0,4,0,15,0,0,2,0,91193844
+1990,Regular Season,Yakult Swallows,18,"Ito, Akimitsu",P,3,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,91193862
+1990,Regular Season,Kintetsu Buffaloes,54,"Ikeue, Koichi",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193864
+1990,Regular Season,Chunichi Dragons,48,"Komori, Tetsuya",2B,8,20,17,0.118,0.118,0.118,0.236,1,0,2,2,0,0,0,2,0,0,0,0,1,0,0,3,0,91193866
+1990,Regular Season,Lotte Orions,19,"Ibe, Yasuji",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193867
+1990,Regular Season,Yokohama Taiyo Whales,0,"Aoyama, Michio",LF,62,71,63,0.143,0.194,0.317,0.511,13,4,9,4,1,2,2,20,2,0,2,0,13,1,2,4,0,91193869
+1990,Regular Season,Yokohama Taiyo Whales,12,"Azuse, Kotaro",P,13,9,8,0.125,0.125,0.125,0.250,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,1,0,91193881
+1990,Regular Season,Orix Braves,1,"Fukura, Junichi",2B,53,140,114,0.211,0.321,0.289,0.610,13,11,24,18,4,1,1,33,7,3,16,0,12,3,3,6,1,91293860
+1990,Regular Season,Hiroshima Toyo Carp,20,"Kitabeppu, Manabu",P,17,40,40,0.125,0.125,0.200,0.325,1,3,5,4,0,0,1,8,0,0,0,0,17,3,0,0,0,91393842
+1990,Regular Season,Orix Braves,11,"Sato, Yoshinori",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393844
+1990,Regular Season,Seibu Lions,51,"Okada, Hirokazu",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393862
+1990,Regular Season,Chunichi Dragons,13,"Ono, Kazuyuki",P,14,28,24,0.083,0.154,0.083,0.237,1,1,2,2,0,0,0,2,0,0,2,0,11,0,0,2,0,91393863
+1990,Regular Season,Hanshin Tigers,4,"Keough, Matt",P,24,46,40,0.200,0.256,0.250,0.506,4,3,8,7,0,1,0,10,0,0,3,0,16,0,0,3,0,91393864
+1990,Regular Season,Yakult Swallows,41,"Kanazawa, Tsugio",P,37,11,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,2,0,91393865
+1990,Regular Season,Nippon-Ham Fighters,0,"Matsura, Hiroaki",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91493860
+1990,Regular Season,Orix Braves,5,"Yumioka, Keijiro",SS,70,96,84,0.238,0.281,0.321,0.602,21,4,20,16,2,1,1,27,9,2,5,0,14,1,0,7,0,91493863
+1990,Regular Season,Kintetsu Buffaloes,16,"Bryant, Ralph",LF,108,461,412,0.245,0.321,0.507,0.828,67,73,101,52,19,1,29,209,4,1,41,4,198,4,6,0,2,91493866
+1990,Regular Season,Yokohama Taiyo Whales,26,"Tashiro, Tomio",PH,51,74,58,0.293,0.405,0.517,0.922,5,19,17,10,4,0,3,30,0,0,13,2,16,2,0,0,3,91593842
+1990,Regular Season,Nippon-Ham Fighters,23,"Sumi, Mitsuo",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593846
+1990,Regular Season,Fukuoka Daiei Hawks,27,"Saito, Manabu",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593862
+1990,Regular Season,Orix Braves,55,"Shimabukuro, Osamu",C,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593864
+1990,Regular Season,Chunichi Dragons,47,"Saito, Hiroyuki",PH,11,17,16,0.125,0.176,0.188,0.364,0,0,2,1,1,0,0,3,0,0,1,0,5,0,0,0,0,91593865
+1990,Regular Season,Yokohama Taiyo Whales,36,"Shindo, Tatsuya",SS,40,136,119,0.261,0.313,0.353,0.666,18,9,31,24,5,0,2,42,3,1,9,0,19,0,0,8,0,91593866
+1990,Regular Season,Chunichi Dragons,68,"Ogawa, Shoshi",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593868
+1990,Regular Season,Fukuoka Daiei Hawks,26,"Kanazawa, Kenichi",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593881
+1990,Regular Season,Kintetsu Buffaloes,48,"Yoshida, Takashi",SS,56,62,52,0.231,0.305,0.327,0.632,15,5,12,9,1,2,0,17,6,2,6,0,11,0,0,3,1,91693860
+1990,Regular Season,Chunichi Dragons,27,"Matsunaga, Yukio",P,9,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,91693881
+1990,Regular Season,Chunichi Dragons,24,"Nishimoto, Takashi",P,25,65,60,0.117,0.127,0.167,0.294,4,6,7,6,0,0,1,10,0,0,1,0,21,2,0,2,2,91793842
+1990,Regular Season,Lotte Orions,12,"Hakamada, Hidetoshi",C,12,10,9,0.111,0.200,0.222,0.422,1,0,1,0,1,0,0,2,0,0,1,0,1,1,0,0,0,91793846
+1990,Regular Season,Hiroshima Toyo Carp,4,"Shoda, Kozo",2B,124,522,462,0.301,0.354,0.385,0.739,48,39,139,112,18,6,3,178,9,11,36,1,50,6,4,17,3,91793860
+1990,Regular Season,Orix Braves,15,"Sekiguchi, Tomoyuki",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793861
+1990,Regular Season,Yokohama Taiyo Whales,54,"Daimon, Kazuhiko",P,30,38,35,0.171,0.171,0.171,0.342,2,1,6,6,0,0,0,6,0,0,0,0,11,0,0,3,0,91793862
+1990,Regular Season,Fukuoka Daiei Hawks,28,"Sugimoto, Tadashi",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793863
+1990,Regular Season,Orix Braves,27,"Nakajima, Satoshi",C,95,318,286,0.283,0.332,0.469,0.801,46,39,81,56,9,4,12,134,8,2,19,0,62,4,3,8,2,91793864
+1990,Regular Season,Nippon-Ham Fighters,39,"Shimada, Nobutoshi",CF,113,318,279,0.262,0.314,0.384,0.698,33,34,73,52,14,1,6,107,6,7,20,0,60,4,2,15,2,91793867
+1990,Regular Season,Seibu Lions,28,"Takayama, Ikuo",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91993860
+1990,Regular Season,Yokohama Taiyo Whales,19,"Nakayama, Hiroaki",P,30,54,46,0.087,0.085,0.087,0.172,1,1,4,4,0,0,0,4,0,0,0,0,20,0,0,7,1,91993862
+1990,Regular Season,Seibu Lions,10,"Hanyuda, Tadakatsu",LF,47,83,71,0.239,0.270,0.352,0.622,13,2,17,12,2,3,0,25,2,0,2,0,9,0,1,9,0,91993864
+1990,Regular Season,Kintetsu Buffaloes,32,"Tani, Shinichi",SS,21,27,27,0.222,0.222,0.259,0.481,3,1,6,5,1,0,0,7,1,0,0,0,10,0,0,0,0,91993867
+1990,Regular Season,Hiroshima Toyo Carp,48,"Ishinuki, Hiromi",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93093868
+1990,Regular Season,Orix Braves,42,"Schulze, Don",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93193881
+1990,Regular Season,Lotte Orions,42,"Hengel, Dave",RF,20,76,67,0.179,0.276,0.373,0.649,6,12,12,7,1,0,4,25,0,0,9,0,15,1,0,0,0,93393881
+1990,Regular Season,Fukuoka Daiei Hawks,65,"Motomura, Shingo",LF,38,31,27,0.185,0.290,0.222,0.512,4,0,5,4,1,0,0,6,0,0,4,0,6,0,0,0,0,93493868
+1990,Regular Season,Fukuoka Daiei Hawks,55,"Omichi, Noriyoshi",LF,18,38,36,0.194,0.216,0.306,0.522,3,4,7,5,1,0,1,11,0,1,1,0,12,0,0,1,0,93993868
+1990,Regular Season,Hanshin Tigers,45,"Parrish, Larry",1B,105,432,381,0.249,0.331,0.512,0.843,56,80,95,52,14,1,28,195,0,1,44,3,98,14,4,0,3,95293868
+1990,Regular Season,Seibu Lions,55,"Ando, Shinji",2B,10,17,14,0.286,0.412,0.429,0.841,3,1,4,2,2,0,0,6,0,0,3,0,3,3,0,0,0,95393868
+1990,Regular Season,Kintetsu Buffaloes,28,"Nakamura, Ryoji",PH,7,8,7,0.000,0.125,0.000,0.125,1,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,95693868

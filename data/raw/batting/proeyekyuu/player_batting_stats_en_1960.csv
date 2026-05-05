@@ -1,0 +1,470 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+1960,Regular Season,Kokutetsu Swallows,27,"Negoro, Hiromitsu",C,112,265,239,0.192,0.252,0.280,0.532,20,18,46,34,7,1,4,67,2,3,17,2,31,3,2,6,1,01003804
+1960,Regular Season,Nishitetsu Lions,25,"Takakura, Teruyuki",CF,80,251,239,0.230,0.255,0.331,0.586,23,24,55,38,13,1,3,79,3,5,7,0,33,7,1,3,1,01003807
+1960,Regular Season,Nankai Hawks,54,"Nakajima, Hiroyuki",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01003808
+1960,Regular Season,Kintetsu Buffalo,17,"Bando, Satomi",P,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01003821
+1960,Japan Series,Mainichi Daiei Orions,11,"Aramaki, Atsushi",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,01103801
+1960,Regular Season,Mainichi Daiei Orions,11,"Aramaki, Atsushi",P,21,10,9,0.111,0.111,0.222,0.333,0,0,1,0,1,0,0,2,0,0,0,0,2,0,0,1,0,01103801
+1960,Japan Series,Taiyo Whales,17,"Akiyama, Noboru",P,4,,5,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,,,,01103802
+1960,Regular Season,Taiyo Whales,17,"Akiyama, Noboru",P,61,87,80,0.125,0.125,0.163,0.288,3,4,10,7,3,0,0,13,0,1,0,0,26,1,0,6,1,01103802
+1960,Japan Series,Mainichi Daiei Orions,21,"Iio, Tameo",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,01103803
+1960,Regular Season,Mainichi Daiei Orions,21,"Iio, Tameo",P,33,28,26,0.077,0.077,0.154,0.231,1,1,2,1,0,1,0,4,0,0,0,0,10,1,0,1,1,01103803
+1960,Regular Season,Kintetsu Buffalo,3,"Iko, Teruo",PH,67,131,119,0.227,0.287,0.319,0.606,8,9,27,19,6,1,1,38,1,1,8,1,15,1,2,2,0,01103804
+1960,Japan Series,Taiyo Whales,12,"Aso, Saneo",PH,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,01103808
+1960,Regular Season,Taiyo Whales,12,"Aso, Saneo",PH,92,146,138,0.254,0.285,0.341,0.626,8,17,35,26,7,1,1,47,0,0,6,2,23,4,0,0,2,01103808
+1960,Regular Season,Nishitetsu Lions,11,"Inoe, Yoshio",P,22,8,8,0.250,0.250,0.250,0.500,2,1,2,2,0,0,0,2,0,0,0,0,2,0,0,0,0,01103821
+1960,Japan Series,Mainichi Daiei Orions,17,"Nakanishi, Katsumi",P,3,,4,0.250,,0.250,,,0,1,1,0,0,0,1,0,,0,,1,,,,,01203802
+1960,Regular Season,Mainichi Daiei Orions,17,"Nakanishi, Katsumi",P,40,79,71,0.155,0.155,0.169,0.324,2,1,11,10,1,0,0,12,0,0,0,0,22,1,0,8,0,01203802
+1960,Regular Season,Nankai Hawks,28,"Fukuda, Masahisa",RF,79,107,103,0.214,0.236,0.437,0.673,22,14,22,13,1,2,6,45,0,3,2,0,43,2,1,1,0,01203804
+1960,Japan Series,Taiyo Whales,32,"Miyamoto, Kazuyoshi",P,4,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,01203806
+1960,Regular Season,Taiyo Whales,32,"Miyamoto, Kazuyoshi",P,36,16,16,0.188,0.188,0.375,0.563,2,1,3,2,0,0,1,6,0,0,0,0,4,0,0,0,0,01203806
+1960,Regular Season,Kintetsu Buffalo,24,"Bottler, Ron",P,36,59,56,0.357,0.368,0.500,0.868,2,6,20,15,3,1,1,28,0,1,1,0,6,3,0,1,1,01203808
+1960,Regular Season,Kokutetsu Swallows,21,"Moritaki, Yoshimi",P,32,21,18,0.111,0.200,0.111,0.311,0,1,2,2,0,0,0,2,0,0,2,0,8,0,0,1,0,01203821
+1960,Japan Series,Mainichi Daiei Orions,3,"Enomoto, Kihachi",1B,4,,15,0.200,,0.400,,,2,3,2,0,0,1,6,0,,0,,2,,,,,01303800
+1960,Regular Season,Mainichi Daiei Orions,3,"Enomoto, Kihachi",1B,133,576,494,0.344,0.435,0.506,0.941,94,66,170,117,37,5,11,250,15,1,67,5,33,9,12,1,2,01303800
+1960,Regular Season,Hankyu Braves,36,"Kajimoto, Yasuo",P,3,3,2,0.500,0.500,0.500,1.000,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,01303804
+1960,Regular Season,Yomiuri Giants,47,"Kawano, Tadashi",CF,68,32,29,0.172,0.226,0.172,0.398,5,1,5,5,0,0,0,5,2,1,2,0,9,1,0,1,0,01303806
+1960,Regular Season,Kokutetsu Swallows,15,"Ugai, Katsumi",PH,81,130,121,0.207,0.238,0.298,0.536,8,12,25,20,2,0,3,36,1,0,5,2,23,5,0,1,3,01303807
+1960,Regular Season,Kokutetsu Swallows,48,"Onogi, Takashi",P,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01303808
+1960,Regular Season,Hiroshima Carp,34,"Kangaki, Masaaki",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01303821
+1960,Regular Season,Nankai Hawks,26,"Hasegawa, Shigeo",CF,110,336,303,0.274,0.341,0.389,0.730,41,25,83,65,9,1,8,118,9,2,30,2,51,3,1,0,2,01403802
+1960,Regular Season,Nankai Hawks,48,"Watarai, Sumio",C,33,38,36,0.056,0.056,0.083,0.139,1,2,2,1,1,0,0,3,0,0,0,0,8,0,0,1,1,01403806
+1960,Regular Season,Nishitetsu Lions,1,"Kobuchi, Taisuke",3B,103,270,242,0.223,0.293,0.364,0.657,30,34,54,38,5,4,7,88,12,2,23,0,48,8,1,0,4,01503804
+1960,Regular Season,Nishitetsu Lions,26,"Kawai, Yasuhiko",C,67,180,158,0.253,0.333,0.437,0.770,20,17,40,27,4,2,7,69,0,1,15,1,32,5,4,3,0,01503805
+1960,Japan Series,Taiyo Whales,26,"Kondo, Kazuhiko",1B,4,,15,0.400,,0.467,,,0,6,5,1,0,0,7,2,,1,,2,,,,,01503806
+1960,Regular Season,Taiyo Whales,26,"Kondo, Kazuhiko",1B,128,525,459,0.316,0.390,0.425,0.815,60,55,145,113,21,4,7,195,20,12,55,5,45,5,1,5,5,01503806
+1960,Regular Season,Chunichi Dragons,5,"Kataoka, Hiro",LF,13,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01503808
+1960,Regular Season,Nishitetsu Lions,5,"Ogi, Akira",2B,114,426,374,0.267,0.333,0.366,0.699,46,30,100,74,19,3,4,137,8,8,33,1,57,4,4,15,0,01503809
+1960,Japan Series,Taiyo Whales,1,"Kondo, Akihito",2B,4,,15,0.200,,0.400,,,2,3,2,0,0,1,6,0,,2,,2,,,,,01503821
+1960,Regular Season,Taiyo Whales,1,"Kondo, Akihito",2B,117,425,389,0.226,0.273,0.326,0.599,38,40,88,62,17,5,4,127,17,7,25,2,82,6,0,10,1,01503821
+1960,Regular Season,Hankyu Braves,29,"Takita, Masaharu",1B,84,281,249,0.281,0.358,0.369,0.727,24,27,70,54,11,4,1,92,2,2,28,4,25,3,2,1,1,01503896
+1960,Regular Season,Kintetsu Buffalo,21,"Naito, Hirofumi",2B,92,341,311,0.251,0.304,0.347,0.651,30,21,78,57,15,3,3,108,2,0,17,0,66,9,7,6,0,01503898
+1960,Regular Season,Hankyu Braves,12,"Shibata, Eiji",P,13,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01603801
+1960,Regular Season,Hiroshima Carp,7,"Himoto, Yoshio",RF,23,30,25,0.080,0.179,0.080,0.259,2,0,2,2,0,0,0,2,2,1,2,0,9,0,1,2,0,01603802
+1960,Regular Season,Nankai Hawks,19,"Nomura, Katsuya",C,124,480,430,0.291,0.358,0.560,0.918,66,88,125,71,21,4,29,241,8,6,41,2,77,15,4,1,4,01603809
+1960,Regular Season,Toei Flyers,32,"Shimada, Yuji",PH,60,94,85,0.235,0.309,0.329,0.638,9,6,20,16,2,0,2,28,2,2,8,1,23,1,1,0,0,01703804
+1960,Regular Season,Nankai Hawks,21,"Sugiura, Tadashi",P,57,127,120,0.158,0.179,0.233,0.412,8,10,19,12,6,0,1,28,0,1,3,0,41,0,0,4,0,01703806
+1960,Regular Season,Nishitetsu Lions,22,"Sugimachi, Osamu",P,6,2,2,0.500,0.500,0.500,1.000,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,01703821
+1960,Japan Series,Mainichi Daiei Orions,34,"Hatta, Tadashi",SS,4,,9,0.111,,0.111,,,0,1,1,0,0,0,1,0,,1,,2,,,,,01803800
+1960,Regular Season,Mainichi Daiei Orions,34,"Hatta, Tadashi",SS,98,317,282,0.259,0.321,0.369,0.690,35,25,73,54,11,4,4,104,12,4,24,0,26,5,2,8,1,01803800
+1960,Regular Season,Nankai Hawks,40,"Masui, Makito",P,22,18,16,0.125,0.176,0.125,0.301,1,0,2,2,0,0,0,2,0,0,1,0,3,1,0,1,0,01803802
+1960,Regular Season,Hiroshima Carp,14,"Hirose, Masahiko",P,46,28,27,0.148,0.148,0.148,0.296,1,1,4,4,0,0,0,4,0,0,0,0,11,0,0,1,0,01803809
+1960,Regular Season,Toei Flyers,26,"Kubota, Osamu",P,48,52,50,0.280,0.280,0.400,0.680,5,4,14,10,3,0,1,20,0,0,0,0,10,1,0,2,0,01903800
+1960,Regular Season,Yomiuri Giants,19,"Sakazaki, Kazuhiko",PH,104,232,213,0.202,0.258,0.385,0.643,18,31,43,26,6,0,11,82,2,1,14,2,56,5,2,2,1,01903802
+1960,Regular Season,Hankyu Braves,39,"Tomiyama, Hiroshi",C,6,9,9,0.111,0.111,0.111,0.222,2,1,1,1,0,0,0,1,0,0,0,0,3,1,0,0,0,01903804
+1960,Regular Season,Osaka Tigers,31,"Tokaji, Masao",C,41,53,51,0.196,0.226,0.255,0.481,3,1,10,9,0,0,1,13,0,0,2,0,10,2,0,0,0,01903806
+1960,Regular Season,Hankyu Braves,64,"Kuboyama, Makoto",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903809
+1960,Regular Season,Nankai Hawks,25,"Nagao, Tatsuo",C,3,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01903821
+1960,Regular Season,Kokutetsu Swallows,19,"Matsuda, Kiyoshi",PH,101,226,208,0.264,0.311,0.341,0.652,10,20,55,42,11,1,1,71,2,1,13,2,25,4,1,2,2,03203801
+1960,Regular Season,Nankai Hawks,27,"Yamashita, Noboru",P,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03303809
+1960,Regular Season,Hiroshima Carp,31,"Yokomizo, Katsura",RF,107,385,343,0.265,0.335,0.376,0.711,41,32,91,70,10,5,6,129,14,7,33,0,45,2,3,3,3,03703800
+1960,Japan Series,Mainichi Daiei Orions,28,"Suzuki, Hideyuki",RF,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,11013802
+1960,Regular Season,Mainichi Daiei Orions,28,"Suzuki, Hideyuki",RF,50,79,72,0.222,0.291,0.319,0.610,7,5,16,12,2,1,1,23,1,0,7,0,19,1,0,0,0,11013802
+1960,Regular Season,Yomiuri Giants,23,"Nanba, Shojiro",PH,48,76,63,0.159,0.264,0.175,0.439,3,2,10,9,1,0,0,11,1,1,8,0,22,1,1,4,0,11013806
+1960,Regular Season,Kokutetsu Swallows,18,"Tatsumi, Hajimu",P,55,61,53,0.132,0.179,0.132,0.311,3,2,7,7,0,0,0,7,0,0,3,0,17,0,0,5,0,11013808
+1960,Regular Season,Chunichi Dragons,18,"Kodama, Yasushi",P,23,26,25,0.160,0.160,0.200,0.360,1,3,4,3,1,0,0,5,0,0,0,0,10,1,0,0,1,11013809
+1960,Regular Season,Taiyo Whales,46,"Hayama, Jiro",LF,11,2,2,1.000,1.000,1.500,2.500,2,0,2,1,1,0,0,3,0,0,0,0,0,0,0,0,0,11013821
+1960,Regular Season,Kokutetsu Swallows,12,"Doi, Shosuke",SS,111,299,283,0.219,0.230,0.336,0.566,32,15,62,40,15,3,4,95,14,3,2,0,48,1,2,11,1,11213802
+1960,Regular Season,Hankyu Braves,35,"Makita, Masahiko",P,24,4,4,0.250,0.250,0.250,0.500,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,11213806
+1960,Regular Season,Hankyu Braves,24,"Toguchi, Takatsugu",PH,48,77,71,0.282,0.338,0.366,0.704,6,6,20,16,3,0,1,26,0,1,5,1,11,1,1,0,0,11213807
+1960,Regular Season,Yomiuri Giants,20,"Horimoto, Ritsuo",P,69,131,114,0.219,0.276,0.298,0.574,8,6,25,20,3,0,2,34,1,1,9,0,41,2,0,8,0,11213821
+1960,Regular Season,Osaka Tigers,43,"Ito, Koshiro",PH,60,107,91,0.132,0.255,0.242,0.497,13,5,12,8,1,0,3,22,1,1,11,0,16,2,4,1,0,11313802
+1960,Regular Season,Nishitetsu Lions,41,"Urata, Naoji",C,14,14,14,0.071,0.071,0.071,0.142,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,11313804
+1960,Regular Season,Mainichi Daiei Orions,38,"Inagaki, Tadami",P,16,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11313806
+1960,Regular Season,Chunichi Dragons,17,"Ina, Tsutomu",P,30,18,15,0.133,0.188,0.267,0.455,0,0,2,1,0,1,0,4,0,0,1,0,4,0,0,2,0,11313807
+1960,Regular Season,Kokutetsu Swallows,10,"Iwashita, Morimichi",LF,111,366,336,0.244,0.292,0.360,0.652,27,31,82,61,10,4,7,121,10,4,20,1,58,10,3,6,1,11313809
+1960,Regular Season,Kintetsu Buffalo,38,"Ono, Mamoru",1B,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313821
+1960,Regular Season,Kokutetsu Swallows,16,"Nishioka, Seikichi",3B,66,171,158,0.209,0.238,0.266,0.504,11,9,33,26,6,0,1,42,1,0,5,1,16,6,1,5,2,11413802
+1960,Regular Season,Chunichi Dragons,35,"Mizutani, Hisanobu",P,7,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11413808
+1960,Regular Season,Nishitetsu Lions,57,"Yoshida, Takashi",PR,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11413821
+1960,Japan Series,Mainichi Daiei Orions,19,"Ono, Shoichi",P,2,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,11513802
+1960,Regular Season,Mainichi Daiei Orions,19,"Ono, Shoichi",P,67,104,101,0.079,0.088,0.109,0.197,4,6,8,6,1,1,0,11,0,0,1,0,43,1,0,2,0,11513802
+1960,Regular Season,Kintetsu Buffalo,20,"Osaki, Mitsuo",P,17,9,8,0.375,0.375,0.500,0.875,2,0,3,2,1,0,0,4,0,0,0,0,0,0,0,1,0,11513807
+1960,Regular Season,Taiyo Whales,23,"Kuroki, Motoyasu",RF,100,365,340,0.232,0.271,0.374,0.645,31,37,79,52,15,3,9,127,22,7,17,2,75,13,1,5,2,11513821
+1960,Japan Series,Mainichi Daiei Orions,7,"Yato, Takao",RF,3,,6,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,2,,,,,11613804
+1960,Regular Season,Mainichi Daiei Orions,7,"Yato, Takao",RF,128,422,396,0.227,0.259,0.303,0.562,41,40,90,73,9,3,5,120,5,6,17,2,86,6,0,5,4,11613804
+1960,Regular Season,Kokutetsu Swallows,33,"Saito, Yoshio",P,9,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713804
+1960,Japan Series,Mainichi Daiei Orions,25,"Shiozu, Yoshio",PH,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,1,,,,,11713806
+1960,Regular Season,Mainichi Daiei Orions,25,"Shiozu, Yoshio",PH,42,56,50,0.160,0.250,0.360,0.610,6,6,8,4,1,0,3,18,0,1,6,0,15,1,0,0,0,11713806
+1960,Regular Season,Kintetsu Buffalo,46,"Kawaratani, Yoshihiro",C,3,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,11713808
+1960,Regular Season,Hiroshima Carp,30,"Sasaki, Yuzo",PR,7,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,1,0,0,4,0,0,0,0,11713821
+1960,Japan Series,Mainichi Daiei Orions,27,"Hosaka, Yukinaga",2B,3,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11813802
+1960,Regular Season,Mainichi Daiei Orions,27,"Hosaka, Yukinaga",2B,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11813802
+1960,Regular Season,Mainichi Daiei Orions,24,"Daigo, Takeo",C,86,189,181,0.204,0.230,0.298,0.528,8,13,37,27,6,1,3,54,2,0,4,0,53,5,2,1,1,11913804
+1960,Regular Season,Kintetsu Buffalo,58,"Takeshita, Mitsuo",C,122,450,435,0.257,0.276,0.400,0.676,35,48,112,69,32,3,8,174,4,5,8,0,63,18,3,3,1,11913806
+1960,Regular Season,Nankai Hawks,2,"Sardinha, John",P,29,8,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,11913808
+1960,Regular Season,Toei Flyers,27,"Takashima, Masayoshi",3B,49,110,101,0.218,0.269,0.277,0.546,7,9,22,19,1,1,1,28,0,0,7,0,21,2,0,2,0,11913821
+1960,Regular Season,Hiroshima Carp,3,"Hirayama, Satoshi",CF,119,402,352,0.210,0.291,0.324,0.615,58,34,74,52,11,4,7,114,18,4,38,0,54,3,2,7,3,13313800
+1960,Regular Season,Toei Flyers,35,"Yamamoto, Yoshiji",P,46,58,51,0.176,0.236,0.176,0.412,5,2,9,9,0,0,0,9,0,0,4,0,18,0,0,3,0,13513809
+1960,Regular Season,Kokutetsu Swallows,25,"Hiraiwa, Tsuguo",C,56,87,79,0.228,0.291,0.329,0.620,6,8,18,12,5,0,1,26,0,0,6,0,19,1,1,1,0,21023806
+1960,Regular Season,Kokutetsu Swallows,9,"Nakamura, Shuichiro",2B,53,123,120,0.233,0.246,0.283,0.529,8,13,28,22,6,0,0,34,0,0,2,0,14,7,0,1,0,21023808
+1960,Regular Season,Kintetsu Buffalo,26,"Bloomfield, Jack",2B,58,207,183,0.279,0.356,0.432,0.788,22,17,51,34,11,1,5,79,5,5,20,0,27,2,2,0,2,21023821
+1960,Regular Season,Hankyu Braves,25,"Ishikawa, Keiya",PH,15,18,17,0.176,0.222,0.235,0.457,0,1,3,2,1,0,0,4,0,0,1,0,7,0,0,0,0,21123804
+1960,Japan Series,Mainichi Daiei Orions,6,"Arakawa, Hiroshi",PH,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,21123807
+1960,Regular Season,Mainichi Daiei Orions,6,"Arakawa, Hiroshi",PH,36,37,31,0.097,0.243,0.226,0.469,2,3,3,1,1,0,1,7,0,0,4,1,6,2,2,0,0,21123807
+1960,Regular Season,Hiroshima Carp,15,"I, Hiro",P,6,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,21123808
+1960,Regular Season,Hankyu Braves,6,"Ishii, Akira",3B,33,81,77,0.234,0.272,0.325,0.597,4,7,18,13,3,2,0,25,1,1,3,0,15,1,1,0,0,21123821
+1960,Regular Season,Mainichi Daiei Orions,29,"Fukuzuka, Katsuya",C,10,8,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21223804
+1960,Regular Season,Kokutetsu Swallows,35,"Motegi, Tadayuki",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21223806
+1960,Regular Season,Chunichi Dragons,14,"Maeda, Masuho",SS,99,247,225,0.222,0.277,0.280,0.557,14,10,50,41,6,2,1,63,4,3,16,0,34,6,1,5,0,21223808
+1960,Regular Season,Nankai Hawks,55,"Morinaka, Chikara",P,30,33,30,0.167,0.167,0.200,0.367,2,1,5,4,1,0,0,6,0,0,0,0,6,0,0,3,0,21223821
+1960,Regular Season,Taiyo Whales,10,"Edamura, Tsutomu",PH,23,27,26,0.077,0.077,0.077,0.154,2,1,2,2,0,0,0,2,0,0,0,0,7,1,0,1,0,21323800
+1960,Regular Season,Taiyo Whales,3,"Iwaoka, Yasuhiro",3B,53,69,63,0.143,0.217,0.238,0.455,5,4,9,5,3,0,1,15,3,0,6,0,10,0,0,0,0,21323802
+1960,Regular Season,Kintetsu Buffalo,41,"Kimura, Katsuo",PH,6,8,8,0.125,0.125,0.125,0.250,2,1,1,1,0,0,0,1,0,0,0,0,2,1,0,0,0,21323806
+1960,Regular Season,Mainichi Daiei Orions,18,"Uemura, Yoshinobu",P,12,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323807
+1960,Japan Series,Taiyo Whales,14,"Oishi, Masahiko",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,21323809
+1960,Regular Season,Taiyo Whales,14,"Oishi, Masahiko",P,51,43,37,0.135,0.200,0.162,0.362,2,1,5,4,1,0,0,6,1,0,3,0,18,0,0,3,0,21323809
+1960,Regular Season,Nishitetsu Lions,52,"Kanbara, Takahiko",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323821
+1960,Regular Season,Chunichi Dragons,25,"Yokoyama, Masahiro",PH,68,112,99,0.222,0.267,0.323,0.590,8,4,22,16,3,2,1,32,2,0,6,0,13,0,0,7,0,21423808
+1960,Japan Series,Mainichi Daiei Orions,48,"Nakagawa, Takashi",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,21423809
+1960,Regular Season,Mainichi Daiei Orions,48,"Nakagawa, Takashi",P,27,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,21423809
+1960,Regular Season,Nankai Hawks,1,"Kanehiko, Takashige",P,8,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21523808
+1960,Regular Season,Yomiuri Giants,49,"Kondo, Takatada",P,4,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21523821
+1960,Regular Season,Kokutetsu Swallows,26,"Tanida, Hiromi",C,48,66,60,0.233,0.270,0.300,0.570,6,6,14,12,1,0,1,18,0,0,3,0,15,1,0,3,0,21523896
+1960,Regular Season,Toei Flyers,28,"Yoshida, Katsutoyo",1B,130,523,462,0.253,0.326,0.364,0.690,50,44,117,85,21,3,8,168,11,8,50,2,110,13,0,8,3,21623804
+1960,Regular Season,Nankai Hawks,22,"Nomo, Tokumi",P,11,3,2,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,21623809
+1960,Regular Season,Taiyo Whales,6,"Kuroki, Hiroshige",PH,19,21,20,0.200,0.238,0.300,0.538,2,0,4,3,0,1,0,6,0,0,1,0,5,0,0,0,0,21723802
+1960,Japan Series,Taiyo Whales,16,"Suzuki, Takashi",P,2,,2,0.500,,1.000,,,1,1,0,1,0,0,2,0,,0,,0,,,,,21723806
+1960,Regular Season,Taiyo Whales,16,"Suzuki, Takashi",P,46,47,45,0.156,0.191,0.333,0.524,3,4,7,2,3,1,1,15,0,0,2,0,13,0,0,0,0,21723806
+1960,Regular Season,Kintetsu Buffalo,43,"Kawakami, Yoshinobu",RF,87,123,112,0.134,0.205,0.179,0.384,7,8,15,12,2,0,1,20,0,2,8,0,29,3,2,1,0,21723809
+1960,Regular Season,Nankai Hawks,14,"Suzuki, Tadashi",SS,6,9,9,0.333,0.333,0.333,0.666,1,0,3,3,0,0,0,3,0,0,0,0,5,0,0,0,0,21723821
+1960,Regular Season,Toei Flyers,33,"Busujima, Shoichi",RF,119,448,406,0.273,0.331,0.369,0.700,53,31,111,88,14,2,7,150,12,3,34,2,37,2,1,4,1,21823809
+1960,Regular Season,Yomiuri Giants,36,"Kunimatsu, Akira",RF,125,404,357,0.238,0.310,0.373,0.683,41,46,85,60,13,1,11,133,7,2,35,5,60,3,2,6,4,21923800
+1960,Regular Season,Chunichi Dragons,27,"Sakai, Toshiaki",C,63,85,76,0.158,0.220,0.184,0.404,3,9,12,10,2,0,0,14,1,1,5,0,12,1,1,1,2,21923802
+1960,Regular Season,Yomiuri Giants,7,"Yonamine, Kaname",LF,126,454,399,0.228,0.308,0.328,0.636,48,26,91,64,19,3,5,131,6,2,43,4,55,5,3,8,1,21923803
+1960,Regular Season,Hankyu Braves,10,"Nakata, Yoshihiro",LF,117,398,357,0.218,0.290,0.395,0.685,38,41,78,44,19,1,14,141,1,1,36,6,92,7,0,1,4,21923804
+1960,Regular Season,Kintetsu Buffalo,51,"Tomoto, Yukio",SS,3,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21923806
+1960,Regular Season,Taiyo Whales,53,"Narazaki, Kazuo",LF,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21923821
+1960,Regular Season,Osaka Tigers,4,"Mizukami, Shizuya",PR,30,30,27,0.296,0.321,0.296,0.617,1,1,8,8,0,0,0,8,0,1,0,0,2,2,1,2,0,23123809
+1960,Regular Season,Yomiuri Giants,10,"Horiuchi, Sho",P,16,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,23323800
+1960,Regular Season,Nishitetsu Lions,12,"Wada, Hiromi",C,101,319,295,0.295,0.340,0.397,0.737,30,30,87,68,12,3,4,117,6,1,19,2,32,7,1,1,3,23723800
+1960,Regular Season,Osaka Tigers,7,"Namiki, Teruo",CF,120,483,425,0.306,0.379,0.499,0.878,64,61,130,79,31,9,11,212,23,9,44,4,74,4,6,5,3,31033804
+1960,Regular Season,Hiroshima Carp,11,"Haido, Norio",P,20,11,9,0.000,0.100,0.000,0.100,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,31033806
+1960,Regular Season,Nishitetsu Lions,44,"Danno, Fujio",P,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31033808
+1960,Regular Season,Hankyu Braves,11,"Kono, Akiteru",CF,101,256,235,0.221,0.277,0.319,0.596,22,19,52,41,4,2,5,75,11,6,18,0,56,3,0,1,2,31033809
+1960,Regular Season,Mainichi Daiei Orions,41,"Hasegawa, Takeshi",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31033821
+1960,Regular Season,Nankai Hawks,10,"Azuma, Minoru",P,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31133804
+1960,Regular Season,Toei Flyers,31,"Ando, Junzo",C,26,52,46,0.217,0.280,0.239,0.519,2,4,10,9,1,0,0,11,0,0,4,0,9,1,0,2,0,31133809
+1960,Regular Season,Chunichi Dragons,22,"Aida, Toyohiko",3B,24,38,36,0.167,0.211,0.194,0.405,1,0,6,5,1,0,0,7,1,1,2,0,10,3,0,0,0,31133821
+1960,Regular Season,Hankyu Braves,2,"Hitomi, Takeo",3B,114,430,407,0.270,0.300,0.383,0.683,50,37,110,76,27,2,5,156,8,5,15,1,43,6,2,4,2,31233804
+1960,Regular Season,Nishitetsu Lions,6,"Nakanishi, Futoshi",PH,32,54,47,0.362,0.434,0.511,0.945,6,10,17,13,2,1,1,24,1,0,6,4,8,4,0,0,1,31233805
+1960,Regular Season,Nishitetsu Lions,7,"Toyoda, Yasumitsu",SS,127,508,425,0.287,0.398,0.511,0.909,75,87,122,77,18,4,23,217,9,7,77,4,82,7,1,0,5,31233807
+1960,Regular Season,Toei Flyers,10,"Harimoto, Isao",LF,106,414,384,0.302,0.351,0.508,0.859,49,56,116,72,25,3,16,195,15,4,26,6,56,1,3,0,1,31233808
+1960,Regular Season,Hankyu Braves,28,"Tanaka, Mamoru",RF,125,456,422,0.265,0.297,0.377,0.674,32,52,112,85,13,8,6,159,3,2,19,0,66,9,0,13,2,31233809
+1960,Regular Season,Taiyo Whales,51,"Honda, Takeshi",3B,17,14,13,0.077,0.143,0.077,0.220,0,0,1,1,0,0,0,1,1,0,1,0,4,0,0,0,0,31233821
+1960,Regular Season,Kintetsu Buffalo,11,"Esaki, Teruo",P,48,51,46,0.043,0.083,0.065,0.148,2,0,2,1,1,0,0,3,0,0,2,0,15,0,0,3,0,31333804
+1960,Regular Season,Chunichi Dragons,6,"Imazu, Mitsuo",SS,100,163,148,0.203,0.253,0.257,0.510,11,12,30,22,8,0,0,38,11,5,9,0,19,3,1,5,0,31333806
+1960,Regular Season,Nankai Hawks,23,"Ishigaki, Kazuo",C,20,38,36,0.139,0.184,0.139,0.323,3,1,5,5,0,0,0,5,0,0,2,0,6,2,0,0,0,31333807
+1960,Regular Season,Hiroshima Carp,13,"Ueda, Toshiharu",C,32,54,53,0.208,0.222,0.302,0.524,7,2,11,8,2,0,1,16,1,0,1,0,4,3,0,0,0,31333808
+1960,Regular Season,Chunichi Dragons,13,"Kato, Rikio",P,5,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333821
+1960,Regular Season,Taiyo Whales,55,"Mine, Kuniyasu",P,32,12,11,0.182,0.182,0.273,0.455,0,0,2,1,1,0,0,3,0,0,0,0,5,0,0,1,0,31433808
+1960,Regular Season,Toei Flyers,17,"Ryu, Kenichi",P,35,19,18,0.111,0.158,0.111,0.269,0,0,2,2,0,0,0,2,0,0,1,0,6,0,0,0,0,31433821
+1960,Regular Season,Hiroshima Carp,8,"Owada, Akira",LF,125,504,468,0.254,0.299,0.455,0.754,52,60,119,68,26,7,18,213,9,1,28,7,84,8,2,1,5,31533800
+1960,Regular Season,Toei Flyers,2,"Kimura, Gunji",SS,41,61,57,0.140,0.197,0.351,0.548,6,10,8,2,3,0,3,20,0,0,4,0,24,0,0,0,0,31533804
+1960,Regular Season,Hiroshima Carp,4,"Kosaka, Yoshitaka",2B,112,400,371,0.237,0.285,0.329,0.614,26,32,88,69,9,5,5,122,10,6,22,2,65,5,3,3,1,31533806
+1960,Regular Season,Toei Flyers,29,"Kurosaki, Takeshi",CF,7,14,11,0.273,0.333,0.273,0.606,0,1,3,3,0,0,0,3,0,0,1,0,2,0,0,0,1,31533821
+1960,Regular Season,Yomiuri Giants,25,"Tsuchiya, Masataka",2B,120,428,379,0.206,0.282,0.311,0.593,39,27,78,52,18,2,6,118,18,6,38,2,73,5,2,7,2,31633800
+1960,Regular Season,Hiroshima Carp,38,"Yamaguchi, Keiichi",PH,12,14,12,0.083,0.154,0.167,0.321,0,0,1,0,1,0,0,2,0,0,1,0,7,0,0,1,0,31633804
+1960,Japan Series,Mainichi Daiei Orions,5,"Katsuragi, Takao",3B,4,,16,0.250,,0.312,,,2,4,3,1,0,0,5,1,,0,,0,,,,,31733800
+1960,Regular Season,Mainichi Daiei Orions,5,"Katsuragi, Takao",3B,121,482,455,0.295,0.328,0.382,0.710,39,43,134,108,17,4,5,174,7,4,21,1,29,20,2,1,3,31733800
+1960,Regular Season,Hankyu Braves,38,"Kigoro, Hiroyoshi",SS,77,147,135,0.267,0.303,0.311,0.614,17,9,36,32,2,2,0,42,5,1,6,0,21,3,1,5,0,31733802
+1960,Regular Season,Chunichi Dragons,37,"Sakaguchi, Shunichi",P,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733804
+1960,Regular Season,Chunichi Dragons,24,"Shikita, Shinichi",C,3,4,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,31733806
+1960,Regular Season,Nishitetsu Lions,54,"Kikuchi, Hideyuki",PH,3,4,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,31733808
+1960,Regular Season,Kintetsu Buffalo,10,"Kato, Masatoshi",PH,56,109,93,0.183,0.296,0.237,0.533,5,6,17,14,2,0,1,22,5,0,15,0,30,0,0,0,1,31733809
+1960,Regular Season,Toei Flyers,19,"Saga, Kenshiro",P,7,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31733821
+1960,Regular Season,Chunichi Dragons,28,"Nakayama, Yoshiro",P,43,31,29,0.241,0.290,0.241,0.531,0,1,7,7,0,0,0,7,1,0,2,0,5,0,0,0,0,31833800
+1960,Regular Season,Chunichi Dragons,40,"Homoto, Hideaki",PH,94,185,165,0.242,0.290,0.273,0.563,13,7,40,36,3,1,0,45,6,6,9,0,14,2,2,8,1,31833802
+1960,Regular Season,Osaka Tigers,23,"Yoshida, Yoshio",SS,126,528,458,0.249,0.319,0.367,0.686,60,24,114,79,21,9,5,168,20,7,43,3,23,11,4,22,1,31833807
+1960,Regular Season,Hankyu Braves,22,"Kiori, Takeyoshi",C,59,79,77,0.234,0.244,0.299,0.543,3,4,18,14,3,1,0,23,0,0,1,0,17,1,0,1,0,31933800
+1960,Regular Season,Yomiuri Giants,32,"Takahashi, Masakatsu",PH,7,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,31933804
+1960,Regular Season,Osaka Tigers,47,"Koyama, Masaaki",P,60,133,115,0.139,0.175,0.148,0.323,4,6,16,15,1,0,0,17,0,0,4,0,41,3,1,13,0,31933807
+1960,Regular Season,Mainichi Daiei Orions,12,"Sakai, Katsuji",P,12,7,6,0.000,0.143,0.000,0.143,1,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,31933808
+1960,Regular Season,Osaka Tigers,13,"Takahashi, Takaaki",P,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31933821
+1960,Regular Season,Yomiuri Giants,11,"Bessho, Takehiko",P,37,45,39,0.179,0.200,0.308,0.508,4,3,7,4,2,0,1,12,0,0,1,0,7,0,0,5,0,31933895
+1960,Regular Season,Chunichi Dragons,1,"Honda, Itsuro",LF,91,271,261,0.188,0.212,0.272,0.484,20,26,49,38,4,3,4,71,8,5,8,0,18,1,0,1,1,33233801
+1960,Japan Series,Mainichi Daiei Orions,32,"Wako, Tomo",P,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,33333802
+1960,Regular Season,Mainichi Daiei Orions,32,"Wako, Tomo",P,45,63,56,0.107,0.153,0.107,0.260,2,3,6,6,0,0,0,6,0,0,3,0,34,0,0,3,1,33333802
+1960,Regular Season,Osaka Tigers,21,"Yokoyama, Koji",RF,94,255,236,0.242,0.284,0.347,0.631,17,20,57,40,12,2,3,82,10,2,10,0,38,5,4,4,1,33533809
+1960,Regular Season,Nankai Hawks,3,"Terada, Yosuke",1B,124,452,414,0.249,0.301,0.372,0.673,42,52,103,73,19,1,10,154,3,3,30,5,61,17,1,3,4,41043802
+1960,Regular Season,Toei Flyers,25,"Sutanrē, Hashimoto",1B,77,176,164,0.213,0.241,0.256,0.497,11,9,35,30,4,0,1,42,1,1,5,0,23,5,1,5,1,41043804
+1960,Regular Season,Chunichi Dragons,29,"Hiroshima, Mamoru",P,57,74,69,0.072,0.099,0.072,0.171,1,0,5,5,0,0,0,5,0,0,2,0,19,0,0,3,0,41043806
+1960,Regular Season,Yomiuri Giants,54,"Nakamura, Tsunetoshi",P,7,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,41043808
+1960,Regular Season,Taiyo Whales,48,"Fuda, Toshio",LF,2,5,5,0.200,0.200,0.200,0.400,1,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,41043821
+1960,Regular Season,Nankai Hawks,5,"Anabuki, Yoshio",LF,127,511,458,0.271,0.332,0.400,0.732,58,61,124,84,29,3,8,183,3,0,39,1,82,13,3,3,8,41143802
+1960,Regular Season,Osaka Tigers,17,"Ishikawa, Yoshiteru",P,37,39,33,0.121,0.121,0.152,0.273,3,0,4,3,1,0,0,5,0,0,0,0,16,2,0,6,0,41143804
+1960,Regular Season,Hankyu Braves,20,"Ishii, Shigeo",P,27,12,12,0.333,0.333,0.417,0.750,1,0,4,3,1,0,0,5,0,0,0,0,3,0,0,0,0,41143806
+1960,Regular Season,Chunichi Dragons,32,"Ito, Tatsuhiko",PH,24,28,27,0.185,0.185,0.407,0.592,2,3,5,3,0,0,2,11,0,0,0,0,10,0,0,0,0,41143808
+1960,Japan Series,Mainichi Daiei Orions,23,"Ishikawa, Susumu",PH,4,,7,0.429,,0.429,,,0,3,3,0,0,0,3,1,,0,,1,,,,,41143809
+1960,Regular Season,Mainichi Daiei Orions,23,"Ishikawa, Susumu",PH,81,76,67,0.224,0.288,0.269,0.557,19,7,15,12,3,0,0,18,8,4,5,0,19,0,1,2,1,41143809
+1960,Regular Season,Nishitetsu Lions,47,"Iwanaga, Isao",P,12,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,41143821
+1960,Regular Season,Kintetsu Buffalo,29,"Sekimori, Masaharu",CF,108,368,338,0.213,0.265,0.331,0.596,38,26,72,48,14,4,6,112,3,5,21,0,94,5,3,5,1,41243800
+1960,Regular Season,Yomiuri Giants,18,"Fujita, Motoshi",P,38,46,43,0.070,0.111,0.070,0.181,1,1,3,3,0,0,0,3,1,0,2,0,15,0,0,1,0,41243804
+1960,Regular Season,Hankyu Braves,17,"Motoyashiki, Kingo",SS,117,444,416,0.264,0.292,0.334,0.626,50,25,110,89,15,4,2,139,24,16,15,0,31,9,1,12,0,41243806
+1960,Regular Season,Kintetsu Buffalo,57,"Matsushita, Hidefumi",SS,52,97,80,0.150,0.269,0.188,0.457,6,2,12,10,1,1,0,15,0,0,13,0,21,2,0,3,1,41243808
+1960,Regular Season,Osaka Tigers,33,"Morimitsu, Shokichi",1B,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243821
+1960,Regular Season,Osaka Tigers,41,"Kamata, Minoru",2B,130,468,449,0.265,0.289,0.334,0.623,32,39,119,97,16,3,3,150,11,8,14,1,35,4,1,3,1,41343804
+1960,Regular Season,Hiroshima Carp,22,"Oishi, Kiyoshi",P,60,132,110,0.091,0.138,0.100,0.238,3,5,10,9,1,0,0,11,0,0,6,0,34,0,0,16,0,41343808
+1960,Regular Season,Toei Flyers,15,"Kawaharada, Akira",P,6,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41343821
+1960,Regular Season,Nishitetsu Lions,23,"Hata, Takayuki",P,51,77,69,0.217,0.239,0.232,0.471,5,1,15,14,1,0,0,16,0,0,2,0,23,2,0,6,0,41443802
+1960,Regular Season,Kokutetsu Swallows,37,"Murata, Genichi",P,58,99,89,0.079,0.089,0.101,0.190,1,1,7,6,0,1,0,9,0,0,1,0,30,1,0,9,0,41443804
+1960,Regular Season,Chunichi Dragons,23,"Ota, Fumitaka",LF,75,143,131,0.252,0.300,0.443,0.743,17,18,33,18,10,0,5,58,7,3,8,0,37,0,1,1,2,41543802
+1960,Regular Season,Kokutetsu Swallows,32,"Koya, Toshio",P,4,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543804
+1960,Regular Season,Toei Flyers,16,"Kanayama, Katsumi",P,32,28,27,0.148,0.148,0.148,0.296,2,1,4,4,0,0,0,4,0,0,0,0,11,0,0,1,0,41543807
+1960,Japan Series,Taiyo Whales,9,"Kanemitsu, Hidenori",PH,4,,15,0.400,,0.667,,,4,6,4,1,0,1,10,0,,0,,1,,,,,41543808
+1960,Regular Season,Taiyo Whales,9,"Kanemitsu, Hidenori",PH,83,188,180,0.256,0.276,0.406,0.682,14,20,46,29,12,0,5,73,3,0,5,0,22,4,0,1,1,41543808
+1960,Regular Season,Chunichi Dragons,12,"Okajima, Hiroji",3B,116,351,287,0.202,0.340,0.348,0.688,44,30,58,34,13,4,7,100,30,9,55,1,73,2,5,2,2,41543809
+1960,Regular Season,Nishitetsu Lions,19,"Kondo, Mizuo",P,43,30,30,0.033,0.033,0.033,0.066,0,0,1,1,0,0,0,1,0,0,0,0,10,1,0,0,0,41543821
+1960,Regular Season,Chunichi Dragons,3,"Naka, Toshio",CF,130,531,465,0.312,0.379,0.441,0.820,80,31,145,108,21,9,7,205,50,15,48,3,38,3,2,11,2,41643800
+1960,Regular Season,Nankai Hawks,57,"Hirose, Yoshinori",SS,128,542,521,0.269,0.297,0.411,0.708,70,46,140,96,24,10,10,214,25,4,20,1,38,9,1,0,0,41643802
+1960,Regular Season,Taiyo Whales,59,"Haijima, Hisami",C,13,11,10,0.000,0.091,0.000,0.091,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,0,0,41643809
+1960,Regular Season,Kintetsu Buffalo,14,"Otomo, Koji",P,15,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41743801
+1960,Regular Season,Kintetsu Buffalo,22,"Kuroda, Tsutomu",P,45,38,32,0.063,0.091,0.125,0.216,2,1,2,1,0,1,0,4,0,0,0,0,13,0,1,5,0,41743802
+1960,Regular Season,Kokutetsu Swallows,3,"Hakoda, Jun",2B,129,535,500,0.256,0.294,0.410,0.704,44,57,128,86,23,3,16,205,23,10,25,3,40,15,2,6,2,41743803
+1960,Regular Season,Kintetsu Buffalo,32,"Kono, Yasuo",PH,6,6,5,0.400,0.500,0.400,0.900,0,0,2,2,0,0,0,2,0,0,0,0,2,0,1,0,0,41743808
+1960,Regular Season,Nishitetsu Lions,42,"Suzuki, Yukio",PH,6,6,5,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,41743821
+1960,Regular Season,Nankai Hawks,18,"Hashimoto, Norishige",P,10,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,41843800
+1960,Regular Season,Hankyu Braves,9,"Masuda, Hiroshi",2B,74,181,168,0.292,0.324,0.446,0.770,21,18,49,35,7,2,5,75,2,4,8,0,32,1,0,3,2,41843802
+1960,Regular Season,Osaka Tigers,26,"Watanabe, Shozo",P,46,43,39,0.179,0.179,0.179,0.358,1,3,7,7,0,0,0,7,0,0,0,0,9,1,0,4,0,41843807
+1960,Regular Season,Osaka Tigers,8,"Tohi, Goro",1B,91,226,202,0.272,0.350,0.441,0.791,19,23,55,35,10,6,4,89,0,1,23,2,39,5,1,0,0,41943806
+1960,Regular Season,Nishitetsu Lions,15,"Tanaka, Kihachiro",P,23,31,30,0.133,0.133,0.133,0.266,1,2,4,4,0,0,0,4,0,0,0,0,10,0,0,1,0,41943808
+1960,Regular Season,Kintetsu Buffalo,2,"Kodama, Akitoshi",3B,122,489,438,0.301,0.364,0.509,0.873,62,69,132,82,29,1,20,223,8,5,39,8,47,18,4,0,2,41943809
+1960,Regular Season,Yomiuri Giants,48,"Nishino, Tadaomi",2B,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41943821
+1960,Regular Season,Kintetsu Buffalo,16,"Takechi, Fumio",P,21,22,18,0.000,0.182,0.000,0.182,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,43143801
+1960,Regular Season,Toei Flyers,8,"Yamamoto, Hachiro",C,119,424,402,0.249,0.278,0.391,0.669,47,53,100,73,10,4,13,157,16,7,13,2,45,10,3,6,0,43143802
+1960,Regular Season,Yomiuri Giants,27,"Mori, Masahiko",C,115,384,355,0.197,0.240,0.254,0.494,18,18,70,54,14,0,2,90,5,2,20,6,46,11,0,6,3,43543800
+1960,Regular Season,Kokutetsu Swallows,14,"Watanabe, Reijiro",3B,40,64,57,0.140,0.197,0.140,0.337,8,3,8,8,0,0,0,8,1,1,4,0,10,3,0,2,1,43543809
+1960,Regular Season,Nishitetsu Lions,18,"Wako, Tadayasu",P,36,61,55,0.164,0.164,0.200,0.364,2,0,9,8,0,1,0,11,0,0,0,0,29,0,0,6,0,43743800
+1960,Regular Season,Hiroshima Carp,18,"Hasegawa, Ryohei",P,46,69,63,0.159,0.159,0.175,0.334,2,6,10,9,1,0,0,11,0,0,0,0,14,2,0,5,1,43743801
+1960,Regular Season,Kintetsu Buffalo,13,"Goto, Osamu",P,23,20,17,0.059,0.158,0.059,0.217,1,0,1,1,0,0,0,1,0,0,2,0,12,0,0,1,0,51053800
+1960,Regular Season,Yomiuri Giants,12,"Soejima, Tokito",P,10,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51053802
+1960,Regular Season,Nankai Hawks,17,"Tanaka, Ichiro",PH,49,70,59,0.153,0.275,0.220,0.495,6,3,9,7,1,0,1,13,0,0,10,0,16,1,0,1,0,51053805
+1960,Regular Season,Chunichi Dragons,2,"Harada, Matsuru",P,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053806
+1960,Regular Season,Toei Flyers,39,"Tsuji, Takashi",C,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51053808
+1960,Regular Season,Toei Flyers,23,"Hashizume, Fumio",P,45,38,38,0.105,0.105,0.105,0.210,2,1,4,4,0,0,0,4,0,0,0,0,11,1,0,0,0,51053821
+1960,Regular Season,Hiroshima Carp,29,"Aoki, Takao",CF,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51153800
+1960,Regular Season,Hiroshima Carp,25,"Anan, Junro",3B,99,247,228,0.228,0.279,0.346,0.625,23,19,52,37,7,4,4,79,5,1,16,0,35,3,0,3,0,51153802
+1960,Regular Season,Hankyu Braves,14,"Ando, Haruhisa",P,42,44,42,0.048,0.070,0.048,0.118,1,1,2,2,0,0,0,2,0,1,1,0,13,1,0,1,0,51153808
+1960,Regular Season,Kokutetsu Swallows,24,"Ai, Toshiharu",PR,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51153809
+1960,Regular Season,Yomiuri Giants,56,"Aoki, Hiroaki",P,23,22,21,0.048,0.048,0.048,0.096,1,0,1,1,0,0,0,1,0,0,0,0,10,0,0,1,0,51153821
+1960,Regular Season,Nankai Hawks,37,"Tomishima, Goro",P,15,4,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,51253802
+1960,Regular Season,Kokutetsu Swallows,2,"Hirai, Yoshiaki",SS,95,235,216,0.194,0.220,0.231,0.451,19,5,42,35,6,1,0,50,13,2,7,0,25,3,0,12,0,51253804
+1960,Japan Series,Mainichi Daiei Orions,16,"Mihira, Haruki",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51253806
+1960,Regular Season,Mainichi Daiei Orions,16,"Mihira, Haruki",P,45,59,51,0.118,0.151,0.157,0.308,4,2,6,5,0,1,0,8,0,0,2,0,15,0,0,6,0,51253806
+1960,Regular Season,Chunichi Dragons,30,"Bando, Eiji",P,44,54,47,0.149,0.216,0.149,0.365,3,0,7,7,0,0,0,7,0,1,4,0,14,1,0,3,0,51253808
+1960,Regular Season,Hankyu Braves,46,"Matsunami, Kazumi",C,31,50,46,0.196,0.229,0.217,0.446,3,2,9,8,1,0,0,10,0,0,2,0,21,1,0,2,0,51253821
+1960,Regular Season,Toei Flyers,3,"Ishihara, Teruo",PH,33,54,49,0.143,0.160,0.163,0.323,4,0,7,6,1,0,0,8,1,0,0,0,3,1,1,4,0,51353802
+1960,Regular Season,Nishitetsu Lions,29,"Ogi, Takao",PH,63,76,72,0.208,0.250,0.208,0.458,4,4,15,15,0,0,0,15,2,0,4,1,7,1,0,0,0,51353804
+1960,Regular Season,Chunichi Dragons,50,"Uchikoshi, Toshihiko",PH,7,7,6,0.000,0.143,0.000,0.143,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,51353806
+1960,Regular Season,Chunichi Dragons,38,"Uranishi, Yoshiharu",P,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353808
+1960,Regular Season,Nankai Hawks,20,"Kakimoto, Minoru",CF,4,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353821
+1960,Regular Season,Hiroshima Carp,23,"Nishihara, Kyoji",P,9,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,51453802
+1960,Regular Season,Osaka Tigers,11,"Murayama, Minoru",P,36,55,50,0.120,0.170,0.180,0.350,1,4,6,4,1,1,0,9,0,0,3,0,15,0,0,2,0,51453808
+1960,Regular Season,Taiyo Whales,22,"Wako, Terumoto",LF,5,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51453821
+1960,Regular Season,Nankai Hawks,15,"Osawa, Keiji",CF,110,275,251,0.259,0.316,0.355,0.671,21,25,65,50,10,1,4,89,2,5,20,0,41,9,1,2,1,51553802
+1960,Regular Season,Nankai Hawks,11,"Kimura, Tamotsu",PH,17,25,24,0.208,0.240,0.208,0.448,1,0,5,5,0,0,0,5,0,0,1,0,8,1,0,0,0,51553804
+1960,Regular Season,Yomiuri Giants,45,"Komatsu, Toshihiro",P,13,5,4,0.000,0.200,0.000,0.200,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,51553806
+1960,Regular Season,Hiroshima Carp,10,"Okitsu, Tatsuo",1B,129,500,440,0.268,0.332,0.486,0.818,56,64,118,68,25,4,21,214,3,0,37,0,108,9,5,13,5,51553808
+1960,Regular Season,Yomiuri Giants,24,"Kuroda, Yoshihiro",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553821
+1960,Regular Season,Mainichi Daiei Orions,10,"Miura, Masayoshi",P,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51653805
+1960,Regular Season,Yomiuri Giants,29,"Kido, Yoshinori",P,8,4,4,0.500,0.500,0.750,1.250,0,0,2,1,1,0,0,3,0,0,0,0,2,0,0,0,0,51753802
+1960,Japan Series,Taiyo Whales,20,"Shimada, Gentaro",P,2,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,,,,51753806
+1960,Regular Season,Taiyo Whales,20,"Shimada, Gentaro",P,50,82,76,0.066,0.101,0.066,0.167,4,3,5,5,0,0,0,5,0,0,3,0,27,4,0,3,0,51753806
+1960,Regular Season,Kokutetsu Swallows,20,"Kitagawa, Yoshio",P,37,36,34,0.235,0.235,0.324,0.559,5,1,8,6,1,1,0,11,0,1,0,0,8,0,0,2,0,51753808
+1960,Regular Season,Hiroshima Carp,45,"Saito, Tatsuo",3B,18,26,26,0.231,0.231,0.385,0.616,0,5,6,2,4,0,0,10,0,0,0,0,10,1,0,0,0,51753821
+1960,Japan Series,Mainichi Daiei Orions,8,"Yamauchi, Kazuhiro",LF,4,,11,0.182,,0.182,,,0,2,2,0,0,0,2,2,,5,,4,,,,,51853805
+1960,Regular Season,Mainichi Daiei Orions,8,"Yamauchi, Kazuhiro",LF,133,559,483,0.313,0.399,0.580,0.979,93,103,151,87,31,1,32,280,5,2,67,14,40,23,2,0,5,51853805
+1960,Regular Season,Hiroshima Carp,26,"Kinoshita, Kyozo",PH,56,94,85,0.259,0.308,0.400,0.708,6,7,22,16,2,2,2,34,3,3,6,1,12,2,0,3,0,51953800
+1960,Japan Series,Taiyo Whales,18,"Gondo, Masatoshi",P,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,51953807
+1960,Regular Season,Taiyo Whales,18,"Gondo, Masatoshi",P,50,55,51,0.314,0.340,0.392,0.732,4,5,16,13,2,1,0,20,0,0,2,0,11,0,0,2,0,51953807
+1960,Japan Series,Taiyo Whales,24,"Shimada, Yukio",PH,4,,8,0.125,,0.125,,,0,1,1,0,0,0,1,1,,0,,2,,,,,51953808
+1960,Regular Season,Taiyo Whales,24,"Shimada, Yukio",PH,72,115,101,0.248,0.321,0.455,0.776,13,12,25,14,5,2,4,46,2,1,10,1,16,3,1,2,1,51953808
+1960,Regular Season,Hankyu Braves,23,"Takahashi, Tsutomu",PH,3,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,51953821
+1960,Regular Season,Yomiuri Giants,17,"Yasuhara, Tatsuyoshi",P,13,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,53353809
+1960,Regular Season,Kintetsu Buffalo,8,"Totoki, Keishi",RF,101,241,222,0.203,0.256,0.315,0.571,22,20,45,32,6,2,5,70,5,4,16,1,75,3,0,2,1,61063802
+1960,Regular Season,Osaka Tigers,6,"Hoshiyama, Shintoku",PH,62,79,73,0.178,0.231,0.192,0.423,0,4,13,12,1,0,0,14,0,0,3,1,5,1,2,0,1,61063806
+1960,Regular Season,Toei Flyers,48,"Fujino, Takashi",P,11,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,61063821
+1960,Regular Season,Chunichi Dragons,26,"Ishikawa, Midori",P,61,51,48,0.063,0.063,0.063,0.126,1,2,3,3,0,0,0,3,0,0,0,0,19,1,0,2,0,61163800
+1960,Regular Season,Toei Flyers,11,"Inagaki, Masao",2B,102,331,297,0.269,0.326,0.337,0.663,32,21,80,67,8,3,2,100,13,5,21,0,31,4,4,7,2,61163804
+1960,Regular Season,Chunichi Dragons,51,"Inoe, Noboru",2B,130,527,474,0.257,0.323,0.435,0.758,64,64,122,74,27,6,15,206,16,1,42,0,56,13,4,2,5,61163807
+1960,Regular Season,Yomiuri Giants,21,"Ito, Yoshiaki",P,54,61,57,0.123,0.180,0.123,0.303,3,1,7,7,0,0,0,7,0,0,4,0,17,1,0,0,0,61163808
+1960,Regular Season,Chunichi Dragons,49,"Ogawa, Toshiaki",C,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61163821
+1960,Regular Season,Nankai Hawks,39,"Tazawa, Yoshio",P,14,3,2,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,61263800
+1960,Regular Season,Chunichi Dragons,7,"Mori, Toru",RF,129,523,469,0.275,0.345,0.469,0.814,61,72,129,83,22,3,21,220,9,9,45,2,67,17,5,0,4,61263806
+1960,Regular Season,Toei Flyers,1,"Matsumoto, Shunichi",SS,11,10,10,0.200,0.200,0.300,0.500,2,0,2,1,1,0,0,3,1,0,0,0,2,0,0,0,0,61263808
+1960,Regular Season,Nishitetsu Lions,8,"Takiuchi, Yasuo",2B,81,227,201,0.249,0.304,0.413,0.717,28,38,50,31,11,2,6,83,4,0,14,0,55,2,2,9,1,61263809
+1960,Regular Season,Kintetsu Buffalo,9,"Yanora, Kunimitsu",SS,110,414,387,0.256,0.292,0.349,0.641,33,30,99,76,13,7,3,135,4,5,20,8,51,8,0,7,0,61263821
+1960,Regular Season,Hiroshima Carp,17,"Ugari, Michio",P,50,49,47,0.106,0.106,0.106,0.212,2,0,5,5,0,0,0,5,0,0,0,0,14,1,0,2,0,61363802
+1960,Regular Season,Hiroshima Carp,40,"Oba, Susumu",P,28,13,12,0.333,0.333,0.417,0.750,1,0,4,3,1,0,0,5,0,0,0,0,1,1,0,1,0,61363808
+1960,Regular Season,Yomiuri Giants,15,"Kitsugi, Fumio",PH,23,23,23,0.087,0.087,0.174,0.261,0,1,2,0,2,0,0,4,0,0,0,0,10,1,0,0,0,61363821
+1960,Japan Series,Mainichi Daiei Orions,22,"Tamiya, Kenjiro",CF,4,,14,0.357,,0.357,,,1,5,5,0,0,0,5,0,,2,,1,,,,,61363898
+1960,Regular Season,Mainichi Daiei Orions,22,"Tamiya, Kenjiro",CF,133,558,479,0.317,0.405,0.489,0.894,61,62,152,103,28,9,12,234,13,6,59,9,41,13,12,5,3,61363898
+1960,Japan Series,Mainichi Daiei Orions,20,"Tanimoto, Minoru",C,4,,15,0.200,,0.200,,,0,3,3,0,0,0,3,0,,1,,1,,,,,61463800
+1960,Regular Season,Mainichi Daiei Orions,20,"Tanimoto, Minoru",C,107,354,324,0.265,0.316,0.336,0.652,21,43,86,72,8,3,3,109,0,1,20,0,30,13,4,3,3,61463800
+1960,Regular Season,Nishitetsu Lions,34,"Murayama, Yasunobu",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61463804
+1960,Regular Season,Kokutetsu Swallows,7,"Machida, Yukihiko",RF,125,444,382,0.238,0.337,0.364,0.701,40,40,91,65,14,2,10,139,9,4,55,0,93,6,2,3,2,61463805
+1960,Regular Season,Hankyu Braves,4,"Okada, Yutaka",C,49,99,90,0.278,0.330,0.333,0.663,6,7,25,20,5,0,0,30,0,0,6,0,5,2,1,1,0,61563802
+1960,Regular Season,Hankyu Braves,15,"Taneda, Hiroshi",P,15,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,61563803
+1960,Regular Season,Toei Flyers,7,"Saionji, Akio",3B,116,417,371,0.221,0.297,0.388,0.685,42,33,82,51,14,3,14,144,16,4,39,0,81,6,1,4,2,61563804
+1960,Regular Season,Mainichi Daiei Orions,36,"Kamijo, Takahiro",2B,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563808
+1960,Regular Season,Yomiuri Giants,6,"Sasaki, Isao",C,15,7,7,0.143,0.143,0.286,0.429,0,0,1,0,1,0,0,2,0,0,0,0,2,1,0,0,0,61563821
+1960,Regular Season,Nankai Hawks,7,"Shimabara, Teruo",PH,46,68,63,0.206,0.254,0.254,0.508,2,3,13,10,3,0,0,16,0,0,3,0,6,3,1,1,0,61663801
+1960,Regular Season,Osaka Tigers,18,"Fujishige, Noboru",C,61,151,141,0.241,0.282,0.362,0.644,14,8,34,24,6,1,3,51,3,0,5,0,20,3,3,2,0,61663802
+1960,Regular Season,Nankai Hawks,16,"Morishita, Nobuyasu",3B,134,550,506,0.275,0.327,0.360,0.687,66,45,139,108,24,2,5,182,24,12,28,0,41,3,11,4,1,61663805
+1960,Regular Season,Toei Flyers,4,"Kawazu, Kenichi",3B,34,85,78,0.192,0.250,0.282,0.532,7,10,15,11,2,1,1,22,2,3,4,0,13,3,2,0,1,61763800
+1960,Regular Season,Nankai Hawks,24,"Okamoto, Isami",2B,96,249,208,0.168,0.279,0.264,0.543,18,10,35,23,8,0,4,55,3,2,32,0,29,9,0,8,1,61763801
+1960,Regular Season,Kokutetsu Swallows,5,"Sato, Takao",CF,129,549,503,0.280,0.336,0.445,0.781,72,47,141,93,27,7,14,224,20,4,41,0,62,7,1,3,1,61763805
+1960,Regular Season,Taiyo Whales,7,"Kondo, Haruhiko",PH,31,32,29,0.069,0.129,0.103,0.232,3,0,2,1,1,0,0,3,0,0,2,0,5,0,0,1,0,61763808
+1960,Regular Season,Osaka Tigers,56,"Solomko, Mike",LF,99,321,290,0.241,0.295,0.483,0.778,38,38,70,36,15,2,17,140,8,10,21,0,81,5,1,9,0,61763821
+1960,Regular Season,Kintetsu Buffalo,19,"Sekine, Junzo",1B,112,429,390,0.282,0.333,0.344,0.677,44,32,110,91,16,1,2,134,0,0,25,4,22,10,5,6,3,61863801
+1960,Japan Series,Taiyo Whales,38,"Matsui, Takeo",CF,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,61863802
+1960,Regular Season,Taiyo Whales,38,"Matsui, Takeo",CF,10,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61863802
+1960,Regular Season,Osaka Tigers,37,"Nakamura, Kazuomi",P,14,3,2,0.500,0.667,0.500,1.167,0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,61963804
+1960,Regular Season,Nankai Hawks,29,"Sugiyama, Kohei",RF,106,367,337,0.246,0.292,0.323,0.615,28,40,83,65,14,0,4,109,3,1,20,1,28,6,2,4,4,61963805
+1960,Regular Season,Osaka Tigers,24,"Takaira, Kazuo",2B,6,9,8,0.375,0.375,0.500,0.875,1,2,3,2,1,0,0,4,0,0,0,0,1,0,0,1,0,61963808
+1960,Regular Season,Hiroshima Carp,19,"Nishiyama, Koji",C,44,73,63,0.222,0.300,0.317,0.617,4,4,14,10,3,0,1,20,0,0,7,0,22,4,0,3,0,61963821
+1960,Regular Season,Yomiuri Giants,34,"Yoshihara, Taketoshi",P,28,19,16,0.000,0.111,0.000,0.111,0,0,0,0,0,0,0,0,0,0,2,0,9,1,0,1,0,63163802
+1960,Regular Season,Nankai Hawks,49,"Minagawa, Mutsuo",P,40,52,50,0.180,0.196,0.360,0.556,5,10,9,6,0,0,3,18,0,0,1,0,22,0,0,0,1,63163809
+1960,Japan Series,Taiyo Whales,29,"Watanabe, Kiyoshi",CF,4,,11,0.364,,0.455,,,0,4,3,1,0,0,5,0,,0,,1,,,,,63763800
+1960,Regular Season,Taiyo Whales,29,"Watanabe, Kiyoshi",CF,120,315,274,0.212,0.296,0.288,0.584,30,13,58,44,10,1,3,79,12,9,32,0,72,7,1,8,0,63763800
+1960,Regular Season,Kokutetsu Swallows,34,"Kaneda, Masaichi",P,57,118,106,0.226,0.274,0.330,0.604,5,9,24,17,5,0,2,35,1,0,7,0,19,2,0,4,1,71073801
+1960,Regular Season,Nishitetsu Lions,28,"Tanaka, Kusuo",1B,90,337,321,0.265,0.293,0.455,0.748,46,44,85,57,10,3,15,146,6,3,9,0,35,14,4,1,2,71073802
+1960,Regular Season,Hankyu Braves,21,"Nishida, Minoru",P,5,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,71073804
+1960,Regular Season,Nankai Hawks,53,"Haraigawa, Masatoshi",P,37,33,29,0.207,0.303,0.207,0.510,6,2,6,6,0,0,0,6,0,0,4,0,9,1,0,0,0,71073806
+1960,Regular Season,Hiroshima Carp,42,"Doi, Fumio",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71073808
+1960,Regular Season,Kokutetsu Swallows,43,"Hamada, Yoshiharu",PR,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71073821
+1960,Regular Season,Nishitetsu Lions,2,"Inoe, Tadayuki",1B,100,219,201,0.174,0.242,0.229,0.471,16,12,35,26,8,0,1,46,0,1,18,0,40,7,0,0,0,71173804
+1960,Regular Season,Hankyu Braves,16,"Adachi, Mitsuhiro",P,41,17,14,0.214,0.267,0.357,0.624,1,0,3,1,2,0,0,5,0,0,1,0,0,0,0,2,0,71173808
+1960,Regular Season,Osaka Tigers,40,"Asai, Shigeji",2B,3,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71173821
+1960,Regular Season,Kintetsu Buffalo,25,"Shimada, Koji",1B,88,253,230,0.287,0.341,0.387,0.728,22,21,66,48,15,1,2,89,7,3,18,0,36,3,1,3,0,71273800
+1960,Regular Season,Toei Flyers,12,"Tominaga, Tadao",P,6,6,6,0.167,0.167,0.167,0.334,1,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,71273802
+1960,Regular Season,Nishitetsu Lions,56,"Miyake, Takao",PR,12,5,5,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71273806
+1960,Regular Season,Osaka Tigers,52,"Miyake, Hiroshi",PR,5,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,71273821
+1960,Regular Season,Nishitetsu Lions,24,"Inao, Kazuhisa",P,39,95,83,0.181,0.218,0.325,0.543,7,9,15,8,4,1,2,27,0,0,4,0,18,2,0,7,1,71373802
+1960,Regular Season,Yomiuri Giants,35,"Kato, Katsumi",C,17,18,17,0.294,0.333,0.294,0.627,1,3,5,5,0,0,0,5,0,0,1,0,6,0,0,0,0,71373804
+1960,Regular Season,Toei Flyers,41,"Okada, Tadahiro",P,12,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,71373806
+1960,Regular Season,Chunichi Dragons,8,"Eto, Shinichi",1B,130,474,429,0.252,0.317,0.403,0.720,48,61,108,73,19,2,14,173,7,11,36,5,49,8,5,0,4,71373808
+1960,Regular Season,Chunichi Dragons,11,"Kataoka, Kenji",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373821
+1960,Regular Season,Osaka Tigers,27,"Nishiyama, Kazuyoshi",PH,60,83,79,0.228,0.256,0.354,0.610,6,8,18,12,3,2,1,28,0,0,3,2,7,4,0,1,0,71473802
+1960,Regular Season,Nankai Hawks,34,"Miura, Kiyohiro",P,17,4,4,0.750,0.750,0.750,1.500,0,0,3,3,0,0,0,3,0,0,0,0,0,0,0,0,0,71473804
+1960,Regular Season,Chunichi Dragons,52,"Yokochi, Yoshimatsu",3B,84,167,156,0.179,0.210,0.256,0.466,15,15,28,21,4,1,2,40,3,0,5,0,31,3,1,4,1,71473806
+1960,Japan Series,Mainichi Daiei Orions,4,"Yanagida, Toshio",SS,4,,11,0.182,,0.455,,,2,2,1,0,0,1,5,0,,3,,2,,,,,71473808
+1960,Regular Season,Mainichi Daiei Orions,4,"Yanagida, Toshio",SS,101,420,386,0.249,0.301,0.396,0.697,58,34,96,65,17,2,12,153,13,3,28,0,65,3,1,4,1,71473808
+1960,Regular Season,Toei Flyers,21,"Dobashi, Masayuki",P,44,101,95,0.211,0.211,0.284,0.495,6,10,20,17,1,0,2,27,0,0,0,0,19,2,0,5,1,71473825
+1960,Japan Series,Mainichi Daiei Orions,26,"Sakamoto, Bunjiro",2B,3,,9,0.222,,0.222,,,0,2,2,0,0,0,2,0,,0,,2,,,,,71573803
+1960,Regular Season,Mainichi Daiei Orions,26,"Sakamoto, Bunjiro",2B,120,388,371,0.256,0.270,0.372,0.642,38,38,95,69,16,3,7,138,5,5,7,0,51,9,0,9,1,71573803
+1960,Regular Season,Nishitetsu Lions,9,"Kido, Norifumi",3B,117,346,321,0.249,0.289,0.343,0.632,36,23,80,62,10,4,4,110,6,4,18,0,64,7,0,5,2,71573804
+1960,Regular Season,Hiroshima Carp,1,"Koba, Takeshi",SS,119,490,442,0.267,0.315,0.308,0.623,35,22,118,106,8,2,2,136,18,8,30,1,30,7,1,14,3,71573806
+1960,Regular Season,Hankyu Braves,53,"Kaoku, Ryuzo",PH,66,123,115,0.209,0.248,0.400,0.648,10,13,24,12,7,0,5,46,0,0,4,0,36,3,2,0,1,71573808
+1960,Regular Season,Chunichi Dragons,19,"Oyane, Hiromi",P,45,78,74,0.149,0.160,0.162,0.322,2,2,11,10,1,0,0,12,0,0,1,0,18,2,0,3,0,71573809
+1960,Regular Season,Kokutetsu Swallows,8,"Konishi, Hidero",PH,72,116,104,0.183,0.241,0.250,0.491,5,14,19,14,4,0,1,26,0,0,5,0,26,1,3,4,0,71573821
+1960,Regular Season,Kintetsu Buffalo,5,"Sugiyama, Satoshi",LF,99,295,271,0.210,0.267,0.299,0.566,22,22,57,42,10,1,4,81,4,4,18,0,61,5,3,2,1,71573896
+1960,Regular Season,Kokutetsu Swallows,36,"Shimatani, Isao",P,21,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71773806
+1960,Regular Season,Yomiuri Giants,28,"Shiobara, Akira",PH,11,14,14,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,71773821
+1960,Regular Season,Osaka Tigers,48,"Maeoka, Kinya",P,7,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71873802
+1960,Regular Season,Nishitetsu Lions,21,"Shimabara, Yukio",P,39,36,29,0.172,0.273,0.207,0.480,2,1,5,4,1,0,0,6,0,0,4,0,12,0,0,3,0,71973805
+1960,Regular Season,Osaka Tigers,35,"Doi, Yutaka",1B,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973806
+1960,Regular Season,Taiyo Whales,37,"Shimano, Masanobu",C,68,107,96,0.167,0.231,0.229,0.460,6,8,16,12,3,0,1,22,0,0,8,0,31,0,0,2,1,71973808
+1960,Regular Season,Toei Flyers,6,"Edie, Takei",SS,117,335,318,0.164,0.187,0.198,0.385,14,22,52,43,7,2,0,63,4,0,8,0,63,4,1,7,1,71973821
+1960,Regular Season,Toei Flyers,43,"Fukushima, Ikuo",P,5,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73373800
+1960,Regular Season,Chunichi Dragons,9,"Yoshizawa, Takeo",C,112,358,332,0.211,0.243,0.298,0.541,20,25,70,51,14,0,5,99,2,2,12,2,40,9,2,6,6,73573809
+1960,Japan Series,Taiyo Whales,39,"Doi, Kiyoshi",C,4,,12,0.167,,0.167,,,0,2,2,0,0,0,2,0,,2,,1,,,,,81083802
+1960,Regular Season,Taiyo Whales,39,"Doi, Kiyoshi",C,117,318,269,0.212,0.298,0.271,0.569,13,22,57,45,10,0,2,73,4,6,32,2,46,2,1,16,0,81083802
+1960,Regular Season,Nishitetsu Lions,45,"Hanai, Yu",RF,115,354,313,0.313,0.382,0.403,0.785,37,32,98,75,19,3,1,126,6,1,34,1,38,1,1,3,3,81083804
+1960,Regular Season,Osaka Tigers,14,"Honma, Masaru",P,47,62,55,0.145,0.161,0.164,0.325,5,2,8,7,1,0,0,9,0,0,1,0,10,1,0,6,0,81083806
+1960,Regular Season,Yomiuri Giants,22,"Fujimoto, Kensaku",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81083821
+1960,Regular Season,Kintetsu Buffalo,15,"Otsu, Mamoru",P,19,11,11,0.091,0.091,0.182,0.273,2,1,1,0,1,0,0,2,0,0,0,0,2,0,0,0,0,81183803
+1960,Regular Season,Osaka Tigers,38,"Ishida, Hirozo",PH,24,33,32,0.219,0.242,0.219,0.461,4,0,7,7,0,0,0,7,0,0,1,0,6,2,0,0,0,81183808
+1960,Regular Season,Kokutetsu Swallows,29,"Ishida, Masaaki",PH,10,13,11,0.273,0.333,0.273,0.606,0,1,3,3,0,0,0,3,0,0,1,1,0,1,0,0,1,81183809
+1960,Regular Season,Hankyu Braves,34,"Otsuka, Yuji",PH,2,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81183821
+1960,Regular Season,Yomiuri Giants,8,"Fujimoto, Shin",SS,85,196,177,0.203,0.258,0.232,0.490,15,9,36,32,3,1,0,41,2,2,12,0,36,3,1,6,0,81283804
+1960,Regular Season,Hiroshima Carp,16,"Bizen, Yoshio",P,33,42,36,0.167,0.250,0.167,0.417,1,2,6,6,0,0,0,6,0,0,4,0,10,0,0,2,0,81283805
+1960,Regular Season,Hiroshima Carp,9,"Morinaga, Katsuya",RF,108,269,238,0.223,0.297,0.328,0.625,27,24,53,37,11,1,4,78,4,2,24,4,23,1,1,1,5,81283806
+1960,Regular Season,Nishitetsu Lions,20,"Nishimura, Sadaaki",1B,3,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,81283807
+1960,Regular Season,Kintetsu Buffalo,18,"Mickens, Glenn",P,38,94,86,0.186,0.186,0.186,0.372,5,4,16,16,0,0,0,16,2,0,0,0,23,2,0,8,0,81283808
+1960,Regular Season,Kintetsu Buffalo,23,"Takuwa, Motoji",P,6,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81283809
+1960,Regular Season,Nankai Hawks,13,"Yamamoto, Hideichi",3B,43,57,57,0.211,0.211,0.316,0.527,3,6,12,8,3,0,1,18,0,1,0,0,14,0,0,0,0,81283821
+1960,Regular Season,Osaka Tigers,12,"Umemoto, Masayuki",P,20,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,81383802
+1960,Regular Season,Hankyu Braves,26,"Kureyama, Yoshio",LF,75,159,156,0.218,0.233,0.346,0.579,16,11,34,23,5,3,3,54,3,4,2,0,45,5,1,0,0,81383806
+1960,Regular Season,Yomiuri Giants,1,"Oh, Sadaharu",1B,130,502,426,0.270,0.376,0.448,0.824,49,71,115,76,19,3,17,191,5,4,67,5,101,7,5,3,1,81383808
+1960,Regular Season,Kintetsu Buffalo,45,"Kubo, Masahiro",P,4,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383821
+1960,Regular Season,Nishitetsu Lions,17,"Tamazukuri, Yoji",CF,134,486,445,0.263,0.320,0.382,0.702,61,39,117,86,16,8,7,170,16,9,32,1,57,5,5,2,2,81483800
+1960,Regular Season,Hankyu Braves,7,"Moroki, Motohiro",CF,121,466,424,0.288,0.341,0.373,0.714,38,54,122,100,14,2,6,158,12,8,33,2,75,5,1,4,4,81483804
+1960,Regular Season,Yomiuri Giants,9,"Fujio, Shigeru",CF,104,350,314,0.245,0.303,0.430,0.733,39,54,77,53,5,4,15,135,13,0,24,0,50,7,2,7,3,81483807
+1960,Japan Series,Taiyo Whales,21,"Okiyama, Terutoshi",LF,2,,3,0.333,,0.333,,,0,1,1,0,0,0,1,0,,0,,0,,,,,81583802
+1960,Regular Season,Taiyo Whales,21,"Okiyama, Terutoshi",LF,107,282,242,0.244,0.320,0.322,0.642,33,16,59,46,8,4,1,78,17,3,27,0,54,2,0,11,2,81583802
+1960,Regular Season,Kintetsu Buffalo,27,"Saida, Tadatoshi",RF,75,225,201,0.244,0.315,0.353,0.668,14,26,49,36,8,1,4,71,0,0,20,0,35,4,1,1,2,81583804
+1960,Regular Season,Hiroshima Carp,20,"Kawamura, Hisafumi",P,26,36,34,0.176,0.200,0.265,0.465,1,3,6,5,0,0,1,9,0,0,1,0,15,0,0,1,0,81583807
+1960,Regular Season,Chunichi Dragons,16,"Kawamura, Yasuhiko",P,40,12,11,0.091,0.091,0.091,0.182,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,1,0,81583808
+1960,Regular Season,Kintetsu Buffalo,28,"Kakurai, Minoru",CF,34,74,71,0.141,0.141,0.239,0.380,9,4,10,5,4,0,1,17,1,0,0,0,28,0,0,2,1,81583809
+1960,Regular Season,Mainichi Daiei Orions,14,"Sasaki, Katsutoshi",P,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583821
+1960,Japan Series,Taiyo Whales,25,"Nakamura, Toshiyuki",2B,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,81683800
+1960,Regular Season,Taiyo Whales,25,"Nakamura, Toshiyuki",2B,34,61,57,0.123,0.153,0.140,0.293,1,1,7,6,1,0,0,8,0,1,2,0,8,1,0,2,0,81683800
+1960,Regular Season,Osaka Tigers,5,"Fujimoto, Katsumi",1B,119,474,413,0.252,0.340,0.467,0.807,56,76,104,62,17,3,22,193,3,1,53,8,69,8,2,1,5,81683802
+1960,Regular Season,Osaka Tigers,25,"Yamamoto, Tetsuya",C,99,216,194,0.232,0.280,0.268,0.548,9,12,45,40,4,0,1,52,3,2,11,0,35,3,2,5,4,81683807
+1960,Regular Season,Hiroshima Carp,12,"Tanaka, Takashi",C,95,253,231,0.225,0.281,0.277,0.558,23,14,52,44,5,2,1,64,1,3,17,1,28,2,1,4,0,81783804
+1960,Regular Season,Toei Flyers,18,"Takano, Kazuhiko",P,32,42,39,0.077,0.077,0.154,0.231,1,1,3,1,1,1,0,6,0,0,0,0,21,3,0,3,0,81783806
+1960,Regular Season,Kintetsu Buffalo,12,"Kondo, Mitsuaki",P,8,6,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,1,0,81783808
+1960,Regular Season,Chunichi Dragons,41,"Takagi, Morimichi",2B,51,109,99,0.192,0.238,0.323,0.561,7,6,19,13,2,1,3,32,2,1,6,0,18,1,0,4,0,81783821
+1960,Regular Season,Toei Flyers,5,"Matsuoka, Masatoshi",2B,101,288,263,0.274,0.313,0.354,0.667,23,19,72,61,5,2,4,93,3,8,15,0,20,8,0,8,2,81883802
+1960,Japan Series,Mainichi Daiei Orions,31,"Sudo, Yutaka",PH,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,81983802
+1960,Regular Season,Mainichi Daiei Orions,31,"Sudo, Yutaka",PH,56,90,84,0.238,0.281,0.298,0.579,8,2,20,17,2,0,1,25,2,1,5,0,17,1,0,1,0,81983802
+1960,Regular Season,Yomiuri Giants,26,"Nakamura, Minoru",P,35,15,15,0.267,0.267,0.333,0.600,0,1,4,3,1,0,0,5,0,0,0,0,8,0,0,0,0,81983804
+1960,Regular Season,Yomiuri Giants,3,"Nagashima, Shigeo",3B,126,524,452,0.334,0.423,0.542,0.965,71,64,151,101,22,12,16,245,31,12,70,32,28,8,0,0,2,81983806
+1960,Japan Series,Taiyo Whales,11,"Suzuki, Takeshi",SS,4,,14,0.214,,0.214,,,1,3,3,0,0,0,3,2,,1,,1,,,,,81983807
+1960,Regular Season,Kintetsu Buffalo,7,"Suzuki, Takeshi",SS,20,46,44,0.114,0.114,0.136,0.250,4,1,5,4,1,0,0,6,0,0,0,0,4,0,0,2,0,81983807
+1960,Regular Season,Taiyo Whales,11,"Suzuki, Takeshi",SS,76,271,252,0.210,0.252,0.250,0.502,29,16,53,44,8,1,0,63,12,5,13,3,27,4,1,5,0,81983807
+1960,Regular Season,Mainichi Daiei Orions,2,"Komori, Kosei",PH,22,30,26,0.115,0.207,0.154,0.361,3,2,3,2,1,0,0,4,0,0,3,1,6,2,0,1,0,81983809
+1960,Regular Season,Taiyo Whales,27,"Nishiyama, Hidehito",C,3,4,4,0.250,0.250,0.500,0.750,0,0,1,0,1,0,0,2,0,0,0,0,1,0,0,0,0,81983821
+1960,Regular Season,Hankyu Braves,18,"Yoneda, Tetsuya",P,52,110,102,0.206,0.250,0.431,0.681,14,10,21,8,8,0,5,44,0,0,6,0,32,0,0,2,0,83183802
+1960,Regular Season,Toei Flyers,34,"Maruyama, Masami",C,22,44,39,0.333,0.395,0.410,0.805,1,2,13,10,3,0,0,16,0,1,4,0,7,2,0,1,0,83383800
+1960,Regular Season,Kokutetsu Swallows,1,"Sasaki, Shigenori",2B,60,116,110,0.218,0.246,0.236,0.482,8,3,24,22,2,0,0,26,2,2,3,0,17,2,1,1,1,91093800
+1960,Regular Season,Nishitetsu Lions,10,"Tanabe, Yoshizo",PH,84,164,156,0.244,0.276,0.353,0.629,11,13,38,27,8,0,3,55,1,0,7,0,25,6,0,0,1,91093802
+1960,Regular Season,Toei Flyers,22,"Takagi, Kimio",1B,73,149,132,0.189,0.241,0.220,0.461,9,4,25,23,1,0,1,29,2,6,9,0,17,0,0,7,1,91093805
+1960,Regular Season,Nankai Hawks,8,"Handa, Haruo",2B,123,434,384,0.258,0.317,0.362,0.679,42,32,99,75,15,2,7,139,9,5,33,1,52,7,0,11,4,91093806
+1960,Regular Season,Kokutetsu Swallows,11,"Tadokoro, Zenjiro",P,35,17,14,0.286,0.286,0.286,0.572,0,0,4,4,0,0,0,4,0,0,0,0,5,0,0,3,0,91093807
+1960,Regular Season,Nishitetsu Lions,35,"Nakajima, Junichi",P,50,48,42,0.048,0.091,0.048,0.139,3,0,2,2,0,0,0,2,0,0,2,0,23,0,0,4,0,91093808
+1960,Japan Series,Taiyo Whales,2,"Hamanaka, Yoshikazu",SS,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91093821
+1960,Regular Season,Taiyo Whales,2,"Hamanaka, Yoshikazu",SS,94,152,135,0.185,0.214,0.244,0.458,12,11,25,20,3,1,1,33,12,3,4,0,23,3,1,11,1,91093821
+1960,Regular Season,Osaka Tigers,3,"Asagoe, Keiichi",PH,18,21,21,0.048,0.048,0.048,0.096,0,0,1,1,0,0,0,1,0,0,0,0,7,2,0,0,0,91193800
+1960,Regular Season,Hankyu Braves,19,"Akimoto, Yusaku",P,38,41,40,0.050,0.050,0.050,0.100,1,0,2,2,0,0,0,2,0,0,0,0,13,0,0,1,0,91193802
+1960,Regular Season,Nankai Hawks,32,"Ito, Shiro",P,5,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91193803
+1960,Regular Season,Kokutetsu Swallows,6,"Akagi, Kenichi",PH,61,91,87,0.172,0.209,0.241,0.450,4,5,15,11,3,0,1,21,1,1,3,0,19,2,1,0,0,91193808
+1960,Regular Season,Kokutetsu Swallows,22,"Azuma, Satoyuki",PH,5,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91193821
+1960,Regular Season,Kokutetsu Swallows,23,"Iida, Tokuji",1B,127,459,419,0.272,0.333,0.368,0.701,46,40,114,91,13,3,7,154,7,3,37,3,61,12,1,1,1,91193894
+1960,Regular Season,Mainichi Daiei Orions,15,"Nishida, Toru",P,9,8,7,0.000,0.125,0.000,0.125,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,91293805
+1960,Regular Season,Osaka Tigers,22,"Furukawa, Keizo",C,4,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91293808
+1960,Regular Season,Hiroshima Carp,2,"Miyagawa, Takao",PH,41,58,53,0.170,0.241,0.226,0.467,2,3,9,6,3,0,0,12,0,1,2,0,8,1,3,0,0,91293821
+1960,Japan Series,Taiyo Whales,5,"Iwamoto, Takashi",LF,4,,5,0.200,,0.200,,,0,1,1,0,0,0,1,0,,2,,1,,,,,91393807
+1960,Regular Season,Taiyo Whales,5,"Iwamoto, Takashi",LF,116,341,316,0.231,0.275,0.326,0.601,36,20,73,50,18,3,2,103,6,11,17,1,40,4,2,6,0,91393807
+1960,Regular Season,Osaka Tigers,36,"Kaneko, Tetsuo",P,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393821
+1960,Regular Season,Toei Flyers,54,"Mizuno, Sadao",C,17,18,17,0.059,0.111,0.059,0.170,0,0,1,1,0,0,0,1,1,0,1,0,7,0,0,0,0,91493804
+1960,Regular Season,Toei Flyers,44,"Ladra, Jack",CF,103,363,335,0.245,0.295,0.358,0.653,40,32,82,57,16,5,4,120,14,5,22,2,71,6,2,2,2,91493806
+1960,Regular Season,Hiroshima Carp,24,"Harada, Shinkichi",PR,17,3,3,0.000,0.000,0.000,0.000,4,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,91493807
+1960,Regular Season,Hankyu Braves,5,"Okamoto, Kenichiro",1B,81,211,189,0.222,0.290,0.312,0.602,7,16,42,32,6,1,3,59,1,2,18,0,46,5,0,3,1,91593800
+1960,Regular Season,Osaka Tigers,19,"Otsu, Atsushi",LF,92,266,249,0.209,0.248,0.269,0.517,21,11,52,41,8,2,1,67,4,3,12,0,12,5,1,2,2,91593802
+1960,Regular Season,Taiyo Whales,44,"Koda, Masaru",P,24,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91593806
+1960,Regular Season,Hiroshima Carp,33,"Kako, Yasuhiro",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91593808
+1960,Regular Season,Toei Flyers,56,"Goto, Takeharu",PH,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91593821
+1960,Regular Season,Nishitetsu Lions,27,"Sekiguchi, Seiji",LF,106,374,344,0.262,0.308,0.398,0.706,43,34,90,62,18,1,9,137,0,0,22,0,65,10,1,4,3,91593896
+1960,Regular Season,Hiroshima Carp,35,"Higaki, Tadashi",PH,24,30,27,0.111,0.200,0.148,0.348,3,1,3,2,1,0,0,4,0,0,3,0,3,0,0,0,0,91693802
+1960,Regular Season,Osaka Tigers,16,"Miyake, Nobukazu",3B,130,546,480,0.271,0.351,0.435,0.786,61,51,130,82,29,7,12,209,29,13,57,7,69,10,2,4,2,91693807
+1960,Regular Season,Osaka Tigers,28,"Nishio, Shigetaka",P,33,28,24,0.125,0.192,0.125,0.317,3,1,3,3,0,0,0,3,0,0,2,0,6,0,0,2,0,91693809
+1960,Regular Season,Hiroshima Carp,6,"Kawahara, Masakazu",C,57,115,110,0.164,0.193,0.255,0.448,5,5,18,12,4,0,2,28,0,2,4,0,24,2,0,1,0,91793800
+1960,Regular Season,Taiyo Whales,28,"Shibano, Tadao",3B,20,26,21,0.143,0.280,0.286,0.566,4,3,3,2,0,0,1,6,1,1,4,0,7,0,0,0,1,91793804
+1960,Japan Series,Taiyo Whales,8,"Kuwata, Takeshi",3B,4,,15,0.200,,0.200,,,1,3,3,0,0,0,3,1,,1,,2,,,,,91793808
+1960,Regular Season,Taiyo Whales,8,"Kuwata, Takeshi",3B,114,443,392,0.301,0.376,0.497,0.873,50,67,118,80,15,7,16,195,16,3,44,12,72,10,3,0,4,91793808
+1960,Regular Season,Hankyu Braves,33,"Kajimoto, Takao",P,49,111,104,0.221,0.250,0.308,0.558,8,13,23,16,6,0,1,32,0,0,4,0,15,0,0,3,0,91793809
+1960,Regular Season,Nankai Hawks,6,"Stanka, Joe",P,45,88,80,0.175,0.214,0.263,0.477,6,5,14,11,1,0,2,21,0,0,4,0,32,1,0,4,0,91793821
+1960,Regular Season,Hankyu Braves,8,"Barbon, Chico",2B,116,433,387,0.225,0.292,0.289,0.581,52,22,87,68,14,4,1,112,32,11,34,1,54,4,3,8,1,91893800
+1960,Regular Season,Toei Flyers,37,"Makino, Noboru",P,11,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,91893802
+1960,Regular Season,Yomiuri Giants,2,"Hirooka, Tatsuro",SS,98,393,363,0.223,0.268,0.388,0.656,47,26,81,51,12,6,12,141,3,4,21,1,53,9,1,6,2,91893809
+1960,Regular Season,Kintetsu Buffalo,36,"Tsuta, Yukio",P,44,64,62,0.161,0.161,0.177,0.338,3,4,10,9,1,0,0,11,0,0,0,0,18,1,0,2,0,91993804
+1960,Regular Season,Nankai Hawks,36,"Shirano, Kiyomi",PH,11,11,10,0.200,0.273,0.200,0.473,0,0,2,2,0,0,0,2,0,0,1,0,4,1,0,0,0,91993808
+1960,Regular Season,Taiyo Whales,35,"Tomita, Takayoshi",RF,1,4,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,91993821
+1960,Regular Season,Kintetsu Buffalo,47,"Murata, Koichi",C,46,92,83,0.181,0.236,0.277,0.513,4,4,15,11,2,0,2,23,0,0,6,0,22,3,0,2,1,93193802
+1960,Regular Season,Hiroshima Carp,5,"Fujii, Hiromu",1B,86,195,164,0.238,0.349,0.427,0.776,18,23,39,24,7,0,8,70,5,4,24,0,46,3,4,3,0,93393800
+1960,Regular Season,Toei Flyers,24,"Tsukamoto, Etsuro",PH,41,65,61,0.213,0.262,0.262,0.524,6,3,13,10,3,0,0,16,0,1,4,1,10,1,0,0,0,93393801
+1960,Regular Season,Yomiuri Giants,40,"Miyamoto, Toshio",LF,112,333,290,0.228,0.313,0.362,0.675,32,25,66,45,11,2,8,105,2,5,29,2,41,11,7,5,2,93593800
+1960,Regular Season,Hiroshima Carp,21,"Yoneyama, Mitsuo",3B,100,243,204,0.235,0.333,0.299,0.632,23,13,48,37,10,0,1,61,3,1,25,1,30,2,5,9,0,93593809
+1960,Regular Season,Hankyu Braves,3,"Yamashita, Takeshi",C,95,224,198,0.172,0.248,0.237,0.485,18,10,34,24,8,1,1,47,0,0,19,0,70,1,1,6,0,93693801

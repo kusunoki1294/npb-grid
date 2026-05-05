@@ -1,0 +1,581 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+1979,Regular Season,Kintetsu Buffaloes,17,"Bando, Satomi",P,16,0.857,2,4,1,3,,01003821
+1979,Regular Season,Seibu Lions,10,"Nishizawa, Masaji",2B,1,0.000,0,0,0,0,,01003843
+1979,Regular Season,Seibu Lions,10,"Nishizawa, Masaji",3B,1,0.000,0,0,0,0,,01003843
+1979,Regular Season,Seibu Lions,10,"Nishizawa, Masaji",C,35,0.981,97,7,2,2,1,01003843
+1979,Regular Season,Hiroshima Toyo Carp,6,"Lyttle, Jim",OF,129,0.996,240,11,1,3,,01003844
+1979,Regular Season,Kintetsu Buffaloes,9,"Hirano, Mitsuyasu",OF,119,0.996,245,9,1,0,,01003845
+1979,Regular Season,Lotte Orions,7,"Lee, Leon",1B,127,0.993,1125,83,9,88,,01003846
+1979,Regular Season,Lotte Orions,7,"Lee, Leon",OF,3,1.000,2,0,0,0,,01003846
+1979,Regular Season,Nippon-Ham Fighters,33,"Murai, Hideshi",C,2,1.000,2,0,0,0,0,01003849
+1979,Regular Season,Nippon-Ham Fighters,33,"Murai, Hideshi",OF,22,0.952,19,1,1,0,,01003849
+1979,Regular Season,Hankyu Braves,5,"Inoe, Osamu",2B,2,0.778,2,5,2,0,,01103820
+1979,Regular Season,Hankyu Braves,5,"Inoe, Osamu",3B,4,0.750,3,3,2,0,,01103820
+1979,Regular Season,Hankyu Braves,5,"Inoe, Osamu",SS,73,0.960,94,146,10,31,,01103820
+1979,Regular Season,Nankai Hawks,5,"Ito, Isao",C,72,0.965,261,17,10,2,4,01103823
+1979,Regular Season,Nankai Hawks,5,"Ito, Isao",OF,2,0.667,2,0,1,0,,01103823
+1979,Regular Season,Yomiuri Giants,35,"Awaguchi, Kenji",OF,79,1.000,101,4,0,1,,01103843
+1979,Regular Season,Nippon-Ham Fighters,27,"Omiya, Tatsuo",C,46,0.988,142,23,2,3,1,01103844
+1979,Regular Season,Nippon-Ham Fighters,27,"Omiya, Tatsuo",OF,1,0.000,0,0,0,0,,01103844
+1979,Regular Season,Chunichi Dragons,31,"Ishii, Akio",OF,11,1.000,19,1,0,0,,01103846
+1979,Regular Season,Chunichi Dragons,27,"Okawara, Sakae",C,21,1.000,36,4,0,1,1,01103848
+1979,Regular Season,Hiroshima Toyo Carp,11,"Ikegaya, Kojiro",P,32,1.000,11,17,0,3,,01103849
+1979,Regular Season,Lotte Orions,34,"Kenmotsu, Takahiro",OF,30,1.000,29,0,0,0,,01303842
+1979,Regular Season,Hanshin Tigers,29,"Emoto, Takenori",P,47,0.977,8,35,1,2,,01303843
+1979,Regular Season,Yokohama Taiyo Whales,17,"Saito, Akio",P,37,0.983,15,42,1,4,,01303844
+1979,Regular Season,Yokohama Taiyo Whales,15,"Kadota, Fumiaki",P,1,0.000,0,0,0,0,,01303846
+1979,Regular Season,Lotte Orions,14,"Okue, Hideyuki",P,27,1.000,9,18,0,0,,01303847
+1979,Regular Season,Chunichi Dragons,46,"Kawamata, Yonetoshi",1B,2,1.000,10,0,0,0,,01303848
+1979,Regular Season,Chunichi Dragons,46,"Kawamata, Yonetoshi",OF,7,0.923,11,1,1,0,,01303848
+1979,Regular Season,Yomiuri Giants,46,"Omata, Susumu",P,21,1.000,0,2,0,0,,01303849
+1979,Regular Season,Hiroshima Toyo Carp,24,"Watanabe, Hiroki",P,9,1.000,0,3,0,0,,01403845
+1979,Regular Season,Hanshin Tigers,8,"Shimano, Ikuo",OF,22,1.000,13,0,0,0,,01503827
+1979,Regular Season,Chunichi Dragons,23,"Kimata, Tatsuhiko",C,126,0.995,683,65,4,9,3,01503829
+1979,Regular Season,Yokohama Taiyo Whales,35,"Tanaka, Yoshio",P,45,0.931,5,22,2,2,,01503842
+1979,Regular Season,Yakult Swallows,31,"Takahashi, Hiroshi",C,1,1.000,1,0,0,0,0,01503844
+1979,Regular Season,Nankai Hawks,39,"Kuroda, Masahiro",C,63,0.975,204,29,6,2,0,01503845
+1979,Regular Season,Yokohama Taiyo Whales,22,"Shimizu, Hiroyoshi",2B,8,0.938,1,14,1,1,,01503847
+1979,Regular Season,Yokohama Taiyo Whales,22,"Shimizu, Hiroyoshi",3B,2,1.000,1,1,0,0,,01503847
+1979,Regular Season,Hankyu Braves,34,"Suzuki, Koki",P,1,1.000,1,1,0,0,,01503848
+1979,Regular Season,Seibu Lions,19,"Nomura, Katsuya",C,59,0.960,300,37,14,6,4,01603809
+1979,Regular Season,Nippon-Ham Fighters,18,"Takahashi, Kazumi",P,18,1.000,2,6,0,0,,01703820
+1979,Regular Season,Nankai Hawks,1,"Sakurai, Teruhide",2B,37,0.972,64,110,5,30,,01703824
+1979,Regular Season,Yomiuri Giants,27,"Ninomiya, Itaru",OF,13,1.000,9,1,0,1,,01703844
+1979,Regular Season,Yakult Swallows,3,"Hilton, Dave",1B,3,1.000,19,0,0,1,,01703846
+1979,Regular Season,Yakult Swallows,3,"Hilton, Dave",2B,93,0.963,193,250,17,57,,01703846
+1979,Regular Season,Yakult Swallows,3,"Hilton, Dave",3B,6,0.957,10,12,1,3,,01703846
+1979,Regular Season,Yakult Swallows,3,"Hilton, Dave",OF,1,0.000,0,0,0,0,,01703846
+1979,Regular Season,Hanshin Tigers,58,"Nakamura, Norio",2B,1,0.000,0,0,0,0,,01703848
+1979,Regular Season,Hanshin Tigers,58,"Nakamura, Norio",3B,2,0.000,0,0,0,0,,01703848
+1979,Regular Season,Yokohama Taiyo Whales,2,"Nakatsuka, Masayuki",OF,109,1.000,212,3,0,0,,01903826
+1979,Regular Season,Seibu Lions,21,"Higashio, Osamu",P,23,0.907,8,41,5,4,,01903828
+1979,Regular Season,Yokohama Taiyo Whales,33,"Takahashi, Shigeyuki",P,33,0.960,2,22,1,1,,01903829
+1979,Regular Season,Lotte Orions,43,"Doi, Kenji",C,50,0.986,248,42,4,7,3,01903841
+1979,Regular Season,Yokohama Taiyo Whales,47,"Miura, Michio",P,2,1.000,1,1,0,1,,01903842
+1979,Regular Season,Yomiuri Giants,22,"Fujishiro, Kazuaki",P,27,0.929,2,11,1,0,,01903844
+1979,Regular Season,Chunichi Dragons,55,"Mizutani, Hiroaki",P,47,1.000,7,10,0,2,,01903848
+1979,Regular Season,Yomiuri Giants,7,"Shibata, Isao",OF,108,0.994,164,6,1,0,,11013825
+1979,Regular Season,Lotte Orions,16,"Mochizuki, Takuya",P,27,0.895,2,15,2,1,,11013844
+1979,Regular Season,Seibu Lions,18,"Narishige, Haruo",P,5,1.000,0,2,0,0,,11013845
+1979,Regular Season,Yomiuri Giants,15,"Yamakura, Kazuhiro",C,96,0.988,459,34,6,8,6,11013846
+1979,Regular Season,Hanshin Tigers,7,"Mayumi, Akinobu",SS,125,0.973,234,332,16,65,,11013847
+1979,Regular Season,Nankai Hawks,35,"Yoshida, Hiroyuki",C,2,0.500,1,0,1,0,0,11013848
+1979,Regular Season,Yokohama Taiyo Whales,34,"Yoneda, Keizaburo",1B,1,1.000,1,1,0,0,,11213826
+1979,Regular Season,Yokohama Taiyo Whales,34,"Yoneda, Keizaburo",2B,8,0.800,1,7,2,1,,11213826
+1979,Regular Season,Yokohama Taiyo Whales,34,"Yoneda, Keizaburo",3B,15,0.833,2,3,1,0,,11213826
+1979,Regular Season,Yokohama Taiyo Whales,34,"Yoneda, Keizaburo",SS,5,0.889,5,3,1,2,,11213826
+1979,Regular Season,Lotte Orions,46,"Yasuki, Shoji",P,32,1.000,5,22,0,2,,11213828
+1979,Regular Season,Hiroshima Toyo Carp,32,"Uchida, Junzo",OF,5,1.000,3,0,0,0,,11313841
+1979,Regular Season,Hiroshima Toyo Carp,5,"Garrett, Adrian",OF,120,0.975,186,6,5,1,,11313844
+1979,Regular Season,Hiroshima Toyo Carp,45,"Oka, Yoshiaki",OF,81,1.000,42,5,0,0,,11313845
+1979,Regular Season,Nippon-Ham Fighters,41,"Eda, Koichi",P,10,1.000,0,2,0,0,,11313847
+1979,Regular Season,Seibu Lions,56,"Kakura, Kazuma",OF,24,1.000,21,1,0,0,,11313848
+1979,Regular Season,Yakult Swallows,28,"Yaegashi, Yukio",1B,1,1.000,2,0,0,0,,11413843
+1979,Regular Season,Yakult Swallows,28,"Yaegashi, Yukio",C,58,0.994,278,30,2,3,2,11413843
+1979,Regular Season,Hanshin Tigers,25,"Yamamoto, Kazuyuki",OF,1,0.000,0,0,0,0,,11413845
+1979,Regular Season,Hanshin Tigers,25,"Yamamoto, Kazuyuki",P,49,0.962,3,22,1,3,,11413845
+1979,Regular Season,Hankyu Braves,29,"Kawamura, Kenichiro",1B,3,1.000,24,1,0,1,,11513845
+1979,Regular Season,Hankyu Braves,29,"Kawamura, Kenichiro",C,14,1.000,56,2,0,0,1,11513845
+1979,Regular Season,Hankyu Braves,26,"Kobayashi, Shinya",OF,6,1.000,3,0,0,0,,11513846
+1979,Regular Season,Hanshin Tigers,31,"Kakefu, Masayuki",3B,122,0.972,114,230,10,13,,11513849
+1979,Regular Season,Yakult Swallows,1,"Wakamatsu, Tsutomu",OF,114,0.995,201,3,1,2,,11613843
+1979,Regular Season,Lotte Orions,31,"Suenaga, Yoshiyuki",2B,3,1.000,1,5,0,0,,11713826
+1979,Regular Season,Kintetsu Buffaloes,34,"Murata, Tatsumi",P,43,0.970,10,54,2,6,,11713840
+1979,Regular Season,Hiroshima Toyo Carp,2,"Takahashi, Yoshihiko",SS,120,0.963,197,326,20,64,,11713842
+1979,Regular Season,Yomiuri Giants,5,"Kono, Kazumasa",SS,128,0.966,214,362,20,75,,11713843
+1979,Regular Season,Hiroshima Toyo Carp,21,"Doi, Masashi",P,2,0.000,0,0,0,0,,11713844
+1979,Regular Season,Nankai Hawks,31,"Sakata, Takashi",OF,17,1.000,11,1,0,0,,11713845
+1979,Regular Season,Chunichi Dragons,9,"Taniki, Kyohei",OF,67,0.968,86,4,3,1,,11713847
+1979,Regular Season,Nankai Hawks,23,"Takayanagi, Hideki",OF,41,0.987,70,4,1,0,,11713848
+1979,Regular Season,Yakult Swallows,25,"Funada, Kazuhide",2B,32,0.993,62,86,1,25,,11813825
+1979,Regular Season,Yakult Swallows,25,"Funada, Kazuhide",3B,64,0.951,53,120,9,11,,11813825
+1979,Regular Season,Yakult Swallows,25,"Funada, Kazuhide",SS,13,0.984,22,39,1,6,,11813825
+1979,Regular Season,Hanshin Tigers,2,"Takenochi, Masashi",1B,1,1.000,1,0,0,0,,11913826
+1979,Regular Season,Hanshin Tigers,2,"Takenochi, Masashi",OF,110,0.974,149,2,4,1,,11913826
+1979,Regular Season,Nippon-Ham Fighters,3,"Tomita, Masaru",OF,125,0.982,206,11,4,3,,11913828
+1979,Regular Season,Nankai Hawks,26,"Fujita, Manabu",P,8,1.000,0,6,0,0,,11913842
+1979,Regular Season,Lotte Orions,41,"Hirata, Hideyuki",P,4,0.000,0,0,0,0,,11913844
+1979,Regular Season,Yokohama Taiyo Whales,11,"Takeuchi, Hiroaki",P,30,0.900,5,13,2,2,,11913845
+1979,Regular Season,Hiroshima Toyo Carp,19,"Niimi, Satoshi",P,3,1.000,0,2,0,0,,11913847
+1979,Regular Season,Yokohama Taiyo Whales,20,"Masumoto, Hiroshi",P,1,1.000,0,1,0,0,,11913848
+1979,Regular Season,Seibu Lions,6,"Suzuki, Haruhiko",1B,26,0.982,159,3,3,15,,11913849
+1979,Regular Season,Yokohama Taiyo Whales,10,"Fukushima, Hisaaki",C,107,0.992,599,43,5,8,8,21023824
+1979,Regular Season,Nippon-Ham Fighters,16,"Miyamoto, Yukinobu",P,17,1.000,1,0,0,0,,21023826
+1979,Regular Season,Lotte Orions,5,"Lee, Leron",OF,16,0.960,24,0,1,0,,21023844
+1979,Regular Season,Lotte Orions,3,"Hirota, Sumio",OF,96,0.990,196,10,2,2,,21023845
+1979,Regular Season,Yakult Swallows,16,"Miura, Masaki",P,4,1.000,1,2,0,0,,21023847
+1979,Regular Season,Seibu Lions,30,"Ihara, Haruki",1B,7,1.000,8,0,0,0,,21123843
+1979,Regular Season,Seibu Lions,30,"Ihara, Haruki",2B,10,1.000,7,9,0,1,,21123843
+1979,Regular Season,Seibu Lions,30,"Ihara, Haruki",3B,43,0.933,5,37,3,3,,21123843
+1979,Regular Season,Seibu Lions,30,"Ihara, Haruki",SS,28,0.968,22,39,2,8,,21123843
+1979,Regular Season,Seibu Lions,27,"Ohara, Tetsuya",2B,30,0.965,26,29,2,9,,21123848
+1979,Regular Season,Seibu Lions,27,"Ohara, Tetsuya",3B,1,0.000,0,0,0,0,,21123848
+1979,Regular Season,Seibu Lions,27,"Ohara, Tetsuya",SS,56,0.924,58,75,11,11,,21123848
+1979,Regular Season,Yokohama Taiyo Whales,5,"Motoi, Mitsuo",2B,46,0.981,60,95,3,23,,21223824
+1979,Regular Season,Yokohama Taiyo Whales,5,"Motoi, Mitsuo",3B,70,0.907,51,95,15,16,,21223824
+1979,Regular Season,Yokohama Taiyo Whales,5,"Motoi, Mitsuo",SS,4,0.889,4,4,1,0,,21223824
+1979,Regular Season,Nankai Hawks,50,"Horii, Kazuto",OF,26,1.000,16,0,0,0,,21223841
+1979,Regular Season,Yokohama Taiyo Whales,51,"Saito, Ko",3B,1,0.000,0,0,0,0,,21323844
+1979,Regular Season,Kintetsu Buffaloes,16,"Kubo, Yasuo",P,5,0.000,0,0,0,0,,21323846
+1979,Regular Season,Chunichi Dragons,3,"Garrett, Wayne",2B,1,1.000,2,3,0,0,,21323848
+1979,Regular Season,Chunichi Dragons,3,"Garrett, Wayne",3B,115,0.944,119,216,20,23,,21323848
+1979,Regular Season,Hankyu Braves,20,"Shiraishi, Shizuo",P,20,0.966,6,22,1,2,,21523822
+1979,Regular Season,Seibu Lions,1,"Tyrone, Jim",OF,58,0.976,120,4,3,2,,21523848
+1979,Regular Season,Seibu Lions,29,"Kusuki, Toru",C,23,0.978,75,13,2,3,2,21523849
+1979,Regular Season,Seibu Lions,29,"Kusuki, Toru",OF,2,0.000,0,0,0,0,,21523849
+1979,Regular Season,Seibu Lions,29,"Kusuki, Toru",SS,1,1.000,1,0,0,0,,21523849
+1979,Regular Season,Lotte Orions,1,"Takahashi, Hiroshi",C,66,0.997,293,27,1,7,4,21723820
+1979,Regular Season,Hankyu Braves,25,"Takai, Yasuhiro",1B,36,0.983,288,8,5,28,,21723822
+1979,Regular Season,Yokohama Taiyo Whales,8,"Tsuji, Yasuhiko",C,55,0.992,218,20,2,1,3,21723827
+1979,Regular Season,Yokohama Taiyo Whales,14,"Sato, Michio",P,43,1.000,1,12,0,1,,21723841
+1979,Regular Season,Lotte Orions,20,"Nishina, Tokinari",P,30,0.980,8,40,1,5,,21723844
+1979,Regular Season,Yakult Swallows,9,"Sugiura, Toru",1B,29,0.995,188,13,1,26,,21723845
+1979,Regular Season,Yakult Swallows,9,"Sugiura, Toru",OF,106,0.981,145,10,3,1,,21723845
+1979,Regular Season,Nankai Hawks,34,"Hirasawa, Takayoshi",P,33,1.000,2,5,0,0,,21723846
+1979,Regular Season,Yakult Swallows,20,"Harada, Sueki",P,4,1.000,0,1,0,0,,21723848
+1979,Regular Season,Seibu Lions,7,"Hirose, Osamu",2B,28,1.000,32,60,0,13,,21923828
+1979,Regular Season,Seibu Lions,7,"Hirose, Osamu",3B,23,0.953,17,24,2,2,,21923828
+1979,Regular Season,Seibu Lions,7,"Hirose, Osamu",SS,33,0.972,34,36,2,9,,21923828
+1979,Regular Season,Lotte Orions,23,"Mizukami, Yoshio",SS,126,0.962,178,298,19,59,,21923842
+1979,Regular Season,Hankyu Braves,35,"Tanioka, Kiyoshi",3B,12,1.000,3,9,0,2,,21923843
+1979,Regular Season,Hankyu Braves,35,"Tanioka, Kiyoshi",SS,7,0.867,4,9,2,1,,21923843
+1979,Regular Season,Kintetsu Buffaloes,40,"Fujise, Shiro",OF,14,1.000,8,0,0,0,,21923844
+1979,Regular Season,Hanshin Tigers,14,"Nakamura, Katsuhiro",1B,24,0.996,212,16,1,21,,21923845
+1979,Regular Season,Hanshin Tigers,14,"Nakamura, Katsuhiro",2B,27,0.983,50,68,2,14,,21923845
+1979,Regular Season,Nankai Hawks,18,"Murakami, Yukihiro",P,34,0.900,3,15,2,1,,21923846
+1979,Regular Season,Chunichi Dragons,28,"Miyako, Yujiro",P,25,0.909,2,8,1,0,,21923848
+1979,Regular Season,Nankai Hawks,45,"Fujisawa, Tetsuya",P,1,0.000,0,0,0,0,,21923849
+1979,Regular Season,Hanshin Tigers,6,"Fujita, Taira",1B,8,1.000,84,3,0,9,,31033822
+1979,Regular Season,Nankai Hawks,7,"Fujiwara, Mitsuru",1B,1,1.000,7,1,0,0,,31033828
+1979,Regular Season,Nankai Hawks,7,"Fujiwara, Mitsuru",3B,108,0.942,105,185,18,12,,31033828
+1979,Regular Season,Yakult Swallows,42,"Nishii, Tetsuo",P,43,1.000,3,13,0,1,,31033841
+1979,Regular Season,Yomiuri Giants,44,"Yamamoto, Koji",1B,46,0.988,150,10,2,15,,31033842
+1979,Regular Season,Yomiuri Giants,44,"Yamamoto, Koji",OF,49,1.000,63,2,0,0,,31033842
+1979,Regular Season,Nankai Hawks,22,"Moriguchi, Masumitsu",P,32,0.889,2,22,3,2,,31033844
+1979,Regular Season,Hiroshima Toyo Carp,23,"Yamasaki, Ryuzo",2B,16,0.956,25,40,3,6,,31033846
+1979,Regular Season,Hiroshima Toyo Carp,23,"Yamasaki, Ryuzo",3B,1,0.000,0,0,0,0,,31033846
+1979,Regular Season,Hiroshima Toyo Carp,23,"Yamasaki, Ryuzo",SS,4,1.000,11,11,0,6,,31033846
+1979,Regular Season,Seibu Lions,46,"Masukawa, Maiku",SS,5,0.786,4,7,3,3,,31033847
+1979,Regular Season,Yakult Swallows,58,"Ramoto, Shinji",2B,3,1.000,3,1,0,1,,31033848
+1979,Regular Season,Yakult Swallows,58,"Ramoto, Shinji",3B,2,1.000,0,1,0,0,,31033848
+1979,Regular Season,Kintetsu Buffaloes,38,"Abe, Narihiro",OF,75,0.991,106,2,1,1,,31133820
+1979,Regular Season,Yakult Swallows,50,"Aoki, Minoru",OF,32,1.000,22,1,0,0,,31133842
+1979,Regular Season,Yakult Swallows,12,"Aida, Teruo",P,8,1.000,0,2,0,0,,31133843
+1979,Regular Season,Chunichi Dragons,7,"Uno, Masaru",SS,121,0.948,175,282,25,70,,31133844
+1979,Regular Season,Kintetsu Buffaloes,41,"Arnold, Chris",1B,44,0.997,301,14,1,25,,31133846
+1979,Regular Season,Kintetsu Buffaloes,41,"Arnold, Chris",2B,81,0.982,131,194,6,49,,31133846
+1979,Regular Season,Kintetsu Buffaloes,41,"Arnold, Chris",OF,8,0.917,11,0,1,0,,31133846
+1979,Regular Season,Yomiuri Giants,40,"Akamine, Kenyu",P,1,0.000,0,0,0,0,,31133848
+1979,Regular Season,Yomiuri Giants,10,"Harimoto, Isao",OF,66,0.958,67,2,3,0,,31233808
+1979,Regular Season,Nankai Hawks,20,"Yamauchi, Shinichi",P,30,0.942,7,42,3,3,,31233828
+1979,Regular Season,Lotte Orions,9,"Ejima, Takumi",OF,70,0.974,74,2,2,0,,31333826
+1979,Regular Season,Nippon-Ham Fighters,42,"Kawahara, Shoji",P,10,1.000,0,4,0,0,,31333842
+1979,Regular Season,Hankyu Braves,18,"Inaba, Mitsuo",P,23,0.951,8,31,2,4,,31333843
+1979,Regular Season,Nankai Hawks,33,"Kubodera, Yuji",3B,1,1.000,1,4,0,0,,31333844
+1979,Regular Season,Nankai Hawks,33,"Kubodera, Yuji",OF,51,0.988,82,3,1,0,,31333844
+1979,Regular Season,Nankai Hawks,33,"Kubodera, Yuji",SS,31,0.986,47,92,2,21,,31333844
+1979,Regular Season,Yomiuri Giants,21,"Kato, Hajime",P,36,0.962,6,19,1,1,,31333845
+1979,Regular Season,Yakult Swallows,32,"Obana, Takao",P,36,1.000,5,28,0,3,,31333846
+1979,Regular Season,Yokohama Taiyo Whales,29,"Kato, Hidemi",P,10,1.000,0,2,0,0,,31333848
+1979,Regular Season,Seibu Lions,2,"Yamazaki, Hiroyuki",2B,78,0.973,152,203,10,43,,31433820
+1979,Regular Season,Seibu Lions,17,"Yamashita, Ritsuo",P,31,0.966,4,24,1,1,,31433824
+1979,Regular Season,Chunichi Dragons,21,"Matsumoto, Yukitsura",P,22,1.000,5,14,0,1,,31433841
+1979,Regular Season,Seibu Lions,26,"Nemoto, Takashi",P,8,1.000,0,1,0,0,,31533840
+1979,Regular Season,Lotte Orions,55,"Shinya, Yoshitaka",1B,2,1.000,13,3,0,0,,31533842
+1979,Regular Season,Lotte Orions,55,"Shinya, Yoshitaka",OF,32,1.000,32,1,0,0,,31533842
+1979,Regular Season,Nippon-Ham Fighters,24,"Shimada, Makoto",OF,129,0.997,305,6,1,1,,31533844
+1979,Regular Season,Chunichi Dragons,34,"Komatsu, Tatsuo",P,54,1.000,3,15,0,1,,31533846
+1979,Regular Season,Chunichi Dragons,4,"Jones, Bobby",1B,15,0.992,116,3,1,12,,31533848
+1979,Regular Season,Chunichi Dragons,4,"Jones, Bobby",OF,95,1.000,180,2,0,0,,31533848
+1979,Regular Season,Chunichi Dragons,41,"Yazawa, Kenichi",1B,2,1.000,4,0,0,0,,31633841
+1979,Regular Season,Kintetsu Buffaloes,1,"Suzuki, Keishi",P,24,1.000,2,27,0,3,,31733822
+1979,Regular Season,Lotte Orions,40,"Moriyama, Masayoshi",OF,9,1.000,11,0,0,0,,31733840
+1979,Regular Season,Kintetsu Buffaloes,53,"Tani, Hiroaki",P,3,0.000,0,0,0,0,,31733842
+1979,Regular Season,Nippon-Ham Fighters,20,"Saeki, Kazushi",P,28,0.982,16,38,1,2,,31733843
+1979,Regular Season,Yomiuri Giants,11,"Sipin, John",1B,5,1.000,15,2,0,1,,31733845
+1979,Regular Season,Yomiuri Giants,11,"Sipin, John",2B,106,0.985,231,241,7,57,,31733845
+1979,Regular Season,Yomiuri Giants,11,"Sipin, John",OF,22,1.000,13,0,0,0,,31733845
+1979,Regular Season,Yakult Swallows,33,"Torihara, Koji",P,6,1.000,0,4,0,1,,31733846
+1979,Regular Season,Kintetsu Buffaloes,13,"Toki, Kinya",P,1,0.000,0,0,0,0,,31733848
+1979,Regular Season,Nankai Hawks,32,"Sasaki, Koichiro",P,38,0.970,4,28,1,1,,31933825
+1979,Regular Season,Nippon-Ham Fighters,23,"Nakahara, Masatoshi",2B,14,1.000,7,10,0,1,,31933828
+1979,Regular Season,Nippon-Ham Fighters,23,"Nakahara, Masatoshi",3B,8,1.000,2,7,0,0,,31933828
+1979,Regular Season,Nippon-Ham Fighters,23,"Nakahara, Masatoshi",SS,6,1.000,3,2,0,2,,31933828
+1979,Regular Season,Nankai Hawks,16,"Sugita, Hisao",P,36,1.000,3,25,0,2,,31933843
+1979,Regular Season,Hanshin Tigers,51,"Takeda, Masafumi",P,7,1.000,0,3,0,0,,31933845
+1979,Regular Season,Nippon-Ham Fighters,5,"Furuya, Hideo",3B,106,0.977,73,266,8,20,,31933846
+1979,Regular Season,Kintetsu Buffaloes,3,"Hada, Koichi",1B,4,0.933,11,3,1,1,,31933847
+1979,Regular Season,Kintetsu Buffaloes,3,"Hada, Koichi",3B,111,0.943,78,236,19,29,,31933847
+1979,Regular Season,Lotte Orions,29,"Murata, Choji",P,37,0.967,16,43,2,5,,41043826
+1979,Regular Season,Nippon-Ham Fighters,37,"Murakami, Masanori",P,45,1.000,5,21,0,2,,41043827
+1979,Regular Season,Lotte Orions,10,"Mizutani, Norihiro",P,33,0.941,9,23,2,1,,41043828
+1979,Regular Season,Hiroshima Toyo Carp,28,"Hagiwara, Yasuhiro",1B,14,0.990,93,11,1,4,,41043841
+1979,Regular Season,Hiroshima Toyo Carp,28,"Hagiwara, Yasuhiro",OF,20,1.000,10,0,0,0,,41043841
+1979,Regular Season,Yokohama Taiyo Whales,3,"Noguchi, Yoshio",OF,19,1.000,11,0,0,0,,41043843
+1979,Regular Season,Lotte Orions,4,"Yano, Toshikazu",1B,1,1.000,3,1,0,1,,41043847
+1979,Regular Season,Lotte Orions,4,"Yano, Toshikazu",OF,48,1.000,56,1,0,1,,41043847
+1979,Regular Season,Yokohama Taiyo Whales,1,"Yamashita, Daisuke",SS,129,0.977,233,359,14,70,,41043849
+1979,Regular Season,Yomiuri Giants,37,"Ishii, Shigeo",P,15,0.818,3,6,2,0,,41143806
+1979,Regular Season,Nankai Hawks,8,"Kono, Takayuki",2B,104,0.975,194,311,13,65,,41143840
+1979,Regular Season,Nankai Hawks,8,"Kono, Takayuki",3B,25,0.986,22,49,1,4,,41143840
+1979,Regular Season,Hanshin Tigers,46,"Oshima, Tadakazu",1B,3,1.000,7,1,0,1,,41143842
+1979,Regular Season,Hanshin Tigers,46,"Oshima, Tadakazu",C,2,0.857,6,0,1,0,0,41143842
+1979,Regular Season,Hanshin Tigers,33,"Ikeuchi, Yutaka",OF,1,0.000,0,0,0,0,,41143843
+1979,Regular Season,Hanshin Tigers,33,"Ikeuchi, Yutaka",P,54,0.933,3,25,2,0,,41143843
+1979,Regular Season,Yomiuri Giants,31,"Kasama, Yuji",C,20,1.000,44,5,0,1,1,41143844
+1979,Regular Season,Chunichi Dragons,35,"Ito, Yasunori",1B,2,1.000,7,2,0,1,,41143847
+1979,Regular Season,Chunichi Dragons,35,"Ito, Yasunori",3B,3,1.000,5,9,0,1,,41143847
+1979,Regular Season,Chunichi Dragons,35,"Ito, Yasunori",OF,27,0.931,27,0,2,0,,41143847
+1979,Regular Season,Nankai Hawks,42,"Ortenzio, Frank",OF,50,0.950,91,4,5,2,,41143848
+1979,Regular Season,Lotte Orions,27,"Yagisawa, Soroku",P,28,0.923,0,12,1,0,,41243824
+1979,Regular Season,Seibu Lions,23,"Furusawa, Kenji",P,29,0.912,6,25,3,0,,41243829
+1979,Regular Season,Nippon-Ham Fighters,19,"Mashiba, Shigekuni",P,35,0.976,13,27,1,0,,41243841
+1979,Regular Season,Yakult Swallows,8,"Osugi, Katsuo",1B,112,0.993,1003,62,7,101,,41343820
+1979,Regular Season,Hiroshima Toyo Carp,26,"Enatsu, Yutaka",P,55,0.947,4,14,1,1,,41343824
+1979,Regular Season,Chunichi Dragons,16,"Tsuchiya, Masakatsu",P,31,0.962,8,17,1,2,,41343840
+1979,Regular Season,Yakult Swallows,27,"Oya, Akihiko",C,92,0.993,491,44,4,5,1,41343841
+1979,Regular Season,Lotte Orions,26,"Koga, Masaaki",P,20,0.941,3,13,1,0,,41343842
+1979,Regular Season,Yakult Swallows,18,"Sakai, Keiichi",P,24,0.933,2,12,1,2,,41343844
+1979,Regular Season,Nankai Hawks,21,"Kaneshiro, Motoyasu",P,53,1.000,3,17,0,3,,41343845
+1979,Regular Season,Hanshin Tigers,26,"Kudo, Kazuhiko",P,31,1.000,5,14,0,1,,41343846
+1979,Regular Season,Nippon-Ham Fighters,6,"Kashiwabara, Junichi",1B,123,0.996,1309,86,5,101,,41343847
+1979,Regular Season,Yomiuri Giants,19,"Kreuger, Rick",P,18,1.000,1,5,0,0,,41343848
+1979,Regular Season,Hankyu Braves,4,"Marcano, Bobby",2B,126,0.975,251,425,17,92,,41543840
+1979,Regular Season,Nankai Hawks,14,"Tamura, Masao",P,24,1.000,4,11,0,0,,41543842
+1979,Regular Season,Chunichi Dragons,36,"Komatsu, Kenji",OF,3,0.000,0,0,0,0,,41543843
+1979,Regular Season,Seibu Lions,34,"Tachibana, Yoshiie",OF,118,0.992,237,5,2,0,,41543846
+1979,Regular Season,Chunichi Dragons,29,"Suzuki, Takamasa",P,24,1.000,1,8,0,2,,41543847
+1979,Regular Season,Hankyu Braves,59,"Tanaka, Akira",2B,1,0.000,0,0,0,0,,41543848
+1979,Regular Season,Hankyu Braves,59,"Tanaka, Akira",3B,1,1.000,0,1,0,0,,41543848
+1979,Regular Season,Kintetsu Buffaloes,2,"Kurihashi, Shigeru",OF,129,0.970,188,7,6,3,,41543849
+1979,Regular Season,Hiroshima Toyo Carp,36,"Watanabe, Hidetake",P,47,1.000,5,27,0,3,,41643829
+1979,Regular Season,Yomiuri Giants,8,"Takada, Shigeru",3B,52,0.967,53,95,5,9,,41743826
+1979,Regular Season,Yomiuri Giants,8,"Takada, Shigeru",OF,46,0.957,41,4,2,0,,41743826
+1979,Regular Season,Nippon-Ham Fighters,9,"Sendo, Mikio",OF,16,0.929,12,1,1,0,,41743845
+1979,Regular Season,Yomiuri Giants,25,"Hirata, Kaoru",1B,1,0.000,0,0,0,0,,41743846
+1979,Regular Season,Yomiuri Giants,25,"Hirata, Kaoru",2B,37,0.978,48,42,2,10,,41743846
+1979,Regular Season,Yomiuri Giants,25,"Hirata, Kaoru",3B,2,1.000,0,1,0,0,,41743846
+1979,Regular Season,Kintetsu Buffaloes,30,"Nagao, Yasunori",2B,87,0.984,146,163,5,47,,41743847
+1979,Regular Season,Kintetsu Buffaloes,30,"Nagao, Yasunori",3B,42,0.950,22,54,4,4,,41743847
+1979,Regular Season,Kintetsu Buffaloes,30,"Nagao, Yasunori",SS,17,1.000,17,39,0,11,,41743847
+1979,Regular Season,Lotte Orions,17,"Fukuma, Osamu",P,19,0.941,4,12,1,3,,41743848
+1979,Regular Season,Yokohama Taiyo Whales,25,"Matsubara, Makoto",1B,118,0.995,996,71,5,82,,41843825
+1979,Regular Season,Yokohama Taiyo Whales,25,"Matsubara, Makoto",2B,3,1.000,2,5,0,1,,41843825
+1979,Regular Season,Yokohama Taiyo Whales,25,"Matsubara, Makoto",3B,1,1.000,0,2,0,0,,41843825
+1979,Regular Season,Seibu Lions,9,"Hasegawa, Kazuo",OF,36,0.981,53,0,1,0,,41943827
+1979,Regular Season,Hankyu Braves,24,"Minoda, Koji",OF,125,0.996,251,8,1,0,,41943842
+1979,Regular Season,Hanshin Tigers,15,"Tanimura, Tomohiro",P,8,1.000,0,3,0,0,,41943843
+1979,Regular Season,Hanshin Tigers,21,"Masuyama, Seikyoku",P,34,0.962,3,22,1,4,,41943844
+1979,Regular Season,Seibu Lions,31,"Nagai, Tamotsu",P,63,0.941,6,26,2,3,,41943845
+1979,Regular Season,Nankai Hawks,17,"May, Carlos",OF,102,0.958,176,6,8,1,,41943846
+1979,Regular Season,Seibu Lions,11,"Mori, Shigekazu",P,43,0.969,10,52,2,2,,41943848
+1979,Regular Season,Chunichi Dragons,40,"Fujinami, Yukio",OF,101,0.985,129,3,2,1,,41943849
+1979,Regular Season,Hankyu Braves,40,"Hirabayashi, Jiro",2B,8,1.000,6,17,0,6,,51053824
+1979,Regular Season,Hankyu Braves,40,"Hirabayashi, Jiro",3B,2,0.000,0,0,0,0,,51053824
+1979,Regular Season,Hankyu Braves,40,"Hirabayashi, Jiro",SS,6,1.000,0,7,0,0,,51053824
+1979,Regular Season,Chunichi Dragons,20,"Hoshino, Senichi",P,28,0.957,7,38,2,9,,51053828
+1979,Regular Season,Chunichi Dragons,18,"Toda, Yoshinori",P,16,1.000,3,12,0,2,,51053829
+1979,Regular Season,Nippon-Ham Fighters,4,"Yukizawa, Hisataka",OF,1,0.000,0,0,0,0,,51053842
+1979,Regular Season,Nippon-Ham Fighters,4,"Yukizawa, Hisataka",SS,5,1.000,2,2,0,1,,51053842
+1979,Regular Season,Seibu Lions,8,"Yukizawa, Hisataka",SS,68,0.982,109,170,5,28,,51053842
+1979,Regular Season,Hiroshima Toyo Carp,35,"Yamane, Kazuo",P,27,0.976,16,24,1,1,,51053844
+1979,Regular Season,Yokohama Taiyo Whales,30,"Iida, Yukio",OF,15,0.950,18,1,1,0,,51153822
+1979,Regular Season,Hanshin Tigers,18,"Aniya, Sohachi",P,12,1.000,1,4,0,0,,51153829
+1979,Regular Season,Nankai Hawks,6,"Arai, Hiromasa",OF,113,0.989,257,10,3,4,,51153840
+1979,Regular Season,Lotte Orions,32,"Arai, Masanori",1B,2,1.000,2,0,0,0,,51153841
+1979,Regular Season,Lotte Orions,32,"Arai, Masanori",2B,35,0.980,66,84,3,20,,51153841
+1979,Regular Season,Lotte Orions,32,"Arai, Masanori",3B,8,1.000,3,8,0,0,,51153841
+1979,Regular Season,Lotte Orions,32,"Arai, Masanori",SS,5,1.000,0,3,0,0,,51153841
+1979,Regular Season,Chunichi Dragons,39,"Aoyama, Hisato",P,8,1.000,0,1,0,0,,51153842
+1979,Regular Season,Yokohama Taiyo Whales,23,"Okawa, Hiroshi",P,19,1.000,1,2,0,0,,51153844
+1979,Regular Season,Nippon-Ham Fighters,14,"Uda, Toshoku",P,39,1.000,5,32,0,2,,51153845
+1979,Regular Season,Yakult Swallows,29,"Ashizawa, Masaru",C,3,0.875,4,3,1,0,0,51153846
+1979,Regular Season,Nankai Hawks,43,"Iwaki, Satoshi",C,11,0.976,33,7,1,2,1,51153848
+1979,Regular Season,Hiroshima Toyo Carp,9,"Mimura, Toshiyuki",2B,89,0.991,137,200,3,43,,51253824
+1979,Regular Season,Hiroshima Toyo Carp,9,"Mimura, Toshiyuki",3B,58,0.980,27,71,2,3,,51253824
+1979,Regular Season,Hankyu Braves,17,"Yamada, Hisashi",P,36,0.971,12,55,2,11,,51253828
+1979,Regular Season,Hiroshima Toyo Carp,18,"Fukushi, Hiroaki",P,37,0.977,12,30,1,3,,51253841
+1979,Regular Season,Hanshin Tigers,39,"Wakana, Yoshiharu",C,112,0.993,694,53,5,3,17,51253849
+1979,Regular Season,Yokohama Taiyo Whales,19,"Ejiri, Akira",OF,4,1.000,3,0,0,0,,51353820
+1979,Regular Season,Kintetsu Buffaloes,27,"Ikebe, Takenori",1B,2,1.000,21,0,0,2,,51353825
+1979,Regular Season,Kintetsu Buffaloes,27,"Ikebe, Takenori",OF,53,0.982,56,0,1,0,,51353825
+1979,Regular Season,Kintetsu Buffaloes,7,"Ogawa, Toru",1B,114,0.996,1017,54,4,96,,51353826
+1979,Regular Season,Hankyu Braves,47,"Osumi, Masato",1B,81,0.994,163,9,1,21,,51353828
+1979,Regular Season,Chunichi Dragons,24,"Umeda, Kunizo",2B,6,1.000,1,9,0,2,,51353841
+1979,Regular Season,Chunichi Dragons,24,"Umeda, Kunizo",3B,2,1.000,1,0,0,0,,51353841
+1979,Regular Season,Chunichi Dragons,24,"Umeda, Kunizo",SS,32,0.979,19,28,1,4,,51353841
+1979,Regular Season,Chunichi Dragons,47,"Kanto, Takao",2B,4,1.000,2,3,0,1,,51353842
+1979,Regular Season,Hankyu Braves,21,"Imai, Yutaro",P,27,0.929,6,33,3,0,,51353843
+1979,Regular Season,Yakult Swallows,51,"Kugitani, Hajime",OF,9,1.000,9,1,0,0,,51353844
+1979,Regular Season,Hanshin Tigers,32,"Kato, Hirokazu",2B,26,0.979,33,60,2,9,,51353845
+1979,Regular Season,Hanshin Tigers,32,"Kato, Hirokazu",3B,1,1.000,0,1,0,0,,51353845
+1979,Regular Season,Hanshin Tigers,32,"Kato, Hirokazu",OF,56,0.979,47,0,1,0,,51353845
+1979,Regular Season,Lotte Orions,11,"Ogawa, Seiichi",P,2,0.000,0,0,0,0,,51353847
+1979,Regular Season,Kintetsu Buffaloes,11,"Kagawa, Masato",P,19,1.000,4,12,0,2,,51353848
+1979,Regular Season,Seibu Lions,3,"Doi, Masahiro",1B,50,0.989,428,19,5,25,,51453825
+1979,Regular Season,Seibu Lions,3,"Doi, Masahiro",OF,44,1.000,67,1,0,0,,51453825
+1979,Regular Season,Hiroshima Toyo Carp,7,"Sano, Yoshiyuki",1B,4,0.875,7,0,1,3,,51553827
+1979,Regular Season,Hiroshima Toyo Carp,7,"Sano, Yoshiyuki",2B,3,1.000,2,4,0,0,,51553827
+1979,Regular Season,Yakult Swallows,5,"Sumi, Fujio",2B,5,1.000,9,13,0,3,,51553842
+1979,Regular Season,Yakult Swallows,5,"Sumi, Fujio",3B,41,0.984,34,88,2,9,,51553842
+1979,Regular Season,Hanshin Tigers,13,"Kataoka, Shinnosuke",C,37,0.988,159,4,2,1,2,51553843
+1979,Regular Season,Nippon-Ham Fighters,8,"Kubo, Toshimi",1B,7,1.000,10,1,0,1,,51553845
+1979,Regular Season,Nippon-Ham Fighters,8,"Kubo, Toshimi",2B,11,1.000,3,6,0,0,,51553845
+1979,Regular Season,Nippon-Ham Fighters,8,"Kubo, Toshimi",3B,5,0.800,1,3,1,0,,51553845
+1979,Regular Season,Nippon-Ham Fighters,8,"Kubo, Toshimi",OF,3,1.000,2,0,0,0,,51553845
+1979,Regular Season,Yomiuri Giants,55,"Sakomaru, Kosho",OF,7,0.500,1,0,1,0,,51553846
+1979,Regular Season,Yakult Swallows,14,"Kobayashi, Kunio",P,13,1.000,3,2,0,0,,51553847
+1979,Regular Season,Seibu Lions,41,"Shibata, Yasumitsu",P,18,0.800,1,3,1,0,,51553848
+1979,Regular Season,Hiroshima Toyo Carp,14,"Sotokoba, Yoshiro",P,1,0.000,0,0,0,0,,51753820
+1979,Regular Season,Nankai Hawks,29,"Sakamoto, Toshizo",2B,1,1.000,4,2,0,0,,51753824
+1979,Regular Season,Nankai Hawks,29,"Sakamoto, Toshizo",3B,1,1.000,4,2,0,0,,51753824
+1979,Regular Season,Hankyu Braves,14,"Yamaguchi, Takashi",P,16,1.000,0,5,0,0,,51753840
+1979,Regular Season,Yakult Swallows,37,"Sato, Takehide",OF,7,1.000,8,1,0,0,,51753843
+1979,Regular Season,Hiroshima Toyo Carp,54,"Nakao, Akio",2B,18,0.938,8,7,1,5,,51753844
+1979,Regular Season,Hiroshima Toyo Carp,54,"Nakao, Akio",3B,32,0.950,6,13,1,0,,51753844
+1979,Regular Season,Hiroshima Toyo Carp,54,"Nakao, Akio",SS,5,0.857,2,4,1,1,,51753844
+1979,Regular Season,Nankai Hawks,10,"Nakade, Kenji",C,38,1.000,47,6,0,1,2,51753846
+1979,Regular Season,Yomiuri Giants,39,"Nakai, Yasuyuki",OF,76,0.980,48,1,1,0,,51753848
+1979,Regular Season,Kintetsu Buffaloes,19,"Tachibana, Kenji",P,3,1.000,0,3,0,0,,51953845
+1979,Regular Season,Yomiuri Giants,33,"Harada, Haruaki",OF,3,1.000,1,1,0,0,,51953847
+1979,Regular Season,Seibu Lions,15,"Matsunuma, Hirohisa",P,34,1.000,4,37,0,3,,51953848
+1979,Regular Season,Yakult Swallows,7,"Fukutomi, Kunio",OF,53,0.988,77,3,1,0,,61063820
+1979,Regular Season,Hiroshima Toyo Carp,4,"Mizutani, Jitsuo",1B,121,0.995,890,107,5,74,,61063822
+1979,Regular Season,Yokohama Taiyo Whales,65,"Wakabayashi, Kenichi",OF,43,1.000,11,1,0,1,,61063844
+1979,Regular Season,Nankai Hawks,24,"Yamamoto, Masao",OF,5,1.000,3,0,0,0,,61063849
+1979,Regular Season,Lotte Orions,49,"Inoe, Yoichi",2B,84,0.975,105,133,6,25,,61163824
+1979,Regular Season,Lotte Orions,49,"Inoe, Yoichi",3B,1,0.000,0,0,0,0,,61163824
+1979,Regular Season,Lotte Orions,13,"Iizuka, Yoshihiro",2B,64,0.966,101,124,8,19,,61163828
+1979,Regular Season,Lotte Orions,13,"Iizuka, Yoshihiro",3B,1,0.000,0,0,0,0,,61163828
+1979,Regular Season,Lotte Orions,13,"Iizuka, Yoshihiro",SS,40,0.947,29,60,5,12,,61163828
+1979,Regular Season,Hanshin Tigers,37,"Sakakibara, Yoshiyuki",2B,98,0.979,168,244,9,42,,61163840
+1979,Regular Season,Yakult Swallows,19,"Kajima, Kenichi",P,43,0.927,9,29,3,3,,61163844
+1979,Regular Season,Hanshin Tigers,1,"Uematsu, Seiichi",OF,7,0.857,6,0,1,0,,61163846
+1979,Regular Season,Nankai Hawks,46,"Okamoto, Keisuke",OF,30,0.947,35,1,2,0,,61163848
+1979,Regular Season,Kintetsu Buffaloes,33,"Ishiyama, Kazuhide",C,7,1.000,10,0,0,0,1,61163849
+1979,Regular Season,Chunichi Dragons,8,"Morimoto, Kiyoshi",2B,9,0.975,16,23,1,8,,61263820
+1979,Regular Season,Hankyu Braves,10,"Kato, Hideji",1B,87,0.995,763,49,4,65,,61363828
+1979,Regular Season,Hankyu Braves,12,"Okuma, Tadayoshi",OF,33,0.977,43,0,1,0,,61363829
+1979,Regular Season,Kintetsu Buffaloes,18,"Ota, Koji",P,31,1.000,11,41,0,0,,61363841
+1979,Regular Season,Yomiuri Giants,20,"Sadaoka, Shoji",P,7,1.000,1,1,0,0,,61363844
+1979,Regular Season,Yakult Swallows,34,"Kurosaka, Yukio",P,19,1.000,1,8,0,0,,61363846
+1979,Regular Season,Nippon-Ham Fighters,15,"Kudo, Mikio",P,3,1.000,0,4,0,0,,61363848
+1979,Regular Season,Nankai Hawks,60,"Oishi, Yataro",P,36,0.714,4,6,4,0,,61563825
+1979,Regular Season,Hankyu Braves,8,"Shimatani, Kinji",3B,126,0.962,116,266,15,23,,61563828
+1979,Regular Season,Nankai Hawks,61,"Matsura, Tadashi",P,11,1.000,0,7,0,0,,61563840
+1979,Regular Season,Yakult Swallows,11,"Kanbe, Toshio",P,25,1.000,6,24,0,2,,61563841
+1979,Regular Season,Seibu Lions,45,"Takagi, Koji",P,7,1.000,1,1,0,1,,61563842
+1979,Regular Season,Chunichi Dragons,52,"Tanokura, Toshio",2B,2,1.000,0,1,0,1,,61563847
+1979,Regular Season,Chunichi Dragons,52,"Tanokura, Toshio",3B,1,0.000,0,0,0,0,,61563847
+1979,Regular Season,Chunichi Dragons,52,"Tanokura, Toshio",SS,1,0.000,0,0,0,0,,61563847
+1979,Regular Season,Nippon-Ham Fighters,2,"Takashiro, Nobuhiro",SS,123,0.980,216,406,13,63,,61563848
+1979,Regular Season,Hiroshima Toyo Carp,34,"Takahashi, Satoshi",P,27,1.000,5,20,0,1,,61763826
+1979,Regular Season,Yokohama Taiyo Whales,7,"Nagasaki, Keiji",OF,112,0.995,192,4,1,1,,61763847
+1979,Regular Season,Chunichi Dragons,19,"Fujisawa, Kimiya",P,33,1.000,4,39,0,2,,61763848
+1979,Regular Season,Nippon-Ham Fighters,17,"Sugiyama, Tomotaka",P,31,1.000,10,31,0,3,,61763849
+1979,Regular Season,Nippon-Ham Fighters,26,"Nakamura, Kuniaki",2B,8,1.000,5,8,0,3,,61963841
+1979,Regular Season,Nippon-Ham Fighters,26,"Nakamura, Kuniaki",3B,1,0.000,0,0,0,0,,61963841
+1979,Regular Season,Hanshin Tigers,27,"Miyata, Norikazu",P,7,1.000,0,2,0,0,,61963842
+1979,Regular Season,Hankyu Braves,13,"Nagamoto, Hiroaki",P,25,1.000,10,20,0,0,,61963845
+1979,Regular Season,Yokohama Taiyo Whales,31,"Yashiki, Kaname",OF,68,1.000,35,1,0,0,,61963846
+1979,Regular Season,Hankyu Braves,32,"Hosokawa, Yasuo",1B,2,1.000,4,0,0,2,,61963847
+1979,Regular Season,Hankyu Braves,32,"Hosokawa, Yasuo",C,1,0.000,0,0,0,0,2,61963847
+1979,Regular Season,Hankyu Braves,32,"Hosokawa, Yasuo",OF,20,0.917,10,1,1,1,,61963847
+1979,Regular Season,Kintetsu Buffaloes,29,"Yamaguchi, Tetsuji",P,36,1.000,7,41,0,3,,61963848
+1979,Regular Season,Yokohama Taiyo Whales,4,"Martin, Gene",1B,17,0.979,84,8,2,9,,61963849
+1979,Regular Season,Yokohama Taiyo Whales,4,"Martin, Gene",OF,113,0.986,136,4,2,2,,61963849
+1979,Regular Season,Yokohama Taiyo Whales,27,"Hiramatsu, Masaji",P,30,0.965,8,47,2,3,,71073824
+1979,Regular Season,Chunichi Dragons,51,"Masaoka, Shinji",1B,1,1.000,1,0,0,0,,71073826
+1979,Regular Season,Chunichi Dragons,51,"Masaoka, Shinji",2B,26,0.985,32,32,1,12,,71073826
+1979,Regular Season,Chunichi Dragons,51,"Masaoka, Shinji",3B,1,0.000,0,0,0,0,,71073826
+1979,Regular Season,Chunichi Dragons,51,"Masaoka, Shinji",SS,49,0.979,33,61,2,18,,71073826
+1979,Regular Season,Kintetsu Buffaloes,28,"Nishimura, Shunji",2B,21,1.000,6,8,0,3,,71073841
+1979,Regular Season,Kintetsu Buffaloes,28,"Nishimura, Shunji",3B,5,1.000,1,1,0,0,,71073841
+1979,Regular Season,Seibu Lions,49,"Yoshimoto, Hiroshi",3B,1,0.000,0,0,0,0,,71073846
+1979,Regular Season,Seibu Lions,49,"Yoshimoto, Hiroshi",C,11,0.979,44,3,1,0,2,71073846
+1979,Regular Season,Seibu Lions,49,"Yoshimoto, Hiroshi",OF,3,0.900,9,0,1,0,,71073846
+1979,Regular Season,Lotte Orions,19,"Mitsui, Masaharu",P,6,1.000,2,6,0,0,,71073849
+1979,Regular Season,Hankyu Braves,16,"Adachi, Mitsuhiro",P,4,1.000,0,4,0,0,,71173808
+1979,Regular Season,Yomiuri Giants,17,"Asano, Keishi",P,21,1.000,3,13,0,0,,71173824
+1979,Regular Season,Chunichi Dragons,6,"Inoe, Hiroaki",OF,100,0.982,150,10,3,2,,71173826
+1979,Regular Season,Hankyu Braves,1,"Williams, Bernie",OF,104,0.962,168,7,7,2,,71173840
+1979,Regular Season,Hanshin Tigers,20,"Ito, Fumitaka",P,23,1.000,2,10,0,0,,71173846
+1979,Regular Season,Kintetsu Buffaloes,24,"Arita, Shuzo",1B,1,1.000,8,0,0,0,,71173847
+1979,Regular Season,Kintetsu Buffaloes,24,"Arita, Shuzo",C,37,1.000,126,13,0,1,2,71173847
+1979,Regular Season,Lotte Orions,37,"Umezawa, Yoshikatsu",P,4,1.000,0,1,0,0,,71173848
+1979,Regular Season,Hiroshima Toyo Carp,8,"Yamamoto, Koji",OF,130,0.987,222,5,3,1,,71273828
+1979,Regular Season,Nankai Hawks,11,"Hoshino, Hidetaka",P,11,1.000,1,5,0,0,,71273843
+1979,Regular Season,Chunichi Dragons,11,"Misawa, Jun",P,45,0.984,15,46,1,5,,71273845
+1979,Regular Season,Lotte Orions,15,"Iwasaki, Tadayoshi",OF,40,0.963,25,1,1,0,,71373824
+1979,Regular Season,Seibu Lions,25,"Ota, Takuji",OF,6,1.000,14,0,0,0,,71373828
+1979,Regular Season,Nippon-Ham Fighters,1,"Sugano, Mitsuo",2B,94,0.977,133,204,8,45,,71373840
+1979,Regular Season,Nippon-Ham Fighters,1,"Sugano, Mitsuo",3B,25,0.956,15,50,3,3,,71373840
+1979,Regular Season,Nippon-Ham Fighters,1,"Sugano, Mitsuo",SS,2,0.000,0,0,0,0,,71373840
+1979,Regular Season,Hankyu Braves,43,"Saegusa, Norietsu",P,16,0.900,0,9,1,1,,71373844
+1979,Regular Season,Nippon-Ham Fighters,34,"Okabe, Noriaki",P,4,1.000,0,2,0,0,,71373846
+1979,Regular Season,Nankai Hawks,9,"Oda, Yoshihito",1B,29,0.994,159,4,1,8,,71373847
+1979,Regular Season,Yomiuri Giants,29,"Katori, Yoshitaka",P,38,1.000,2,17,0,1,,71373848
+1979,Regular Season,Yomiuri Giants,9,"Yoshida, Takashi",C,84,0.984,409,29,7,4,5,71473820
+1979,Regular Season,Hiroshima Toyo Carp,16,"Miwa, Satoru",P,26,0.941,5,11,1,0,,71473841
+1979,Regular Season,Yakult Swallows,36,"Watanabe, Susumu",1B,1,1.000,9,0,0,2,,71473845
+1979,Regular Season,Yakult Swallows,36,"Watanabe, Susumu",3B,14,0.958,3,20,1,2,,71473845
+1979,Regular Season,Yakult Swallows,36,"Watanabe, Susumu",SS,1,0.500,0,1,1,0,,71473845
+1979,Regular Season,Hiroshima Toyo Carp,3,"Kinugasa, Sachio",1B,69,1.000,159,8,0,11,,71573820
+1979,Regular Season,Hiroshima Toyo Carp,3,"Kinugasa, Sachio",3B,110,0.966,79,151,8,10,,71573820
+1979,Regular Season,Hiroshima Toyo Carp,3,"Kinugasa, Sachio",OF,5,0.857,5,1,1,0,,71573820
+1979,Regular Season,Hanshin Tigers,28,"Hasegawa, Tsutomu",P,33,0.967,5,24,1,2,,71573840
+1979,Regular Season,Chunichi Dragons,2,"Tao, Yasushi",OF,111,0.995,193,7,1,2,,71573842
+1979,Regular Season,Yakult Swallows,41,"Sugimura, Shigeru",2B,2,1.000,1,2,0,0,,71573844
+1979,Regular Season,Yakult Swallows,41,"Sugimura, Shigeru",3B,18,0.946,5,30,2,2,,71573844
+1979,Regular Season,Yakult Swallows,41,"Sugimura, Shigeru",SS,58,0.966,93,103,7,31,,71573844
+1979,Regular Season,Yakult Swallows,39,"Shibui, Keiichi",2B,1,1.000,1,0,0,0,,71573846
+1979,Regular Season,Yakult Swallows,39,"Shibui, Keiichi",SS,29,0.958,42,72,5,18,,71573846
+1979,Regular Season,Hanshin Tigers,19,"Kobayashi, Shigeru",P,37,0.870,24,43,10,3,,71573847
+1979,Regular Season,Yakult Swallows,4,"Scott, John",3B,1,0.000,0,0,0,0,,71573848
+1979,Regular Season,Yakult Swallows,4,"Scott, John",OF,110,0.977,208,6,5,1,,71573848
+1979,Regular Season,Kintetsu Buffaloes,21,"Yanagida, Yutaka",P,37,1.000,10,41,0,5,,71673841
+1979,Regular Season,Seibu Lions,22,"Tabuchi, Koichi",1B,25,0.991,221,11,2,15,,71773828
+1979,Regular Season,Seibu Lions,22,"Tabuchi, Koichi",C,25,0.992,116,16,1,2,2,71773828
+1979,Regular Season,Seibu Lions,5,"Yamamura, Yoshinori",3B,119,0.913,112,170,27,9,,71773840
+1979,Regular Season,Chunichi Dragons,26,"Sato, Masao",P,5,1.000,0,1,0,0,,71773843
+1979,Regular Season,Yomiuri Giants,24,"Nakahata, Kiyoshi",2B,1,0.000,0,0,0,0,,71773844
+1979,Regular Season,Yomiuri Giants,24,"Nakahata, Kiyoshi",3B,97,0.961,84,184,11,11,,71773844
+1979,Regular Season,Chunichi Dragons,53,"Nakahara, Yuichi",C,16,1.000,32,4,0,0,0,71773846
+1979,Regular Season,Chunichi Dragons,33,"Nakata, Muneo",P,1,0.000,0,0,0,0,,71773848
+1979,Regular Season,Hanshin Tigers,9,"Sano, Noriyoshi",1B,106,0.992,887,66,8,57,,71773849
+1979,Regular Season,Hanshin Tigers,9,"Sano, Noriyoshi",3B,9,0.778,0,7,2,0,,71773849
+1979,Regular Season,Hanshin Tigers,9,"Sano, Noriyoshi",OF,8,1.000,10,2,0,1,,71773849
+1979,Regular Season,Lotte Orions,25,"Tokutsu, Takahiro",OF,76,0.981,96,7,2,3,,71973824
+1979,Regular Season,Yokohama Taiyo Whales,21,"Nomura, Osamu",P,35,1.000,5,17,0,0,,71973828
+1979,Regular Season,Hanshin Tigers,12,"Fukazawa, Yoshio",P,24,0.857,0,6,1,0,,71973844
+1979,Regular Season,Yokohama Taiyo Whales,16,"Millan, Felix",2B,94,0.987,188,255,6,53,,71973846
+1979,Regular Season,Seibu Lions,16,"Matsunuma, Masayuki",P,39,0.958,4,19,1,2,,71973848
+1979,Regular Season,Hiroshima Toyo Carp,22,"Mizunuma, Shiro",C,97,0.994,501,35,3,4,0,81083828
+1979,Regular Season,Seibu Lions,13,"Hamaura, Toru",P,6,0.750,1,2,1,0,,81083843
+1979,Regular Season,Hanshin Tigers,41,"Watanabe, Junshi",2B,11,1.000,12,14,0,3,,81083844
+1979,Regular Season,Hanshin Tigers,41,"Watanabe, Junshi",3B,8,0.900,2,7,1,0,,81083844
+1979,Regular Season,Hanshin Tigers,41,"Watanabe, Junshi",SS,9,0.897,10,16,3,5,,81083844
+1979,Regular Season,Yakult Swallows,10,"Ise, Takao",1B,3,1.000,2,0,0,0,,81183824
+1979,Regular Season,Yakult Swallows,10,"Ise, Takao",3B,1,1.000,0,3,0,1,,81183824
+1979,Regular Season,Hankyu Braves,28,"Sasamoto, Shinji",C,62,0.995,166,22,1,3,2,81183840
+1979,Regular Season,Hanshin Tigers,16,"Ueda, Jiro",P,15,1.000,1,7,0,0,,81183841
+1979,Regular Season,Nippon-Ham Fighters,29,"Kagitani, Koji",2B,70,1.000,56,123,0,23,,81183842
+1979,Regular Season,Nippon-Ham Fighters,29,"Kagitani, Koji",SS,21,1.000,19,43,0,8,,81183842
+1979,Regular Season,Kintetsu Buffaloes,6,"Ishiwata, Shigeru",2B,25,1.000,19,30,0,4,,81183843
+1979,Regular Season,Kintetsu Buffaloes,6,"Ishiwata, Shigeru",SS,113,0.982,144,346,9,62,,81183843
+1979,Regular Season,Yokohama Taiyo Whales,24,"Endo, Kazuhiko",P,47,1.000,3,31,0,2,,81183846
+1979,Regular Season,Lotte Orions,6,"Ochiai, Hiromitsu",1B,3,1.000,27,1,0,0,,81183848
+1979,Regular Season,Lotte Orions,6,"Ochiai, Hiromitsu",2B,8,0.968,15,15,1,5,,81183848
+1979,Regular Season,Lotte Orions,6,"Ochiai, Hiromitsu",3B,20,1.000,9,20,0,1,,81183848
+1979,Regular Season,Yomiuri Giants,36,"Yanagida, Toshiro",1B,2,1.000,4,0,0,0,,81283824
+1979,Regular Season,Yomiuri Giants,36,"Yanagida, Toshiro",OF,107,0.977,168,1,4,1,,81283824
+1979,Regular Season,Yakult Swallows,22,"Yasuda, Takeshi",P,19,1.000,3,7,0,1,,81283845
+1979,Regular Season,Yomiuri Giants,1,"Oh, Sadaharu",1B,117,0.997,924,69,3,78,,81383808
+1979,Regular Season,Hanshin Tigers,4,"Kawato, Kozo",OF,48,0.893,25,0,3,0,,81383826
+1979,Regular Season,Hiroshima Toyo Carp,44,"Kaneda, Tomehiro",P,16,1.000,4,10,0,0,,81383828
+1979,Regular Season,Nippon-Ham Fighters,7,"Okaji, Kazuhiko",OF,44,1.000,45,2,0,0,,81383841
+1979,Regular Season,Kintetsu Buffaloes,57,"Sato, Fumio",P,21,0.917,1,10,1,0,,81383842
+1979,Regular Season,Chunichi Dragons,5,"Oshima, Yasunori",1B,118,0.994,1010,90,7,122,,81383843
+1979,Regular Season,Chunichi Dragons,5,"Oshima, Yasunori",3B,15,0.949,9,28,2,5,,81383843
+1979,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",2B,48,0.988,38,45,1,8,,81383844
+1979,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",3B,4,0.750,1,2,1,0,,81383844
+1979,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",SS,16,0.935,11,18,2,2,,81383844
+1979,Regular Season,Seibu Lions,39,"Keimoto, Hideaki",OF,38,0.971,33,0,1,0,,81383846
+1979,Regular Season,Seibu Lions,38,"Kaneshiro, Osamu",2B,9,0.931,13,14,2,0,,81383847
+1979,Regular Season,Seibu Lions,38,"Kaneshiro, Osamu",SS,2,0.750,0,3,1,0,,81383847
+1979,Regular Season,Lotte Orions,54,"Sato, Kenichi",SS,1,1.000,3,0,0,0,,81383848
+1979,Regular Season,Hankyu Braves,31,"Okamoto, Kazumitsu",1B,1,1.000,4,0,0,0,,81383849
+1979,Regular Season,Hankyu Braves,31,"Okamoto, Kazumitsu",OF,56,0.964,53,1,2,0,,81383849
+1979,Regular Season,Hiroshima Toyo Carp,27,"Shogaki, Hironori",OF,7,1.000,3,0,0,0,,81583828
+1979,Regular Season,Yokohama Taiyo Whales,44,"Miyamoto, Shiro",P,40,1.000,3,16,0,0,,81583840
+1979,Regular Season,Yakult Swallows,40,"Terada, Yoshitaka",OF,8,1.000,7,0,0,0,,81583844
+1979,Regular Season,Kintetsu Buffaloes,5,"Sasaki, Kyosuke",1B,4,1.000,6,0,0,0,,81583845
+1979,Regular Season,Kintetsu Buffaloes,5,"Sasaki, Kyosuke",OF,70,0.985,127,1,2,0,,81583845
+1979,Regular Season,Hiroshima Toyo Carp,40,"Tatsukawa, Mitsuo",C,46,0.994,170,8,1,2,1,81583846
+1979,Regular Season,Chunichi Dragons,12,"Takahashi, Michitake",P,43,0.967,5,24,1,2,,81583848
+1979,Regular Season,Lotte Orions,59,"Sasaki, Nobuyuki",C,22,0.962,40,11,2,4,2,81583849
+1979,Regular Season,Chunichi Dragons,1,"Takagi, Morimichi",2B,119,0.977,292,316,14,77,,81783821
+1979,Regular Season,Kintetsu Buffaloes,25,"Fukiishi, Tokuichi",1B,7,1.000,6,1,0,2,,81783842
+1979,Regular Season,Kintetsu Buffaloes,25,"Fukiishi, Tokuichi",3B,28,1.000,5,19,0,3,,81783842
+1979,Regular Season,Kintetsu Buffaloes,25,"Fukiishi, Tokuichi",SS,55,0.976,39,83,3,14,,81783842
+1979,Regular Season,Kintetsu Buffaloes,10,"Shimamoto, Kohei",OF,15,1.000,9,0,0,0,,81783843
+1979,Regular Season,Yokohama Taiyo Whales,6,"Takagi, Yoshikazu",OF,84,1.000,111,4,0,1,,81783845
+1979,Regular Season,Seibu Lions,4,"Maloof, Jack",1B,2,1.000,2,0,0,1,,81783848
+1979,Regular Season,Seibu Lions,4,"Maloof, Jack",OF,127,0.996,266,6,1,1,,81783848
+1979,Regular Season,Lotte Orions,2,"Haku, Jinten",OF,101,0.976,151,12,4,4,,81983827
+1979,Regular Season,Hankyu Braves,7,"Fukumoto, Yutaka",OF,127,0.994,306,6,2,3,,81983828
+1979,Regular Season,Nippon-Ham Fighters,12,"Miyamoto, Yoshinobu",P,15,0.889,1,15,2,0,,81983842
+1979,Regular Season,Yokohama Taiyo Whales,39,"Miura, Masayuki",1B,1,0.000,0,0,0,0,,81983844
+1979,Regular Season,Yokohama Taiyo Whales,39,"Miura, Masayuki",C,23,1.000,22,2,0,2,1,81983844
+1979,Regular Season,Kintetsu Buffaloes,8,"Nashida, Masataka",1B,1,1.000,1,0,0,0,,81983845
+1979,Regular Season,Kintetsu Buffaloes,8,"Nashida, Masataka",C,108,0.987,520,68,8,14,4,81983845
+1979,Regular Season,Yakult Swallows,23,"Yanagihara, Takahiro",OF,16,1.000,7,0,0,0,,81983846
+1979,Regular Season,Nippon-Ham Fighters,32,"Ewing, Sam",1B,7,1.000,64,3,0,3,,81983848
+1979,Regular Season,Nippon-Ham Fighters,32,"Ewing, Sam",OF,16,1.000,20,0,0,0,,81983848
+1979,Regular Season,Yomiuri Giants,18,"Horiuchi, Tsuneo",P,24,1.000,6,19,0,3,,91093822
+1979,Regular Season,Yakult Swallows,17,"Matsuoka, Hiromu",P,50,0.981,10,43,1,2,,91093826
+1979,Regular Season,Hanshin Tigers,40,"Reinbach, Mike",OF,128,0.964,212,5,8,0,,91093842
+1979,Regular Season,Yomiuri Giants,28,"Niura, Hisao",P,45,0.984,6,54,1,1,,91093843
+1979,Regular Season,Hankyu Braves,9,"Yoshizawa, Toshiyuki",1B,1,1.000,11,1,0,3,,91093844
+1979,Regular Season,Hankyu Braves,9,"Yoshizawa, Toshiyuki",3B,5,1.000,2,1,0,1,,91093844
+1979,Regular Season,Hankyu Braves,9,"Yoshizawa, Toshiyuki",SS,15,0.935,9,20,2,1,,91093844
+1979,Regular Season,Yakult Swallows,6,"Mizutani, Shintaro",2B,16,1.000,29,24,0,11,,91093849
+1979,Regular Season,Yakult Swallows,6,"Mizutani, Shintaro",3B,1,1.000,1,1,0,0,,91093849
+1979,Regular Season,Yakult Swallows,6,"Mizutani, Shintaro",SS,78,0.958,106,190,13,41,,91093849
+1979,Regular Season,Lotte Orions,8,"Arito, Michiyo",3B,122,0.954,114,221,16,21,,91193828
+1979,Regular Season,Yakult Swallows,26,"Ihara, Shinichiro",P,35,1.000,3,15,0,0,,91193841
+1979,Regular Season,Yokohama Taiyo Whales,32,"Iwai, Takayuki",3B,3,1.000,0,4,0,0,,91193842
+1979,Regular Season,Hiroshima Toyo Carp,57,"Ono, Yutaka",P,58,1.000,15,27,0,0,,91193844
+1979,Regular Season,Seibu Lions,20,"Uzawa, Tatsuo",P,2,1.000,0,1,0,0,,91193845
+1979,Regular Season,Seibu Lions,44,"Ikeda, Hiroshi",P,3,0.000,0,0,0,0,,91193846
+1979,Regular Season,Kintetsu Buffaloes,12,"Imoto, Takashi",P,33,0.926,6,44,4,1,,91193847
+1979,Regular Season,Yomiuri Giants,30,"Egawa, Suguru",P,27,0.935,11,18,2,2,,91193848
+1979,Regular Season,Nippon-Ham Fighters,4,"Yoshioka, Satoru",2B,32,0.984,58,67,2,17,,91293828
+1979,Regular Season,Seibu Lions,8,"Yoshioka, Satoru",2B,8,1.000,10,21,0,2,,91293828
+1979,Regular Season,Yakult Swallows,44,"Matsui, Masanori",1B,1,1.000,1,0,0,0,,91293843
+1979,Regular Season,Yakult Swallows,44,"Matsui, Masanori",3B,3,0.875,3,4,1,1,,91293843
+1979,Regular Season,Hiroshima Toyo Carp,10,"Michihara, Hiroyuki",C,39,0.990,194,10,2,3,0,91293845
+1979,Regular Season,Seibu Lions,12,"Okumiya, Taneo",C,28,0.969,89,6,3,1,2,91393826
+1979,Regular Season,Hankyu Braves,6,"Ohashi, Yutaka",SS,86,0.936,121,186,21,39,,91393828
+1979,Regular Season,Yakult Swallows,21,"Suzuki, Yasujiro",P,37,0.961,11,62,3,9,,91393840
+1979,Regular Season,Hiroshima Toyo Carp,20,"Kitabeppu, Manabu",P,36,0.935,12,31,3,1,,91393842
+1979,Regular Season,Hankyu Braves,11,"Sato, Yoshinori",P,26,0.977,9,34,1,4,,91393844
+1979,Regular Season,Nankai Hawks,25,"Katahira, Shinsaku",1B,121,0.992,1142,50,10,105,,91393845
+1979,Regular Season,Nankai Hawks,25,"Katahira, Shinsaku",OF,2,1.000,5,0,0,0,,91393845
+1979,Regular Season,Seibu Lions,40,"Kasuga, Shonosuke",2B,9,1.000,8,8,0,0,,91393848
+1979,Regular Season,Seibu Lions,40,"Kasuga, Shonosuke",OF,2,1.000,1,0,0,0,,91393848
+1979,Regular Season,Nankai Hawks,28,"Yamashita, Keitoku",OF,89,0.985,127,5,2,2,,91493843
+1979,Regular Season,Yakult Swallows,15,"Kurata, Makoto",P,36,1.000,0,7,0,0,,91593820
+1979,Regular Season,Nippon-Ham Fighters,22,"Kato, Toshio",C,118,0.994,460,42,3,10,3,91593824
+1979,Regular Season,Hanshin Tigers,17,"Kuwano, Hakaru",1B,1,0.000,0,0,0,0,,91593826
+1979,Regular Season,Hanshin Tigers,17,"Kuwano, Hakaru",OF,1,0.000,0,0,0,0,,91593826
+1979,Regular Season,Lotte Orions,22,"Sakaki, Shinichi",C,30,0.982,96,11,2,0,0,91593828
+1979,Regular Season,Kintetsu Buffaloes,15,"Fukui, Yasuo",P,4,1.000,0,3,0,0,,91593840
+1979,Regular Season,Yokohama Taiyo Whales,26,"Tashiro, Tomio",1B,21,0.991,105,8,1,11,,91593842
+1979,Regular Season,Yokohama Taiyo Whales,26,"Tashiro, Tomio",3B,84,0.957,69,152,10,8,,91593842
+1979,Regular Season,Yokohama Taiyo Whales,26,"Tashiro, Tomio",OF,26,0.963,25,1,1,0,,91593842
+1979,Regular Season,Lotte Orions,21,"Kuramochi, Akira",P,33,1.000,4,4,0,0,,91593845
+1979,Regular Season,Yomiuri Giants,12,"Sumi, Mitsuo",P,45,0.923,2,10,1,1,,91593846
+1979,Regular Season,Seibu Lions,14,"Saotome, Yutaka",P,26,0.913,2,19,2,0,,91593847
+1979,Regular Season,Hanshin Tigers,44,"Stanton, Leroy",OF,121,0.973,246,3,7,1,,91593848
+1979,Regular Season,Hiroshima Toyo Carp,25,"Kinoshita, Tomio",1B,2,1.000,4,0,0,0,,91593849
+1979,Regular Season,Hiroshima Toyo Carp,25,"Kinoshita, Tomio",2B,83,0.981,110,144,5,20,,91593849
+1979,Regular Season,Hiroshima Toyo Carp,25,"Kinoshita, Tomio",3B,15,0.929,4,9,1,0,,91593849
+1979,Regular Season,Hiroshima Toyo Carp,25,"Kinoshita, Tomio",OF,2,0.000,0,0,0,0,,91593849
+1979,Regular Season,Hiroshima Toyo Carp,25,"Kinoshita, Tomio",SS,13,0.964,20,34,2,5,,91593849
+1979,Regular Season,Nippon-Ham Fighters,21,"Takahashi, Naoki",P,37,1.000,15,68,0,4,,91793828
+1979,Regular Season,Lotte Orions,24,"Yoshioka, Toshiaki",OF,74,1.000,98,2,0,0,,91793840
+1979,Regular Season,Yomiuri Giants,26,"Nishimoto, Takashi",P,44,0.962,11,39,2,9,,91793842
+1979,Regular Season,Kintetsu Buffaloes,36,"Shirataki, Masataka",OF,21,1.000,9,0,0,0,,91793845
+1979,Regular Season,Lotte Orions,12,"Hakamada, Hidetoshi",C,25,0.980,91,7,2,2,2,91793846
+1979,Regular Season,Yomiuri Giants,45,"Nakatsukasa, Tokuzo",OF,1,0.000,0,0,0,0,,91793848
+1979,Regular Season,Nankai Hawks,3,"Sadaoka, Chiaki",3B,4,0.750,1,2,1,0,,91793849
+1979,Regular Season,Nankai Hawks,3,"Sadaoka, Chiaki",SS,112,0.975,194,394,15,76,,91793849
+1979,Regular Season,Hankyu Braves,39,"Nakazawa, Shinji",C,104,0.980,444,57,10,10,2,91993820
+1979,Regular Season,Nippon-Ham Fighters,28,"Hattori, Toshikazu",OF,51,1.000,41,0,0,0,,91993828
+1979,Regular Season,Nippon-Ham Fighters,39,"Mitchell, Bobby",OF,89,0.979,134,5,3,4,,91993842
+1979,Regular Season,Yomiuri Giants,51,"Fukushima, Kazuto",C,7,1.000,11,0,0,0,1,91993844
+1979,Regular Season,Chunichi Dragons,13,"Donoe, Terashi",P,14,0.800,2,2,1,1,,91993845
+1979,Regular Season,Hankyu Braves,22,"Miura, Hiroyuki",P,19,1.000,6,20,0,1,,91993846
+1979,Regular Season,Seibu Lions,24,"Muser, Tony",1B,47,0.995,371,19,2,25,,91993848
+1979,Regular Season,Seibu Lions,24,"Muser, Tony",OF,14,1.000,16,0,0,0,,91993848

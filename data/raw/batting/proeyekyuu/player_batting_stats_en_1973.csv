@@ -1,0 +1,561 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+1973,Regular Season,Nittaku Home Flyers,51,"Hishikawa, Akira",CF,29,35,31,0.161,0.257,0.258,0.515,2,1,5,4,0,0,1,8,0,0,2,0,10,1,2,0,0,01003820
+1973,Regular Season,Kintetsu Buffaloes,17,"Bando, Satomi",P,40,27,24,0.083,0.120,0.083,0.203,2,0,2,2,0,0,0,2,0,0,1,0,11,0,0,2,0,01003821
+1973,Regular Season,Hiroshima Toyo Carp,37,"Nishizawa, Masaji",C,77,162,140,0.229,0.329,0.343,0.672,7,9,32,24,4,0,4,48,1,1,19,4,20,3,2,1,0,01003843
+1973,Regular Season,Kintetsu Buffaloes,37,"Hirano, Mitsuyasu",CF,30,28,27,0.148,0.179,0.222,0.401,4,0,4,3,0,1,0,6,1,0,1,0,2,0,0,0,0,01003845
+1973,Regular Season,Hiroshima Toyo Carp,12,"Matsubayashi, Shigeru",P,13,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01003847
+1973,Climax Series - Final Stage,Hankyu Braves,5,"Inoe, Osamu",3B,4,,12,0.333,,0.333,,,2,4,4,0,0,0,4,1,,2,,0,,,,,01103820
+1973,Regular Season,Hankyu Braves,5,"Inoe, Osamu",3B,98,140,117,0.205,0.311,0.308,0.619,25,9,24,17,4,1,2,36,16,2,18,1,24,0,0,5,0,01103820
+1973,Regular Season,Taiyo Whales,5,"Ito, Isao",C,130,451,394,0.236,0.322,0.355,0.677,31,35,93,68,14,0,11,140,2,3,45,6,72,11,5,5,2,01103823
+1973,Regular Season,Kintetsu Buffaloes,21,"Igarashi, Hideo",P,11,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103826
+1973,Regular Season,Hanshin Tigers,37,"Ikejima, Kazuhiko",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103841
+1973,Regular Season,Yomiuri Giants,55,"Awaguchi, Kenji",PH,24,30,27,0.222,0.276,0.370,0.646,0,2,6,3,2,1,0,10,0,0,2,0,11,0,0,1,0,01103843
+1973,Regular Season,Lotte Orions,49,"Ueda, Yozo",P,3,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103845
+1973,Regular Season,Lotte Orions,19,"Inoe, Keiichi",P,4,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,01103847
+1973,Regular Season,Lotte Orions,10,"Miyawaki, Satoshi",RF,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01203845
+1973,Regular Season,Taiheiyo Club Lions,30,"Oikawa, Nobuji",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01303820
+1973,Regular Season,Taiheiyo Club Lions,35,"Ogawa, Hirofumi",PH,2,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,01303829
+1973,Climax Series - Final Stage,Nankai Hawks,16,"Emoto, Takenori",P,6,,4,0.250,,0.250,,,0,1,1,0,0,0,1,0,,0,,0,,,,,01303843
+1973,Japan Series,Nankai Hawks,16,"Emoto, Takenori",P,6,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,01303843
+1973,Regular Season,Nankai Hawks,16,"Emoto, Takenori",P,36,81,73,0.164,0.197,0.178,0.375,4,2,12,11,1,0,0,13,0,0,3,0,18,1,0,5,0,01303843
+1973,Regular Season,Nankai Hawks,24,"Kadota, Sumiyoshi",P,6,5,5,0.200,0.200,0.200,0.400,0,1,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,01303845
+1973,Regular Season,Taiyo Whales,45,"Okue, Hideyuki",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01303847
+1973,Regular Season,Taiheiyo Club Lions,28,"Miyadera, Katsutoshi",C,104,266,253,0.221,0.248,0.320,0.568,21,23,56,44,5,1,6,81,5,3,8,1,64,7,1,1,3,01403829
+1973,Regular Season,Kintetsu Buffaloes,26,"Kondo, Kazuhiko",PH,52,62,54,0.204,0.283,0.222,0.505,2,4,11,10,1,0,0,12,1,0,5,0,12,0,1,2,0,01503806
+1973,Regular Season,Taiyo Whales,1,"Kondo, Akihito",PH,32,54,45,0.200,0.250,0.200,0.450,4,2,9,9,0,0,0,9,1,0,3,0,4,1,0,6,0,01503821
+1973,Regular Season,Kintetsu Buffaloes,49,"Kato, Hideo",P,21,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01503824
+1973,Regular Season,Taiyo Whales,24,"Kotani, Tadakatsu",P,37,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,01503826
+1973,Climax Series - Final Stage,Nankai Hawks,10,"Shimano, Ikuo",CF,5,,19,0.211,,0.316,,,1,4,2,2,0,0,6,0,,1,,3,,,,,01503827
+1973,Japan Series,Nankai Hawks,10,"Shimano, Ikuo",CF,10,,20,0.250,,0.300,,,0,5,4,1,0,0,6,2,,2,,1,,,,,01503827
+1973,Regular Season,Nankai Hawks,10,"Shimano, Ikuo",CF,130,594,559,0.252,0.287,0.301,0.588,68,28,141,120,17,2,2,168,61,14,27,0,46,10,0,8,0,01503827
+1973,Regular Season,Chunichi Dragons,23,"Kimata, Tatsuhiko",C,117,415,363,0.251,0.341,0.366,0.707,40,32,91,67,15,0,9,133,1,0,46,9,67,17,4,0,2,01503829
+1973,Regular Season,Hiroshima Toyo Carp,23,"Kamigochi, Makoto",3B,118,278,248,0.218,0.271,0.294,0.565,19,19,54,40,11,1,2,73,8,6,16,1,47,3,2,11,1,01503841
+1973,Regular Season,Lotte Orions,23,"Koganemaru, Mitsuru",1B,3,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01503843
+1973,Regular Season,Nankai Hawks,13,"Kuroda, Masahiro",RF,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01503845
+1973,Regular Season,Taiyo Whales,22,"Shimizu, Hiroyoshi",PR,24,9,9,0.111,0.111,0.111,0.222,4,0,1,1,0,0,0,1,1,1,0,0,1,0,0,0,0,01503847
+1973,Climax Series - Final Stage,Nankai Hawks,19,"Nomura, Katsuya",C,10,,16,0.188,,0.375,,,2,3,2,0,0,1,6,0,,4,,2,,,,,01603809
+1973,Japan Series,Nankai Hawks,19,"Nomura, Katsuya",C,10,,20,0.250,,0.250,,,2,5,5,0,0,0,5,1,,0,,2,,,,,01603809
+1973,Regular Season,Nankai Hawks,19,"Nomura, Katsuya",C,129,539,475,0.309,0.380,0.524,0.904,65,96,147,101,18,0,28,249,3,6,51,7,48,31,3,0,10,01603809
+1973,Regular Season,Hanshin Tigers,12,"Wada, Toru",1B,90,178,166,0.247,0.282,0.307,0.589,17,13,41,33,7,0,1,51,1,0,5,0,30,8,3,3,1,01603829
+1973,Japan Series,Yomiuri Giants,21,"Takahashi, Kazumi",P,2,,7,0.143,,0.143,,,0,1,1,0,0,0,1,0,,0,,1,,,,,01703820
+1973,Regular Season,Yomiuri Giants,21,"Takahashi, Kazumi",P,45,121,111,0.189,0.196,0.225,0.421,13,6,21,18,2,1,0,25,1,0,1,0,25,0,0,8,1,01703820
+1973,Climax Series - Final Stage,Nankai Hawks,1,"Sakurai, Teruhide",2B,10,,19,0.211,,0.263,,,0,4,3,1,0,0,5,0,,1,,1,,,,,01703824
+1973,Japan Series,Nankai Hawks,1,"Sakurai, Teruhide",2B,10,,19,0.263,,0.368,,,2,5,3,2,0,0,7,0,,1,,5,,,,,01703824
+1973,Regular Season,Nankai Hawks,1,"Sakurai, Teruhide",2B,111,484,440,0.282,0.331,0.350,0.681,60,28,124,102,17,2,3,154,17,5,28,0,28,9,4,11,1,01703824
+1973,Regular Season,Kintetsu Buffaloes,33,"Tameike, Toshitaka",PH,3,4,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,01703828
+1973,Regular Season,Hanshin Tigers,8,"Sato, Masaharu",CF,87,177,155,0.181,0.270,0.226,0.496,11,7,28,24,2,1,1,35,5,2,17,1,20,1,2,2,1,01703841
+1973,Climax Series - Final Stage,Nankai Hawks,25,"Smith, Willie",1B,4,,9,0.222,,0.556,,,2,2,1,0,0,1,5,0,,2,,1,,,,,01703845
+1973,Japan Series,Nankai Hawks,25,"Smith, Willie",1B,7,,3,0.000,,0.000,,,1,0,0,0,0,0,0,0,,0,,2,,,,,01703845
+1973,Regular Season,Nankai Hawks,25,"Smith, Willie",1B,50,137,120,0.275,0.360,0.417,0.777,14,24,33,26,2,0,5,50,0,0,16,3,25,4,0,0,1,01703845
+1973,Regular Season,Taiheiyo Club Lions,10,"Nakamura, Masayoshi",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01703847
+1973,Regular Season,Taiyo Whales,2,"Nakatsuka, Masayuki",CF,95,325,284,0.292,0.376,0.356,0.732,38,9,83,69,11,2,1,101,2,4,36,0,33,3,2,2,1,01903826
+1973,Regular Season,Taiheiyo Club Lions,21,"Higashio, Osamu",P,51,93,79,0.228,0.299,0.253,0.552,5,5,18,16,2,0,0,20,0,0,8,0,12,1,0,6,0,01903828
+1973,Regular Season,Taiyo Whales,33,"Takahashi, Shigeyuki",P,44,66,59,0.153,0.167,0.169,0.336,0,2,9,8,1,0,0,10,0,0,1,0,23,3,0,5,1,01903829
+1973,Regular Season,Lotte Orions,43,"Doi, Kenji",PH,78,91,78,0.269,0.367,0.410,0.777,4,17,21,14,5,0,2,32,0,0,11,0,6,2,1,1,0,01903841
+1973,Regular Season,Nittaku Home Flyers,44,"Fukumoto, Manichiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903847
+1973,Regular Season,Kintetsu Buffaloes,6,"Yasui, Toshinori",2B,65,144,129,0.186,0.228,0.225,0.453,8,5,24,19,5,0,0,29,4,3,7,0,13,1,0,8,0,03103825
+1973,Regular Season,Hanshin Tigers,2,"Noda, Masanori",2B,109,371,325,0.222,0.277,0.289,0.566,29,13,72,56,13,0,3,94,4,3,20,0,51,8,5,21,0,11013820
+1973,Japan Series,Yomiuri Giants,7,"Shibata, Isao",CF,5,,10,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,4,,,,,11013825
+1973,Regular Season,Yomiuri Giants,7,"Shibata, Isao",CF,125,552,495,0.277,0.346,0.372,0.718,81,34,137,108,17,6,6,184,24,11,51,1,68,2,1,2,3,11013825
+1973,Regular Season,Nittaku Home Flyers,11,"Fujiwara, Makoto",P,18,2,2,1.000,1.000,1.000,2.000,0,0,2,2,0,0,0,2,0,1,0,0,0,0,0,0,0,11013828
+1973,Regular Season,Yakult Atoms,37,"Nagai, Shigeo",PH,43,45,41,0.195,0.214,0.293,0.507,2,5,8,6,1,0,1,12,0,0,1,0,12,0,0,0,3,11013841
+1973,Regular Season,Lotte Orions,38,"Narishige, Haruo",P,8,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11013845
+1973,Regular Season,Taiheiyo Club Lions,2,"Mayumi, Akinobu",SS,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11013847
+1973,Regular Season,Taiyo Whales,28,"Matsuoka, Kosuke",3B,63,120,108,0.139,0.205,0.157,0.362,5,4,15,14,0,1,0,17,1,1,7,0,15,4,2,3,0,11213824
+1973,Regular Season,Taiyo Whales,34,"Yoneda, Keizaburo",SS,113,383,363,0.212,0.245,0.278,0.523,20,21,77,61,11,2,3,101,5,5,14,0,57,6,2,3,1,11213826
+1973,Regular Season,Yakult Atoms,33,"Yasuki, Shoji",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213828
+1973,Regular Season,Lotte Orions,1,"Lefebvre, Jim",1B,111,442,400,0.265,0.319,0.523,0.842,50,63,106,63,12,2,29,209,1,2,27,0,60,5,5,8,2,11213847
+1973,Regular Season,Kintetsu Buffaloes,39,"Iwaki, Yasuro",C,38,42,40,0.150,0.171,0.150,0.321,1,0,6,6,0,0,0,6,0,0,1,0,5,1,0,1,0,11313820
+1973,Regular Season,Lotte Orions,20,"Kitaru, Masaaki",P,44,55,48,0.167,0.231,0.167,0.398,4,4,8,8,0,0,0,8,0,0,4,0,11,0,0,3,0,11313822
+1973,Regular Season,Chunichi Dragons,16,"Ito, Hisatoshi",P,30,19,17,0.118,0.167,0.118,0.285,0,0,2,2,0,0,0,2,0,0,1,0,3,0,0,1,0,11313824
+1973,Regular Season,Hanshin Tigers,36,"Ueki, Kazutomo",P,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313828
+1973,Regular Season,Yakult Atoms,15,"Ishioka, Kozo",P,11,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313829
+1973,Regular Season,Yakult Atoms,8,"Uchida, Junzo",RF,93,248,219,0.274,0.332,0.356,0.688,21,19,60,45,13,1,1,78,3,5,19,2,19,4,0,5,5,11313841
+1973,Regular Season,Hiroshima Toyo Carp,46,"Oka, Yoshiaki",PR,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313845
+1973,Regular Season,Nittaku Home Flyers,41,"Eda, Koichi",P,15,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,11313847
+1973,Regular Season,Chunichi Dragons,27,"Mizutani, Hisanobu",P,34,48,46,0.196,0.213,0.196,0.409,0,1,9,9,0,0,0,9,0,0,0,0,9,0,1,1,0,11413808
+1973,Regular Season,Nittaku Home Flyers,17,"Yamazaki, Takeaki",P,40,7,7,0.286,0.286,0.286,0.572,0,1,2,2,0,0,0,2,0,0,0,0,2,0,0,0,0,11413820
+1973,Regular Season,Yomiuri Giants,31,"Yamashita, Tsukasa",PR,19,5,5,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,11413824
+1973,Regular Season,Lotte Orions,14,"Maeda, Kosuke",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11413841
+1973,Regular Season,Yakult Atoms,28,"Yaegashi, Yukio",PH,20,21,17,0.000,0.150,0.000,0.150,0,1,0,0,0,0,0,0,0,0,2,0,5,0,1,0,1,11413843
+1973,Regular Season,Hanshin Tigers,25,"Yamamoto, Kazuyuki",P,18,10,9,0.000,0.100,0.000,0.100,1,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,11413845
+1973,Regular Season,Kintetsu Buffaloes,40,"Oba, Takahiro",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513824
+1973,Regular Season,Taiyo Whales,32,"Kusaka, Masakatsu",PH,43,74,67,0.239,0.311,0.299,0.610,8,1,16,12,4,0,0,20,0,0,7,0,7,1,0,0,0,11513827
+1973,Regular Season,Hanshin Tigers,47,"Kira, Shuichi",P,11,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513828
+1973,Regular Season,Yomiuri Giants,58,"Otake, Kenji",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11513843
+1973,Regular Season,Hankyu Braves,29,"Kawamura, Kenichiro",PH,2,1,0,0.000,1.000,0.000,1.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,11513845
+1973,Regular Season,Nittaku Home Flyers,64,"Kamogawa, Kiyoshi",C,10,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513847
+1973,Regular Season,Yakult Atoms,1,"Wakamatsu, Tsutomu",LF,128,486,438,0.313,0.366,0.505,0.871,59,60,137,89,29,2,17,221,12,8,32,8,43,4,5,10,1,11613843
+1973,Japan Series,Yomiuri Giants,38,"Suetsugu, Toshimitsu",RF,5,,21,0.381,,0.619,,,3,8,5,1,2,0,13,1,,2,,0,,,,,11713820
+1973,Regular Season,Yomiuri Giants,38,"Suetsugu, Toshimitsu",RF,126,461,424,0.262,0.311,0.408,0.719,47,59,111,78,17,3,13,173,6,2,27,2,51,11,3,2,5,11713820
+1973,Regular Season,Nittaku Home Flyers,4,"Suenaga, Yoshiyuki",SS,74,186,165,0.236,0.296,0.345,0.641,14,15,39,30,4,1,4,57,1,3,12,1,21,1,2,6,1,11713826
+1973,Regular Season,Yomiuri Giants,61,"Kono, Kazumasa",SS,24,25,23,0.087,0.160,0.217,0.377,3,2,2,1,0,0,1,5,2,0,1,0,4,0,1,0,0,11713843
+1973,Climax Series - Final Stage,Nankai Hawks,31,"Sakata, Takashi",LF,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,11713845
+1973,Regular Season,Nankai Hawks,31,"Sakata, Takashi",LF,79,25,22,0.227,0.320,0.318,0.638,7,4,5,4,0,1,0,7,0,1,3,0,3,2,0,0,0,11713845
+1973,Regular Season,Chunichi Dragons,9,"Taniki, Kyohei",PH,44,76,69,0.130,0.211,0.174,0.385,10,3,9,8,0,0,1,12,5,2,7,1,10,0,0,0,0,11713847
+1973,Regular Season,Yakult Atoms,25,"Funada, Kazuhide",3B,117,396,347,0.231,0.296,0.308,0.604,32,24,80,63,11,2,4,107,9,5,31,0,58,8,1,16,1,11813825
+1973,Regular Season,Lotte Orions,24,"Daigo, Takeo",C,45,40,40,0.200,0.200,0.275,0.475,1,6,8,7,0,0,1,11,0,0,0,0,7,1,0,0,0,11913804
+1973,Regular Season,Yomiuri Giants,11,"Takahashi, Yoshimasa",P,25,17,14,0.071,0.133,0.071,0.204,0,2,1,1,0,0,0,1,0,0,1,0,6,0,0,2,0,11913824
+1973,Regular Season,Taiheiyo Club Lions,27,"Takenochi, Masashi",1B,110,449,402,0.251,0.325,0.460,0.785,48,70,101,62,16,1,22,185,1,2,28,0,31,7,16,0,3,11913826
+1973,Japan Series,Yomiuri Giants,25,"Tomita, Masaru",2B,5,,16,0.188,,0.250,,,1,3,2,1,0,0,4,0,,3,,2,,,,,11913828
+1973,Regular Season,Yomiuri Giants,25,"Tomita, Masaru",2B,44,73,64,0.188,0.235,0.391,0.626,12,5,12,5,4,0,3,25,3,3,4,0,16,2,0,5,0,11913828
+1973,Regular Season,Chunichi Dragons,17,"Shibuya, Yukiharu",P,38,67,65,0.185,0.197,0.215,0.412,2,7,12,10,2,0,0,14,0,0,1,0,15,3,0,1,0,11913841
+1973,Regular Season,Hanshin Tigers,5,"Suenaga, Masaaki",PR,48,15,15,0.067,0.067,0.067,0.134,12,0,1,1,0,0,0,1,3,0,0,0,8,0,0,0,0,11913843
+1973,Regular Season,Taiyo Whales,16,"Takeuchi, Hiroaki",P,38,52,47,0.191,0.191,0.191,0.382,3,0,9,9,0,0,0,9,0,0,0,0,14,0,0,5,0,11913845
+1973,Regular Season,Nittaku Home Flyers,16,"Niimi, Satoshi",P,54,74,65,0.169,0.229,0.200,0.429,1,4,11,9,2,0,0,13,0,0,5,0,24,1,0,4,0,11913847
+1973,Regular Season,Nittaku Home Flyers,20,"Miyazaki, Shoji",P,27,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,13113825
+1973,Regular Season,Taiyo Whales,15,"Hiraoka, Ichiro",P,24,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,21023820
+1973,Regular Season,Hankyu Braves,20,"Maki, Kenjiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21023822
+1973,Regular Season,Taiyo Whales,10,"Fukushima, Hisaaki",C,31,27,27,0.148,0.148,0.148,0.296,0,1,4,4,0,0,0,4,0,0,0,0,7,0,0,0,0,21023824
+1973,Regular Season,Hankyu Braves,14,"Miyamoto, Yukinobu",P,17,16,15,0.000,0.063,0.000,0.063,1,0,0,0,0,0,0,0,0,0,1,0,8,1,0,0,0,21023826
+1973,Regular Season,Chunichi Dragons,54,"Miyoshi, Shinichi",SS,26,17,16,0.125,0.176,0.125,0.301,2,0,2,2,0,0,0,2,0,0,0,0,8,1,1,0,0,21023828
+1973,Regular Season,Lotte Orions,3,"Hirota, Sumio",CF,127,546,499,0.295,0.342,0.433,0.775,87,50,147,110,18,6,13,216,22,9,27,1,35,6,9,8,3,21023845
+1973,Regular Season,Nittaku Home Flyers,26,"Miura, Masaki",P,27,25,23,0.000,0.042,0.000,0.042,0,0,0,0,0,0,0,0,0,0,1,0,14,0,0,1,0,21023847
+1973,Regular Season,Hanshin Tigers,7,"Ikeda, Junichi",CF,120,475,441,0.259,0.307,0.390,0.697,43,52,114,79,23,1,11,172,3,3,30,4,76,8,1,2,1,21123820
+1973,Climax Series - Final Stage,Nankai Hawks,9,"Aiba, Yoshihiro",LF,2,,2,0.500,,0.500,,,2,1,1,0,0,0,1,0,,0,,0,,,,,21123825
+1973,Japan Series,Nankai Hawks,9,"Aiba, Yoshihiro",LF,3,,3,0.333,,0.333,,,0,1,1,0,0,0,1,0,,0,,1,,,,,21123825
+1973,Regular Season,Nankai Hawks,9,"Aiba, Yoshihiro",LF,87,248,223,0.287,0.340,0.368,0.708,20,18,64,54,6,0,4,82,0,2,18,0,11,13,0,4,3,21123825
+1973,Regular Season,Lotte Orions,11,"Ikeda, Shigeki",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21123826
+1973,Regular Season,Taiheiyo Club Lions,7,"Ihara, Haruki",3B,32,55,48,0.271,0.364,0.313,0.677,4,2,13,12,0,1,0,15,0,0,5,0,2,1,2,0,0,21123843
+1973,Regular Season,Lotte Orions,33,"Date, Yasuji",PR,12,2,2,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,21123847
+1973,Regular Season,Lotte Orions,5,"Maeda, Masuho",1B,90,162,136,0.243,0.340,0.331,0.671,16,11,33,26,4,1,2,45,1,2,19,1,6,3,1,6,0,21223808
+1973,Regular Season,Nittaku Home Flyers,13,"Morinaka, Chikara",P,18,20,18,0.056,0.056,0.056,0.112,1,0,1,1,0,0,0,1,0,0,0,0,6,0,0,2,0,21223821
+1973,Regular Season,Taiheiyo Club Lions,4,"Motoi, Mitsuo",2B,102,424,359,0.292,0.392,0.487,0.879,51,59,105,73,12,2,18,175,9,3,54,3,52,6,5,1,5,21223824
+1973,Climax Series - Final Stage,Nankai Hawks,23,"Horii, Kazuto",PR,5,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,21223841
+1973,Japan Series,Nankai Hawks,23,"Horii, Kazuto",PR,5,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,21223841
+1973,Regular Season,Nankai Hawks,23,"Horii, Kazuto",PR,54,6,5,0.000,0.167,0.000,0.167,12,0,0,0,0,0,0,0,5,4,1,0,1,0,0,0,0,21223841
+1973,Japan Series,Yomiuri Giants,2,"Ueda, Takeshi",SS,5,,10,0.300,,0.600,,,1,3,2,0,0,1,6,0,,2,,3,,,,,21323824
+1973,Regular Season,Yomiuri Giants,2,"Ueda, Takeshi",SS,93,224,202,0.228,0.284,0.297,0.581,21,17,46,36,8,0,2,60,1,3,14,1,33,4,2,5,1,21323824
+1973,Regular Season,Hanshin Tigers,31,"Kirkland, Willie",RF,98,280,252,0.242,0.310,0.429,0.739,23,38,61,42,5,0,14,108,0,0,24,4,55,7,1,2,1,21323826
+1973,Regular Season,Kintetsu Buffaloes,15,"Okada, Mitsuo",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323828
+1973,Regular Season,Chunichi Dragons,31,"Kaneko, Katsumi",PR,29,26,25,0.200,0.200,0.200,0.400,4,1,5,5,0,0,0,5,1,1,0,0,5,0,0,0,1,21323845
+1973,Regular Season,Chunichi Dragons,45,"Okuda, Naoya",P,6,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323847
+1973,Regular Season,Lotte Orions,50,"Okuda, Naoya",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323847
+1973,Regular Season,Kintetsu Buffaloes,44,"Roberts, Dave",PH,36,75,65,0.215,0.320,0.308,0.628,3,7,14,12,0,0,2,20,0,0,10,0,10,0,0,0,0,21423824
+1973,Regular Season,Yakult Atoms,5,"Roberts, Dave",1B,36,132,115,0.252,0.348,0.383,0.731,13,16,29,20,5,2,2,44,0,1,16,1,19,1,1,0,0,21423824
+1973,Regular Season,Hiroshima Toyo Carp,55,"Shiraishi, Shizuo",P,26,30,25,0.080,0.148,0.080,0.228,2,1,2,2,0,0,0,2,0,0,2,0,12,1,0,3,0,21523822
+1973,Regular Season,Nittaku Home Flyers,19,"Ozaki, Yukio",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21523825
+1973,Regular Season,Hiroshima Toyo Carp,5,"Kunisada, Yasuhiro",PH,81,174,154,0.175,0.262,0.208,0.470,12,9,27,24,2,0,1,32,0,2,17,1,19,3,1,1,1,21523829
+1973,Regular Season,Taiheiyo Club Lions,47,"Kawano, Yuichi",C,29,29,25,0.120,0.185,0.160,0.345,2,1,3,2,1,0,0,4,0,1,2,0,9,2,0,1,1,21523841
+1973,Regular Season,Hiroshima Toyo Carp,36,"Kobayashi, Masayuki",PH,2,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,21523843
+1973,Regular Season,Taiheiyo Club Lions,43,"Shinobu, Zenko",3B,4,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21523847
+1973,Regular Season,Nittaku Home Flyers,58,"Hayashi, Kenzo",PR,23,13,12,0.000,0.077,0.000,0.077,3,0,0,0,0,0,0,0,2,0,1,1,1,1,0,0,0,21623825
+1973,Regular Season,Nittaku Home Flyers,5,"Takahashi, Hiroshi",2B,52,129,117,0.214,0.270,0.274,0.544,8,5,25,19,5,1,0,32,3,2,8,0,10,5,1,2,1,21723820
+1973,Climax Series - Final Stage,Hankyu Braves,25,"Takai, Yasuhiro",PH,4,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,2,,,,,21723822
+1973,Regular Season,Hankyu Braves,25,"Takai, Yasuhiro",PH,90,152,128,0.281,0.370,0.500,0.870,19,22,36,24,4,0,8,64,1,0,18,0,14,5,0,5,1,21723822
+1973,Regular Season,Hanshin Tigers,20,"Tsuji, Yasuhiko",C,24,63,57,0.211,0.262,0.281,0.543,2,1,12,10,1,0,1,16,0,0,4,0,10,3,0,2,0,21723827
+1973,Climax Series - Final Stage,Nankai Hawks,14,"Sato, Michio",P,5,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,21723841
+1973,Japan Series,Nankai Hawks,14,"Sato, Michio",P,5,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,21723841
+1973,Regular Season,Nankai Hawks,14,"Sato, Michio",P,60,26,22,0.136,0.208,0.136,0.344,1,1,3,3,0,0,0,3,0,0,2,0,6,2,0,2,0,21723841
+1973,Regular Season,Yakult Atoms,55,"Sugiura, Toru",1B,27,39,37,0.108,0.154,0.162,0.316,2,2,4,2,2,0,0,6,0,0,2,0,12,1,0,0,0,21723845
+1973,Regular Season,Kintetsu Buffaloes,20,"Nakane, Masahiro",P,25,30,30,0.267,0.267,0.267,0.534,2,1,8,8,0,0,0,8,0,0,0,0,8,0,0,0,0,21723847
+1973,Regular Season,Chunichi Dragons,68,"Takagi, Tokio",LF,13,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21923823
+1973,Regular Season,Yakult Atoms,35,"Nakano, Takayuki",LF,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21923826
+1973,Regular Season,Chunichi Dragons,2,"Hirose, Osamu",SS,87,277,252,0.194,0.237,0.250,0.487,18,13,49,41,5,0,3,63,4,2,14,0,38,4,0,10,1,21923828
+1973,Regular Season,Lotte Orions,12,"Toyama, Yoshiaki",P,4,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21923841
+1973,Regular Season,Taiyo Whales,29,"Tanioka, Kiyoshi",3B,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21923843
+1973,Regular Season,Hanshin Tigers,14,"Nakamura, Katsuhiro",2B,74,200,162,0.204,0.332,0.296,0.628,18,9,33,23,7,1,2,48,3,3,30,0,39,3,1,7,0,21923845
+1973,Regular Season,Nittaku Home Flyers,52,"Funada, Masao",PR,22,11,10,0.200,0.273,0.400,0.673,4,1,2,0,2,0,0,4,1,1,1,0,2,0,0,0,0,21923847
+1973,Regular Season,Hanshin Tigers,6,"Fujita, Taira",SS,130,569,519,0.281,0.330,0.439,0.769,73,59,146,100,27,2,17,228,8,2,36,5,53,6,2,10,2,31033822
+1973,Regular Season,Taiheiyo Club Lions,8,"Hino, Shigeru",SS,62,89,80,0.188,0.253,0.250,0.503,8,5,15,12,2,0,1,20,3,0,6,0,15,4,1,2,0,31033826
+1973,Climax Series - Final Stage,Nankai Hawks,28,"Hayashi, Toshihiro",PH,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31033827
+1973,Japan Series,Nankai Hawks,28,"Hayashi, Toshihiro",PH,2,,2,0.500,,0.500,,,0,1,1,0,0,0,1,0,,0,,0,,,,,31033827
+1973,Regular Season,Nankai Hawks,28,"Hayashi, Toshihiro",PH,64,57,46,0.152,0.278,0.239,0.517,2,6,7,5,1,0,1,11,0,0,6,1,11,0,2,1,2,31033827
+1973,Climax Series - Final Stage,Nankai Hawks,7,"Fujiwara, Mitsuru",3B,10,,17,0.176,,0.176,,,1,3,3,0,0,0,3,0,,2,,1,,,,,31033828
+1973,Japan Series,Nankai Hawks,7,"Fujiwara, Mitsuru",3B,10,,18,0.056,,0.056,,,2,1,1,0,0,0,1,0,,1,,2,,,,,31033828
+1973,Regular Season,Nankai Hawks,7,"Fujiwara, Mitsuru",3B,128,474,430,0.263,0.324,0.393,0.717,41,44,113,78,24,1,10,169,4,2,33,5,39,18,6,2,3,31033828
+1973,Regular Season,Yakult Atoms,11,"Nishii, Tetsuo",P,30,20,16,0.000,0.158,0.000,0.158,2,0,0,0,0,0,0,0,0,0,3,0,11,0,0,1,0,31033841
+1973,Regular Season,Yakult Atoms,48,"Masukawa, Maiku",PR,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31033847
+1973,Regular Season,Lotte Orions,7,"Altman, George",LF,120,433,365,0.307,0.410,0.581,0.991,54,80,112,67,17,1,27,212,4,5,62,12,30,7,2,1,3,31133826
+1973,Regular Season,Taiheiyo Club Lions,9,"Abe, Yoshio",PH,69,106,89,0.236,0.352,0.270,0.622,11,5,21,18,3,0,0,24,1,1,13,0,24,1,3,1,0,31133828
+1973,Regular Season,Yomiuri Giants,10,"Ano, Koji",C,4,5,4,0.250,0.400,0.250,0.650,0,0,1,1,0,0,0,1,0,0,1,0,1,1,0,0,0,31133841
+1973,Regular Season,Yakult Atoms,18,"Aida, Teruo",P,21,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,31133843
+1973,Regular Season,Hiroshima Toyo Carp,52,"Ishikawa, Masao",C,12,8,8,0.125,0.125,0.250,0.375,0,0,1,0,1,0,0,2,1,1,0,0,0,0,0,0,0,31133845
+1973,Regular Season,Lotte Orions,54,"Abe, Kenichi",LF,3,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31133847
+1973,Regular Season,Nittaku Home Flyers,10,"Harimoto, Isao",LF,128,550,441,0.324,0.448,0.590,1.038,77,93,143,92,18,0,33,260,12,6,93,19,32,4,6,1,5,31233808
+1973,Regular Season,Yakult Atoms,9,"Lopez, Art",RF,117,354,313,0.233,0.314,0.380,0.694,33,39,73,49,13,0,11,119,3,2,35,7,24,13,2,1,3,31233826
+1973,Climax Series - Final Stage,Nankai Hawks,20,"Yamauchi, Shinichi",P,4,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,31233828
+1973,Japan Series,Nankai Hawks,20,"Yamauchi, Shinichi",P,4,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,31233828
+1973,Regular Season,Nankai Hawks,20,"Yamauchi, Shinichi",P,37,91,84,0.202,0.212,0.250,0.462,3,8,17,15,1,0,1,21,0,0,1,0,27,3,0,5,1,31233828
+1973,Regular Season,Hiroshima Toyo Carp,43,"Fukazawa, Shuichi",RF,92,118,106,0.198,0.248,0.292,0.540,16,5,21,15,4,0,2,31,8,4,6,0,14,2,1,4,1,31233841
+1973,Regular Season,Taiheiyo Club Lions,26,"Fujii, Nobuyuki",PH,28,29,28,0.143,0.172,0.143,0.315,2,0,4,4,0,0,0,4,0,0,1,0,6,1,0,0,0,31233843
+1973,Regular Season,Taiyo Whales,43,"Matsushima, Hideo",P,5,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31233845
+1973,Regular Season,Nittaku Home Flyers,8,"Redmon, Jim",SS,73,239,230,0.243,0.263,0.339,0.602,23,24,56,44,7,0,5,78,5,1,4,0,22,12,2,0,3,31233847
+1973,Regular Season,Hiroshima Toyo Carp,6,"Imazu, Mitsuo",SS,73,113,108,0.194,0.216,0.241,0.457,8,7,21,18,1,2,0,26,5,0,3,1,14,1,0,2,0,31333806
+1973,Regular Season,Lotte Orions,3,"Ejima, Takumi",LF,92,51,41,0.195,0.313,0.220,0.533,5,3,8,7,1,0,0,9,6,3,5,0,5,3,2,3,0,31333826
+1973,Regular Season,Taiheiyo Club Lions,38,"Ono, Yasutoshi",PH,5,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31333828
+1973,Regular Season,Chunichi Dragons,18,"Inaba, Mitsuo",P,34,49,42,0.048,0.130,0.048,0.178,1,0,2,2,0,0,0,2,0,1,4,0,17,0,0,3,0,31333843
+1973,Regular Season,Taiheiyo Club Lions,11,"Kato, Hajime",P,43,51,45,0.089,0.109,0.089,0.198,1,2,4,4,0,0,0,4,0,0,1,0,23,0,0,5,0,31333845
+1973,Regular Season,Nankai Hawks,35,"Ogawa, Kazuo",3B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31333847
+1973,Regular Season,Lotte Orions,2,"Yamazaki, Hiroyuki",2B,123,429,377,0.239,0.317,0.355,0.672,45,27,90,66,13,2,9,134,11,6,39,1,65,6,4,8,1,31433820
+1973,Regular Season,Taiyo Whales,17,"Yamashita, Ritsuo",P,42,63,54,0.148,0.179,0.241,0.420,4,2,8,6,0,1,1,13,0,0,2,0,17,0,0,7,0,31433824
+1973,Regular Season,Chunichi Dragons,21,"Matsumoto, Yukitsura",P,39,80,66,0.152,0.222,0.152,0.374,1,4,10,10,0,0,0,10,0,0,6,0,14,1,0,7,1,31433841
+1973,Regular Season,Yomiuri Giants,15,"Yokoyama, Tadao",P,10,3,2,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,31433845
+1973,Regular Season,Nittaku Home Flyers,29,"Okamura, Koji",C,72,185,159,0.208,0.315,0.289,0.604,11,13,33,26,4,0,3,46,0,3,23,2,20,6,2,0,1,31533808
+1973,Regular Season,Taiheiyo Club Lions,18,"Kawahara, Akira",P,6,2,2,0.500,0.500,0.500,1.000,0,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,31533826
+1973,Regular Season,Hankyu Braves,27,"Kiritoshi, Takeshi",PH,1,1,1,1.000,1.000,1.000,2.000,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,31533828
+1973,Regular Season,Taiheiyo Club Lions,46,"Kasuga, Ippei",PH,3,2,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31533841
+1973,Regular Season,Kintetsu Buffaloes,45,"Qualls, Jim",2B,81,317,302,0.209,0.239,0.291,0.530,32,23,63,50,7,0,6,88,2,0,5,0,30,12,7,2,1,31533845
+1973,Regular Season,Kintetsu Buffaloes,44,"Coggins, Frank",3B,13,41,40,0.125,0.125,0.300,0.425,3,4,5,2,1,0,2,12,0,0,0,0,8,2,0,0,1,31533847
+1973,Regular Season,Chunichi Dragons,14,"Yazawa, Kenichi",1B,126,518,454,0.295,0.377,0.419,0.796,47,45,134,98,26,0,10,190,0,2,53,1,35,13,7,2,2,31633841
+1973,Regular Season,Chunichi Dragons,22,"Watabe, Tsukasa",P,4,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31633843
+1973,Regular Season,Kintetsu Buffaloes,1,"Suzuki, Keishi",P,30,63,59,0.271,0.295,0.373,0.668,7,11,16,13,1,1,1,22,0,0,2,0,6,2,0,2,0,31733822
+1973,Regular Season,Hiroshima Toyo Carp,21,"Saeki, Kazushi",P,45,92,81,0.062,0.106,0.062,0.168,5,0,5,5,0,0,0,5,0,0,4,0,31,4,0,7,0,31733843
+1973,Regular Season,Taiyo Whales,11,"Sipin, John",2B,123,521,478,0.295,0.349,0.548,0.897,70,75,141,86,22,0,33,262,4,1,38,5,65,24,2,0,3,31733845
+1973,Regular Season,Yomiuri Giants,47,"Tamai, Nobuhiro",P,7,4,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,31733847
+1973,Regular Season,Taiyo Whales,47,"Koyama, Masaaki",P,15,19,16,0.063,0.118,0.063,0.181,0,0,1,1,0,0,0,1,0,0,1,0,6,1,0,2,0,31933807
+1973,Regular Season,Taiyo Whales,12,"Sakai, Katsuji",P,30,46,40,0.100,0.122,0.100,0.222,2,2,4,4,0,0,0,4,0,0,1,0,18,1,0,4,1,31933808
+1973,Regular Season,Kintetsu Buffaloes,25,"Kitagawa, Koichi",PH,66,67,61,0.230,0.277,0.230,0.507,0,16,14,14,0,0,0,14,0,0,3,0,8,5,1,1,1,31933809
+1973,Regular Season,Yakult Atoms,2,"Takegami, Shiro",2B,68,167,147,0.211,0.275,0.306,0.581,11,12,31,22,6,1,2,45,1,2,12,0,17,3,1,7,0,31933824
+1973,Regular Season,Kintetsu Buffaloes,16,"Sasaki, Koichiro",P,27,25,21,0.000,0.045,0.000,0.045,1,1,0,0,0,0,0,0,0,0,1,0,10,0,0,3,0,31933825
+1973,Climax Series - Final Stage,Hankyu Braves,55,"Takemura, Kazuyoshi",P,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,31933826
+1973,Regular Season,Hankyu Braves,55,"Takemura, Kazuyoshi",P,24,41,35,0.143,0.143,0.143,0.286,1,1,5,5,0,0,0,5,0,0,0,0,12,0,0,6,0,31933826
+1973,Regular Season,Taiyo Whales,36,"Takemura, Kazuyoshi",P,9,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31933826
+1973,Regular Season,Nittaku Home Flyers,30,"Nakahara, Masatoshi",SS,76,83,75,0.267,0.329,0.333,0.662,6,3,20,17,2,0,1,25,2,0,7,0,8,4,0,0,1,31933828
+1973,Regular Season,Nittaku Home Flyers,15,"Sugita, Hisao",P,18,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,31933843
+1973,Regular Season,Chunichi Dragons,46,"Takeda, Masafumi",P,10,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31933845
+1973,Regular Season,Kintetsu Buffaloes,30,"Hada, Koichi",3B,104,391,371,0.240,0.273,0.388,0.661,29,34,89,59,17,1,12,144,3,2,13,0,59,8,4,1,2,31933847
+1973,Regular Season,Hanshin Tigers,27,"Wako, Tomo",P,25,10,10,0.100,0.100,0.100,0.200,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,33333802
+1973,Regular Season,Lotte Orions,6,"Senda, Keisuke",SS,43,107,95,0.232,0.311,0.326,0.637,12,6,22,14,7,1,0,31,4,2,11,1,13,5,0,0,1,41043825
+1973,Regular Season,Lotte Orions,29,"Murata, Choji",P,41,46,42,0.143,0.143,0.143,0.286,1,3,6,6,0,0,0,6,1,0,0,0,7,0,0,4,0,41043826
+1973,Climax Series - Final Stage,Nankai Hawks,15,"Murakami, Masanori",P,4,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41043827
+1973,Japan Series,Nankai Hawks,15,"Murakami, Masanori",P,4,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41043827
+1973,Regular Season,Nankai Hawks,15,"Murakami, Masanori",P,23,16,15,0.133,0.133,0.133,0.266,1,2,2,2,0,0,0,2,0,0,0,0,2,0,0,1,0,41043827
+1973,Regular Season,Chunichi Dragons,45,"Mizutani, Norihiro",P,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043828
+1973,Regular Season,Lotte Orions,50,"Mizutani, Norihiro",P,19,13,13,0.077,0.077,0.077,0.154,1,0,1,1,0,0,0,1,1,0,0,0,2,0,0,0,0,41043828
+1973,Regular Season,Nankai Hawks,33,"Nishikawa, Katsuhiro",P,23,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41043829
+1973,Japan Series,Yomiuri Giants,32,"Hagiwara, Yasuhiro",PH,3,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41043841
+1973,Regular Season,Yomiuri Giants,32,"Hagiwara, Yasuhiro",PH,38,41,36,0.194,0.275,0.361,0.636,4,4,7,5,0,0,2,13,0,0,4,0,4,0,0,1,0,41043841
+1973,Regular Season,Taiyo Whales,3,"Noguchi, Yoshio",PR,37,7,6,0.167,0.286,0.167,0.453,10,0,1,1,0,0,0,1,9,3,1,0,1,1,0,0,0,41043843
+1973,Regular Season,Taiyo Whales,59,"Yano, Toshikazu",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41043847
+1973,Regular Season,Taiheiyo Club Lions,20,"Ishii, Shigeo",P,40,66,62,0.113,0.127,0.129,0.256,2,3,7,6,1,0,0,8,0,0,1,0,20,1,0,2,1,41143806
+1973,Regular Season,Chunichi Dragons,53,"Ide, Takashi",CF,83,21,19,0.158,0.200,0.316,0.516,5,1,3,2,0,0,1,6,0,0,1,0,6,1,0,1,0,41143824
+1973,Japan Series,Nankai Hawks,6,"Aono, Shuzo",PH,2,,2,1.000,,1.000,,,0,2,2,0,0,0,2,0,,0,,0,,,,,41143825
+1973,Regular Season,Nankai Hawks,6,"Aono, Shuzo",PH,52,52,46,0.217,0.308,0.239,0.547,0,3,10,9,1,0,0,11,0,0,5,1,5,2,1,0,0,41143825
+1973,Regular Season,Nankai Hawks,55,"Ikeuchi, Yutaka",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41143843
+1973,Regular Season,Yakult Atoms,13,"Enomoto, Naoki",P,37,42,37,0.054,0.125,0.054,0.179,1,0,2,2,0,0,0,2,0,0,3,0,21,0,0,2,0,41143845
+1973,Regular Season,Chunichi Dragons,35,"Ito, Yasunori",3B,3,5,5,0.400,0.400,0.400,0.800,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,41143847
+1973,Regular Season,Hiroshima Toyo Carp,22,"Miyamoto, Yojiro",P,12,5,3,0.000,0.250,0.000,0.250,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,41243820
+1973,Regular Season,Lotte Orions,27,"Yagisawa, Soroku",P,55,29,22,0.182,0.250,0.409,0.659,2,4,4,1,2,0,1,9,0,0,2,0,8,0,0,4,1,41243824
+1973,Climax Series - Final Stage,Hankyu Braves,2,"Watanabe, Tsutomu",PR,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41243828
+1973,Regular Season,Hankyu Braves,2,"Watanabe, Tsutomu",PR,36,12,12,0.167,0.167,0.417,0.584,6,1,2,1,0,0,1,5,1,0,0,0,3,1,0,0,0,41243828
+1973,Regular Season,Hanshin Tigers,51,"Furusawa, Kenji",P,43,37,33,0.091,0.118,0.091,0.209,1,1,3,3,0,0,0,3,0,0,1,0,10,0,0,3,0,41243829
+1973,Regular Season,Taiyo Whales,38,"Mashiba, Shigekuni",P,2,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243841
+1973,Regular Season,Nittaku Home Flyers,3,"Osugi, Katsuo",1B,130,548,478,0.270,0.355,0.517,0.872,74,85,129,80,14,1,34,247,3,1,59,2,56,21,4,0,7,41343820
+1973,Regular Season,Hanshin Tigers,28,"Enatsu, Yutaka",P,53,108,98,0.133,0.175,0.214,0.389,5,6,13,9,2,0,2,21,0,0,5,0,31,1,0,5,0,41343824
+1973,Regular Season,Lotte Orions,30,"Kai, Kazuo",SS,66,98,89,0.236,0.292,0.270,0.562,16,5,21,18,3,0,0,24,5,1,7,0,14,1,0,1,1,41343826
+1973,Regular Season,Yakult Atoms,27,"Oya, Akihiko",C,121,393,355,0.189,0.242,0.282,0.524,28,21,67,50,8,2,7,100,3,2,25,7,46,14,0,10,3,41343841
+1973,Regular Season,Hiroshima Toyo Carp,27,"Kaneshiro, Motoyasu",P,40,39,36,0.083,0.108,0.194,0.302,1,2,3,1,1,0,1,7,0,0,1,0,12,1,0,2,0,41343845
+1973,Regular Season,Nankai Hawks,53,"Kashiwabara, Junichi",2B,25,70,65,0.277,0.329,0.400,0.729,7,6,18,13,3,1,1,26,2,0,3,0,8,1,2,0,0,41343847
+1973,Regular Season,Taiyo Whales,4,"Miyahara, Hideaki",PH,32,31,30,0.133,0.161,0.167,0.328,0,0,4,3,1,0,0,5,0,0,1,0,2,1,0,0,0,41443823
+1973,Regular Season,Taiheiyo Club Lions,36,"Yoneyama, Tetsuo",2B,50,117,104,0.269,0.333,0.375,0.708,11,11,28,20,6,1,1,39,1,0,10,2,7,3,0,1,2,41443843
+1973,Regular Season,Chunichi Dragons,7,"Shintaku, Hiroshi",C,51,87,76,0.184,0.271,0.211,0.482,2,4,14,12,2,0,0,16,0,0,9,0,14,3,0,1,1,41543822
+1973,Regular Season,Taiheiyo Club Lions,49,"Kawato, Ryunosuke",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543824
+1973,Regular Season,Taiheiyo Club Lions,13,"Shibaike, Hiroaki",P,23,6,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,41543828
+1973,Regular Season,Yakult Atoms,41,"Kawai, Shoji",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543841
+1973,Regular Season,Hankyu Braves,8,"Komatsu, Kenji",RF,41,20,20,0.200,0.200,0.250,0.450,2,0,4,3,1,0,0,5,0,0,0,0,5,0,0,0,0,41543843
+1973,Regular Season,Taiyo Whales,55,"Kobayashi, Koji",LF,8,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41543845
+1973,Regular Season,Chunichi Dragons,29,"Suzuki, Takamasa",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543847
+1973,Climax Series - Final Stage,Nankai Hawks,12,"Hirose, Yoshinori",LF,9,,21,0.333,,0.524,,,2,7,5,1,0,1,11,2,,1,,0,,,,,41643802
+1973,Japan Series,Nankai Hawks,12,"Hirose, Yoshinori",LF,9,,13,0.231,,0.231,,,0,3,3,0,0,0,3,1,,2,,1,,,,,41643802
+1973,Regular Season,Nankai Hawks,12,"Hirose, Yoshinori",LF,40,49,41,0.244,0.340,0.293,0.633,11,3,10,8,2,0,0,12,4,2,4,0,5,0,2,1,1,41643802
+1973,Regular Season,Nittaku Home Flyers,18,"Watanabe, Hidetake",P,43,77,73,0.137,0.149,0.178,0.327,2,4,10,7,3,0,0,13,0,0,0,0,26,1,1,3,0,41643829
+1973,Japan Series,Yomiuri Giants,8,"Takada, Shigeru",LF,5,,14,0.357,,0.500,,,1,5,3,2,0,0,7,2,,6,,2,,,,,41743826
+1973,Regular Season,Yomiuri Giants,8,"Takada, Shigeru",LF,121,428,375,0.251,0.313,0.416,0.729,67,42,94,61,18,1,14,156,18,1,30,0,34,6,4,14,5,41743826
+1973,Regular Season,Kintetsu Buffaloes,8,"Tsuji, Yoshinori",C,73,162,147,0.156,0.210,0.184,0.394,9,8,23,21,1,0,1,27,1,1,7,4,31,3,3,4,1,41743827
+1973,Regular Season,Nittaku Home Flyers,56,"Saruwatari, Hiroshige",PH,25,31,30,0.233,0.258,0.233,0.491,5,0,7,7,0,0,0,7,0,1,0,0,6,1,1,0,0,41743841
+1973,Regular Season,Nittaku Home Flyers,9,"Sendo, Mikio",RF,127,507,444,0.275,0.346,0.392,0.738,55,57,122,93,16,3,10,174,2,3,44,0,25,8,4,8,7,41743845
+1973,Regular Season,Yakult Atoms,6,"Nagao, Yasunori",SS,33,42,42,0.143,0.143,0.167,0.310,3,0,6,5,1,0,0,7,0,2,0,0,2,0,0,0,0,41743847
+1973,Regular Season,Taiyo Whales,25,"Matsubara, Makoto",1B,130,538,507,0.278,0.309,0.467,0.776,55,78,141,93,24,0,24,237,3,0,19,1,54,20,4,0,8,41843825
+1973,Regular Season,Hanshin Tigers,24,"Tohi, Goro",1B,113,387,351,0.296,0.353,0.390,0.743,29,42,104,81,18,0,5,137,0,4,29,2,53,8,2,2,3,41943806
+1973,Regular Season,Lotte Orions,18,"Narita, Fumio",P,52,95,80,0.288,0.321,0.363,0.684,6,7,23,19,3,0,1,29,0,1,4,0,19,0,0,11,0,41943820
+1973,Regular Season,Kintetsu Buffaloes,10,"Nagabuchi, Yozo",RF,114,382,355,0.231,0.266,0.287,0.553,30,30,82,70,8,0,4,102,11,5,16,0,28,4,1,6,4,41943826
+1973,Regular Season,Lotte Orions,9,"Hasegawa, Kazuo",PH,93,238,210,0.276,0.342,0.410,0.752,19,18,58,40,12,2,4,86,2,3,19,0,17,3,2,6,1,41943827
+1973,Japan Series,Yomiuri Giants,12,"Taki, Yasuharu",3B,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,41943829
+1973,Regular Season,Yomiuri Giants,12,"Taki, Yasuharu",3B,43,14,12,0.083,0.154,0.083,0.237,2,1,1,1,0,0,0,1,0,0,1,0,7,0,0,1,0,41943829
+1973,Regular Season,Nittaku Home Flyers,47,"Nakahara, Isamu",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943841
+1973,Regular Season,Hanshin Tigers,18,"Tanimura, Tomohiro",P,41,58,54,0.093,0.109,0.093,0.202,2,0,5,5,0,0,0,5,0,0,1,0,18,1,0,3,0,41943843
+1973,Regular Season,Hiroshima Toyo Carp,20,"Nagai, Tamotsu",P,21,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943845
+1973,Regular Season,Yakult Atoms,5,"Pepitone, Joe",1B,14,49,43,0.163,0.265,0.233,0.498,1,2,7,6,0,0,1,10,0,0,5,3,7,0,1,0,0,41943847
+1973,Japan Series,Yomiuri Giants,27,"Mori, Masahiko",C,5,,12,0.083,,0.333,,,1,1,0,0,0,1,4,0,,0,,1,,,,,43543800
+1973,Regular Season,Yomiuri Giants,27,"Mori, Masahiko",C,97,241,223,0.220,0.269,0.283,0.552,11,19,49,41,5,0,3,63,1,0,14,2,10,7,1,2,1,43543800
+1973,Regular Season,Hanshin Tigers,44,"Fujita, Norihiro",PH,15,17,16,0.125,0.176,0.250,0.426,0,0,2,1,0,1,0,4,0,0,1,0,5,0,0,0,0,51053822
+1973,Climax Series - Final Stage,Hankyu Braves,22,"Tanemo, Masayuki",C,4,,9,0.222,,0.222,,,0,2,2,0,0,0,2,0,,1,,1,,,,,51053823
+1973,Regular Season,Hankyu Braves,22,"Tanemo, Masayuki",C,102,305,275,0.276,0.337,0.345,0.682,21,27,76,63,10,0,3,95,1,2,22,3,11,15,3,4,1,51053823
+1973,Climax Series - Final Stage,Hankyu Braves,40,"Hirabayashi, Jiro",2B,3,,1,0.000,,0.000,,,0,0,0,0,0,0,0,1,,0,,0,,,,,51053824
+1973,Regular Season,Hankyu Braves,40,"Hirabayashi, Jiro",2B,85,79,71,0.211,0.243,0.282,0.525,15,6,15,12,1,2,0,20,6,5,2,0,12,0,1,4,1,51053824
+1973,Regular Season,Taiheiyo Club Lions,22,"Higashida, Masayoshi",RF,114,427,387,0.261,0.327,0.429,0.756,41,51,101,69,15,1,16,166,4,4,35,4,48,6,3,0,2,51053826
+1973,Regular Season,Chunichi Dragons,20,"Hoshino, Senichi",P,44,52,45,0.133,0.188,0.222,0.410,3,5,6,4,1,0,1,10,0,0,2,0,16,2,1,4,0,51053828
+1973,Climax Series - Final Stage,Hankyu Braves,11,"Toda, Yoshinori",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51053829
+1973,Regular Season,Hankyu Braves,11,"Toda, Yoshinori",P,39,38,33,0.091,0.189,0.091,0.280,0,0,3,3,0,0,0,3,1,0,4,0,13,2,0,1,0,51053829
+1973,Regular Season,Chunichi Dragons,39,"Nishida, Toru",SS,48,46,40,0.200,0.273,0.350,0.623,7,3,8,6,0,0,2,14,1,3,3,0,4,3,1,2,0,51053841
+1973,Regular Season,Kintetsu Buffaloes,28,"Nakazawa, Haruo",PH,2,4,4,0.250,0.250,0.750,1.000,0,0,1,0,0,1,0,3,0,0,0,0,2,0,0,0,0,51053843
+1973,Regular Season,Nankai Hawks,21,"Nozaki, Tsuneo",P,17,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,51053845
+1973,Regular Season,Yomiuri Giants,54,"Matsuo, Teruyoshi",P,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51053847
+1973,Regular Season,Chunichi Dragons,12,"Iida, Yukio",PH,68,94,82,0.268,0.341,0.451,0.792,16,11,22,15,3,0,4,37,0,1,9,0,19,2,0,3,0,51153822
+1973,Regular Season,Hiroshima Toyo Carp,16,"Aniya, Sohachi",P,40,39,37,0.108,0.132,0.108,0.240,1,1,4,4,0,0,0,4,0,0,1,0,7,0,0,1,0,51153829
+1973,Regular Season,Lotte Orions,32,"Arai, Masanori",2B,13,33,29,0.276,0.344,0.310,0.654,7,1,8,7,1,0,0,9,4,0,2,0,4,0,1,1,0,51153841
+1973,Regular Season,Nittaku Home Flyers,14,"Uda, Toshoku",P,12,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,51153845
+1973,Regular Season,Nittaku Home Flyers,36,"Aimoto, Kazunori",SS,26,47,41,0.220,0.319,0.390,0.709,4,5,9,6,1,0,2,16,0,1,6,1,10,0,0,0,0,51153847
+1973,Regular Season,Hiroshima Toyo Carp,9,"Mimura, Toshiyuki",SS,121,521,449,0.269,0.362,0.390,0.752,56,32,121,93,14,2,12,175,7,4,57,1,59,9,8,7,0,51253824
+1973,Regular Season,Lotte Orions,26,"Wako, Kazuya",P,12,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,51253826
+1973,Regular Season,Hankyu Braves,1,"Yamaguchi, Fujio",2B,25,49,43,0.186,0.271,0.209,0.480,5,6,8,7,1,0,0,9,0,0,5,0,7,2,0,1,0,51253827
+1973,Regular Season,Taiyo Whales,29,"Yamaguchi, Fujio",SS,62,171,152,0.151,0.194,0.217,0.411,11,3,23,17,3,2,1,33,3,1,8,0,16,1,0,11,0,51253827
+1973,Climax Series - Final Stage,Hankyu Braves,17,"Yamada, Hisashi",P,2,,6,0.333,,0.333,,,1,2,2,0,0,0,2,0,,0,,0,,,,,51253828
+1973,Regular Season,Hankyu Braves,17,"Yamada, Hisashi",P,36,73,65,0.231,0.242,0.246,0.488,6,5,15,14,1,0,0,16,1,0,1,0,14,2,0,7,0,51253828
+1973,Climax Series - Final Stage,Nankai Hawks,34,"Fukushi, Hiroaki",P,3,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,51253841
+1973,Japan Series,Nankai Hawks,34,"Fukushi, Hiroaki",P,3,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,51253841
+1973,Regular Season,Nankai Hawks,34,"Fukushi, Hiroaki",P,27,48,44,0.091,0.130,0.091,0.221,0,1,4,4,0,0,0,4,0,0,1,0,20,1,1,2,0,51253841
+1973,Regular Season,Taiheiyo Club Lions,42,"Repoz, Roger",1B,66,215,186,0.220,0.316,0.430,0.746,25,30,41,26,3,0,12,80,4,3,23,2,41,0,3,0,3,51253847
+1973,Regular Season,Taiyo Whales,19,"Ejiri, Akira",RF,122,474,433,0.291,0.344,0.441,0.785,54,44,126,92,18,1,15,191,8,3,27,0,41,8,8,1,5,51353820
+1973,Regular Season,Lotte Orions,16,"Ikebe, Takenori",RF,93,318,279,0.215,0.300,0.358,0.658,34,36,60,44,4,0,12,100,6,4,29,0,38,6,5,4,1,51353825
+1973,Regular Season,Kintetsu Buffaloes,7,"Ogawa, Toru",1B,123,488,432,0.289,0.362,0.481,0.843,61,63,125,84,18,4,19,208,16,6,38,1,31,10,11,4,3,51353826
+1973,Regular Season,Chunichi Dragons,58,"Osumi, Masato",PH,79,109,101,0.238,0.280,0.356,0.636,7,15,24,16,6,0,2,36,0,0,6,0,12,6,0,0,2,51353828
+1973,Regular Season,Kintetsu Buffaloes,2,"Ichieda, Shuhei",SS,53,124,117,0.248,0.267,0.359,0.626,9,8,29,22,4,0,3,42,2,2,3,0,13,1,0,4,0,51353829
+1973,Regular Season,Taiheiyo Club Lions,23,"Umeda, Kunizo",SS,118,421,348,0.247,0.333,0.307,0.640,51,18,86,72,9,3,2,107,33,6,33,0,43,6,12,26,2,51353841
+1973,Regular Season,Hankyu Braves,21,"Imai, Yutaro",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353843
+1973,Regular Season,Hanshin Tigers,54,"Ogawa, Seiichi",P,7,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51353847
+1973,Regular Season,Kintetsu Buffaloes,3,"Doi, Masahiro",LF,122,492,414,0.316,0.420,0.563,0.983,60,76,131,87,15,0,29,233,2,2,66,10,24,15,8,0,4,51453825
+1973,Regular Season,Nittaku Home Flyers,22,"Yokoyama, Haruhisa",P,4,1,0,0.000,1.000,0.000,1.000,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,51453845
+1973,Regular Season,Hiroshima Toyo Carp,11,"Kihara, Yoshitaka",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553820
+1973,Regular Season,Nankai Hawks,45,"Shibata, Takeshi",C,12,9,7,0.429,0.556,0.714,1.270,1,2,3,1,2,0,0,5,0,0,1,0,1,0,1,0,0,51553822
+1973,Climax Series - Final Stage,Nankai Hawks,3,"Sano, Yoshiyuki",SS,8,,11,0.364,,0.636,,,1,4,3,0,0,1,7,0,,0,,1,,,,,51553827
+1973,Japan Series,Nankai Hawks,3,"Sano, Yoshiyuki",SS,5,,12,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,3,,,,,51553827
+1973,Regular Season,Nankai Hawks,3,"Sano, Yoshiyuki",SS,109,373,338,0.263,0.314,0.343,0.657,21,30,89,68,17,2,2,116,2,5,25,1,30,10,0,6,4,51553827
+1973,Regular Season,Taiheiyo Club Lions,12,"Kataoka, Shinnosuke",C,62,145,135,0.163,0.204,0.207,0.411,9,4,22,18,3,0,1,28,1,1,7,1,13,4,0,3,0,51553843
+1973,Regular Season,Hiroshima Toyo Carp,47,"Kubo, Toshimi",3B,64,32,29,0.000,0.000,0.000,0.000,3,0,0,0,0,0,0,0,1,1,0,0,9,0,0,3,0,51553845
+1973,Regular Season,Yakult Atoms,14,"Kobayashi, Kunio",P,26,17,14,0.071,0.133,0.071,0.204,0,0,1,1,0,0,0,1,0,0,1,0,6,0,0,2,0,51553847
+1973,Regular Season,Lotte Orions,44,"Yasuda, Taiichi",PH,5,7,7,0.429,0.429,0.857,1.286,2,2,3,2,0,0,1,6,0,0,0,0,0,1,0,0,0,51653841
+1973,Regular Season,Taiyo Whales,20,"Shimada, Gentaro",P,9,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51753806
+1973,Regular Season,Hiroshima Toyo Carp,14,"Sotokoba, Yoshiro",P,45,83,79,0.127,0.159,0.165,0.324,2,3,10,8,1,1,0,13,0,0,3,0,20,1,0,1,0,51753820
+1973,Climax Series - Final Stage,Hankyu Braves,24,"Sumitomo, Taira",2B,5,,20,0.250,,0.700,,,6,5,2,0,0,3,14,0,,1,,1,,,,,51753822
+1973,Regular Season,Hankyu Braves,24,"Sumitomo, Taira",2B,127,558,453,0.263,0.381,0.373,0.754,82,62,119,92,14,3,10,169,21,12,72,0,48,10,15,13,4,51753822
+1973,Regular Season,Nittaku Home Flyers,2,"Sakamoto, Toshizo",3B,130,530,478,0.268,0.324,0.372,0.696,60,41,128,98,20,0,10,178,7,7,37,1,32,6,3,8,4,51753824
+1973,Regular Season,Taiheiyo Club Lions,5,"Takagi, Takashi",PH,50,58,48,0.125,0.208,0.125,0.333,1,5,6,6,0,0,0,6,0,0,5,1,6,5,0,1,4,51753827
+1973,Regular Season,Taiheiyo Club Lions,15,"Tanaka, Akira",P,55,41,37,0.216,0.237,0.270,0.507,2,5,8,6,2,0,0,10,0,0,1,0,7,1,0,3,0,51753828
+1973,Regular Season,Taiheiyo Club Lions,58,"Sato, Issei",PH,5,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,51753829
+1973,Regular Season,Nittaku Home Flyers,24,"Kosaka, Toshihiko",P,7,1,1,1.000,1.000,1.000,2.000,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,51753841
+1973,Regular Season,Kintetsu Buffaloes,35,"Sato, Takehide",PH,25,48,44,0.182,0.217,0.273,0.490,3,6,8,6,1,0,1,12,0,0,2,0,12,4,0,0,2,51753843
+1973,Regular Season,Chunichi Dragons,43,"Tsuji, Tetsuya",PH,4,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,51753847
+1973,Regular Season,Hanshin Tigers,15,"Gondo, Masatoshi",P,25,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51953807
+1973,Japan Series,Yomiuri Giants,6,"Doi, Shozo",2B,5,,20,0.250,,0.450,,,4,5,3,1,0,1,9,0,,3,,0,,,,,51953820
+1973,Regular Season,Yomiuri Giants,6,"Doi, Shozo",2B,105,355,305,0.262,0.332,0.354,0.686,34,31,80,62,13,0,5,108,1,5,29,1,36,8,3,17,1,51953820
+1973,Regular Season,Yomiuri Giants,23,"Tsuchida, Makoto",PH,50,63,57,0.123,0.180,0.211,0.391,4,8,7,4,2,0,1,12,0,1,4,0,12,3,0,1,1,51953824
+1973,Regular Season,Kintetsu Buffaloes,14,"Sei, Toshihiko",P,45,54,46,0.152,0.204,0.174,0.378,3,2,7,6,1,0,0,8,0,0,3,0,19,0,0,5,0,51953829
+1973,Regular Season,Yomiuri Giants,49,"Sugiyama, Shigeru",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51953843
+1973,Regular Season,Kintetsu Buffaloes,19,"Tachibana, Kenji",P,9,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,51953845
+1973,Regular Season,Yomiuri Giants,33,"Harada, Haruaki",PH,49,78,70,0.271,0.346,0.343,0.689,5,9,19,16,2,0,1,24,0,0,8,0,17,0,0,0,0,51953847
+1973,Regular Season,Taiheiyo Club Lions,3,"Fukutomi, Kunio",CF,117,439,385,0.273,0.347,0.436,0.783,61,42,105,69,21,3,12,168,5,8,41,6,72,4,3,6,4,61063820
+1973,Regular Season,Hiroshima Toyo Carp,4,"Mizutani, Jitsuo",RF,102,267,251,0.231,0.274,0.363,0.637,18,29,58,40,10,1,7,91,1,1,12,0,32,7,3,1,0,61063822
+1973,Regular Season,Hiroshima Toyo Carp,17,"Fujimoto, Kazuhiro",P,25,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,61063824
+1973,Regular Season,Taiyo Whales,39,"Yamamoto, Tsuneyuki",C,3,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61063826
+1973,Regular Season,Kintetsu Buffaloes,31,"Mizutani, Hiroshi",P,41,15,14,0.214,0.214,0.214,0.428,0,0,3,3,0,0,0,3,0,0,0,0,3,0,0,1,0,61063828
+1973,Regular Season,Nittaku Home Flyers,28,"Hosaka, Eiji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61063845
+1973,Regular Season,Yomiuri Giants,30,"Yamamoto, Kazuo",3B,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61063847
+1973,Regular Season,Yakult Atoms,39,"Inoe, Yoichi",RF,63,71,60,0.217,0.299,0.317,0.616,14,3,13,11,0,0,2,19,3,1,7,2,15,3,0,4,0,61163824
+1973,Regular Season,Lotte Orions,13,"Iizuka, Yoshihiro",SS,101,182,156,0.231,0.306,0.333,0.639,23,12,36,28,3,2,3,52,14,11,14,1,19,1,3,8,1,61163828
+1973,Regular Season,Nittaku Home Flyers,59,"Ogata, Toshifumi",PR,18,10,9,0.222,0.300,0.222,0.522,1,0,2,2,0,0,0,2,1,1,1,0,1,0,0,0,0,61163845
+1973,Regular Season,Lotte Orions,52,"Ikeda, Yukihiro",SS,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61163847
+1973,Regular Season,Hankyu Braves,9,"Morimoto, Kiyoshi",3B,94,376,321,0.277,0.378,0.427,0.805,35,48,89,64,13,1,11,137,8,2,49,0,44,11,3,0,3,61263820
+1973,Regular Season,Kintetsu Buffaloes,51,"Manabe, Mikizo",C,12,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61263841
+1973,Regular Season,Hiroshima Toyo Carp,41,"Morioka, Shigeki",PH,8,6,5,0.000,0.167,0.000,0.167,2,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,61263843
+1973,Regular Season,Hanshin Tigers,29,"Mochizuki, Mitsuru",LF,95,331,294,0.214,0.285,0.327,0.612,27,25,63,46,8,2,7,96,3,3,22,1,48,5,7,7,1,61263845
+1973,Japan Series,Nankai Hawks,38,"Otsuka, Toru",PH,3,,2,0.500,,0.500,,,0,1,1,0,0,0,1,0,,1,,1,,,,,61363820
+1973,Regular Season,Nankai Hawks,38,"Otsuka, Toru",PH,20,21,17,0.176,0.333,0.176,0.509,0,2,3,3,0,0,0,3,0,0,4,0,5,1,0,0,0,61363820
+1973,Regular Season,Hanshin Tigers,1,"Okura, Hidetaka",3B,34,67,55,0.145,0.266,0.145,0.411,3,3,8,8,0,0,0,8,1,3,6,1,11,4,3,3,0,61363824
+1973,Regular Season,Yakult Atoms,29,"Kushiro, Yoshiaki",C,12,13,13,0.462,0.462,0.692,1.154,3,3,6,5,0,0,1,9,0,0,0,0,1,0,0,0,0,61363827
+1973,Climax Series - Final Stage,Hankyu Braves,10,"Kato, Hideji",1B,5,,19,0.316,,0.368,,,3,6,5,1,0,0,7,2,,3,,4,,,,,61363828
+1973,Regular Season,Hankyu Braves,10,"Kato, Hideji",1B,118,494,436,0.337,0.403,0.564,0.967,69,91,147,94,27,6,20,246,16,5,41,3,51,6,7,0,10,61363828
+1973,Climax Series - Final Stage,Hankyu Braves,12,"Okuma, Tadayoshi",LF,4,,8,0.500,,0.625,,,2,4,3,1,0,0,5,0,,2,,0,,,,,61363829
+1973,Regular Season,Hankyu Braves,12,"Okuma, Tadayoshi",LF,107,327,290,0.276,0.338,0.352,0.690,31,30,80,64,13,0,3,102,7,3,23,0,29,9,4,6,4,61363829
+1973,Regular Season,Kintetsu Buffaloes,18,"Ota, Koji",P,40,57,52,0.154,0.200,0.212,0.412,6,0,8,6,1,1,0,11,0,0,3,0,13,0,0,2,0,61363841
+1973,Regular Season,Chunichi Dragons,50,"Kanayama, Takuji",LF,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363847
+1973,Regular Season,Nittaku Home Flyers,6,"Yaezawa, Kenichi",PH,6,9,8,0.000,0.111,0.000,0.111,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,61463841
+1973,Regular Season,Lotte Orions,21,"Kito, Hiroshi",P,36,23,19,0.368,0.455,0.421,0.876,4,4,7,6,1,0,0,8,0,0,3,0,4,0,0,1,0,61563824
+1973,Regular Season,Hiroshima Toyo Carp,19,"Oishi, Yataro",P,35,34,30,0.100,0.156,0.100,0.256,2,1,3,3,0,0,0,3,0,0,2,0,7,1,0,2,0,61563825
+1973,Regular Season,Chunichi Dragons,8,"Shimatani, Kinji",3B,119,432,374,0.265,0.342,0.481,0.823,41,58,99,61,16,1,21,180,8,4,41,4,54,14,3,10,4,61563828
+1973,Japan Series,Yomiuri Giants,5,"Kuroe, Yukinobu",SS,3,,7,0.286,,0.286,,,1,2,2,0,0,0,2,1,,0,,0,,,,,61563829
+1973,Regular Season,Yomiuri Giants,5,"Kuroe, Yukinobu",SS,111,390,353,0.246,0.300,0.368,0.668,35,47,87,62,15,2,8,130,10,3,24,1,28,11,3,8,2,61563829
+1973,Regular Season,Kintetsu Buffaloes,27,"Kanbe, Toshio",P,26,38,31,0.129,0.229,0.161,0.390,1,1,4,3,1,0,0,5,0,0,3,0,6,0,1,3,0,61563841
+1973,Regular Season,Lotte Orions,15,"Kondo, Shigeo",P,41,15,14,0.286,0.286,0.429,0.715,2,1,4,3,0,1,0,6,0,0,0,0,3,0,0,1,0,61563845
+1973,Regular Season,Chunichi Dragons,52,"Tanokura, Toshio",SS,2,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61563847
+1973,Climax Series - Final Stage,Nankai Hawks,4,"Jones, Clarence",1B,9,,12,0.333,,1.083,,,6,4,1,0,0,3,13,0,,2,,4,,,,,61763841
+1973,Japan Series,Nankai Hawks,4,"Jones, Clarence",1B,9,,15,0.200,,0.200,,,1,3,3,0,0,0,3,0,,5,,3,,,,,61763841
+1973,Regular Season,Nankai Hawks,4,"Jones, Clarence",1B,126,503,410,0.244,0.380,0.500,0.880,75,76,100,59,9,0,32,205,1,0,87,2,93,11,3,0,3,61763841
+1973,Regular Season,Yomiuri Giants,22,"Shimano, Osamu",P,9,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,61763843
+1973,Climax Series - Final Stage,Hankyu Braves,4,"Sorrell, Bill",PH,2,,3,0.000,,0.000,,,1,0,0,0,0,0,0,0,,1,,0,,,,,61763845
+1973,Regular Season,Hankyu Braves,4,"Sorrell, Bill",PH,64,132,115,0.235,0.323,0.357,0.680,9,12,27,21,2,0,4,41,4,0,14,0,11,3,1,0,2,61763845
+1973,Regular Season,Taiyo Whales,23,"Nagasaki, Keiji",CF,75,220,203,0.222,0.275,0.291,0.566,28,7,45,35,8,0,2,59,4,1,12,1,43,4,3,1,1,61763847
+1973,Regular Season,Taiyo Whales,9,"Shigematsu, Shozo",LF,88,197,179,0.218,0.263,0.291,0.554,16,17,39,34,1,0,4,52,0,0,9,0,20,2,2,5,2,61963825
+1973,Regular Season,Yakult Atoms,44,"Nakamura, Kuniaki",2B,121,336,300,0.213,0.265,0.287,0.552,27,21,64,50,10,0,4,86,2,7,21,0,56,7,0,14,1,61963841
+1973,Regular Season,Hiroshima Toyo Carp,26,"Nagamoto, Hiroaki",P,18,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,61963845
+1973,Regular Season,Hankyu Braves,32,"Hosokawa, Yasuo",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61963847
+1973,Regular Season,Hanshin Tigers,35,"Yamamoto, Shigemasa",P,24,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63163825
+1973,Regular Season,Taiyo Whales,27,"Hiramatsu, Masaji",P,49,68,62,0.177,0.215,0.177,0.392,4,6,11,11,0,0,0,11,0,0,1,0,18,0,2,3,0,71073824
+1973,Regular Season,Yakult Atoms,12,"Sugiyama, Shigeo",P,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71073825
+1973,Regular Season,Chunichi Dragons,51,"Masaoka, Shinji",SS,81,79,72,0.111,0.147,0.111,0.258,5,0,8,8,0,0,0,8,1,2,2,0,9,0,1,4,0,71073826
+1973,Regular Season,Kintetsu Buffaloes,34,"Nishimura, Shunji",SS,96,244,217,0.253,0.319,0.359,0.678,19,15,55,41,9,1,4,78,8,2,19,0,28,2,2,5,1,71073841
+1973,Regular Season,Yakult Atoms,46,"Matsuoka, Kiyoharu",P,5,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71073847
+1973,Regular Season,Hankyu Braves,16,"Adachi, Mitsuhiro",P,27,30,23,0.087,0.222,0.087,0.309,1,1,2,2,0,0,0,2,0,0,4,0,6,0,0,3,0,71173808
+1973,Regular Season,Yakult Atoms,19,"Asano, Keishi",P,43,58,53,0.151,0.167,0.189,0.356,4,3,8,6,2,0,0,10,0,0,1,0,23,0,0,4,0,71173824
+1973,Regular Season,Chunichi Dragons,6,"Inoe, Hiroaki",LF,103,361,317,0.271,0.346,0.473,0.819,41,57,86,56,12,2,16,150,6,5,26,1,45,9,10,6,2,71173826
+1973,Regular Season,Kintetsu Buffaloes,29,"Akiyama, Shigeo",PH,5,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,71173828
+1973,Regular Season,Hankyu Braves,36,"Arai, Yoshio",P,52,19,17,0.176,0.222,0.176,0.398,2,3,3,3,0,0,0,3,0,0,1,0,5,2,0,1,0,71173841
+1973,Regular Season,Yakult Atoms,3,"Arakawa, Takashi",3B,56,215,194,0.232,0.280,0.376,0.656,20,17,45,31,7,0,7,73,1,0,13,0,29,3,0,8,0,71173843
+1973,Regular Season,Hankyu Braves,45,"Uno, Teruyuki",1B,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71173845
+1973,Regular Season,Kintetsu Buffaloes,24,"Arita, Shuzo",C,17,6,5,0.200,0.333,0.200,0.533,0,0,1,1,0,0,0,1,0,0,1,0,2,0,0,0,0,71173847
+1973,Climax Series - Final Stage,Hankyu Braves,15,"Mizutani, Takashi",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,71273824
+1973,Regular Season,Hankyu Braves,15,"Mizutani, Takashi",P,30,48,43,0.233,0.283,0.302,0.585,6,3,10,9,0,0,1,13,0,0,3,0,7,0,0,2,0,71273824
+1973,Regular Season,Hiroshima Toyo Carp,8,"Yamamoto, Koji",CF,126,526,449,0.269,0.358,0.454,0.812,68,46,121,77,24,1,19,204,10,12,59,1,75,10,3,12,3,71273828
+1973,Regular Season,Chunichi Dragons,56,"Hoshino, Hidetaka",P,13,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71273843
+1973,Regular Season,Chunichi Dragons,11,"Misawa, Jun",P,45,41,38,0.184,0.205,0.237,0.442,3,1,7,5,2,0,0,9,0,0,1,0,10,0,0,2,0,71273845
+1973,Regular Season,Taiyo Whales,8,"Eto, Shinichi",LF,111,405,365,0.282,0.351,0.425,0.776,30,44,103,81,7,0,15,155,2,3,38,5,33,20,1,0,1,71373808
+1973,Regular Season,Lotte Orions,35,"Iwasaki, Tadayoshi",PH,83,111,105,0.295,0.308,0.390,0.698,13,12,31,23,7,0,1,41,8,4,2,0,6,6,0,4,0,71373824
+1973,Regular Season,Taiheiyo Club Lions,25,"Ota, Takuji",PH,82,131,119,0.227,0.281,0.336,0.617,11,21,27,20,4,0,3,40,3,1,7,2,25,1,2,0,3,71373828
+1973,Regular Season,Nankai Hawks,39,"Umemura, Yoshihiko",C,16,9,8,0.000,0.111,0.000,0.111,1,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,71373841
+1973,Regular Season,Yakult Atoms,50,"Uehara, Shuhei",PH,6,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71373843
+1973,Regular Season,Yakult Atoms,7,"Oda, Yoshihito",1B,82,157,148,0.216,0.256,0.311,0.567,11,13,32,24,5,0,3,46,1,4,8,0,36,1,0,1,0,71373847
+1973,Regular Season,Taiheiyo Club Lions,34,"Miura, Kiyohiro",P,27,37,32,0.156,0.206,0.188,0.394,1,3,5,4,1,0,0,6,0,0,2,0,9,0,0,3,0,71473804
+1973,Japan Series,Yomiuri Giants,9,"Yoshida, Takashi",C,2,,5,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,0,,,,,71473820
+1973,Regular Season,Yomiuri Giants,9,"Yoshida, Takashi",C,85,221,191,0.267,0.349,0.366,0.715,15,20,51,43,2,1,5,70,0,1,23,3,25,3,1,6,0,71473820
+1973,Regular Season,Taiheiyo Club Lions,16,"Miwa, Satoru",P,26,17,15,0.133,0.188,0.133,0.321,1,0,2,2,0,0,0,2,0,0,1,0,4,1,0,1,0,71473841
+1973,Regular Season,Yakult Atoms,36,"Watanabe, Susumu",SS,8,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,71473845
+1973,Regular Season,Yakult Atoms,52,"Kido, Norifumi",3B,79,126,115,0.243,0.243,0.278,0.521,4,11,28,25,2,1,0,32,2,0,0,0,12,2,0,10,1,71573804
+1973,Regular Season,Hiroshima Toyo Carp,28,"Kinugasa, Sachio",1B,130,529,454,0.207,0.310,0.363,0.673,52,53,94,62,12,1,19,165,6,3,65,6,73,17,3,4,3,71573820
+1973,Regular Season,Hanshin Tigers,3,"Goto, Kazuaki",3B,117,416,378,0.243,0.292,0.339,0.631,22,33,92,75,7,1,9,128,0,4,23,1,55,5,3,10,2,71573828
+1973,Climax Series - Final Stage,Nankai Hawks,27,"Kadota, Hiromitsu",RF,10,,22,0.227,,0.591,,,3,5,1,2,0,2,13,0,,0,,3,,,,,71573841
+1973,Japan Series,Nankai Hawks,27,"Kadota, Hiromitsu",RF,10,,17,0.176,,0.353,,,2,3,2,0,0,1,6,0,,2,,0,,,,,71573841
+1973,Regular Season,Nankai Hawks,27,"Kadota, Hiromitsu",RF,127,530,484,0.310,0.367,0.479,0.846,66,65,150,105,26,1,18,232,3,5,40,1,43,10,4,0,2,71573841
+1973,Regular Season,Taiyo Whales,56,"Kurahashi, Hiroshi",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71573845
+1973,Regular Season,Yomiuri Giants,40,"Kobayashi, Shigeru",P,6,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71573847
+1973,Regular Season,Hiroshima Toyo Carp,7,"Yamamoto, Kazuyoshi",RF,91,258,229,0.275,0.349,0.428,0.777,19,26,63,47,6,1,9,98,1,2,24,6,18,9,2,1,2,71673823
+1973,Regular Season,Taiheiyo Club Lions,17,"Yanagida, Yutaka",P,26,39,34,0.059,0.086,0.059,0.145,4,1,2,2,0,0,0,2,0,0,1,0,12,1,0,3,1,71673841
+1973,Regular Season,Nittaku Home Flyers,23,"Sakudo, Susumu",PH,10,13,12,0.250,0.308,0.250,0.558,1,1,3,3,0,0,0,3,0,0,0,0,2,0,1,0,0,71773824
+1973,Regular Season,Hanshin Tigers,22,"Tabuchi, Koichi",C,119,499,398,0.256,0.398,0.550,0.948,77,90,102,59,6,0,37,219,0,2,85,24,69,16,9,0,7,71773828
+1973,Regular Season,Chunichi Dragons,26,"Sato, Masao",P,8,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773843
+1973,Regular Season,Lotte Orions,40,"Sato, Masao",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773843
+1973,Regular Season,Hiroshima Toyo Carp,1,"Shibuya, Toru",PH,89,163,146,0.233,0.313,0.322,0.635,13,13,34,27,4,0,3,47,3,1,14,3,36,5,3,0,0,71773845
+1973,Regular Season,Chunichi Dragons,4,"Taylor, Bobby",LF,105,337,311,0.222,0.280,0.312,0.592,27,27,69,55,7,0,7,97,3,2,23,1,29,10,2,0,1,71773847
+1973,Regular Season,Yakult Atoms,38,"Tojo, Fumihiro",SS,125,449,407,0.224,0.274,0.283,0.557,35,28,91,73,14,2,2,115,9,14,28,0,53,6,0,13,1,71973820
+1973,Climax Series - Final Stage,Hankyu Braves,3,"Nagaike, Tokuji",RF,5,,17,0.235,,0.235,,,0,4,4,0,0,0,4,2,,5,,5,,,,,71973822
+1973,Regular Season,Hankyu Braves,3,"Nagaike, Tokuji",RF,128,559,479,0.313,0.406,0.624,1.030,89,109,150,89,16,2,43,299,5,5,73,12,46,13,2,0,5,71973822
+1973,Regular Season,Lotte Orions,25,"Tokutsu, Takahiro",PH,106,229,213,0.268,0.304,0.362,0.666,11,33,57,46,6,1,4,77,1,9,11,2,14,4,0,3,2,71973824
+1973,Climax Series - Final Stage,Hankyu Braves,26,"Togin, Hidetaka",LF,5,,12,0.333,,0.583,,,1,4,3,0,0,1,7,0,,2,,1,,,,,71973826
+1973,Regular Season,Hankyu Braves,26,"Togin, Hidetaka",LF,107,196,163,0.294,0.410,0.405,0.815,24,23,48,38,6,0,4,66,10,4,29,0,17,2,3,1,0,71973826
+1973,Regular Season,Lotte Orions,17,"Nomura, Osamu",P,39,43,38,0.211,0.231,0.263,0.494,4,1,8,6,2,0,0,10,0,1,1,0,8,1,0,4,0,71973828
+1973,Regular Season,Kintetsu Buffaloes,4,"Sekine, Tomo",SS,94,198,176,0.176,0.233,0.284,0.517,18,13,31,20,7,0,4,50,5,6,12,1,14,3,1,8,1,71973829
+1973,Regular Season,Chunichi Dragons,49,"Tsuboi, Shinzaburo",PH,10,10,8,0.125,0.125,0.125,0.250,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,2,0,71973841
+1973,Regular Season,Yomiuri Giants,20,"Sekimoto, Mitsuhiro",P,38,46,41,0.024,0.070,0.024,0.094,1,1,1,1,0,0,0,1,0,0,2,0,23,1,0,3,0,71973843
+1973,Regular Season,Hiroshima Toyo Carp,24,"Hicks, Jim",LF,105,344,312,0.250,0.306,0.446,0.752,31,49,78,51,9,2,16,139,0,3,20,2,68,6,5,0,7,71973847
+1973,Regular Season,Taiyo Whales,31,"Furuta, Tadashi",LF,55,28,23,0.304,0.385,0.304,0.689,3,0,7,7,0,0,0,7,0,1,3,0,2,0,0,2,0,81083820
+1973,Regular Season,Hiroshima Toyo Carp,39,"Mizunuma, Shiro",C,107,273,241,0.191,0.270,0.237,0.507,13,15,46,37,7,2,0,57,6,6,26,5,50,2,0,6,0,81083828
+1973,Regular Season,Taiheiyo Club Lions,59,"Yoshimura, Kenji",3B,1,1,1,1.000,1.000,1.000,2.000,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,81083847
+1973,Regular Season,Nittaku Home Flyers,38,"Imai, Tsutomu",PH,42,42,38,0.237,0.293,0.316,0.609,4,3,9,7,1,1,0,12,1,0,3,0,6,2,0,1,0,81183820
+1973,Regular Season,Kintetsu Buffaloes,9,"Ise, Takao",1B,93,255,238,0.265,0.308,0.412,0.720,32,23,63,43,12,1,7,98,3,3,15,0,36,4,0,1,1,81183824
+1973,Regular Season,Hanshin Tigers,16,"Ueda, Jiro",P,46,108,91,0.121,0.130,0.143,0.273,1,5,11,9,2,0,0,13,0,0,1,0,35,0,0,15,1,81183841
+1973,Regular Season,Kintetsu Buffaloes,32,"Ishiwata, Shigeru",SS,21,35,32,0.219,0.286,0.313,0.599,3,2,7,6,0,0,1,10,2,2,3,0,4,0,0,0,0,81183843
+1973,Regular Season,Chunichi Dragons,5,"Williams, Jimmy",CF,118,457,413,0.264,0.321,0.402,0.723,41,38,109,76,19,4,10,166,14,15,30,2,95,9,5,6,3,81183847
+1973,Japan Series,Yomiuri Giants,36,"Yanagida, Toshiro",PH,5,,11,0.182,,0.182,,,2,2,2,0,0,0,2,1,,3,,0,,,,,81283824
+1973,Regular Season,Yomiuri Giants,36,"Yanagida, Toshiro",PH,73,178,150,0.293,0.404,0.533,0.937,23,24,44,28,5,2,9,80,4,0,27,2,33,0,1,0,0,81283824
+1973,Regular Season,Chunichi Dragons,47,"Morita, Yoshiya",PR,1,0,0,0.000,,0.000,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81283843
+1973,Regular Season,Yakult Atoms,22,"Yasuda, Takeshi",P,57,79,73,0.247,0.286,0.301,0.587,4,2,18,14,4,0,0,22,0,0,4,1,15,3,0,2,0,81283845
+1973,Japan Series,Yomiuri Giants,1,"Oh, Sadaharu",1B,5,,14,0.286,,0.714,,,5,4,2,0,0,2,10,0,,6,,2,,,,,81383808
+1973,Regular Season,Yomiuri Giants,1,"Oh, Sadaharu",1B,130,560,428,0.355,0.504,0.755,1.259,111,114,152,83,18,0,51,323,2,1,124,38,41,7,4,0,4,81383808
+1973,Climax Series - Final Stage,Hankyu Braves,23,"Okada, Yukiyoshi",C,3,,9,0.111,,0.444,,,1,1,0,0,0,1,4,0,,2,,4,,,,,81383820
+1973,Regular Season,Hankyu Braves,23,"Okada, Yukiyoshi",C,83,203,177,0.243,0.323,0.384,0.707,21,23,43,30,7,0,6,68,0,1,21,2,28,5,0,1,4,81383820
+1973,Regular Season,Taiyo Whales,7,"Osada, Yukio",PH,45,47,42,0.238,0.319,0.357,0.676,1,7,10,7,2,0,1,15,0,0,5,0,8,0,0,0,0,81383823
+1973,Regular Season,Nittaku Home Flyers,1,"Oshita, Tsuyoshi",2B,107,458,406,0.261,0.329,0.350,0.679,62,30,106,89,6,3,8,142,24,13,39,0,27,6,2,10,1,81383824
+1973,Regular Season,Hanshin Tigers,4,"Kawato, Kozo",RF,77,164,151,0.212,0.247,0.258,0.505,14,7,32,27,3,2,0,39,9,2,6,0,20,5,1,5,1,81383826
+1973,Regular Season,Kintetsu Buffaloes,22,"Kubo, Shoji",C,26,40,32,0.188,0.333,0.469,0.802,7,8,6,3,0,0,3,15,0,0,5,1,9,1,2,1,0,81383827
+1973,Regular Season,Nittaku Home Flyers,34,"Kaneda, Tomehiro",P,37,51,45,0.178,0.178,0.200,0.378,3,2,8,7,1,0,0,9,0,0,0,0,8,0,0,5,1,81383828
+1973,Regular Season,Nittaku Home Flyers,53,"Okaji, Kazuhiko",PH,32,33,32,0.219,0.242,0.438,0.680,2,7,7,4,1,0,2,14,0,0,1,0,7,1,0,0,0,81383841
+1973,Regular Season,Chunichi Dragons,40,"Oshima, Yasunori",RF,117,368,316,0.241,0.333,0.399,0.732,42,42,76,52,11,0,13,126,10,10,43,1,72,5,1,7,1,81383843
+1973,Regular Season,Taiheiyo Club Lions,53,"Kaneshiro, Osamu",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383847
+1973,Regular Season,Yomiuri Giants,41,"Yazawa, Tadashi",C,16,27,23,0.217,0.333,0.261,0.594,0,3,5,4,1,0,0,6,0,0,2,0,5,1,2,0,0,81483841
+1973,Regular Season,Yomiuri Giants,26,"Sugawara, Katsuya",P,6,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583822
+1973,Climax Series - Final Stage,Nankai Hawks,2,"Koike, Kenji",SS,8,,7,0.286,,0.286,,,0,2,2,0,0,0,2,0,,1,,2,,,,,81583823
+1973,Japan Series,Nankai Hawks,2,"Koike, Kenji",SS,3,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,,,,81583823
+1973,Regular Season,Nankai Hawks,2,"Koike, Kenji",SS,79,145,125,0.208,0.303,0.264,0.567,10,14,26,23,1,0,2,33,0,1,16,0,17,3,1,2,1,81583823
+1973,Climax Series - Final Stage,Hankyu Braves,13,"Shogaki, Hironori",PH,3,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,81583828
+1973,Regular Season,Hankyu Braves,13,"Shogaki, Hironori",PH,91,139,118,0.305,0.401,0.449,0.850,21,21,36,26,6,1,3,53,2,3,13,0,8,2,6,0,2,81583828
+1973,Regular Season,Hankyu Braves,31,"Kodama, Yoshihiro",P,31,8,4,0.250,0.400,0.250,0.650,1,0,1,1,0,0,0,1,0,0,1,0,1,0,0,3,0,81583843
+1973,Regular Season,Kintetsu Buffaloes,5,"Sasaki, Kyosuke",CF,91,233,209,0.225,0.299,0.397,0.696,26,26,47,27,12,0,8,83,5,1,21,0,39,8,1,1,1,81583845
+1973,Regular Season,Yomiuri Giants,46,"Takahashi, Eiji",LF,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583847
+1973,Regular Season,Hanshin Tigers,19,"Fujii, Eiji",LF,44,162,133,0.293,0.413,0.429,0.842,21,10,39,31,3,0,5,57,1,1,27,3,21,1,0,1,1,81683825
+1973,Regular Season,Chunichi Dragons,1,"Takagi, Morimichi",2B,122,527,480,0.273,0.322,0.358,0.680,68,31,131,103,20,3,5,172,28,9,30,3,21,10,5,7,5,81783821
+1973,Regular Season,Taiyo Whales,14,"Takagaki, Yoshihiro",P,23,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81783824
+1973,Regular Season,Hiroshima Toyo Carp,18,"Nagashima, Yoshikuni",P,8,1,0,0.000,1.000,0.000,1.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,81783847
+1973,Regular Season,Yomiuri Giants,3,"Nagashima, Shigeo",3B,127,530,483,0.269,0.322,0.422,0.744,60,76,130,96,14,0,20,204,3,2,37,3,35,20,1,1,8,81983806
+1973,Regular Season,Yomiuri Giants,35,"Hirono, Isao",PH,24,28,24,0.125,0.250,0.375,0.625,2,5,3,1,0,0,2,9,0,0,3,0,6,1,1,0,0,81983822
+1973,Climax Series - Final Stage,Nankai Hawks,18,"Nishioka, Sanshiro",P,4,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,81983826
+1973,Japan Series,Nankai Hawks,18,"Nishioka, Sanshiro",P,4,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,81983826
+1973,Regular Season,Nankai Hawks,18,"Nishioka, Sanshiro",P,30,66,57,0.053,0.085,0.053,0.138,1,1,3,3,0,0,0,3,0,0,2,0,27,0,0,7,0,81983826
+1973,Regular Season,Nittaku Home Flyers,7,"Haku, Jinten",CF,96,312,291,0.247,0.291,0.354,0.645,27,20,72,53,13,0,6,103,8,6,16,2,22,5,2,2,1,81983827
+1973,Climax Series - Final Stage,Hankyu Braves,7,"Fukumoto, Yutaka",CF,5,,22,0.273,,0.409,,,2,6,5,0,0,1,9,5,,1,,3,,,,,81983828
+1973,Regular Season,Hankyu Braves,7,"Fukumoto, Yutaka",CF,123,566,497,0.306,0.388,0.483,0.871,100,54,152,100,29,10,13,240,95,16,65,3,56,3,2,0,2,81983828
+1973,Climax Series - Final Stage,Nankai Hawks,17,"Nakayama, Koichi",P,4,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,81983841
+1973,Japan Series,Nankai Hawks,17,"Nakayama, Koichi",P,4,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,81983841
+1973,Regular Season,Nankai Hawks,17,"Nakayama, Koichi",P,16,18,17,0.059,0.059,0.059,0.118,0,0,1,1,0,0,0,1,0,0,0,0,8,0,0,1,0,81983841
+1973,Regular Season,Kintetsu Buffaloes,52,"Nashida, Masataka",C,60,149,142,0.197,0.224,0.254,0.478,12,5,28,24,2,0,2,36,1,0,4,0,20,3,1,2,0,81983845
+1973,Regular Season,Hiroshima Toyo Carp,3,"Mcguire, Mickey",2B,103,392,369,0.276,0.312,0.401,0.713,27,42,102,76,15,2,9,148,1,0,19,4,28,14,0,1,3,81983847
+1973,Climax Series - Final Stage,Hankyu Braves,18,"Yoneda, Tetsuya",P,2,,5,0.200,,0.200,,,0,1,1,0,0,0,1,0,,0,,1,,,,,83183802
+1973,Regular Season,Hankyu Braves,18,"Yoneda, Tetsuya",P,32,65,50,0.120,0.279,0.180,0.459,5,2,6,5,0,0,1,9,0,0,11,0,16,0,0,4,0,83183802
+1973,Japan Series,Yomiuri Giants,18,"Horiuchi, Tsuneo",P,3,,7,0.429,,1.286,,,4,3,1,0,0,2,9,0,,0,,1,,,,,91093822
+1973,Regular Season,Yomiuri Giants,18,"Horiuchi, Tsuneo",P,39,78,70,0.229,0.270,0.414,0.684,9,4,16,9,4,0,3,29,0,0,3,0,22,1,1,4,0,91093822
+1973,Regular Season,Hanshin Tigers,30,"Hirayama, Hideo",P,7,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91093824
+1973,Regular Season,Hanshin Tigers,13,"Suzuki, Kiyotake",P,30,10,10,0.200,0.200,0.200,0.400,1,0,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,91093825
+1973,Regular Season,Yakult Atoms,17,"Matsuoka, Hiromu",P,48,112,107,0.206,0.213,0.262,0.475,3,9,22,18,3,0,1,28,0,0,1,0,39,0,0,4,0,91093826
+1973,Regular Season,Nittaku Home Flyers,39,"Misawa, Kesaharu",PH,75,82,72,0.222,0.309,0.236,0.545,4,14,16,15,1,0,0,17,0,0,9,2,10,4,0,0,1,91093827
+1973,Regular Season,Taiheiyo Club Lions,41,"Norikae, Hisayoshi",P,12,2,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,91093841
+1973,Regular Season,Yomiuri Giants,28,"Niura, Hisao",P,21,30,26,0.115,0.207,0.115,0.322,1,1,3,3,0,0,0,3,0,0,3,0,10,0,0,1,0,91093843
+1973,Regular Season,Lotte Orions,51,"Matsuda, Mitsuyasu",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91093847
+1973,Regular Season,Yomiuri Giants,29,"Akimoto, Yusaku",P,3,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193802
+1973,Regular Season,Hiroshima Toyo Carp,29,"Iishi, Reiji",PH,19,21,20,0.200,0.238,0.400,0.638,1,2,4,1,2,1,0,8,0,0,1,0,7,0,0,0,0,91193820
+1973,Regular Season,Chunichi Dragons,28,"Eto, Shozo",PH,84,139,127,0.276,0.324,0.386,0.710,6,19,35,27,5,0,3,49,0,0,7,0,16,7,2,3,0,91193822
+1973,Regular Season,Hanshin Tigers,9,"Ando, Moto",PH,36,54,50,0.120,0.185,0.120,0.305,0,3,6,6,0,0,0,6,0,1,4,2,18,1,0,0,0,91193825
+1973,Regular Season,Lotte Orions,8,"Arito, Michiyo",3B,122,509,453,0.300,0.371,0.499,0.870,83,71,136,90,22,4,20,226,17,6,47,0,82,14,4,4,1,91193828
+1973,Regular Season,Yakult Atoms,26,"Ihara, Shinichiro",P,1,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193841
+1973,Regular Season,Hiroshima Toyo Carp,33,"Arita, Tetsuzo",P,7,0,0,0.000,,0.000,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193843
+1973,Regular Season,Taiyo Whales,18,"Uzawa, Tatsuo",P,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193845
+1973,Regular Season,Kintetsu Buffaloes,12,"Imoto, Takashi",P,19,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193847
+1973,Climax Series - Final Stage,Hankyu Braves,66,"Miyoshi, Yukio",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91293820
+1973,Regular Season,Hankyu Braves,66,"Miyoshi, Yukio",P,17,8,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,2,0,91293820
+1973,Regular Season,Hiroshima Toyo Carp,2,"Miyagawa, Takao",PH,20,19,19,0.053,0.053,0.053,0.106,0,0,1,1,0,0,0,1,0,0,0,0,4,1,0,0,0,91293821
+1973,Regular Season,Hiroshima Toyo Carp,32,"Yokoyama, Kojiro",P,10,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91293822
+1973,Regular Season,Lotte Orions,28,"Murakami, Kimiyasu",C,110,295,270,0.278,0.323,0.378,0.701,22,28,75,59,10,1,5,102,1,5,14,0,26,3,4,6,1,91293824
+1973,Regular Season,Lotte Orions,41,"Yamada, Masao",PH,3,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91293827
+1973,Regular Season,Lotte Orions,31,"Yoshioka, Satoru",PR,45,23,20,0.200,0.304,0.350,0.654,6,1,4,3,0,0,1,7,2,5,2,0,6,0,1,0,0,91293828
+1973,Regular Season,Taiyo Whales,6,"Boyer, Clete",3B,86,333,306,0.225,0.282,0.405,0.687,22,39,69,42,13,0,14,124,0,2,24,1,43,13,0,1,2,91293841
+1973,Japan Series,Nankai Hawks,5,"Matsui, Masanori",3B,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91293843
+1973,Regular Season,Nankai Hawks,5,"Matsui, Masanori",3B,23,23,22,0.318,0.348,0.318,0.666,4,0,7,7,0,0,0,7,1,0,1,0,6,0,0,0,0,91293843
+1973,Regular Season,Hiroshima Toyo Carp,10,"Michihara, Hiroyuki",C,22,15,15,0.200,0.200,0.267,0.467,0,0,3,2,1,0,0,4,0,0,0,0,3,0,0,0,0,91293845
+1973,Regular Season,Yakult Atoms,31,"Okumiya, Taneo",C,37,67,60,0.133,0.200,0.217,0.417,7,4,8,5,2,0,1,13,1,0,4,0,15,3,1,2,0,91393826
+1973,Regular Season,Taiheiyo Club Lions,6,"Kikukawa, Shojiro",3B,122,476,425,0.264,0.321,0.313,0.634,43,43,112,97,11,2,2,133,11,10,30,0,34,6,6,12,3,91393827
+1973,Climax Series - Final Stage,Hankyu Braves,6,"Ohashi, Yutaka",SS,5,,20,0.250,,0.450,,,6,5,3,1,0,1,9,0,,2,,2,,,,,91393828
+1973,Regular Season,Hankyu Braves,6,"Ohashi, Yutaka",SS,117,393,350,0.214,0.282,0.414,0.696,45,47,75,40,17,1,17,145,6,3,30,1,78,11,3,9,1,91393828
+1973,Climax Series - Final Stage,Nankai Hawks,22,"Katahira, Shinsaku",LF,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,1,,,,,91393845
+1973,Japan Series,Nankai Hawks,22,"Katahira, Shinsaku",LF,3,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,,,,91393845
+1973,Regular Season,Nankai Hawks,22,"Katahira, Shinsaku",LF,61,168,156,0.269,0.321,0.391,0.712,13,18,42,31,7,0,4,61,0,0,11,0,6,4,1,0,0,91393845
+1973,Regular Season,Nittaku Home Flyers,46,"Omuro, Katsumi",CF,102,187,165,0.248,0.295,0.297,0.592,19,7,41,37,2,0,2,49,15,2,10,1,18,1,1,11,0,91393847
+1973,Regular Season,Yomiuri Giants,45,"Ogawa, Kunikazu",P,32,9,7,0.143,0.250,0.143,0.393,0,0,1,1,0,0,0,1,0,0,1,0,3,1,0,1,0,91393849
+1973,Regular Season,Yakult Atoms,10,"Yamashita, Keitoku",CF,130,483,433,0.259,0.321,0.372,0.693,37,43,112,88,10,3,11,161,10,8,33,0,78,13,7,8,2,91493843
+1973,Regular Season,Yakult Atoms,16,"Watanabe, Takahiro",P,39,34,28,0.143,0.143,0.143,0.286,0,1,4,4,0,0,0,4,0,0,0,0,3,0,0,6,0,91493845
+1973,Japan Series,Yomiuri Giants,17,"Kurata, Makoto",P,2,,6,0.167,,0.167,,,1,1,1,0,0,0,1,0,,0,,0,,,,,91593820
+1973,Regular Season,Yomiuri Giants,17,"Kurata, Makoto",P,49,67,62,0.097,0.097,0.113,0.210,2,4,6,5,1,0,0,7,0,0,0,0,23,1,0,5,0,91593820
+1973,Regular Season,Nittaku Home Flyers,33,"Kato, Toshio",C,106,334,283,0.293,0.392,0.452,0.844,33,46,83,62,9,0,12,128,3,2,37,1,33,11,9,3,2,91593824
+1973,Regular Season,Hanshin Tigers,40,"Kuwano, Hakaru",PH,28,33,30,0.233,0.303,0.267,0.570,1,0,7,6,1,0,0,8,0,0,3,0,8,2,0,0,0,91593826
+1973,Regular Season,Lotte Orions,22,"Sakaki, Shinichi",C,80,163,147,0.272,0.331,0.354,0.685,12,12,40,35,1,1,3,52,0,1,12,0,8,6,1,3,0,91593828
+1973,Regular Season,Lotte Orions,46,"Kuramochi, Akira",P,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593845
+1973,Regular Season,Hanshin Tigers,21,"Saotome, Yutaka",P,4,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593847
+1973,Climax Series - Final Stage,Hankyu Braves,33,"Kajimoto, Takao",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,,,,91793809
+1973,Regular Season,Hankyu Braves,33,"Kajimoto, Takao",P,18,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91793809
+1973,Regular Season,Nankai Hawks,52,"Daigo, Tsuneo",LF,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793826
+1973,Regular Season,Nittaku Home Flyers,21,"Takahashi, Naoki",P,35,59,48,0.083,0.170,0.083,0.253,4,0,4,4,0,0,0,4,0,0,5,0,19,1,0,6,0,91793828
+1973,Regular Season,Kintetsu Buffaloes,36,"Sano, Katsutoshi",2B,33,37,35,0.143,0.167,0.143,0.310,2,1,5,5,0,0,0,5,1,1,1,0,3,0,0,1,0,91793843
+1973,Regular Season,Chunichi Dragons,36,"Shirataki, Masataka",LF,6,1,1,1.000,1.000,1.000,2.000,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,91793845
+1973,Regular Season,Taiheiyo Club Lions,37,"Nakajima, Hiromi",P,4,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91793847
+1973,Climax Series - Final Stage,Hankyu Braves,39,"Nakazawa, Shinji",PH,1,,1,1.000,,1.000,,,0,1,1,0,0,0,1,0,,0,,0,,,,,91993820
+1973,Regular Season,Hankyu Braves,39,"Nakazawa, Shinji",PH,20,23,20,0.300,0.391,0.450,0.841,2,3,6,5,0,0,1,9,1,0,3,0,5,0,0,0,0,91993820
+1973,Regular Season,Kintetsu Buffaloes,23,"Hattori, Toshikazu",CF,121,322,293,0.321,0.364,0.444,0.808,29,16,94,71,14,5,4,130,9,9,19,0,37,3,1,8,1,91993828
+1973,Regular Season,Hiroshima Toyo Carp,34,"Sonoda, Toshihiko",3B,98,166,141,0.213,0.293,0.270,0.563,10,1,30,23,6,1,0,38,0,2,16,1,27,3,0,9,0,91993829
+1973,Regular Season,Taiheiyo Club Lions,1,"Buford, Don",LF,130,565,472,0.242,0.357,0.417,0.774,81,60,114,74,17,3,20,197,25,17,75,6,72,8,10,3,5,91993847

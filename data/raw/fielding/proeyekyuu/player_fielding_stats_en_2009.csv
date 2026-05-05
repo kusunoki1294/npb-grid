@@ -1,0 +1,786 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+2009,Regular Season,Tohoku Rakuten Golden Eagles,44,"Nakatani, Jin",C,55,0.997,269,31,1,8,2,01003886
+2009,Regular Season,Orix Buffaloes,46,"Furuki, Katsuaki",OF,3,1.000,2,0,0,0,,01003888
+2009,Regular Season,Saitama Seibu Lions,3,"Nakajima, Hiroyuki",SS,144,0.982,212,446,12,89,,01005113
+2009,Regular Season,Yokohama BayStars,22,"Takasaki, Kentaro",P,56,0.944,10,7,1,1,,01005114
+2009,Regular Season,Tokyo Yakult Swallows,41,"Takai, Yuhei",P,1,0.000,0,0,0,0,,01005117
+2009,Regular Season,Tohoku Rakuten Golden Eagles,8,"Isobe, Koichi",OF,7,1.000,6,0,0,0,,01103884
+2009,Regular Season,Hanshin Tigers,25,"Arai, Takahiro",3B,144,0.973,86,279,10,24,,01103888
+2009,Regular Season,Tohoku Rakuten Golden Eagles,21,"Iwakuma, Hisashi",P,24,0.962,11,40,2,2,,01105111
+2009,Regular Season,Chunichi Dragons,25,"Arai, Ryota",1B,1,1.000,1,0,0,0,,01105112
+2009,Regular Season,Hiroshima Toyo Carp,49,"Amaya, Soichiro",OF,91,0.964,156,4,6,1,,01105115
+2009,Regular Season,Tohoku Rakuten Golden Eagles,13,"Isaka, Ryohei",P,15,1.000,5,8,0,0,,01105118
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Inada, Naoto",1B,27,1.000,65,1,0,8,,01105119
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Inada, Naoto",2B,8,0.929,4,9,1,2,,01105119
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Inada, Naoto",3B,13,0.909,3,7,1,1,,01105119
+2009,Regular Season,Yomiuri Giants,37,"Fujita, Soichi",P,19,1.000,1,6,0,0,,01203886
+2009,Regular Season,Chiba Lotte Marines,65,"Minami, Ryusuke",OF,13,1.000,8,0,0,0,,01205111
+2009,Regular Season,Chiba Lotte Marines,32,"Nemoto, Shunichi",2B,13,0.981,23,30,1,5,,01205112
+2009,Regular Season,Chiba Lotte Marines,32,"Nemoto, Shunichi",3B,8,0.917,2,9,1,0,,01205112
+2009,Regular Season,Chiba Lotte Marines,32,"Nemoto, Shunichi",SS,8,0.952,7,13,1,5,,01205112
+2009,Regular Season,Hanshin Tigers,15,"Fujita, Taiyo",P,2,0.000,0,0,0,0,,01205113
+2009,Regular Season,Saitama Seibu Lions,45,"Fujita, Taiyo",P,25,1.000,2,4,0,0,,01205113
+2009,Regular Season,Chunichi Dragons,1,"Donoue, Naomichi",3B,1,0.000,0,0,0,0,,01205114
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,19,"Hayashi, Masanori",P,46,0.941,0,16,1,0,,01205115
+2009,Regular Season,Tohoku Rakuten Golden Eagles,20,"Hasebe, Kohei",P,25,0.966,3,25,1,1,,01205116
+2009,Regular Season,Hiroshima Toyo Carp,20,"Nagakawa, Katsuhiro",P,56,1.000,5,6,0,0,,01205117
+2009,Regular Season,Tohoku Rakuten Golden Eagles,7,"Yamasaki, Takeshi",1B,12,1.000,78,4,0,9,,01303868
+2009,Regular Season,Saitama Seibu Lions,7,"Kataoka, Yasuyuki",2B,139,0.991,322,440,7,88,,01305110
+2009,Regular Season,Hiroshima Toyo Carp,27,"Uemura, Kazuhiro",C,1,1.000,2,0,0,0,0,01305113
+2009,Regular Season,Hiroshima Toyo Carp,19,"Ueno, Hirofumi",P,8,0.000,0,0,0,0,,01305114
+2009,Regular Season,Chiba Lotte Marines,8,"Imae, Toshiaki",3B,111,0.968,86,185,9,13,,01305115
+2009,Regular Season,Yokohama BayStars,58,"Ota, Atori",P,1,0.000,0,0,0,0,,01305116
+2009,Regular Season,Hanshin Tigers,26,"Egusa, Hirotaka",P,62,0.833,3,7,2,0,,01305117
+2009,Regular Season,Orix Buffaloes,17,"Katsuki, Ryota",P,64,1.000,4,18,0,2,,01305119
+2009,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,6,1.000,1,7,0,0,,01403862
+2009,Regular Season,Tokyo Yakult Swallows,57,"Maruyama, Takashi",P,9,1.000,0,2,0,0,,01405110
+2009,Regular Season,Orix Buffaloes,48,"Yoshino, Makoto",P,12,1.000,0,1,0,0,,01405111
+2009,Regular Season,Chunichi Dragons,24,"Kuramoto, Hidenori",OF,71,0.988,82,0,1,0,,01503888
+2009,Regular Season,Yomiuri Giants,92,"Kimura, Shota",P,25,1.000,2,2,0,0,,01505110
+2009,Regular Season,Hanshin Tigers,61,"Kanemura, Daiyu",P,1,0.000,0,0,0,0,,01505112
+2009,Regular Season,Chiba Lotte Marines,1,"Ohmine, Yuta",P,16,0.964,4,23,1,1,,01505114
+2009,Regular Season,Tokyo Yakult Swallows,16,"Kato, Mikinori",P,1,0.000,0,0,0,0,,01505116
+2009,Regular Season,Tohoku Rakuten Golden Eagles,58,"Karashima, Wataru",P,2,1.000,0,2,0,0,,01505118
+2009,Regular Season,Saitama Seibu Lions,56,"Kurose, Haruki",2B,4,1.000,3,4,0,1,,01505119
+2009,Regular Season,Saitama Seibu Lions,56,"Kurose, Haruki",3B,15,1.000,2,22,0,2,,01505119
+2009,Regular Season,Saitama Seibu Lions,23,"Ming-Chieh, Hsu",P,16,0.857,0,6,1,0,,01605111
+2009,Regular Season,Yomiuri Giants,64,"Matsumoto, Tetsuya",OF,122,0.989,182,6,2,1,,01605114
+2009,Regular Season,Orix Buffaloes,67,"Yokoyama, Tetsuya",C,7,1.000,31,0,0,0,0,01605117
+2009,Regular Season,Tohoku Rakuten Golden Eagles,98,"Morita, Jobu",1B,6,1.000,21,0,0,2,,01605118
+2009,Regular Season,Tohoku Rakuten Golden Eagles,98,"Morita, Jobu",3B,5,1.000,3,2,0,0,,01605118
+2009,Regular Season,Tohoku Rakuten Golden Eagles,98,"Morita, Jobu",OF,1,0.000,0,0,0,0,,01605118
+2009,Regular Season,Chunichi Dragons,39,"Shimizu, Masaumi",C,1,1.000,1,0,0,0,0,01703884
+2009,Regular Season,Tohoku Rakuten Golden Eagles,12,"Kusano, Daisuke",2B,35,0.993,62,80,1,22,,01705112
+2009,Regular Season,Tohoku Rakuten Golden Eagles,12,"Kusano, Daisuke",3B,91,0.980,53,145,4,12,,01705112
+2009,Regular Season,Tohoku Rakuten Golden Eagles,12,"Kusano, Daisuke",OF,24,1.000,31,1,0,0,,01705112
+2009,Regular Season,Hanshin Tigers,51,"Sakurai, Kodai",OF,92,0.984,118,2,2,0,,01705115
+2009,Regular Season,Yokohama BayStars,14,"Kobayashi, Futoshi",P,12,0.833,1,14,3,1,,01705116
+2009,Regular Season,Hiroshima Toyo Carp,66,"Kimura, Shogo",3B,39,0.955,8,13,1,0,,01705117
+2009,Regular Season,Hiroshima Toyo Carp,66,"Kimura, Shogo",OF,14,1.000,5,0,0,0,,01705117
+2009,Regular Season,Hiroshima Toyo Carp,66,"Kimura, Shogo",SS,5,1.000,2,5,0,1,,01705117
+2009,Regular Season,Saitama Seibu Lions,31,"Sakata, Ryo",OF,1,0.000,0,0,0,0,,01705118
+2009,Regular Season,Orix Buffaloes,54,"Shimamura, Ikki",2B,23,0.965,43,66,4,11,,01705119
+2009,Regular Season,Orix Buffaloes,54,"Shimamura, Ikki",3B,15,0.923,5,7,1,1,,01705119
+2009,Regular Season,Orix Buffaloes,54,"Shimamura, Ikki",OF,9,1.000,9,0,0,0,,01705119
+2009,Regular Season,Orix Buffaloes,54,"Shimamura, Ikki",SS,1,0.000,0,0,0,0,,01705119
+2009,Regular Season,Tohoku Rakuten Golden Eagles,25,"Yokogawa, Fuminori",OF,5,1.000,10,0,0,0,,01805114
+2009,Regular Season,Hiroshima Toyo Carp,57,"Seabol, Scott",1B,6,1.000,53,2,0,0,,01805116
+2009,Regular Season,Hiroshima Toyo Carp,57,"Seabol, Scott",3B,30,0.941,20,44,4,5,,01805116
+2009,Regular Season,Tokyo Yakult Swallows,49,"I, Hechon",P,42,0.909,2,8,1,0,,01805118
+2009,Regular Season,Saitama Seibu Lions,57,"Taninaka, Shinji",P,2,1.000,1,0,0,0,,01903884
+2009,Regular Season,Tokyo Yakult Swallows,29,"Tanaka, Yuki",P,19,0.957,5,17,1,2,,01903886
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,23,"Nioka, Tomohiro",3B,10,1.000,1,11,0,1,,01903888
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,23,"Nioka, Tomohiro",SS,8,1.000,14,17,0,4,,01903888
+2009,Regular Season,Tohoku Rakuten Golden Eagles,37,"Shima, Motohiro",C,106,0.997,616,47,2,7,2,01905114
+2009,Regular Season,Yokohama BayStars,65,"Sekiguchi, Yuta",OF,1,1.000,2,0,0,0,,01905116
+2009,Regular Season,Chunichi Dragons,63,"Donoe, Takehiro",OF,3,1.000,1,0,0,0,,01905119
+2009,Regular Season,Saitama Seibu Lions,54,"Graman, Alex",P,6,1.000,0,2,0,0,,03105112
+2009,Regular Season,Yomiuri Giants,29,"Greisinger, Seth",P,25,0.907,12,27,4,1,,03105114
+2009,Regular Season,Saitama Seibu Lions,37,"Wasdin, John",P,14,1.000,1,10,0,0,,03105115
+2009,Regular Season,Hiroshima Toyo Carp,11,"Lewis, Colby",P,29,0.971,10,23,1,1,,03105116
+2009,Regular Season,Fukuoka Softbank Hawks,25,"Falkenborg, Brian",P,46,1.000,2,3,0,0,,03105118
+2009,Regular Season,Orix Buffaloes,3,"Fernandez, Jose",1B,29,0.987,213,22,3,28,,03305117
+2009,Regular Season,Orix Buffaloes,3,"Fernandez, Jose",3B,35,0.936,25,48,5,1,,03305117
+2009,Regular Season,Orix Buffaloes,7,"Hamanaka, Osamu",OF,21,1.000,37,1,0,0,,11013884
+2009,Regular Season,Yokohama BayStars,15,"Takamiya, Kazuya",P,11,1.000,0,1,0,1,,11015112
+2009,Regular Season,Orix Buffaloes,37,"Tsuji, Toshiya",1B,3,1.000,16,0,0,2,,11015115
+2009,Regular Season,Orix Buffaloes,37,"Tsuji, Toshiya",C,20,1.000,42,1,0,0,0,11015115
+2009,Regular Season,Chiba Lotte Marines,17,"Naruse, Yoshihisa",P,23,1.000,7,13,0,1,,11015119
+2009,Regular Season,Hiroshima Toyo Carp,23,"Yokoyama, Ryuji",P,69,0.850,5,12,3,1,,11213880
+2009,Regular Season,Hiroshima Toyo Carp,53,"Hayashi, Masaki",P,46,0.846,2,9,2,1,,11213886
+2009,Regular Season,Chiba Lotte Marines,13,"Hashimoto, Kentaro",P,2,0.000,0,0,0,0,,11215110
+2009,Regular Season,Saitama Seibu Lions,22,"Noda, Kosuke",C,22,1.000,36,4,0,0,0,11215113
+2009,Regular Season,Tohoku Rakuten Golden Eagles,18,"Tanaka, Masahiro",P,25,0.952,9,31,2,0,,11215114
+2009,Regular Season,Yokohama BayStars,53,"Nonaka, Shingo",2B,2,0.000,0,0,0,0,,11215115
+2009,Regular Season,Yokohama BayStars,53,"Nonaka, Shingo",3B,1,1.000,0,1,0,0,,11215115
+2009,Regular Season,Fukuoka Softbank Hawks,14,"Mahara, Takahiro",P,53,1.000,2,10,0,0,,11215119
+2009,Regular Season,Orix Buffaloes,6,"Omura, Naoyuki",OF,110,0.988,151,8,2,0,,11313889
+2009,Regular Season,Fukuoka Softbank Hawks,8,"Egawa, Tomoaki",1B,3,1.000,7,0,0,0,,11315110
+2009,Regular Season,Fukuoka Softbank Hawks,8,"Egawa, Tomoaki",3B,1,0.000,0,0,0,0,,11315110
+2009,Regular Season,Fukuoka Softbank Hawks,8,"Egawa, Tomoaki",OF,1,1.000,2,0,0,0,,11315110
+2009,Regular Season,Hiroshima Toyo Carp,62,"Imai, Keisuke",P,9,1.000,3,7,0,0,,11315112
+2009,Regular Season,Saitama Seibu Lions,35,"Iwasaki, Tetsuya",P,27,1.000,4,5,0,2,,11315114
+2009,Regular Season,Tokyo Yakult Swallows,19,"Ishikawa, Masanori",P,29,1.000,11,34,0,3,,11315115
+2009,Regular Season,Chiba Lotte Marines,30,"Ito, Yoshihiro",P,56,0.875,1,13,2,1,,11315116
+2009,Regular Season,Orix Buffaloes,26,"Ihara, Masaki",P,4,1.000,0,6,0,0,,11315118
+2009,Regular Season,Yomiuri Giants,36,"Nakamura, Micheal",P,29,1.000,0,9,0,0,,11415110
+2009,Regular Season,Yomiuri Giants,60,"Fukata, Takuya",P,8,1.000,0,1,0,0,,11415112
+2009,Regular Season,Saitama Seibu Lions,53,"Miura, Taka",1B,3,1.000,8,1,0,0,,11415113
+2009,Regular Season,Saitama Seibu Lions,53,"Miura, Taka",3B,7,0.900,6,3,1,0,,11415113
+2009,Regular Season,Saitama Seibu Lions,53,"Miura, Taka",OF,5,1.000,5,0,0,0,,11415113
+2009,Regular Season,Tokyo Yakult Swallows,37,"Fukukawa, Masakazu",C,11,1.000,23,7,0,1,0,11415115
+2009,Regular Season,Hanshin Tigers,123,"Nohara, Yuya",OF,6,0.000,0,0,0,0,,11415118
+2009,Regular Season,Orix Buffaloes,11,"Kawagoe, Hidetaka",P,24,0.875,2,5,1,0,,11513888
+2009,Regular Season,Chunichi Dragons,17,"Kawai, Yudai",P,20,1.000,8,25,0,2,,11515110
+2009,Regular Season,Chunichi Dragons,65,"Oyama, Keiji",C,52,0.993,243,24,2,4,4,11515112
+2009,Regular Season,Saitama Seibu Lions,12,"Okamoto, Shinya",P,22,1.000,0,1,0,0,,11515113
+2009,Regular Season,Saitama Seibu Lions,0,"Osaki, Yutaro",OF,57,0.988,83,0,1,0,,11515114
+2009,Regular Season,Hiroshima Toyo Carp,17,"Ohtake, Kan",P,29,0.961,6,43,2,2,,11515115
+2009,Regular Season,Orix Buffaloes,41,"Oze, Hiroyuki",OF,72,0.990,101,1,1,0,,11515116
+2009,Regular Season,Tokyo Yakult Swallows,17,"Kawashima, Ryo",P,14,1.000,4,12,0,1,,11515119
+2009,Regular Season,Fukuoka Softbank Hawks,35,"Muramatsu, Arihito",OF,23,0.900,18,0,2,0,,11613883
+2009,Regular Season,Saitama Seibu Lions,36,"Yamagishi, Minoru",P,4,1.000,0,1,0,0,,11615110
+2009,Regular Season,Tokyo Yakult Swallows,44,"Matsui, Kosuke",P,17,1.000,2,7,0,2,,11615112
+2009,Regular Season,Orix Buffaloes,34,"Motoyanagi, Kazuya",P,6,1.000,1,0,0,0,,11615115
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,51,"Murata, Kazuya",OF,32,1.000,25,0,0,0,,11615116
+2009,Regular Season,Tokyo Yakult Swallows,68,"Morioka, Ryosuke",2B,13,0.943,13,20,2,4,,11615117
+2009,Regular Season,Tokyo Yakult Swallows,68,"Morioka, Ryosuke",3B,6,1.000,0,1,0,0,,11615117
+2009,Regular Season,Tokyo Yakult Swallows,68,"Morioka, Ryosuke",SS,5,1.000,8,11,0,3,,11615117
+2009,Regular Season,Yokohama BayStars,36,"Hosoyamada, Takeshi",C,87,0.995,390,38,2,4,3,11615118
+2009,Regular Season,Tokyo Yakult Swallows,10,"Shiroishi, Noriyuki",2B,1,0.000,0,0,0,0,,11713880
+2009,Regular Season,Saitama Seibu Lions,25,"Shotsu, Eiji",P,3,0.000,0,0,0,0,,11713886
+2009,Regular Season,Hiroshima Toyo Carp,51,"Suenaga, Masafumi",OF,62,0.988,83,1,1,0,,11715111
+2009,Regular Season,Hanshin Tigers,99,"Kano, Keisuke",C,122,0.987,864,74,12,11,4,11715113
+2009,Regular Season,Yokohama BayStars,54,"Kosugi, Yota",P,1,0.000,0,0,0,0,,11715118
+2009,Regular Season,Tokyo Yakult Swallows,12,"Imu, Chanyon",P,57,1.000,2,2,0,0,,11815116
+2009,Regular Season,Fukuoka Softbank Hawks,21,"Wada, Tsuyoshi",P,15,1.000,2,17,0,3,,11815117
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,3,"Tanaka, Kensuke",2B,144,0.989,325,467,9,87,,11915111
+2009,Regular Season,Hanshin Tigers,29,"Kojima, Tatsuya",P,1,1.000,0,1,0,0,,11915114
+2009,Regular Season,Hiroshima Toyo Carp,14,"Shinoda, Junpei",P,13,1.000,1,5,0,0,,11915116
+2009,Regular Season,Saitama Seibu Lions,6,"Goto, Taketoshi",1B,11,1.000,59,6,0,6,,11915117
+2009,Regular Season,Saitama Seibu Lions,6,"Goto, Taketoshi",OF,7,1.000,15,1,0,1,,11915117
+2009,Regular Season,Yomiuri Giants,23,"Wakiya, Ryota",2B,53,0.986,89,120,3,25,,13115112
+2009,Regular Season,Yomiuri Giants,23,"Wakiya, Ryota",3B,40,0.964,15,38,2,7,,13115112
+2009,Regular Season,Yomiuri Giants,23,"Wakiya, Ryota",SS,1,1.000,1,0,0,0,,13115112
+2009,Regular Season,Tokyo Yakult Swallows,4,"D'Antona, Jamie",1B,96,0.990,746,57,8,62,,13115118
+2009,Regular Season,Chiba Lotte Marines,43,"Lambin, Chase",1B,1,1.000,1,0,0,0,,13315118
+2009,Regular Season,Chiba Lotte Marines,43,"Lambin, Chase",2B,11,0.978,23,22,1,4,,13315118
+2009,Regular Season,Chiba Lotte Marines,43,"Lambin, Chase",3B,13,0.880,7,15,3,1,,13315118
+2009,Regular Season,Chiba Lotte Marines,43,"Lambin, Chase",OF,25,0.963,26,0,1,0,,13315118
+2009,Regular Season,Chiba Lotte Marines,43,"Lambin, Chase",SS,5,1.000,0,11,0,1,,13315118
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,42,"Sweeney, Brian",P,21,0.952,1,19,1,3,,13515114
+2009,Regular Season,Hanshin Tigers,64,"Zen, Kaiun",P,13,0.889,1,7,1,0,,13515118
+2009,Regular Season,Tohoku Rakuten Golden Eagles,99,"Nakamura, Norihiro",1B,34,0.993,146,5,1,5,,21023885
+2009,Regular Season,Tohoku Rakuten Golden Eagles,99,"Nakamura, Norihiro",3B,63,0.972,41,100,4,9,,21023885
+2009,Regular Season,Yokohama BayStars,13,"Nasuno, Takumi",P,12,1.000,1,1,0,0,,21025110
+2009,Regular Season,Chiba Lotte Marines,52,"Heiuchi, Hisao",1B,2,1.000,1,0,0,0,,21025111
+2009,Regular Season,Chiba Lotte Marines,52,"Heiuchi, Hisao",2B,15,0.973,31,40,2,8,,21025111
+2009,Regular Season,Chiba Lotte Marines,52,"Heiuchi, Hisao",3B,22,0.917,5,28,3,4,,21025111
+2009,Regular Season,Chiba Lotte Marines,52,"Heiuchi, Hisao",SS,11,1.000,5,13,0,0,,21025111
+2009,Regular Season,Yokohama BayStars,62,"Takamori, Yuki",1B,1,1.000,8,2,0,1,,21025114
+2009,Regular Season,Yomiuri Giants,61,"Nakai, Daisuke",2B,4,0.750,3,3,2,0,,21025116
+2009,Regular Season,Yomiuri Giants,61,"Nakai, Daisuke",3B,14,0.950,6,13,1,2,,21025116
+2009,Regular Season,Chunichi Dragons,3,"Tatsunami, Kazuyoshi",1B,1,1.000,6,1,0,0,,21123866
+2009,Regular Season,Hiroshima Toyo Carp,0,"Io, Takamitsu",3B,1,1.000,0,1,0,0,,21123888
+2009,Regular Season,Tokyo Yakult Swallows,43,"Ichiba, Yasuhiro",P,9,1.000,1,4,0,1,,21125110
+2009,Regular Season,Yomiuri Giants,10,"Abe, Shinnosuke",1B,10,1.000,71,5,0,6,,21125113
+2009,Regular Season,Yomiuri Giants,10,"Abe, Shinnosuke",C,107,0.995,715,67,4,7,5,21125113
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,20,"Itokazu, Keisaku",P,13,1.000,4,9,0,2,,21125114
+2009,Regular Season,Tohoku Rakuten Golden Eagles,26,"Arime, Kanehisa",P,54,0.889,3,5,1,0,,21125115
+2009,Regular Season,Hanshin Tigers,48,"Ishikawa, Shunsuke",P,3,1.000,0,1,0,0,,21125116
+2009,Regular Season,Chunichi Dragons,18,"Itoh, Junki",P,1,1.000,1,0,0,0,,21125118
+2009,Regular Season,Chunichi Dragons,31,"Morino, Masahiko",1B,6,1.000,23,3,0,1,,21223884
+2009,Regular Season,Chunichi Dragons,31,"Morino, Masahiko",3B,141,0.934,100,254,25,17,,21223884
+2009,Regular Season,Yomiuri Giants,51,"Furuki, Shigeyuki",1B,2,1.000,5,1,0,1,,21223886
+2009,Regular Season,Yomiuri Giants,51,"Furuki, Shigeyuki",2B,52,0.988,95,146,3,33,,21223886
+2009,Regular Season,Yomiuri Giants,51,"Furuki, Shigeyuki",3B,16,0.926,8,17,2,0,,21223886
+2009,Regular Season,Yomiuri Giants,51,"Furuki, Shigeyuki",SS,7,1.000,3,6,0,0,,21223886
+2009,Regular Season,Yokohama BayStars,00,"Morikasa, Shigeru",OF,20,1.000,23,1,0,0,,21223888
+2009,Regular Season,Yokohama BayStars,23,"Fujita, Kazuya",2B,98,0.995,166,246,2,50,,21225110
+2009,Regular Season,Yokohama BayStars,23,"Fujita, Kazuya",3B,13,0.882,3,12,2,1,,21225110
+2009,Regular Season,Yokohama BayStars,23,"Fujita, Kazuya",SS,22,0.974,24,52,2,9,,21225110
+2009,Regular Season,Hanshin Tigers,9,"Fujimoto, Atsushi",2B,37,0.982,48,60,2,11,,21225113
+2009,Regular Season,Tohoku Rakuten Golden Eagles,30,"Nagai, Satoshi",P,26,0.933,2,12,1,0,,21225114
+2009,Regular Season,Tohoku Rakuten Golden Eagles,64,"Nakashima, Toshiya",OF,39,0.985,64,1,1,0,,21225117
+2009,Regular Season,Hanshin Tigers,43,"Nishimura, Ken",P,6,0.000,0,0,0,0,,21225118
+2009,Regular Season,Chunichi Dragons,60,"Kawahara, Junichi",P,44,1.000,3,8,0,2,,21323880
+2009,Regular Season,Yomiuri Giants,2,"Ogasawara, Michihiro",1B,50,1.000,216,7,0,19,,21323884
+2009,Regular Season,Yomiuri Giants,2,"Ogasawara, Michihiro",3B,123,0.958,65,163,10,13,,21323884
+2009,Regular Season,Orix Buffaloes,43,"Kikuchihara, Tsuyoshi",P,45,1.000,3,4,0,1,,21323887
+2009,Regular Season,Yomiuri Giants,40,"Kato, Ken",C,10,1.000,27,3,0,0,0,21323888
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,8,"Kaneko, Makoto",SS,136,0.988,203,446,8,76,,21323889
+2009,Regular Season,Yokohama BayStars,2,"Uchikawa, Seiichi",OF,130,0.986,216,1,3,1,,21325113
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,46,"Uemura, Yusuke",P,1,1.000,0,1,0,0,,21325114
+2009,Regular Season,Tokyo Yakult Swallows,51,"Yoneno, Tomohito",C,8,1.000,31,1,0,0,0,21425111
+2009,Regular Season,Fukuoka Softbank Hawks,30,"Hasegawa, Yuya",OF,143,0.983,277,4,5,0,,21425114
+2009,Regular Season,Hiroshima Toyo Carp,45,"Matsumoto, Takaaki",3B,2,1.000,0,1,0,0,,21425117
+2009,Regular Season,Hiroshima Toyo Carp,45,"Matsumoto, Takaaki",SS,1,0.000,0,0,0,0,,21425117
+2009,Regular Season,Yokohama BayStars,26,"Saeki, Takahiro",1B,99,0.990,835,63,9,69,,21523887
+2009,Regular Season,Chunichi Dragons,44,"Koike, Masaaki",OF,80,0.988,82,3,1,1,,21523888
+2009,Regular Season,Yokohama BayStars,57,"Kato, Kosuke",P,31,1.000,1,2,0,0,,21525113
+2009,Regular Season,Chiba Lotte Marines,0,"Ogino, Tadahiro",P,53,1.000,4,6,0,1,,21525114
+2009,Regular Season,Fukuoka Softbank Hawks,38,"Kamiuchi, Yasushi",P,26,1.000,1,4,0,0,,21525115
+2009,Regular Season,Chiba Lotte Marines,19,"Karakawa, Yuki",P,21,1.000,7,24,0,1,,21525116
+2009,Regular Season,Orix Buffaloes,15,"Kato, Daisuke",P,48,1.000,2,6,0,0,,21525117
+2009,Regular Season,Fukuoka Softbank Hawks,61,"Kimu, Muyon",P,1,0.000,0,0,0,0,,21525118
+2009,Regular Season,Yomiuri Giants,42,"Kroon, Marc",P,46,1.000,2,8,0,0,,21625110
+2009,Regular Season,Tokyo Yakult Swallows,15,"Muranaka, Kyohei",P,9,1.000,2,7,0,0,,21625112
+2009,Regular Season,Hiroshima Toyo Carp,59,"Yamamoto, Yoshihiko",1B,1,1.000,4,0,0,0,,21625115
+2009,Regular Season,Chunichi Dragons,26,"Yamauchi, Soma",P,1,0.000,0,0,0,0,,21625116
+2009,Regular Season,Tokyo Yakult Swallows,62,"Yoshikawa, Masahiro",P,8,1.000,1,0,0,0,,21625117
+2009,Regular Season,Chunichi Dragons,21,"Chen, Wei-Yin",P,24,0.964,3,24,1,1,,21625119
+2009,Regular Season,Yomiuri Giants,43,"Tsuruoka, Kazunari",C,54,0.997,301,29,1,4,3,21723882
+2009,Regular Season,Yomiuri Giants,21,"Takahashi, Hisanori",P,25,0.978,11,33,1,4,,21725111
+2009,Regular Season,Yokohama BayStars,59,"Kurobane, Toshiki",C,9,0.909,18,2,2,1,0,21725112
+2009,Regular Season,Tokyo Yakult Swallows,38,"Kinugawa, Atsushi",1B,1,1.000,1,0,0,0,,21725114
+2009,Regular Season,Tokyo Yakult Swallows,38,"Kinugawa, Atsushi",C,1,1.000,3,0,0,0,0,21725114
+2009,Regular Season,Yomiuri Giants,11,"Kubo, Yuya",P,7,1.000,0,5,0,0,,21725117
+2009,Regular Season,Hanshin Tigers,2,"Shibata, Kohei",OF,5,1.000,2,0,0,0,,21725118
+2009,Regular Season,Hanshin Tigers,0,"Shoda, Takahiro",OF,2,1.000,1,0,0,0,,21725119
+2009,Regular Season,Tokyo Yakult Swallows,31,"Matsumoto, Yuichi",1B,15,1.000,88,9,0,11,,21823888
+2009,Regular Season,Tokyo Yakult Swallows,31,"Matsumoto, Yuichi",OF,4,1.000,1,0,0,0,,21823888
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,24,"Yoh, Daikan",OF,10,0.600,3,0,2,0,,21825112
+2009,Regular Season,Hiroshima Toyo Carp,70,"Schultz, Mike",P,73,1.000,6,7,0,1,,21825116
+2009,Regular Season,Yokohama BayStars,48,"Walrond, Les",P,21,0.818,4,14,4,1,,21825118
+2009,Regular Season,Hiroshima Toyo Carp,2,"Higashide, Akihiro",2B,141,0.981,283,435,14,60,,21923888
+2009,Regular Season,Hiroshima Toyo Carp,2,"Higashide, Akihiro",OF,1,0.000,0,0,0,0,,21923888
+2009,Regular Season,Chiba Lotte Marines,9,"Fukura, Kazuya",1B,124,0.999,869,73,1,74,,21923889
+2009,Regular Season,Tokyo Yakult Swallows,7,"Tanaka, Hiroyasu",2B,130,0.996,314,414,3,81,,21925110
+2009,Regular Season,Hiroshima Toyo Carp,6,"Soyogi, Eishin",2B,3,0.950,4,15,1,3,,21925112
+2009,Regular Season,Hiroshima Toyo Carp,6,"Soyogi, Eishin",SS,67,0.973,101,185,8,35,,21925112
+2009,Regular Season,Chunichi Dragons,12,"Shimizu, Akinobu",P,8,1.000,0,1,0,0,,21925114
+2009,Regular Season,Orix Buffaloes,52,"Sakaguchi, Tomotaka",OF,137,0.992,247,14,2,1,,21925117
+2009,Regular Season,Hanshin Tigers,1,"Toritani, Takashi",SS,144,0.990,204,467,7,80,,21925119
+2009,Regular Season,Chunichi Dragons,42,"Blanco, Tony",1B,141,0.987,1236,75,17,96,,23125118
+2009,Regular Season,Chunichi Dragons,42,"Blanco, Tony",OF,1,0.500,1,0,1,0,,23125118
+2009,Regular Season,Yomiuri Giants,13,"Alfonzo, Edgardo",1B,12,1.000,68,7,0,5,,23325118
+2009,Regular Season,Yomiuri Giants,13,"Alfonzo, Edgardo",2B,1,1.000,1,5,0,0,,23325118
+2009,Regular Season,Yomiuri Giants,91,"Obispo, Wirfin",P,14,1.000,2,11,0,0,,23525114
+2009,Regular Season,Yokohama BayStars,68,"Randolph, Stephen",P,8,1.000,0,11,0,0,,23525118
+2009,Regular Season,Yomiuri Giants,17,"Tono, Shun",P,27,1.000,3,28,0,4,,31035110
+2009,Regular Season,Tokyo Yakult Swallows,24,"Hanada, Masato",P,3,0.000,0,0,0,0,,31035111
+2009,Regular Season,Tokyo Yakult Swallows,8,"Takeuchi, Shinichi",1B,72,0.993,259,21,2,22,,31035112
+2009,Regular Season,Tokyo Yakult Swallows,8,"Takeuchi, Shinichi",OF,22,0.957,22,0,1,0,,31035112
+2009,Regular Season,Tohoku Rakuten Golden Eagles,46,"Tsuchiya, Teppei",OF,130,0.982,261,8,5,5,,31035113
+2009,Regular Season,Orix Buffaloes,36,"Shimoyama, Shinji",OF,89,1.000,137,2,0,0,,31035117
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,48,"Tanimoto, Keisuke",P,24,1.000,0,7,0,0,,31035118
+2009,Regular Season,Yomiuri Giants,30,"Nishimura, Kentaro",P,11,0.833,1,4,1,0,,31035119
+2009,Regular Season,Saitama Seibu Lions,16,"Ishii, Kazuhisa",P,22,0.893,2,23,3,1,,31133885
+2009,Regular Season,Orix Buffaloes,53,"Aikawa, Ryota",OF,9,1.000,6,0,0,0,,31133888
+2009,Regular Season,Hiroshima Toyo Carp,36,"Aoki, Hayato",P,29,1.000,4,7,0,0,,31135111
+2009,Regular Season,Hiroshima Toyo Carp,64,"Aizawa, Tsubasa",C,9,1.000,41,3,0,0,0,31135114
+2009,Regular Season,Tohoku Rakuten Golden Eagles,36,"Asai, Hideki",P,13,1.000,0,8,0,0,,31135115
+2009,Regular Season,Tokyo Yakult Swallows,47,"Akagawa, Katsuki",P,1,0.000,0,0,0,0,,31135118
+2009,Regular Season,Tokyo Yakult Swallows,23,"Aoki, Norichika",OF,141,0.990,300,9,3,2,,31135119
+2009,Regular Season,Tohoku Rakuten Golden Eagles,9,"Miyade, Ryuji",1B,29,1.000,68,4,0,4,,31233882
+2009,Regular Season,Tohoku Rakuten Golden Eagles,9,"Miyade, Ryuji",OF,59,0.984,62,1,1,0,,31233882
+2009,Regular Season,Yomiuri Giants,0,"Kimura, Takuya",1B,16,1.000,34,2,0,1,,31233883
+2009,Regular Season,Yomiuri Giants,0,"Kimura, Takuya",2B,64,0.988,115,126,3,21,,31233883
+2009,Regular Season,Yomiuri Giants,0,"Kimura, Takuya",C,1,1.000,2,0,0,0,0,31233883
+2009,Regular Season,Hiroshima Toyo Carp,13,"Makino, Rui",P,14,1.000,0,2,0,0,,31233887
+2009,Regular Season,Orix Buffaloes,49,"Nakayama, Shinya",P,5,1.000,2,6,0,0,,31235112
+2009,Regular Season,Tokyo Yakult Swallows,33,"Hatakeyama, Kazuhiro",1B,35,0.990,175,15,2,11,,31235113
+2009,Regular Season,Tokyo Yakult Swallows,33,"Hatakeyama, Kazuhiro",3B,30,0.948,15,40,3,3,,31235113
+2009,Regular Season,Yomiuri Giants,32,"Tsuburaya, Hidetoshi",2B,1,0.000,0,0,0,0,,31235114
+2009,Regular Season,Yomiuri Giants,69,"Inzen, Tomoya",OF,1,0.000,0,0,0,0,,31335114
+2009,Regular Season,Fukuoka Softbank Hawks,41,"Iwasaki, Sho",P,1,1.000,0,2,0,1,,31335116
+2009,Regular Season,Tokyo Yakult Swallows,42,"Kida, Masao",P,30,1.000,4,5,0,0,,31433868
+2009,Regular Season,Chunichi Dragons,5,"Wada, Kazuhiro",OF,144,0.991,216,12,2,3,,31433884
+2009,Regular Season,Hanshin Tigers,24,"Hiyama, Shinjiro",OF,1,1.000,1,0,0,0,,31433885
+2009,Regular Season,Yomiuri Giants,59,"Fukuda, Satoshi",P,9,1.000,1,5,0,1,,31435112
+2009,Regular Season,Hanshin Tigers,15,"Mizuta, Keisuke",2B,5,0.800,2,2,1,0,,31435113
+2009,Regular Season,Hanshin Tigers,15,"Mizuta, Keisuke",OF,2,0.000,0,0,0,0,,31435113
+2009,Regular Season,Saitama Seibu Lions,45,"Mizuta, Keisuke",2B,3,1.000,7,7,0,3,,31435113
+2009,Regular Season,Saitama Seibu Lions,45,"Mizuta, Keisuke",3B,2,1.000,2,1,0,0,,31435113
+2009,Regular Season,Tokyo Yakult Swallows,30,"Nishizaki, Satoshi",P,1,0.000,0,0,0,0,,31435114
+2009,Regular Season,Chiba Lotte Marines,7,"Nishioka, Tsuyoshi",SS,115,0.976,163,327,12,61,,31435117
+2009,Regular Season,Chunichi Dragons,30,"Nomoto, Kei",OF,54,0.988,83,1,1,1,,31435118
+2009,Regular Season,Hiroshima Toyo Carp,40,"Kura, Yoshikazu",C,35,0.990,182,18,2,1,0,31533886
+2009,Regular Season,Fukuoka Softbank Hawks,9,"Kokubo, Hiroki",1B,138,0.993,1134,74,8,86,,31533889
+2009,Regular Season,Tokyo Yakult Swallows,28,"Kawamoto, Ryohei",C,25,1.000,111,10,0,2,1,31535110
+2009,Regular Season,Hiroshima Toyo Carp,5,"Kurihara, Kenta",1B,138,0.990,1230,92,13,87,,31535111
+2009,Regular Season,Tokyo Yakult Swallows,46,"Onizaki, Yuji",SS,14,0.976,24,58,2,6,,31535116
+2009,Regular Season,Saitama Seibu Lions,34,"Osada, Shuichiro",P,4,0.000,0,0,0,0,,31535117
+2009,Regular Season,Fukuoka Softbank Hawks,23,"Kidokoro, Ryuma",OF,73,1.000,39,2,0,0,,31535119
+2009,Regular Season,Saitama Seibu Lions,18,"Wakui, Hideaki",P,27,0.939,12,34,3,4,,31635110
+2009,Regular Season,Tohoku Rakuten Golden Eagles,47,"Matsuzaki, Shingo",P,2,0.000,0,0,0,0,,31635112
+2009,Regular Season,Yokohama BayStars,21,"Yoshimi, Yuji",P,27,1.000,9,14,0,1,,31635113
+2009,Regular Season,Chunichi Dragons,55,"Fukuda, Nobumasa",1B,3,1.000,11,0,0,2,,31635114
+2009,Regular Season,Chunichi Dragons,55,"Fukuda, Nobumasa",3B,1,0.000,0,0,0,0,,31635114
+2009,Regular Season,Chunichi Dragons,29,"Yamai, Daisuke",P,17,1.000,1,4,0,0,,31635115
+2009,Regular Season,Fukuoka Softbank Hawks,32,"Morimoto, Satoru",1B,9,1.000,28,1,0,2,,31635117
+2009,Regular Season,Fukuoka Softbank Hawks,32,"Morimoto, Satoru",2B,10,1.000,20,28,0,6,,31635117
+2009,Regular Season,Fukuoka Softbank Hawks,32,"Morimoto, Satoru",3B,71,0.976,30,92,3,7,,31635117
+2009,Regular Season,Fukuoka Softbank Hawks,32,"Morimoto, Satoru",SS,1,1.000,2,3,0,1,,31635117
+2009,Regular Season,Chiba Lotte Marines,14,"Komiyama, Satoru",P,12,0.000,0,0,0,0,,31733881
+2009,Regular Season,Chiba Lotte Marines,22,"Satozaki, Tomoya",C,122,0.992,826,68,7,11,3,31733888
+2009,Regular Season,Tokyo Yakult Swallows,36,"Kawabata, Shingo",2B,2,1.000,2,3,0,0,,31735112
+2009,Regular Season,Tokyo Yakult Swallows,36,"Kawabata, Shingo",3B,6,0.800,2,2,1,1,,31735112
+2009,Regular Season,Tokyo Yakult Swallows,36,"Kawabata, Shingo",SS,4,1.000,6,6,0,3,,31735112
+2009,Regular Season,Tokyo Yakult Swallows,20,"Kamada, Yuya",P,9,1.000,0,2,0,0,,31735113
+2009,Regular Season,Yomiuri Giants,28,"Kaneto, Norihito",P,6,1.000,0,1,0,0,,31735114
+2009,Regular Season,Yokohama BayStars,38,"Kuwahara, Kentaro",P,11,1.000,5,4,0,1,,31735116
+2009,Regular Season,Saitama Seibu Lions,46,"Sato, Takahiko",OF,117,0.990,185,4,2,1,,31735119
+2009,Regular Season,Fukuoka Softbank Hawks,56,"Yanase, Akihiro",P,3,0.667,1,1,1,0,,31835112
+2009,Regular Season,Hanshin Tigers,54,"Williams, Jeff",P,31,1.000,1,4,0,0,,31835117
+2009,Regular Season,Yokohama BayStars,7,"Nishi, Toshihisa",2B,48,0.995,80,127,1,14,,31933882
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,2,"Takahashi, Shinji",1B,110,0.999,949,33,1,70,,31933884
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,2,"Takahashi, Shinji",C,12,1.000,36,2,0,0,0,31933884
+2009,Regular Season,Hanshin Tigers,50,"Takahashi, Mitsunobu",1B,5,1.000,7,1,0,0,,31933886
+2009,Regular Season,Fukuoka Softbank Hawks,13,"Takahashi, Hideaki",P,12,0.909,4,6,1,0,,31935110
+2009,Regular Season,Orix Buffaloes,28,"Komatsu, Satoshi",P,17,0.850,3,14,3,1,,31935114
+2009,Regular Season,Fukuoka Softbank Hawks,47,"Sugiuchi, Toshiya",P,26,1.000,3,29,0,0,,31935115
+2009,Regular Season,Chunichi Dragons,69,"Kobayashi, Masato",P,32,1.000,0,5,0,1,,31935117
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,13,"Sunaga, Hideki",P,9,0.778,0,7,2,0,,31935119
+2009,Regular Season,Hanshin Tigers,12,"Watanabe, Ryo",P,46,1.000,2,12,0,0,,33135112
+2009,Regular Season,Hiroshima Toyo Carp,43,"Dohmann, Scott",P,9,1.000,0,1,0,0,,33135118
+2009,Regular Season,Chunichi Dragons,49,"Nelson, Maximo",P,26,0.917,2,9,1,0,,33335116
+2009,Regular Season,Orix Buffaloes,24,"Leicester, Jon",P,20,1.000,3,7,0,1,,33335118
+2009,Regular Season,Tohoku Rakuten Golden Eagles,42,"Gwyn, Marcus",P,47,1.000,1,6,0,0,,33535116
+2009,Regular Season,Tohoku Rakuten Golden Eagles,3,"Linden, Todd",OF,71,1.000,122,3,0,1,,33535118
+2009,Regular Season,Tohoku Rakuten Golden Eagles,65,"Matsumoto, Akira",P,7,1.000,0,2,0,0,,41043882
+2009,Regular Season,Yokohama BayStars,29,"Niinuma, Shinji",C,34,0.989,163,11,2,0,1,41043886
+2009,Regular Season,Saitama Seibu Lions,26,"Hoshino, Tomoki",P,62,0.900,3,6,1,0,,41043888
+2009,Regular Season,Tohoku Rakuten Golden Eagles,6,"Nishitani, Hisanori",2B,6,1.000,18,20,0,4,,41045110
+2009,Regular Season,Hanshin Tigers,46,"Tsuru, Naoto",P,1,0.000,0,0,0,0,,41045112
+2009,Regular Season,Fukuoka Softbank Hawks,12,"Takaya, Hiroaki",C,25,0.985,182,13,3,3,1,41045114
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,21,"Takeda, Hisashi",P,55,1.000,2,14,0,0,,41045117
+2009,Regular Season,Chiba Lotte Marines,3,"Omura, Saburo",OF,109,0.991,212,5,2,2,,41143880
+2009,Regular Season,Chunichi Dragons,6,"Ibata, Hirokazu",SS,144,0.989,218,477,8,92,,41143886
+2009,Regular Season,Orix Buffaloes,4,"Abe, Masahiro",1B,1,1.000,2,0,0,0,,41145113
+2009,Regular Season,Orix Buffaloes,4,"Abe, Masahiro",2B,27,0.985,63,71,2,16,,41145113
+2009,Regular Season,Orix Buffaloes,4,"Abe, Masahiro",3B,19,0.921,8,27,3,3,,41145113
+2009,Regular Season,Hanshin Tigers,16,"Ando, Yuya",P,28,0.963,3,23,1,1,,41145115
+2009,Regular Season,Yokohama BayStars,35,"Ushida, Shigeki",P,4,0.000,0,0,0,0,,41145119
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,1,"Morimoto, Hichori",OF,106,0.990,187,6,2,1,,41243888
+2009,Regular Season,Saitama Seibu Lions,47,"Hoashi, Kazuyuki",P,25,1.000,10,36,0,1,,41245113
+2009,Regular Season,Chiba Lotte Marines,38,"Nakago, Taiki",P,14,1.000,0,2,0,0,,41245114
+2009,Regular Season,Hanshin Tigers,39,"Yano, Akihiro",C,26,0.988,144,14,2,1,0,41343883
+2009,Regular Season,Hanshin Tigers,6,"Kanemoto, Tomoaki",OF,144,0.964,184,2,7,1,,41343885
+2009,Regular Season,Orix Buffaloes,50,"Kanazawa, Takehito",P,5,1.000,0,2,0,0,,41343888
+2009,Regular Season,Orix Buffaloes,19,"Kaneko, Chihiro",P,32,0.970,7,25,1,3,,41345110
+2009,Regular Season,Fukuoka Softbank Hawks,52,"Kawasaki, Munenori",SS,143,0.986,209,422,9,78,,41345111
+2009,Regular Season,Orix Buffaloes,35,"Okubo, Masanobu",P,47,1.000,2,2,0,0,,41345113
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,27,"Ejiri, Shintaro",P,45,1.000,1,7,0,0,,41345115
+2009,Regular Season,Fukuoka Softbank Hawks,17,"Oba, Shota",P,22,0.778,0,7,2,0,,41345116
+2009,Regular Season,Yokohama BayStars,33,"Onishi, Hiroaki",OF,18,0.952,19,1,1,1,,41345117
+2009,Regular Season,Yomiuri Giants,55,"Ohta, Taishi",3B,2,1.000,0,2,0,0,,41345118
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,59,"Kanamori, Takayuki",P,18,1.000,0,5,0,1,,41345119
+2009,Regular Season,Tokyo Yakult Swallows,2,"Aikawa, Ryoji",C,122,0.996,747,80,3,9,2,41443880
+2009,Regular Season,Yokohama BayStars,18,"Miura, Daisuke",P,28,1.000,12,43,0,1,,41443885
+2009,Regular Season,Fukuoka Softbank Hawks,67,"Yoshikawa, Motohiro",3B,1,0.000,0,0,0,0,,41443886
+2009,Regular Season,Fukuoka Softbank Hawks,67,"Yoshikawa, Motohiro",OF,16,1.000,13,1,0,0,,41443886
+2009,Regular Season,Fukuoka Softbank Hawks,46,"Honda, Yuichi",2B,137,0.989,323,420,8,82,,41445112
+2009,Regular Season,Saitama Seibu Lions,43,"Hara, Takuya",2B,4,1.000,6,3,0,0,,41445114
+2009,Regular Season,Saitama Seibu Lions,43,"Hara, Takuya",3B,46,0.968,28,62,3,9,,41445114
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,25,"Miyanishi, Naoki",P,58,1.000,3,6,0,1,,41445116
+2009,Regular Season,Tohoku Rakuten Golden Eagles,32,"Kosaka, Makoto",2B,63,0.990,77,113,2,23,,41543884
+2009,Regular Season,Tohoku Rakuten Golden Eagles,32,"Kosaka, Makoto",3B,12,1.000,2,4,0,1,,41543884
+2009,Regular Season,Tohoku Rakuten Golden Eagles,32,"Kosaka, Makoto",SS,34,1.000,33,69,0,15,,41543884
+2009,Regular Season,Fukuoka Softbank Hawks,31,"Sato, Makoto",P,25,0.800,3,1,1,0,,41543889
+2009,Regular Season,Yomiuri Giants,35,"Kudo, Takahito",OF,36,1.000,22,0,0,0,,41545110
+2009,Regular Season,Chiba Lotte Marines,18,"Shimizu, Naoyuki",P,23,1.000,6,26,0,2,,41545111
+2009,Regular Season,Chiba Lotte Marines,61,"Kakunaka, Katsuya",OF,7,0.947,17,1,1,0,,41545114
+2009,Regular Season,Orix Buffaloes,39,"Kamoshida, Takashi",P,6,1.000,1,1,0,0,,41545115
+2009,Regular Season,Yokohama BayStars,17,"Kato, Takeharu",P,9,1.000,1,0,0,0,,41545117
+2009,Regular Season,Orix Buffaloes,0,"Moriyama, Makoto",1B,2,1.000,5,0,0,0,,41645112
+2009,Regular Season,Orix Buffaloes,0,"Moriyama, Makoto",2B,6,0.900,3,6,1,0,,41645112
+2009,Regular Season,Orix Buffaloes,0,"Moriyama, Makoto",3B,11,1.000,0,4,0,0,,41645112
+2009,Regular Season,Orix Buffaloes,0,"Moriyama, Makoto",OF,2,1.000,2,0,0,0,,41645112
+2009,Regular Season,Orix Buffaloes,0,"Moriyama, Makoto",SS,2,0.000,0,0,0,0,,41645112
+2009,Regular Season,Orix Buffaloes,42,"Cabrera, Alex",1B,51,0.998,439,29,1,38,,41645113
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,17,"Miyamoto, Ken",P,12,1.000,1,4,0,1,,41645114
+2009,Regular Season,Fukuoka Softbank Hawks,6,"Tamura, Hitoshi",OF,79,0.992,120,3,1,1,,41743880
+2009,Regular Season,Tohoku Rakuten Golden Eagles,4,"Takasu, Yosuke",2B,59,0.996,120,156,1,27,,41743886
+2009,Regular Season,Tohoku Rakuten Golden Eagles,1,"Shiokawa, Tatsuya",2B,20,0.975,18,21,1,4,,41745110
+2009,Regular Season,Tohoku Rakuten Golden Eagles,1,"Shiokawa, Tatsuya",OF,1,1.000,1,0,0,0,,41745110
+2009,Regular Season,Tohoku Rakuten Golden Eagles,1,"Shiokawa, Tatsuya",SS,2,1.000,1,0,0,0,,41745110
+2009,Regular Season,Fukuoka Softbank Hawks,55,"Kosai, Yusuke",1B,8,1.000,12,2,0,1,,41745112
+2009,Regular Season,Fukuoka Softbank Hawks,55,"Kosai, Yusuke",OF,17,0.929,13,0,1,0,,41745112
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,30,"Sakamoto, Yataro",P,19,1.000,3,5,0,1,,41745113
+2009,Regular Season,Saitama Seibu Lions,41,"Kimura, Fumikazu",P,11,1.000,0,1,0,0,,41745114
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,55,"Sato, Yoshihiro",OF,7,1.000,6,0,0,0,,41745115
+2009,Regular Season,Chunichi Dragons,19,"Yoshimi, Kazuki",P,27,0.977,10,32,1,4,,41845112
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,34,"Yoshikawa, Mitsuo",P,3,1.000,0,2,0,0,,41845114
+2009,Regular Season,Tohoku Rakuten Golden Eagles,55,"Short, Rick",1B,24,0.993,130,5,1,18,,41845117
+2009,Regular Season,Tohoku Rakuten Golden Eagles,55,"Short, Rick",2B,1,0.875,3,4,1,0,,41845117
+2009,Regular Season,Tohoku Rakuten Golden Eagles,55,"Short, Rick",3B,15,0.912,7,24,3,4,,41845117
+2009,Regular Season,Tohoku Rakuten Golden Eagles,55,"Short, Rick",OF,23,0.968,30,0,1,0,,41845117
+2009,Regular Season,Fukuoka Softbank Hawks,34,"Germano, Justin",P,14,1.000,2,10,0,0,,41845118
+2009,Regular Season,Tohoku Rakuten Golden Eagles,62,"Fukumori, Kazuo",P,35,1.000,1,6,0,0,,41943880
+2009,Regular Season,Tokyo Yakult Swallows,3,"Fukuchi, Kazuki",1B,2,1.000,12,1,0,0,,41943889
+2009,Regular Season,Tokyo Yakult Swallows,3,"Fukuchi, Kazuki",OF,129,1.000,217,5,0,1,,41943889
+2009,Regular Season,Hanshin Tigers,45,"Shimizu, Takashi",C,13,1.000,30,3,0,0,1,41945114
+2009,Regular Season,Saitama Seibu Lions,48,"Takekuma, Shota",P,1,1.000,0,1,0,0,,41945116
+2009,Regular Season,Chunichi Dragons,32,"Nakagawa, Hiroki",OF,5,0.750,3,0,1,0,,41945119
+2009,Regular Season,Fukuoka Softbank Hawks,54,"Houlton, Dennis",P,25,1.000,6,19,0,1,,43145116
+2009,Regular Season,Yokohama BayStars,42,"Mastny, Tom",P,15,1.000,9,6,0,0,,43145118
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,39,"Botts, Jason",1B,3,0.947,16,2,1,3,,43345116
+2009,Regular Season,Tokyo Yakult Swallows,6,"Miyamoto, Shinya",2B,2,1.000,0,4,0,0,,51053880
+2009,Regular Season,Tokyo Yakult Swallows,6,"Miyamoto, Shinya",3B,118,0.993,68,197,2,16,,51053880
+2009,Regular Season,Tokyo Yakult Swallows,6,"Miyamoto, Shinya",SS,11,0.980,13,35,1,2,,51053880
+2009,Regular Season,Saitama Seibu Lions,38,"Doi, Yoshihiro",P,12,1.000,0,5,0,0,,51053886
+2009,Regular Season,Tohoku Rakuten Golden Eagles,31,"Fujii, Akihito",C,29,0.993,129,8,1,0,0,51053888
+2009,Regular Season,Chunichi Dragons,20,"Nakata, Kenichi",P,13,1.000,4,12,0,0,,51055110
+2009,Regular Season,Chunichi Dragons,36,"Tani, Tetsuya",3B,1,0.000,0,0,0,0,,51055116
+2009,Regular Season,Hanshin Tigers,17,"Sugiyama, Naohisa",P,2,1.000,0,2,0,0,,51055117
+2009,Regular Season,Chiba Lotte Marines,6,"Iguchi, Tadahito",2B,102,0.988,268,311,7,54,,51153884
+2009,Regular Season,Saitama Seibu Lions,9,"Akada, Shogo",OF,42,1.000,49,1,0,0,,51153888
+2009,Regular Season,Hiroshima Toyo Carp,38,"Akamatsu, Masato",OF,133,0.987,299,6,4,2,,51155110
+2009,Regular Season,Chunichi Dragons,14,"Asakura, Kenta",P,24,0.975,8,31,1,3,,51155111
+2009,Regular Season,Hiroshima Toyo Carp,47,"Aoki, Takahiro",P,29,1.000,5,12,0,1,,51155114
+2009,Regular Season,Hanshin Tigers,8,"Asai, Ryo",OF,34,1.000,41,0,0,0,,51155115
+2009,Regular Season,Hanshin Tigers,56,"Abe, Kenta",P,19,0.917,3,8,1,1,,51155117
+2009,Regular Season,Fukuoka Softbank Hawks,36,"Akashi, Kenji",1B,3,1.000,3,1,0,0,,51155119
+2009,Regular Season,Fukuoka Softbank Hawks,36,"Akashi, Kenji",2B,3,1.000,3,2,0,0,,51155119
+2009,Regular Season,Fukuoka Softbank Hawks,36,"Akashi, Kenji",3B,10,0.875,3,4,1,1,,51155119
+2009,Regular Season,Fukuoka Softbank Hawks,36,"Akashi, Kenji",OF,37,0.979,42,4,1,1,,51155119
+2009,Regular Season,Tokyo Yakult Swallows,35,"Hashimoto, Yoshitaka",P,13,1.000,0,2,0,0,,51255110
+2009,Regular Season,Yomiuri Giants,00,"Terauchi, Takayuki",2B,29,1.000,44,59,0,9,,51255114
+2009,Regular Season,Yomiuri Giants,00,"Terauchi, Takayuki",3B,41,0.970,6,26,1,1,,51255114
+2009,Regular Season,Yomiuri Giants,00,"Terauchi, Takayuki",SS,4,1.000,3,3,0,1,,51255114
+2009,Regular Season,Tokyo Yakult Swallows,52,"Nakamura, Yuhei",C,3,1.000,4,2,0,0,0,51255118
+2009,Regular Season,Fukuoka Softbank Hawks,57,"Mise, Koji",P,17,1.000,3,4,0,0,,51255119
+2009,Regular Season,Chunichi Dragons,43,"Ogasawara, Takashi",P,21,1.000,10,21,0,2,,51353888
+2009,Regular Season,Hanshin Tigers,21,"Iwata, Minoru",P,16,1.000,4,40,0,4,,51355112
+2009,Regular Season,Hanshin Tigers,41,"Uezono, Keiji",P,1,0.000,0,0,0,0,,51355114
+2009,Regular Season,Hiroshima Toyo Carp,31,"Ishihara, Yoshiyuki",C,124,0.992,773,62,7,9,3,51355115
+2009,Regular Season,Orix Buffaloes,00,"Yamasaki, Koji",1B,3,1.000,5,0,0,2,,51453888
+2009,Regular Season,Orix Buffaloes,00,"Yamasaki, Koji",2B,44,0.985,76,121,3,19,,51453888
+2009,Regular Season,Orix Buffaloes,00,"Yamasaki, Koji",3B,13,1.000,4,10,0,0,,51453888
+2009,Regular Season,Orix Buffaloes,00,"Yamasaki, Koji",SS,37,0.994,61,104,1,28,,51453888
+2009,Regular Season,Tokyo Yakult Swallows,21,"Matsuoka, Kenichi",P,52,0.923,0,12,1,0,,51455110
+2009,Regular Season,Chunichi Dragons,4,"Fujii, Atsushi",OF,113,0.987,218,3,3,1,,51455112
+2009,Regular Season,Saitama Seibu Lions,29,"Mitsui, Koji",P,19,1.000,0,7,0,0,,51455113
+2009,Regular Season,Orix Buffaloes,68,"Nito, Takuma",P,1,0.000,0,0,0,0,,51455114
+2009,Regular Season,Chiba Lotte Marines,68,"Hayasaka, Keisuke",2B,11,1.000,13,20,0,2,,51455117
+2009,Regular Season,Chiba Lotte Marines,68,"Hayasaka, Keisuke",OF,46,1.000,76,0,0,0,,51455117
+2009,Regular Season,Chiba Lotte Marines,68,"Hayasaka, Keisuke",SS,27,0.973,22,51,2,12,,51455117
+2009,Regular Season,Yomiuri Giants,25,"I, Sunyopu",1B,70,0.995,519,44,3,37,,51455119
+2009,Regular Season,Yokohama BayStars,47,"Kudo, Kimiyasu",P,46,1.000,0,8,0,0,,51553865
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,47,"Kikuchi, Kazumasa",P,58,1.000,3,6,0,1,,51555110
+2009,Regular Season,Fukuoka Softbank Hawks,48,"Katto, Keisuke",P,6,0.000,0,0,0,0,,51555112
+2009,Regular Season,Fukuoka Softbank Hawks,28,"Otonari, Kenji",P,26,0.962,2,23,1,2,,51555114
+2009,Regular Season,Saitama Seibu Lions,14,"Onodera, Chikara",P,47,1.000,3,8,0,1,,51555117
+2009,Regular Season,Tohoku Rakuten Golden Eagles,34,"Watanabe, Koki",P,4,1.000,0,1,0,0,,51655110
+2009,Regular Season,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",3B,45,0.949,27,66,5,6,,51655112
+2009,Regular Season,Hiroshima Toyo Carp,18,"Maeda, Kenta",P,29,0.984,15,46,1,6,,51655114
+2009,Regular Season,Yomiuri Giants,48,"Yano, Kenji",OF,4,1.000,2,0,0,0,,51655117
+2009,Regular Season,Yokohama BayStars,6,"Matsumoto, Keijiro",OF,11,1.000,7,0,0,0,,51655118
+2009,Regular Season,Orix Buffaloes,60,"Takanami, Fumikazu",OF,10,1.000,4,0,0,0,,51753889
+2009,Regular Season,Orix Buffaloes,14,"Kishida, Mamoru",P,19,1.000,7,23,0,2,,51755112
+2009,Regular Season,Saitama Seibu Lions,1,"Kuriyama, Takumi",OF,140,0.997,291,8,1,1,,51755115
+2009,Regular Season,Hiroshima Toyo Carp,12,"Kokubo, Tetsuya",2B,5,0.938,5,10,1,2,,51755116
+2009,Regular Season,Hiroshima Toyo Carp,12,"Kokubo, Tetsuya",3B,10,1.000,4,11,0,0,,51755116
+2009,Regular Season,Hiroshima Toyo Carp,12,"Kokubo, Tetsuya",OF,1,1.000,0,1,0,1,,51755116
+2009,Regular Season,Hiroshima Toyo Carp,12,"Kokubo, Tetsuya",SS,41,0.967,68,106,6,19,,51755116
+2009,Regular Season,Hiroshima Toyo Carp,41,"Komatsu, Takeshi",P,25,0.944,6,11,1,1,,51755118
+2009,Regular Season,Tokyo Yakult Swallows,13,"Sato, Masaru",P,3,0.000,0,0,0,0,,51755119
+2009,Regular Season,Yokohama BayStars,11,"Yamaguchi, Shun",P,51,1.000,2,6,0,1,,51855112
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,44,"Yamamoto, Kazunori",P,3,1.000,0,1,0,0,,51855114
+2009,Regular Season,Saitama Seibu Lions,13,"Nishiguchi, Fumiya",P,25,1.000,4,16,0,1,,51953880
+2009,Regular Season,Yomiuri Giants,6,"Sakamoto, Hayato",SS,141,0.973,244,437,19,81,,51955114
+2009,Regular Season,Chunichi Dragons,7,"I, Byongyu",OF,27,0.959,47,0,2,0,,53155114
+2009,Regular Season,Hanshin Tigers,67,"Brazell, Craig",1B,75,0.987,655,35,9,49,,53155116
+2009,Regular Season,Chiba Lotte Marines,46,"Burnham Jr., Gary",1B,26,0.994,137,19,1,9,,53155118
+2009,Regular Season,Chiba Lotte Marines,46,"Burnham Jr., Gary",OF,14,1.000,21,0,0,0,,53155118
+2009,Regular Season,Saitama Seibu Lions,33,"Eto, Akira",1B,4,0.972,35,0,1,1,,53253868
+2009,Regular Season,Fukuoka Softbank Hawks,91,"Yan, Yaoshun",P,4,1.000,2,0,0,1,,53355112
+2009,Regular Season,Fukuoka Softbank Hawks,00,"Loe, Kameron",P,5,0.667,1,3,2,0,,53355118
+2009,Regular Season,Yokohama BayStars,10,"Glynn, Ryan",P,23,0.885,7,16,3,0,,53555112
+2009,Regular Season,Hiroshima Toyo Carp,22,"Phillips, Andy",1B,1,1.000,1,2,0,0,,53555118
+2009,Regular Season,Hiroshima Toyo Carp,22,"Phillips, Andy",3B,4,1.000,2,4,0,0,,53555118
+2009,Regular Season,Hiroshima Toyo Carp,22,"Phillips, Andy",OF,69,0.975,77,2,2,0,,53555118
+2009,Regular Season,Fukuoka Softbank Hawks,3,"Matsunaka, Nobuhiko",OF,26,1.000,37,0,0,0,,61063884
+2009,Regular Season,Hanshin Tigers,14,"Nohmi, Atsushi",P,28,0.976,5,35,1,2,,61065110
+2009,Regular Season,Yomiuri Giants,68,"Togano, Masafumi",P,5,1.000,1,2,0,0,,61065112
+2009,Regular Season,Yomiuri Giants,66,"Tanaka, Daijiro",1B,5,0.947,32,4,2,2,,61065114
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,6,"Nakata, Sho",1B,6,1.000,26,0,0,1,,61065116
+2009,Regular Season,Yokohama BayStars,61,"Takeyama, Shingo",C,49,0.994,293,27,2,4,2,61065117
+2009,Regular Season,Saitama Seibu Lions,58,"Matsusaka, Kenta",OF,18,1.000,20,1,0,0,,61065119
+2009,Regular Season,Chunichi Dragons,9,"Inoe, Kazuki",OF,11,1.000,12,0,0,0,,61163881
+2009,Regular Season,Hanshin Tigers,7,"Imaoka, Makoto",1B,3,1.000,19,1,0,3,,61163884
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,60,"Ito, Takeshi",P,1,0.000,0,0,0,0,,61163888
+2009,Regular Season,Chiba Lotte Marines,23,"Otsuka, Akira",OF,4,0.000,0,0,0,0,,61163889
+2009,Regular Season,Tokyo Yakult Swallows,9,"Iihara, Yasushi",OF,66,0.986,67,1,1,0,,61165112
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,45,"Imanami, Takahiro",3B,3,1.000,0,1,0,0,,61165114
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,45,"Imanami, Takahiro",SS,2,1.000,1,3,0,0,,61165114
+2009,Regular Season,Tohoku Rakuten Golden Eagles,48,"Ishimine, Tadashi",C,6,1.000,19,1,0,0,0,61165116
+2009,Regular Season,Chiba Lotte Marines,21,"Uchi, Tatsuya",P,31,1.000,0,4,0,0,,61165119
+2009,Regular Season,Yomiuri Giants,58,"Hoshi, Takanori",C,9,1.000,9,0,0,0,1,61265110
+2009,Regular Season,Orix Buffaloes,25,"Mukae, Yuichiro",OF,8,1.000,7,0,0,0,,61265111
+2009,Regular Season,Chunichi Dragons,8,"Hirata, Ryosuke",OF,28,1.000,41,0,0,0,,61265112
+2009,Regular Season,Tohoku Rakuten Golden Eagles,63,"Makida, Akihisa",OF,33,1.000,24,1,0,0,,61265113
+2009,Regular Season,Hiroshima Toyo Carp,35,"Nakahigashi, Naoki",OF,1,0.000,0,0,0,0,,61265114
+2009,Regular Season,Hanshin Tigers,5,"Hirano, Keiichi",2B,79,0.986,148,198,5,25,,61265115
+2009,Regular Season,Hanshin Tigers,5,"Hirano, Keiichi",OF,79,1.000,93,4,0,0,,61265115
+2009,Regular Season,Tohoku Rakuten Golden Eagles,23,"Hijirisawa, Ryo",OF,67,0.980,48,1,1,0,,61265116
+2009,Regular Season,Yokohama BayStars,12,"Yoshikawa, Teruaki",P,10,1.000,2,4,0,1,,61265119
+2009,Regular Season,Yokohama BayStars,20,"Kizuka, Atsushi",P,43,1.000,2,4,0,0,,61365111
+2009,Regular Season,Orix Buffaloes,55,"Okada, Takahiro",1B,27,0.991,192,17,2,16,,61365112
+2009,Regular Season,Orix Buffaloes,55,"Okada, Takahiro",OF,19,1.000,26,1,0,0,,61365112
+2009,Regular Season,Saitama Seibu Lions,15,"Onuma, Koji",P,54,1.000,3,17,0,2,,61365113
+2009,Regular Season,Hiroshima Toyo Carp,46,"Oshima, Takayuki",P,7,1.000,0,2,0,0,,61365115
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,28,"Ohno, Shota",C,75,0.994,304,27,2,3,1,61365118
+2009,Regular Season,Fukuoka Softbank Hawks,53,"Kaneko, Keisuke",1B,3,1.000,2,0,0,0,,61365119
+2009,Regular Season,Fukuoka Softbank Hawks,53,"Kaneko, Keisuke",3B,8,1.000,0,6,0,0,,61365119
+2009,Regular Season,Fukuoka Softbank Hawks,53,"Kaneko, Keisuke",SS,1,0.000,0,0,0,0,,61365119
+2009,Regular Season,Orix Buffaloes,45,"Mitsuhara, Atsuhiro",P,3,1.000,1,3,0,0,,61465110
+2009,Regular Season,Hanshin Tigers,66,"Yamato, Maeda",2B,53,0.992,57,70,1,15,,61465112
+2009,Regular Season,Hanshin Tigers,66,"Yamato, Maeda",SS,2,1.000,1,3,0,0,,61465112
+2009,Regular Season,Yokohama BayStars,19,"Fujie, Hitoshi",P,9,0.917,2,9,1,0,,61465118
+2009,Regular Season,Chiba Lotte Marines,50,"Agbayani, Benny",OF,39,1.000,46,2,0,0,,61465119
+2009,Regular Season,Hiroshima Toyo Carp,55,"Shima, Shigenobu",OF,46,0.981,52,0,1,0,,61563880
+2009,Regular Season,Chiba Lotte Marines,41,"Kobayashi, Hiroyuki",P,24,1.000,10,20,0,3,,61563884
+2009,Regular Season,Orix Buffaloes,13,"Shimizu, Akio",P,58,1.000,3,13,0,1,,61563886
+2009,Regular Season,Hanshin Tigers,34,"Kubo, Yasutomo",P,26,0.971,7,27,1,2,,61565110
+2009,Regular Season,Chiba Lotte Marines,12,"Kawasaki, Yusuke",P,45,1.000,3,9,0,0,,61565112
+2009,Regular Season,Yokohama BayStars,63,"Kajitani, Takayuki",2B,14,0.964,13,41,2,6,,61565114
+2009,Regular Season,Hiroshima Toyo Carp,44,"Kida, Go",1B,2,1.000,15,1,0,2,,61565115
+2009,Regular Season,Hiroshima Toyo Carp,44,"Kida, Go",OF,23,1.000,28,0,0,0,,61565115
+2009,Regular Season,Chiba Lotte Marines,62,"Kanazawa, Takeshi",C,2,1.000,2,0,0,0,0,61565117
+2009,Regular Season,Hanshin Tigers,35,"Saka, Katsuhiko",2B,1,0.000,0,0,0,0,,61565119
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,29,"Yagi, Tomoya",P,20,1.000,2,23,0,2,,61665112
+2009,Regular Season,Fukuoka Softbank Hawks,19,"Morifuku, Masahiko",P,13,1.000,0,1,0,0,,61665114
+2009,Regular Season,Tokyo Yakult Swallows,63,"Yamamoto, Hitoshi",P,1,1.000,0,2,0,0,,61665116
+2009,Regular Season,Yokohama BayStars,31,"Yoshimura, Yuki",OF,144,0.985,260,6,4,0,,61665117
+2009,Regular Season,Yomiuri Giants,12,"Suzuki, Takahiro",OF,110,1.000,111,3,0,0,,61763884
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,22,"Tateyama, Yoshinori",P,46,1.000,2,6,0,0,,61763888
+2009,Regular Season,Chunichi Dragons,23,"Suzuki, Yoshihiro",P,6,1.000,1,1,0,0,,61765110
+2009,Regular Season,Saitama Seibu Lions,44,"Takayama, Hisashi",OF,3,1.000,8,0,0,0,,61765111
+2009,Regular Season,Chunichi Dragons,38,"Saito, Shinsuke",P,18,0.500,1,0,1,0,,61765112
+2009,Regular Season,Saitama Seibu Lions,10,"Sato, Tomoaki",OF,88,0.982,110,1,2,1,,61765113
+2009,Regular Season,Yokohama BayStars,30,"Sanada, Hiroki",P,68,1.000,6,15,0,1,,61765115
+2009,Regular Season,Hanshin Tigers,30,"Kubota, Tomoyuki",P,1,0.000,0,0,0,0,,61765117
+2009,Regular Season,Chiba Lotte Marines,67,"Shinzato, Ken",3B,1,1.000,4,2,0,1,,61765119
+2009,Regular Season,Yokohama BayStars,3,"Johnson, Dan",1B,53,0.988,451,27,6,31,,61865118
+2009,Regular Season,Yokohama BayStars,3,"Johnson, Dan",3B,33,0.943,24,42,4,4,,61865118
+2009,Regular Season,Fukuoka Softbank Hawks,58,"Tsuji, Takeshi",OF,14,1.000,9,0,0,0,,61963886
+2009,Regular Season,Yomiuri Giants,20,"Toyoda, Kiyoshi",P,46,1.000,3,8,0,0,,61963887
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,11,"Darvish, Yu",P,23,0.972,2,33,1,1,,61965110
+2009,Regular Season,Tokyo Yakult Swallows,58,"Takagi, Hiromitsu",P,12,1.000,1,6,0,0,,61965112
+2009,Regular Season,Yokohama BayStars,9,"Shimokubo, Yosuke",OF,2,1.000,3,0,0,0,,61965114
+2009,Regular Season,Fukuoka Softbank Hawks,70,"Tanoe, Hidenori",1B,4,1.000,26,1,0,3,,61965115
+2009,Regular Season,Fukuoka Softbank Hawks,70,"Tanoe, Hidenori",C,122,0.993,934,72,7,8,7,61965115
+2009,Regular Season,Hiroshima Toyo Carp,33,"Sayashi, Tomoya",OF,2,0.667,2,0,1,0,,61965117
+2009,Regular Season,Fukuoka Softbank Hawks,20,"Tatsumi, Shingo",P,1,1.000,0,1,0,0,,61965118
+2009,Regular Season,Yomiuri Giants,5,"Ramirez, Alex",OF,133,0.961,147,2,6,0,,63165113
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,10,"Sledge, Terrmel",1B,4,1.000,31,3,0,0,,63165116
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,10,"Sledge, Terrmel",OF,59,0.976,77,4,2,1,,63165116
+2009,Regular Season,Hanshin Tigers,32,"Mench, Kevin",OF,15,1.000,17,1,0,0,,63165118
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,14,"Jimenez, Luis",1B,24,0.985,176,15,3,18,,63365118
+2009,Regular Season,Hiroshima Toyo Carp,25,"Ishii, Takuro",3B,21,0.971,13,21,1,0,,65563868
+2009,Regular Season,Hiroshima Toyo Carp,25,"Ishii, Takuro",SS,52,0.972,69,141,6,24,,65563868
+2009,Regular Season,Hanshin Tigers,22,"Fujikawa, Kyuji",P,49,1.000,2,7,0,2,,71073888
+2009,Regular Season,Fukuoka Softbank Hawks,27,"Nakanishi, Kenta",1B,1,1.000,0,2,0,0,,71075110
+2009,Regular Season,Fukuoka Softbank Hawks,27,"Nakanishi, Kenta",OF,20,1.000,15,0,0,0,,71075110
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,38,"Takeda, Masaru",P,24,0.973,4,32,1,3,,71075112
+2009,Regular Season,Chunichi Dragons,70,"Nakazato, Atsushi",P,2,0.000,0,0,0,0,,71075113
+2009,Regular Season,Chunichi Dragons,2,"Araki, Masahiro",2B,140,0.987,358,450,11,80,,71173882
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,4,"Iiyama, Yuji",3B,42,0.900,6,12,2,0,,71173886
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,4,"Iiyama, Yuji",OF,2,1.000,1,0,0,0,,71173886
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,4,"Iiyama, Yuji",SS,39,0.980,17,33,1,9,,71173886
+2009,Regular Season,Yokohama BayStars,44,"Ishii, Yuya",P,28,0.833,0,5,1,0,,71175110
+2009,Regular Season,Chunichi Dragons,41,"Asao, Takuya",P,67,1.000,5,26,0,2,,71175114
+2009,Regular Season,Tokyo Yakult Swallows,48,"Hagiwara, Jun",P,34,1.000,1,10,0,3,,71273885
+2009,Regular Season,Tohoku Rakuten Golden Eagles,66,"Nishimura, Wataru",2B,1,0.000,0,0,0,0,,71275112
+2009,Regular Season,Tohoku Rakuten Golden Eagles,66,"Nishimura, Wataru",SS,1,1.000,1,0,0,0,,71275112
+2009,Regular Season,Hiroshima Toyo Carp,26,"Hirose, Jun",OF,77,0.980,94,4,2,2,,71275113
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,64,"Tsuruoka, Shinya",C,121,0.997,612,37,2,11,2,71275117
+2009,Regular Season,Orix Buffaloes,63,"Nishi, Yuki",P,3,1.000,1,0,0,0,,71275118
+2009,Regular Season,Hanshin Tigers,13,"Kanemura, Satoru",P,22,1.000,3,4,0,0,,71373880
+2009,Regular Season,Fukuoka Softbank Hawks,11,"Ogura, Shinsuke",P,1,0.000,0,0,0,0,,71373888
+2009,Regular Season,Chiba Lotte Marines,29,"Ono, Shingo",P,23,0.978,17,28,1,3,,71373889
+2009,Regular Season,Chiba Lotte Marines,10,"Omatsu, Shoitsu",OF,137,0.979,223,10,5,1,,71375110
+2009,Regular Season,Hanshin Tigers,33,"Katsuragi, Ikuro",1B,29,1.000,117,7,0,4,,71375111
+2009,Regular Season,Hanshin Tigers,33,"Katsuragi, Ikuro",OF,47,0.967,56,2,2,0,,71375111
+2009,Regular Season,Tohoku Rakuten Golden Eagles,0,"Uchimura, Kensuke",2B,37,0.964,52,81,5,17,,71375116
+2009,Regular Season,Tohoku Rakuten Golden Eagles,0,"Uchimura, Kensuke",OF,2,0.000,0,0,0,0,,71375116
+2009,Regular Season,Tohoku Rakuten Golden Eagles,0,"Uchimura, Kensuke",SS,7,1.000,10,9,0,0,,71375116
+2009,Regular Season,Saitama Seibu Lions,49,"Uemoto, Tatsuyuki",1B,10,0.974,36,1,1,6,,71375117
+2009,Regular Season,Saitama Seibu Lions,49,"Uemoto, Tatsuyuki",C,37,1.000,79,11,0,1,1,71375117
+2009,Regular Season,Hiroshima Toyo Carp,10,"Iwamoto, Takahiro",OF,13,1.000,11,2,0,1,,71375118
+2009,Regular Season,Chunichi Dragons,59,"Ogawa, Masatoshi",C,2,1.000,5,0,0,0,0,71375119
+2009,Regular Season,Yokohama BayStars,32,"Matsuka, Takahiro",P,9,1.000,0,8,0,0,,71475110
+2009,Regular Season,Fukuoka Softbank Hawks,40,"Fujioka, Yoshiaki",P,38,0.923,3,21,2,1,,71475112
+2009,Regular Season,Fukuoka Softbank Hawks,62,"Yamazaki, Katsuki",C,29,1.000,101,9,0,1,0,71475113
+2009,Regular Season,Saitama Seibu Lions,27,"Hosokawa, Toru",C,46,0.992,237,15,2,3,2,71475115
+2009,Regular Season,Yomiuri Giants,57,"Furukawa, Yuki",P,6,1.000,0,1,0,0,,71475116
+2009,Regular Season,Yomiuri Giants,45,"Odajima, Masakuni",1B,5,0.971,32,1,1,3,,71575115
+2009,Regular Season,Yomiuri Giants,50,"Kajimae, Ryuichi",OF,10,1.000,8,0,0,0,,71575116
+2009,Regular Season,Saitama Seibu Lions,24,"Matsunaga, Hironori",P,18,0.750,1,2,1,1,,71675112
+2009,Regular Season,Chiba Lotte Marines,31,"Watanabe, Shunsuke",P,25,0.964,6,21,1,0,,71675113
+2009,Regular Season,Tokyo Yakult Swallows,22,"Masubuchi, Tatsuyoshi",P,1,0.000,0,0,0,0,,71675114
+2009,Regular Season,Saitama Seibu Lions,68,"Miyata, Kazuki",P,2,0.000,0,0,0,0,,71675118
+2009,Regular Season,Orix Buffaloes,31,"Shiozaki, Makoto",1B,9,1.000,10,1,0,2,,71773884
+2009,Regular Season,Orix Buffaloes,31,"Shiozaki, Makoto",2B,9,0.980,17,32,1,9,,71773884
+2009,Regular Season,Orix Buffaloes,31,"Shiozaki, Makoto",3B,36,1.000,7,15,0,1,,71773884
+2009,Regular Season,Orix Buffaloes,31,"Shiozaki, Makoto",SS,16,1.000,13,35,0,8,,71773884
+2009,Regular Season,Yokohama BayStars,49,"Saito, Toshio",C,14,0.982,52,4,1,0,2,71775110
+2009,Regular Season,Orix Buffaloes,33,"Takagi, Yasunari",P,6,1.000,0,7,0,0,,71775111
+2009,Regular Season,Tohoku Rakuten Golden Eagles,54,"Kitani, Hisashi",P,11,1.000,1,3,0,0,,71775112
+2009,Regular Season,Chunichi Dragons,47,"Kikuchi, Masanori",P,6,1.000,0,2,0,1,,71775114
+2009,Regular Season,Orix Buffaloes,1,"Goto, Mitsutaka",2B,54,0.982,117,210,6,54,,71775115
+2009,Regular Season,Orix Buffaloes,29,"Kobayashi, Kenji",P,2,0.000,0,0,0,0,,71775116
+2009,Regular Season,Yomiuri Giants,41,"Kisanuki, Hiroshi",P,1,0.000,0,0,0,0,,71775117
+2009,Regular Season,Yomiuri Giants,47,"Yamaguchi, Tetsuya",P,73,0.920,8,15,2,1,,71875112
+2009,Regular Season,Saitama Seibu Lions,40,"Yamamoto, Jun",P,12,1.000,1,2,0,0,,71875114
+2009,Regular Season,Yomiuri Giants,49,"Gonzalez, Dicky",P,23,0.964,21,32,2,0,,71875119
+2009,Regular Season,Hiroshima Toyo Carp,42,"Hasegawa, Masayuki",P,10,1.000,1,5,0,2,,71973882
+2009,Regular Season,Chunichi Dragons,33,"Hirai, Masafumi",P,25,1.000,1,3,0,0,,71973889
+2009,Regular Season,Chiba Lotte Marines,25,"Takehara, Naotaka",OF,69,0.980,94,2,2,0,,71975110
+2009,Regular Season,Chunichi Dragons,67,"Takahashi, Akifumi",P,49,0.875,1,6,1,0,,71975115
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,31,"Koyano, Eiichi",1B,43,1.000,103,6,0,7,,71975117
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,31,"Koyano, Eiichi",3B,134,0.982,88,233,6,22,,71975117
+2009,Regular Season,Chiba Lotte Marines,39,"Tanaka, Masahiko",2B,7,1.000,11,22,0,4,,71975119
+2009,Regular Season,Chiba Lotte Marines,39,"Tanaka, Masahiko",3B,12,0.967,8,21,1,2,,71975119
+2009,Regular Season,Chiba Lotte Marines,39,"Tanaka, Masahiko",C,2,1.000,6,1,0,0,0,71975119
+2009,Regular Season,Saitama Seibu Lions,55,"Bocachica, Hiram",OF,43,0.987,75,2,1,1,,73175116
+2009,Regular Season,Chunichi Dragons,45,"Payano, Nelson",P,34,0.800,1,3,1,1,,73175118
+2009,Regular Season,Orix Buffaloes,12,"Vogelsong, Ryan",P,30,0.833,2,3,1,0,,73375114
+2009,Regular Season,Hanshin Tigers,52,"Baldiris, Aarom",1B,1,1.000,1,0,0,0,,73375116
+2009,Regular Season,Hanshin Tigers,52,"Baldiris, Aarom",2B,6,0.923,5,7,1,1,,73375116
+2009,Regular Season,Hanshin Tigers,52,"Baldiris, Aarom",OF,4,0.857,6,0,1,0,,73375116
+2009,Regular Season,Chiba Lotte Marines,5,"Hori, Koichi",1B,39,1.000,222,17,0,19,,73873868
+2009,Regular Season,Chiba Lotte Marines,5,"Hori, Koichi",2B,2,1.000,2,4,0,1,,73873868
+2009,Regular Season,Chiba Lotte Marines,5,"Hori, Koichi",3B,1,0.000,0,0,0,0,,73873868
+2009,Regular Season,Tohoku Rakuten Golden Eagles,16,"Yamamura, Hiroki",P,1,1.000,0,1,0,0,,81083880
+2009,Regular Season,Yomiuri Giants,33,"Nomaguchi, Takahiko",P,25,1.000,1,1,0,0,,81085110
+2009,Regular Season,Yokohama BayStars,39,"Naito, Yuta",1B,9,1.000,32,2,0,1,,81085112
+2009,Regular Season,Yokohama BayStars,39,"Naito, Yuta",3B,13,1.000,6,4,0,0,,81085112
+2009,Regular Season,Yokohama BayStars,39,"Naito, Yuta",OF,14,1.000,6,0,0,0,,81085112
+2009,Regular Season,Saitama Seibu Lions,60,"Nakamura, Takeya",1B,28,0.981,143,9,3,12,,81085115
+2009,Regular Season,Saitama Seibu Lions,60,"Nakamura, Takeya",3B,89,0.947,55,160,12,17,,81085115
+2009,Regular Season,Tokyo Yakult Swallows,25,"Tateyama, Shohei",P,27,0.941,17,31,3,1,,81085117
+2009,Regular Season,Chunichi Dragons,13,"Iwase, Hitoki",P,54,0.938,6,9,1,0,,81183888
+2009,Regular Season,Hiroshima Toyo Carp,39,"Umetsu, Tomohiro",P,26,1.000,1,4,0,0,,81185110
+2009,Regular Season,Fukuoka Softbank Hawks,51,"Arakane, Hisao",OF,12,1.000,3,1,0,0,,81185113
+2009,Regular Season,Chunichi Dragons,46,"Iwasaki, Tatsuro",2B,5,1.000,10,5,0,1,,81185114
+2009,Regular Season,Chunichi Dragons,46,"Iwasaki, Tatsuro",3B,3,1.000,1,1,0,0,,81185114
+2009,Regular Season,Chunichi Dragons,46,"Iwasaki, Tatsuro",OF,1,1.000,2,0,0,0,,81185114
+2009,Regular Season,Yomiuri Giants,26,"Utsumi, Tetsuya",P,27,0.969,8,23,1,1,,81185119
+2009,Regular Season,Hanshin Tigers,42,"Shimoyanagi, Tsuyoshi",P,22,0.947,1,17,1,2,,81283883
+2009,Regular Season,Saitama Seibu Lions,52,"Hoshi, Hidekazu",1B,2,1.000,2,0,0,1,,81285110
+2009,Regular Season,Saitama Seibu Lions,52,"Hoshi, Hidekazu",OF,5,1.000,4,0,0,0,,81285110
+2009,Regular Season,Orix Buffaloes,16,"Hirano, Yoshihisa",P,20,1.000,11,19,0,1,,81285112
+2009,Regular Season,Tohoku Rakuten Golden Eagles,00,"Nakamura, Masato",OF,94,1.000,145,2,0,0,,81285114
+2009,Regular Season,Saitama Seibu Lions,19,"Hirano, Masamitsu",P,5,1.000,2,0,0,0,,81285116
+2009,Regular Season,Chunichi Dragons,68,"Nagamine, Shoji",P,6,0.000,0,0,0,0,,81285117
+2009,Regular Season,Saitama Seibu Lions,20,"Nogami, Ryoma",P,25,1.000,5,10,0,1,,81285118
+2009,Regular Season,Orix Buffaloes,66,"Yoshida, Shintaro",OF,10,1.000,11,1,0,0,,81285119
+2009,Regular Season,Orix Buffaloes,23,"Kitagawa, Hirotoshi",1B,42,0.997,289,24,1,31,,81383880
+2009,Regular Season,Orix Buffaloes,23,"Kitagawa, Hirotoshi",3B,35,0.935,26,46,5,7,,81383880
+2009,Regular Season,Tohoku Rakuten Golden Eagles,45,"Kawai, Takashi",P,14,1.000,1,2,0,0,,81383888
+2009,Regular Season,Yomiuri Giants,9,"Kamei, Yoshiyuki",1B,47,0.992,345,23,3,22,,81385110
+2009,Regular Season,Yomiuri Giants,9,"Kamei, Yoshiyuki",OF,104,0.990,194,5,2,2,,81385110
+2009,Regular Season,Yomiuri Giants,22,"Ochi, Daisuke",P,66,1.000,3,7,0,0,,81385112
+2009,Regular Season,Tokyo Yakult Swallows,26,"Okamoto, Hidehiro",P,1,0.000,0,0,0,0,,81385116
+2009,Regular Season,Tohoku Rakuten Golden Eagles,51,"Kawagishi, Tsuyoshi",P,26,1.000,0,2,0,0,,81385119
+2009,Regular Season,Chiba Lotte Marines,40,"Watanabe, Masato",2B,2,1.000,0,1,0,0,,81483886
+2009,Regular Season,Chiba Lotte Marines,40,"Watanabe, Masato",3B,1,0.000,0,0,0,0,,81483886
+2009,Regular Season,Hiroshima Toyo Carp,30,"Mori, Choji",P,3,0.000,0,0,0,0,,81485110
+2009,Regular Season,Tohoku Rakuten Golden Eagles,68,"Masuda, Shintaro",2B,1,1.000,2,4,0,2,,81485112
+2009,Regular Season,Tohoku Rakuten Golden Eagles,68,"Masuda, Shintaro",3B,1,1.000,0,1,0,0,,81485112
+2009,Regular Season,Orix Buffaloes,20,"Yamamoto, Shogo",P,27,1.000,8,33,0,3,,81485113
+2009,Regular Season,Yokohama BayStars,25,"Murata, Shuichi",3B,92,0.951,52,141,10,11,,81485117
+2009,Regular Season,Tohoku Rakuten Golden Eagles,15,"Fujiwara, Hiromichi",P,17,0.893,7,18,3,4,,81485118
+2009,Regular Season,Chiba Lotte Marines,48,"Takagi, Koji",P,16,0.000,0,0,0,0,,81583864
+2009,Regular Season,Hiroshima Toyo Carp,9,"Ogata, Koichi",OF,4,1.000,3,0,0,0,,81583866
+2009,Regular Season,Tohoku Rakuten Golden Eagles,57,"Koyama, Shinichiro",P,56,0.929,1,12,1,0,,81583884
+2009,Regular Season,Yokohama BayStars,40,"Kuwahara, Yoshiyuki",OF,1,0.000,0,0,0,0,,81585110
+2009,Regular Season,Tokyo Yakult Swallows,00,"Kawashima, Keizo",SS,118,0.984,187,371,9,67,,81585112
+2009,Regular Season,Fukuoka Softbank Hawks,39,"Kume, Yuki",P,18,1.000,1,3,0,0,,81585116
+2009,Regular Season,Hanshin Tigers,40,"Sajikihara, Masashi",P,15,1.000,1,0,0,0,,81585119
+2009,Regular Season,Chunichi Dragons,53,"Yanagida, Shigeo",2B,1,1.000,3,1,0,1,,81685112
+2009,Regular Season,Chunichi Dragons,53,"Yanagida, Shigeo",3B,1,1.000,0,1,0,0,,81685112
+2009,Regular Season,Hanshin Tigers,27,"Atchison, Scott",P,75,1.000,3,19,0,0,,81685116
+2009,Regular Season,Hanshin Tigers,31,"Wei-chu, Lin",OF,18,0.962,25,0,1,0,,81685117
+2009,Regular Season,Yokohama BayStars,0,"Yamazaki, Noriharu",2B,20,0.978,34,54,2,15,,81685118
+2009,Regular Season,Yokohama BayStars,0,"Yamazaki, Noriharu",3B,41,0.955,12,30,2,2,,81685118
+2009,Regular Season,Yokohama BayStars,0,"Yamazaki, Noriharu",SS,5,0.895,6,11,2,1,,81685118
+2009,Regular Season,Hanshin Tigers,3,"Sekimoto, Kentaro",1B,83,0.995,577,40,3,49,,81783884
+2009,Regular Season,Hanshin Tigers,3,"Sekimoto, Kentaro",2B,50,0.970,91,136,7,27,,81783884
+2009,Regular Season,Hiroshima Toyo Carp,21,"Saito, Yuki",P,27,0.929,3,36,3,1,,81785112
+2009,Regular Season,Chiba Lotte Marines,55,"Kobe, Takumi",1B,3,1.000,15,1,0,0,,81785114
+2009,Regular Season,Chiba Lotte Marines,55,"Kobe, Takumi",OF,6,1.000,3,1,0,1,,81785114
+2009,Regular Season,Tokyo Yakult Swallows,0,"Shida, Munehiro",OF,7,1.000,4,0,0,0,,81785115
+2009,Regular Season,Tokyo Yakult Swallows,11,"Satoh, Yoshinori",P,22,0.875,7,14,3,1,,81785116
+2009,Regular Season,Tohoku Rakuten Golden Eagles,2,"Watanabe, Naoto",2B,5,1.000,8,10,0,1,,81885114
+2009,Regular Season,Tohoku Rakuten Golden Eagles,2,"Watanabe, Naoto",SS,124,0.988,175,337,6,78,,81885114
+2009,Regular Season,Tohoku Rakuten Golden Eagles,50,"Childers, Matt",P,3,0.000,0,0,0,0,,81885118
+2009,Regular Season,Orix Buffaloes,27,"Hidaka, Takeshi",C,87,0.996,523,37,2,6,1,81983882
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,7,"Tsuboi, Tomochika",OF,36,0.981,47,4,1,0,,81983886
+2009,Regular Season,Hanshin Tigers,28,"Fukuhara, Shinobu",P,14,0.826,7,12,4,0,,81983888
+2009,Regular Season,Tokyo Yakult Swallows,55,"Noguchi, Yoshiyuki",1B,17,1.000,62,5,0,6,,81985111
+2009,Regular Season,Tokyo Yakult Swallows,55,"Noguchi, Yoshiyuki",2B,17,0.975,20,19,1,2,,81985111
+2009,Regular Season,Tokyo Yakult Swallows,55,"Noguchi, Yoshiyuki",3B,4,1.000,0,5,0,0,,81985111
+2009,Regular Season,Tokyo Yakult Swallows,55,"Noguchi, Yoshiyuki",OF,8,1.000,11,0,0,0,,81985111
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Takaguchi, Takayuki",1B,1,1.000,1,0,0,1,,81985112
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Takaguchi, Takayuki",3B,2,1.000,2,5,0,1,,81985112
+2009,Regular Season,Yokohama BayStars,50,"Shimozono, Tatsuya",OF,53,0.973,69,2,2,0,,81985114
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,16,"Tadano, Kazuhito",P,13,1.000,0,12,0,1,,81985116
+2009,Regular Season,Chunichi Dragons,57,"Agramonte, Tomasu Hijo De La Rosa",2B,1,1.000,1,2,0,0,,83185116
+2009,Regular Season,Chunichi Dragons,57,"Agramonte, Tomasu Hijo De La Rosa",3B,5,0.889,1,7,1,0,,83185116
+2009,Regular Season,Chunichi Dragons,57,"Agramonte, Tomasu Hijo De La Rosa",SS,1,1.000,2,2,0,1,,83185116
+2009,Regular Season,Tohoku Rakuten Golden Eagles,17,"Rasner, Darrell",P,15,0.950,4,15,1,0,,83185118
+2009,Regular Season,Chiba Lotte Marines,49,"Sikorski, Brian",P,55,1.000,4,8,0,2,,83385113
+2009,Regular Season,Chunichi Dragons,27,"Tanishige, Motonobu",C,114,1.000,689,64,0,11,7,85583868
+2009,Regular Season,Chunichi Dragons,51,"Nakamura, Issei",OF,9,1.000,15,2,0,0,,91095110
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,18,"Fujii, Shugo",P,22,1.000,2,27,0,2,,91095111
+2009,Regular Season,Fukuoka Softbank Hawks,0,"Nakazawa, Tadaatsu",3B,1,1.000,0,1,0,0,,91095113
+2009,Regular Season,Tokyo Yakult Swallows,14,"Takaichi, Shun",P,3,1.000,0,3,0,0,,91095114
+2009,Regular Season,Yokohama BayStars,24,"Terahara, Hayato",P,13,0.880,3,19,3,1,,91095115
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,41,"Inaba, Atsunori",OF,119,0.987,217,5,3,1,,91193880
+2009,Regular Season,Saitama Seibu Lions,5,"Ishii, Yoshihito",1B,102,0.997,802,56,3,69,,91193884
+2009,Regular Season,Saitama Seibu Lions,5,"Ishii, Yoshihito",3B,12,1.000,4,7,0,0,,91193884
+2009,Regular Season,Tokyo Yakult Swallows,53,"Igarashi, Ryota",P,56,1.000,2,10,0,0,,91193886
+2009,Regular Season,Yokohama BayStars,52,"Ishikawa, Takehiro",2B,1,0.000,0,0,0,0,,91195110
+2009,Regular Season,Yokohama BayStars,52,"Ishikawa, Takehiro",3B,2,1.000,0,4,0,0,,91195110
+2009,Regular Season,Yokohama BayStars,52,"Ishikawa, Takehiro",SS,129,0.970,194,360,17,75,,91195110
+2009,Regular Season,Tohoku Rakuten Golden Eagles,41,"Aoyama, Kouji",P,28,1.000,1,10,0,1,,91195112
+2009,Regular Season,Hanshin Tigers,53,"Akahoshi, Norihiro",OF,89,1.000,143,1,0,0,,91195113
+2009,Regular Season,Fukuoka Softbank Hawks,18,"Arakaki, Nagisa",P,4,0.500,0,1,1,1,,91195117
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,26,"Itoi, Yoshio",OF,125,0.992,234,7,2,2,,91195119
+2009,Regular Season,Yokohama BayStars,5,"Noguchi, Toshihiro",C,17,0.988,81,2,1,0,2,91293881
+2009,Regular Season,Yokohama BayStars,99,"Yokoyama, Yukiya",P,14,1.000,0,4,0,0,,91293882
+2009,Regular Season,Fukuoka Softbank Hawks,44,"Mizuta, Akio",P,46,0.909,3,7,1,0,,91293888
+2009,Regular Season,Tohoku Rakuten Golden Eagles,33,"Hiraishi, Yosuke",1B,9,1.000,21,1,0,2,,91295110
+2009,Regular Season,Tohoku Rakuten Golden Eagles,33,"Hiraishi, Yosuke",OF,16,0.926,25,0,2,0,,91295110
+2009,Regular Season,Chiba Lotte Marines,44,"Hayakawa, Daisuke",OF,67,0.989,89,2,1,0,,91295115
+2009,Regular Season,Chiba Lotte Marines,28,"Nemoto, Tomohisa",P,4,0.000,0,0,0,0,,91295116
+2009,Regular Season,Orix Buffaloes,64,"Nishikawa, Masato",P,5,1.000,0,1,0,0,,91295118
+2009,Regular Season,Tohoku Rakuten Golden Eagles,61,"Kawaguchi, Kenshi",1B,27,0.993,133,9,1,12,,91393880
+2009,Regular Season,Tohoku Rakuten Golden Eagles,61,"Kawaguchi, Kenshi",OF,12,1.000,7,0,0,0,,91393880
+2009,Regular Season,Chunichi Dragons,52,"Oda, Kohei",C,24,1.000,70,5,0,0,1,91393886
+2009,Regular Season,Yokohama BayStars,41,"Oyamada, Yasuhiro",P,7,1.000,2,4,0,0,,91393888
+2009,Regular Season,Hanshin Tigers,57,"Okazaki, Taichi",C,12,1.000,48,2,0,0,0,91395110
+2009,Regular Season,Fukuoka Softbank Hawks,69,"Ide, Shotaro",OF,8,1.000,12,0,0,0,,91395115
+2009,Regular Season,Chiba Lotte Marines,15,"Ueno, Hiroki",P,16,1.000,1,3,0,0,,91395118
+2009,Regular Season,Tokyo Yakult Swallows,65,"Oshimoto, Takehiko",P,51,1.000,2,9,0,2,,91395119
+2009,Regular Season,Tokyo Yakult Swallows,40,"Yoshimoto, Ryo",2B,2,1.000,1,2,0,0,,91493888
+2009,Regular Season,Tokyo Yakult Swallows,40,"Yoshimoto, Ryo",3B,26,1.000,3,13,0,1,,91493888
+2009,Regular Season,Tokyo Yakult Swallows,40,"Yoshimoto, Ryo",SS,1,1.000,1,0,0,0,,91493888
+2009,Regular Season,Chiba Lotte Marines,27,"Furuya, Takuya",P,4,0.500,0,1,1,0,,91495112
+2009,Regular Season,Chunichi Dragons,00,"Maeda, Akihiro",C,5,1.000,20,1,0,1,1,91495115
+2009,Regular Season,Orix Buffaloes,22,"Maeda, Daisuke",C,15,1.000,94,2,0,0,0,91495117
+2009,Regular Season,Saitama Seibu Lions,4,"Shimizu, Takayuki",OF,3,1.000,3,1,0,0,,91593882
+2009,Regular Season,Yokohama BayStars,1,"Kinjo, Tatsuhiko",OF,97,1.000,146,3,0,1,,91593888
+2009,Regular Season,Tohoku Rakuten Golden Eagles,14,"Satake, Kenta",P,34,1.000,1,6,0,0,,91595111
+2009,Regular Season,Orix Buffaloes,10,"Obiki, Keiji",3B,2,1.000,0,1,0,0,,91595114
+2009,Regular Season,Orix Buffaloes,10,"Obiki, Keiji",SS,105,0.983,157,357,9,86,,91595114
+2009,Regular Season,Tokyo Yakult Swallows,39,"Kajimoto, Yusuke",2B,5,1.000,8,17,0,1,,91595115
+2009,Regular Season,Tokyo Yakult Swallows,39,"Kajimoto, Yusuke",3B,1,0.667,1,1,1,0,,91595115
+2009,Regular Season,Yokohama BayStars,55,"Kuremoto, Shigenori",1B,1,1.000,5,0,0,0,,91595119
+2009,Regular Season,Orix Buffaloes,8,"Rhodes, Tuffy",OF,17,1.000,24,0,0,0,,91693882
+2009,Regular Season,Chiba Lotte Marines,45,"Matsumoto, Kodai",P,6,1.000,1,1,0,0,,91695114
+2009,Regular Season,Orix Buffaloes,30,"Larocca, Greg",1B,22,1.000,156,7,0,17,,91695119
+2009,Regular Season,Orix Buffaloes,30,"Larocca, Greg",3B,52,0.922,27,67,8,6,,91695119
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,32,"Nakajima, Satoshi",C,3,1.000,7,2,0,0,0,91793864
+2009,Regular Season,Fukuoka Softbank Hawks,1,"Shibahara, Hiroshi",OF,35,1.000,40,2,0,0,,91793884
+2009,Regular Season,Orix Buffaloes,44,"Suzuki, Fumihiro",C,57,0.992,331,21,3,8,4,91793886
+2009,Regular Season,Orix Buffaloes,44,"Suzuki, Fumihiro",OF,1,0.000,0,0,0,0,,91793886
+2009,Regular Season,Saitama Seibu Lions,11,"Kishi, Takayuki",P,26,0.978,7,37,1,1,,91795114
+2009,Regular Season,Orix Buffaloes,65,"Kondoh, Kazuki",P,24,0.955,7,35,2,1,,91795115
+2009,Regular Season,Yokohama BayStars,4,"Kitagawa, Toshiyuki",2B,14,0.963,19,33,2,8,,91795117
+2009,Regular Season,Yokohama BayStars,4,"Kitagawa, Toshiyuki",3B,1,1.000,3,1,0,0,,91795117
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,15,"Sakakibara, Ryo",P,10,1.000,2,3,0,0,,91795118
+2009,Regular Season,Tohoku Rakuten Golden Eagles,5,"Seguignol, Fernando",1B,87,0.994,666,43,4,68,,91895115
+2009,Regular Season,Hiroshima Toyo Carp,67,"Kozlowski, Ben",P,1,0.000,0,0,0,0,,91895116
+2009,Regular Season,Fukuoka Softbank Hawks,49,"Ortiz, Jose",3B,39,0.904,21,54,8,4,,91895117
+2009,Regular Season,Fukuoka Softbank Hawks,49,"Ortiz, Jose",OF,65,0.952,96,4,5,0,,91895117
+2009,Regular Season,Fukuoka Softbank Hawks,4,"Aguila, Chris",OF,14,1.000,17,1,0,1,,91895118
+2009,Regular Season,Chiba Lotte Marines,33,"Hashimoto, Tasuku",C,35,1.000,213,11,0,1,3,91993880
+2009,Regular Season,Yomiuri Giants,8,"Tani, Yoshitomo",OF,85,0.972,98,5,3,0,,91993884
+2009,Regular Season,Saitama Seibu Lions,8,"Hirao, Hiroshi",1B,33,0.996,223,11,1,18,,91993889
+2009,Regular Season,Saitama Seibu Lions,8,"Hirao, Hiroshi",2B,4,1.000,6,8,0,2,,91993889
+2009,Regular Season,Saitama Seibu Lions,8,"Hirao, Hiroshi",3B,4,1.000,2,2,0,0,,91993889
+2009,Regular Season,Saitama Seibu Lions,2,"Sumitani, Ginjiro",C,112,0.994,697,71,5,12,7,91995112
+2009,Regular Season,Hokkaido Nippon-Ham Fighters,52,"Konta, Toshimasa",OF,41,1.000,46,0,0,0,,91995117
+2009,Regular Season,Fukuoka Softbank Hawks,50,"Settsu, Tadashi",P,70,1.000,3,17,0,1,,91995118
+2009,Regular Season,Hanshin Tigers,20,"Tsutsui, Kazuya",P,45,0.933,4,10,1,0,,91995119
+2009,Regular Season,Hiroshima Toyo Carp,90,"Mcclain, Scott",3B,92,0.971,71,132,6,2,,93195113
+2009,Regular Season,Hiroshima Toyo Carp,90,"Mcclain, Scott",OF,9,1.000,6,1,0,0,,93195113
+2009,Regular Season,Tokyo Yakult Swallows,5,"Guiel, Aaron",OF,119,0.986,193,12,3,0,,93195114
+2009,Regular Season,Tokyo Yakult Swallows,18,"Barrett, Ricky",P,7,1.000,0,1,0,0,,93195118
+2009,Regular Season,Saitama Seibu Lions,42,"Bayliss, Jonah",P,19,1.000,0,1,0,0,,93595118
+2009,Regular Season,Yomiuri Giants,44,"Omichi, Noriyoshi",1B,2,1.000,6,0,0,0,,93993868

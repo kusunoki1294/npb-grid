@@ -1,0 +1,1151 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+2024,Regular Season,Hiroshima Toyo Carp,34,"Takahashi, Kouya",P,1,0.000,0,0,0,0,,01005134
+2024,Regular Season,Yomiuri Giants,28,"Takahashi, Rei",P,11,1.000,2,4,0,0,,01005136
+2024,Regular Season,Fukuoka Softbank Hawks,16,"Higashihama, Nao",P,11,1.000,2,5,0,0,,01005137
+2024,Regular Season,Chiba Lotte Marines,35,"Tanaka, Haruya",P,4,1.000,0,1,0,0,,01005157
+2024,Regular Season,Tokyo Yakult Swallows,65,"Suzuki, Kyo",C,2,1.000,4,1,0,0,0,01005159
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,52,"Ikeda, Takahide",P,2,1.000,0,1,0,0,,01105134
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,52,"Ikeda, Takahide",P,29,1.000,1,2,0,0,,01105134
+2024,Climax Series - First Stage,Chiba Lotte Marines,23,"Ishikawa, Shingo",OF,1,0.000,0,0,0,0,,01105135
+2024,Regular Season,Chiba Lotte Marines,23,"Ishikawa, Shingo",OF,11,0.875,14,0,2,0,,01105135
+2024,Regular Season,Yomiuri Giants,63,"Izumi, Keisuke",P,35,1.000,3,7,0,1,,01105138
+2024,Regular Season,Fukuoka Softbank Hawks,55,"Ishizuka, Soichiro",1B,11,0.983,54,4,1,4,,01105151
+2024,Regular Season,Orix Buffaloes,20,"Abe, Shota",P,17,1.000,0,4,0,0,,01105153
+2024,Regular Season,Hanshin Tigers,63,"Ishiguro, Yuya",P,3,1.000,0,1,0,0,,01105159
+2024,Regular Season,Chiba Lotte Marines,29,"Nishino, Yuji",P,20,1.000,5,15,0,2,,01205118
+2024,Regular Season,Saitama Seibu Lions,20,"Tamura, Ichiro",P,28,1.000,1,2,0,0,,01205134
+2024,Regular Season,Chiba Lotte Marines,48,"Nakamura, Toshiya",P,17,1.000,5,4,0,0,,01205138
+2024,Regular Season,Tohoku Rakuten Golden Eagles,29,"Takada, Koichi",P,5,1.000,0,1,0,0,,01205153
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,16,"Tatsu, Kota",P,1,0.000,0,0,0,0,,01205155
+2024,Regular Season,Hanshin Tigers,62,"Ueda, Kai",OF,34,1.000,13,0,0,0,,01305130
+2024,Regular Season,Chunichi Dragons,8,"Ohshima, Yohei",OF,20,1.000,28,1,0,0,,01305131
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,16,"Ohnuki, Shinichi",P,1,1.000,0,1,0,0,,01305138
+2024,Japan Series,Yokohama DeNA Baystars,16,"Ohnuki, Shinichi",P,2,1.000,1,0,0,0,,01305138
+2024,Regular Season,Yokohama DeNA Baystars,16,"Ohnuki, Shinichi",P,15,0.968,13,17,1,3,,01305138
+2024,Regular Season,Fukuoka Softbank Hawks,43,"Inoue, Tomoya",1B,4,1.000,23,1,0,2,,01305153
+2024,Regular Season,Orix Buffaloes,64,"Ohsato, Kosei",1B,5,1.000,46,1,0,5,,01305155
+2024,Regular Season,Orix Buffaloes,64,"Ohsato, Kosei",2B,30,0.963,39,66,4,12,,01305155
+2024,Regular Season,Orix Buffaloes,64,"Ohsato, Kosei",3B,13,1.000,5,20,0,2,,01305155
+2024,Regular Season,Orix Buffaloes,64,"Ohsato, Kosei",SS,6,0.957,5,17,1,3,,01305155
+2024,Japan Series,Fukuoka Softbank Hawks,26,"Ohtsu, Ryosuke",P,1,0.000,0,0,0,0,,01305157
+2024,Regular Season,Fukuoka Softbank Hawks,26,"Ohtsu, Ryosuke",P,19,1.000,5,14,0,1,,01305157
+2024,Regular Season,Hiroshima Toyo Carp,55,"Matsuyama, Ryuhei",1B,3,1.000,24,3,0,2,,01405116
+2024,Regular Season,Hiroshima Toyo Carp,37,"Noma, Takayoshi",OF,109,0.995,186,3,1,0,,01405130
+2024,Regular Season,Hiroshima Toyo Carp,44,"Hayashi, Kota",1B,19,1.000,114,11,0,13,,01405138
+2024,Regular Season,Yokohama DeNA Baystars,38,"Mori, Yuito",P,14,1.000,4,6,0,0,,01405139
+2024,Regular Season,Hiroshima Toyo Carp,54,"Nirasawa, Yuya",1B,5,1.000,16,2,0,2,,01405151
+2024,Regular Season,Hiroshima Toyo Carp,54,"Nirasawa, Yuya",2B,1,1.000,5,2,0,0,,01405151
+2024,Regular Season,Hiroshima Toyo Carp,50,"Nakamura, Kento",1B,5,1.000,31,0,0,3,,01405155
+2024,Regular Season,Hiroshima Toyo Carp,50,"Nakamura, Kento",OF,3,1.000,10,0,0,0,,01405155
+2024,Regular Season,Hanshin Tigers,97,"Noguchi, Kyosuke",OF,16,1.000,25,3,0,1,,01405157
+2024,Climax Series - Final Stage,Yomiuri Giants,50,"Okoye, Louis",OF,6,1.000,11,0,0,0,,01505132
+2024,Regular Season,Yomiuri Giants,50,"Okoye, Louis",OF,56,0.988,80,2,1,0,,01505132
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,63,"Kitaura, Ryuji",P,12,1.000,2,2,0,0,,01505136
+2024,Regular Season,Saitama Seibu Lions,7,"Kaneko, Yuji",OF,35,1.000,80,0,0,0,,01505137
+2024,Japan Series,Fukuoka Softbank Hawks,47,"Ohzeki, Tomohisa",P,1,0.000,0,0,0,0,,01505151
+2024,Regular Season,Fukuoka Softbank Hawks,47,"Ohzeki, Tomohisa",P,20,0.969,10,21,1,0,,01505151
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,4,"Kamikawabata, Daigo",2B,2,1.000,1,1,0,0,,01505155
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,4,"Kamikawabata, Daigo",2B,3,1.000,6,10,0,2,,01505155
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,4,"Kamikawabata, Daigo",2B,71,0.993,115,163,2,33,,01505155
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,4,"Kamikawabata, Daigo",SS,39,0.985,53,81,2,16,,01505155
+2024,Regular Season,Saitama Seibu Lions,31,"Hiranuma, Shota",1B,18,0.977,120,10,3,5,,01605132
+2024,Regular Season,Saitama Seibu Lions,31,"Hiranuma, Shota",3B,14,0.941,7,9,1,2,,01605132
+2024,Regular Season,Saitama Seibu Lions,31,"Hiranuma, Shota",OF,10,1.000,20,0,0,0,,01605132
+2024,Regular Season,Chiba Lotte Marines,15,"Mima, Manabu",P,3,1.000,1,0,0,0,,01605133
+2024,Regular Season,Orix Buffaloes,1,"Fukuda, Shuhei",OF,69,1.000,153,2,0,1,,01605136
+2024,Regular Season,Yomiuri Giants,61,"Masuda, Riku",1B,1,1.000,8,0,0,0,,01605138
+2024,Regular Season,Tohoku Rakuten Golden Eagles,54,"Hinata, Naoki",P,1,1.000,0,2,0,0,,01605159
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,24,"Kurihara, Ryoya",3B,3,1.000,1,5,0,0,,01705130
+2024,Japan Series,Fukuoka Softbank Hawks,24,"Kurihara, Ryoya",3B,6,1.000,6,9,0,1,,01705130
+2024,Regular Season,Fukuoka Softbank Hawks,24,"Kurihara, Ryoya",1B,8,1.000,13,0,0,1,,01705130
+2024,Regular Season,Fukuoka Softbank Hawks,24,"Kurihara, Ryoya",3B,139,0.975,76,231,8,18,,01705130
+2024,Regular Season,Chiba Lotte Marines,92,"Kuniyoshi, Yuki",P,41,1.000,4,7,0,0,,01705131
+2024,Regular Season,Tokyo Yakult Swallows,45,"Kozawa, Reiji",P,40,1.000,2,9,0,0,,01705132
+2024,Regular Season,Hiroshima Toyo Carp,51,"Kozono, Kaito",3B,128,0.953,72,174,12,17,,01705138
+2024,Regular Season,Hiroshima Toyo Carp,51,"Kozono, Kaito",SS,29,0.973,34,74,3,11,,01705138
+2024,Climax Series - First Stage,Hanshin Tigers,47,"Kirishiki, Takuma",P,1,0.000,0,0,0,0,,01705155
+2024,Regular Season,Hanshin Tigers,47,"Kirishiki, Takuma",P,70,1.000,6,13,0,0,,01705155
+2024,Regular Season,Tokyo Yakult Swallows,10,"Miyamoto, Takeshi",1B,2,1.000,13,0,0,1,,01805136
+2024,Regular Season,Tokyo Yakult Swallows,10,"Miyamoto, Takeshi",2B,6,1.000,10,9,0,1,,01805136
+2024,Regular Season,Tokyo Yakult Swallows,10,"Miyamoto, Takeshi",OF,34,1.000,56,2,0,1,,01805136
+2024,Regular Season,Tohoku Rakuten Golden Eagles,50,"Mutoh, Atsuki",OF,4,1.000,4,0,0,0,,01805151
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,27,"Furukawa, Yudai",1B,1,1.000,5,0,0,2,,01805153
+2024,Regular Season,Yomiuri Giants,93,"Matsui, Hayate",P,2,1.000,0,2,0,0,,01805157
+2024,Regular Season,Chiba Lotte Marines,66,"Sawada, Keisuke",P,21,1.000,0,1,0,0,,01905134
+2024,Regular Season,Chunichi Dragons,50,"Shimizu, Tatsuya",P,60,1.000,3,14,0,0,,01905136
+2024,Regular Season,Tohoku Rakuten Golden Eagles,56,"Suzuki, Sora",P,49,1.000,2,6,0,0,,01905138
+2024,Regular Season,Yokohama DeNA Baystars,59,"Taira, Kentaro",P,4,1.000,1,6,0,2,,01905139
+2024,Regular Season,Tohoku Rakuten Golden Eagles,24,"Kurokawa, Fumiya",1B,2,1.000,3,0,0,0,,01905151
+2024,Regular Season,Tohoku Rakuten Golden Eagles,24,"Kurokawa, Fumiya",2B,14,0.980,17,32,1,5,,01905151
+2024,Regular Season,Tohoku Rakuten Golden Eagles,24,"Kurokawa, Fumiya",3B,8,0.800,2,2,1,0,,01905151
+2024,Regular Season,Chunichi Dragons,95,"Rodriguez, Christian",SS,21,0.955,33,52,4,13,,03005159
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,67,"Yamamoto, Takumi",P,1,0.000,0,0,0,0,,03105136
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,67,"Yamamoto, Takumi",P,36,1.000,0,3,0,0,,03105136
+2024,Regular Season,Yomiuri Giants,67,"Yamase, Shinnosuke",C,2,1.000,15,2,0,0,0,03105151
+2024,Regular Season,Chunichi Dragons,5,"Muramatsu, Kaito",2B,4,1.000,2,6,0,1,,03105157
+2024,Regular Season,Chunichi Dragons,5,"Muramatsu, Kaito",SS,102,0.988,139,286,5,52,,03105157
+2024,Regular Season,Tokyo Yakult Swallows,28,"Matsumoto, Kengo",P,3,1.000,1,3,0,1,,03105159
+2024,Japan Series,Yokohama DeNA Baystars,99,"Ford, Mike",1B,1,1.000,9,0,0,0,,03205159
+2024,Regular Season,Yokohama DeNA Baystars,99,"Ford, Mike",1B,6,0.981,48,4,1,5,,03205159
+2024,Climax Series - Final Stage,Yomiuri Giants,19,"Yamasaki, Iori",P,1,1.000,0,2,0,0,,03305153
+2024,Regular Season,Yomiuri Giants,19,"Yamasaki, Iori",P,24,0.975,8,31,1,3,,03305153
+2024,Climax Series - First Stage,Chiba Lotte Marines,99,"Soto, Neftali",1B,3,1.000,27,2,0,4,,03505136
+2024,Regular Season,Chiba Lotte Marines,99,"Soto, Neftali",1B,90,0.996,688,61,3,53,,03505136
+2024,Regular Season,Yokohama DeNA Baystars,62,"Wick, Rowan",P,43,0.875,4,3,1,0,,03505159
+2024,Regular Season,Fukuoka Softbank Hawks,28,"Walker, Adam",OF,1,1.000,1,0,0,0,,03705155
+2024,Climax Series - Final Stage,Yomiuri Giants,29,"Griffin, Foster",P,1,0.000,0,0,0,0,,03705157
+2024,Regular Season,Yomiuri Giants,29,"Griffin, Foster",P,20,1.000,2,17,0,1,,03705157
+2024,Regular Season,Hanshin Tigers,99,"Beasley, Jeremy",P,14,1.000,9,8,0,0,,03905157
+2024,Regular Season,Fukuoka Softbank Hawks,52,"Sunagawa, Richard",1B,7,1.000,44,5,0,2,,11015136
+2024,Regular Season,Fukuoka Softbank Hawks,52,"Sunagawa, Richard",3B,4,1.000,6,3,0,0,,11015136
+2024,Regular Season,Tohoku Rakuten Golden Eagles,8,"Tatsumi, Ryosuke",OF,143,0.995,397,5,2,1,,11015138
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,20,"Sakamoto, Yuya",P,4,1.000,0,1,0,0,,11015151
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,20,"Sakamoto, Yuya",P,2,0.000,0,0,0,0,,11015151
+2024,Japan Series,Yokohama DeNA Baystars,20,"Sakamoto, Yuya",P,4,1.000,0,1,0,0,,11015151
+2024,Regular Season,Yokohama DeNA Baystars,20,"Sakamoto, Yuya",P,48,0.900,0,9,1,1,,11015151
+2024,Regular Season,Tohoku Rakuten Golden Eagles,30,"Taira, Ryuya",3B,4,1.000,0,2,0,0,,11015157
+2024,Regular Season,Tohoku Rakuten Golden Eagles,30,"Taira, Ryuya",OF,5,1.000,13,0,0,0,,11015157
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,33,"Shinto, Yuya",C,2,1.000,13,0,0,0,0,11015159
+2024,Regular Season,Tohoku Rakuten Golden Eagles,18,"Tanaka, Masahiro",P,1,1.000,1,1,0,0,,11215114
+2024,Regular Season,Fukuoka Softbank Hawks,7,"Nakamura, Akira",1B,44,0.996,215,16,1,17,,11215116
+2024,Regular Season,Fukuoka Softbank Hawks,7,"Nakamura, Akira",OF,4,1.000,5,0,0,0,,11215116
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,9,"Nakashima, Takuya",2B,1,1.000,2,2,0,1,,11215118
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,9,"Nakashima, Takuya",1B,6,1.000,13,0,0,2,,11215118
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,9,"Nakashima, Takuya",2B,14,1.000,12,25,0,5,,11215118
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,9,"Nakashima, Takuya",3B,3,1.000,1,0,0,0,,11215118
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,9,"Nakashima, Takuya",SS,8,1.000,2,12,0,2,,11215118
+2024,Regular Season,Fukuoka Softbank Hawks,45,"Tanigawara, Kenta",C,4,1.000,17,1,0,0,0,11215132
+2024,Regular Season,Tohoku Rakuten Golden Eagles,25,"Tanaka, Kazuki",OF,59,1.000,33,0,0,0,,11215134
+2024,Regular Season,Chiba Lotte Marines,38,"Takabe, Akito",OF,72,0.994,158,0,1,0,,11215151
+2024,Regular Season,Tokyo Yakult Swallows,19,"Ishikawa, Masanori",P,9,0.889,2,6,1,1,,11315115
+2024,Regular Season,Yokohama DeNA Baystars,14,"Ishida, Kenta",P,6,1.000,3,5,0,0,,11315130
+2024,Regular Season,Hanshin Tigers,34,"Urushihara, Taisei",P,38,0.889,2,6,1,1,,11315138
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,50,"Isobata, Ryota",OF,1,0.000,0,0,0,0,,11315153
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,50,"Isobata, Ryota",OF,77,0.989,89,4,1,0,,11315153
+2024,Regular Season,Saitama Seibu Lions,23,"Itogawa, Ryota",P,4,1.000,0,1,0,0,,11315159
+2024,Regular Season,Hiroshima Toyo Carp,28,"Tokoda, Hiroki",P,26,0.957,11,34,2,4,,11415134
+2024,Regular Season,Saitama Seibu Lions,67,"Nomura, Daiju",1B,41,0.989,333,18,4,20,,11415138
+2024,Regular Season,Tohoku Rakuten Golden Eagles,52,"Tsurusaki, Taisei",P,14,0.750,0,3,1,1,,11415151
+2024,Climax Series - Final Stage,Yomiuri Giants,25,"Okamoto, Kazuma",1B,5,1.000,43,2,0,5,,11515130
+2024,Climax Series - Final Stage,Yomiuri Giants,25,"Okamoto, Kazuma",3B,1,0.500,1,0,1,0,,11515130
+2024,Regular Season,Yomiuri Giants,25,"Okamoto, Kazuma",1B,130,0.996,997,65,4,74,,11515130
+2024,Regular Season,Yomiuri Giants,25,"Okamoto, Kazuma",3B,29,0.967,14,45,2,4,,11515130
+2024,Regular Season,Yomiuri Giants,25,"Okamoto, Kazuma",OF,15,1.000,9,3,0,0,,11515130
+2024,Regular Season,Orix Buffaloes,10,"Ohshiro, Koji",2B,6,1.000,6,18,0,3,,11515132
+2024,Regular Season,Orix Buffaloes,10,"Ohshiro, Koji",3B,1,1.000,0,1,0,0,,11515132
+2024,Regular Season,Chunichi Dragons,22,"Ohno, Yudai",P,9,0.833,2,8,2,0,,11515133
+2024,Regular Season,Tokyo Yakult Swallows,29,"Ogawa, Yasuhiro",P,12,1.000,2,5,0,0,,11515137
+2024,Climax Series - First Stage,Chiba Lotte Marines,14,"Ojima, Kazuya",P,1,1.000,0,2,0,0,,11515138
+2024,Regular Season,Chiba Lotte Marines,14,"Ojima, Kazuya",P,25,1.000,13,28,0,4,,11515138
+2024,Climax Series - First Stage,Chiba Lotte Marines,25,"Oka, Hiromi",OF,3,1.000,2,0,0,0,,11515139
+2024,Regular Season,Chiba Lotte Marines,25,"Oka, Hiromi",OF,100,1.000,155,6,0,1,,11515139
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,98,"Umebayashi, Yuki",C,3,1.000,8,2,0,0,0,11515151
+2024,Climax Series - First Stage,Hanshin Tigers,64,"Okadome, Hidetaka",P,2,0.000,0,0,0,0,,11515155
+2024,Regular Season,Hanshin Tigers,64,"Okadome, Hidetaka",P,35,0.875,2,5,1,1,,11515155
+2024,Climax Series - Final Stage,Yomiuri Giants,5,"Kadowaki, Makoto",SS,6,1.000,10,20,0,6,,11515157
+2024,Regular Season,Yomiuri Giants,5,"Kadowaki, Makoto",2B,2,0.000,0,0,0,0,,11515157
+2024,Regular Season,Yomiuri Giants,5,"Kadowaki, Makoto",3B,16,0.926,5,20,2,1,,11515157
+2024,Regular Season,Yomiuri Giants,5,"Kadowaki, Makoto",SS,107,0.969,144,290,14,53,,11515157
+2024,Regular Season,Fukuoka Softbank Hawks,53,"Ohyama, Ryo",P,18,0.800,0,4,1,0,,11515159
+2024,Regular Season,Tokyo Yakult Swallows,53,"Hasegawa, Hiroki",P,19,1.000,1,2,0,0,,11615134
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,40,"Fukuda, Suguru",P,2,0.000,0,0,0,0,,11615138
+2024,Regular Season,Saitama Seibu Lions,52,"Yohkawa, Naomasa",1B,9,0.988,70,9,1,4,,11615139
+2024,Regular Season,Fukuoka Softbank Hawks,20,"Nakamura, Ryota",P,1,1.000,1,0,0,0,,11615153
+2024,Regular Season,Fukuoka Softbank Hawks,99,"Nomura, Isami",1B,1,0.000,0,0,0,0,,11615155
+2024,Regular Season,Fukuoka Softbank Hawks,99,"Nomura, Isami",2B,16,1.000,23,25,0,3,,11615155
+2024,Regular Season,Fukuoka Softbank Hawks,99,"Nomura, Isami",3B,4,0.750,1,2,1,0,,11615155
+2024,Regular Season,Fukuoka Softbank Hawks,99,"Nomura, Isami",SS,11,1.000,5,8,0,0,,11615155
+2024,Regular Season,Tokyo Yakult Swallows,023,"Hashimoto, Seiya",C,1,1.000,1,0,0,0,0,11615157
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,0,"Kawase, Hikaru",2B,1,1.000,4,3,0,2,,11715132
+2024,Japan Series,Fukuoka Softbank Hawks,0,"Kawase, Hikaru",1B,1,0.000,0,0,0,0,,11715132
+2024,Regular Season,Fukuoka Softbank Hawks,0,"Kawase, Hikaru",1B,21,1.000,46,3,0,2,,11715132
+2024,Regular Season,Fukuoka Softbank Hawks,0,"Kawase, Hikaru",2B,34,0.980,21,28,1,4,,11715132
+2024,Regular Season,Fukuoka Softbank Hawks,0,"Kawase, Hikaru",3B,6,1.000,0,12,0,2,,11715132
+2024,Regular Season,Fukuoka Softbank Hawks,0,"Kawase, Hikaru",SS,41,1.000,36,50,0,11,,11715132
+2024,Regular Season,Yokohama DeNA Baystars,48,"Kyoyama, Masaya",P,23,0.800,1,3,1,0,,11715134
+2024,Regular Season,Hanshin Tigers,92,"Kawahara, Riku",P,1,0.000,0,0,0,0,,11715138
+2024,Climax Series - First Stage,Chiba Lotte Marines,57,"Ogawa, Ryusei",2B,1,0.000,0,0,0,0,,11715153
+2024,Regular Season,Chiba Lotte Marines,57,"Ogawa, Ryusei",2B,98,0.989,145,203,4,44,,11715153
+2024,Regular Season,Chiba Lotte Marines,57,"Ogawa, Ryusei",SS,33,0.990,30,72,1,13,,11715153
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,61,"Kawamura, Yuto",OF,3,1.000,1,0,0,0,,11715155
+2024,Japan Series,Fukuoka Softbank Hawks,61,"Kawamura, Yuto",OF,2,1.000,1,0,0,0,,11715155
+2024,Regular Season,Fukuoka Softbank Hawks,61,"Kawamura, Yuto",OF,82,1.000,84,0,0,0,,11715155
+2024,Regular Season,Fukuoka Softbank Hawks,21,"Wada, Tsuyoshi",P,8,1.000,2,3,0,0,,11815117
+2024,Regular Season,Orix Buffaloes,6,"Mune, Yuma",3B,95,0.960,54,140,8,14,,11815130
+2024,Regular Season,Tohoku Rakuten Golden Eagles,65,"Horiuchi, Kengo",C,4,0.875,13,1,2,0,0,11815132
+2024,Regular Season,Tokyo Yakult Swallows,24,"Hoshi, Tomoya",P,36,1.000,1,6,0,1,,11815134
+2024,Regular Season,Tokyo Yakult Swallows,63,"Masuda, Shu",1B,1,1.000,2,0,0,0,,11815136
+2024,Regular Season,Tokyo Yakult Swallows,63,"Masuda, Shu",OF,31,1.000,40,0,0,0,,11815136
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,66,"Mannami, Chusei",OF,3,1.000,6,0,0,0,,11815138
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,66,"Mannami, Chusei",OF,3,1.000,5,0,0,0,,11815138
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,66,"Mannami, Chusei",OF,134,0.977,243,11,6,1,,11815138
+2024,Regular Season,Orix Buffaloes,32,"Fukunaga, Sho",C,11,1.000,53,3,0,1,2,11815155
+2024,Regular Season,Chunichi Dragons,59,"Saitoh, Kohki",P,56,1.000,1,9,0,0,,11915130
+2024,Climax Series - First Stage,Hanshin Tigers,12,"Sakamoto, Seishiro",C,1,1.000,3,0,0,0,0,11915132
+2024,Regular Season,Hanshin Tigers,12,"Sakamoto, Seishiro",C,63,0.995,379,42,2,3,0,11915132
+2024,Regular Season,Hiroshima Toyo Carp,31,"Sakakura, Shogo",1B,51,0.991,398,30,4,34,,11915134
+2024,Regular Season,Hiroshima Toyo Carp,31,"Sakakura, Shogo",C,76,0.996,425,51,2,7,3,11915134
+2024,Regular Season,Tohoku Rakuten Golden Eagles,40,"Sakurai, Shuto",P,8,1.000,1,0,0,0,,11915136
+2024,Regular Season,Tokyo Yakult Swallows,20,"Kizawa, Naofumi",P,55,1.000,1,9,0,0,,11915153
+2024,Regular Season,Orix Buffaloes,56,"Kogita, Atsuya",P,13,1.000,0,5,0,1,,11915155
+2024,Regular Season,Tohoku Rakuten Golden Eagles,53,"Sakai, Haruto",P,1,0.000,0,0,0,0,,11915159
+2024,Regular Season,Tohoku Rakuten Golden Eagles,20,"Turley, Nik",P,17,1.000,0,1,0,0,,13015155
+2024,Regular Season,Tohoku Rakuten Golden Eagles,005,"Yamada, Haruka",1B,4,1.000,16,1,0,3,,13115130
+2024,Regular Season,Tohoku Rakuten Golden Eagles,005,"Yamada, Haruka",2B,3,0.933,7,7,1,2,,13115130
+2024,Regular Season,Tohoku Rakuten Golden Eagles,005,"Yamada, Haruka",3B,10,1.000,0,5,0,0,,13115130
+2024,Regular Season,Tohoku Rakuten Golden Eagles,005,"Yamada, Haruka",SS,6,1.000,1,11,0,1,,13115130
+2024,Regular Season,Orix Buffaloes,36,"Yamaashi, Tatsuya",1B,20,1.000,26,4,0,1,,13115136
+2024,Regular Season,Orix Buffaloes,36,"Yamaashi, Tatsuya",2B,15,0.957,8,14,1,2,,13115136
+2024,Regular Season,Orix Buffaloes,36,"Yamaashi, Tatsuya",3B,1,0.000,0,0,0,0,,13115136
+2024,Regular Season,Orix Buffaloes,23,"Yoshida, Kosei",P,50,1.000,3,12,0,1,,13115138
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,2,"Maki, Shugo",2B,6,0.960,10,14,1,3,,13115153
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,2,"Maki, Shugo",1B,1,1.000,3,0,0,0,,13115153
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,2,"Maki, Shugo",2B,2,1.000,1,5,0,0,,13115153
+2024,Japan Series,Yokohama DeNA Baystars,2,"Maki, Shugo",1B,3,1.000,8,0,0,0,,13115153
+2024,Japan Series,Yokohama DeNA Baystars,2,"Maki, Shugo",2B,6,0.976,14,26,1,3,,13115153
+2024,Regular Season,Yokohama DeNA Baystars,2,"Maki, Shugo",1B,1,1.000,6,0,0,1,,13115153
+2024,Regular Season,Yokohama DeNA Baystars,2,"Maki, Shugo",2B,129,0.973,281,379,18,72,,13115153
+2024,Regular Season,Tohoku Rakuten Golden Eagles,45,"Matsui, Tomotaka",P,7,1.000,1,2,0,1,,13115155
+2024,Regular Season,Fukuoka Softbank Hawks,41,"Maeda, Yugo",P,1,1.000,0,1,0,0,,13115159
+2024,Regular Season,Orix Buffaloes,59,"Perdomo, Luis",P,28,1.000,1,4,0,1,,13215157
+2024,Regular Season,Chiba Lotte Marines,93,"Yoshida, Ryo",P,9,1.000,0,4,0,0,,13315132
+2024,Regular Season,Yomiuri Giants,098,"Urena, Estamy",1B,1,1.000,5,0,0,0,,13315151
+2024,Regular Season,Yomiuri Giants,098,"Urena, Estamy",3B,1,0.000,0,0,0,0,,13315151
+2024,Climax Series - First Stage,Hanshin Tigers,41,"Murakami, Shoki",P,1,0.000,0,0,0,0,,13315153
+2024,Regular Season,Hanshin Tigers,41,"Murakami, Shoki",P,25,1.000,6,27,0,4,,13315153
+2024,Regular Season,Tohoku Rakuten Golden Eagles,72,"Miyamori, Satoshi",P,9,1.000,0,2,0,0,,13315155
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,54,"Osuna, Roberto",P,3,1.000,0,1,0,0,,13415155
+2024,Japan Series,Fukuoka Softbank Hawks,54,"Osuna, Roberto",P,2,0.000,0,0,1,0,,13415155
+2024,Regular Season,Fukuoka Softbank Hawks,54,"Osuna, Roberto",P,39,1.000,1,6,0,0,,13415155
+2024,Regular Season,Chunichi Dragons,66,"Viciedo, Dayan",1B,11,1.000,90,8,0,9,,13715132
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,49,"Wendelken, J.B.",P,3,0.000,0,0,0,0,,13715157
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,49,"Wendelken, J.B.",P,1,1.000,0,1,0,0,,13715157
+2024,Japan Series,Yokohama DeNA Baystars,49,"Wendelken, J.B.",P,1,0.000,0,0,0,0,,13715157
+2024,Regular Season,Yokohama DeNA Baystars,49,"Wendelken, J.B.",P,28,1.000,2,0,0,0,,13715157
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,69,"Kay, Anthony",P,2,1.000,1,3,0,0,,13715159
+2024,Japan Series,Yokohama DeNA Baystars,69,"Kay, Anthony",P,1,0.000,0,0,0,0,,13715159
+2024,Regular Season,Yokohama DeNA Baystars,69,"Kay, Anthony",P,24,0.970,6,26,1,2,,13715159
+2024,Regular Season,Orix Buffaloes,40,"Cedeno, Leandro",1B,43,1.000,295,15,0,22,,13915157
+2024,Regular Season,Chiba Lotte Marines,41,"Dykstra, James",P,3,0.667,0,2,1,0,,13915159
+2024,Regular Season,Chunichi Dragons,12,"Tajima, Shinji",P,2,0.000,0,0,0,0,,21025135
+2024,Regular Season,Saitama Seibu Lions,50,"Takamatsu, Wataru",1B,6,1.000,10,0,0,0,,21025136
+2024,Regular Season,Saitama Seibu Lions,50,"Takamatsu, Wataru",2B,1,1.000,0,1,0,0,,21025136
+2024,Regular Season,Saitama Seibu Lions,50,"Takamatsu, Wataru",OF,3,1.000,5,1,0,0,,21025136
+2024,Regular Season,Chunichi Dragons,24,"Fukutani, Koji",P,8,1.000,0,4,0,1,,21025137
+2024,Regular Season,Saitama Seibu Lions,16,"Sumida, Chihiro",P,26,0.946,7,28,2,2,,21025155
+2024,Regular Season,Chunichi Dragons,2,"Tanaka, Mikiya",2B,103,0.991,206,258,4,49,,21025157
+2024,Regular Season,Chunichi Dragons,2,"Tanaka, Mikiya",SS,1,1.000,0,1,0,0,,21025157
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,38,"Ishii, Kazunari",2B,1,1.000,2,2,0,0,,21125134
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,38,"Ishii, Kazunari",3B,1,0.000,0,0,0,0,,21125134
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,38,"Ishii, Kazunari",2B,58,0.996,98,170,1,33,,21125134
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,38,"Ishii, Kazunari",3B,6,0.833,2,3,1,0,,21125134
+2024,Regular Season,Tokyo Yakult Swallows,12,"Ishiyama, Taichi",P,37,1.000,1,7,0,0,,21125137
+2024,Regular Season,Hiroshima Toyo Carp,32,"Ishihara, Tomoki",C,49,0.996,236,41,1,2,1,21125151
+2024,Regular Season,Chiba Lotte Marines,00,"Ikeda, Raito",1B,5,1.000,29,1,0,1,,21125155
+2024,Regular Season,Chiba Lotte Marines,00,"Ikeda, Raito",2B,10,1.000,16,17,0,2,,21125155
+2024,Regular Season,Chiba Lotte Marines,00,"Ikeda, Raito",3B,3,0.857,5,1,1,0,,21125155
+2024,Regular Season,Yokohama DeNA Baystars,54,"Ishida, Yutaro",P,12,1.000,3,7,0,0,,21125159
+2024,Regular Season,Tokyo Yakult Swallows,3,"Nishikawa, Haruki",OF,98,0.982,167,1,3,0,,21225133
+2024,Regular Season,Yokohama DeNA Baystars,64,"Nakagawa, Koh",P,31,1.000,3,6,0,0,,21225136
+2024,Regular Season,Chunichi Dragons,38,"Matsuba, Takahiro",P,17,1.000,4,21,0,2,,21225137
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,37,"Egoshi, Taiga",OF,1,0.000,0,0,0,0,,21325130
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,37,"Egoshi, Taiga",OF,19,1.000,9,0,0,0,,21325130
+2024,Climax Series - First Stage,Hanshin Tigers,3,"Ohyama, Yusuke",1B,2,1.000,18,1,0,2,,21325134
+2024,Regular Season,Hanshin Tigers,3,"Ohyama, Yusuke",1B,130,0.994,1132,97,7,96,,21325134
+2024,Regular Season,Tohoku Rakuten Golden Eagles,27,"Okajima, Takero",OF,22,1.000,37,0,0,0,,21325135
+2024,Climax Series - Final Stage,Yomiuri Giants,24,"Ohshiro, Takumi",1B,1,1.000,7,0,0,1,,21325136
+2024,Climax Series - Final Stage,Yomiuri Giants,24,"Ohshiro, Takumi",C,1,1.000,5,1,0,0,0,21325136
+2024,Regular Season,Yomiuri Giants,24,"Ohshiro, Takumi",1B,39,0.993,275,18,2,28,,21325136
+2024,Regular Season,Yomiuri Giants,24,"Ohshiro, Takumi",C,45,1.000,275,22,0,3,3,21325136
+2024,Regular Season,Hiroshima Toyo Carp,59,"Ohmori, Minoru",OF,59,1.000,41,1,0,1,,21325138
+2024,Climax Series - First Stage,Hanshin Tigers,2,"Umeno, Ryutaro",C,2,1.000,6,1,0,0,0,21325139
+2024,Regular Season,Hanshin Tigers,2,"Umeno, Ryutaro",C,92,0.997,576,45,2,4,0,21325139
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,61,"Imagawa, Yuma",OF,5,1.000,8,1,0,0,,21325153
+2024,Climax Series - Final Stage,Yomiuri Giants,8,"Maru, Yoshihiro",OF,6,1.000,8,0,0,0,,21425116
+2024,Regular Season,Yomiuri Giants,8,"Maru, Yoshihiro",OF,134,1.000,249,2,0,0,,21425116
+2024,Regular Season,Hiroshima Toyo Carp,19,"Nomura, Yusuke",P,3,0.500,0,1,1,0,,21425135
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,25,"Yamakawa, Hotaka",1B,3,1.000,26,2,0,2,,21425139
+2024,Japan Series,Fukuoka Softbank Hawks,25,"Yamakawa, Hotaka",1B,6,1.000,50,4,0,3,,21425139
+2024,Regular Season,Fukuoka Softbank Hawks,25,"Yamakawa, Hotaka",1B,98,0.994,719,54,5,62,,21425139
+2024,Regular Season,Chunichi Dragons,13,"Hashimoto, Yuki",P,47,0.950,6,13,1,1,,21425151
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,53,"Nakagawa, Hayate",P,3,1.000,0,1,0,0,,21425153
+2024,Japan Series,Yokohama DeNA Baystars,53,"Nakagawa, Hayate",P,3,1.000,0,1,0,0,,21425153
+2024,Regular Season,Yokohama DeNA Baystars,53,"Nakagawa, Hayate",P,29,1.000,5,10,0,0,,21425153
+2024,Regular Season,Tohoku Rakuten Golden Eagles,32,"Nakashima, Daisuke",OF,35,1.000,67,3,0,1,,21425159
+2024,Regular Season,Chiba Lotte Marines,19,"Karakawa, Yuki",P,8,1.000,2,2,0,0,,21525116
+2024,Regular Season,Chiba Lotte Marines,55,"Kakinuma, Tomoya",C,2,1.000,3,0,0,0,0,21525132
+2024,Regular Season,Tokyo Yakult Swallows,38,"Kitamura, Takumi",2B,13,0.978,18,27,1,6,,21525136
+2024,Regular Season,Tokyo Yakult Swallows,38,"Kitamura, Takumi",3B,19,0.833,1,4,1,1,,21525136
+2024,Regular Season,Chunichi Dragons,41,"Katsuno, Akiyoshi",P,39,0.875,0,7,1,2,,21525138
+2024,Regular Season,Hanshin Tigers,54,"Kajiya, Ren",P,13,0.750,0,3,1,0,,21525139
+2024,Regular Season,Hiroshima Toyo Carp,36,"Horie, Atsuya",P,53,1.000,5,5,0,0,,21625130
+2024,Regular Season,Orix Buffaloes,30,"Hirooka, Taishi",1B,9,1.000,24,0,0,3,,21625132
+2024,Regular Season,Orix Buffaloes,30,"Hirooka, Taishi",2B,2,1.000,1,0,0,0,,21625132
+2024,Regular Season,Orix Buffaloes,30,"Hirooka, Taishi",3B,8,0.818,2,7,2,0,,21625132
+2024,Regular Season,Orix Buffaloes,30,"Hirooka, Taishi",OF,44,1.000,39,1,0,0,,21625132
+2024,Regular Season,Chunichi Dragons,54,"Fujishima, Kento",P,50,1.000,0,9,0,1,,21625134
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,7,"Matsumoto, Go",OF,3,1.000,4,0,0,0,,21625135
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,7,"Matsumoto, Go",OF,3,1.000,8,0,0,0,,21625135
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,7,"Matsumoto, Go",OF,118,0.990,301,3,3,2,,21625135
+2024,Regular Season,Yomiuri Giants,91,"Hotta, Kenshin",P,17,1.000,2,5,0,0,,21625151
+2024,Regular Season,Chunichi Dragons,97,"Higuchi, Seishu",2B,1,0.000,0,0,0,0,,21625157
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,48,"Saito, Yukiya",P,1,0.000,0,0,0,0,,21725138
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,48,"Saito, Yukiya",P,1,1.000,0,1,0,0,,21725138
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,48,"Saito, Yukiya",P,25,0.889,4,4,1,1,,21725138
+2024,Regular Season,Tokyo Yakult Swallows,69,"Konno, Ryuta",P,6,1.000,0,2,0,1,,21725139
+2024,Regular Season,Orix Buffaloes,031,"Saiki, Kaito",P,15,1.000,1,2,0,0,,21725157
+2024,Regular Season,Tohoku Rakuten Golden Eagles,17,"Koja, Tatsuki",P,15,0.923,5,7,1,0,,21725159
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,18,"Yamasaki, Sachiya",P,1,1.000,0,1,0,0,,21825130
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,18,"Yamasaki, Sachiya",P,1,1.000,2,0,0,0,,21825130
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,18,"Yamasaki, Sachiya",P,24,0.941,5,27,2,2,,21825130
+2024,Regular Season,Saitama Seibu Lions,35,"Matsubara, Seiya",OF,22,0.979,45,1,1,0,,21825134
+2024,Regular Season,Yomiuri Giants,59,"Matsubara, Seiya",OF,7,1.000,13,0,0,0,,21825134
+2024,Regular Season,Saitama Seibu Lions,4,"Yamanobe, Kakeru",2B,11,0.971,14,19,1,1,,21825138
+2024,Regular Season,Saitama Seibu Lions,4,"Yamanobe, Kakeru",3B,10,1.000,4,7,0,0,,21825138
+2024,Regular Season,Saitama Seibu Lions,4,"Yamanobe, Kakeru",OF,12,1.000,15,2,0,0,,21825138
+2024,Regular Season,Yomiuri Giants,66,"Heinai, Ryuta",P,31,1.000,2,9,0,0,,21825153
+2024,Climax Series - First Stage,Hanshin Tigers,58,"Maegawa, Ukyo",OF,2,1.000,8,0,0,0,,21825155
+2024,Regular Season,Hanshin Tigers,58,"Maegawa, Ukyo",OF,93,0.993,142,3,1,0,,21825155
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,5,"Matsuo, Shion",C,1,1.000,1,0,0,0,0,21825157
+2024,Japan Series,Yokohama DeNA Baystars,5,"Matsuo, Shion",C,1,1.000,4,0,0,0,0,21825157
+2024,Regular Season,Yokohama DeNA Baystars,5,"Matsuo, Shion",C,8,1.000,32,7,0,0,0,21825157
+2024,Regular Season,Yomiuri Giants,43,"Shigenobu, Shinnosuke",OF,28,0.929,13,0,1,0,,21925132
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,23,"Shuto, Ukyo",OF,3,1.000,10,0,0,0,,21925136
+2024,Japan Series,Fukuoka Softbank Hawks,23,"Shuto, Ukyo",OF,6,1.000,14,0,0,0,,21925136
+2024,Regular Season,Fukuoka Softbank Hawks,23,"Shuto, Ukyo",OF,121,0.996,261,8,1,2,,21925136
+2024,Regular Season,Tokyo Yakult Swallows,40,"Takanashi, Hirotoshi",P,8,0.000,0,0,0,0,,21925139
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,30,"Gunji, Yuya",1B,2,1.000,7,1,0,1,,21925151
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,30,"Gunji, Yuya",OF,2,1.000,5,0,0,0,,21925151
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,30,"Gunji, Yuya",1B,2,1.000,17,0,0,2,,21925151
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,30,"Gunji, Yuya",1B,21,1.000,60,7,0,5,,21925151
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,30,"Gunji, Yuya",2B,1,1.000,1,0,0,0,,21925151
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,30,"Gunji, Yuya",3B,99,0.933,43,111,11,8,,21925151
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,30,"Gunji, Yuya",C,6,1.000,30,4,0,0,0,21925151
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,30,"Gunji, Yuya",OF,9,1.000,9,0,0,0,,21925151
+2024,Regular Season,Orix Buffaloes,27,"Gen, Kendai",OF,4,1.000,4,0,0,0,,21925153
+2024,Regular Season,Tohoku Rakuten Golden Eagles,19,"Shoji, Kosei",P,7,1.000,2,4,0,1,,21925157
+2024,Regular Season,Yokohama DeNA Baystars,50,"Yamamoto, Yuudai",C,106,0.997,705,76,2,6,3,23125136
+2024,Climax Series - First Stage,Chiba Lotte Marines,60,"Yokoyama, Rikuto",P,2,0.000,0,0,0,0,,23125151
+2024,Regular Season,Chiba Lotte Marines,60,"Yokoyama, Rikuto",P,43,0.889,1,7,1,1,,23125151
+2024,Regular Season,Saitama Seibu Lions,70,"Mameda, Taishi",P,15,0.800,1,3,1,0,,23125153
+2024,Regular Season,Fukuoka Softbank Hawks,42,"Miura, Mizuki",P,5,1.000,1,0,0,0,,23125155
+2024,Regular Season,Yokohama DeNA Baystars,34,"Matsumoto, Ryoto",P,10,1.000,2,2,0,0,,23125159
+2024,Climax Series - Final Stage,Yomiuri Giants,49,"Baldonado, Alberto",P,4,0.000,0,0,0,0,,23225157
+2024,Regular Season,Yomiuri Giants,49,"Baldonado, Alberto",P,58,0.800,0,4,1,0,,23225157
+2024,Climax Series - Final Stage,Yomiuri Giants,39,"Montes, Coco",OF,1,1.000,4,0,0,0,,23225159
+2024,Regular Season,Yomiuri Giants,39,"Montes, Coco",2B,2,1.000,1,1,0,0,,23225159
+2024,Regular Season,Yomiuri Giants,39,"Montes, Coco",3B,11,1.000,5,7,0,0,,23225159
+2024,Regular Season,Yomiuri Giants,39,"Montes, Coco",OF,30,1.000,39,2,0,0,,23225159
+2024,Regular Season,Yomiuri Giants,39,"Montes, Coco",SS,5,1.000,4,11,0,3,,23225159
+2024,Regular Season,Chiba Lotte Marines,33,"Yagi, Akira",P,9,1.000,0,2,0,0,,23325155
+2024,Regular Season,Tokyo Yakult Swallows,13,"Osuna, Jose",1B,141,0.991,1176,69,11,112,,23525153
+2024,Regular Season,Tohoku Rakuten Golden Eagles,71,"Yoshikawa, Kazuki",P,13,1.000,1,0,0,1,,23525155
+2024,Regular Season,Tohoku Rakuten Golden Eagles,31,"Watanabe, Shota",P,49,0.867,4,9,2,0,,23525157
+2024,Regular Season,Tokyo Yakult Swallows,39,"Espada, Jose",P,24,0.500,1,0,1,0,,23525159
+2024,Regular Season,Hiroshima Toyo Carp,95,"Scheiner, Jake",1B,9,1.000,59,2,0,6,,23725159
+2024,Regular Season,Chunichi Dragons,92,"Martinez, Raidel",P,60,1.000,2,10,0,0,,23925134
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,31,"Murphy, Patrick",P,40,1.000,2,13,0,1,,23925159
+2024,Regular Season,Saitama Seibu Lions,46,"Suzuki, Shohei",OF,19,0.964,27,0,1,0,,31035134
+2024,Regular Season,Saitama Seibu Lions,61,"Taira, Kaima",P,22,1.000,2,6,0,0,,31035136
+2024,Climax Series - First Stage,Chiba Lotte Marines,17,"Sasaki, Roki",P,1,1.000,0,1,0,0,,31035151
+2024,Regular Season,Chiba Lotte Marines,17,"Sasaki, Roki",P,18,0.917,6,5,1,0,,31035151
+2024,Regular Season,Chiba Lotte Marines,34,"Takano, Shuta",P,6,0.667,0,2,1,0,,31035157
+2024,Regular Season,Hiroshima Toyo Carp,27,"Aizawa, Tsubasa",C,52,1.000,311,21,0,2,1,31135114
+2024,Regular Season,Tokyo Yakult Swallows,23,"Aoki, Norichika",OF,24,0.941,16,0,1,0,,31135119
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,8,"Asama, Daiki",OF,1,1.000,1,0,0,0,,31135130
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,8,"Asama, Daiki",OF,3,1.000,3,0,0,0,,31135130
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,8,"Asama, Daiki",OF,39,0.969,61,2,2,0,,31135130
+2024,Regular Season,Hiroshima Toyo Carp,9,"Akiyama, Shogo",OF,135,1.000,305,3,0,1,,31135133
+2024,Regular Season,Hiroshima Toyo Carp,48,"Aduwa, Makoto",P,20,1.000,7,16,0,0,,31135134
+2024,Regular Season,Orix Buffaloes,3,"Adachi, Ryoichi",2B,16,0.902,23,14,4,5,,31135135
+2024,Regular Season,Orix Buffaloes,3,"Adachi, Ryoichi",SS,4,1.000,6,7,0,3,,31135135
+2024,Regular Season,Chiba Lotte Marines,24,"Azuma, Yusuke",P,6,1.000,0,2,0,0,,31135138
+2024,Regular Season,Tohoku Rakuten Golden Eagles,44,"Tanaka, Takaya",C,17,1.000,28,3,0,1,1,31235130
+2024,Regular Season,Hiroshima Toyo Carp,21,"Nakazaki, Shota",P,24,1.000,0,5,0,0,,31235133
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,26,"Tanaka, Seigi",P,1,0.000,0,0,0,0,,31235134
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,26,"Tanaka, Seigi",P,1,0.000,0,0,0,0,,31235134
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,26,"Tanaka, Seigi",P,53,0.889,2,6,1,1,,31235134
+2024,Regular Season,Tohoku Rakuten Golden Eagles,57,"Takinaka, Ryota",P,12,0.950,4,15,1,2,,31235151
+2024,Regular Season,Hiroshima Toyo Carp,30,"Takita, Kazuki",P,1,0.000,0,0,0,0,,31235159
+2024,Regular Season,Chunichi Dragons,16,"Iwasaki, Sho",P,21,1.000,1,5,0,0,,31335116
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,6,"Imamiya, Kenta",SS,3,0.933,3,11,1,3,,31335131
+2024,Japan Series,Fukuoka Softbank Hawks,6,"Imamiya, Kenta",SS,6,1.000,6,20,0,1,,31335131
+2024,Regular Season,Fukuoka Softbank Hawks,6,"Imamiya, Kenta",SS,132,0.992,168,332,4,59,,31335131
+2024,Regular Season,Orix Buffaloes,58,"Iguchi, Kazutomo",P,32,1.000,0,1,0,0,,31335132
+2024,Regular Season,Saitama Seibu Lions,48,"Imai, Tatsuya",P,25,0.946,9,26,2,0,,31335134
+2024,Regular Season,Yomiuri Giants,26,"Imamura, Nobutaka",P,7,0.000,0,0,0,0,,31335135
+2024,Regular Season,Hiroshima Toyo Carp,0,"Uemoto, Takashi",2B,4,0.929,6,7,1,1,,31335137
+2024,Regular Season,Hiroshima Toyo Carp,0,"Uemoto, Takashi",3B,6,1.000,4,6,0,1,,31335137
+2024,Regular Season,Hiroshima Toyo Carp,0,"Uemoto, Takashi",OF,41,1.000,64,2,0,0,,31335137
+2024,Regular Season,Hanshin Tigers,13,"Iwazaki, Suguru",P,60,1.000,2,6,0,1,,31335139
+2024,Regular Season,Hanshin Tigers,32,"Inoue, Kouta",OF,15,1.000,27,1,0,0,,31335151
+2024,Regular Season,Yokohama DeNA Baystars,55,"Inoue, Kento",3B,9,0.950,3,16,1,0,,31335159
+2024,Regular Season,Yokohama DeNA Baystars,55,"Inoue, Kento",OF,3,1.000,5,0,0,0,,31335159
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Nomura, Yuki",1B,8,1.000,48,3,0,4,,31435138
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Nomura, Yuki",3B,14,1.000,7,14,0,0,,31435138
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Nomura, Yuki",OF,15,1.000,22,3,0,0,,31435138
+2024,Regular Season,Hanshin Tigers,61,"Toyoda, Hiroshi",OF,4,0.667,2,0,1,0,,31435155
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,58,"Narama, Taiki",2B,1,0.000,0,0,0,0,,31435157
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Narama, Taiki",2B,29,0.990,44,51,1,16,,31435157
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Narama, Taiki",3B,52,0.960,8,16,1,0,,31435157
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Narama, Taiki",SS,25,0.986,28,43,1,9,,31435157
+2024,Regular Season,Hiroshima Toyo Carp,17,"Tsunehiro, Hayato",P,2,1.000,0,2,0,0,,31435159
+2024,Regular Season,Orix Buffaloes,50,"Oda, Yuya",OF,17,1.000,18,0,0,0,,31535130
+2024,Climax Series - First Stage,Chiba Lotte Marines,50,"Takeda, Aito",OF,2,1.000,1,0,0,0,,31535132
+2024,Regular Season,Chiba Lotte Marines,50,"Takeda, Aito",OF,47,0.980,50,0,1,0,,31535132
+2024,Climax Series - First Stage,Hanshin Tigers,38,"Obata, Ryuhei",SS,1,1.000,1,0,0,0,,31535138
+2024,Regular Season,Hanshin Tigers,38,"Obata, Ryuhei",SS,45,0.968,59,94,5,19,,31535138
+2024,Regular Season,Saitama Seibu Lions,2,"Okada, Masatoshi",C,1,0.000,0,0,0,0,0,31535139
+2024,Regular Season,Orix Buffaloes,14,"Udagawa, Yuki",P,13,1.000,0,1,0,0,,31535153
+2024,Regular Season,Chunichi Dragons,20,"Wakui, Hideaki",P,16,0.929,2,11,1,1,,31635110
+2024,Regular Season,Tokyo Yakult Swallows,16,"Hara, Juri",P,7,1.000,0,1,0,0,,31635132
+2024,Regular Season,Yomiuri Giants,45,"Hatake, Seishu",P,1,0.000,0,0,0,0,,31635134
+2024,Climax Series - First Stage,Chiba Lotte Marines,1,"Fujiwara, Kyota",OF,3,1.000,4,0,0,0,,31635138
+2024,Regular Season,Chiba Lotte Marines,1,"Fujiwara, Kyota",OF,72,1.000,128,3,0,0,,31635138
+2024,Regular Season,Chiba Lotte Marines,56,"Nakamori, Shunsuke",P,5,0.750,1,2,1,0,,31635153
+2024,Japan Series,Fukuoka Softbank Hawks,59,"Hasegawa, Takehiro",P,1,0.000,0,0,0,0,,31635155
+2024,Regular Season,Fukuoka Softbank Hawks,59,"Hasegawa, Takehiro",P,32,0.875,0,7,1,0,,31635155
+2024,Regular Season,Yomiuri Giants,17,"Nishidate, Yuhi",P,28,1.000,1,6,0,0,,31635159
+2024,Regular Season,Tokyo Yakult Swallows,5,"Kawabata, Shingo",1B,1,0.000,0,0,0,0,,31735112
+2024,Regular Season,Chunichi Dragons,35,"Kinoshita, Takuya",C,71,0.998,372,30,1,4,2,31735132
+2024,Climax Series - First Stage,Hanshin Tigers,0,"Kinami, Seiya",SS,2,1.000,2,7,0,2,,31735138
+2024,Regular Season,Hanshin Tigers,0,"Kinami, Seiya",SS,114,0.984,174,328,8,62,,31735138
+2024,Regular Season,Tokyo Yakult Swallows,18,"Okugawa, Yasunobu",P,7,1.000,2,3,0,1,,31735151
+2024,Regular Season,Saitama Seibu Lions,45,"Honda, Keisuke",P,31,1.000,1,6,0,0,,31835132
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,9,"Yanagita, Yuki",OF,3,1.000,2,0,0,0,,31835133
+2024,Japan Series,Fukuoka Softbank Hawks,9,"Yanagita, Yuki",OF,6,1.000,7,0,0,0,,31835133
+2024,Regular Season,Fukuoka Softbank Hawks,9,"Yanagita, Yuki",OF,38,0.989,86,1,1,1,,31835133
+2024,Regular Season,Chunichi Dragons,55,"Hosokawa, Seiya",OF,141,0.984,243,6,4,1,,31835134
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,53,"Mizutani, Shun",OF,1,0.000,0,0,0,0,,31835138
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,53,"Mizutani, Shun",OF,1,1.000,3,0,0,0,,31835138
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,53,"Mizutani, Shun",OF,84,0.980,141,4,3,0,,31835138
+2024,Regular Season,Tohoku Rakuten Golden Eagles,21,"Hayakawa, Takahisa",P,25,0.955,6,15,1,2,,31835153
+2024,Climax Series - Final Stage,Yomiuri Giants,58,"Funabasama, Hiromasa",P,3,0.000,0,0,0,0,,31835157
+2024,Regular Season,Yomiuri Giants,58,"Funabasama, Hiromasa",P,51,1.000,4,6,0,0,,31835157
+2024,Regular Season,Hiroshima Toyo Carp,43,"Shimauchi, Sotaro",P,58,1.000,3,8,0,0,,31935138
+2024,Regular Season,Yokohama DeNA Baystars,63,"Sekine, Taiki",OF,72,0.988,80,4,1,0,,31935139
+2024,Regular Season,Yokohama DeNA Baystars,18,"Kozono, Kenta",P,1,0.000,0,0,0,0,,31935155
+2024,Regular Season,Tokyo Yakult Swallows,99,"Yajure, Miguel",P,23,0.920,3,20,2,1,,33035159
+2024,Regular Season,Tokyo Yakult Swallows,31,"Yamasaki, Kotaro",OF,21,0.964,27,0,1,0,,33135132
+2024,Regular Season,Fukuoka Softbank Hawks,13,"Mimori, Masaki",1B,3,1.000,5,1,0,1,,33135134
+2024,Regular Season,Fukuoka Softbank Hawks,13,"Mimori, Masaki",2B,21,0.961,47,52,4,11,,33135134
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,6,"Mori, Keito",SS,6,0.964,15,12,1,5,,33135151
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,6,"Mori, Keito",SS,2,1.000,5,4,0,0,,33135151
+2024,Japan Series,Yokohama DeNA Baystars,6,"Mori, Keito",SS,6,1.000,6,15,0,4,,33135151
+2024,Regular Season,Yokohama DeNA Baystars,6,"Mori, Keito",2B,1,1.000,3,4,0,1,,33135151
+2024,Regular Season,Yokohama DeNA Baystars,6,"Mori, Keito",SS,67,0.954,84,164,12,24,,33135151
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,55,"Matsuura, Keito",P,5,1.000,1,2,0,1,,33135155
+2024,Regular Season,Yomiuri Giants,46,"Mataki, Teppei",P,3,1.000,0,2,0,0,,33135159
+2024,Climax Series - Final Stage,Yomiuri Giants,42,"Hernandez, Elier",OF,3,1.000,7,0,0,0,,33235159
+2024,Regular Season,Yomiuri Giants,42,"Hernandez, Elier",OF,56,1.000,97,3,0,1,,33235159
+2024,Regular Season,Orix Buffaloes,21,"Yamazaki, Soichiro",P,7,0.000,0,0,0,0,,33335134
+2024,Regular Season,Chiba Lotte Marines,63,"Wada, Koshiro",OF,72,0.986,70,1,1,1,,33335136
+2024,Regular Season,Saitama Seibu Lions,30,"Motoyama, Hiyu",1B,19,0.983,103,11,2,8,,33335153
+2024,Regular Season,Saitama Seibu Lions,30,"Motoyama, Hiyu",2B,1,1.000,4,2,0,0,,33335153
+2024,Regular Season,Saitama Seibu Lions,30,"Motoyama, Hiyu",3B,11,0.913,5,16,2,1,,33335153
+2024,Regular Season,Saitama Seibu Lions,30,"Motoyama, Hiyu",SS,1,1.000,2,0,0,0,,33335153
+2024,Regular Season,Orix Buffaloes,15,"Mukunoki, Ren",P,10,1.000,0,4,0,0,,33335155
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,63,"Hernandez, Darwinzon",P,3,0.000,0,0,0,0,,33435157
+2024,Japan Series,Fukuoka Softbank Hawks,63,"Hernandez, Darwinzon",P,3,0.000,0,0,0,0,,33435157
+2024,Regular Season,Fukuoka Softbank Hawks,63,"Hernandez, Darwinzon",P,48,1.000,1,1,0,0,,33435157
+2024,Regular Season,Chiba Lotte Marines,61,"Yamamoto, Daito",OF,5,1.000,11,0,0,0,,33535153
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,24,"Yoshino, Teruki",P,1,1.000,1,1,0,0,,33535157
+2024,Regular Season,Yokohama DeNA Baystars,24,"Yoshino, Teruki",P,7,1.000,1,4,0,0,,33535157
+2024,Regular Season,Yokohama DeNA Baystars,4,"Watarai, Ryuki",OF,60,0.966,112,1,4,1,,33535159
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,45,"VerHagen, Drew",P,1,1.000,0,1,0,0,,33735151
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,45,"VerHagen, Drew",P,9,0.833,4,6,2,0,,33735151
+2024,Regular Season,Tokyo Yakult Swallows,54,"Sneed, Cy",P,24,0.958,5,18,1,0,,33735153
+2024,Regular Season,Hanshin Tigers,00,"Guerra, Javy",P,59,1.000,2,9,0,1,,33735159
+2024,Regular Season,Chiba Lotte Marines,42,"Mercedes, Cristopher Crisostomo",P,21,0.941,7,25,2,2,,33935134
+2024,Regular Season,Chunichi Dragons,94,"Dickerson, Alexander",OF,26,1.000,42,2,0,1,,33935159
+2024,Regular Season,Orix Buffaloes,29,"Tajima, Daiki",P,21,1.000,7,19,0,1,,41045136
+2024,Climax Series - Final Stage,Yomiuri Giants,20,"Togo, Shosei",P,2,1.000,0,3,0,0,,41045138
+2024,Regular Season,Yomiuri Giants,20,"Togo, Shosei",P,26,0.963,5,21,1,1,,41045138
+2024,Climax Series - First Stage,Hanshin Tigers,8,"Sato, Teruaki",3B,2,1.000,1,5,0,0,,41045153
+2024,Regular Season,Hanshin Tigers,8,"Sato, Teruaki",3B,117,0.924,77,202,23,16,,41045153
+2024,Regular Season,Hiroshima Toyo Carp,22,"Taka, Taichi",P,1,1.000,0,2,0,0,,41045159
+2024,Regular Season,Chunichi Dragons,32,"Ishigaki, Masami",1B,4,1.000,7,1,0,2,,41145134
+2024,Regular Season,Chunichi Dragons,32,"Ishigaki, Masami",2B,4,1.000,2,4,0,0,,41145134
+2024,Regular Season,Chunichi Dragons,32,"Ishigaki, Masami",3B,1,0.000,0,0,0,0,,41145134
+2024,Regular Season,Chunichi Dragons,32,"Ishigaki, Masami",SS,2,1.000,0,2,0,1,,41145134
+2024,Regular Season,Tohoku Rakuten Golden Eagles,39,"Itoh, Yukiya",1B,7,1.000,43,2,0,3,,41145138
+2024,Regular Season,Tohoku Rakuten Golden Eagles,39,"Itoh, Yukiya",3B,3,1.000,2,1,0,1,,41145138
+2024,Regular Season,Tohoku Rakuten Golden Eagles,39,"Itoh, Yukiya",OF,21,0.976,39,2,1,0,,41145138
+2024,Regular Season,Tohoku Rakuten Golden Eagles,39,"Itoh, Yukiya",SS,2,0.800,3,1,1,1,,41145138
+2024,Regular Season,Chiba Lotte Marines,12,"Ishikawa, Ayumu",P,5,1.000,1,5,0,0,,41145139
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,13,"Ise, Hiromu",P,4,0.000,0,0,0,0,,41145151
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,13,"Ise, Hiromu",P,1,0.000,0,0,0,0,,41145151
+2024,Japan Series,Yokohama DeNA Baystars,13,"Ise, Hiromu",P,4,0.000,0,0,0,0,,41145151
+2024,Regular Season,Yokohama DeNA Baystars,13,"Ise, Hiromu",P,37,1.000,6,3,0,1,,41145151
+2024,Climax Series - First Stage,Hanshin Tigers,69,"Ishii, Daichi",P,2,0.000,0,0,0,0,,41145153
+2024,Regular Season,Hanshin Tigers,69,"Ishii, Daichi",P,56,0.800,0,4,1,0,,41145153
+2024,Regular Season,Orix Buffaloes,39,"Ikeda, Ryoma",OF,7,1.000,12,0,0,0,,41145155
+2024,Regular Season,Tokyo Yakult Swallows,35,"Ishihara, Yuki",P,1,0.000,0,0,0,0,,41145159
+2024,Regular Season,Saitama Seibu Lions,5,"Tonosaki, Shuta",2B,124,0.992,244,364,5,71,,41245130
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,10,"Tobashira, Yasutaka",C,6,1.000,45,4,0,0,0,41245132
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,10,"Tobashira, Yasutaka",C,1,1.000,11,0,0,0,0,41245132
+2024,Japan Series,Yokohama DeNA Baystars,10,"Tobashira, Yasutaka",C,6,1.000,48,5,0,0,1,41245132
+2024,Regular Season,Yokohama DeNA Baystars,10,"Tobashira, Yasutaka",1B,1,1.000,2,0,0,0,,41245132
+2024,Regular Season,Yokohama DeNA Baystars,10,"Tobashira, Yasutaka",C,27,1.000,147,18,0,1,0,41245132
+2024,Regular Season,Tokyo Yakult Swallows,30,"Nishida, Akihisa",1B,2,1.000,3,1,0,0,,41245133
+2024,Regular Season,Tokyo Yakult Swallows,30,"Nishida, Akihisa",C,12,1.000,28,4,0,0,0,41245133
+2024,Regular Season,Yokohama DeNA Baystars,17,"Mishima, Kazuki",P,7,1.000,0,2,0,0,,41245137
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,13,"Nabatame, Tsubasa",P,2,1.000,0,1,0,0,,41245138
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,13,"Nabatame, Tsubasa",P,43,1.000,3,4,0,1,,41245138
+2024,Regular Season,Hiroshima Toyo Carp,65,"Tamamura, Shogo",P,15,1.000,1,12,0,2,,41245151
+2024,Regular Season,Chunichi Dragons,31,"Nakachi, Reia",P,1,0.000,0,0,0,0,,41245157
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,20,"Uehara, Kenta",P,7,1.000,2,10,0,0,,41345132
+2024,Regular Season,Hanshin Tigers,49,"Ohtake, Koutaro",P,24,1.000,8,31,0,2,,41345136
+2024,Regular Season,Hiroshima Toyo Carp,38,"Ugusa, Koki",OF,16,1.000,24,0,0,0,,41345151
+2024,Regular Season,Tohoku Rakuten Golden Eagles,63,"Irie, Daiki",3B,3,0.833,2,3,1,0,,41345153
+2024,Regular Season,Tohoku Rakuten Golden Eagles,63,"Irie, Daiki",SS,2,1.000,7,5,0,2,,41345153
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,25,"Miyanishi, Naoki",P,2,0.000,0,0,0,0,,41445116
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,25,"Miyanishi, Naoki",P,1,0.000,0,0,0,0,,41445116
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,25,"Miyanishi, Naoki",P,30,1.000,2,5,0,0,,41445116
+2024,Regular Season,Yomiuri Giants,36,"Baba, Kosuke",P,1,0.000,0,0,0,0,,41445136
+2024,Climax Series - First Stage,Hanshin Tigers,51,"Nakano, Takumu",2B,2,1.000,6,7,0,2,,41445153
+2024,Regular Season,Hanshin Tigers,51,"Nakano, Takumu",2B,143,0.990,342,460,8,84,,41445153
+2024,Regular Season,Hiroshima Toyo Carp,58,"Nakada, Yuto",1B,1,1.000,8,0,0,0,,41445159
+2024,Climax Series - First Stage,Chiba Lotte Marines,3,"Kakunaka, Katsuya",OF,2,1.000,2,0,0,0,,41545114
+2024,Regular Season,Chiba Lotte Marines,3,"Kakunaka, Katsuya",OF,53,0.984,57,4,1,0,,41545114
+2024,Regular Season,Chunichi Dragons,49,"Katoh, Takuma",C,82,0.997,321,39,1,4,0,41545130
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,14,"Katoh, Takayuki",P,1,1.000,0,1,0,0,,41545132
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,14,"Katoh, Takayuki",P,1,1.000,1,2,0,0,,41545132
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,14,"Katoh, Takayuki",P,27,0.970,12,20,1,2,,41545132
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,21,"Kiyomiya, Kotaro",1B,1,0.000,0,0,0,0,,41545136
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,21,"Kiyomiya, Kotaro",3B,3,0.833,1,4,1,0,,41545136
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,21,"Kiyomiya, Kotaro",3B,3,1.000,4,6,0,1,,41545136
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,21,"Kiyomiya, Kotaro",1B,56,0.995,352,22,2,30,,41545136
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,21,"Kiyomiya, Kotaro",3B,37,0.962,20,56,3,5,,41545136
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,21,"Kiyomiya, Kotaro",OF,12,1.000,7,0,0,0,,41545136
+2024,Regular Season,Tokyo Yakult Swallows,44,"Ohnishi, Hiroki",P,60,0.929,1,12,1,2,,41545151
+2024,Regular Season,Hiroshima Toyo Carp,12,"Ohmichi, Haruki",P,4,1.000,1,0,0,0,,41545153
+2024,Japan Series,Fukuoka Softbank Hawks,68,"Kimura, Hikaru",P,2,0.000,0,0,0,0,,41545157
+2024,Regular Season,Fukuoka Softbank Hawks,68,"Kimura, Hikaru",P,5,1.000,0,2,0,0,,41545157
+2024,Regular Season,Chunichi Dragons,34,"Fuku, Hiroto",P,13,1.000,1,2,0,0,,41645132
+2024,Climax Series - First Stage,Chiba Lotte Marines,7,"Fujioka, Yudai",2B,3,1.000,5,11,0,5,,41645136
+2024,Regular Season,Chiba Lotte Marines,7,"Fujioka, Yudai",2B,90,0.988,177,234,5,35,,41645136
+2024,Regular Season,Orix Buffaloes,2,"Wakatsuki, Kenya",C,96,0.995,672,82,4,9,3,41645139
+2024,Regular Season,Orix Buffaloes,43,"Mae, Yuito",P,4,1.000,0,1,0,0,,41645151
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,59,"Nemoto, Haruka",P,2,1.000,1,2,0,0,,41645153
+2024,Regular Season,Chiba Lotte Marines,30,"Hirohata, Atsuya",P,8,1.000,0,1,0,0,,41645155
+2024,Climax Series - First Stage,Hanshin Tigers,35,"Saiki, Hiroto",P,1,0.000,0,0,1,0,,41745134
+2024,Regular Season,Hanshin Tigers,35,"Saiki, Hiroto",P,25,0.969,13,18,1,1,,41745134
+2024,Japan Series,Fukuoka Softbank Hawks,3,"Kondoh, Kensuke",OF,1,1.000,4,0,0,0,,41745135
+2024,Regular Season,Fukuoka Softbank Hawks,3,"Kondoh, Kensuke",OF,86,0.994,154,3,1,0,,41745135
+2024,Climax Series - Final Stage,Yomiuri Giants,18,"Sugano, Tomoyuki",P,2,1.000,0,3,0,0,,41745137
+2024,Regular Season,Yomiuri Giants,18,"Sugano, Tomoyuki",P,24,0.957,7,15,1,1,,41745137
+2024,Regular Season,Chiba Lotte Marines,36,"Sakamoto, Koshiro",P,37,1.000,0,5,0,0,,41745138
+2024,Regular Season,Orix Buffaloes,011,"Kawase, Kento",P,8,1.000,1,2,0,0,,41745153
+2024,Regular Season,Hiroshima Toyo Carp,24,"Kurohara, Takumi",P,53,0.933,1,13,1,0,,41745155
+2024,Regular Season,Orix Buffaloes,26,"Saito, Kyosuke",P,8,0.857,1,5,1,0,,41745157
+2024,Regular Season,Orix Buffaloes,97,"Kotajima, Seiryu",P,50,1.000,1,5,0,0,,41745159
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,19,"Yamasaki, Yasuaki",P,3,1.000,0,1,0,0,,41845130
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,19,"Yamasaki, Yasuaki",P,1,0.000,0,0,0,0,,41845130
+2024,Japan Series,Yokohama DeNA Baystars,19,"Yamasaki, Yasuaki",P,1,1.000,0,1,0,0,,41845130
+2024,Regular Season,Yokohama DeNA Baystars,19,"Yamasaki, Yasuaki",P,38,0.875,4,3,1,0,,41845130
+2024,Regular Season,Tohoku Rakuten Golden Eagles,66,"Murabayashi, Itsuki",SS,138,0.979,223,392,13,95,,41845132
+2024,Regular Season,Tokyo Yakult Swallows,55,"Murakami, Munetaka",1B,15,1.000,24,1,0,4,,41845136
+2024,Regular Season,Tokyo Yakult Swallows,55,"Murakami, Munetaka",3B,141,0.952,83,212,15,20,,41845136
+2024,Regular Season,Orix Buffaloes,22,"Muranishi, Ryota",P,1,0.000,0,0,0,0,,41845151
+2024,Japan Series,Fukuoka Softbank Hawks,49,"Matsumoto, Haru",P,2,0.000,0,0,0,0,,41845157
+2024,Regular Season,Fukuoka Softbank Hawks,49,"Matsumoto, Haru",P,5,1.000,1,2,0,1,,41845157
+2024,Japan Series,Yokohama DeNA Baystars,25,"Tsutsugoh, Yoshitomo",OF,5,1.000,3,0,0,0,,41945131
+2024,Regular Season,Yokohama DeNA Baystars,25,"Tsutsugoh, Yoshitomo",OF,34,1.000,52,0,0,0,,41945131
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,31,"Shibata, Tatsuhiro",3B,2,0.000,0,0,0,0,,41945132
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,31,"Shibata, Tatsuhiro",3B,2,1.000,2,1,0,0,,41945132
+2024,Japan Series,Yokohama DeNA Baystars,31,"Shibata, Tatsuhiro",3B,3,1.000,0,2,0,0,,41945132
+2024,Regular Season,Yokohama DeNA Baystars,31,"Shibata, Tatsuhiro",2B,6,0.750,3,3,2,2,,41945132
+2024,Regular Season,Yokohama DeNA Baystars,31,"Shibata, Tatsuhiro",3B,71,0.929,8,18,2,3,,41945132
+2024,Regular Season,Yokohama DeNA Baystars,31,"Shibata, Tatsuhiro",SS,2,1.000,0,2,0,1,,41945132
+2024,Regular Season,Chiba Lotte Marines,27,"Tamura, Tatsuhiro",C,51,0.991,297,38,3,4,1,41945137
+2024,Regular Season,Tohoku Rakuten Golden Eagles,79,"Seimiya, Kotaro",P,3,0.000,0,0,0,0,,41945138
+2024,Regular Season,Tokyo Yakult Swallows,34,"Taguchi, Kazuto",P,41,0.833,1,4,1,1,,41945139
+2024,Regular Season,Saitama Seibu Lions,19,"Sato, Shunsuke",P,45,1.000,5,5,0,0,,41945155
+2024,Regular Season,Saitama Seibu Lions,42,"Takahashi, Bo",P,33,0.818,2,7,2,1,,43045155
+2024,Regular Season,Yomiuri Giants,00,"Yuasa, Dai",2B,4,1.000,1,3,0,1,,43145136
+2024,Regular Season,Yomiuri Giants,00,"Yuasa, Dai",3B,10,1.000,1,3,0,0,,43145136
+2024,Regular Season,Yomiuri Giants,00,"Yuasa, Dai",SS,1,1.000,3,2,0,2,,43145136
+2024,Regular Season,Tokyo Yakult Swallows,68,"Maruyama, Shota",P,27,1.000,1,6,0,0,,43145153
+2024,Climax Series - First Stage,Hanshin Tigers,1,"Morishita, Shota",OF,2,1.000,2,0,0,0,,43145157
+2024,Regular Season,Hanshin Tigers,1,"Morishita, Shota",OF,127,0.991,218,2,2,1,,43145157
+2024,Regular Season,Tokyo Yakult Swallows,37,"Rodriguez, Elvin",P,32,1.000,1,4,0,0,,43245157
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,4,"Downs, Jeter",2B,2,1.000,5,4,0,0,,43245159
+2024,Japan Series,Fukuoka Softbank Hawks,4,"Downs, Jeter",2B,1,1.000,2,1,0,0,,43245159
+2024,Regular Season,Fukuoka Softbank Hawks,4,"Downs, Jeter",2B,6,1.000,6,10,0,2,,43245159
+2024,Regular Season,Fukuoka Softbank Hawks,4,"Downs, Jeter",SS,4,0.917,6,5,1,2,,43245159
+2024,Regular Season,Orix Buffaloes,11,"Yamashita, Shunpeita",P,14,1.000,2,15,0,0,,43345153
+2024,Regular Season,Tohoku Rakuten Golden Eagles,55,"Yasuda, Yuma",1B,2,1.000,5,0,0,0,,43345155
+2024,Regular Season,Tohoku Rakuten Golden Eagles,55,"Yasuda, Yuma",C,14,1.000,51,6,0,2,0,43345155
+2024,Regular Season,Yokohama DeNA Baystars,93,"Diaz, Yofrec",P,7,1.000,0,1,0,0,,43545151
+2024,Regular Season,Orix Buffaloes,00,"Espinoza, Anderson",P,22,0.968,11,19,1,2,,43545159
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,41,"Rodriguez, Bryan",P,10,1.000,0,2,0,0,,43745136
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,42,"Jackson, Andre",P,1,0.000,0,0,0,0,,43745159
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,42,"Jackson, Andre",P,1,0.000,0,0,0,0,,43745159
+2024,Japan Series,Yokohama DeNA Baystars,42,"Jackson, Andre",P,2,1.000,0,1,0,0,,43745159
+2024,Regular Season,Yokohama DeNA Baystars,42,"Jackson, Andre",P,25,0.923,8,16,2,0,,43745159
+2024,Regular Season,Orix Buffaloes,42,"Machado, Andres",P,53,1.000,3,6,0,0,,43945159
+2024,Regular Season,Tokyo Yakult Swallows,47,"Takahashi, Keiji",P,21,1.000,4,14,0,2,,51055132
+2024,Climax Series - First Stage,Hanshin Tigers,46,"Shimamoto, Hiroya",P,2,1.000,1,1,0,1,,51055133
+2024,Regular Season,Hanshin Tigers,46,"Shimamoto, Hiroya",P,33,1.000,1,4,0,0,,51055133
+2024,Regular Season,Fukuoka Softbank Hawks,56,"Taura, Fumimaru",P,4,0.000,0,0,0,0,,51055136
+2024,Regular Season,Tohoku Rakuten Golden Eagles,14,"Norimoto, Takahiro",P,54,0.938,1,14,1,0,,51055137
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,64,"Tamiya, Yua",C,1,1.000,8,0,0,0,0,51055138
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,64,"Tamiya, Yua",C,3,1.000,12,0,0,0,0,51055138
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,64,"Tamiya, Yua",C,100,0.994,580,70,4,8,4,51055138
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,64,"Tamiya, Yua",OF,1,0.000,0,0,0,0,,51055138
+2024,Regular Season,Orix Buffaloes,001,"Satoh, Kazuma",P,5,0.600,0,3,2,0,,51055151
+2024,Regular Season,Hanshin Tigers,39,"Sakaeda, Yuki",C,1,1.000,2,0,0,0,0,51055153
+2024,Regular Season,Hiroshima Toyo Carp,52,"Suekane, Shota",OF,76,0.979,140,3,3,0,,51055155
+2024,Regular Season,Tohoku Rakuten Golden Eagles,3,"Asamura, Hideto",3B,99,0.960,60,154,9,17,,51155118
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,17,"Arihara, Kohei",P,1,1.000,0,1,0,0,,51155130
+2024,Japan Series,Fukuoka Softbank Hawks,17,"Arihara, Kohei",P,2,0.800,2,2,1,1,,51155130
+2024,Regular Season,Fukuoka Softbank Hawks,17,"Arihara, Kohei",P,26,0.939,11,20,2,1,,51155130
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,11,"Azuma, Katsuki",P,1,1.000,0,1,0,0,,51155136
+2024,Japan Series,Yokohama DeNA Baystars,11,"Azuma, Katsuki",P,1,1.000,1,0,0,0,,51155136
+2024,Regular Season,Yokohama DeNA Baystars,11,"Azuma, Katsuki",P,26,0.979,12,34,1,1,,51155136
+2024,Regular Season,Yokohama DeNA Baystars,57,"Azuma, Junpei",OF,1,1.000,1,0,0,0,,51155151
+2024,Regular Season,Tokyo Yakult Swallows,00,"Akahane, Yoshihiro",1B,1,1.000,1,0,0,0,,51155153
+2024,Regular Season,Tokyo Yakult Swallows,00,"Akahane, Yoshihiro",2B,8,1.000,11,12,0,6,,51155153
+2024,Regular Season,Tokyo Yakult Swallows,00,"Akahane, Yoshihiro",3B,2,0.000,0,0,0,0,,51155153
+2024,Regular Season,Tokyo Yakult Swallows,00,"Akahane, Yoshihiro",OF,23,1.000,23,1,0,0,,51155153
+2024,Climax Series - Final Stage,Yomiuri Giants,31,"Akahoshi, Yuji",P,2,1.000,0,1,0,0,,51155155
+2024,Regular Season,Yomiuri Giants,31,"Akahoshi, Yuji",P,21,1.000,6,13,0,0,,51155155
+2024,Regular Season,Saitama Seibu Lions,29,"Aoyama, Minato",P,6,0.833,1,4,1,0,,51155157
+2024,Regular Season,Tokyo Yakult Swallows,27,"Nakamura, Yuhei",C,94,0.997,622,69,2,10,4,51255118
+2024,Regular Season,Orix Buffaloes,67,"Nakagawa, Keita",1B,3,1.000,5,1,0,0,,51255138
+2024,Regular Season,Orix Buffaloes,67,"Nakagawa, Keita",OF,53,0.979,93,0,2,0,,51255138
+2024,Regular Season,Saitama Seibu Lions,62,"Takizawa, Natsuo",2B,15,0.962,20,31,2,6,,51255155
+2024,Regular Season,Saitama Seibu Lions,62,"Takizawa, Natsuo",3B,45,0.959,17,54,3,6,,51255155
+2024,Regular Season,Saitama Seibu Lions,62,"Takizawa, Natsuo",SS,4,0.900,4,5,1,1,,51255155
+2024,Climax Series - First Stage,Hanshin Tigers,50,"Tomida, Ren",P,1,0.000,0,0,0,0,,51255157
+2024,Regular Season,Hanshin Tigers,50,"Tomida, Ren",P,33,0.889,3,5,1,0,,51255157
+2024,Regular Season,Saitama Seibu Lions,21,"Takeuchi, Natsuki",P,21,0.935,4,25,2,1,,51255159
+2024,Regular Season,Chunichi Dragons,46,"Umeno, Yugo",P,18,1.000,2,4,0,0,,51355134
+2024,Regular Season,Hanshin Tigers,14,"Iwasada, Yuta",P,2,1.000,0,2,0,0,,51355139
+2024,Climax Series - Final Stage,Yomiuri Giants,97,"Inoue, Haruto",P,1,1.000,1,0,0,0,,51355151
+2024,Regular Season,Yomiuri Giants,97,"Inoue, Haruto",P,25,1.000,6,12,0,1,,51355151
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,17,"Itoh, Hiromi",P,1,1.000,1,1,0,0,,51355153
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,17,"Itoh, Hiromi",P,26,0.971,9,25,1,1,,51355153
+2024,Regular Season,Tokyo Yakult Swallows,024,"Iwata, Yukihiro",OF,70,1.000,112,3,0,0,,51355155
+2024,Regular Season,Hiroshima Toyo Carp,63,"Uchida, Shodai",3B,1,1.000,0,1,0,0,,51355157
+2024,Japan Series,Fukuoka Softbank Hawks,27,"Iwai, Shunsuke",P,3,0.000,0,0,0,0,,51355159
+2024,Regular Season,Fukuoka Softbank Hawks,27,"Iwai, Shunsuke",P,15,0.000,0,0,0,0,,51355159
+2024,Climax Series - First Stage,Chiba Lotte Marines,8,"Nakamura, Shogo",3B,2,1.000,1,4,0,2,,51455130
+2024,Regular Season,Chiba Lotte Marines,8,"Nakamura, Shogo",3B,120,0.968,65,204,9,11,,51455130
+2024,Regular Season,Saitama Seibu Lions,51,"Nishikawa, Manaya",OF,100,1.000,215,2,0,0,,51455136
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,51,"Miyazaki, Toshiro",3B,6,1.000,4,12,0,0,,51455137
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,51,"Miyazaki, Toshiro",3B,2,1.000,1,0,0,0,,51455137
+2024,Japan Series,Yokohama DeNA Baystars,51,"Miyazaki, Toshiro",3B,6,1.000,4,7,0,0,,51455137
+2024,Regular Season,Yokohama DeNA Baystars,51,"Miyazaki, Toshiro",3B,117,0.962,65,165,9,12,,51455137
+2024,Regular Season,Tokyo Yakult Swallows,7,"Nagaoka, Hideki",SS,143,0.986,216,415,9,93,,51455151
+2024,Regular Season,Chunichi Dragons,45,"Tsuchida, Ryuku",2B,3,1.000,6,6,0,1,,51455153
+2024,Regular Season,Chunichi Dragons,45,"Tsuchida, Ryuku",SS,14,1.000,21,29,0,9,,51455153
+2024,Regular Season,Chiba Lotte Marines,65,"Terachi, Ryusei",C,1,1.000,9,0,0,0,1,51455159
+2024,Regular Season,Chiba Lotte Marines,37,"Ono, Fumiya",P,3,1.000,0,1,0,0,,51555130
+2024,Regular Season,Tokyo Yakult Swallows,48,"Kanakubo, Yuto",P,5,1.000,0,2,0,0,,51555136
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,60,"Kagiya, Yohei",P,1,0.000,0,0,0,0,,51555137
+2024,Regular Season,Saitama Seibu Lions,34,"Kaino, Hiroshi",P,19,0.857,2,4,1,0,,51555138
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,61,"Ebina, Tatsuo",OF,2,0.000,0,0,0,0,,51555151
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,61,"Ebina, Tatsuo",OF,1,1.000,1,0,0,0,,51555151
+2024,Regular Season,Yokohama DeNA Baystars,61,"Ebina, Tatsuo",OF,71,1.000,120,1,0,0,,51555151
+2024,Regular Season,Tohoku Rakuten Golden Eagles,69,"Uchi, Seiryu",P,20,0.636,1,6,4,0,,51555153
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,58,"Kajiwara, Kouki",OF,6,1.000,14,0,0,0,,51555155
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,58,"Kajiwara, Kouki",OF,2,1.000,3,0,0,0,,51555155
+2024,Japan Series,Yokohama DeNA Baystars,58,"Kajiwara, Kouki",OF,6,0.909,10,0,1,0,,51555155
+2024,Regular Season,Yokohama DeNA Baystars,58,"Kajiwara, Kouki",OF,80,0.992,124,4,1,0,,51555155
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,24,"Kanemura, Shoma",P,1,1.000,0,1,0,0,,51555157
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,24,"Kanemura, Shoma",P,29,1.000,9,16,0,3,,51555157
+2024,Regular Season,Saitama Seibu Lions,75,"Okumura, Koichi",OF,34,1.000,49,0,0,0,,51555159
+2024,Regular Season,Fukuoka Softbank Hawks,48,"Fujii, Kouya",P,40,0.833,0,5,1,0,,51655130
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,26,"Hamaguchi, Haruhiro",P,1,0.000,0,0,0,0,,51655134
+2024,Japan Series,Yokohama DeNA Baystars,26,"Hamaguchi, Haruhiro",P,2,0.000,0,0,0,0,,51655134
+2024,Regular Season,Yokohama DeNA Baystars,26,"Hamaguchi, Haruhiro",P,11,0.789,4,11,4,1,,51655134
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,35,"Fukuda, Koki",2B,5,1.000,9,9,0,0,,51655151
+2024,Climax Series - Final Stage,Yomiuri Giants,40,"Nakayama, Raito",2B,5,1.000,12,14,0,8,,51655153
+2024,Regular Season,Yomiuri Giants,40,"Nakayama, Raito",2B,4,1.000,5,3,0,0,,51655153
+2024,Regular Season,Yomiuri Giants,40,"Nakayama, Raito",3B,8,1.000,3,8,0,1,,51655153
+2024,Regular Season,Yomiuri Giants,40,"Nakayama, Raito",SS,3,1.000,0,4,0,0,,51655153
+2024,Regular Season,Saitama Seibu Lions,43,"Hada, Shinnosuke",P,9,0.333,0,1,2,0,,51655155
+2024,Regular Season,Hiroshima Toyo Carp,39,"Hasebe, Ginji",P,5,0.000,0,0,0,0,,51655157
+2024,Regular Season,Chunichi Dragons,48,"Habu, Shohta",P,7,1.000,2,1,0,0,,51655159
+2024,Regular Season,Saitama Seibu Lions,1,"Kuriyama, Takumi",OF,9,1.000,17,0,0,0,,51755115
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,32,"Kuroki, Yuta",P,2,1.000,0,2,0,0,,51755134
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,1,"Kuwahara, Masayuki",OF,6,1.000,13,0,0,0,,51755135
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,1,"Kuwahara, Masayuki",OF,2,1.000,3,0,0,0,,51755135
+2024,Japan Series,Yokohama DeNA Baystars,1,"Kuwahara, Masayuki",OF,6,1.000,15,0,0,0,,51755135
+2024,Regular Season,Yokohama DeNA Baystars,1,"Kuwahara, Masayuki",OF,98,0.989,173,1,2,1,,51755135
+2024,Regular Season,Orix Buffaloes,53,"Gibo, Sho",2B,17,0.905,9,10,2,3,,51755138
+2024,Regular Season,Orix Buffaloes,53,"Gibo, Sho",SS,4,0.900,6,3,1,2,,51755138
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,57,"Kitayama, Koki",P,1,1.000,0,1,0,0,,51755155
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,57,"Kitayama, Koki",P,14,1.000,6,7,0,0,,51755155
+2024,Regular Season,Saitama Seibu Lions,0,"Kodama, Ryosuke",2B,2,0.000,0,0,0,0,,51755157
+2024,Regular Season,Saitama Seibu Lions,0,"Kodama, Ryosuke",3B,24,1.000,10,23,0,0,,51755157
+2024,Regular Season,Saitama Seibu Lions,0,"Kodama, Ryosuke",SS,4,1.000,5,4,0,1,,51755157
+2024,Climax Series - Final Stage,Yomiuri Giants,0,"Masuda, Daiki",2B,2,1.000,4,0,0,0,,51855132
+2024,Climax Series - Final Stage,Yomiuri Giants,0,"Masuda, Daiki",3B,1,1.000,0,2,0,1,,51855132
+2024,Climax Series - Final Stage,Yomiuri Giants,0,"Masuda, Daiki",OF,1,0.000,0,0,0,0,,51855132
+2024,Regular Season,Yomiuri Giants,0,"Masuda, Daiki",3B,18,1.000,2,12,0,3,,51855132
+2024,Regular Season,Yomiuri Giants,0,"Masuda, Daiki",OF,10,1.000,6,0,0,0,,51855132
+2024,Regular Season,Yomiuri Giants,0,"Masuda, Daiki",SS,1,1.000,1,2,0,1,,51855132
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,34,"Hori, Mizuki",P,10,1.000,1,0,0,0,,51855134
+2024,Regular Season,Tokyo Yakult Swallows,32,"Matsumoto, Naoki",C,55,0.996,243,31,1,3,2,51855136
+2024,Regular Season,Yokohama DeNA Baystars,65,"Miyagi, Daita",P,1,1.000,0,1,0,0,,51855138
+2024,Regular Season,Tokyo Yakult Swallows,61,"Miyagawa, Tetsu",P,4,1.000,0,1,0,0,,51855151
+2024,Climax Series - Final Stage,Yomiuri Giants,6,"Sakamoto, Hayato",3B,5,1.000,5,9,0,2,,51955114
+2024,Regular Season,Yomiuri Giants,6,"Sakamoto, Hayato",3B,104,0.976,66,180,6,20,,51955114
+2024,Regular Season,Tokyo Yakult Swallows,17,"Shimizu, Noboru",P,17,1.000,1,4,0,0,,51955138
+2024,Regular Season,Saitama Seibu Lions,68,"Kishi, Junichiro",OF,91,0.994,176,2,1,1,,51955151
+2024,Regular Season,Orix Buffaloes,38,"Kita, Ryoto",OF,50,0.962,97,5,4,3,,51955153
+2024,Regular Season,Tokyo Yakult Swallows,59,"Komori, Kohtaro",2B,1,1.000,1,1,0,0,,51955155
+2024,Regular Season,Tokyo Yakult Swallows,59,"Komori, Kohtaro",3B,2,0.500,1,0,1,0,,51955155
+2024,Regular Season,Tokyo Yakult Swallows,42,"Sawai, Ren",OF,8,1.000,10,0,0,0,,51955157
+2024,Regular Season,Yomiuri Giants,44,"Sasaki, Shunsuke",OF,45,1.000,68,4,0,0,,51955159
+2024,Regular Season,Saitama Seibu Lions,00,"Yan, Jefry",P,37,0.800,0,4,1,0,,53055159
+2024,Regular Season,Saitama Seibu Lions,12,"Watanabe, Yutaro",P,14,0.909,3,7,1,0,,53155138
+2024,Regular Season,Hiroshima Toyo Carp,18,"Morishita, Masato",P,23,1.000,12,20,0,1,,53155151
+2024,Regular Season,Chiba Lotte Marines,2,"Matsukawa, Kou",C,2,1.000,10,2,0,0,0,53155155
+2024,Regular Season,Hanshin Tigers,30,"Mombetsu, Keito",P,5,1.000,1,0,0,0,,53355157
+2024,Regular Season,Saitama Seibu Lions,35,"Wakabayashi, Gakuto",OF,17,0.976,38,2,1,2,,53555153
+2024,Regular Season,Yomiuri Giants,59,"Wakabayashi, Gakuto",OF,24,1.000,20,1,0,0,,53555153
+2024,Regular Season,Tokyo Yakult Swallows,21,"Yoshimura, Kojiro",P,23,1.000,3,18,0,1,,53555157
+2024,Regular Season,Saitama Seibu Lions,44,"Aguilar, Jesus",1B,25,0.996,202,23,1,16,,53555159
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,2,"Stewart, Jr., Carter",P,1,1.000,0,1,0,0,,53755138
+2024,Japan Series,Fukuoka Softbank Hawks,2,"Stewart, Jr., Carter",P,2,1.000,0,1,0,0,,53755138
+2024,Regular Season,Fukuoka Softbank Hawks,2,"Stewart, Jr., Carter",P,20,1.000,10,3,0,0,,53755138
+2024,Regular Season,Tokyo Yakult Swallows,25,"Santana, Domingo",OF,116,0.980,192,2,4,0,,53755153
+2024,Regular Season,Saitama Seibu Lions,55,"Cordero, Franchy",OF,17,1.000,26,0,0,0,,53755159
+2024,Regular Season,Hiroshima Toyo Carp,98,"Corniel, Robert",P,16,0.667,1,1,1,0,,53955151
+2024,Regular Season,Orix Buffaloes,45,"Thomas, Cody",OF,2,1.000,2,0,0,0,,53955159
+2024,Regular Season,Chunichi Dragons,6,"Nakata, Sho",1B,52,0.998,460,36,1,37,,61065116
+2024,Regular Season,Hanshin Tigers,94,"Haraguchi, Fumihito",1B,5,1.000,31,2,0,1,,61065131
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,93,"Tanaka, Eito",P,3,0.000,0,0,0,0,,61065136
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,23,"Fushimi, Torai",C,2,1.000,18,0,0,0,0,61065137
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,23,"Fushimi, Torai",C,2,1.000,7,1,0,0,0,61065137
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,23,"Fushimi, Torai",C,61,0.995,365,34,2,5,0,61065137
+2024,Regular Season,Orix Buffaloes,28,"Tomiyama, Ryoga",P,16,1.000,0,3,0,0,,61065138
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,47,"Suzuki, Kenya",P,8,1.000,2,2,0,1,,61065151
+2024,Regular Season,Orix Buffaloes,61,"Chano, Tokumasa",OF,16,0.966,28,0,1,0,,61065157
+2024,Regular Season,Orix Buffaloes,96,"Takashima, Taito",P,21,1.000,5,11,0,0,,61065159
+2024,Regular Season,Tohoku Rakuten Golden Eagles,4,"Abe, Toshiki",1B,9,1.000,59,10,0,9,,61165132
+2024,Regular Season,Tohoku Rakuten Golden Eagles,4,"Abe, Toshiki",3B,4,1.000,6,6,0,0,,61165132
+2024,Regular Season,Tohoku Rakuten Golden Eagles,4,"Abe, Toshiki",OF,32,0.954,61,1,3,0,,61165132
+2024,Regular Season,Tohoku Rakuten Golden Eagles,70,"Ishihara, Tsuyoshi",C,66,0.997,270,45,1,5,3,61165134
+2024,Japan Series,Fukuoka Softbank Hawks,29,"Ishikawa, Shuta",P,1,1.000,0,1,0,0,,61165139
+2024,Regular Season,Fukuoka Softbank Hawks,29,"Ishikawa, Shuta",P,15,1.000,5,9,0,3,,61165139
+2024,Regular Season,Yokohama DeNA Baystars,46,"Ishikawa, Tatsuya",P,15,1.000,1,3,0,0,,61165153
+2024,Regular Season,Tohoku Rakuten Golden Eagles,41,"Itoh, Mao",P,6,1.000,0,1,0,0,,61165157
+2024,Regular Season,Yomiuri Giants,35,"Izuguchi, Yuta",2B,1,1.000,1,0,0,0,,61165159
+2024,Regular Season,Yomiuri Giants,35,"Izuguchi, Yuta",3B,4,0.875,3,4,1,0,,61165159
+2024,Regular Season,Yomiuri Giants,35,"Izuguchi, Yuta",SS,48,0.989,61,121,2,21,,61165159
+2024,Regular Season,Chiba Lotte Marines,91,"Niho, Akira",P,8,0.000,0,0,0,0,,61265118
+2024,Regular Season,Fukuoka Softbank Hawks,14,"Matayoshi, Katsuki",P,40,0.778,2,5,2,0,,61265139
+2024,Regular Season,Saitama Seibu Lions,37,"Tsuge, Sena",C,42,1.000,112,21,0,0,1,61265151
+2024,Regular Season,Chunichi Dragons,19,"Takahashi, Hiroto",P,21,0.943,7,26,2,1,,61265153
+2024,Regular Season,Hiroshima Toyo Carp,60,"Tamura, Shunsuke",OF,27,0.974,36,2,1,0,,61265155
+2024,Regular Season,Hiroshima Toyo Carp,97,"Nakamura, Takahiro",OF,6,1.000,9,0,0,0,,61265157
+2024,Regular Season,Chunichi Dragons,29,"Tsujimoto, Rintaro",2B,6,0.870,13,7,3,1,,61265159
+2024,Regular Season,Chunichi Dragons,29,"Tsujimoto, Rintaro",SS,1,1.000,1,0,0,0,,61265159
+2024,Regular Season,Orix Buffaloes,55,"Okada, Takahiro",1B,2,1.000,15,1,0,0,,61365112
+2024,Regular Season,Chunichi Dragons,39,"Usami, Shingo",1B,1,0.000,0,0,0,0,,61365132
+2024,Regular Season,Chunichi Dragons,39,"Usami, Shingo",C,53,0.996,237,29,1,4,2,61365132
+2024,Regular Season,Tokyo Yakult Swallows,52,"Onaka, Yuya",P,1,0.000,0,0,0,0,,61365134
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,39,"Ogata, Shuto",P,1,0.000,0,0,0,0,,61365136
+2024,Japan Series,Fukuoka Softbank Hawks,39,"Ogata, Shuto",P,4,0.000,0,0,0,0,,61365136
+2024,Regular Season,Fukuoka Softbank Hawks,39,"Ogata, Shuto",P,12,1.000,0,1,0,0,,61365136
+2024,Regular Season,Hiroshima Toyo Carp,14,"Ohsera, Daichi",P,25,0.939,7,24,2,2,,61365139
+2024,Regular Season,Yokohama DeNA Baystars,9,"Maeda, Yamato",1B,14,1.000,44,5,0,2,,61465112
+2024,Regular Season,Yokohama DeNA Baystars,9,"Maeda, Yamato",2B,3,1.000,5,9,0,0,,61465112
+2024,Regular Season,Yokohama DeNA Baystars,9,"Maeda, Yamato",3B,1,1.000,1,2,0,1,,61465112
+2024,Regular Season,Yokohama DeNA Baystars,9,"Maeda, Yamato",SS,17,1.000,15,35,0,5,,61465112
+2024,Regular Season,Orix Buffaloes,57,"Yamada, Nobuyoshi",P,50,1.000,1,10,0,0,,61465131
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,8,"Makihara, Taisei",2B,2,1.000,1,2,0,0,,61465133
+2024,Japan Series,Fukuoka Softbank Hawks,8,"Makihara, Taisei",2B,5,1.000,9,14,0,2,,61465133
+2024,Regular Season,Fukuoka Softbank Hawks,8,"Makihara, Taisei",2B,74,0.978,130,183,7,43,,61465133
+2024,Regular Season,Saitama Seibu Lions,40,"Hamaya, Shota",P,1,0.000,0,0,1,0,,61465151
+2024,Regular Season,Tohoku Rakuten Golden Eagles,49,"Nishigaki, Masaya",P,18,1.000,1,3,0,0,,61465155
+2024,Regular Season,Yomiuri Giants,13,"Kajitani, Takayuki",OF,4,1.000,9,1,0,1,,61565114
+2024,Regular Season,Hiroshima Toyo Carp,33,"Kikuchi, Ryosuke",2B,135,0.989,257,362,7,67,,61565135
+2024,Regular Season,Yokohama DeNA Baystars,37,"Kusumoto, Taishi",OF,7,0.875,7,0,1,0,,61565136
+2024,Regular Season,Fukuoka Softbank Hawks,66,"Matsumoto, Yuki",P,50,1.000,4,8,0,1,,61665130
+2024,Regular Season,Tohoku Rakuten Golden Eagles,46,"Fujihira, Shoma",P,47,1.000,2,7,0,1,,61665134
+2024,Regular Season,Orix Buffaloes,46,"Honda, Hitomi",P,23,1.000,3,1,0,0,,61665136
+2024,Regular Season,Saitama Seibu Lions,9,"Hiruma, Takuya",OF,60,0.991,108,5,1,0,,61665157
+2024,Regular Season,Fukuoka Softbank Hawks,33,"Hirose, Ryuta",1B,10,1.000,15,0,0,0,,61665159
+2024,Regular Season,Fukuoka Softbank Hawks,33,"Hirose, Ryuta",2B,34,0.985,57,77,2,19,,61665159
+2024,Regular Season,Tohoku Rakuten Golden Eagles,28,"Sakai, Tomohito",P,49,1.000,4,8,0,1,,61765134
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,22,"Sugiura, Toshihiro",P,1,0.000,0,0,0,0,,61765139
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,22,"Sugiura, Toshihiro",P,40,1.000,2,7,0,2,,61765139
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,46,"Kuroyanagi, Kyosuke",P,5,1.000,0,1,0,0,,61765155
+2024,Regular Season,Tohoku Rakuten Golden Eagles,5,"Mogi, Eigoro",1B,14,1.000,69,9,0,7,,61865132
+2024,Regular Season,Tohoku Rakuten Golden Eagles,5,"Mogi, Eigoro",2B,5,1.000,8,11,0,5,,61865132
+2024,Regular Season,Tohoku Rakuten Golden Eagles,38,"Yuge, Hayato",P,34,1.000,1,5,0,0,,61865138
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,56,"Hosokawa, Ryohei",1B,7,1.000,10,0,0,0,,61865153
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,56,"Hosokawa, Ryohei",2B,11,0.973,15,21,1,4,,61865153
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,56,"Hosokawa, Ryohei",3B,7,1.000,0,4,0,0,,61865153
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,56,"Hosokawa, Ryohei",OF,27,0.969,30,1,1,0,,61865153
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,56,"Hosokawa, Ryohei",SS,2,0.750,1,2,1,0,,61865153
+2024,Regular Season,Chunichi Dragons,90,"Matsuyama, Shinya",P,59,1.000,5,4,0,0,,61865157
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,29,"Hosono, Haruki",P,2,1.000,0,2,0,0,,61865159
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,10,"Shimizu, Yushi",C,6,1.000,16,6,0,1,0,61965130
+2024,Regular Season,Hiroshima Toyo Carp,7,"Dohbayashi, Shota",1B,57,0.994,429,42,3,30,,61965131
+2024,Regular Season,Hiroshima Toyo Carp,7,"Dohbayashi, Shota",OF,18,1.000,33,2,0,0,,61965131
+2024,Regular Season,Orix Buffaloes,99,"Sugimoto, Yutaro",OF,56,0.986,71,0,1,0,,61965132
+2024,Regular Season,Orix Buffaloes,66,"Suzuki, Hiroshi",P,32,1.000,3,3,0,0,,61965136
+2024,Regular Season,Hiroshima Toyo Carp,2,"Tanaka, Kosuke",1B,33,0.992,108,9,1,8,,61965139
+2024,Regular Season,Hiroshima Toyo Carp,2,"Tanaka, Kosuke",3B,14,0.968,9,21,1,2,,61965139
+2024,Regular Season,Tohoku Rakuten Golden Eagles,0,"Kobukata, Hiroto",2B,131,0.993,308,397,5,87,,61965151
+2024,Regular Season,Tohoku Rakuten Golden Eagles,0,"Kobukata, Hiroto",SS,2,1.000,1,2,0,0,,61965151
+2024,Regular Season,Orix Buffaloes,33,"Sugisawa, Ryu",OF,27,0.971,33,0,1,0,,61965157
+2024,Regular Season,Chiba Lotte Marines,22,"Polanco, Gregory",OF,35,0.979,47,0,1,0,,63065155
+2024,Regular Season,Chunichi Dragons,17,"Yanagi, Yuya",P,13,1.000,3,11,0,2,,63165134
+2024,Regular Season,Saitama Seibu Lions,15,"Yoza, Kaito",P,7,1.000,2,3,0,1,,63165136
+2024,Regular Season,Saitama Seibu Lions,69,"Mizukami, Yoshinobu",P,29,1.000,0,5,0,0,,63165153
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,43,"Mizuno, Tatsuki",SS,3,1.000,5,3,0,1,,63165155
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,43,"Mizuno, Tatsuki",SS,3,1.000,5,5,0,1,,63165155
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,43,"Mizuno, Tatsuki",SS,104,0.974,158,287,12,60,,63165155
+2024,Regular Season,Chiba Lotte Marines,41,"Keuchel, Dallas",P,8,1.000,1,4,0,0,,63265159
+2024,Regular Season,Tokyo Yakult Swallows,26,"Yamano, Taichi",P,14,0.900,1,8,1,0,,63365153
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,95,"Yanagawa, Taisei",P,2,0.000,0,0,0,0,,63365155
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,95,"Yanagawa, Taisei",P,21,1.000,0,3,0,0,,63365155
+2024,Regular Season,Orix Buffaloes,0,"Watanabe, Haruto",OF,62,0.987,74,2,1,1,,63565155
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,6,"Stevenson, Andrew",OF,13,1.000,32,0,0,0,,63765159
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,35,"Moinelo, Livan",P,1,0.000,0,0,0,0,,63965134
+2024,Japan Series,Fukuoka Softbank Hawks,35,"Moinelo, Livan",P,1,1.000,1,0,0,0,,63965134
+2024,Regular Season,Fukuoka Softbank Hawks,35,"Moinelo, Livan",P,25,1.000,6,25,0,2,,63965134
+2024,Regular Season,Tohoku Rakuten Golden Eagles,23,"Franco, Maikel",1B,37,0.997,320,11,1,24,,63965157
+2024,Regular Season,Saitama Seibu Lions,13,"Takahashi, Kona",P,15,1.000,2,18,0,0,,71075130
+2024,Climax Series - First Stage,Hanshin Tigers,5,"Chikamoto, Koji",OF,2,1.000,6,0,0,0,,71075138
+2024,Regular Season,Hanshin Tigers,5,"Chikamoto, Koji",OF,141,0.987,294,6,4,2,,71075138
+2024,Regular Season,Saitama Seibu Lions,58,"Nakamura, Yuta",P,27,1.000,5,5,0,0,,71075139
+2024,Climax Series - First Stage,Chiba Lotte Marines,32,"Satoh, Toshiya",C,3,0.971,24,9,1,1,1,71075151
+2024,Regular Season,Chiba Lotte Marines,32,"Satoh, Toshiya",1B,15,1.000,125,5,0,10,,71075151
+2024,Regular Season,Chiba Lotte Marines,32,"Satoh, Toshiya",C,104,0.994,680,108,5,3,5,71075151
+2024,Regular Season,Saitama Seibu Lions,71,"Sugai, Shinya",P,8,1.000,0,3,0,0,,71075155
+2024,Regular Season,Hanshin Tigers,17,"Aoyagi, Koyo",P,12,1.000,5,8,0,0,,71175132
+2024,Regular Season,Orix Buffaloes,12,"Azuma, Kohei",P,10,1.000,9,10,0,0,,71175136
+2024,Regular Season,Yomiuri Giants,55,"Akihiro, Yuto",1B,6,0.974,36,2,1,1,,71175153
+2024,Regular Season,Yomiuri Giants,55,"Akihiro, Yuto",OF,9,1.000,11,1,0,0,,71175153
+2024,Regular Season,Hanshin Tigers,16,"Nishi, Yuki",P,21,0.892,9,24,4,2,,71275118
+2024,Climax Series - First Stage,Chiba Lotte Marines,67,"Chatani, Kenta",1B,2,1.000,3,0,0,0,,71275132
+2024,Regular Season,Chiba Lotte Marines,67,"Chatani, Kenta",1B,58,0.984,118,8,2,9,,71275132
+2024,Regular Season,Chiba Lotte Marines,67,"Chatani, Kenta",2B,4,1.000,2,3,0,0,,71275132
+2024,Regular Season,Chiba Lotte Marines,67,"Chatani, Kenta",3B,1,0.000,0,0,0,0,,71275132
+2024,Regular Season,Chiba Lotte Marines,67,"Chatani, Kenta",SS,27,1.000,19,36,0,10,,71275132
+2024,Climax Series - First Stage,Chiba Lotte Marines,16,"Taneichi, Atsuki",P,1,0.000,0,0,1,0,,71275134
+2024,Regular Season,Chiba Lotte Marines,16,"Taneichi, Atsuki",P,23,0.964,10,17,1,2,,71275134
+2024,Regular Season,Saitama Seibu Lions,14,"Masuda, Tatsushi",P,13,1.000,1,4,0,0,,71275137
+2024,Regular Season,Tokyo Yakult Swallows,60,"Takeoka, Ryusei",2B,71,0.996,99,124,1,25,,71275151
+2024,Regular Season,Tokyo Yakult Swallows,60,"Takeoka, Ryusei",3B,2,1.000,0,3,0,1,,71275151
+2024,Regular Season,Tokyo Yakult Swallows,60,"Takeoka, Ryusei",SS,2,1.000,1,1,0,1,,71275151
+2024,Climax Series - First Stage,Chiba Lotte Marines,47,"Suzuki, Shota",P,2,0.000,0,0,0,0,,71275153
+2024,Regular Season,Chiba Lotte Marines,47,"Suzuki, Shota",P,51,1.000,2,8,0,1,,71275153
+2024,Climax Series - First Stage,Chiba Lotte Marines,4,"Tomosugi, Atsuki",SS,3,1.000,9,9,0,3,,71275157
+2024,Regular Season,Chiba Lotte Marines,4,"Tomosugi, Atsuki",SS,124,0.971,159,312,14,48,,71275157
+2024,Regular Season,Yomiuri Giants,64,"Ohe, Ryusei",P,16,0.667,0,2,1,0,,71375134
+2024,Regular Season,Hiroshima Toyo Carp,66,"Endoh, Atsushi",P,3,0.000,0,0,0,0,,71375136
+2024,Regular Season,Tohoku Rakuten Golden Eagles,2,"Ohta, Hikaru",C,94,0.995,533,50,3,2,0,71375138
+2024,Regular Season,Hanshin Tigers,27,"Itoh, Masashi",P,18,1.000,4,14,0,0,,71375153
+2024,Regular Season,Chunichi Dragons,4,"Ukai, Kosuke",OF,6,1.000,10,1,0,0,,71375155
+2024,Regular Season,Chiba Lotte Marines,10,"Ueda, Kyuto",1B,11,0.979,89,6,2,4,,71375159
+2024,Regular Season,Chiba Lotte Marines,10,"Ueda, Kyuto",3B,9,0.857,1,5,1,0,,71375159
+2024,Regular Season,Orix Buffaloes,7,"Nishikawa, Ryoma",OF,132,0.988,235,5,3,2,,71475132
+2024,Regular Season,Hiroshima Toyo Carp,69,"Hatsuki, Ryutaro",2B,6,1.000,3,4,0,1,,71475138
+2024,Regular Season,Hiroshima Toyo Carp,69,"Hatsuki, Ryutaro",3B,5,0.889,1,7,1,2,,71475138
+2024,Japan Series,Fukuoka Softbank Hawks,12,"Minei, Hiroki",C,1,1.000,4,0,0,0,0,71475139
+2024,Regular Season,Fukuoka Softbank Hawks,12,"Minei, Hiroki",C,3,1.000,8,1,0,0,0,71475139
+2024,Climax Series - First Stage,Chiba Lotte Marines,0,"Ogino, Takashi",OF,2,1.000,2,0,0,0,,71575131
+2024,Regular Season,Chiba Lotte Marines,0,"Ogino, Takashi",OF,74,0.990,95,4,1,0,,71575131
+2024,Regular Season,Chunichi Dragons,11,"Ogasawara, Shinnosuke",P,24,1.000,8,29,0,3,,71575132
+2024,Regular Season,Hiroshima Toyo Carp,41,"Yasaki, Takuya",P,26,1.000,0,2,0,0,,71575134
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,8,"Kamizato, Kazuki",OF,2,1.000,2,0,0,0,,71575136
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,8,"Kamizato, Kazuki",OF,1,0.000,0,0,0,0,,71575136
+2024,Japan Series,Yokohama DeNA Baystars,8,"Kamizato, Kazuki",OF,3,1.000,2,0,0,0,,71575136
+2024,Regular Season,Yokohama DeNA Baystars,8,"Kamizato, Kazuki",OF,17,1.000,14,0,0,0,,71575136
+2024,Regular Season,Hiroshima Toyo Carp,46,"Kawano, Kei",P,13,1.000,1,0,0,0,,71575157
+2024,Regular Season,Chunichi Dragons,00,"Oda, Gouki",OF,44,1.000,16,0,0,0,,71575159
+2024,Regular Season,Hanshin Tigers,36,"Hamachi, Masumi",P,18,1.000,2,5,0,0,,71675134
+2024,Climax Series - First Stage,Chiba Lotte Marines,52,"Masuda, Naoya",P,2,0.000,0,0,0,0,,71675135
+2024,Regular Season,Chiba Lotte Marines,52,"Masuda, Naoya",P,44,0.833,1,4,1,0,,71675135
+2024,Regular Season,Saitama Seibu Lions,53,"Makino, Shoya",C,7,1.000,25,3,0,1,1,71675138
+2024,Regular Season,Saitama Seibu Lions,6,"Genda, Sosuke",SS,143,0.993,209,338,4,67,,71775134
+2024,Regular Season,Hiroshima Toyo Carp,29,"Kemna, Makoto",P,5,0.000,0,0,0,0,,71775136
+2024,Regular Season,Hiroshima Toyo Carp,11,"Kuri, Aren",P,23,0.905,5,14,2,1,,71775139
+2024,Regular Season,Hanshin Tigers,60,"Onodera, Dan",1B,1,1.000,4,0,0,0,,71775151
+2024,Regular Season,Hanshin Tigers,60,"Onodera, Dan",OF,9,1.000,4,1,0,0,,71775151
+2024,Regular Season,Tohoku Rakuten Golden Eagles,22,"Komago, Ryuji",P,2,0.000,0,0,0,0,,71775157
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,92,"Horioka, Hayato",P,2,0.000,0,0,0,0,,71875134
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,92,"Horioka, Hayato",P,1,0.000,0,0,0,0,,71875134
+2024,Japan Series,Yokohama DeNA Baystars,92,"Horioka, Hayato",P,1,0.000,0,0,0,0,,71875134
+2024,Regular Season,Yokohama DeNA Baystars,92,"Horioka, Hayato",P,6,0.000,0,0,0,0,,71875134
+2024,Regular Season,Orix Buffaloes,13,"Miyagi, Hiroya",P,20,1.000,3,26,0,0,,71875151
+2024,Regular Season,Tohoku Rakuten Golden Eagles,47,"Fujii, Masaru",P,22,1.000,8,14,0,1,,71875153
+2024,Regular Season,Chunichi Dragons,42,"Bright, Kenta",OF,8,1.000,7,0,0,0,,71875155
+2024,Japan Series,Fukuoka Softbank Hawks,51,"Maeda, Jun",P,2,1.000,1,0,0,0,,71875157
+2024,Regular Season,Fukuoka Softbank Hawks,51,"Maeda, Jun",P,1,1.000,0,1,0,0,,71875157
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,41,"Sasaki, Chihaya",P,1,0.000,0,0,0,0,,71975134
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,41,"Sasaki, Chihaya",P,1,0.000,0,0,0,0,,71975134
+2024,Japan Series,Yokohama DeNA Baystars,41,"Sasaki, Chihaya",P,2,0.000,0,0,0,0,,71975134
+2024,Regular Season,Yokohama DeNA Baystars,41,"Sasaki, Chihaya",P,28,1.000,5,4,0,1,,71975134
+2024,Regular Season,Tohoku Rakuten Golden Eagles,35,"Shimauchi, Hiroaki",OF,9,1.000,22,1,0,0,,71975135
+2024,Regular Season,Tokyo Yakult Swallows,9,"Shiomi, Yasutaka",OF,28,1.000,61,1,0,0,,71975136
+2024,Regular Season,Hiroshima Toyo Carp,94,"Sato, Keisuke",1B,4,1.000,35,5,0,1,,71975159
+2024,Regular Season,Hanshin Tigers,55,"Mieses, Johan",OF,1,0.500,1,0,1,0,,73075157
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,99,"Reyes, Franmil",1B,3,1.000,22,1,0,1,,73075159
+2024,Regular Season,Tohoku Rakuten Golden Eagles,34,"Yamasaki, Tsuyoshi",3B,1,0.000,0,0,0,0,,73175136
+2024,Regular Season,Tohoku Rakuten Golden Eagles,34,"Yamasaki, Tsuyoshi",SS,3,1.000,2,4,0,1,,73175136
+2024,Regular Season,Tohoku Rakuten Golden Eagles,48,"Watanabe, Yoshiaki",1B,17,1.000,116,12,0,8,,73175138
+2024,Regular Season,Tohoku Rakuten Golden Eagles,48,"Watanabe, Yoshiaki",OF,26,1.000,31,2,0,0,,73175138
+2024,Japan Series,Fukuoka Softbank Hawks,32,"Yanagimachi, Tatsuru",OF,2,1.000,1,0,0,0,,73175151
+2024,Regular Season,Fukuoka Softbank Hawks,32,"Yanagimachi, Tatsuru",OF,65,1.000,94,4,0,0,,73175151
+2024,Regular Season,Chunichi Dragons,69,"Matsukihira, Yuta",P,8,1.000,1,6,0,0,,73175153
+2024,Regular Season,Hiroshima Toyo Carp,45,"Matsumoto, Ryuya",P,12,0.000,0,0,0,0,,73175155
+2024,Regular Season,Tohoku Rakuten Golden Eagles,61,"Matsuda, Takuma",P,7,0.750,1,2,1,0,,73175159
+2024,Regular Season,Yomiuri Giants,2,"Yoshikawa, Naoki",2B,143,0.994,331,485,5,94,,73375134
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,3,"Austin, Tyler",1B,6,0.978,40,5,1,5,,73375151
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,3,"Austin, Tyler",1B,2,1.000,9,0,0,0,,73375151
+2024,Japan Series,Yokohama DeNA Baystars,3,"Austin, Tyler",1B,2,1.000,7,1,0,2,,73375151
+2024,Regular Season,Yokohama DeNA Baystars,3,"Austin, Tyler",1B,100,0.991,807,81,8,59,,73375151
+2024,Regular Season,Hiroshima Toyo Carp,13,"Moriura, Daisuke",P,53,1.000,3,6,0,0,,73375153
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,12,"Yazawa, Kota",OF,1,0.000,0,0,0,0,,73375157
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,12,"Yazawa, Kota",OF,8,1.000,11,0,0,0,,73375157
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,12,"Yazawa, Kota",P,17,1.000,2,2,0,0,,73375157
+2024,Regular Season,Fukuoka Softbank Hawks,34,"Murata, Kenichi",P,1,0.000,0,0,0,0,,73375159
+2024,Regular Season,Tohoku Rakuten Golden Eagles,43,"Sung, Chia-Hao",P,41,1.000,2,5,0,0,,73575132
+2024,Regular Season,Saitama Seibu Lions,8,"Watanabe, Kento",1B,9,1.000,57,6,0,4,,73575153
+2024,Regular Season,Saitama Seibu Lions,8,"Watanabe, Kento",3B,1,1.000,1,5,0,1,,73575153
+2024,Regular Season,Saitama Seibu Lions,54,"Abreu, Albert",P,52,1.000,0,10,0,2,,73575159
+2024,Regular Season,Orix Buffaloes,54,"Castillo, Luis",P,15,0.882,2,13,2,0,,73775157
+2024,Regular Season,Chiba Lotte Marines,69,"Cordero, Jimmy",P,5,1.000,1,3,0,0,,73775159
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,2,"Martinez, Ariel",1B,2,1.000,11,2,0,0,,73975136
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,2,"Martinez, Ariel",1B,1,1.000,11,1,0,0,,73975136
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,2,"Martinez, Ariel",1B,90,0.995,685,59,4,54,,73975136
+2024,Climax Series - Final Stage,Yomiuri Giants,33,"Keller, Kyle",P,4,0.000,0,0,0,0,,73975155
+2024,Regular Season,Yomiuri Giants,33,"Keller, Kyle",P,52,0.800,2,2,1,0,,73975155
+2024,Regular Season,Hanshin Tigers,7,"Neuse, Sheldon",OF,39,0.974,73,1,2,0,,73975157
+2024,Regular Season,Hiroshima Toyo Carp,68,"Hearn, Taylor",P,35,0.833,2,3,1,0,,73975159
+2024,Regular Season,Saitama Seibu Lions,60,"Nakamura, Takeya",1B,7,1.000,34,3,0,0,,81085115
+2024,Regular Season,Orix Buffaloes,35,"Higa, Motoki",P,5,0.000,0,0,0,0,,81085131
+2024,Regular Season,Orix Buffaloes,44,"Tongu, Yuma",1B,58,0.991,428,38,4,42,,81085138
+2024,Regular Season,Hanshin Tigers,98,"Satoh, Ren",P,1,0.000,0,0,0,0,,81085153
+2024,Climax Series - Final Stage,Yomiuri Giants,15,"Ota, Taisei",P,3,0.000,0,0,0,0,,81085155
+2024,Regular Season,Yomiuri Giants,15,"Ota, Taisei",P,43,1.000,1,7,0,0,,81085155
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,29,"Itoh, Hikaru",C,1,1.000,9,0,0,0,0,81185116
+2024,Regular Season,Yokohama DeNA Baystars,29,"Itoh, Hikaru",C,26,0.994,146,12,1,2,1,81185116
+2024,Regular Season,Hanshin Tigers,33,"Itohara, Kento",1B,3,1.000,18,1,0,0,,81185134
+2024,Regular Season,Hanshin Tigers,33,"Itohara, Kento",3B,10,0.964,10,17,1,2,,81185134
+2024,Regular Season,Chunichi Dragons,18,"Umetsu, Kodai",P,14,1.000,3,14,0,0,,81185138
+2024,Regular Season,Orix Buffaloes,37,"Ishikawa, Ryo",C,13,0.967,26,3,1,0,0,81185139
+2024,Regular Season,Tokyo Yakult Swallows,67,"Itoh, Ryui",2B,5,1.000,2,4,0,2,,81185159
+2024,Regular Season,Tokyo Yakult Swallows,67,"Itoh, Ryui",3B,1,1.000,0,2,0,0,,81185159
+2024,Regular Season,Orix Buffaloes,16,"Hirano, Yoshihisa",P,12,1.000,1,3,0,0,,81285112
+2024,Regular Season,Yomiuri Giants,41,"Nakagawa, Kota",P,15,1.000,2,2,0,0,,81285132
+2024,Regular Season,Hiroshima Toyo Carp,96,"Nakamura, Shosei",OF,19,1.000,28,0,0,0,,81285136
+2024,Regular Season,Chunichi Dragons,7,"Neo, Akira",P,3,0.800,1,3,1,1,,81285138
+2024,Japan Series,Fukuoka Softbank Hawks,11,"Tsumori, Yuki",P,2,1.000,1,0,0,0,,81285151
+2024,Regular Season,Fukuoka Softbank Hawks,11,"Tsumori, Yuki",P,48,1.000,0,6,0,0,,81285151
+2024,Regular Season,Yokohama DeNA Baystars,15,"Tokuyama, Souma",P,29,1.000,0,6,0,0,,81285155
+2024,Regular Season,Tokyo Yakult Swallows,46,"Ohta, Kengo",OF,13,0.950,18,1,1,0,,81385130
+2024,Regular Season,Tohoku Rakuten Golden Eagles,51,"Ogoh, Yuya",OF,143,0.991,316,6,3,1,,81385138
+2024,Japan Series,Fukuoka Softbank Hawks,62,"Umino, Takashi",C,2,1.000,7,0,0,0,0,81385151
+2024,Regular Season,Fukuoka Softbank Hawks,62,"Umino, Takashi",C,51,0.997,279,19,1,2,2,81385151
+2024,Regular Season,Yomiuri Giants,38,"Okada, Yuki",OF,2,1.000,3,0,0,0,,81385155
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,3,"Katoh, Gosuke",1B,6,1.000,44,3,0,5,,81385157
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,3,"Katoh, Gosuke",2B,3,1.000,5,8,0,3,,81385157
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,3,"Katoh, Gosuke",3B,1,0.000,0,0,0,0,,81385157
+2024,Regular Season,Chiba Lotte Marines,31,"Ohtani, Hikaru",P,1,0.000,0,0,0,0,,81385159
+2024,Regular Season,Orix Buffaloes,9,"Noguchi, Tomoya",2B,2,0.750,3,0,1,0,,81485155
+2024,Regular Season,Orix Buffaloes,9,"Noguchi, Tomoya",OF,10,1.000,17,1,0,0,,81485155
+2024,Regular Season,Orix Buffaloes,9,"Noguchi, Tomoya",SS,3,1.000,1,5,0,0,,81485155
+2024,Regular Season,Yomiuri Giants,12,"Hagio, Masaya",OF,41,0.983,59,0,1,0,,81485157
+2024,Regular Season,Chunichi Dragons,44,"Kawagoe, Seiji",OF,20,0.976,40,1,1,0,,81585132
+2024,Regular Season,Yokohama DeNA Baystars,98,"Kyoda, Yota",1B,36,0.986,65,8,1,5,,81585134
+2024,Regular Season,Yokohama DeNA Baystars,98,"Kyoda, Yota",3B,19,0.912,8,23,3,0,,81585134
+2024,Regular Season,Yokohama DeNA Baystars,98,"Kyoda, Yota",SS,47,0.983,60,114,3,17,,81585134
+2024,Regular Season,Hanshin Tigers,4,"Kumagai, Takahiro",3B,16,1.000,2,2,0,0,,81585136
+2024,Regular Season,Hanshin Tigers,4,"Kumagai, Takahiro",OF,1,1.000,1,0,0,0,,81585136
+2024,Regular Season,Hanshin Tigers,4,"Kumagai, Takahiro",SS,3,1.000,2,5,0,1,,81585136
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,27,"Kamichatani, Taiga",P,1,0.000,0,0,0,0,,81585138
+2024,Regular Season,Yokohama DeNA Baystars,27,"Kamichatani, Taiga",P,18,1.000,2,6,0,0,,81585138
+2024,Regular Season,Chunichi Dragons,1,"Okabayashi, Yuki",OF,117,1.000,227,6,0,3,,81585151
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,57,"Ogata, Riku",OF,3,0.000,0,0,0,0,,81585153
+2024,Japan Series,Fukuoka Softbank Hawks,57,"Ogata, Riku",OF,2,0.000,0,0,0,0,,81585153
+2024,Regular Season,Fukuoka Softbank Hawks,57,"Ogata, Riku",1B,1,1.000,1,0,0,0,,81585153
+2024,Regular Season,Fukuoka Softbank Hawks,57,"Ogata, Riku",OF,76,0.981,53,0,1,0,,81585153
+2024,Regular Season,Hiroshima Toyo Carp,56,"Kubo, Shu",OF,17,1.000,13,0,0,0,,81585157
+2024,Regular Season,Saitama Seibu Lions,17,"Matsumoto, Wataru",P,34,1.000,3,7,0,0,,81685138
+2024,Regular Season,Hanshin Tigers,25,"Watanabe, Ryo",1B,10,1.000,81,6,0,7,,81685139
+2024,Regular Season,Hanshin Tigers,25,"Watanabe, Ryo",2B,1,0.833,1,4,1,0,,81685139
+2024,Regular Season,Hanshin Tigers,25,"Watanabe, Ryo",3B,16,0.909,14,26,4,2,,81685139
+2024,Regular Season,Saitama Seibu Lions,63,"Hasegawa, Shinya",OF,66,0.993,136,2,1,1,,81685153
+2024,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,94,"Fukushima, Ren",P,1,0.000,0,0,0,0,,81685155
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,94,"Fukushima, Ren",P,12,1.000,0,5,0,0,,81685155
+2024,Regular Season,Chunichi Dragons,68,"Fukunaga, Hiroki",1B,17,1.000,106,9,0,13,,81685157
+2024,Regular Season,Chunichi Dragons,68,"Fukunaga, Hiroki",3B,78,0.968,52,132,6,10,,81685157
+2024,Regular Season,Chunichi Dragons,68,"Fukunaga, Hiroki",OF,5,1.000,4,0,0,0,,81685157
+2024,Regular Season,Chunichi Dragons,53,"Gotoh, Shunta",OF,20,1.000,11,0,0,0,,81785133
+2024,Regular Season,Tokyo Yakult Swallows,58,"Sakaguchi, Kousuke",P,2,1.000,0,2,0,0,,81785136
+2024,Regular Season,Saitama Seibu Lions,10,"Satoh, Ryusei",1B,12,1.000,58,3,0,6,,81785138
+2024,Regular Season,Saitama Seibu Lions,10,"Satoh, Ryusei",2B,5,1.000,11,15,0,3,,81785138
+2024,Regular Season,Saitama Seibu Lions,10,"Satoh, Ryusei",3B,63,0.963,38,91,5,7,,81785138
+2024,Climax Series - First Stage,Hokkaido Nippon-Ham Fighters,28,"Kawano, Ryusei",P,3,0.000,0,0,0,0,,81785151
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,28,"Kawano, Ryusei",P,52,1.000,6,8,0,0,,81785151
+2024,Regular Season,Saitama Seibu Lions,22,"Koga, Yuto",C,104,0.997,585,79,2,7,5,81785155
+2024,Climax Series - First Stage,Chiba Lotte Marines,5,"Yasuda, Hisanori",3B,1,1.000,0,2,0,0,,81885136
+2024,Regular Season,Chiba Lotte Marines,5,"Yasuda, Hisanori",1B,28,0.991,196,14,2,20,,81885136
+2024,Regular Season,Chiba Lotte Marines,5,"Yasuda, Hisanori",3B,31,1.000,10,36,0,6,,81885136
+2024,Climax Series - Final Stage,Yomiuri Giants,62,"Yokogawa, Kai",P,1,0.000,0,0,0,0,,81885138
+2024,Regular Season,Yomiuri Giants,62,"Yokogawa, Kai",P,12,0.909,3,7,1,1,,81885138
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,31,"Masaki, Tomoya",OF,3,1.000,2,0,0,0,,81885155
+2024,Japan Series,Fukuoka Softbank Hawks,31,"Masaki, Tomoya",OF,2,1.000,1,0,0,0,,81885155
+2024,Regular Season,Fukuoka Softbank Hawks,31,"Masaki, Tomoya",1B,8,0.969,29,2,1,4,,81885155
+2024,Regular Season,Fukuoka Softbank Hawks,31,"Masaki, Tomoya",OF,71,0.992,119,1,1,0,,81885155
+2024,Climax Series - Final Stage,Yomiuri Giants,23,"Tateoka, Soichiro",OF,2,1.000,1,0,0,0,,81985118
+2024,Regular Season,Yomiuri Giants,23,"Tateoka, Soichiro",OF,36,1.000,39,0,0,0,,81985118
+2024,Climax Series - First Stage,Chiba Lotte Marines,11,"Sawamura, Hirokazu",P,1,0.000,0,0,0,0,,81985133
+2024,Regular Season,Chiba Lotte Marines,11,"Sawamura, Hirokazu",P,39,1.000,0,7,0,0,,81985133
+2024,Regular Season,Tohoku Rakuten Golden Eagles,7,"Suzuki, Daichi",1B,76,1.000,557,41,0,65,,81985135
+2024,Regular Season,Tohoku Rakuten Golden Eagles,7,"Suzuki, Daichi",3B,40,0.957,19,48,3,7,,81985135
+2024,Regular Season,Tokyo Yakult Swallows,41,"Shibata, Daichi",P,1,1.000,0,1,0,0,,81985155
+2024,Regular Season,Orix Buffaloes,17,"Sotani, Ryuhei",P,20,0.875,5,9,2,0,,81985157
+2024,Regular Season,Tohoku Rakuten Golden Eagles,13,"Ponce, Cody",P,15,1.000,5,6,0,0,,83085155
+2024,Regular Season,Orix Buffaloes,8,"Gonzalez, Marwin",1B,6,1.000,17,1,0,0,,83085157
+2024,Regular Season,Orix Buffaloes,8,"Gonzalez, Marwin",2B,20,0.965,30,52,3,10,,83085157
+2024,Regular Season,Orix Buffaloes,8,"Gonzalez, Marwin",3B,1,1.000,1,0,0,0,,83085157
+2024,Regular Season,Orix Buffaloes,8,"Gonzalez, Marwin",SS,1,0.000,0,0,0,0,,83085157
+2024,Regular Season,Orix Buffaloes,19,"Yamaoka, Taisuke",P,6,0.000,0,0,0,0,,83185134
+2024,Regular Season,Chunichi Dragons,30,"Miyoshi, Hironori",OF,28,0.984,60,0,1,0,,83185153
+2024,Regular Season,Chunichi Dragons,43,"Miya, Taisei",C,2,1.000,4,1,0,0,0,83185155
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,36,"Miyazaki, Kazuki",OF,2,0.000,0,0,0,0,,83185159
+2024,Regular Season,Chunichi Dragons,93,"Feliz, Michael",P,17,1.000,1,3,0,0,,83285157
+2024,Regular Season,Saitama Seibu Lions,32,"Yamamura, Takayoshi",1B,28,0.984,229,12,4,19,,83385153
+2024,Regular Season,Saitama Seibu Lions,32,"Yamamura, Takayoshi",3B,25,0.935,16,42,4,1,,83385153
+2024,Regular Season,Saitama Seibu Lions,32,"Yamamura, Takayoshi",OF,6,1.000,10,1,0,0,,83385153
+2024,Regular Season,Orix Buffaloes,34,"Yokoyama, Seiya",3B,10,0.870,4,16,3,0,,83385159
+2024,Regular Season,Orix Buffaloes,34,"Yokoyama, Seiya",SS,1,1.000,1,4,0,0,,83385159
+2024,Regular Season,Saitama Seibu Lions,78,"Garcia, Anthony",OF,5,0.938,15,0,1,0,,83585159
+2024,Climax Series - Final Stage,Yomiuri Giants,53,"Takanashi, Yuhei",P,4,0.000,0,0,0,0,,91095134
+2024,Regular Season,Yomiuri Giants,53,"Takanashi, Yuhei",P,51,0.938,2,13,1,1,,91095134
+2024,Regular Season,Chunichi Dragons,3,"Takahashi, Shuhei",3B,49,0.906,19,68,9,1,,91095135
+2024,Climax Series - First Stage,Hanshin Tigers,29,"Takahashi, Haruto",P,1,0.000,0,0,0,0,,91095136
+2024,Regular Season,Hanshin Tigers,29,"Takahashi, Haruto",P,5,1.000,1,4,0,2,,91095136
+2024,Regular Season,Yokohama DeNA Baystars,60,"Chino, Naoto",1B,7,1.000,9,1,0,0,,91095138
+2024,Regular Season,Yokohama DeNA Baystars,60,"Chino, Naoto",2B,2,1.000,2,4,0,2,,91095138
+2024,Regular Season,Yokohama DeNA Baystars,60,"Chino, Naoto",3B,3,1.000,1,2,0,0,,91095138
+2024,Regular Season,Yokohama DeNA Baystars,39,"Nishiura, Naomichi",2B,2,1.000,6,4,0,1,,91095139
+2024,Regular Season,Yokohama DeNA Baystars,39,"Nishiura, Naomichi",3B,2,0.000,0,0,2,0,,91095139
+2024,Regular Season,Yokohama DeNA Baystars,39,"Nishiura, Naomichi",SS,3,1.000,1,3,0,0,,91095139
+2024,Regular Season,Fukuoka Softbank Hawks,30,"Satoh, Naoki",OF,42,0.982,51,3,1,1,,91095151
+2024,Japan Series,Fukuoka Softbank Hawks,44,"Sasagawa, Yoshiyasu",OF,2,1.000,4,1,0,0,,91095153
+2024,Regular Season,Fukuoka Softbank Hawks,44,"Sasagawa, Yoshiyasu",OF,7,1.000,14,0,0,0,,91095153
+2024,Regular Season,Yomiuri Giants,48,"Tanaka, Chiharu",P,3,1.000,1,1,0,0,,91095157
+2024,Regular Season,Saitama Seibu Lions,47,"Sugiyama, Haruki",P,1,0.000,0,0,2,0,,91095159
+2024,Regular Season,Chunichi Dragons,58,"Ishibashi, Kota",C,10,0.983,58,1,1,0,0,91195138
+2024,Regular Season,Chunichi Dragons,25,"Ishikawa, Takaya",1B,52,1.000,400,29,0,30,,91195151
+2024,Regular Season,Chunichi Dragons,25,"Ishikawa, Takaya",3B,14,0.974,4,33,1,1,,91195151
+2024,Climax Series - Final Stage,Yomiuri Giants,51,"Asano, Shogo",OF,1,1.000,2,0,0,0,,91195157
+2024,Regular Season,Yomiuri Giants,51,"Asano, Shogo",OF,40,0.948,54,1,3,0,,91195157
+2024,Regular Season,Yokohama DeNA Baystars,44,"Ishikami, Taiki",3B,4,1.000,1,2,0,0,,91195159
+2024,Regular Season,Yokohama DeNA Baystars,44,"Ishikami, Taiki",SS,22,0.957,42,48,4,13,,91195159
+2024,Regular Season,Saitama Seibu Lions,66,"Tysinger, Brandon Taiga",3B,3,0.750,1,2,1,0,,91295153
+2024,Regular Season,Orix Buffaloes,25,"Naito, Ho",1B,1,1.000,6,0,0,1,,91295157
+2024,Regular Season,Chiba Lotte Marines,46,"Iwashita, Daiki",P,21,1.000,3,1,0,0,,91395130
+2024,Regular Season,Chunichi Dragons,63,"Itayama, Yutaro",1B,13,0.976,39,2,1,5,,91395132
+2024,Regular Season,Chunichi Dragons,63,"Itayama, Yutaro",2B,46,0.994,70,110,1,20,,91395132
+2024,Regular Season,Chunichi Dragons,63,"Itayama, Yutaro",3B,2,0.000,0,0,0,0,,91395132
+2024,Regular Season,Chunichi Dragons,63,"Itayama, Yutaro",OF,13,1.000,16,2,0,0,,91395132
+2024,Regular Season,Orix Buffaloes,31,"Ohta, Ryo",1B,58,0.997,296,19,1,24,,91395138
+2024,Regular Season,Orix Buffaloes,31,"Ohta, Ryo",2B,54,0.976,88,116,5,24,,91395138
+2024,Regular Season,Orix Buffaloes,31,"Ohta, Ryo",3B,3,0.875,2,5,1,0,,91395138
+2024,Regular Season,Chunichi Dragons,51,"Uebayashi, Seiji",OF,34,1.000,41,1,0,0,,91395139
+2024,Regular Season,Yomiuri Giants,52,"Itoh, Yusuke",P,8,1.000,0,1,0,0,,91395153
+2024,Regular Season,Saitama Seibu Lions,11,"Ueda, Taiga",P,17,1.000,1,2,0,0,,91395159
+2024,Regular Season,Orix Buffaloes,5,"Nishino, Masahiro",2B,43,0.989,70,104,2,27,,91495130
+2024,Regular Season,Orix Buffaloes,5,"Nishino, Masahiro",3B,41,0.974,19,57,2,8,,91495130
+2024,Regular Season,Hanshin Tigers,57,"Nagasaka, Kenya",C,4,1.000,5,2,0,0,0,91495134
+2024,Regular Season,Chiba Lotte Marines,40,"Nishimura, Takahiro",P,17,1.000,2,1,0,1,,91495136
+2024,Regular Season,Tokyo Yakult Swallows,51,"Hamada, Taiki",OF,8,1.000,13,1,0,0,,91495138
+2024,Regular Season,Orix Buffaloes,4,"Mori, Tomoya",C,50,0.997,339,34,1,2,2,91495139
+2024,Regular Season,Orix Buffaloes,4,"Mori, Tomoya",OF,14,1.000,19,0,0,0,,91495139
+2024,Regular Season,Hanshin Tigers,15,"Nishi, Junya",P,4,0.750,1,2,1,0,,91495151
+2024,Regular Season,Fukuoka Softbank Hawks,69,"Nakata, Keisuke",2B,10,1.000,6,9,0,2,,91495155
+2024,Regular Season,Fukuoka Softbank Hawks,69,"Nakata, Keisuke",3B,1,1.000,0,1,0,0,,91495155
+2024,Regular Season,Fukuoka Softbank Hawks,69,"Nakata, Keisuke",OF,3,1.000,1,0,0,0,,91495155
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,19,"Kai, Takuya",C,3,1.000,26,3,0,1,0,91595133
+2024,Japan Series,Fukuoka Softbank Hawks,19,"Kai, Takuya",C,5,1.000,38,1,0,0,0,91595133
+2024,Regular Season,Fukuoka Softbank Hawks,19,"Kai, Takuya",C,117,0.999,826,72,1,5,4,91595133
+2024,Regular Season,Tokyo Yakult Swallows,49,"Kayama, Shinya",P,9,1.000,0,3,0,1,,91595135
+2024,Climax Series - Final Stage,Yomiuri Giants,27,"Kishida, Yukinori",C,4,1.000,34,9,0,0,0,91595136
+2024,Regular Season,Yomiuri Giants,27,"Kishida, Yukinori",C,79,0.995,519,77,3,5,6,91595136
+2024,Regular Season,Chiba Lotte Marines,39,"Ohshita, Seiichiro",1B,11,1.000,22,3,0,2,,91595151
+2024,Regular Season,Chiba Lotte Marines,39,"Ohshita, Seiichiro",3B,5,1.000,1,2,0,0,,91595151
+2024,Regular Season,Tokyo Yakult Swallows,33,"Uchiyama, Souma",C,17,1.000,73,10,0,1,1,91595153
+2024,Regular Season,Tokyo Yakult Swallows,33,"Uchiyama, Souma",OF,2,1.000,1,0,0,0,,91595153
+2024,Climax Series - First Stage,Chiba Lotte Marines,28,"Kikuchi, Riku",P,1,0.000,0,0,0,0,,91595157
+2024,Regular Season,Chiba Lotte Marines,28,"Kikuchi, Riku",P,20,1.000,0,4,0,0,,91595157
+2024,Regular Season,Saitama Seibu Lions,25,"Hirai, Katsunori",P,13,1.000,1,0,0,0,,91695134
+2024,Regular Season,Tokyo Yakult Swallows,0,"Namiki, Hidetaka",OF,27,0.968,28,2,1,0,,91695153
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,00,"Hayashi, Takuma",2B,1,1.000,0,2,0,0,,91695157
+2024,Japan Series,Yokohama DeNA Baystars,00,"Hayashi, Takuma",2B,3,0.000,0,0,0,0,,91695157
+2024,Regular Season,Yokohama DeNA Baystars,00,"Hayashi, Takuma",2B,22,1.000,24,23,0,8,,91695157
+2024,Regular Season,Yokohama DeNA Baystars,00,"Hayashi, Takuma",3B,2,0.000,0,0,0,0,,91695157
+2024,Regular Season,Yokohama DeNA Baystars,00,"Hayashi, Takuma",SS,34,0.973,42,65,3,18,,91695157
+2024,Regular Season,Tohoku Rakuten Golden Eagles,11,"Kishi, Takayuki",P,22,0.947,6,12,1,3,,91795114
+2024,Regular Season,Yomiuri Giants,37,"Kohri, Takuya",1B,2,1.000,4,0,0,1,,91795134
+2024,Climax Series - Final Stage,Yomiuri Giants,22,"Kobayashi, Seiji",C,2,1.000,6,3,0,1,0,91795139
+2024,Regular Season,Yomiuri Giants,22,"Kobayashi, Seiji",C,41,0.996,224,22,1,3,2,91795139
+2024,Regular Season,Hanshin Tigers,37,"Oyokawa, Masaki",P,9,1.000,1,5,0,0,,91795151
+2024,Regular Season,Yomiuri Giants,014,"Kyomoto, Makoto",P,4,0.000,0,0,0,0,,91795155
+2024,Regular Season,Tokyo Yakult Swallows,1,"Yamada, Tetsuto",2B,102,0.989,201,264,5,58,,91895133
+2024,Regular Season,Chiba Lotte Marines,51,"Yamaguchi, Koki",1B,1,1.000,6,1,0,1,,91895138
+2024,Regular Season,Chiba Lotte Marines,51,"Yamaguchi, Koki",OF,47,0.975,76,1,2,0,,91895138
+2024,Regular Season,Hiroshima Toyo Carp,99,"Futamata, Shoichi",1B,6,1.000,23,5,0,2,,91895153
+2024,Regular Season,Hiroshima Toyo Carp,99,"Futamata, Shoichi",2B,9,1.000,12,15,0,6,,91895153
+2024,Regular Season,Hiroshima Toyo Carp,99,"Futamata, Shoichi",3B,21,0.929,4,9,1,0,,91895153
+2024,Regular Season,Hiroshima Toyo Carp,99,"Futamata, Shoichi",OF,20,1.000,24,0,0,0,,91895153
+2024,Regular Season,Hiroshima Toyo Carp,99,"Futamata, Shoichi",SS,11,0.933,6,8,1,0,,91895153
+2024,Regular Season,Saitama Seibu Lions,65,"Furuichi, Takeru",C,4,1.000,11,1,0,0,1,91895155
+2024,Regular Season,Hiroshima Toyo Carp,26,"Masuda, Takehisa",P,10,1.000,0,1,0,0,,91895157
+2024,Regular Season,Saitama Seibu Lions,27,"Sumitani, Ginjiro",C,48,0.996,224,20,1,0,3,91995112
+2024,Regular Season,Orix Buffaloes,41,"Sano, Kodai",OF,3,0.000,0,0,0,0,,91995130
+2024,Climax Series - Final Stage,Yomiuri Giants,7,"Chono, Hisayoshi",OF,2,1.000,1,0,0,0,,91995131
+2024,Regular Season,Yomiuri Giants,7,"Chono, Hisayoshi",OF,19,1.000,30,0,0,0,,91995131
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,7,"Sano, Keita",OF,6,1.000,10,0,0,0,,91995134
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,7,"Sano, Keita",OF,2,1.000,6,0,0,0,,91995134
+2024,Japan Series,Yokohama DeNA Baystars,7,"Sano, Keita",1B,4,1.000,28,3,0,2,,91995134
+2024,Japan Series,Yokohama DeNA Baystars,7,"Sano, Keita",OF,1,1.000,2,0,0,0,,91995134
+2024,Regular Season,Yokohama DeNA Baystars,7,"Sano, Keita",1B,34,0.996,256,28,1,28,,91995134
+2024,Regular Season,Yokohama DeNA Baystars,7,"Sano, Keita",OF,103,0.994,151,3,1,0,,91995134
+2024,Regular Season,Hanshin Tigers,53,"Shimada, Kairi",OF,52,0.970,64,0,2,0,,91995136
+2024,Climax Series - Final Stage,Fukuoka Softbank Hawks,40,"Sugiyama, Kazuki",P,2,0.000,0,0,0,0,,91995138
+2024,Japan Series,Fukuoka Softbank Hawks,40,"Sugiyama, Kazuki",P,3,0.000,0,0,0,0,,91995138
+2024,Regular Season,Fukuoka Softbank Hawks,40,"Sugiyama, Kazuki",P,50,0.875,1,6,1,0,,91995138
+2024,Regular Season,Chunichi Dragons,33,"Sobue, Daisuke",P,28,0.833,3,2,1,0,,91995139
+2024,Regular Season,Orix Buffaloes,24,"Kurebayashi, Kotaro",3B,1,1.000,0,1,0,0,,91995151
+2024,Regular Season,Orix Buffaloes,24,"Kurebayashi, Kotaro",SS,136,0.990,214,373,6,74,,91995151
+2024,Regular Season,Hiroshima Toyo Carp,20,"Kuribayashi, Ryoji",P,60,0.909,4,6,1,0,,91995153
+2024,Regular Season,Fukuoka Softbank Hawks,38,"Sawayanagi, Ryotaro",P,11,1.000,0,1,0,0,,91995159
+2024,Regular Season,Yomiuri Giants,65,"Mendez, Yohander",P,2,0.667,0,2,1,0,,93095157
+2024,Regular Season,Hiroshima Toyo Carp,10,"Reynolds, Matt",3B,2,1.000,0,2,0,0,,93095159
+2024,Regular Season,Chunichi Dragons,60,"Yamamoto, Yasuhiro",1B,1,1.000,2,0,0,0,,93195132
+2024,Regular Season,Chunichi Dragons,60,"Yamamoto, Yasuhiro",2B,30,0.985,63,66,2,12,,93195132
+2024,Regular Season,Chunichi Dragons,60,"Yamamoto, Yasuhiro",3B,14,1.000,3,10,0,2,,93195132
+2024,Regular Season,Chunichi Dragons,60,"Yamamoto, Yasuhiro",SS,30,0.965,28,55,3,13,,93195132
+2024,Climax Series - Final Stage,Yokohama DeNA Baystars,45,"Morihara, Kohei",P,3,0.000,0,0,0,0,,93195134
+2024,Climax Series - First Stage,Yokohama DeNA Baystars,45,"Morihara, Kohei",P,1,0.000,0,0,0,0,,93195134
+2024,Japan Series,Yokohama DeNA Baystars,45,"Morihara, Kohei",P,2,0.000,0,0,0,0,,93195134
+2024,Regular Season,Yokohama DeNA Baystars,45,"Morihara, Kohei",P,58,1.000,5,13,0,0,,93195134
+2024,Regular Season,Tokyo Yakult Swallows,43,"Yamamoto, Daiki",P,44,1.000,1,4,0,0,,93195136
+2024,Regular Season,Yokohama DeNA Baystars,40,"Matsumoto, Ryunosuke",P,1,1.000,0,1,0,0,,93195153
+2024,Regular Season,Tokyo Yakult Swallows,4,"Maruyama, Kazuya",OF,93,0.980,144,4,3,1,,93195155
+2024,Regular Season,Chunichi Dragons,91,"Mejia, Humberto",P,15,0.917,1,10,1,2,,93295157
+2024,Regular Season,Hiroshima Toyo Carp,61,"Yano, Masaya",2B,13,0.944,29,22,3,5,,93395153
+2024,Regular Season,Hiroshima Toyo Carp,61,"Yano, Masaya",SS,132,0.985,199,389,9,74,,93395153
+2024,Regular Season,Hiroshima Toyo Carp,16,"Mori, Shohei",P,5,1.000,3,10,0,0,,93395155
+2024,Regular Season,Chunichi Dragons,57,"Yamaasa, Ryunosuke",C,3,1.000,5,0,0,0,0,93395157
+2024,Regular Season,Saitama Seibu Lions,99,"Murata, Reon",1B,2,1.000,11,1,0,2,,93395159
+2024,Regular Season,Chunichi Dragons,99,"Calixte, Orlando",1B,28,0.995,173,10,1,12,,93795157
+2024,Regular Season,Chunichi Dragons,99,"Calixte, Orlando",3B,18,0.895,9,25,4,3,,93795157
+2024,Regular Season,Chunichi Dragons,99,"Calixte, Orlando",OF,61,0.975,115,3,3,0,,93795157
+2024,Regular Season,Hokkaido Nippon-Ham Fighters,42,"Zabala, Aneurys",P,16,0.500,1,1,2,0,,93795159
+2024,Regular Season,Hiroshima Toyo Carp,42,"Hatch, Thomas",P,5,1.000,2,0,0,0,,93995159

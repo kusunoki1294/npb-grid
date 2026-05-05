@@ -1,0 +1,782 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+2008,Regular Season,Tohoku Rakuten Golden Eagles,44,"Nakatani, Jin",C,4,1.000,13,2,0,0,0,01003886
+2008,Regular Season,Orix Buffaloes,46,"Furuki, Katsuaki",OF,8,1.000,11,0,0,0,,01003888
+2008,Regular Season,Saitama Seibu Lions,3,"Nakajima, Hiroyuki",3B,4,1.000,0,1,0,0,,01005113
+2008,Regular Season,Saitama Seibu Lions,3,"Nakajima, Hiroyuki",SS,122,0.979,204,359,12,79,,01005113
+2008,Regular Season,Yokohama BayStars,22,"Takasaki, Kentaro",P,11,1.000,1,3,0,0,,01005114
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,67,"Toyoshima, Akiyoshi",P,2,0.000,0,0,0,0,,01005116
+2008,Regular Season,Tokyo Yakult Swallows,41,"Takai, Yuhei",P,1,0.000,0,0,0,0,,01005117
+2008,Regular Season,Tohoku Rakuten Golden Eagles,8,"Isobe, Koichi",OF,37,0.983,57,2,1,0,,01103884
+2008,Regular Season,Hanshin Tigers,25,"Arai, Takahiro",1B,91,0.999,818,59,1,75,,01103888
+2008,Regular Season,Hanshin Tigers,25,"Arai, Takahiro",3B,1,1.000,1,0,0,0,,01103888
+2008,Regular Season,Tohoku Rakuten Golden Eagles,21,"Iwakuma, Hisashi",P,28,0.963,11,41,2,4,,01105111
+2008,Regular Season,Chunichi Dragons,25,"Arai, Ryota",1B,4,1.000,8,0,0,1,,01105112
+2008,Regular Season,Hiroshima Toyo Carp,49,"Amaya, Soichiro",OF,127,0.984,184,5,3,1,,01105115
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Inada, Naoto",1B,17,0.972,65,5,2,12,,01105119
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Inada, Naoto",3B,79,0.981,32,74,2,0,,01105119
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Inada, Naoto",SS,3,1.000,1,1,0,0,,01105119
+2008,Regular Season,Yomiuri Giants,37,"Fujita, Soichi",P,39,0.778,0,7,2,0,,01203886
+2008,Regular Season,Chiba Lotte Marines,65,"Minami, Ryusuke",OF,19,1.000,23,0,0,0,,01205111
+2008,Regular Season,Chiba Lotte Marines,32,"Nemoto, Shunichi",2B,85,0.984,164,202,6,37,,01205112
+2008,Regular Season,Chiba Lotte Marines,32,"Nemoto, Shunichi",3B,2,1.000,3,4,0,0,,01205112
+2008,Regular Season,Chiba Lotte Marines,32,"Nemoto, Shunichi",SS,16,0.940,18,29,3,9,,01205112
+2008,Regular Season,Hanshin Tigers,15,"Fujita, Taiyo",P,6,0.000,0,0,0,0,,01205113
+2008,Regular Season,Chunichi Dragons,1,"Donoue, Naomichi",3B,2,0.000,0,0,0,0,,01205114
+2008,Regular Season,Yomiuri Giants,13,"Hayashi, Masanori",P,11,0.000,0,0,0,0,,01205115
+2008,Regular Season,Tohoku Rakuten Golden Eagles,20,"Hasebe, Kohei",P,13,1.000,3,13,0,3,,01205116
+2008,Regular Season,Hiroshima Toyo Carp,20,"Nagakawa, Katsuhiro",P,56,1.000,3,11,0,0,,01205117
+2008,Regular Season,Saitama Seibu Lions,17,"Yamazaki, Satoshi",P,3,1.000,0,1,0,0,,01205119
+2008,Regular Season,Tohoku Rakuten Golden Eagles,7,"Yamasaki, Takeshi",1B,22,0.987,148,7,2,12,,01303868
+2008,Regular Season,Yomiuri Giants,27,"Kadokura, Ken",P,11,1.000,0,2,0,0,,01303882
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,9,"Oda, Tomoyuki",1B,40,1.000,244,8,0,15,,01303886
+2008,Regular Season,Saitama Seibu Lions,7,"Kataoka, Yasuyuki",2B,128,0.985,315,388,11,78,,01305110
+2008,Regular Season,Saitama Seibu Lions,7,"Kataoka, Yasuyuki",SS,15,1.000,12,19,0,4,,01305110
+2008,Regular Season,Hiroshima Toyo Carp,27,"Uemura, Kazuhiro",C,2,1.000,5,1,0,0,0,01305113
+2008,Regular Season,Hiroshima Toyo Carp,19,"Ueno, Hirofumi",P,42,1.000,2,7,0,0,,01305114
+2008,Regular Season,Chiba Lotte Marines,8,"Imae, Toshiaki",3B,117,0.978,98,174,6,4,,01305115
+2008,Regular Season,Yokohama BayStars,58,"Ota, Atori",P,5,1.000,0,1,0,0,,01305116
+2008,Regular Season,Hanshin Tigers,26,"Egusa, Hirotaka",P,55,1.000,1,13,0,0,,01305117
+2008,Regular Season,Orix Buffaloes,17,"Katsuki, Ryota",P,32,0.917,1,10,1,1,,01305119
+2008,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,23,0.943,6,27,2,3,,01403862
+2008,Regular Season,Tokyo Yakult Swallows,57,"Maruyama, Takashi",P,7,0.000,0,0,0,0,,01405110
+2008,Regular Season,Orix Buffaloes,48,"Yoshino, Makoto",P,43,1.000,1,6,0,1,,01405111
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,43,"Hoshino, Yachiho",P,23,1.000,1,4,0,0,,01405112
+2008,Regular Season,Tokyo Yakult Swallows,54,"Saito, Takayuki",OF,2,1.000,2,0,0,0,,01503880
+2008,Regular Season,Chunichi Dragons,24,"Kuramoto, Hidenori",OF,69,0.976,39,1,1,1,,01503888
+2008,Regular Season,Tohoku Rakuten Golden Eagles,0,"Sato, Hiroshi",P,1,1.000,0,1,0,0,,01505111
+2008,Regular Season,Chiba Lotte Marines,1,"Ohmine, Yuta",P,7,1.000,2,6,0,0,,01505114
+2008,Regular Season,Tokyo Yakult Swallows,16,"Kato, Mikinori",P,8,1.000,2,7,0,0,,01505116
+2008,Regular Season,Saitama Seibu Lions,56,"Kurose, Haruki",SS,15,0.926,20,30,4,4,,01505119
+2008,Regular Season,Saitama Seibu Lions,23,"Ming-Chieh, Hsu",P,17,1.000,1,6,0,1,,01605111
+2008,Regular Season,Yokohama BayStars,34,"Mitsuhashi, Naoki",P,12,1.000,0,1,0,0,,01605112
+2008,Regular Season,Yomiuri Giants,64,"Matsumoto, Tetsuya",OF,2,1.000,2,0,0,0,,01605114
+2008,Regular Season,Orix Buffaloes,67,"Yokoyama, Tetsuya",C,2,1.000,2,0,0,0,0,01605117
+2008,Regular Season,Chunichi Dragons,39,"Shimizu, Masaumi",C,16,1.000,46,7,0,0,1,01703884
+2008,Regular Season,Tohoku Rakuten Golden Eagles,12,"Kusano, Daisuke",2B,11,1.000,20,19,0,3,,01705112
+2008,Regular Season,Tohoku Rakuten Golden Eagles,12,"Kusano, Daisuke",3B,99,0.979,52,132,4,13,,01705112
+2008,Regular Season,Tohoku Rakuten Golden Eagles,12,"Kusano, Daisuke",SS,1,0.000,0,0,0,0,,01705112
+2008,Regular Season,Hanshin Tigers,51,"Sakurai, Kodai",OF,9,0.889,8,0,1,0,,01705115
+2008,Regular Season,Yokohama BayStars,14,"Kobayashi, Futoshi",P,31,1.000,10,23,0,4,,01705116
+2008,Regular Season,Hiroshima Toyo Carp,66,"Kimura, Shogo",2B,4,1.000,5,6,0,2,,01705117
+2008,Regular Season,Hiroshima Toyo Carp,66,"Kimura, Shogo",3B,53,0.946,14,21,2,2,,01705117
+2008,Regular Season,Hiroshima Toyo Carp,66,"Kimura, Shogo",SS,25,0.981,20,31,1,6,,01705117
+2008,Regular Season,Orix Buffaloes,54,"Shimamura, Ikki",2B,31,0.994,64,94,1,14,,01705119
+2008,Regular Season,Orix Buffaloes,54,"Shimamura, Ikki",3B,13,1.000,5,11,0,1,,01705119
+2008,Regular Season,Orix Buffaloes,54,"Shimamura, Ikki",OF,1,0.000,0,0,0,0,,01705119
+2008,Regular Season,Orix Buffaloes,54,"Shimamura, Ikki",SS,1,1.000,2,2,0,1,,01705119
+2008,Regular Season,Tohoku Rakuten Golden Eagles,25,"Yokogawa, Fuminori",OF,48,0.987,75,2,1,2,,01805114
+2008,Regular Season,Hiroshima Toyo Carp,25,"Seabol, Scott",1B,3,1.000,3,0,0,0,,01805116
+2008,Regular Season,Hiroshima Toyo Carp,25,"Seabol, Scott",3B,108,0.948,64,190,14,19,,01805116
+2008,Regular Season,Saitama Seibu Lions,69,"Taninaka, Shinji",P,11,1.000,4,2,0,0,,01903884
+2008,Regular Season,Yomiuri Giants,7,"Nioka, Tomohiro",3B,25,0.914,12,52,6,2,,01903888
+2008,Regular Season,Yomiuri Giants,7,"Nioka, Tomohiro",SS,1,1.000,2,2,0,1,,01903888
+2008,Regular Season,Tohoku Rakuten Golden Eagles,37,"Shima, Motohiro",C,85,0.991,526,49,5,7,7,01905114
+2008,Regular Season,Chunichi Dragons,63,"Donoe, Takehiro",OF,1,1.000,1,0,0,0,,01905119
+2008,Regular Season,Saitama Seibu Lions,54,"Graman, Alex",P,55,0.938,3,12,1,1,,03105112
+2008,Regular Season,Yomiuri Giants,29,"Greisinger, Seth",P,31,0.932,10,31,3,1,,03105114
+2008,Regular Season,Hiroshima Toyo Carp,11,"Lewis, Colby",P,26,0.893,4,21,3,1,,03105116
+2008,Regular Season,Orix Buffaloes,50,"Ortiz, Ramon",P,17,0.875,4,10,2,2,,03305116
+2008,Regular Season,Tohoku Rakuten Golden Eagles,17,"Fernandez, Jose",1B,114,0.991,803,74,8,65,,03305117
+2008,Regular Season,Tohoku Rakuten Golden Eagles,17,"Fernandez, Jose",3B,51,0.912,29,64,9,3,,03305117
+2008,Regular Season,Tohoku Rakuten Golden Eagles,17,"Fernandez, Jose",OF,1,0.000,0,0,0,0,,03305117
+2008,Regular Season,Orix Buffaloes,7,"Hamanaka, Osamu",OF,70,0.973,106,1,3,1,,11013884
+2008,Regular Season,Fukuoka Softbank Hawks,25,"Matoyama, Tetsuya",C,40,0.996,221,16,1,4,2,11013889
+2008,Regular Season,Yokohama BayStars,15,"Takamiya, Kazuya",P,10,1.000,0,1,0,0,,11015112
+2008,Regular Season,Orix Buffaloes,37,"Tsuji, Toshiya",C,8,0.976,37,4,1,1,0,11015115
+2008,Regular Season,Chiba Lotte Marines,17,"Naruse, Yoshihisa",P,22,0.913,3,18,2,2,,11015119
+2008,Regular Season,Hiroshima Toyo Carp,23,"Yokoyama, Ryuji",P,38,1.000,2,9,0,0,,11213880
+2008,Regular Season,Hiroshima Toyo Carp,53,"Hayashi, Masaki",P,17,1.000,1,6,0,2,,11213886
+2008,Regular Season,Yomiuri Giants,39,"Yoshitake, Shintaro",P,3,0.000,0,0,0,0,,11213889
+2008,Regular Season,Hanshin Tigers,34,"Hashimoto, Kentaro",P,10,1.000,1,1,0,1,,11215110
+2008,Regular Season,Saitama Seibu Lions,22,"Noda, Kosuke",C,8,1.000,20,0,0,0,0,11215113
+2008,Regular Season,Tohoku Rakuten Golden Eagles,18,"Tanaka, Masahiro",P,25,0.943,5,28,2,2,,11215114
+2008,Regular Season,Yokohama BayStars,53,"Nonaka, Shingo",2B,15,1.000,11,20,0,3,,11215115
+2008,Regular Season,Yokohama BayStars,53,"Nonaka, Shingo",SS,11,1.000,5,25,0,2,,11215115
+2008,Regular Season,Fukuoka Softbank Hawks,14,"Mahara, Takahiro",P,21,1.000,1,2,0,0,,11215119
+2008,Regular Season,Tohoku Rakuten Golden Eagles,13,"Ogura, Hisashi",P,8,0.000,0,0,0,0,,11313887
+2008,Regular Season,Yomiuri Giants,19,"Uehara, Koji",P,26,1.000,3,15,0,0,,11313888
+2008,Regular Season,Fukuoka Softbank Hawks,7,"Omura, Naoyuki",OF,62,1.000,81,1,0,1,,11313889
+2008,Regular Season,Fukuoka Softbank Hawks,8,"Egawa, Tomoaki",OF,2,1.000,2,0,0,0,,11315110
+2008,Regular Season,Saitama Seibu Lions,35,"Iwasaki, Tetsuya",P,20,1.000,0,3,0,0,,11315114
+2008,Regular Season,Tokyo Yakult Swallows,19,"Ishikawa, Masanori",P,30,0.977,9,34,1,1,,11315115
+2008,Regular Season,Chiba Lotte Marines,30,"Ito, Yoshihiro",P,51,1.000,6,9,0,0,,11315116
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,36,"Nakamura, Micheal",P,46,1.000,3,1,0,0,,11415110
+2008,Regular Season,Yokohama BayStars,27,"Yamakita, Shigetoshi",P,32,1.000,3,6,0,1,,11415111
+2008,Regular Season,Saitama Seibu Lions,53,"Miura, Taka",1B,5,1.000,22,2,0,2,,11415113
+2008,Regular Season,Saitama Seibu Lions,53,"Miura, Taka",OF,1,1.000,1,0,0,0,,11415113
+2008,Regular Season,Chunichi Dragons,40,"Nishikawa, Akira",2B,3,1.000,5,3,0,0,,11415114
+2008,Regular Season,Tokyo Yakult Swallows,37,"Fukukawa, Masakazu",C,105,0.989,489,49,6,3,7,11415115
+2008,Regular Season,Orix Buffaloes,11,"Kawagoe, Hidetaka",P,51,0.905,1,18,2,2,,11513888
+2008,Regular Season,Chunichi Dragons,17,"Kawai, Yudai",P,14,1.000,11,12,0,2,,11515110
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,37,"Oyama, Keiji",C,23,0.968,52,8,2,1,0,11515112
+2008,Regular Season,Saitama Seibu Lions,12,"Okamoto, Shinya",P,47,1.000,3,3,0,0,,11515113
+2008,Regular Season,Saitama Seibu Lions,0,"Osaki, Yutaro",OF,4,1.000,6,0,0,0,,11515114
+2008,Regular Season,Hiroshima Toyo Carp,17,"Ohtake, Kan",P,28,1.000,8,38,0,2,,11515115
+2008,Regular Season,Orix Buffaloes,41,"Oze, Hiroyuki",OF,58,0.988,82,0,1,0,,11515116
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,23,"Ozaki, Masaya",1B,1,1.000,2,0,0,0,,11515117
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,23,"Ozaki, Masaya",3B,5,1.000,1,5,0,0,,11515117
+2008,Regular Season,Tokyo Yakult Swallows,17,"Kawashima, Ryo",P,20,0.966,5,23,1,0,,11515119
+2008,Regular Season,Orix Buffaloes,3,"Muramatsu, Arihito",OF,70,1.000,120,2,0,1,,11613883
+2008,Regular Season,Saitama Seibu Lions,36,"Yamagishi, Minoru",P,4,0.000,0,0,0,0,,11615110
+2008,Regular Season,Tokyo Yakult Swallows,44,"Matsui, Kosuke",P,27,1.000,6,12,0,0,,11615112
+2008,Regular Season,Orix Buffaloes,34,"Motoyanagi, Kazuya",P,58,1.000,1,8,0,0,,11615115
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,51,"Murata, Kazuya",OF,13,0.962,25,0,1,0,,11615116
+2008,Regular Season,Tokyo Yakult Swallows,10,"Shiroishi, Noriyuki",1B,1,1.000,1,0,0,0,,11713880
+2008,Regular Season,Tokyo Yakult Swallows,10,"Shiroishi, Noriyuki",3B,34,1.000,3,14,0,1,,11713880
+2008,Regular Season,Tokyo Yakult Swallows,10,"Shiroishi, Noriyuki",SS,7,0.938,5,10,1,3,,11713880
+2008,Regular Season,Saitama Seibu Lions,25,"Shotsu, Eiji",P,32,1.000,0,6,0,1,,11713886
+2008,Regular Season,Hiroshima Toyo Carp,51,"Suenaga, Masafumi",OF,1,1.000,1,0,0,0,,11715111
+2008,Regular Season,Hanshin Tigers,99,"Kano, Keisuke",C,6,1.000,12,5,0,0,0,11715113
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,40,"Kaneko, Yohei",1B,1,1.000,1,0,0,1,,11715114
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,40,"Kaneko, Yohei",OF,2,1.000,4,0,0,0,,11715114
+2008,Regular Season,Tokyo Yakult Swallows,12,"Imu, Chanyon",P,54,1.000,1,6,0,2,,11815116
+2008,Regular Season,Fukuoka Softbank Hawks,21,"Wada, Tsuyoshi",P,23,0.966,2,26,1,0,,11815117
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,3,"Tanaka, Kensuke",2B,144,0.989,322,455,9,82,,11915111
+2008,Regular Season,Chunichi Dragons,50,"Sato, Ryota",P,4,0.000,0,0,0,0,,11915112
+2008,Regular Season,Hiroshima Toyo Carp,14,"Shinoda, Junpei",P,15,1.000,6,14,0,1,,11915116
+2008,Regular Season,Saitama Seibu Lions,6,"Goto, Taketoshi",1B,7,1.000,27,0,0,2,,11915117
+2008,Regular Season,Saitama Seibu Lions,6,"Goto, Taketoshi",OF,28,1.000,36,2,0,0,,11915117
+2008,Regular Season,Yomiuri Giants,23,"Wakiya, Ryota",2B,21,1.000,25,42,0,9,,13115112
+2008,Regular Season,Yomiuri Giants,23,"Wakiya, Ryota",3B,32,0.950,13,44,3,6,,13115112
+2008,Regular Season,Tokyo Yakult Swallows,52,"Ito, Hidenori",P,1,1.000,0,1,0,0,,13115114
+2008,Regular Season,Yokohama BayStars,3,"Furmaniak, Jason",1B,1,0.000,0,0,0,0,,13115116
+2008,Regular Season,Yokohama BayStars,3,"Furmaniak, Jason",2B,2,1.000,1,3,0,1,,13115116
+2008,Regular Season,Yokohama BayStars,3,"Furmaniak, Jason",SS,12,0.974,12,25,1,7,,13115116
+2008,Regular Season,Fukuoka Softbank Hawks,43,"Guttormson, Rick",P,18,1.000,3,12,0,2,,13315110
+2008,Regular Season,Tohoku Rakuten Golden Eagles,49,"Ying-Chieh, Lin",P,5,1.000,2,2,0,0,,13315112
+2008,Regular Season,Fukuoka Softbank Hawks,35,"Nitkowski, Christopher",P,39,0.900,3,6,1,1,,13315114
+2008,Regular Season,Chiba Lotte Marines,43,"Abreu, Winston",P,20,1.000,2,6,0,1,,13315116
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,42,"Sweeney, Brian",P,28,0.976,8,32,1,2,,13515114
+2008,Regular Season,Hiroshima Toyo Carp,90,"Brower, Jim",P,21,1.000,1,5,0,0,,13515116
+2008,Regular Season,Chiba Lotte Marines,42,"Zuleta, Julio",1B,36,0.994,302,13,2,19,,13515117
+2008,Regular Season,Yokohama BayStars,64,"White, Matt",P,15,1.000,0,3,0,0,,13715114
+2008,Regular Season,Chunichi Dragons,99,"Nakamura, Norihiro",1B,78,0.989,257,19,3,25,,21023885
+2008,Regular Season,Chunichi Dragons,99,"Nakamura, Norihiro",3B,118,0.980,73,219,6,22,,21023885
+2008,Regular Season,Yokohama BayStars,13,"Nasuno, Takumi",P,22,0.944,6,11,1,0,,21025110
+2008,Regular Season,Chiba Lotte Marines,52,"Heiuchi, Hisao",1B,2,1.000,4,0,0,0,,21025111
+2008,Regular Season,Chiba Lotte Marines,52,"Heiuchi, Hisao",2B,18,1.000,19,32,0,7,,21025111
+2008,Regular Season,Chiba Lotte Marines,52,"Heiuchi, Hisao",3B,8,0.750,2,1,1,0,,21025111
+2008,Regular Season,Chiba Lotte Marines,52,"Heiuchi, Hisao",SS,14,0.970,8,24,1,5,,21025111
+2008,Regular Season,Tohoku Rakuten Golden Eagles,11,"Ichiba, Yasuhiro",P,12,1.000,2,6,0,0,,21125110
+2008,Regular Season,Yomiuri Giants,10,"Abe, Shinnosuke",C,122,0.996,914,82,4,15,4,21125113
+2008,Regular Season,Tohoku Rakuten Golden Eagles,26,"Arime, Kanehisa",P,66,1.000,2,5,0,0,,21125115
+2008,Regular Season,Hanshin Tigers,48,"Ishikawa, Shunsuke",P,7,1.000,2,3,0,1,,21125116
+2008,Regular Season,Yomiuri Giants,52,"Iwadate, Manabu",1B,4,1.000,5,1,0,1,,21125119
+2008,Regular Season,Yomiuri Giants,52,"Iwadate, Manabu",2B,9,0.929,16,10,2,1,,21125119
+2008,Regular Season,Yomiuri Giants,52,"Iwadate, Manabu",3B,7,1.000,6,5,0,1,,21125119
+2008,Regular Season,Yomiuri Giants,52,"Iwadate, Manabu",SS,1,0.000,0,0,0,0,,21125119
+2008,Regular Season,Chunichi Dragons,31,"Morino, Masahiko",1B,3,1.000,2,0,0,1,,21223884
+2008,Regular Season,Chunichi Dragons,31,"Morino, Masahiko",2B,2,1.000,8,2,0,0,,21223884
+2008,Regular Season,Chunichi Dragons,31,"Morino, Masahiko",3B,60,0.970,23,42,2,5,,21223884
+2008,Regular Season,Chunichi Dragons,31,"Morino, Masahiko",OF,81,0.986,134,2,2,0,,21223884
+2008,Regular Season,Yomiuri Giants,51,"Furuki, Shigeyuki",1B,3,1.000,2,0,0,0,,21223886
+2008,Regular Season,Yomiuri Giants,51,"Furuki, Shigeyuki",2B,17,0.979,24,22,1,4,,21223886
+2008,Regular Season,Yomiuri Giants,51,"Furuki, Shigeyuki",3B,57,0.938,20,70,6,2,,21223886
+2008,Regular Season,Yomiuri Giants,51,"Furuki, Shigeyuki",SS,5,1.000,1,3,0,1,,21223886
+2008,Regular Season,Yomiuri Giants,40,"Murata, Yoshinori",C,2,1.000,6,1,0,0,1,21223887
+2008,Regular Season,Hiroshima Toyo Carp,41,"Morikasa, Shigeru",OF,5,1.000,3,0,0,0,,21223888
+2008,Regular Season,Yokohama BayStars,23,"Fujita, Kazuya",2B,22,1.000,42,51,0,10,,21225110
+2008,Regular Season,Yokohama BayStars,23,"Fujita, Kazuya",3B,1,1.000,0,1,0,1,,21225110
+2008,Regular Season,Yokohama BayStars,23,"Fujita, Kazuya",SS,17,0.983,16,41,1,8,,21225110
+2008,Regular Season,Hanshin Tigers,9,"Fujimoto, Atsushi",2B,42,0.991,47,69,1,13,,21225113
+2008,Regular Season,Hanshin Tigers,9,"Fujimoto, Atsushi",3B,3,1.000,1,3,0,1,,21225113
+2008,Regular Season,Tohoku Rakuten Golden Eagles,30,"Nagai, Satoshi",P,27,0.917,4,18,2,1,,21225114
+2008,Regular Season,Tohoku Rakuten Golden Eagles,64,"Nakashima, Toshiya",OF,73,0.989,92,1,1,1,,21225117
+2008,Regular Season,Yomiuri Giants,2,"Ogasawara, Michihiro",1B,100,0.993,807,54,6,53,,21323884
+2008,Regular Season,Yomiuri Giants,2,"Ogasawara, Michihiro",3B,41,0.964,27,53,3,5,,21323884
+2008,Regular Season,Orix Buffaloes,43,"Kikuchihara, Tsuyoshi",P,55,0.909,2,8,1,1,,21323887
+2008,Regular Season,Yomiuri Giants,56,"Kato, Ken",C,21,0.979,87,6,2,0,0,21323888
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,8,"Kaneko, Makoto",SS,96,0.995,142,287,2,54,,21323889
+2008,Regular Season,Yokohama BayStars,2,"Uchikawa, Seiichi",1B,119,0.996,1094,75,5,96,,21325113
+2008,Regular Season,Yokohama BayStars,2,"Uchikawa, Seiichi",OF,11,1.000,12,0,0,0,,21325113
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,46,"Uemura, Yusuke",P,2,1.000,0,1,0,0,,21325114
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,12,"Kato, Tatsuo",P,14,0.750,1,2,1,0,,21325119
+2008,Regular Season,Tokyo Yakult Swallows,51,"Yoneno, Tomohito",C,16,0.931,25,2,2,0,0,21425111
+2008,Regular Season,Chiba Lotte Marines,59,"Hosoya, Kei",1B,3,1.000,31,0,0,2,,21425112
+2008,Regular Season,Chiba Lotte Marines,59,"Hosoya, Kei",3B,15,0.964,9,18,1,0,,21425112
+2008,Regular Season,Fukuoka Softbank Hawks,30,"Hasegawa, Yuya",OF,70,0.993,133,0,1,0,,21425114
+2008,Regular Season,Orix Buffaloes,60,"Makita, Shogo",1B,1,1.000,3,0,0,1,,21425115
+2008,Regular Season,Orix Buffaloes,60,"Makita, Shogo",2B,3,1.000,7,10,0,4,,21425115
+2008,Regular Season,Orix Buffaloes,60,"Makita, Shogo",3B,6,1.000,2,10,0,1,,21425115
+2008,Regular Season,Hiroshima Toyo Carp,45,"Matsumoto, Takaaki",3B,1,1.000,2,0,0,0,,21425117
+2008,Regular Season,Hiroshima Toyo Carp,45,"Matsumoto, Takaaki",SS,1,1.000,1,0,0,0,,21425117
+2008,Regular Season,Fukuoka Softbank Hawks,16,"Shinohara, Takayuki",P,21,1.000,0,3,0,0,,21523886
+2008,Regular Season,Yokohama BayStars,26,"Saeki, Takahiro",1B,30,0.992,222,14,2,18,,21523887
+2008,Regular Season,Yokohama BayStars,26,"Saeki, Takahiro",OF,17,1.000,20,1,0,0,,21523887
+2008,Regular Season,Chunichi Dragons,30,"Koike, Masaaki",OF,50,0.989,85,2,1,0,,21523888
+2008,Regular Season,Chiba Lotte Marines,0,"Ogino, Tadahiro",P,58,1.000,4,9,0,0,,21525114
+2008,Regular Season,Chiba Lotte Marines,19,"Karakawa, Yuki",P,15,0.917,3,8,1,1,,21525116
+2008,Regular Season,Orix Buffaloes,15,"Kato, Daisuke",P,63,1.000,0,7,0,0,,21525117
+2008,Regular Season,Yomiuri Giants,42,"Kroon, Marc",P,61,0.875,2,5,1,1,,21625110
+2008,Regular Season,Tokyo Yakult Swallows,15,"Muranaka, Kyohei",P,21,0.973,8,28,1,2,,21625112
+2008,Regular Season,Hiroshima Toyo Carp,16,"Miyazaki, Michito",P,12,1.000,2,9,0,0,,21625114
+2008,Regular Season,Chunichi Dragons,26,"Yamauchi, Soma",P,4,0.000,0,0,0,0,,21625116
+2008,Regular Season,Tokyo Yakult Swallows,62,"Yoshikawa, Masahiro",P,18,1.000,1,6,0,0,,21625117
+2008,Regular Season,Chunichi Dragons,21,"Chen, Wei-Yin",P,39,0.944,5,12,1,0,,21625119
+2008,Regular Season,Yokohama BayStars,57,"Tsuruoka, Kazunari",C,26,0.991,106,10,1,2,0,21723882
+2008,Regular Season,Yomiuri Giants,43,"Tsuruoka, Kazunari",C,29,1.000,116,7,0,1,1,21723882
+2008,Regular Season,Yomiuri Giants,21,"Takahashi, Hisanori",P,23,1.000,8,21,0,1,,21725111
+2008,Regular Season,Tokyo Yakult Swallows,38,"Kinugawa, Atsushi",C,15,0.975,74,3,2,0,1,21725114
+2008,Regular Season,Yomiuri Giants,11,"Kubo, Yuya",P,6,1.000,2,0,0,0,,21725117
+2008,Regular Season,Hanshin Tigers,0,"Shoda, Takahiro",OF,6,1.000,7,0,0,0,,21725119
+2008,Regular Season,Tohoku Rakuten Golden Eagles,3,"Yoshioka, Yuji",1B,4,1.000,27,1,0,0,,21823881
+2008,Regular Season,Tokyo Yakult Swallows,49,"Matsumoto, Yuichi",1B,25,0.991,202,20,2,17,,21823888
+2008,Regular Season,Tokyo Yakult Swallows,49,"Matsumoto, Yuichi",OF,5,1.000,6,0,0,0,,21823888
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,24,"Yoh, Daikan",3B,17,0.927,11,27,3,3,,21825112
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,24,"Yoh, Daikan",SS,25,0.922,24,47,6,11,,21825112
+2008,Regular Season,Hiroshima Toyo Carp,70,"Schultz, Mike",P,55,0.857,5,7,2,0,,21825116
+2008,Regular Season,Hiroshima Toyo Carp,2,"Higashide, Akihiro",2B,137,0.985,316,475,12,80,,21923888
+2008,Regular Season,Chiba Lotte Marines,9,"Fukura, Kazuya",1B,86,0.997,642,56,2,58,,21923889
+2008,Regular Season,Tokyo Yakult Swallows,7,"Tanaka, Hiroyasu",2B,144,0.995,359,489,4,85,,21925110
+2008,Regular Season,Hiroshima Toyo Carp,6,"Soyogi, Eishin",SS,92,0.974,127,281,11,48,,21925112
+2008,Regular Season,Chunichi Dragons,64,"Shimizu, Akinobu",P,15,1.000,3,8,0,0,,21925114
+2008,Regular Season,Orix Buffaloes,52,"Sakaguchi, Tomotaka",OF,139,0.993,283,7,2,0,,21925117
+2008,Regular Season,Hanshin Tigers,1,"Toritani, Takashi",SS,144,0.980,263,476,15,107,,21925119
+2008,Regular Season,Yomiuri Giants,49,"Gonzalez, Luis",1B,16,1.000,48,1,0,0,,23125114
+2008,Regular Season,Yomiuri Giants,49,"Gonzalez, Luis",2B,31,0.993,63,81,1,16,,23125114
+2008,Regular Season,Fukuoka Softbank Hawks,42,"Restovich, Michael",1B,31,0.995,196,15,1,20,,23125116
+2008,Regular Season,Fukuoka Softbank Hawks,42,"Restovich, Michael",OF,1,1.000,4,0,0,0,,23125116
+2008,Regular Season,Tokyo Yakult Swallows,45,"Valdez, Wilson",3B,1,1.000,0,1,0,0,,23325116
+2008,Regular Season,Tokyo Yakult Swallows,45,"Valdez, Wilson",SS,25,0.949,28,66,5,11,,23325116
+2008,Regular Season,Yomiuri Giants,93,"Tono, Shun",P,28,1.000,2,5,0,0,,31035110
+2008,Regular Season,Tokyo Yakult Swallows,24,"Hanada, Masato",P,23,1.000,3,5,0,1,,31035111
+2008,Regular Season,Tokyo Yakult Swallows,8,"Takeuchi, Shinichi",1B,70,1.000,231,17,0,23,,31035112
+2008,Regular Season,Tokyo Yakult Swallows,8,"Takeuchi, Shinichi",OF,24,1.000,34,1,0,0,,31035112
+2008,Regular Season,Tohoku Rakuten Golden Eagles,46,"Tsuchiya, Teppei",OF,123,0.980,240,8,5,1,,31035113
+2008,Regular Season,Orix Buffaloes,36,"Shimoyama, Shinji",OF,119,1.000,176,6,0,0,,31035117
+2008,Regular Season,Yomiuri Giants,30,"Nishimura, Kentaro",P,43,1.000,1,10,0,1,,31035119
+2008,Regular Season,Saitama Seibu Lions,61,"Ishii, Kazuhisa",P,25,0.969,1,30,1,2,,31133885
+2008,Regular Season,Orix Buffaloes,53,"Aikawa, Ryota",OF,9,0.917,11,0,1,0,,31133888
+2008,Regular Season,Hiroshima Toyo Carp,36,"Aoki, Hayato",P,11,1.000,1,2,0,0,,31135111
+2008,Regular Season,Tohoku Rakuten Golden Eagles,36,"Asai, Hideki",P,29,0.971,8,25,1,1,,31135115
+2008,Regular Season,Chunichi Dragons,54,"Akasaka, Kazuyuki",P,1,0.000,0,0,0,0,,31135116
+2008,Regular Season,Tokyo Yakult Swallows,23,"Aoki, Norichika",OF,112,0.996,229,7,1,2,,31135119
+2008,Regular Season,Tokyo Yakult Swallows,43,"Miyade, Ryuji",1B,4,1.000,29,1,0,1,,31233882
+2008,Regular Season,Tokyo Yakult Swallows,43,"Miyade, Ryuji",OF,9,1.000,14,0,0,0,,31233882
+2008,Regular Season,Yomiuri Giants,0,"Kimura, Takuya",1B,20,0.981,47,5,1,4,,31233883
+2008,Regular Season,Yomiuri Giants,0,"Kimura, Takuya",2B,103,0.987,166,213,5,40,,31233883
+2008,Regular Season,Yomiuri Giants,0,"Kimura, Takuya",3B,18,0.938,8,22,2,2,,31233883
+2008,Regular Season,Yomiuri Giants,0,"Kimura, Takuya",OF,2,1.000,2,0,0,0,,31233883
+2008,Regular Season,Hiroshima Toyo Carp,13,"Makino, Rui",P,6,0.750,0,3,1,0,,31233887
+2008,Regular Season,Tohoku Rakuten Golden Eagles,14,"Makino, Rui",P,1,0.000,0,0,0,0,,31233887
+2008,Regular Season,Orix Buffaloes,49,"Nakayama, Shinya",P,10,1.000,2,7,0,0,,31235112
+2008,Regular Season,Tokyo Yakult Swallows,33,"Hatakeyama, Kazuhiro",1B,88,0.993,666,46,5,42,,31235113
+2008,Regular Season,Tokyo Yakult Swallows,33,"Hatakeyama, Kazuhiro",3B,24,0.885,12,34,6,6,,31235113
+2008,Regular Season,Yomiuri Giants,32,"Tsuburaya, Hidetoshi",2B,3,1.000,1,1,0,0,,31235114
+2008,Regular Season,Yomiuri Giants,32,"Tsuburaya, Hidetoshi",3B,4,0.000,0,0,0,0,,31235114
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,62,"Imanari, Ryota",C,9,1.000,12,1,0,0,0,31335112
+2008,Regular Season,Yomiuri Giants,99,"Inzen, Tomoya",1B,1,1.000,4,0,0,0,,31335114
+2008,Regular Season,Yomiuri Giants,99,"Inzen, Tomoya",OF,26,0.950,19,0,1,0,,31335114
+2008,Regular Season,Fukuoka Softbank Hawks,41,"Iwasaki, Sho",P,1,1.000,0,1,0,0,,31335116
+2008,Regular Season,Tokyo Yakult Swallows,42,"Kida, Masao",P,19,1.000,0,6,0,0,,31433868
+2008,Regular Season,Chunichi Dragons,5,"Wada, Kazuhiro",OF,135,0.988,228,11,3,2,,31433884
+2008,Regular Season,Hanshin Tigers,24,"Hiyama, Shinjiro",OF,10,0.909,10,0,1,0,,31433885
+2008,Regular Season,Orix Buffaloes,18,"Yamaguchi, Kazuo",P,34,0.857,1,5,1,0,,31435111
+2008,Regular Season,Yomiuri Giants,22,"Fukuda, Satoshi",P,2,1.000,0,1,0,0,,31435112
+2008,Regular Season,Saitama Seibu Lions,45,"Mizuta, Keisuke",3B,9,1.000,0,3,0,0,,31435113
+2008,Regular Season,Saitama Seibu Lions,45,"Mizuta, Keisuke",SS,1,0.000,0,0,0,0,,31435113
+2008,Regular Season,Tokyo Yakult Swallows,30,"Nishizaki, Satoshi",P,3,1.000,0,2,0,0,,31435114
+2008,Regular Season,Chiba Lotte Marines,7,"Nishioka, Tsuyoshi",SS,115,0.979,142,324,10,66,,31435117
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,63,"Watanabe, Ryuichi",C,1,1.000,1,0,0,0,0,31435119
+2008,Regular Season,Hiroshima Toyo Carp,40,"Kura, Yoshikazu",C,39,1.000,173,23,0,3,3,31533886
+2008,Regular Season,Fukuoka Softbank Hawks,9,"Kokubo, Hiroki",1B,83,0.997,673,47,2,48,,31533889
+2008,Regular Season,Tokyo Yakult Swallows,28,"Kawamoto, Ryohei",C,63,0.989,352,21,4,3,2,31535110
+2008,Regular Season,Hiroshima Toyo Carp,5,"Kurihara, Kenta",1B,144,0.995,1357,78,7,111,,31535111
+2008,Regular Season,Tohoku Rakuten Golden Eagles,28,"Katayama, Hiroshi",P,18,1.000,2,16,0,2,,31535112
+2008,Regular Season,Tohoku Rakuten Golden Eagles,32,"Okihara, Yoshinori",3B,4,1.000,0,4,0,1,,31535113
+2008,Regular Season,Tohoku Rakuten Golden Eagles,32,"Okihara, Yoshinori",SS,5,1.000,3,11,0,2,,31535113
+2008,Regular Season,Tokyo Yakult Swallows,46,"Onizaki, Yuji",SS,2,1.000,2,1,0,0,,31535116
+2008,Regular Season,Saitama Seibu Lions,34,"Osada, Shuichiro",P,1,0.000,0,0,0,0,,31535117
+2008,Regular Season,Fukuoka Softbank Hawks,23,"Kidokoro, Ryuma",OF,45,1.000,47,2,0,1,,31535119
+2008,Regular Season,Hiroshima Toyo Carp,1,"Maeda, Tomonori",OF,28,0.974,38,0,1,0,,31633881
+2008,Regular Season,Saitama Seibu Lions,16,"Wakui, Hideaki",P,25,0.964,13,41,2,3,,31635110
+2008,Regular Season,Yokohama BayStars,21,"Yoshimi, Yuji",P,41,1.000,6,14,0,1,,31635113
+2008,Regular Season,Chunichi Dragons,29,"Yamai, Daisuke",P,2,1.000,1,1,0,0,,31635115
+2008,Regular Season,Fukuoka Softbank Hawks,32,"Morimoto, Satoru",2B,22,1.000,23,25,0,4,,31635117
+2008,Regular Season,Fukuoka Softbank Hawks,32,"Morimoto, Satoru",SS,30,0.966,42,71,4,14,,31635117
+2008,Regular Season,Chiba Lotte Marines,14,"Komiyama, Satoru",P,33,0.833,1,9,2,1,,31733881
+2008,Regular Season,Chiba Lotte Marines,22,"Satozaki, Tomoya",C,69,0.994,435,33,3,1,1,31733888
+2008,Regular Season,Tokyo Yakult Swallows,36,"Kawabata, Shingo",3B,27,0.977,9,33,1,3,,31735112
+2008,Regular Season,Tokyo Yakult Swallows,36,"Kawabata, Shingo",SS,28,0.971,18,48,2,9,,31735112
+2008,Regular Season,Tokyo Yakult Swallows,20,"Kamada, Yuya",P,16,1.000,0,4,0,0,,31735113
+2008,Regular Season,Yomiuri Giants,28,"Kaneto, Norihito",P,8,1.000,1,7,0,1,,31735114
+2008,Regular Season,Yokohama BayStars,38,"Kuwahara, Kentaro",P,30,0.952,4,16,1,1,,31735116
+2008,Regular Season,Chiba Lotte Marines,11,"Kanda, Yoshihide",P,4,1.000,1,0,0,0,,31735117
+2008,Regular Season,Saitama Seibu Lions,46,"Sato, Takahiko",OF,99,0.994,167,9,1,2,,31735119
+2008,Regular Season,Fukuoka Softbank Hawks,56,"Yanase, Akihiro",P,30,1.000,2,6,0,1,,31835112
+2008,Regular Season,Yokohama BayStars,48,"Williams, Dave",P,7,1.000,1,5,0,1,,31835116
+2008,Regular Season,Hanshin Tigers,54,"Williams, Jeff",P,55,0.778,2,5,2,1,,31835117
+2008,Regular Season,Yokohama BayStars,7,"Nishi, Toshihisa",2B,120,0.993,306,370,5,82,,31933882
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,2,"Takahashi, Shinji",1B,53,0.994,334,14,2,22,,31933884
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,2,"Takahashi, Shinji",C,59,0.996,269,14,1,0,1,31933884
+2008,Regular Season,Hanshin Tigers,50,"Takahashi, Mitsunobu",1B,24,1.000,159,11,0,17,,31933886
+2008,Regular Season,Fukuoka Softbank Hawks,13,"Takahashi, Hideaki",P,20,0.857,1,5,1,0,,31935110
+2008,Regular Season,Orix Buffaloes,28,"Komatsu, Satoshi",P,36,0.960,5,19,1,1,,31935114
+2008,Regular Season,Fukuoka Softbank Hawks,47,"Sugiuchi, Toshiya",P,25,0.947,3,33,2,0,,31935115
+2008,Regular Season,Chunichi Dragons,69,"Kobayashi, Masato",P,46,1.000,2,5,0,1,,31935117
+2008,Regular Season,Hanshin Tigers,12,"Watanabe, Ryo",P,66,1.000,1,14,0,0,,33135112
+2008,Regular Season,Hanshin Tigers,55,"Ford, Lewis",OF,43,1.000,64,2,0,1,,33135116
+2008,Regular Season,Chunichi Dragons,49,"Nelson, Maximo",P,6,0.000,0,0,0,0,,33335116
+2008,Regular Season,Tohoku Rakuten Golden Eagles,42,"Gwyn, Marcus",P,19,0.857,3,3,1,0,,33535116
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,15,"Jones, Mitch",1B,4,0.970,31,1,1,1,,33735114
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,15,"Jones, Mitch",OF,5,1.000,9,0,0,0,,33735114
+2008,Regular Season,Tohoku Rakuten Golden Eagles,65,"Matsumoto, Akira",P,21,1.000,1,4,0,0,,41043882
+2008,Regular Season,Yokohama BayStars,29,"Niinuma, Shinji",C,9,1.000,19,4,0,0,0,41043886
+2008,Regular Season,Saitama Seibu Lions,26,"Hoshino, Tomoki",P,63,0.833,3,2,1,0,,41043888
+2008,Regular Season,Hanshin Tigers,46,"Tsuru, Naoto",P,1,0.000,0,0,0,0,,41045112
+2008,Regular Season,Fukuoka Softbank Hawks,12,"Takaya, Hiroaki",C,62,0.998,421,48,1,5,5,41045114
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,21,"Takeda, Hisashi",P,62,1.000,2,15,0,0,,41045117
+2008,Regular Season,Chiba Lotte Marines,3,"Omura, Saburo",OF,103,0.981,202,6,4,0,,41143880
+2008,Regular Season,Chunichi Dragons,6,"Ibata, Hirokazu",SS,106,0.983,139,311,8,50,,41143886
+2008,Regular Season,Tokyo Yakult Swallows,68,"Uehara, Kojiro",P,4,1.000,0,1,0,0,,41145110
+2008,Regular Season,Orix Buffaloes,4,"Abe, Masahiro",1B,8,1.000,20,1,0,2,,41145113
+2008,Regular Season,Orix Buffaloes,4,"Abe, Masahiro",2B,27,0.981,37,64,2,9,,41145113
+2008,Regular Season,Orix Buffaloes,4,"Abe, Masahiro",3B,7,0.833,3,2,1,0,,41145113
+2008,Regular Season,Orix Buffaloes,4,"Abe, Masahiro",SS,13,0.949,17,20,2,7,,41145113
+2008,Regular Season,Hanshin Tigers,16,"Ando, Yuya",P,25,0.913,7,14,2,0,,41145115
+2008,Regular Season,Yokohama BayStars,35,"Ushida, Shigeki",P,23,0.833,2,3,1,0,,41145119
+2008,Regular Season,Fukuoka Softbank Hawks,33,"Hoshino, Junji",P,3,0.000,0,0,0,0,,41243886
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,1,"Morimoto, Hichori",OF,121,0.989,258,4,3,0,,41243888
+2008,Regular Season,Orix Buffaloes,40,"Miyamoto, Daisuke",P,2,0.000,0,0,0,0,,41245111
+2008,Regular Season,Saitama Seibu Lions,47,"Hoashi, Kazuyuki",P,27,0.933,8,34,3,1,,41245113
+2008,Regular Season,Chiba Lotte Marines,38,"Nakago, Taiki",P,2,1.000,0,1,0,0,,41245114
+2008,Regular Season,Hanshin Tigers,39,"Yano, Akihiro",C,116,0.998,748,63,2,7,4,41343883
+2008,Regular Season,Hanshin Tigers,6,"Kanemoto, Tomoaki",OF,144,0.990,193,4,2,0,,41343885
+2008,Regular Season,Chunichi Dragons,11,"Kawakami, Kenshin",P,20,0.967,6,23,1,2,,41343886
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,28,"Kanazawa, Takehito",P,4,1.000,1,2,0,0,,41343888
+2008,Regular Season,Orix Buffaloes,19,"Kaneko, Chihiro",P,29,1.000,9,27,0,1,,41345110
+2008,Regular Season,Fukuoka Softbank Hawks,52,"Kawasaki, Munenori",SS,99,0.975,113,309,11,51,,41345111
+2008,Regular Season,Orix Buffaloes,35,"Okubo, Masanobu",P,3,0.000,0,0,0,0,,41345113
+2008,Regular Season,Fukuoka Softbank Hawks,17,"Oba, Shota",P,13,0.900,0,9,1,0,,41345116
+2008,Regular Season,Yokohama BayStars,33,"Onishi, Hiroaki",OF,92,0.984,122,5,2,1,,41345117
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,59,"Kanamori, Takayuki",P,10,1.000,1,0,0,0,,41345119
+2008,Regular Season,Yokohama BayStars,8,"Aikawa, Ryoji",C,98,0.994,575,69,4,8,5,41443880
+2008,Regular Season,Yokohama BayStars,18,"Miura, Daisuke",P,21,1.000,3,18,0,0,,41443885
+2008,Regular Season,Fukuoka Softbank Hawks,67,"Yoshikawa, Motohiro",OF,5,1.000,9,0,0,0,,41443886
+2008,Regular Season,Fukuoka Softbank Hawks,46,"Honda, Yuichi",2B,105,0.986,271,311,8,61,,41445112
+2008,Regular Season,Fukuoka Softbank Hawks,34,"Yamada, Akichika",P,1,0.000,0,0,0,0,,41445113
+2008,Regular Season,Saitama Seibu Lions,43,"Hara, Takuya",3B,2,0.000,0,0,0,0,,41445114
+2008,Regular Season,Saitama Seibu Lions,43,"Hara, Takuya",SS,1,1.000,4,6,0,1,,41445114
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,25,"Miyanishi, Naoki",P,50,0.923,2,10,1,0,,41445116
+2008,Regular Season,Yomiuri Giants,6,"Kosaka, Makoto",2B,7,1.000,1,2,0,0,,41543884
+2008,Regular Season,Yomiuri Giants,6,"Kosaka, Makoto",3B,5,1.000,1,2,0,0,,41543884
+2008,Regular Season,Fukuoka Softbank Hawks,31,"Sato, Makoto",P,22,1.000,0,5,0,0,,41543889
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,53,"Kudo, Takahito",OF,91,0.992,127,4,1,1,,41545110
+2008,Regular Season,Chiba Lotte Marines,18,"Shimizu, Naoyuki",P,25,0.976,9,32,1,1,,41545111
+2008,Regular Season,Chiba Lotte Marines,61,"Kakunaka, Katsuya",OF,9,0.933,14,0,1,0,,41545114
+2008,Regular Season,Orix Buffaloes,39,"Kamoshida, Takashi",P,1,1.000,0,1,0,0,,41545115
+2008,Regular Season,Yokohama BayStars,17,"Kato, Takeharu",P,14,0.000,0,0,0,0,,41545117
+2008,Regular Season,Hanshin Tigers,60,"Komiyama, Shinji",C,3,1.000,3,0,0,0,0,41545119
+2008,Regular Season,Orix Buffaloes,0,"Moriyama, Makoto",2B,7,0.923,7,5,1,2,,41645112
+2008,Regular Season,Orix Buffaloes,0,"Moriyama, Makoto",3B,4,1.000,1,3,0,0,,41645112
+2008,Regular Season,Orix Buffaloes,0,"Moriyama, Makoto",SS,23,0.957,30,59,4,10,,41645112
+2008,Regular Season,Orix Buffaloes,42,"Cabrera, Alex",1B,132,0.993,1134,68,9,104,,41645113
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,17,"Miyamoto, Ken",P,9,1.000,0,1,0,0,,41645114
+2008,Regular Season,Fukuoka Softbank Hawks,6,"Tamura, Hitoshi",OF,36,0.986,71,0,1,0,,41743880
+2008,Regular Season,Tohoku Rakuten Golden Eagles,4,"Takasu, Yosuke",2B,110,0.979,216,299,11,49,,41743886
+2008,Regular Season,Tohoku Rakuten Golden Eagles,4,"Takasu, Yosuke",3B,2,1.000,1,1,0,1,,41743886
+2008,Regular Season,Tohoku Rakuten Golden Eagles,1,"Shiokawa, Tatsuya",1B,1,1.000,1,0,0,0,,41745110
+2008,Regular Season,Tohoku Rakuten Golden Eagles,1,"Shiokawa, Tatsuya",2B,20,0.955,7,14,1,2,,41745110
+2008,Regular Season,Tohoku Rakuten Golden Eagles,1,"Shiokawa, Tatsuya",3B,41,1.000,6,11,0,3,,41745110
+2008,Regular Season,Tohoku Rakuten Golden Eagles,1,"Shiokawa, Tatsuya",OF,6,1.000,3,1,0,0,,41745110
+2008,Regular Season,Tohoku Rakuten Golden Eagles,1,"Shiokawa, Tatsuya",SS,9,1.000,6,20,0,4,,41745110
+2008,Regular Season,Fukuoka Softbank Hawks,55,"Kosai, Yusuke",1B,19,1.000,137,10,0,10,,41745112
+2008,Regular Season,Fukuoka Softbank Hawks,55,"Kosai, Yusuke",OF,8,1.000,11,0,0,0,,41745112
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,30,"Sakamoto, Yataro",P,31,1.000,3,9,0,0,,41745113
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,55,"Sato, Yoshihiro",OF,4,1.000,4,0,0,0,,41745115
+2008,Regular Season,Chunichi Dragons,19,"Yoshimi, Kazuki",P,35,0.962,10,15,1,0,,41845112
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,34,"Yoshikawa, Mitsuo",P,7,1.000,0,8,0,0,,41845114
+2008,Regular Season,Yomiuri Giants,31,"Burnside, Adrian",P,15,1.000,1,11,0,0,,41845116
+2008,Regular Season,Tohoku Rakuten Golden Eagles,55,"Short, Rick",1B,12,1.000,33,0,0,4,,41845117
+2008,Regular Season,Tohoku Rakuten Golden Eagles,55,"Short, Rick",3B,5,1.000,3,0,0,0,,41845117
+2008,Regular Season,Tohoku Rakuten Golden Eagles,55,"Short, Rick",OF,122,0.989,176,3,2,1,,41845117
+2008,Regular Season,Hiroshima Toyo Carp,28,"Hiroike, Koji",P,10,0.000,0,0,0,0,,41943888
+2008,Regular Season,Tokyo Yakult Swallows,29,"Fukuchi, Kazuki",1B,1,1.000,7,0,0,1,,41943889
+2008,Regular Season,Tokyo Yakult Swallows,29,"Fukuchi, Kazuki",OF,123,0.995,179,6,1,1,,41943889
+2008,Regular Season,Hanshin Tigers,62,"Tamaki, Yutaka",P,3,1.000,1,1,0,1,,41945110
+2008,Regular Season,Tokyo Yakult Swallows,69,"Douglass, Sean",P,6,1.000,1,2,0,0,,43145112
+2008,Regular Season,Fukuoka Softbank Hawks,00,"Houlton, Dennis",P,28,1.000,3,7,0,0,,43145116
+2008,Regular Season,Fukuoka Softbank Hawks,49,"Powell, Jeremy",P,12,0.800,3,9,3,0,,43345113
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,39,"Botts, Jason",1B,1,1.000,6,0,0,1,,43345116
+2008,Regular Season,Tokyo Yakult Swallows,6,"Miyamoto, Shinya",3B,56,0.986,45,98,2,5,,51053880
+2008,Regular Season,Tokyo Yakult Swallows,6,"Miyamoto, Shinya",SS,58,0.992,72,174,2,30,,51053880
+2008,Regular Season,Yokohama BayStars,30,"Doi, Yoshihiro",P,8,1.000,0,3,0,0,,51053886
+2008,Regular Season,Tohoku Rakuten Golden Eagles,31,"Fujii, Akihito",C,87,1.000,456,40,0,4,2,51053888
+2008,Regular Season,Chunichi Dragons,20,"Nakata, Kenichi",P,23,0.828,10,14,5,1,,51055110
+2008,Regular Season,Hanshin Tigers,18,"Sugiyama, Naohisa",P,9,1.000,4,7,0,1,,51055117
+2008,Regular Season,Saitama Seibu Lions,9,"Akada, Shogo",OF,57,1.000,94,3,0,0,,51153888
+2008,Regular Season,Hiroshima Toyo Carp,38,"Akamatsu, Masato",OF,118,0.990,194,5,2,1,,51155110
+2008,Regular Season,Chunichi Dragons,14,"Asakura, Kenta",P,12,0.933,2,12,1,0,,51155111
+2008,Regular Season,Yomiuri Giants,63,"Aida, Yushi",P,3,1.000,2,1,0,1,,51155112
+2008,Regular Season,Hiroshima Toyo Carp,47,"Aoki, Takahiro",P,24,1.000,1,14,0,2,,51155114
+2008,Regular Season,Hanshin Tigers,8,"Asai, Ryo",C,2,1.000,1,0,0,0,0,51155115
+2008,Regular Season,Hanshin Tigers,8,"Asai, Ryo",OF,16,1.000,15,1,0,1,,51155115
+2008,Regular Season,Hanshin Tigers,56,"Abe, Kenta",P,32,1.000,4,16,0,1,,51155117
+2008,Regular Season,Fukuoka Softbank Hawks,36,"Akashi, Kenji",1B,13,1.000,51,3,0,4,,51155119
+2008,Regular Season,Fukuoka Softbank Hawks,36,"Akashi, Kenji",3B,1,0.000,0,0,0,0,,51155119
+2008,Regular Season,Fukuoka Softbank Hawks,36,"Akashi, Kenji",SS,9,1.000,6,13,0,2,,51155119
+2008,Regular Season,Yomiuri Giants,00,"Terauchi, Takayuki",2B,30,1.000,27,38,0,12,,51255114
+2008,Regular Season,Yomiuri Giants,00,"Terauchi, Takayuki",3B,22,0.870,5,15,3,3,,51255114
+2008,Regular Season,Yomiuri Giants,00,"Terauchi, Takayuki",SS,6,1.000,1,8,0,1,,51255114
+2008,Regular Season,Fukuoka Softbank Hawks,57,"Mise, Koji",P,44,1.000,1,9,0,2,,51255119
+2008,Regular Season,Chunichi Dragons,43,"Ogasawara, Takashi",P,26,1.000,8,30,0,0,,51353888
+2008,Regular Season,Tohoku Rakuten Golden Eagles,35,"Ohiro, Shoji",1B,2,1.000,3,0,0,0,,51355110
+2008,Regular Season,Tohoku Rakuten Golden Eagles,35,"Ohiro, Shoji",3B,2,1.000,1,3,0,0,,51355110
+2008,Regular Season,Hanshin Tigers,21,"Iwata, Minoru",P,27,0.984,12,51,1,6,,51355112
+2008,Regular Season,Hanshin Tigers,41,"Uezono, Keiji",P,9,0.846,1,10,2,1,,51355114
+2008,Regular Season,Hiroshima Toyo Carp,31,"Ishihara, Yoshiyuki",C,121,0.993,763,72,6,11,3,51355115
+2008,Regular Season,Saitama Seibu Lions,30,"Okamoto, Atsushi",P,14,0.800,0,4,1,0,,51355119
+2008,Regular Season,Hiroshima Toyo Carp,00,"Yamasaki, Koji",2B,5,1.000,10,6,0,2,,51453888
+2008,Regular Season,Hiroshima Toyo Carp,00,"Yamasaki, Koji",SS,1,1.000,1,4,0,1,,51453888
+2008,Regular Season,Orix Buffaloes,00,"Yamasaki, Koji",SS,1,1.000,1,0,0,0,,51453888
+2008,Regular Season,Tokyo Yakult Swallows,21,"Matsuoka, Kenichi",P,65,0.889,2,14,2,0,,51455110
+2008,Regular Season,Tohoku Rakuten Golden Eagles,38,"Yamashita, Katsumi",1B,3,1.000,8,1,0,0,,51455111
+2008,Regular Season,Tohoku Rakuten Golden Eagles,38,"Yamashita, Katsumi",2B,4,1.000,4,7,0,0,,51455111
+2008,Regular Season,Tohoku Rakuten Golden Eagles,38,"Yamashita, Katsumi",3B,26,0.929,15,24,3,2,,51455111
+2008,Regular Season,Chunichi Dragons,4,"Fujii, Atsushi",OF,29,0.950,19,0,1,0,,51455112
+2008,Regular Season,Saitama Seibu Lions,29,"Mitsui, Koji",P,23,1.000,0,1,0,0,,51455113
+2008,Regular Season,Chiba Lotte Marines,68,"Hayasaka, Keisuke",2B,7,1.000,6,9,0,1,,51455117
+2008,Regular Season,Chiba Lotte Marines,68,"Hayasaka, Keisuke",SS,9,1.000,13,14,0,3,,51455117
+2008,Regular Season,Yomiuri Giants,25,"I, Sunyopu",1B,42,1.000,339,26,0,27,,51455119
+2008,Regular Season,Yokohama BayStars,47,"Kudo, Kimiyasu",P,3,1.000,0,4,0,0,,51553865
+2008,Regular Season,Yokohama BayStars,16,"Kawamura, Takeo",P,9,0.000,0,0,0,0,,51553884
+2008,Regular Season,Tokyo Yakult Swallows,70,"Kawabata, Ryu",P,1,0.000,0,0,0,0,,51553888
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,47,"Kikuchi, Kazumasa",P,11,1.000,0,1,0,0,,51555110
+2008,Regular Season,Fukuoka Softbank Hawks,48,"Katto, Keisuke",P,9,1.000,5,1,0,1,,51555112
+2008,Regular Season,Fukuoka Softbank Hawks,28,"Otonari, Kenji",P,22,1.000,6,24,0,2,,51555114
+2008,Regular Season,Saitama Seibu Lions,14,"Onodera, Chikara",P,50,1.000,2,12,0,0,,51555117
+2008,Regular Season,Tohoku Rakuten Golden Eagles,34,"Watanabe, Koki",P,14,1.000,0,1,0,0,,51655110
+2008,Regular Season,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",3B,142,0.950,85,238,17,27,,51655112
+2008,Regular Season,Hiroshima Toyo Carp,18,"Maeda, Kenta",P,19,0.967,9,20,1,3,,51655114
+2008,Regular Season,Yomiuri Giants,48,"Yano, Kenji",OF,2,1.000,2,0,0,0,,51655117
+2008,Regular Season,Saitama Seibu Lions,4,"Takagi, Hiroyuki",2B,1,0.000,0,0,0,0,,51753880
+2008,Regular Season,Yomiuri Giants,53,"Sanematsu, Kazunari",C,6,1.000,19,2,0,0,0,51753888
+2008,Regular Season,Tohoku Rakuten Golden Eagles,62,"Takanami, Fumikazu",OF,45,1.000,28,2,0,1,,51753889
+2008,Regular Season,Chunichi Dragons,0,"Kongo, Hiroki",P,12,1.000,1,0,0,0,,51755110
+2008,Regular Season,Orix Buffaloes,14,"Kishida, Mamoru",P,12,0.950,4,15,1,2,,51755112
+2008,Regular Season,Saitama Seibu Lions,1,"Kuriyama, Takumi",OF,127,0.980,245,6,5,0,,51755115
+2008,Regular Season,Hiroshima Toyo Carp,12,"Kokubo, Tetsuya",2B,14,1.000,23,33,0,2,,51755116
+2008,Regular Season,Hiroshima Toyo Carp,12,"Kokubo, Tetsuya",3B,24,0.971,10,23,1,1,,51755116
+2008,Regular Season,Hiroshima Toyo Carp,12,"Kokubo, Tetsuya",SS,63,0.977,79,171,6,31,,51755116
+2008,Regular Season,Tokyo Yakult Swallows,13,"Sato, Masaru",P,24,1.000,0,3,0,0,,51755119
+2008,Regular Season,Yokohama BayStars,11,"Yamaguchi, Shun",P,16,1.000,1,4,0,0,,51855112
+2008,Regular Season,Yokohama BayStars,10,"Wood, Mike",P,26,1.000,11,40,0,2,,51855116
+2008,Regular Season,Chunichi Dragons,44,"Woods, Tyrone",1B,124,0.994,998,79,6,75,,51855117
+2008,Regular Season,Saitama Seibu Lions,13,"Nishiguchi, Fumiya",P,22,1.000,6,16,0,3,,51953880
+2008,Regular Season,Yomiuri Giants,24,"Takahashi, Yoshinobu",OF,80,0.984,120,2,2,1,,51953886
+2008,Regular Season,Yomiuri Giants,61,"Sakamoto, Hayato",2B,1,1.000,2,1,0,0,,51955114
+2008,Regular Season,Yomiuri Giants,61,"Sakamoto, Hayato",SS,144,0.976,199,422,15,66,,51955114
+2008,Regular Season,Fukuoka Softbank Hawks,68,"Takeoka, Kazuhiro",P,19,0.857,0,6,1,2,,51955119
+2008,Regular Season,Chunichi Dragons,7,"I, Byongyu",OF,105,0.983,167,4,3,0,,53155114
+2008,Regular Season,Saitama Seibu Lions,42,"Brazell, Craig",1B,80,0.987,585,46,8,47,,53155116
+2008,Regular Season,Saitama Seibu Lions,33,"Eto, Akira",1B,24,1.000,163,7,0,12,,53253868
+2008,Regular Season,Fukuoka Softbank Hawks,91,"Yan, Yaoshun",P,6,1.000,0,2,0,0,,53355112
+2008,Regular Season,Hiroshima Toyo Carp,43,"Ochoa, Alex",OF,141,0.988,249,6,3,1,,53355117
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,14,"Glynn, Ryan",P,26,0.975,2,37,1,2,,53555112
+2008,Regular Season,Chiba Lotte Marines,46,"U, Suyo",P,2,1.000,1,1,0,0,,53555114
+2008,Regular Season,Fukuoka Softbank Hawks,3,"Matsunaka, Nobuhiko",OF,54,0.977,78,6,2,2,,61063884
+2008,Regular Season,Hanshin Tigers,14,"Nohmi, Atsushi",P,11,1.000,0,1,0,0,,61065110
+2008,Regular Season,Yomiuri Giants,68,"Togano, Masafumi",P,13,1.000,1,3,0,0,,61065112
+2008,Regular Season,Yokohama BayStars,61,"Takeyama, Shingo",C,29,0.993,126,11,1,2,2,61065117
+2008,Regular Season,Saitama Seibu Lions,58,"Matsusaka, Kenta",OF,42,1.000,65,1,0,0,,61065119
+2008,Regular Season,Yokohama BayStars,0,"Ozeki, Tatsuya",OF,29,1.000,37,0,0,0,,61163880
+2008,Regular Season,Chunichi Dragons,9,"Inoe, Kazuki",OF,33,0.962,48,3,2,0,,61163881
+2008,Regular Season,Hanshin Tigers,7,"Imaoka, Makoto",3B,44,0.930,16,50,5,6,,61163884
+2008,Regular Season,Chunichi Dragons,35,"Ueda, Yoshinori",OF,1,0.000,0,0,0,0,,61163885
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,60,"Ito, Takeshi",P,4,0.000,0,0,0,0,,61163888
+2008,Regular Season,Chiba Lotte Marines,23,"Otsuka, Akira",1B,1,1.000,2,0,0,0,,61163889
+2008,Regular Season,Chiba Lotte Marines,23,"Otsuka, Akira",OF,97,0.991,111,0,1,0,,61163889
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,65,"Ugumori, Atsushi",OF,10,1.000,6,0,0,0,,61165110
+2008,Regular Season,Tokyo Yakult Swallows,9,"Iihara, Yasushi",3B,5,0.889,4,4,1,0,,61165112
+2008,Regular Season,Tokyo Yakult Swallows,9,"Iihara, Yasushi",OF,114,0.995,184,6,1,0,,61165112
+2008,Regular Season,Tohoku Rakuten Golden Eagles,48,"Ishimine, Tadashi",C,1,1.000,6,1,0,0,1,61165116
+2008,Regular Season,Orix Buffaloes,25,"Mukae, Yuichiro",OF,32,0.974,36,1,1,0,,61265111
+2008,Regular Season,Chunichi Dragons,8,"Hirata, Ryosuke",OF,35,0.976,39,1,1,0,,61265112
+2008,Regular Season,Hiroshima Toyo Carp,35,"Nakahigashi, Naoki",OF,1,1.000,1,0,0,0,,61265114
+2008,Regular Season,Hanshin Tigers,5,"Hirano, Keiichi",2B,95,0.990,204,275,5,57,,61265115
+2008,Regular Season,Hanshin Tigers,5,"Hirano, Keiichi",OF,44,1.000,50,1,0,0,,61265115
+2008,Regular Season,Tohoku Rakuten Golden Eagles,23,"Hijirisawa, Ryo",OF,27,0.958,23,0,1,0,,61265116
+2008,Regular Season,Yokohama BayStars,12,"Yoshikawa, Teruaki",P,4,1.000,2,3,0,0,,61265119
+2008,Regular Season,Tokyo Yakult Swallows,32,"Ono, Kosei",C,1,1.000,3,0,0,0,0,61363884
+2008,Regular Season,Yokohama BayStars,20,"Kizuka, Atsushi",P,16,1.000,0,1,0,0,,61365111
+2008,Regular Season,Saitama Seibu Lions,15,"Onuma, Koji",P,52,0.957,6,16,1,1,,61365113
+2008,Regular Season,Hiroshima Toyo Carp,46,"Oshima, Takayuki",P,16,1.000,2,5,0,0,,61365115
+2008,Regular Season,Fukuoka Softbank Hawks,53,"Kaneko, Keisuke",1B,6,1.000,14,0,0,2,,61365119
+2008,Regular Season,Fukuoka Softbank Hawks,53,"Kaneko, Keisuke",2B,5,1.000,10,8,0,1,,61365119
+2008,Regular Season,Fukuoka Softbank Hawks,53,"Kaneko, Keisuke",OF,5,1.000,6,0,0,0,,61365119
+2008,Regular Season,Fukuoka Softbank Hawks,53,"Kaneko, Keisuke",SS,4,0.929,4,9,1,1,,61365119
+2008,Regular Season,Orix Buffaloes,45,"Mitsuhara, Atsuhiro",P,2,0.000,0,0,0,0,,61465110
+2008,Regular Season,Chiba Lotte Marines,50,"Agbayani, Benny",OF,54,1.000,63,0,0,0,,61465119
+2008,Regular Season,Hiroshima Toyo Carp,55,"Shima, Shigenobu",OF,81,0.991,115,1,1,1,,61563880
+2008,Regular Season,Chiba Lotte Marines,41,"Kobayashi, Hiroyuki",P,23,0.903,9,19,3,0,,61563884
+2008,Regular Season,Orix Buffaloes,13,"Shimizu, Akio",P,34,1.000,0,1,0,0,,61563886
+2008,Regular Season,Chiba Lotte Marines,16,"Kubo, Yasutomo",P,33,1.000,4,13,0,1,,61565110
+2008,Regular Season,Chiba Lotte Marines,12,"Kawasaki, Yusuke",P,65,0.909,1,9,1,0,,61565112
+2008,Regular Season,Hiroshima Toyo Carp,44,"Kida, Go",1B,3,1.000,6,0,0,0,,61565115
+2008,Regular Season,Hiroshima Toyo Carp,44,"Kida, Go",3B,21,0.897,10,25,4,3,,61565115
+2008,Regular Season,Hiroshima Toyo Carp,44,"Kida, Go",OF,2,1.000,4,0,0,0,,61565115
+2008,Regular Season,Chiba Lotte Marines,62,"Kanazawa, Takeshi",C,13,0.977,77,7,2,0,0,61565117
+2008,Regular Season,Hanshin Tigers,35,"Saka, Katsuhiko",2B,3,1.000,0,4,0,1,,61565119
+2008,Regular Season,Hanshin Tigers,35,"Saka, Katsuhiko",3B,4,0.875,1,6,1,1,,61565119
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,29,"Yagi, Tomoya",P,2,1.000,1,0,0,0,,61665112
+2008,Regular Season,Fukuoka Softbank Hawks,19,"Morifuku, Masahiko",P,6,0.000,0,0,0,0,,61665114
+2008,Regular Season,Yokohama BayStars,31,"Yoshimura, Yuki",OF,140,0.992,251,11,2,4,,61665117
+2008,Regular Season,Yomiuri Giants,12,"Suzuki, Takahiro",OF,95,0.992,121,3,1,2,,61763884
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,22,"Tateyama, Yoshinori",P,58,1.000,3,3,0,1,,61763888
+2008,Regular Season,Chunichi Dragons,23,"Suzuki, Yoshihiro",P,8,1.000,1,1,0,0,,61765110
+2008,Regular Season,Saitama Seibu Lions,44,"Takayama, Hisashi",OF,16,1.000,17,1,0,0,,61765111
+2008,Regular Season,Chunichi Dragons,38,"Saito, Shinsuke",P,17,1.000,1,2,0,0,,61765112
+2008,Regular Season,Saitama Seibu Lions,10,"Sato, Tomoaki",OF,55,0.989,88,0,1,0,,61765113
+2008,Regular Season,Yokohama BayStars,57,"Sanada, Hiroki",P,26,1.000,4,8,0,0,,61765115
+2008,Regular Season,Yokohama BayStars,60,"Sato, Shoma",P,16,0.833,1,4,1,0,,61765116
+2008,Regular Season,Hanshin Tigers,30,"Kubota, Tomoyuki",P,69,0.957,3,19,1,0,,61765117
+2008,Regular Season,Chiba Lotte Marines,67,"Shinzato, Ken",2B,2,1.000,2,2,0,1,,61765119
+2008,Regular Season,Chiba Lotte Marines,67,"Shinzato, Ken",C,2,1.000,4,0,0,0,0,61765119
+2008,Regular Season,Yokohama BayStars,45,"Yoshihara, Michiomi",P,25,1.000,0,5,0,0,,61865114
+2008,Regular Season,Yokohama BayStars,6,"Bigbie, Larry",OF,44,1.000,51,1,0,0,,61865116
+2008,Regular Season,Fukuoka Softbank Hawks,58,"Tsuji, Takeshi",OF,83,0.976,79,3,2,1,,61963886
+2008,Regular Season,Yomiuri Giants,20,"Toyoda, Kiyoshi",P,50,1.000,1,15,0,2,,61963887
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,11,"Darvish, Yu",P,25,0.977,6,37,1,4,,61965110
+2008,Regular Season,Tokyo Yakult Swallows,58,"Takagi, Hiromitsu",P,5,0.000,0,0,0,0,,61965112
+2008,Regular Season,Yokohama BayStars,9,"Shimokubo, Yosuke",OF,4,1.000,3,0,0,0,,61965114
+2008,Regular Season,Fukuoka Softbank Hawks,70,"Tanoe, Hidenori",1B,7,1.000,49,4,0,4,,61965115
+2008,Regular Season,Fukuoka Softbank Hawks,70,"Tanoe, Hidenori",C,34,1.000,170,9,0,2,1,61965115
+2008,Regular Season,Yomiuri Giants,5,"Ramirez, Alex",OF,134,0.977,171,2,4,0,,63165113
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,10,"Sledge, Terrmel",1B,38,1.000,287,19,0,17,,63165116
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,10,"Sledge, Terrmel",OF,23,1.000,20,0,0,0,,63165116
+2008,Regular Season,Orix Buffaloes,12,"Koronka, John",P,3,1.000,1,0,0,0,,63365116
+2008,Regular Season,Yokohama BayStars,5,"Ishii, Takuro",SS,79,0.988,118,211,4,41,,65563868
+2008,Regular Season,Hanshin Tigers,22,"Fujikawa, Kyuji",P,63,0.923,2,10,1,1,,71073888
+2008,Regular Season,Fukuoka Softbank Hawks,27,"Nakanishi, Kenta",OF,46,0.968,58,2,2,1,,71075110
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,38,"Takeda, Masaru",P,20,1.000,3,14,0,0,,71075112
+2008,Regular Season,Chunichi Dragons,18,"Nakazato, Atsushi",P,13,1.000,0,2,0,0,,71075113
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,66,"Dāsu, Romashutasuku",P,1,0.000,0,0,0,0,,71075114
+2008,Regular Season,Chunichi Dragons,2,"Araki, Masahiro",2B,130,0.985,329,415,11,74,,71173882
+2008,Regular Season,Chunichi Dragons,2,"Araki, Masahiro",SS,1,1.000,2,0,0,0,,71173882
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,4,"Iiyama, Yuji",3B,12,0.667,0,2,1,0,,71173886
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,4,"Iiyama, Yuji",SS,60,0.960,31,65,4,14,,71173886
+2008,Regular Season,Yokohama BayStars,44,"Ishii, Yuya",P,35,1.000,2,4,0,1,,71175110
+2008,Regular Season,Chiba Lotte Marines,53,"Aihara, Katsuyuki",P,4,0.500,0,1,1,0,,71175112
+2008,Regular Season,Chunichi Dragons,41,"Asao, Takuya",P,44,0.944,3,14,1,3,,71175114
+2008,Regular Season,Tokyo Yakult Swallows,48,"Hagiwara, Jun",P,25,1.000,2,4,0,0,,71273885
+2008,Regular Season,Fukuoka Softbank Hawks,26,"Matoba, Naoki",C,7,1.000,21,0,0,0,0,71275111
+2008,Regular Season,Tohoku Rakuten Golden Eagles,66,"Nishimura, Wataru",2B,6,1.000,10,9,0,0,,71275112
+2008,Regular Season,Tohoku Rakuten Golden Eagles,66,"Nishimura, Wataru",3B,1,0.000,0,0,0,0,,71275112
+2008,Regular Season,Tohoku Rakuten Golden Eagles,66,"Nishimura, Wataru",SS,3,1.000,3,10,0,1,,71275112
+2008,Regular Season,Hiroshima Toyo Carp,26,"Hirose, Jun",3B,3,0.667,0,2,1,0,,71275113
+2008,Regular Season,Hiroshima Toyo Carp,26,"Hirose, Jun",OF,7,1.000,4,2,0,0,,71275113
+2008,Regular Season,Yokohama BayStars,28,"Hata, Yuji",P,2,0.000,0,0,0,0,,71275115
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,64,"Tsuruoka, Shinya",C,95,0.998,582,37,1,7,4,71275117
+2008,Regular Season,Hanshin Tigers,13,"Kanemura, Satoru",P,8,1.000,0,10,0,0,,71373880
+2008,Regular Season,Fukuoka Softbank Hawks,11,"Ogura, Shinsuke",P,29,0.857,0,6,1,0,,71373888
+2008,Regular Season,Chiba Lotte Marines,29,"Ono, Shingo",P,15,1.000,6,18,0,2,,71373889
+2008,Regular Season,Chiba Lotte Marines,10,"Omatsu, Shoitsu",OF,125,0.990,190,5,2,2,,71375110
+2008,Regular Season,Hanshin Tigers,33,"Katsuragi, Ikuro",1B,34,0.996,217,12,1,23,,71375111
+2008,Regular Season,Hanshin Tigers,33,"Katsuragi, Ikuro",OF,52,1.000,61,3,0,0,,71375111
+2008,Regular Season,Tohoku Rakuten Golden Eagles,98,"Uchimura, Kensuke",2B,39,0.988,73,91,2,14,,71375116
+2008,Regular Season,Tohoku Rakuten Golden Eagles,98,"Uchimura, Kensuke",SS,9,0.895,10,7,2,2,,71375116
+2008,Regular Season,Saitama Seibu Lions,49,"Uemoto, Tatsuyuki",1B,8,0.955,20,1,1,6,,71375117
+2008,Regular Season,Saitama Seibu Lions,49,"Uemoto, Tatsuyuki",C,2,1.000,2,0,0,0,0,71375117
+2008,Regular Season,Chunichi Dragons,59,"Ogawa, Masatoshi",C,8,1.000,31,3,0,0,0,71375119
+2008,Regular Season,Orix Buffaloes,99,"Yoshikawa, Katsunari",P,2,0.000,0,0,0,0,,71475111
+2008,Regular Season,Fukuoka Softbank Hawks,40,"Fujioka, Yoshiaki",P,11,1.000,2,3,0,1,,71475112
+2008,Regular Season,Fukuoka Softbank Hawks,62,"Yamazaki, Katsuki",C,58,1.000,311,18,0,2,1,71475113
+2008,Regular Season,Saitama Seibu Lions,27,"Hosokawa, Toru",C,133,0.995,862,77,5,9,8,71475115
+2008,Regular Season,Yokohama BayStars,56,"Saito, Hidemitsu",1B,4,1.000,12,0,0,1,,71573889
+2008,Regular Season,Yokohama BayStars,56,"Saito, Hidemitsu",SS,2,1.000,1,1,0,1,,71573889
+2008,Regular Season,Yomiuri Giants,45,"Odajima, Masakuni",1B,2,1.000,6,0,0,1,,71575115
+2008,Regular Season,Yomiuri Giants,50,"Kajimae, Ryuichi",OF,27,0.909,19,1,2,0,,71575116
+2008,Regular Season,Chiba Lotte Marines,31,"Watanabe, Shunsuke",P,26,1.000,11,32,0,4,,71675113
+2008,Regular Season,Tokyo Yakult Swallows,22,"Masubuchi, Tatsuyoshi",P,12,1.000,5,6,0,0,,71675114
+2008,Regular Season,Hiroshima Toyo Carp,22,"Takahashi, Ken",P,21,1.000,7,22,0,1,,71773880
+2008,Regular Season,Orix Buffaloes,31,"Shiozaki, Makoto",1B,6,1.000,8,0,0,0,,71773884
+2008,Regular Season,Orix Buffaloes,31,"Shiozaki, Makoto",2B,7,1.000,16,12,0,3,,71773884
+2008,Regular Season,Orix Buffaloes,31,"Shiozaki, Makoto",3B,67,0.961,19,55,3,5,,71773884
+2008,Regular Season,Orix Buffaloes,31,"Shiozaki, Makoto",SS,15,0.980,13,36,1,9,,71773884
+2008,Regular Season,Yokohama BayStars,49,"Saito, Toshio",C,20,0.991,96,9,1,0,1,71775110
+2008,Regular Season,Orix Buffaloes,33,"Takagi, Yasunari",P,10,1.000,1,3,0,0,,71775111
+2008,Regular Season,Tohoku Rakuten Golden Eagles,54,"Kitani, Hisashi",P,22,1.000,3,5,0,1,,71775112
+2008,Regular Season,Orix Buffaloes,24,"Goto, Mitsutaka",2B,93,0.988,217,267,6,61,,71775115
+2008,Regular Season,Orix Buffaloes,24,"Goto, Mitsutaka",3B,1,1.000,0,1,0,0,,71775115
+2008,Regular Season,Orix Buffaloes,24,"Goto, Mitsutaka",SS,27,0.991,37,68,1,10,,71775115
+2008,Regular Season,Yomiuri Giants,41,"Kisanuki, Hiroshi",P,14,1.000,2,15,0,1,,71775117
+2008,Regular Season,Chunichi Dragons,16,"Sato, Mitsuru",P,8,1.000,2,9,0,0,,71775119
+2008,Regular Season,Tokyo Yakult Swallows,2,"Riggs, Adam",1B,25,0.991,193,17,2,16,,71875110
+2008,Regular Season,Yomiuri Giants,47,"Yamaguchi, Tetsuya",P,67,1.000,5,16,0,1,,71875112
+2008,Regular Season,Saitama Seibu Lions,40,"Kinney, Matt",P,17,0.900,3,6,1,1,,71875116
+2008,Regular Season,Tokyo Yakult Swallows,78,"Gonzalez, Dicky",P,8,1.000,1,2,0,0,,71875119
+2008,Regular Season,Hiroshima Toyo Carp,42,"Hasegawa, Masayuki",P,14,1.000,4,9,0,1,,71973882
+2008,Regular Season,Chunichi Dragons,33,"Hirai, Masafumi",P,37,1.000,1,9,0,0,,71973889
+2008,Regular Season,Chiba Lotte Marines,25,"Takehara, Naotaka",OF,41,1.000,40,0,0,0,,71975110
+2008,Regular Season,Chunichi Dragons,67,"Takahashi, Akifumi",P,54,1.000,2,8,0,0,,71975115
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,31,"Koyano, Eiichi",1B,70,1.000,262,16,0,25,,71975117
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,31,"Koyano, Eiichi",3B,72,0.965,28,81,4,8,,71975117
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,31,"Koyano, Eiichi",OF,36,1.000,54,2,0,0,,71975117
+2008,Regular Season,Chiba Lotte Marines,39,"Tanaka, Masahiko",2B,24,0.976,30,52,2,8,,71975119
+2008,Regular Season,Chiba Lotte Marines,39,"Tanaka, Masahiko",3B,4,0.000,0,0,0,0,,71975119
+2008,Regular Season,Chiba Lotte Marines,39,"Tanaka, Masahiko",C,10,1.000,22,5,0,0,2,71975119
+2008,Regular Season,Saitama Seibu Lions,55,"Bocachica, Hiram",OF,74,0.957,148,6,7,0,,73175116
+2008,Regular Season,Hanshin Tigers,4,"Vogelsong, Ryan",P,12,0.917,2,9,1,1,,73375114
+2008,Regular Season,Hanshin Tigers,52,"Baldiris, Aarom",2B,3,1.000,4,10,0,4,,73375116
+2008,Regular Season,Hanshin Tigers,52,"Baldiris, Aarom",3B,68,0.971,26,75,3,6,,73375116
+2008,Regular Season,Chiba Lotte Marines,5,"Hori, Koichi",1B,7,1.000,29,3,0,4,,73873868
+2008,Regular Season,Chiba Lotte Marines,5,"Hori, Koichi",2B,21,0.973,34,39,2,4,,73873868
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,33,"Miki, Hajime",1B,7,1.000,42,4,0,2,,81083882
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,33,"Miki, Hajime",3B,3,0.500,0,2,2,0,,81083882
+2008,Regular Season,Yomiuri Giants,33,"Nomaguchi, Takahiko",P,17,0.944,4,13,1,1,,81085110
+2008,Regular Season,Hanshin Tigers,32,"Maeda, Tadatoki",3B,1,1.000,1,1,0,0,,81085111
+2008,Regular Season,Chunichi Dragons,22,"Tanaka, Daisuke",C,16,1.000,51,9,0,1,0,81085114
+2008,Regular Season,Saitama Seibu Lions,60,"Nakamura, Takeya",1B,8,1.000,13,1,0,1,,81085115
+2008,Regular Season,Saitama Seibu Lions,60,"Nakamura, Takeya",3B,139,0.939,80,256,22,18,,81085115
+2008,Regular Season,Tokyo Yakult Swallows,25,"Tateyama, Shohei",P,24,0.971,12,21,1,1,,81085117
+2008,Regular Season,Yokohama BayStars,36,"Iriki, Yusaku",P,3,0.000,0,0,0,0,,81183884
+2008,Regular Season,Chunichi Dragons,13,"Iwase, Hitoki",P,51,1.000,0,10,0,1,,81183888
+2008,Regular Season,Hiroshima Toyo Carp,39,"Umetsu, Tomohiro",P,64,1.000,3,9,0,1,,81185110
+2008,Regular Season,Saitama Seibu Lions,51,"Oshima, Hiroyuki",1B,17,0.975,107,12,3,13,,81185111
+2008,Regular Season,Saitama Seibu Lions,51,"Oshima, Hiroyuki",OF,13,1.000,8,0,0,0,,81185111
+2008,Regular Season,Tohoku Rakuten Golden Eagles,39,"Ino, Suguru",C,23,0.980,91,7,2,2,0,81185112
+2008,Regular Season,Fukuoka Softbank Hawks,51,"Arakane, Hisao",OF,55,0.984,63,0,1,0,,81185113
+2008,Regular Season,Chunichi Dragons,46,"Iwasaki, Tatsuro",2B,10,1.000,10,22,0,2,,81185114
+2008,Regular Season,Chunichi Dragons,46,"Iwasaki, Tatsuro",SS,7,1.000,2,4,0,1,,81185114
+2008,Regular Season,Orix Buffaloes,61,"Itoh, Hikaru",C,1,1.000,1,0,0,0,0,81185116
+2008,Regular Season,Yomiuri Giants,26,"Utsumi, Tetsuya",P,29,0.976,12,29,1,3,,81185119
+2008,Regular Season,Hanshin Tigers,42,"Shimoyanagi, Tsuyoshi",P,27,0.955,10,32,2,0,,81283883
+2008,Regular Season,Tohoku Rakuten Golden Eagles,99,"Nakamura, Masato",OF,41,0.970,63,1,2,0,,81285114
+2008,Regular Season,Saitama Seibu Lions,19,"Hirano, Masamitsu",P,11,1.000,2,4,0,0,,81285116
+2008,Regular Season,Chunichi Dragons,68,"Nagamine, Shoji",P,33,0.875,1,6,1,0,,81285117
+2008,Regular Season,Orix Buffaloes,66,"Yoshida, Shintaro",OF,4,1.000,2,0,0,0,,81285119
+2008,Regular Season,Orix Buffaloes,23,"Kitagawa, Hirotoshi",1B,24,1.000,117,10,0,8,,81383880
+2008,Regular Season,Orix Buffaloes,23,"Kitagawa, Hirotoshi",3B,87,0.943,37,129,10,10,,81383880
+2008,Regular Season,Yomiuri Giants,35,"Kamei, Yoshiyuki",OF,85,0.984,119,1,2,0,,81385110
+2008,Regular Season,Tohoku Rakuten Golden Eagles,58,"Kimura, Koichiro",C,6,0.889,7,1,1,0,0,81385111
+2008,Regular Season,Yomiuri Giants,62,"Ochi, Daisuke",P,68,1.000,5,6,0,0,,81385112
+2008,Regular Season,Tokyo Yakult Swallows,26,"Okamoto, Hidehiro",P,1,0.000,0,0,0,0,,81385116
+2008,Regular Season,Tohoku Rakuten Golden Eagles,51,"Kawagishi, Tsuyoshi",P,54,1.000,7,6,0,0,,81385119
+2008,Regular Season,Chiba Lotte Marines,40,"Watanabe, Masato",1B,1,1.000,2,0,0,0,,81483886
+2008,Regular Season,Chiba Lotte Marines,40,"Watanabe, Masato",2B,4,1.000,3,3,0,0,,81483886
+2008,Regular Season,Chiba Lotte Marines,40,"Watanabe, Masato",3B,9,1.000,1,4,0,0,,81483886
+2008,Regular Season,Chiba Lotte Marines,40,"Watanabe, Masato",SS,16,0.951,12,27,2,10,,81483886
+2008,Regular Season,Hiroshima Toyo Carp,30,"Mori, Choji",P,2,0.000,0,0,0,0,,81485110
+2008,Regular Season,Tohoku Rakuten Golden Eagles,68,"Masuda, Shintaro",3B,2,1.000,1,2,0,1,,81485112
+2008,Regular Season,Orix Buffaloes,20,"Yamamoto, Shogo",P,30,1.000,9,28,0,2,,81485113
+2008,Regular Season,Yokohama BayStars,25,"Murata, Shuichi",3B,132,0.957,88,267,16,27,,81485117
+2008,Regular Season,Chiba Lotte Marines,48,"Takagi, Koji",P,43,1.000,1,6,0,0,,81583864
+2008,Regular Season,Hiroshima Toyo Carp,9,"Ogata, Koichi",OF,4,1.000,1,0,0,0,,81583866
+2008,Regular Season,Tohoku Rakuten Golden Eagles,57,"Koyama, Shinichiro",P,54,1.000,6,10,0,0,,81583884
+2008,Regular Season,Tokyo Yakult Swallows,00,"Kawashima, Keizo",3B,42,0.953,28,74,5,4,,81585112
+2008,Regular Season,Tokyo Yakult Swallows,00,"Kawashima, Keizo",OF,43,0.966,26,2,1,0,,81585112
+2008,Regular Season,Tokyo Yakult Swallows,00,"Kawashima, Keizo",SS,54,0.981,68,141,4,24,,81585112
+2008,Regular Season,Fukuoka Softbank Hawks,39,"Kume, Yuki",P,40,0.818,2,7,2,0,,81585116
+2008,Regular Season,Tohoku Rakuten Golden Eagles,50,"Guzman, Domingo",P,23,0.903,3,25,3,1,,81685115
+2008,Regular Season,Hanshin Tigers,27,"Atchison, Scott",P,42,0.943,8,25,2,3,,81685116
+2008,Regular Season,Hanshin Tigers,31,"Wei-chu, Lin",OF,43,1.000,57,1,0,0,,81685117
+2008,Regular Season,Hanshin Tigers,3,"Sekimoto, Kentaro",1B,26,0.994,151,11,1,9,,81783884
+2008,Regular Season,Hanshin Tigers,3,"Sekimoto, Kentaro",2B,58,0.991,88,129,2,29,,81783884
+2008,Regular Season,Hanshin Tigers,3,"Sekimoto, Kentaro",3B,93,0.994,37,123,1,9,,81783884
+2008,Regular Season,Hiroshima Toyo Carp,21,"Saito, Yuki",P,6,1.000,0,3,0,0,,81785112
+2008,Regular Season,Chiba Lotte Marines,55,"Kobe, Takumi",1B,4,0.968,26,4,1,2,,81785114
+2008,Regular Season,Chiba Lotte Marines,55,"Kobe, Takumi",OF,16,0.958,22,1,1,0,,81785114
+2008,Regular Season,Tokyo Yakult Swallows,0,"Shida, Munehiro",OF,13,1.000,10,0,0,0,,81785115
+2008,Regular Season,Tokyo Yakult Swallows,11,"Satoh, Yoshinori",P,6,1.000,5,2,0,1,,81785116
+2008,Regular Season,Tohoku Rakuten Golden Eagles,2,"Watanabe, Naoto",SS,131,0.972,186,360,16,62,,81885114
+2008,Regular Season,Yokohama BayStars,42,"Hughes, Travis",P,21,0.800,0,4,1,0,,81885116
+2008,Regular Season,Fukuoka Softbank Hawks,10,"Honma, Mitsuru",1B,25,1.000,64,2,0,2,,81983880
+2008,Regular Season,Fukuoka Softbank Hawks,10,"Honma, Mitsuru",2B,16,0.977,19,24,1,7,,81983880
+2008,Regular Season,Fukuoka Softbank Hawks,10,"Honma, Mitsuru",3B,2,0.833,1,4,1,0,,81983880
+2008,Regular Season,Fukuoka Softbank Hawks,10,"Honma, Mitsuru",SS,5,1.000,4,5,0,0,,81983880
+2008,Regular Season,Orix Buffaloes,27,"Hidaka, Takeshi",C,129,0.993,782,57,6,5,2,81983882
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,7,"Tsuboi, Tomochika",OF,9,1.000,6,0,0,0,,81983886
+2008,Regular Season,Hanshin Tigers,28,"Fukuhara, Shinobu",P,8,1.000,1,9,0,0,,81983888
+2008,Regular Season,Tokyo Yakult Swallows,55,"Noguchi, Yoshiyuki",1B,5,1.000,22,0,0,0,,81985111
+2008,Regular Season,Tokyo Yakult Swallows,55,"Noguchi, Yoshiyuki",3B,9,1.000,1,7,0,0,,81985111
+2008,Regular Season,Tokyo Yakult Swallows,55,"Noguchi, Yoshiyuki",OF,1,0.000,0,0,0,0,,81985111
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Takaguchi, Takayuki",1B,6,1.000,25,3,0,3,,81985112
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Takaguchi, Takayuki",3B,43,0.958,21,48,3,3,,81985112
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Takaguchi, Takayuki",SS,26,0.929,22,57,6,8,,81985112
+2008,Regular Season,Yokohama BayStars,50,"Shimozono, Tatsuya",OF,18,1.000,33,1,0,0,,81985114
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,16,"Tadano, Kazuhito",P,19,1.000,5,17,0,2,,81985116
+2008,Regular Season,Chunichi Dragons,57,"Agramonte, Tomasu Hijo De La Rosa",2B,8,0.949,21,16,2,0,,83185116
+2008,Regular Season,Chunichi Dragons,57,"Agramonte, Tomasu Hijo De La Rosa",3B,33,0.930,13,27,3,4,,83185116
+2008,Regular Season,Chunichi Dragons,57,"Agramonte, Tomasu Hijo De La Rosa",SS,40,0.988,48,112,2,16,,83185116
+2008,Regular Season,Hiroshima Toyo Carp,93,"Marte, Victor",P,1,0.000,0,0,0,0,,83385112
+2008,Regular Season,Chiba Lotte Marines,49,"Sikorski, Brian",P,54,0.714,2,3,2,1,,83385113
+2008,Regular Season,Hanshin Tigers,69,"Resop, Chris",P,8,1.000,0,4,0,0,,83385116
+2008,Regular Season,Fukuoka Softbank Hawks,20,"Standridge, Jason",P,3,1.000,2,1,0,0,,83585114
+2008,Regular Season,Chunichi Dragons,27,"Tanishige, Motonobu",C,113,0.996,737,51,3,10,3,85583868
+2008,Regular Season,Chunichi Dragons,51,"Nakamura, Issei",OF,8,1.000,8,0,0,0,,91095110
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,18,"Fujii, Shugo",P,19,1.000,4,21,0,0,,91095111
+2008,Regular Season,Fukuoka Softbank Hawks,0,"Nakazawa, Tadaatsu",1B,15,1.000,37,1,0,2,,91095113
+2008,Regular Season,Fukuoka Softbank Hawks,0,"Nakazawa, Tadaatsu",2B,30,0.990,44,59,1,6,,91095113
+2008,Regular Season,Fukuoka Softbank Hawks,0,"Nakazawa, Tadaatsu",3B,1,1.000,0,1,0,0,,91095113
+2008,Regular Season,Fukuoka Softbank Hawks,0,"Nakazawa, Tadaatsu",SS,12,0.919,15,19,3,2,,91095113
+2008,Regular Season,Tokyo Yakult Swallows,14,"Takaichi, Shun",P,1,0.000,0,0,0,0,,91095114
+2008,Regular Season,Yokohama BayStars,24,"Terahara, Hayato",P,41,1.000,4,14,0,1,,91095115
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,41,"Inaba, Atsunori",OF,98,1.000,194,5,0,3,,91193880
+2008,Regular Season,Saitama Seibu Lions,5,"Ishii, Yoshihito",1B,35,0.992,238,12,2,16,,91193884
+2008,Regular Season,Saitama Seibu Lions,5,"Ishii, Yoshihito",2B,16,0.969,23,39,2,10,,91193884
+2008,Regular Season,Saitama Seibu Lions,5,"Ishii, Yoshihito",3B,5,1.000,3,7,0,0,,91193884
+2008,Regular Season,Tokyo Yakult Swallows,53,"Igarashi, Ryota",P,44,1.000,1,7,0,0,,91193886
+2008,Regular Season,Yokohama BayStars,52,"Ishikawa, Takehiro",2B,8,1.000,14,24,0,5,,91195110
+2008,Regular Season,Yokohama BayStars,52,"Ishikawa, Takehiro",3B,13,0.931,8,19,2,3,,91195110
+2008,Regular Season,Yokohama BayStars,52,"Ishikawa, Takehiro",SS,57,0.966,68,132,7,27,,91195110
+2008,Regular Season,Tohoku Rakuten Golden Eagles,41,"Aoyama, Kouji",P,41,1.000,5,4,0,1,,91195112
+2008,Regular Season,Hanshin Tigers,53,"Akahoshi, Norihiro",OF,144,0.992,251,4,2,1,,91195113
+2008,Regular Season,Fukuoka Softbank Hawks,18,"Arakaki, Nagisa",P,15,0.889,5,11,2,0,,91195117
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,26,"Itoi, Yoshio",OF,61,0.983,112,4,2,1,,91195119
+2008,Regular Season,Hanshin Tigers,2,"Noguchi, Toshihiro",C,55,0.987,274,23,4,3,4,91293881
+2008,Regular Season,Yokohama BayStars,99,"Yokoyama, Yukiya",P,51,1.000,2,9,0,0,,91293882
+2008,Regular Season,Tokyo Yakult Swallows,31,"Manaka, Mitsuru",OF,1,0.000,0,0,0,0,,91293887
+2008,Regular Season,Fukuoka Softbank Hawks,44,"Mizuta, Akio",P,15,1.000,1,2,0,0,,91293888
+2008,Regular Season,Tokyo Yakult Swallows,4,"Watarai, Hirobumi",1B,1,1.000,1,0,0,0,,91293889
+2008,Regular Season,Tohoku Rakuten Golden Eagles,33,"Hiraishi, Yosuke",OF,6,1.000,4,0,0,0,,91295110
+2008,Regular Season,Fukuoka Softbank Hawks,64,"Nishiyama, Michitaka",P,2,0.000,0,0,0,0,,91295112
+2008,Regular Season,Chiba Lotte Marines,44,"Hayakawa, Daisuke",OF,126,0.992,237,3,2,1,,91295115
+2008,Regular Season,Chiba Lotte Marines,28,"Nemoto, Tomohisa",P,25,1.000,0,5,0,0,,91295116
+2008,Regular Season,Tohoku Rakuten Golden Eagles,61,"Kawaguchi, Kenshi",1B,1,1.000,1,0,0,0,,91393880
+2008,Regular Season,Tohoku Rakuten Golden Eagles,61,"Kawaguchi, Kenshi",OF,23,1.000,20,0,0,0,,91393880
+2008,Regular Season,Chunichi Dragons,28,"Oda, Kohei",C,41,0.990,179,19,2,3,1,91393886
+2008,Regular Season,Yokohama BayStars,41,"Oyamada, Yasuhiro",P,39,1.000,4,4,0,0,,91393888
+2008,Regular Season,Fukuoka Softbank Hawks,69,"Ide, Shotaro",OF,23,0.921,34,1,3,1,,91395115
+2008,Regular Season,Tokyo Yakult Swallows,65,"Oshimoto, Takehiko",P,67,0.923,2,10,1,2,,91395119
+2008,Regular Season,Tohoku Rakuten Golden Eagles,40,"Yoshizaki, Masaru",P,17,1.000,1,2,0,0,,91495111
+2008,Regular Season,Chunichi Dragons,00,"Maeda, Akihiro",C,3,1.000,3,0,0,0,0,91495115
+2008,Regular Season,Orix Buffaloes,22,"Maeda, Daisuke",C,23,1.000,97,7,0,0,1,91495117
+2008,Regular Season,Yomiuri Giants,9,"Shimizu, Takayuki",OF,8,0.800,4,0,1,0,,91593882
+2008,Regular Season,Yokohama BayStars,1,"Kinjo, Tatsuhiko",OF,132,0.991,223,2,2,0,,91593888
+2008,Regular Season,Hiroshima Toyo Carp,48,"Kishimoto, Hideki",P,37,0.750,0,6,2,0,,91595110
+2008,Regular Season,Tohoku Rakuten Golden Eagles,14,"Satake, Kenta",P,24,1.000,1,3,0,1,,91595111
+2008,Regular Season,Orix Buffaloes,10,"Obiki, Keiji",SS,86,0.982,128,248,7,55,,91595114
+2008,Regular Season,Tokyo Yakult Swallows,39,"Kajimoto, Yusuke",2B,2,1.000,0,3,0,0,,91595115
+2008,Regular Season,Tokyo Yakult Swallows,39,"Kajimoto, Yusuke",3B,12,0.941,4,12,1,2,,91595115
+2008,Regular Season,Orix Buffaloes,8,"Rhodes, Tuffy",OF,27,0.979,45,1,1,0,,91693882
+2008,Regular Season,Chiba Lotte Marines,45,"Matsumoto, Kodai",P,18,0.667,0,2,1,0,,91695114
+2008,Regular Season,Orix Buffaloes,30,"Larocca, Greg",1B,1,1.000,9,0,0,0,,91695119
+2008,Regular Season,Orix Buffaloes,30,"Larocca, Greg",3B,25,0.939,16,46,4,5,,91695119
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,32,"Nakajima, Satoshi",C,22,1.000,21,0,0,0,0,91793864
+2008,Regular Season,Hanshin Tigers,00,"Tanaka, Shuta",3B,3,1.000,0,1,0,0,,91793880
+2008,Regular Season,Fukuoka Softbank Hawks,1,"Shibahara, Hiroshi",OF,87,0.994,164,4,1,0,,91793884
+2008,Regular Season,Orix Buffaloes,44,"Suzuki, Fumihiro",C,17,1.000,38,1,0,0,0,91793886
+2008,Regular Season,Orix Buffaloes,2,"Kimoto, Kuniyuki",1B,4,1.000,13,1,0,0,,91795113
+2008,Regular Season,Orix Buffaloes,2,"Kimoto, Kuniyuki",2B,3,1.000,4,6,0,0,,91795113
+2008,Regular Season,Orix Buffaloes,2,"Kimoto, Kuniyuki",3B,7,1.000,2,12,0,1,,91795113
+2008,Regular Season,Saitama Seibu Lions,11,"Kishi, Takayuki",P,26,0.929,6,20,2,0,,91795114
+2008,Regular Season,Orix Buffaloes,65,"Kondoh, Kazuki",P,25,0.967,4,25,1,1,,91795115
+2008,Regular Season,Tohoku Rakuten Golden Eagles,24,"Yamazaki, Takahiro",OF,14,1.000,26,1,0,0,,91895112
+2008,Regular Season,Tohoku Rakuten Golden Eagles,5,"Seguignol, Fernando",1B,28,1.000,198,12,0,10,,91895115
+2008,Regular Season,Hiroshima Toyo Carp,34,"Kozlowski, Ben",P,26,0.667,1,5,3,0,,91895116
+2008,Regular Season,Chiba Lotte Marines,4,"Ortiz, Jose",1B,35,0.986,201,12,3,17,,91895117
+2008,Regular Season,Chiba Lotte Marines,4,"Ortiz, Jose",2B,40,0.974,84,100,5,20,,91895117
+2008,Regular Season,Chiba Lotte Marines,4,"Ortiz, Jose",3B,19,0.881,8,29,5,3,,91895117
+2008,Regular Season,Chiba Lotte Marines,33,"Hashimoto, Tasuku",C,69,0.996,430,24,2,3,1,91993880
+2008,Regular Season,Yomiuri Giants,8,"Tani, Yoshitomo",OF,109,0.988,154,6,2,1,,91993884
+2008,Regular Season,Saitama Seibu Lions,8,"Hirao, Hiroshi",1B,19,1.000,95,6,0,3,,91993889
+2008,Regular Season,Saitama Seibu Lions,8,"Hirao, Hiroshi",2B,15,0.972,14,21,1,3,,91993889
+2008,Regular Season,Saitama Seibu Lions,8,"Hirao, Hiroshi",3B,4,1.000,5,7,0,0,,91993889
+2008,Regular Season,Saitama Seibu Lions,37,"Sumitani, Ginjiro",C,44,1.000,121,17,0,2,1,91995112
+2008,Regular Season,Hokkaido Nippon-Ham Fighters,52,"Konta, Toshimasa",OF,73,1.000,96,1,0,1,,91995117
+2008,Regular Season,Hanshin Tigers,19,"Tsutsui, Kazuya",P,3,0.000,0,0,0,0,,91995119
+2008,Regular Season,Yokohama BayStars,51,"Suzuki, Takanori",OF,1,0.000,0,0,0,0,,93193883
+2008,Regular Season,Tokyo Yakult Swallows,5,"Guiel, Aaron",OF,59,1.000,106,5,0,1,,93195114
+2008,Regular Season,Tokyo Yakult Swallows,34,"Rios, Daniel",P,11,0.960,11,13,1,2,,93195116
+2008,Regular Season,Orix Buffaloes,91,"Junge, Eric",P,11,1.000,0,1,0,0,,93395116
+2008,Regular Season,Yomiuri Giants,44,"Omichi, Noriyoshi",1B,4,1.000,24,1,0,1,,93993868

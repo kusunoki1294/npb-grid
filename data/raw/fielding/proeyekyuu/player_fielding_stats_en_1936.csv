@@ -1,0 +1,368 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+1936 Spring,Regular Season,Nagoya Club,3,"Sakurai, Shozo",P,1,,,,,,,01003872
+1936 Fall,Regular Season,Dai Tokyo,17,"Asahara, Naoto",1B,15,0.961,170,4,7,6,,01103872
+1936 Fall,Regular Season,Dai Tokyo,17,"Asahara, Naoto",C,5,0.972,24,11,1,3,6,01103872
+1936 Spring,Regular Season,Nagoya Club,8,"Asahara, Naoto",1B,4,,,,,,,01103872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,19,"Sei, Kiyoshi",2B,2,1.000,0,2,0,0,,01203872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,19,"Sei, Kiyoshi",3B,11,0.892,10,23,4,1,,01203872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,19,"Sei, Kiyoshi",SS,4,0.933,7,7,1,2,,01203872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,19,"Sei, Kiyoshi",SS,7,,,,,,,01203872
+1936 Fall,Regular Season,Nagoya Club,10,"Iwata, Tsuguo",3B,26,0.890,38,91,16,9,,01303872
+1936 Spring,Regular Season,Nagoya Club,10,"Iwata, Tsuguo",3B,13,,,,,,,01303872
+1936 Fall,Regular Season,Dai Tokyo,16,"Tsubochi, Michinori",OF,28,0.948,54,1,3,0,,01403872
+1936 Spring,Regular Season,Nagoya Club,9,"Okamura, Nobuo",3B,2,,,,,,,01503872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,16,"Nakamura, Teruo",1B,3,1.000,11,1,0,0,,01603872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,16,"Nakamura, Teruo",C,19,0.964,93,13,4,0,5,01603872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,16,"Nakamura, Teruo",C,2,,,,,,,01603872
+1936 Fall,Regular Season,Dai Tokyo,2,"Kimata, Takeo",OF,24,1.000,31,2,0,0,,01703872
+1936 Spring,Regular Season,Dai Tokyo,2,"Kimata, Takeo",OF,13,,,,,,,01703872
+1936 Fall,Regular Season,Nagoya Club,6,"Harris, Bucky",C,23,0.976,88,33,3,4,4,01803872
+1936 Spring,Regular Season,Nagoya Club,6,"Harris, Bucky",C,15,,,,,,,01803872
+1936 Spring,Regular Season,Nagoya Club,6,"Harris, Bucky",P,1,,,,,,,01803872
+1936 Fall,Regular Season,Nagoya Club,1,"Kojima, Shigeo",1B,5,0.983,58,0,1,4,,01903872
+1936 Fall,Regular Season,Osaka Tigers,11,"Fujii, Isamu",1B,10,1.000,68,4,0,1,,03103872
+1936 Fall,Regular Season,Osaka Tigers,11,"Fujii, Isamu",OF,25,0.935,40,3,3,0,,03103872
+1936 Spring,Regular Season,Osaka Tigers,11,"Fujii, Isamu",OF,15,,,,,,,03103872
+1936 Fall,Regular Season,Nagoya Club,3,"Matsura, Kazuyoshi",P,17,1.000,7,35,0,3,,03303872
+1936 Spring,Regular Season,Nagoya Club,3,"Matsura, Kazuyoshi",P,6,,,,,,,03303872
+1936 Fall,Regular Season,Hankyu Club,1,"Miyatake, Saburo",3B,10,0.917,7,26,3,6,,03503872
+1936 Spring,Regular Season,Hankyu Club,1,"Miyatake, Saburo",1B,7,,,,,,,03503872
+1936 Spring,Regular Season,Hankyu Club,1,"Miyatake, Saburo",3B,6,,,,,,,03503872
+1936 Spring,Regular Season,Hankyu Club,1,"Miyatake, Saburo",OF,6,,,,,,,03503872
+1936 Spring,Regular Season,Hankyu Club,1,"Miyatake, Saburo",P,2,,,,,,,03503872
+1936 Fall,Regular Season,Hankyu Club,2,"Yamashita, Minoru",1B,29,0.977,301,3,7,24,,03703872
+1936 Spring,Regular Season,Hankyu Club,2,"Yamashita, Minoru",1B,6,,,,,,,03703872
+1936 Spring,Regular Season,Hankyu Club,2,"Yamashita, Minoru",OF,12,,,,,,,03703872
+1936 Fall,Regular Season,Dai Tokyo,15,"Kondo, Hisashi",P,12,1.000,2,15,0,1,,11013872
+1936 Spring,Regular Season,Dai Tokyo,15,"Kondo, Hisashi",P,6,,,,,,,11013872
+1936 Fall,Regular Season,Hankyu Club,8,"Shimamoto, Yoshifumi",C,13,0.971,61,5,2,0,1,11213872
+1936 Fall,Regular Season,Tokyo Senators,20,"Iemura, Sotaro",1B,18,0.989,171,4,2,21,,11313872
+1936 Fall,Regular Season,Tokyo Senators,20,"Iemura, Sotaro",OF,10,0.857,6,0,1,0,,11313872
+1936 Spring,Regular Season,Tokyo Senators,20,"Iemura, Sotaro",1B,5,,,,,,,11313872
+1936 Fall,Regular Season,Tokyo Senators,22,"Takeda, Isamu",OF,7,0.900,8,1,1,0,,11413872
+1936 Fall,Regular Season,Dai Tokyo,4,"Endo, Chujiro",1B,1,0.909,9,1,1,0,,11513872
+1936 Fall,Regular Season,Dai Tokyo,4,"Endo, Chujiro",2B,6,0.818,6,3,2,0,,11513872
+1936 Fall,Regular Season,Dai Tokyo,4,"Endo, Chujiro",3B,6,0.957,5,17,1,1,,11513872
+1936 Fall,Regular Season,Dai Tokyo,4,"Endo, Chujiro",P,13,1.000,2,40,0,2,,11513872
+1936 Spring,Regular Season,Dai Tokyo,4,"Endo, Chujiro",1B,2,,,,,,,11513872
+1936 Spring,Regular Season,Dai Tokyo,4,"Endo, Chujiro",OF,2,,,,,,,11513872
+1936 Spring,Regular Season,Dai Tokyo,4,"Endo, Chujiro",P,6,,,,,,,11513872
+1936 Fall,Regular Season,Tokyo Kyojin,3,"Nakajima, Haruyasu",OF,18,1.000,28,3,0,1,,11613872
+1936 Spring,Regular Season,Tokyo Kyojin,3,"Nakajima, Haruyasu",1B,2,,,,,,,11613872
+1936 Spring,Regular Season,Tokyo Kyojin,3,"Nakajima, Haruyasu",OF,5,,,,,,,11613872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,20,"Kanai, Kiyoshi",OF,6,1.000,5,0,0,0,,11713872
+1936 Fall,Regular Season,Hankyu Club,14,"Nishimura, Masao",OF,26,1.000,48,1,0,0,,11813872
+1936 Spring,Regular Season,Hankyu Club,14,"Nishimura, Masao",OF,15,,,,,,,11813872
+1936 Fall,Regular Season,Tokyo Kyojin,12,"Kura, Nobuo",C,2,1.000,8,1,0,0,1,11913872
+1936 Spring,Regular Season,Tokyo Kyojin,12,"Kura, Nobuo",C,1,,,,,,,11913872
+1936 Spring,Regular Season,Dai Tokyo,9,"Ban, Yoshio",2B,2,,,,,,,13113872
+1936 Spring,Regular Season,Dai Tokyo,9,"Ban, Yoshio",3B,1,,,,,,,13113872
+1936 Fall,Regular Season,Hankyu Club,23,"Horio, Fumihito",OF,29,0.973,70,1,2,0,,13313872
+1936 Spring,Regular Season,Hankyu Club,23,"Horio, Fumihito",3B,2,,,,,,,13313872
+1936 Spring,Regular Season,Hankyu Club,23,"Horio, Fumihito",OF,6,,,,,,,13313872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,3,"Mikami, Yoshio",OF,18,0.973,33,3,1,2,,13513872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,3,"Mikami, Yoshio",OF,12,,,,,,,13513872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,7,"Yasunaga, Seishiro",1B,9,1.000,52,2,0,3,,13713872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,7,"Yasunaga, Seishiro",2B,6,0.864,10,9,3,0,,13713872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,7,"Yasunaga, Seishiro",3B,13,0.878,12,24,5,4,,13713872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,7,"Yasunaga, Seishiro",1B,6,,,,,,,13713872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,7,"Yasunaga, Seishiro",3B,3,,,,,,,13713872
+1936 Fall,Regular Season,Osaka Tigers,18,"Wakabayashi, Tadashi",P,12,0.938,5,25,2,0,,13913872
+1936 Spring,Regular Season,Osaka Tigers,18,"Wakabayashi, Tadashi",P,9,,,,,,,13913872
+1936 Fall,Regular Season,Tokyo Kyojin,14,"Sawamura, Eiji",P,15,1.000,1,32,0,3,,21023872
+1936 Spring,Regular Season,Tokyo Kyojin,14,"Sawamura, Eiji",P,4,,,,,,,21023872
+1936 Fall,Regular Season,Osaka Tigers,1,"Igaue, Jungo",3B,18,0.924,14,47,5,3,,21123872
+1936 Fall,Regular Season,Osaka Tigers,1,"Igaue, Jungo",SS,6,0.939,7,24,2,2,,21123872
+1936 Spring,Regular Season,Osaka Tigers,1,"Igaue, Jungo",2B,7,,,,,,,21123872
+1936 Spring,Regular Season,Osaka Tigers,1,"Igaue, Jungo",3B,2,,,,,,,21123872
+1936 Spring,Regular Season,Osaka Tigers,1,"Igaue, Jungo",SS,6,,,,,,,21123872
+1936 Fall,Regular Season,Dai Tokyo,18,"Tagawa, Hiroshi",C,1,1.000,1,0,0,0,0,21223872
+1936 Fall,Regular Season,Hankyu Club,10,"Uno, Kinji",2B,30,0.962,64,62,5,16,,21323872
+1936 Spring,Regular Season,Hankyu Club,10,"Uno, Kinji",1B,6,,,,,,,21323872
+1936 Spring,Regular Season,Hankyu Club,10,"Uno, Kinji",2B,13,,,,,,,21323872
+1936 Fall,Regular Season,Nagoya Club,17,"Kato, Tomo",P,4,0.000,0,0,1,0,,21523872
+1936 Fall,Regular Season,Tokyo Kyojin,10,"Nakayama, Takeshi",C,23,0.989,153,22,2,2,2,21623872
+1936 Spring,Regular Season,Tokyo Kyojin,10,"Nakayama, Takeshi",C,7,,,,,,,21623872
+1936 Fall,Regular Season,Dai Tokyo,3,"Kito, Kazuo",1B,3,0.960,24,0,1,1,,21723872
+1936 Fall,Regular Season,Dai Tokyo,3,"Kito, Kazuo",OF,11,1.000,11,2,0,0,,21723872
+1936 Spring,Regular Season,Dai Tokyo,3,"Kito, Kazuo",2B,2,,,,,,,21723872
+1936 Spring,Regular Season,Dai Tokyo,3,"Kito, Kazuo",OF,14,,,,,,,21723872
+1936 Fall,Regular Season,Nagoya Club,21,"Haga, Naokazu",2B,4,0.875,3,4,1,0,,21823872
+1936 Fall,Regular Season,Nagoya Club,21,"Haga, Naokazu",SS,18,0.910,25,66,9,7,,21823872
+1936 Fall,Regular Season,Osaka Tigers,21,"Kojima, Toshio",2B,31,0.929,74,71,11,14,,21923872
+1936 Fall,Regular Season,Osaka Tigers,10,"Fujimura, Fumio",OF,13,1.000,12,0,0,0,,23123872
+1936 Fall,Regular Season,Osaka Tigers,10,"Fujimura, Fumio",P,11,0.895,2,15,2,0,,23123872
+1936 Spring,Regular Season,Osaka Tigers,10,"Fujimura, Fumio",2B,5,,,,,,,23123872
+1936 Spring,Regular Season,Osaka Tigers,10,"Fujimura, Fumio",P,8,,,,,,,23123872
+1936 Fall,Regular Season,Osaka Tigers,9,"Matsuki, Kenjiro",1B,26,0.977,252,8,6,17,,23323872
+1936 Spring,Regular Season,Osaka Tigers,9,"Matsuki, Kenjiro",1B,15,,,,,,,23323872
+1936 Spring,Regular Season,Dai Tokyo,11,"Murakawa, Yukinobu",1B,1,,,,,,,23523872
+1936 Spring,Regular Season,Dai Tokyo,11,"Murakawa, Yukinobu",C,11,,,,,,,23523872
+1936 Fall,Regular Season,Tokyo Kyojin,9,"Yamamoto, Eiichiro",OF,14,0.938,13,2,1,1,,23723872
+1936 Spring,Regular Season,Tokyo Kyojin,9,"Yamamoto, Eiichiro",2B,2,,,,,,,23723872
+1936 Spring,Regular Season,Tokyo Kyojin,9,"Yamamoto, Eiichiro",OF,2,,,,,,,23723872
+1936 Spring,Regular Season,Tokyo Senators,16,"Sato, Kikuo",OF,18,,,,,,,31033872
+1936 Fall,Regular Season,Tokyo Senators,6,"Aoki, Kozo",OF,15,0.842,15,1,3,0,,31133872
+1936 Spring,Regular Season,Tokyo Senators,6,"Aoki, Kozo",OF,14,,,,,,,31133872
+1936 Fall,Regular Season,Tokyo Kyojin,8,"Shiraishi, Katsumi",SS,27,0.918,56,89,13,6,,31233872
+1936 Spring,Regular Season,Tokyo Kyojin,8,"Shiraishi, Katsumi",3B,3,,,,,,,31233872
+1936 Spring,Regular Season,Tokyo Kyojin,8,"Shiraishi, Katsumi",SS,4,,,,,,,31233872
+1936 Spring,Regular Season,Dai Tokyo,6,"Ikeda, Junzo",2B,5,,,,,,,31333872
+1936 Spring,Regular Season,Dai Tokyo,6,"Ikeda, Junzo",SS,9,,,,,,,31333872
+1936 Fall,Regular Season,Hankyu Club,11,"Takeda, Sukekazu",3B,2,0.667,0,2,1,0,,31433872
+1936 Spring,Regular Season,Hankyu Club,11,"Takeda, Sukekazu",2B,2,,,,,,,31433872
+1936 Spring,Regular Season,Hankyu Club,11,"Takeda, Sukekazu",3B,1,,,,,,,31433872
+1936 Spring,Regular Season,Hankyu Club,11,"Takeda, Sukekazu",SS,2,,,,,,,31433872
+1936 Fall,Regular Season,Osaka Tigers,2,"Ogawa, Toshiyasu",C,31,0.977,152,20,4,1,1,31533872
+1936 Spring,Regular Season,Osaka Tigers,2,"Ogawa, Toshiyasu",C,11,,,,,,,31533872
+1936 Fall,Regular Season,Nagoya Club,15,"Nakane, Susumu",OF,25,0.979,44,2,1,1,,31633872
+1936 Spring,Regular Season,Nagoya Club,15,"Nakane, Susumu",OF,11,,,,,,,31633872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,11,"Kaneko, Hiroshi",OF,2,0.000,0,0,0,0,,31733872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,11,"Kaneko, Hiroshi",P,3,1.000,0,3,0,0,,31733872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,11,"Kaneko, Hiroshi",P,4,,,,,,,31733872
+1936 Spring,Regular Season,Nagoya Club,5,"North, Herbert",P,12,,,,,,,31833872
+1936 Fall,Regular Season,Hankyu Club,17,"Kuramoto, Shingo",3B,1,0.500,0,2,2,0,,31933872
+1936 Fall,Regular Season,Hankyu Club,17,"Kuramoto, Shingo",C,22,0.971,82,18,3,2,0,31933872
+1936 Spring,Regular Season,Hankyu Club,17,"Kuramoto, Shingo",C,16,,,,,,,31933872
+1936 Fall,Regular Season,Hankyu Club,5,"Hidaka, Tokuyuki",1B,1,1.000,12,0,0,0,,33133872
+1936 Spring,Regular Season,Hankyu Club,5,"Hidaka, Tokuyuki",OF,6,,,,,,,33133872
+1936 Fall,Regular Season,Tokyo Kyojin,18,"Maekawa, Hachiro",2B,9,0.967,17,12,1,2,,33333872
+1936 Fall,Regular Season,Tokyo Kyojin,18,"Maekawa, Hachiro",3B,10,0.875,11,17,4,2,,33333872
+1936 Fall,Regular Season,Tokyo Kyojin,18,"Maekawa, Hachiro",OF,5,0.875,5,2,1,0,,33333872
+1936 Fall,Regular Season,Tokyo Kyojin,18,"Maekawa, Hachiro",P,10,1.000,4,18,0,1,,33333872
+1936 Spring,Regular Season,Tokyo Kyojin,18,"Maekawa, Hachiro",2B,3,,,,,,,33333872
+1936 Spring,Regular Season,Tokyo Kyojin,18,"Maekawa, Hachiro",3B,2,,,,,,,33333872
+1936 Spring,Regular Season,Tokyo Kyojin,18,"Maekawa, Hachiro",P,4,,,,,,,33333872
+1936 Fall,Regular Season,Tokyo Kyojin,21,"Mihara, Osamu",2B,13,0.982,33,22,1,1,,33533872
+1936 Fall,Regular Season,Dai Tokyo,20,"Yanagisawa, Toichi",SS,4,0.750,0,6,2,0,,33733872
+1936 Spring,Regular Season,Hankyu Club,6,"Watanabe, Toshio",2B,1,,,,,,,33933872
+1936 Fall,Regular Season,Hankyu Club,18,"Shite, Kiyohiko",OF,10,1.000,6,0,0,0,,41043872
+1936 Fall,Regular Season,Dai Tokyo,21,"Ito, Katsuzo",1B,8,1.000,78,3,0,4,,41143872
+1936 Fall,Regular Season,Dai Tokyo,21,"Ito, Katsuzo",C,1,0.833,5,0,1,0,1,41143872
+1936 Spring,Regular Season,Dai Tokyo,21,"Ito, Katsuzo",1B,2,,,,,,,41143872
+1936 Spring,Regular Season,Dai Tokyo,21,"Ito, Katsuzo",C,2,,,,,,,41143872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,9,"Takatani, Shoji",OF,23,1.000,29,3,0,1,,41243872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,9,"Takatani, Shoji",1B,2,,,,,,,41243872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,9,"Takatani, Shoji",OF,5,,,,,,,41243872
+1936 Fall,Regular Season,Tokyo Kyojin,11,"Uchibori, Tamotsu",C,8,0.978,38,6,1,2,0,41343872
+1936 Spring,Regular Season,Tokyo Kyojin,11,"Uchibori, Tamotsu",3B,1,,,,,,,41343872
+1936 Spring,Regular Season,Tokyo Kyojin,11,"Uchibori, Tamotsu",C,1,,,,,,,41343872
+1936 Fall,Regular Season,Tokyo Senators,19,"Toguchi, Senichi",C,1,0.000,0,0,0,0,0,41443872
+1936 Fall,Regular Season,Osaka Tigers,20,"Kato, Nobuo",2B,3,1.000,3,1,0,0,,41543872
+1936 Fall,Regular Season,Osaka Tigers,20,"Kato, Nobuo",3B,2,1.000,1,3,0,0,,41543872
+1936 Spring,Regular Season,Osaka Tigers,20,"Kato, Nobuo",2B,2,,,,,,,41543872
+1936 Fall,Regular Season,Tokyo Kyojin,4,"Nagasawa, Fujio",1B,14,0.991,105,6,1,3,,41643872
+1936 Spring,Regular Season,Tokyo Kyojin,4,"Nagasawa, Fujio",1B,5,,,,,,,41643872
+1936 Fall,Regular Season,Osaka Tigers,14,"Kikuya, Yoshio",P,6,0.875,2,5,1,0,,41743872
+1936 Spring,Regular Season,Osaka Tigers,14,"Kikuya, Yoshio",OF,2,,,,,,,41743872
+1936 Fall,Regular Season,Tokyo Kyojin,15,"Hatafuku, Toshihide",OF,1,0.000,0,0,0,0,,41843872
+1936 Fall,Regular Season,Tokyo Kyojin,15,"Hatafuku, Toshihide",P,6,0.875,2,5,1,0,,41843872
+1936 Spring,Regular Season,Tokyo Kyojin,15,"Hatafuku, Toshihide",P,5,,,,,,,41843872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,18,"Kobayashi, Toshizo",1B,2,1.000,14,0,0,1,,41943872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,18,"Kobayashi, Toshizo",2B,9,0.905,8,11,2,1,,41943872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,18,"Kobayashi, Toshizo",3B,6,0.714,8,12,8,3,,41943872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,12,"Furuya, Kuranosuke",1B,21,0.990,92,3,1,3,,43143872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,12,"Furuya, Kuranosuke",2B,2,1.000,2,4,0,0,,43143872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,12,"Furuya, Kuranosuke",P,18,1.000,0,24,0,0,,43143872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,12,"Furuya, Kuranosuke",1B,5,,,,,,,43143872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,12,"Furuya, Kuranosuke",P,7,,,,,,,43143872
+1936 Fall,Regular Season,Tokyo Senators,23,"Matsunaga, Eiichi",C,7,0.964,25,2,1,1,2,43343872
+1936 Fall,Regular Season,Osaka Tigers,7,"Murata, Shigeharu",P,1,1.000,0,3,0,0,,43543872
+1936 Spring,Regular Season,Dai Tokyo,,"Yamamoto, Hisatoshi",SS,5,,,,,,,43743872
+1936 Fall,Regular Season,Osaka Tigers,19,"Sato, Takeo",C,1,0.000,0,0,0,0,0,51053872
+1936 Spring,Regular Season,Osaka Tigers,19,"Sato, Takeo",C,1,,,,,,,51053872
+1936 Fall,Regular Season,Tokyo Kyojin,13,"Aoshiba, Kenichi",P,5,0.875,0,7,1,0,,51153872
+1936 Spring,Regular Season,Tokyo Kyojin,13,"Aoshiba, Kenichi",P,2,,,,,,,51153872
+1936 Fall,Regular Season,Tokyo Kyojin,17,"Starffin, Victor",P,3,1.000,2,10,0,0,,51253872
+1936 Spring,Regular Season,Tokyo Kyojin,17,"Starffin, Victor",P,1,,,,,,,51253872
+1936 Fall,Regular Season,Hankyu Club,3,"Ishida, Mitsuhiko",2B,1,0.000,0,0,0,0,,51353872
+1936 Fall,Regular Season,Hankyu Club,3,"Ishida, Mitsuhiko",3B,1,0.000,0,0,1,0,,51353872
+1936 Fall,Regular Season,Hankyu Club,3,"Ishida, Mitsuhiko",OF,1,0.000,0,0,0,0,,51353872
+1936 Fall,Regular Season,Hankyu Club,3,"Ishida, Mitsuhiko",P,18,0.962,4,46,2,4,,51353872
+1936 Spring,Regular Season,Hankyu Club,3,"Ishida, Mitsuhiko",2B,5,,,,,,,51353872
+1936 Spring,Regular Season,Hankyu Club,3,"Ishida, Mitsuhiko",3B,2,,,,,,,51353872
+1936 Spring,Regular Season,Hankyu Club,3,"Ishida, Mitsuhiko",P,2,,,,,,,51353872
+1936 Fall,Regular Season,Tokyo Kyojin,2,"Tsuda, Shiro",2B,5,0.900,5,4,1,1,,51453872
+1936 Fall,Regular Season,Tokyo Kyojin,2,"Tsuda, Shiro",3B,5,1.000,2,8,0,0,,51453872
+1936 Spring,Regular Season,Tokyo Kyojin,2,"Tsuda, Shiro",3B,3,,,,,,,51453872
+1936 Fall,Regular Season,Dai Tokyo,5,"Otomo, Kazuaki",2B,25,0.894,58,52,13,5,,51553872
+1936 Fall,Regular Season,Dai Tokyo,5,"Otomo, Kazuaki",P,4,0.917,3,8,1,1,,51553872
+1936 Fall,Regular Season,Dai Tokyo,5,"Otomo, Kazuaki",SS,1,0.500,1,0,1,0,,51553872
+1936 Spring,Regular Season,Dai Tokyo,5,"Otomo, Kazuaki",2B,8,,,,,,,51553872
+1936 Spring,Regular Season,Dai Tokyo,5,"Otomo, Kazuaki",3B,4,,,,,,,51553872
+1936 Spring,Regular Season,Dai Tokyo,5,"Otomo, Kazuaki",OF,1,,,,,,,51553872
+1936 Spring,Regular Season,Dai Tokyo,5,"Otomo, Kazuaki",P,4,,,,,,,51553872
+1936 Spring,Regular Season,Hankyu Club,7,"Nakamura, Kazuo",3B,8,,,,,,,51653872
+1936 Spring,Regular Season,Hankyu Club,7,"Nakamura, Kazuo",SS,2,,,,,,,51653872
+1936 Fall,Regular Season,Tokyo Senators,15,"Karita, Hisanori",2B,28,0.952,113,106,11,34,,51753872
+1936 Spring,Regular Season,Tokyo Senators,15,"Karita, Hisanori",2B,18,,,,,,,51753872
+1936 Fall,Regular Season,Tokyo Senators,18,"Noguchi, Akira",1B,6,0.969,29,2,1,5,,51853872
+1936 Fall,Regular Season,Tokyo Senators,18,"Noguchi, Akira",C,1,1.000,1,0,0,0,0,51853872
+1936 Fall,Regular Season,Tokyo Senators,18,"Noguchi, Akira",OF,4,1.000,1,0,0,0,,51853872
+1936 Fall,Regular Season,Tokyo Senators,18,"Noguchi, Akira",P,19,0.938,7,38,3,2,,51853872
+1936 Spring,Regular Season,Tokyo Senators,18,"Noguchi, Akira",1B,1,,,,,,,51853872
+1936 Spring,Regular Season,Tokyo Senators,18,"Noguchi, Akira",OF,2,,,,,,,51853872
+1936 Spring,Regular Season,Tokyo Senators,18,"Noguchi, Akira",P,13,,,,,,,51853872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,4,"Kurosawa, Toshio",OF,25,0.979,42,5,1,2,,51953872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,4,"Kurosawa, Toshio",OF,12,,,,,,,51953872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,15,"Hirakawa, Kiyomi",1B,3,1.000,17,0,0,0,,53153872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,15,"Hirakawa, Kiyomi",OF,1,1.000,1,0,0,0,,53153872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,15,"Hirakawa, Kiyomi",P,3,1.000,0,2,0,0,,53153872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,15,"Hirakawa, Kiyomi",1B,2,,,,,,,53153872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,15,"Hirakawa, Kiyomi",P,4,,,,,,,53153872
+1936 Fall,Regular Season,Nagoya Club,14,"Maeda, Kiyoshi",OF,22,1.000,39,2,0,0,,53353872
+1936 Spring,Regular Season,Nagoya Club,14,"Maeda, Kiyoshi",OF,16,,,,,,,53353872
+1936 Fall,Regular Season,Osaka Tigers,15,"Misono, Takao",OF,9,1.000,6,0,0,0,,53553872
+1936 Fall,Regular Season,Osaka Tigers,15,"Misono, Takao",P,13,0.952,3,17,1,0,,53553872
+1936 Spring,Regular Season,Osaka Tigers,15,"Misono, Takao",3B,2,,,,,,,53553872
+1936 Spring,Regular Season,Osaka Tigers,15,"Misono, Takao",OF,6,,,,,,,53553872
+1936 Spring,Regular Season,Osaka Tigers,15,"Misono, Takao",P,4,,,,,,,53553872
+1936 Fall,Regular Season,Osaka Tigers,8,"Yamaguchi, Masanobu",OF,31,0.914,49,4,5,0,,53753872
+1936 Spring,Regular Season,Osaka Tigers,8,"Yamaguchi, Masanobu",OF,13,,,,,,,53753872
+1936 Fall,Regular Season,Tokyo Senators,4,"Watanuki, Soji",1B,1,1.000,16,0,0,1,,53953872
+1936 Spring,Regular Season,Tokyo Senators,4,"Watanuki, Soji",1B,12,,,,,,,53953872
+1936 Fall,Regular Season,Hankyu Club,22,"Shigematsu, Michio",P,9,0.952,2,18,1,0,,61063872
+1936 Fall,Regular Season,Tokyo Kyojin,5,"Ito, Kentaro",OF,27,0.975,36,3,1,2,,61163872
+1936 Spring,Regular Season,Tokyo Kyojin,5,"Ito, Kentaro",OF,7,,,,,,,61163872
+1936 Fall,Regular Season,Tokyo Senators,1,"Takahashi, Teruhiko",1B,4,1.000,31,2,0,4,,61263872
+1936 Fall,Regular Season,Tokyo Senators,1,"Takahashi, Teruhiko",3B,23,0.867,18,67,13,7,,61263872
+1936 Fall,Regular Season,Tokyo Senators,1,"Takahashi, Teruhiko",OF,1,0.000,0,0,0,0,,61263872
+1936 Fall,Regular Season,Tokyo Senators,1,"Takahashi, Teruhiko",SS,5,0.833,9,11,4,2,,61263872
+1936 Spring,Regular Season,Tokyo Senators,1,"Takahashi, Teruhiko",3B,16,,,,,,,61263872
+1936 Fall,Regular Season,Dai Tokyo,7,"Urushibara, Susumu",3B,26,0.844,24,68,17,2,,61363872
+1936 Spring,Regular Season,Dai Tokyo,7,"Urushibara, Susumu",1B,13,,,,,,,61363872
+1936 Spring,Regular Season,Dai Tokyo,7,"Urushibara, Susumu",OF,1,,,,,,,61363872
+1936 Spring,Regular Season,Dai Tokyo,22,"Toda, Kazumasa",OF,1,,,,,,,61463872
+1936 Fall,Regular Season,Osaka Tigers,6,"Kageura, Masaru",3B,15,0.962,13,38,2,4,,61563872
+1936 Fall,Regular Season,Osaka Tigers,6,"Kageura, Masaru",OF,12,1.000,15,3,0,1,,61563872
+1936 Fall,Regular Season,Osaka Tigers,6,"Kageura, Masaru",P,8,1.000,2,16,0,0,,61563872
+1936 Spring,Regular Season,Osaka Tigers,6,"Kageura, Masaru",3B,14,,,,,,,61563872
+1936 Spring,Regular Season,Osaka Tigers,6,"Kageura, Masaru",OF,1,,,,,,,61563872
+1936 Spring,Regular Season,Osaka Tigers,6,"Kageura, Masaru",P,1,,,,,,,61563872
+1936 Fall,Regular Season,Tokyo Kyojin,20,"Narita, Tomosaburo",P,2,1.000,0,1,0,0,,61663872
+1936 Fall,Regular Season,Hankyu Club,15,"Kitai, Masao",2B,1,1.000,2,0,0,0,,61763872
+1936 Fall,Regular Season,Hankyu Club,15,"Kitai, Masao",OF,2,1.000,1,1,0,1,,61763872
+1936 Fall,Regular Season,Hankyu Club,15,"Kitai, Masao",P,13,0.972,6,29,1,1,,61763872
+1936 Spring,Regular Season,Hankyu Club,15,"Kitai, Masao",P,11,,,,,,,61763872
+1936 Fall,Regular Season,Nagoya Club,18,"Hattori, Kazuo",OF,9,0.929,12,1,1,0,,61863872
+1936 Spring,Regular Season,Nagoya Club,18,"Hattori, Kazuo",OF,3,,,,,,,61863872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,17,"Gomi, Yoshio",2B,14,0.913,19,23,4,5,,61963872
+1936 Fall,Regular Season,Dai Tokyo,20,"Bonner, Jimmy",1B,1,1.000,7,1,0,0,,63163872
+1936 Fall,Regular Season,Dai Tokyo,20,"Bonner, Jimmy",2B,3,0.750,4,5,3,0,,63163872
+1936 Fall,Regular Season,Dai Tokyo,20,"Bonner, Jimmy",P,4,1.000,1,6,0,0,,63163872
+1936 Fall,Regular Season,Dai Tokyo,20,"Bonner, Jimmy",SS,2,0.500,1,0,1,0,,63163872
+1936 Fall,Regular Season,Hankyu Club,12,"Matsumoto, Kozaburo",C,3,1.000,7,0,0,0,0,63363872
+1936 Spring,Regular Season,Hankyu Club,12,"Matsumoto, Kozaburo",C,4,,,,,,,63363872
+1936 Fall,Regular Season,Nagoya Club,19,"Morii, Shigeru",P,20,0.971,1,32,1,3,,63563872
+1936 Fall,Regular Season,Tokyo Senators,11,"Yokozawa, Shiro",OF,13,0.941,15,1,1,0,,63763872
+1936 Fall,Regular Season,Dai Tokyo,23,"Saito, Suetoshi",2B,4,1.000,7,3,0,0,,71073872
+1936 Fall,Regular Season,Dai Tokyo,23,"Saito, Suetoshi",3B,1,0.000,0,0,1,0,,71073872
+1936 Fall,Regular Season,Dai Tokyo,23,"Saito, Suetoshi",SS,2,0.000,0,0,0,0,,71073872
+1936 Fall,Regular Season,Tokyo Senators,7,"Asaoka, Saburo",OF,6,0.875,7,0,1,0,,71173872
+1936 Fall,Regular Season,Tokyo Senators,7,"Asaoka, Saburo",P,13,1.000,2,26,0,1,,71173872
+1936 Spring,Regular Season,Tokyo Senators,7,"Asaoka, Saburo",P,9,,,,,,,71173872
+1936 Fall,Regular Season,Nagoya Club,7,"Suzuki, Hideo",C,4,1.000,11,5,0,1,2,71273872
+1936 Spring,Regular Season,Nagoya Club,7,"Suzuki, Hideo",C,2,,,,,,,71273872
+1936 Fall,Regular Season,Tokyo Senators,9,"Ishihara, Shigezo",1B,1,1.000,1,0,0,0,,71373872
+1936 Fall,Regular Season,Tokyo Senators,9,"Ishihara, Shigezo",P,16,0.920,2,21,2,5,,71373872
+1936 Spring,Regular Season,Tokyo Senators,9,"Ishihara, Shigezo",P,9,,,,,,,71373872
+1936 Fall,Regular Season,Tokyo Kyojin,7,"Tsutsui, Osamu",1B,19,0.961,138,8,6,3,,71473872
+1936 Fall,Regular Season,Tokyo Kyojin,7,"Tsutsui, Osamu",2B,8,0.957,11,11,1,0,,71473872
+1936 Fall,Regular Season,Tokyo Kyojin,7,"Tsutsui, Osamu",3B,1,0.667,0,2,1,0,,71473872
+1936 Spring,Regular Season,Tokyo Kyojin,7,"Tsutsui, Osamu",2B,4,,,,,,,71473872
+1936 Spring,Regular Season,Tokyo Kyojin,7,"Tsutsui, Osamu",SS,3,,,,,,,71473872
+1936 Fall,Regular Season,Tokyo Senators,3,"Onuki, Ken",1B,2,1.000,14,0,0,3,,71573872
+1936 Fall,Regular Season,Tokyo Senators,3,"Onuki, Ken",OF,24,0.980,46,3,1,1,,71573872
+1936 Spring,Regular Season,Tokyo Senators,3,"Onuki, Ken",1B,5,,,,,,,71573872
+1936 Spring,Regular Season,Tokyo Senators,3,"Onuki, Ken",OF,10,,,,,,,71573872
+1936 Fall,Regular Season,Tokyo Senators,2,"Nakamura, Shinichi",SS,26,0.918,48,87,12,20,,71673872
+1936 Spring,Regular Season,Tokyo Senators,2,"Nakamura, Shinichi",SS,18,,,,,,,71673872
+1936 Fall,Regular Season,Hankyu Club,4,"Kawamura, Tokuhisa",2B,1,0.000,0,0,0,0,,71773872
+1936 Fall,Regular Season,Hankyu Club,4,"Kawamura, Tokuhisa",3B,20,0.932,12,57,5,3,,71773872
+1936 Fall,Regular Season,Hankyu Club,4,"Kawamura, Tokuhisa",SS,9,0.875,11,24,5,3,,71773872
+1936 Spring,Regular Season,Hankyu Club,4,"Kawamura, Tokuhisa",3B,2,,,,,,,71773872
+1936 Spring,Regular Season,Hankyu Club,4,"Kawamura, Tokuhisa",SS,16,,,,,,,71773872
+1936 Spring,Regular Season,Nagoya Club,11,"Nomura, Minoru",2B,16,,,,,,,71873872
+1936 Fall,Regular Season,Hankyu Club,24,"Kuroda, Kengo",SS,22,0.963,45,84,5,11,,71973872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,6,"Kuroda, Kengo",3B,10,,,,,,,71973872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,6,"Kuroda, Kengo",SS,3,,,,,,,71973872
+1936 Fall,Regular Season,Osaka Tigers,16,"Hiramasu, Toshio",OF,26,0.957,43,1,2,0,,73173872
+1936 Spring,Regular Season,Osaka Tigers,16,"Hiramasu, Toshio",OF,15,,,,,,,73173872
+1936 Fall,Regular Season,Nagoya Club,2,"Makino, Kiyoshi",P,1,1.000,1,1,0,0,,73373872
+1936 Spring,Regular Season,Nagoya Club,2,"Makino, Kiyoshi",OF,2,,,,,,,73373872
+1936 Spring,Regular Season,Nagoya Club,2,"Makino, Kiyoshi",P,8,,,,,,,73373872
+1936 Fall,Regular Season,Dai Tokyo,1,"Mizutani, Norikazu",OF,27,0.979,42,5,1,0,,73573872
+1936 Spring,Regular Season,Dai Tokyo,1,"Mizutani, Norikazu",OF,14,,,,,,,73573872
+1936 Fall,Regular Season,Tokyo Senators,5,"Yamazaki, Fumikazu",OF,9,0.900,9,0,1,0,,73773872
+1936 Spring,Regular Season,Tokyo Senators,5,"Yamazaki, Fumikazu",OF,18,,,,,,,73773872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,1,"Shima, Hidenosuke",OF,17,0.909,29,1,3,0,,81083872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,1,"Shima, Hidenosuke",OF,10,,,,,,,81083872
+1936 Fall,Regular Season,Tokyo Senators,24,"Ito, Jiro",OF,14,0.833,9,1,2,0,,81183872
+1936 Fall,Regular Season,Tokyo Senators,24,"Ito, Jiro",P,2,1.000,0,1,0,1,,81183872
+1936 Fall,Regular Season,Nagoya Club,12,"Takahashi, Yoshio",2B,17,0.964,69,37,4,11,,81283872
+1936 Fall,Regular Season,Nagoya Club,12,"Takahashi, Yoshio",SS,8,0.891,26,31,7,5,,81283872
+1936 Spring,Regular Season,Nagoya Club,12,"Takahashi, Yoshio",SS,16,,,,,,,81283872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,2,"Eguchi, Yukio",2B,6,0.974,20,18,1,4,,81383872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,2,"Eguchi, Yukio",2B,12,,,,,,,81383872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,14,"Naito, Kozo",1B,3,1.000,4,0,0,0,,81483872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,14,"Naito, Kozo",P,24,0.811,6,24,7,2,,81483872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,14,"Naito, Kozo",1B,5,,,,,,,81483872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,14,"Naito, Kozo",P,7,,,,,,,81483872
+1936 Fall,Regular Season,Dai Tokyo,8,"Katayama, Eiji",SS,28,0.851,36,101,24,6,,81583872
+1936 Spring,Regular Season,Dai Tokyo,8,"Katayama, Eiji",3B,9,,,,,,,81583872
+1936 Fall,Regular Season,Tokyo Senators,17,"Kitaura, Mitsuo",C,20,0.974,59,15,2,1,3,81783872
+1936 Spring,Regular Season,Tokyo Senators,17,"Kitaura, Mitsuo",C,18,,,,,,,81783872
+1936 Fall,Regular Season,Tokyo Kyojin,1,"Hayashi, Kiyomitsu",OF,27,0.962,50,0,2,1,,81883872
+1936 Spring,Regular Season,Tokyo Kyojin,1,"Hayashi, Kiyomitsu",OF,7,,,,,,,81883872
+1936 Fall,Regular Season,Nagoya Club,24,"Goto, Tadashi",1B,22,0.966,191,7,7,18,,81983872
+1936 Spring,Regular Season,Nagoya Club,24,"Goto, Tadashi",1B,12,,,,,,,81983872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,20,"Hoshino, Masao",2B,1,1.000,1,2,0,0,,83183872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,20,"Hoshino, Masao",3B,3,1.000,0,9,0,0,,83183872
+1936 Fall,Regular Season,Hankyu Club,19,"Maruo, Chitoji",P,1,0.500,0,1,1,0,,83383872
+1936 Spring,Regular Season,Hankyu Club,19,"Maruo, Chitoji",OF,4,,,,,,,83383872
+1936 Spring,Regular Season,Hankyu Club,19,"Maruo, Chitoji",P,9,,,,,,,83383872
+1936 Fall,Regular Season,Osaka Tigers,17,"Monzen, Masato",C,4,1.000,10,0,0,0,0,83583872
+1936 Spring,Regular Season,Osaka Tigers,17,"Monzen, Masato",C,6,,,,,,,83583872
+1936 Fall,Regular Season,Tokyo Senators,14,"Yokozawa, Shichiro",3B,10,0.867,18,21,6,2,,83783872
+1936 Spring,Regular Season,Tokyo Senators,14,"Yokozawa, Shichiro",3B,4,,,,,,,83783872
+1936 Fall,Regular Season,Dai Tokyo,14,"Sakurai, Shichinosuke",3B,1,0.000,0,0,2,0,,91093872
+1936 Fall,Regular Season,Dai Tokyo,14,"Sakurai, Shichinosuke",OF,1,0.000,0,0,0,0,,91093872
+1936 Fall,Regular Season,Dai Tokyo,14,"Sakurai, Shichinosuke",P,12,0.971,7,26,1,1,,91093872
+1936 Spring,Regular Season,Dai Tokyo,14,"Sakurai, Shichinosuke",P,6,,,,,,,91093872
+1936 Fall,Regular Season,Hankyu Club,9,"Yamada, Katsusaburo",OF,2,1.000,2,0,0,0,,91193872
+1936 Fall,Regular Season,Hankyu Club,9,"Yamada, Katsusaburo",P,2,0.500,1,1,2,0,,91193872
+1936 Spring,Regular Season,Hankyu Club,9,"Yamada, Katsusaburo",2B,1,,,,,,,91193872
+1936 Spring,Regular Season,Hankyu Club,9,"Yamada, Katsusaburo",OF,1,,,,,,,91193872
+1936 Spring,Regular Season,Hankyu Club,9,"Yamada, Katsusaburo",P,9,,,,,,,91193872
+1936 Fall,Regular Season,Nagoya Club,16,"Suzuki, Minoru",OF,5,1.000,3,0,0,0,,91293872
+1936 Spring,Regular Season,Nagoya Club,16,"Suzuki, Minoru",3B,2,,,,,,,91293872
+1936 Spring,Regular Season,Nagoya Club,16,"Suzuki, Minoru",OF,8,,,,,,,91293872
+1936 Fall,Regular Season,Tokyo Senators,8,"Imaoka, Kenjiro",2B,1,0.000,0,0,0,0,,91393872
+1936 Fall,Regular Season,Tokyo Senators,8,"Imaoka, Kenjiro",3B,1,1.000,0,1,0,0,,91393872
+1936 Fall,Regular Season,Tokyo Senators,8,"Imaoka, Kenjiro",OF,15,0.947,15,3,1,1,,91393872
+1936 Spring,Regular Season,Tokyo Senators,8,"Imaoka, Kenjiro",2B,1,,,,,,,91393872
+1936 Spring,Regular Season,Tokyo Senators,8,"Imaoka, Kenjiro",OF,1,,,,,,,91393872
+1936 Spring,Regular Season,Tokyo Senators,8,"Imaoka, Kenjiro",SS,2,,,,,,,91393872
+1936 Fall,Regular Season,Dai Tokyo,12,"Tsutsui, Yoshitake",1B,2,0.923,12,0,1,1,,91493872
+1936 Fall,Regular Season,Dai Tokyo,12,"Tsutsui, Yoshitake",C,23,0.930,109,23,10,1,13,91493872
+1936 Spring,Regular Season,Dai Tokyo,12,"Tsutsui, Yoshitake",2B,1,,,,,,,91493872
+1936 Spring,Regular Season,Dai Tokyo,12,"Tsutsui, Yoshitake",3B,2,,,,,,,91493872
+1936 Spring,Regular Season,Dai Tokyo,12,"Tsutsui, Yoshitake",C,6,,,,,,,91493872
+1936 Fall,Regular Season,Osaka Tigers,3,"Okada, Muneyoshi",2B,1,0.000,0,0,0,0,,91593872
+1936 Fall,Regular Season,Osaka Tigers,3,"Okada, Muneyoshi",SS,28,0.898,58,83,16,9,,91593872
+1936 Spring,Regular Season,Osaka Tigers,3,"Okada, Muneyoshi",2B,6,,,,,,,91593872
+1936 Spring,Regular Season,Osaka Tigers,3,"Okada, Muneyoshi",SS,9,,,,,,,91593872
+1936 Fall,Regular Season,Tokyo Senators,25,"Nakamura, Tamio",1B,4,1.000,32,5,0,2,,91693872
+1936 Fall,Regular Season,Tokyo Senators,25,"Nakamura, Tamio",C,5,1.000,13,3,0,0,0,91693872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,10,"Kinoshita, Hiroki",P,2,,,,,,,91793872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,8,"Nonin, Wataru",SS,25,0.891,34,72,13,9,,91893872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,8,"Nonin, Wataru",SS,3,,,,,,,91893872
+1936 Fall,Regular Season,Nagoya Club,11,"Kosaka, Saburo",2B,9,0.927,18,20,3,4,,91993872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,5,"Hirota, Shuzo",1B,8,0.965,53,2,2,4,,93193872
+1936 Fall,Regular Season,Nagoya Golden Dolphins,5,"Hirota, Shuzo",C,14,0.962,108,19,5,5,9,93193872
+1936 Spring,Regular Season,Nagoya Golden Dolphins,5,"Hirota, Shuzo",C,11,,,,,,,93193872
+1936 Fall,Regular Season,Nagoya Club,23,"Masu, Kaichi",OF,23,0.978,41,3,1,0,,93393872
+1936 Spring,Regular Season,Nagoya Club,23,"Masu, Kaichi",OF,14,,,,,,,93393872
+1936 Fall,Regular Season,Tokyo Kyojin,19,"Mizuhara, Shigeru",3B,16,0.931,14,40,4,1,,93593872
+1936 Fall,Regular Season,Hankyu Club,16,"Yamashita, Koichi",OF,30,0.986,67,3,1,1,,93793872
+1936 Spring,Regular Season,Hankyu Club,16,"Yamashita, Koichi",OF,13,,,,,,,93793872

@@ -1,0 +1,699 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+2006,Regular Season,Yomiuri Giants,44,"Horita, Ichiro",CF,8,11,11,0.091,0.091,0.182,0.273,0,0,1,0,1,0,0,2,0,0,0,0,2,0,0,0,0,01003884
+2006,Regular Season,Tohoku Rakuten Golden Eagles,44,"Nakatani, Jin",C,8,10,10,0.300,0.300,0.300,0.600,0,0,3,3,0,0,0,3,1,0,0,0,5,0,0,0,0,01003886
+2006,Regular Season,Yokohama BayStars,33,"Furuki, Katsuaki",LF,110,321,298,0.252,0.296,0.419,0.715,32,35,75,46,18,1,10,125,3,4,15,1,72,3,5,0,3,01003888
+2006,Climax Series - First Stage,Seibu Lions,3,"Nakajima, Hiroyuki",SS,3,,10,0.500,,1.000,,,2,5,2,2,0,1,10,0,,0,,3,,0,,,01005113
+2006,Regular Season,Seibu Lions,3,"Nakajima, Hiroyuki",SS,105,459,412,0.306,0.368,0.481,0.849,76,63,126,87,22,1,16,198,14,4,30,3,66,12,13,0,4,01005113
+2006,Regular Season,Tokyo Yakult Swallows,22,"Takai, Yuhei",P,36,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005117
+2006,Regular Season,Tokyo Yakult Swallows,61,"Ishii, Hirotoshi",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01103882
+2006,Regular Season,Tohoku Rakuten Golden Eagles,8,"Isobe, Koichi",RF,96,382,346,0.275,0.327,0.353,0.680,37,36,95,77,13,1,4,122,5,1,28,0,69,16,1,3,4,01103884
+2006,Regular Season,Hanshin Tigers,29,"Igawa, Kei",P,29,68,63,0.111,0.125,0.111,0.236,0,0,7,7,0,0,0,7,0,0,1,0,28,1,0,4,0,01103886
+2006,Regular Season,Hiroshima Toyo Carp,25,"Arai, Takahiro",3B,146,611,566,0.299,0.336,0.479,0.815,78,100,169,119,23,2,25,271,1,1,32,2,117,14,4,0,9,01103888
+2006,Regular Season,Tohoku Rakuten Golden Eagles,21,"Iwakuma, Hisashi",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01105111
+2006,Regular Season,Chunichi Dragons,25,"Arai, Ryota",PH,18,24,23,0.261,0.292,0.348,0.640,2,0,6,4,2,0,0,8,0,0,0,0,9,0,1,0,0,01105112
+2006,Regular Season,Seibu Lions,69,"Azuma, Kazumasa",P,5,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01105113
+2006,Regular Season,Hiroshima Toyo Carp,69,"Amaya, Soichiro",PR,17,9,8,0.000,0.111,0.000,0.111,3,0,0,0,0,0,0,0,0,1,0,0,4,0,1,0,0,01105115
+2006,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,54,"Inada, Naoto",3B,4,,3,0.333,,0.333,,,0,1,1,0,0,0,1,0,,0,,0,,0,,,01105119
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,54,"Inada, Naoto",3B,4,,5,0.200,,0.400,,,0,1,0,1,0,0,2,0,,1,,1,,0,,,01105119
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,54,"Inada, Naoto",3B,33,72,63,0.270,0.309,0.381,0.690,5,3,17,12,3,2,0,24,0,0,3,0,14,1,1,4,1,01105119
+2006,Regular Season,Chiba Lotte Marines,12,"Fujita, Soichi",P,56,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01203886
+2006,Regular Season,Chiba Lotte Marines,65,"Minami, Ryusuke",LF,7,6,5,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,01205111
+2006,Regular Season,Chiba Lotte Marines,32,"Nemoto, Shunichi",2B,31,62,54,0.167,0.262,0.222,0.484,8,1,9,6,3,0,0,12,3,1,5,1,22,0,2,1,0,01205112
+2006,Regular Season,Hanshin Tigers,15,"Fujita, Taiyo",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205113
+2006,Regular Season,Yomiuri Giants,30,"Hayashi, Masanori",P,62,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205115
+2006,Regular Season,Hiroshima Toyo Carp,20,"Nagakawa, Katsuhiro",P,65,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,01205117
+2006,Regular Season,Tohoku Rakuten Golden Eagles,7,"Yamasaki, Takeshi",DH,122,479,419,0.241,0.332,0.432,0.764,40,67,101,60,21,1,19,181,0,2,51,1,116,6,7,0,2,01303868
+2006,Regular Season,Yokohama BayStars,24,"Kadokura, Ken",P,28,46,42,0.024,0.089,0.024,0.113,2,0,1,1,0,0,0,1,0,0,3,0,33,0,0,1,0,01303882
+2006,Regular Season,Hanshin Tigers,8,"Kataoka, Atsushi",3B,50,101,91,0.165,0.230,0.231,0.461,4,7,15,11,3,0,1,21,0,0,7,1,22,1,1,1,1,01303885
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,51,"Oda, Tomoyuki",PH,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,0,,0,,,01303886
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,51,"Oda, Tomoyuki",PH,67,89,81,0.272,0.337,0.333,0.670,3,10,22,17,5,0,0,27,0,0,6,1,20,2,2,0,0,01303886
+2006,Climax Series - First Stage,Seibu Lions,7,"Kataoka, Yasuyuki",2B,3,,9,0.111,,0.222,,,1,1,0,1,0,0,2,0,,0,,3,,0,,,01305110
+2006,Regular Season,Seibu Lions,7,"Kataoka, Yasuyuki",2B,115,468,404,0.292,0.336,0.394,0.730,57,44,118,89,21,4,4,159,28,9,24,0,42,4,4,33,3,01305110
+2006,Regular Season,Hiroshima Toyo Carp,14,"Umehara, Nobuaki",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01305112
+2006,Regular Season,Hiroshima Toyo Carp,66,"Uemura, Kazuhiro",PH,5,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,01305113
+2006,Regular Season,Chiba Lotte Marines,8,"Imae, Toshiaki",3B,126,489,457,0.267,0.293,0.389,0.682,49,47,122,86,25,2,9,178,3,2,17,0,74,9,1,11,3,01305115
+2006,Regular Season,Hanshin Tigers,26,"Egusa, Hirotaka",P,36,20,16,0.125,0.176,0.125,0.301,0,1,2,2,0,0,0,2,0,0,0,0,8,1,1,3,0,01305117
+2006,Regular Season,Orix Buffaloes,17,"Katsuki, Ryota",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01305119
+2006,Japan Series,Chunichi Dragons,34,"Yamamoto, Masahiro",P,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,0,,,01403862
+2006,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,27,56,39,0.077,0.119,0.077,0.196,3,4,3,3,0,0,0,3,0,0,2,0,21,0,0,14,1,01403862
+2006,Regular Season,Tokyo Yakult Swallows,57,"Maruyama, Takashi",P,11,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01405110
+2006,Regular Season,Hanshin Tigers,47,"Yoshino, Makoto",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01405111
+2006,Regular Season,Yomiuri Giants,37,"Saito, Takayuki",1B,38,73,63,0.254,0.324,0.317,0.641,7,4,16,12,4,0,0,20,3,1,6,0,13,1,1,2,1,01503880
+2006,Japan Series,Chunichi Dragons,57,"Kuramoto, Hidenori",CF,3,,3,0.333,,0.333,,,0,1,1,0,0,0,1,0,,1,,1,,0,,,01503888
+2006,Regular Season,Chunichi Dragons,57,"Kuramoto, Hidenori",CF,124,288,256,0.215,0.237,0.266,0.503,30,27,55,45,8,1,1,68,4,3,5,0,49,1,3,22,2,01503888
+2006,Regular Season,Yomiuri Giants,40,"Sato, Hiroshi",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01505111
+2006,Regular Season,Seibu Lions,23,"Ming-Chieh, Hsu",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01605111
+2006,Regular Season,Yokohama BayStars,34,"Mitsuhashi, Naoki",P,9,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,01605112
+2006,Regular Season,Tohoku Rakuten Golden Eagles,23,"Sekikawa, Koichi",LF,81,233,199,0.286,0.346,0.342,0.688,26,9,57,48,8,0,1,68,7,3,16,0,45,5,2,16,0,01703883
+2006,Regular Season,Chunichi Dragons,39,"Shimizu, Masaumi",C,2,3,3,0.333,0.333,0.333,0.666,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,01703884
+2006,Regular Season,Hiroshima Toyo Carp,29,"Sato, Tsuyoshi",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01705110
+2006,Regular Season,Tohoku Rakuten Golden Eagles,12,"Kusano, Daisuke",SS,43,112,100,0.210,0.262,0.270,0.532,6,2,21,15,6,0,0,27,0,0,7,1,17,1,0,5,0,01705112
+2006,Regular Season,Yokohama BayStars,66,"Kimura, Shogo",PH,15,17,15,0.133,0.188,0.133,0.321,1,0,2,2,0,0,0,2,1,2,1,0,4,0,0,1,0,01705117
+2006,Regular Season,Orix Buffaloes,54,"Shimamura, Ikki",3B,14,16,15,0.067,0.067,0.067,0.134,0,0,1,1,0,0,0,1,0,0,0,0,9,0,0,1,0,01705119
+2006,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,1,"Shinjo, Tsuyoshi",CF,7,,6,0.333,,0.333,,,1,2,2,0,0,0,2,0,,1,,2,,0,,,01903881
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,1,"Shinjo, Tsuyoshi",CF,7,,17,0.353,,0.412,,,1,6,5,1,0,0,7,1,,0,,2,,1,,,01903881
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,1,"Shinjo, Tsuyoshi",CF,126,477,438,0.258,0.298,0.416,0.714,47,62,113,76,21,0,16,182,2,6,24,3,76,8,2,10,3,01903881
+2006,Regular Season,Tohoku Rakuten Golden Eagles,20,"Taninaka, Shinji",P,20,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01903884
+2006,Regular Season,Orix Buffaloes,22,"Tanaka, Yuki",P,34,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01903886
+2006,Regular Season,Seibu Lions,68,"Tahara, Koji",C,15,30,29,0.207,0.207,0.276,0.483,0,4,6,4,2,0,0,8,0,0,0,0,6,0,0,1,0,01903887
+2006,Regular Season,Yomiuri Giants,7,"Nioka, Tomohiro",SS,146,598,551,0.289,0.329,0.472,0.801,67,79,159,108,26,0,25,260,0,1,30,1,113,15,6,6,5,01903888
+2006,Regular Season,Hiroshima Toyo Carp,19,"Tanaka, Hiroto",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01905110
+2006,Regular Season,Seibu Lions,35,"Tazaki, Masahiro",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01905115
+2006,Regular Season,Seibu Lions,54,"Graman, Alex",P,13,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,03105112
+2006,Regular Season,Tohoku Rakuten Golden Eagles,42,"Fernandez, Jose",3B,132,552,490,0.302,0.370,0.541,0.911,72,88,148,87,33,0,28,265,2,0,53,5,75,18,3,0,6,03305117
+2006,Regular Season,Chiba Lotte Marines,19,"Watson, Matt",RF,64,213,186,0.274,0.362,0.419,0.781,14,20,51,34,12,0,5,78,0,1,25,1,37,4,1,0,1,03505112
+2006,Regular Season,Chiba Lotte Marines,24,"Hirashita, Koji",LF,47,90,79,0.266,0.333,0.342,0.675,10,7,21,18,1,1,1,27,5,1,7,2,22,2,1,3,0,11013882
+2006,Regular Season,Hanshin Tigers,5,"Hamanaka, Osamu",RF,139,538,486,0.302,0.361,0.484,0.845,71,75,147,100,26,1,20,235,2,2,43,2,80,10,4,0,5,11013884
+2006,Regular Season,Orix Buffaloes,2,"Matoyama, Tetsuya",C,49,107,93,0.258,0.337,0.409,0.746,8,6,24,14,8,0,2,38,3,0,10,0,23,2,1,3,0,11013889
+2006,Regular Season,Yokohama BayStars,15,"Takamiya, Kazuya",P,18,11,9,0.000,0.100,0.000,0.100,0,0,0,0,0,0,0,0,0,0,1,0,4,0,0,1,0,11015112
+2006,Regular Season,Chiba Lotte Marines,45,"Tsuji, Toshiya",PH,52,96,88,0.239,0.261,0.318,0.579,2,9,21,15,5,1,0,28,1,0,2,0,20,3,1,4,1,11015115
+2006,Regular Season,Chiba Lotte Marines,60,"Naruse, Yoshihisa",P,13,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,11015119
+2006,Regular Season,Hiroshima Toyo Carp,23,"Yokoyama, Ryuji",P,48,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213880
+2006,Regular Season,Hiroshima Toyo Carp,53,"Hayashi, Masaki",P,61,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,11213886
+2006,Regular Season,Fukuoka Softbank Hawks,34,"Yoshitake, Shintaro",P,60,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213889
+2006,Regular Season,Hanshin Tigers,34,"Hashimoto, Kentaro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11215110
+2006,Regular Season,Seibu Lions,22,"Noda, Kosuke",C,7,16,15,0.267,0.267,0.400,0.667,2,2,4,3,0,1,0,6,0,0,0,0,3,1,0,1,0,11215113
+2006,Regular Season,Yokohama BayStars,53,"Nonaka, Shingo",PR,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,11215115
+2006,Regular Season,Fukuoka Softbank Hawks,14,"Mahara, Takahiro",P,51,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11215119
+2006,Regular Season,Tokyo Yakult Swallows,1,"Iwamura, Akinori",3B,145,621,546,0.311,0.389,0.544,0.933,84,77,170,109,27,2,32,297,8,1,70,5,128,5,1,1,3,11313884
+2006,Regular Season,Tohoku Rakuten Golden Eagles,13,"Ogura, Hisashi",P,58,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11313887
+2006,Regular Season,Yomiuri Giants,19,"Uehara, Koji",P,25,57,48,0.229,0.260,0.250,0.510,4,4,11,10,1,0,0,12,0,0,2,0,13,1,0,7,0,11313888
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,7,"Omura, Naoyuki",CF,5,,8,0.125,,0.125,,,0,1,1,0,0,0,1,0,,0,,1,,0,,,11313889
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,7,"Omura, Naoyuki",CF,5,,12,0.333,,0.333,,,0,4,4,0,0,0,4,0,,0,,0,,2,,,11313889
+2006,Regular Season,Fukuoka Softbank Hawks,7,"Omura, Naoyuki",CF,136,621,562,0.294,0.345,0.370,0.715,74,60,165,137,19,3,6,208,22,14,41,0,70,12,4,12,2,11313889
+2006,Regular Season,Fukuoka Softbank Hawks,8,"Egawa, Tomoaki",3B,11,43,42,0.190,0.186,0.190,0.376,2,5,8,8,0,0,0,8,0,0,0,0,14,0,0,0,1,11315110
+2006,Regular Season,Tokyo Yakult Swallows,19,"Ishikawa, Masanori",P,31,52,44,0.068,0.089,0.068,0.157,2,0,3,3,0,0,0,3,0,0,1,0,17,0,0,7,0,11315115
+2006,Regular Season,Hanshin Tigers,67,"Iyono, Takateru",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11315117
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,36,"Nakamura, Micheal",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,11415110
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,36,"Nakamura, Micheal",P,64,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11415110
+2006,Regular Season,Chiba Lotte Marines,51,"Yamakita, Shigetoshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11415111
+2006,Regular Season,Yokohama BayStars,27,"Yamakita, Shigetoshi",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11415111
+2006,Regular Season,Yomiuri Giants,39,"Miura, Taka",PH,16,32,28,0.214,0.313,0.250,0.563,4,1,6,5,1,0,0,7,0,1,4,0,10,1,0,0,0,11415113
+2006,Regular Season,Tokyo Yakult Swallows,37,"Fukukawa, Masakazu",C,47,123,109,0.211,0.271,0.358,0.629,10,13,23,15,4,0,4,39,0,0,8,0,32,4,1,5,0,11415115
+2006,Regular Season,Hanshin Tigers,13,"Nakamura, Yasuhiro",P,2,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11415117
+2006,Regular Season,Yomiuri Giants,18,"Kuwata, Masumi",P,3,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11513862
+2006,Regular Season,Orix Buffaloes,11,"Kawagoe, Hidetaka",P,24,7,6,0.167,0.167,0.333,0.500,0,1,1,0,1,0,0,2,0,0,0,0,4,0,0,1,0,11513888
+2006,Japan Series,Chunichi Dragons,12,"Okamoto, Shinya",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,11515113
+2006,Regular Season,Chunichi Dragons,12,"Okamoto, Shinya",P,56,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11515113
+2006,Regular Season,Hiroshima Toyo Carp,17,"Ohtake, Kan",P,30,44,38,0.132,0.154,0.132,0.286,2,1,5,5,0,0,0,5,0,0,1,0,16,0,0,5,0,11515115
+2006,Regular Season,Tokyo Yakult Swallows,17,"Kawashima, Ryo",P,9,18,15,0.333,0.333,0.333,0.666,0,0,5,5,0,0,0,5,0,0,0,0,3,0,0,3,0,11515119
+2006,Regular Season,Tokyo Yakult Swallows,27,"Furuta, Atsuya",C,36,98,90,0.244,0.299,0.300,0.599,11,8,22,17,5,0,0,27,0,0,7,2,13,4,0,1,0,11613881
+2006,Regular Season,Orix Buffaloes,3,"Muramatsu, Arihito",CF,126,439,400,0.303,0.338,0.373,0.711,52,28,121,103,11,4,3,149,13,8,21,1,42,4,1,16,1,11613883
+2006,Regular Season,Seibu Lions,36,"Yamagishi, Minoru",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11615110
+2006,Regular Season,Tokyo Yakult Swallows,44,"Matsui, Kosuke",P,40,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,11615112
+2006,Regular Season,Orix Buffaloes,34,"Motoyanagi, Kazuya",P,25,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11615115
+2006,Regular Season,Chunichi Dragons,45,"Morioka, Ryosuke",2B,17,31,26,0.192,0.250,0.231,0.481,5,1,5,4,1,0,0,6,0,0,2,1,6,0,0,3,0,11615117
+2006,Regular Season,Tokyo Yakult Swallows,10,"Shiroishi, Noriyuki",SS,70,153,130,0.231,0.320,0.292,0.612,12,5,30,26,2,0,2,38,1,0,17,3,31,4,0,6,0,11713880
+2006,Regular Season,Tohoku Rakuten Golden Eagles,25,"Satake, Manabu",PH,38,75,64,0.172,0.270,0.219,0.489,5,7,11,9,1,1,0,14,2,1,6,0,16,2,3,1,1,11713884
+2006,Regular Season,Seibu Lions,25,"Shotsu, Eiji",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11713886
+2006,Regular Season,Hiroshima Toyo Carp,58,"Kojima, Shinjiro",P,4,8,6,0.000,0.143,0.000,0.143,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,1,0,11715110
+2006,Regular Season,Hiroshima Toyo Carp,51,"Suenaga, Masafumi",PH,54,118,114,0.281,0.299,0.395,0.694,11,9,32,23,7,0,2,45,2,0,2,0,29,0,1,1,0,11715111
+2006,Regular Season,Tohoku Rakuten Golden Eagles,27,"Kawata, Hisashi",C,10,13,12,0.000,0.077,0.000,0.077,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,0,0,11715112
+2006,Regular Season,Hanshin Tigers,63,"Kano, Keisuke",C,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11715113
+2006,Regular Season,Fukuoka Softbank Hawks,37,"Miyaji, Katsuhiko",PH,48,77,71,0.155,0.211,0.169,0.380,9,2,11,10,1,0,0,12,0,0,5,0,11,0,0,1,0,11813881
+2006,Regular Season,Orix Buffaloes,24,"Brumbaugh, Cliff",RF,47,132,121,0.223,0.280,0.372,0.652,13,12,27,19,3,0,5,45,1,0,10,0,25,6,0,0,1,11815110
+2006,Regular Season,Fukuoka Softbank Hawks,21,"Wada, Tsuyoshi",P,24,9,8,0.125,0.125,0.250,0.375,2,0,1,0,1,0,0,2,0,0,0,0,4,0,0,1,0,11815117
+2006,Regular Season,Hiroshima Toyo Carp,98,"Feliciano, Juan",P,12,9,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,11815119
+2006,Regular Season,Hanshin Tigers,0,"Nakamura, Yutaka",RF,50,13,11,0.273,0.333,0.273,0.606,3,1,3,3,0,0,0,3,0,0,1,0,1,0,0,1,0,11913882
+2006,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,3,"Tanaka, Kensuke",2B,7,,6,0.500,,0.500,,,0,3,3,0,0,0,3,1,,0,,1,,0,,,11915111
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,3,"Tanaka, Kensuke",2B,7,,16,0.312,,0.375,,,1,5,4,1,0,0,6,2,,0,,3,,0,,,11915111
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,3,"Tanaka, Kensuke",2B,125,450,376,0.301,0.358,0.415,0.773,68,42,113,90,10,6,7,156,21,7,30,0,60,3,6,34,4,11915111
+2006,Regular Season,Chunichi Dragons,50,"Sato, Ryota",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11915112
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,30,"Cabrera, Jolbert",LF,5,,6,0.167,,0.167,,,0,1,1,0,0,0,1,0,,1,,2,,0,,,13115110
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,30,"Cabrera, Jolbert",LF,5,,11,0.364,,0.455,,,1,4,3,1,0,0,5,1,,1,,3,,1,,,13115110
+2006,Regular Season,Fukuoka Softbank Hawks,30,"Cabrera, Jolbert",LF,90,375,342,0.260,0.315,0.398,0.713,41,50,89,59,21,1,8,136,6,1,24,0,52,11,5,0,4,13115110
+2006,Regular Season,Yomiuri Giants,57,"Wakiya, Ryota",2B,60,226,215,0.270,0.302,0.335,0.637,22,11,58,48,7,2,1,72,4,3,8,1,42,1,2,1,0,13115112
+2006,Regular Season,Tokyo Yakult Swallows,34,"Guttormson, Rick",P,25,53,46,0.152,0.149,0.217,0.366,4,6,7,6,0,0,1,10,0,0,0,0,18,1,0,6,1,13315110
+2006,Regular Season,Tohoku Rakuten Golden Eagles,91,"Ying-Chieh, Lin",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13315112
+2006,Regular Season,Yokohama BayStars,58,"Sonnier, Shawn",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13515112
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,42,"Zuleta, Julio",1B,5,,6,0.167,,0.167,,,0,1,1,0,0,0,1,0,,1,,2,,0,,,13515117
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,42,"Zuleta, Julio",1B,5,,11,0.364,,0.909,,,4,4,2,0,0,2,10,0,,2,,4,,1,,,13515117
+2006,Regular Season,Fukuoka Softbank Hawks,42,"Zuleta, Julio",1B,126,532,466,0.281,0.359,0.515,0.874,59,91,131,80,22,0,29,240,1,2,47,10,112,17,13,0,6,13515117
+2006,Regular Season,Tohoku Rakuten Golden Eagles,2,"Iida, Tetsuya",CF,40,99,88,0.273,0.333,0.318,0.651,7,9,24,22,1,0,1,28,2,2,8,0,13,2,0,3,0,15213868
+2006,Regular Season,Tokyo Yakult Swallows,9,"Suzuki, Ken",PH,34,27,24,0.167,0.259,0.333,0.592,1,2,4,2,1,0,1,8,0,0,3,0,6,1,0,0,0,15313868
+2006,Regular Season,Tohoku Rakuten Golden Eagles,40,"Masuda, Daisuke",LF,16,29,26,0.231,0.286,0.385,0.671,1,3,6,3,2,1,0,10,0,0,2,0,8,0,0,1,0,21023882
+2006,Regular Season,Orix Buffaloes,38,"Maekawa, Katsuhiko",P,24,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,21023884
+2006,Regular Season,Orix Buffaloes,8,"Nakamura, Norihiro",3B,85,359,328,0.232,0.292,0.409,0.701,39,45,76,42,22,0,12,134,0,1,26,2,70,10,3,0,2,21023885
+2006,Regular Season,Yokohama BayStars,13,"Nasuno, Takumi",P,16,25,23,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,16,1,0,2,0,21025110
+2006,Regular Season,Chiba Lotte Marines,52,"Heiuchi, Hisao",2B,49,115,102,0.206,0.270,0.324,0.594,12,8,21,13,6,0,2,33,1,0,7,0,33,0,2,4,0,21025111
+2006,Japan Series,Chunichi Dragons,3,"Tatsunami, Kazuyoshi",PH,5,,12,0.333,,0.417,,,0,4,3,1,0,0,5,0,,1,,1,,0,,,21123866
+2006,Regular Season,Chunichi Dragons,3,"Tatsunami, Kazuyoshi",PH,113,284,259,0.263,0.310,0.320,0.630,17,31,68,56,10,1,1,83,3,1,17,2,28,6,2,3,3,21123866
+2006,Regular Season,Yomiuri Giants,00,"Onishi, Takayuki",PH,20,34,30,0.133,0.161,0.133,0.294,1,0,4,4,0,0,0,4,0,1,1,0,1,0,0,3,0,21123880
+2006,Regular Season,Hiroshima Toyo Carp,64,"Io, Takamitsu",PH,74,152,138,0.268,0.331,0.333,0.664,11,8,37,29,7,1,0,46,1,1,8,0,23,5,5,1,0,21123888
+2006,Regular Season,Tohoku Rakuten Golden Eagles,11,"Ichiba, Yasuhiro",P,30,7,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,21125110
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,69,"Iwashita, Shuichi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21125111
+2006,Regular Season,Yomiuri Giants,10,"Abe, Shinnosuke",C,129,497,452,0.294,0.349,0.427,0.776,39,56,133,95,26,2,10,193,0,2,35,4,76,8,4,4,2,21125113
+2006,Regular Season,Tohoku Rakuten Golden Eagles,26,"Arime, Kanehisa",P,30,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21125115
+2006,Regular Season,Yomiuri Giants,36,"Iwadate, Manabu",3B,20,19,17,0.118,0.211,0.118,0.329,3,0,2,2,0,0,0,2,1,0,2,1,7,0,0,0,0,21125119
+2006,Japan Series,Chunichi Dragons,5,"Watanabe, Hiroyuki",1B,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,21223882
+2006,Regular Season,Chunichi Dragons,5,"Watanabe, Hiroyuki",1B,103,122,111,0.252,0.288,0.333,0.621,14,16,28,21,6,0,1,37,0,1,4,0,21,3,2,4,1,21223882
+2006,Japan Series,Chunichi Dragons,31,"Morino, Masahiko",3B,5,,17,0.294,,0.353,,,0,5,4,1,0,0,6,0,,1,,1,,0,,,21223884
+2006,Regular Season,Chunichi Dragons,31,"Morino, Masahiko",3B,110,469,428,0.280,0.321,0.395,0.716,58,52,120,91,19,0,10,169,0,1,26,2,53,8,2,8,5,21223884
+2006,Regular Season,Yomiuri Giants,51,"Furuki, Shigeyuki",3B,50,58,52,0.346,0.404,0.404,0.808,4,4,18,15,3,0,0,21,4,0,4,1,9,1,1,1,0,21223886
+2006,Regular Season,Yomiuri Giants,12,"Murata, Yoshinori",C,6,17,16,0.063,0.063,0.063,0.126,1,1,1,1,0,0,0,1,0,0,0,0,3,1,0,1,0,21223887
+2006,Regular Season,Hiroshima Toyo Carp,41,"Morikasa, Shigeru",CF,115,316,291,0.292,0.337,0.419,0.756,24,31,85,64,11,4,6,122,1,4,18,1,53,4,2,4,1,21223888
+2006,Regular Season,Yokohama BayStars,23,"Fujita, Kazuya",2B,65,147,133,0.203,0.225,0.218,0.443,13,5,27,25,2,0,0,29,3,1,3,0,13,2,1,9,1,21225110
+2006,Regular Season,Hanshin Tigers,9,"Fujimoto, Atsushi",2B,138,443,393,0.237,0.285,0.295,0.580,35,30,93,77,12,1,3,116,3,1,27,5,56,13,1,19,3,21225113
+2006,Japan Series,Chunichi Dragons,61,"Hisamoto, Yuichi",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,21225115
+2006,Regular Season,Chunichi Dragons,61,"Hisamoto, Yuichi",P,27,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21225115
+2006,Japan Series,Chunichi Dragons,7,"Kawai, Masahiro",3B,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,21323869
+2006,Regular Season,Chunichi Dragons,7,"Kawai, Masahiro",3B,51,29,22,0.273,0.304,0.273,0.577,0,1,6,6,0,0,0,6,0,0,0,0,6,0,1,6,0,21323869
+2006,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,2,"Ogasawara, Michihiro",1B,7,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,4,,1,,0,,,21323884
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,2,"Ogasawara, Michihiro",1B,7,,15,0.200,,0.333,,,2,3,1,2,0,0,5,0,,3,,2,,2,,,21323884
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,2,"Ogasawara, Michihiro",1B,135,579,496,0.313,0.397,0.573,0.970,77,100,155,91,31,1,32,284,4,3,73,5,85,8,2,0,8,21323884
+2006,Regular Season,Orix Buffaloes,43,"Kikuchihara, Tsuyoshi",P,45,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323887
+2006,Regular Season,Yomiuri Giants,56,"Kato, Ken",C,19,40,34,0.294,0.342,0.294,0.636,2,3,10,10,0,0,0,10,0,0,2,0,9,1,1,2,1,21323888
+2006,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,8,"Kaneko, Makoto",SS,7,,7,0.429,,0.429,,,1,3,3,0,0,0,3,0,,0,,0,,0,,,21323889
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,8,"Kaneko, Makoto",SS,7,,16,0.125,,0.125,,,3,2,2,0,0,0,2,0,,0,,2,,0,,,21323889
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,8,"Kaneko, Makoto",SS,126,439,393,0.254,0.300,0.382,0.682,44,40,100,65,26,3,6,150,7,1,24,3,63,5,3,15,4,21323889
+2006,Regular Season,Fukuoka Softbank Hawks,29,"Kato, Ryota",C,6,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21325110
+2006,Regular Season,Hiroshima Toyo Carp,24,"Kawauchi, Takaya",P,15,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,21325111
+2006,Regular Season,Yokohama BayStars,2,"Uchikawa, Seiichi",2B,124,439,402,0.286,0.329,0.363,0.692,41,34,115,94,15,2,4,146,8,3,22,0,64,9,5,7,3,21325113
+2006,Regular Season,Orix Buffaloes,12,"Kato, Tatsuo",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21325119
+2006,Regular Season,Hiroshima Toyo Carp,44,"Yamada, Shinsuke",CF,18,55,47,0.298,0.353,0.319,0.672,8,0,14,13,1,0,0,15,0,0,2,0,10,0,2,4,0,21423886
+2006,Regular Season,Yomiuri Giants,58,"Yamada, Shinsuke",LF,10,16,14,0.143,0.250,0.143,0.393,3,0,2,2,0,0,0,2,2,1,1,0,2,0,1,0,0,21423886
+2006,Regular Season,Tokyo Yakult Swallows,51,"Yoneno, Tomohito",C,116,382,340,0.235,0.289,0.344,0.633,32,37,80,58,14,1,7,117,0,0,25,6,75,2,2,12,3,21425111
+2006,Regular Season,Orix Buffaloes,60,"Makita, Shogo",PH,22,34,33,0.242,0.265,0.303,0.568,2,4,8,6,2,0,0,10,0,0,0,0,4,3,1,0,0,21425115
+2006,Regular Season,Hiroshima Toyo Carp,45,"Matsumoto, Takaaki",SS,67,158,135,0.259,0.318,0.259,0.577,15,6,35,35,0,0,0,35,8,0,9,0,36,0,3,10,1,21425117
+2006,Regular Season,Chiba Lotte Marines,4,"Franco, Matt",LF,91,298,274,0.263,0.316,0.369,0.685,33,20,72,57,8,0,7,101,1,1,21,1,49,9,1,1,1,21425119
+2006,Regular Season,Hiroshima Toyo Carp,15,"Kuroda, Hiroki",P,26,58,52,0.096,0.096,0.096,0.192,2,1,5,5,0,0,0,5,0,0,0,0,27,1,0,6,0,21523884
+2006,Regular Season,Fukuoka Softbank Hawks,16,"Shinohara, Takayuki",P,51,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21523886
+2006,Regular Season,Yokohama BayStars,10,"Saeki, Takahiro",1B,86,343,307,0.225,0.297,0.316,0.613,25,37,69,51,13,0,5,97,1,2,27,1,78,6,5,2,1,21523887
+2006,Regular Season,Yokohama BayStars,44,"Koike, Masaaki",CF,112,417,352,0.267,0.310,0.403,0.713,45,33,94,62,23,2,7,142,3,2,15,0,79,4,8,39,3,21523888
+2006,Regular Season,Chiba Lotte Marines,28,"Kato, Kosuke",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525113
+2006,Regular Season,Fukuoka Softbank Hawks,38,"Kamiuchi, Yasushi",P,26,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,21525115
+2006,Regular Season,Orix Buffaloes,15,"Kato, Daisuke",P,61,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525117
+2006,Regular Season,Yokohama BayStars,42,"Kroon, Marc",P,47,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21625110
+2006,Regular Season,Tokyo Yakult Swallows,15,"Muranaka, Kyohei",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21625112
+2006,Regular Season,Hiroshima Toyo Carp,59,"Yamamoto, Yoshihiko",1B,17,31,31,0.226,0.226,0.290,0.516,1,0,7,5,2,0,0,9,0,0,0,0,10,2,0,0,0,21625115
+2006,Regular Season,Tokyo Yakult Swallows,62,"Yoshikawa, Masahiro",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21625117
+2006,Regular Season,Hiroshima Toyo Carp,18,"Sasaoka, Shinji",P,27,46,36,0.139,0.205,0.194,0.399,0,2,5,4,0,1,0,7,0,0,3,0,20,1,0,7,0,21723881
+2006,Regular Season,Yokohama BayStars,57,"Tsuruoka, Kazunari",C,60,146,127,0.244,0.312,0.394,0.706,7,16,31,19,8,1,3,50,0,0,11,1,39,5,2,5,1,21723882
+2006,Regular Season,Fukuoka Softbank Hawks,6,"Torigoe, Yusuke",SS,34,43,37,0.243,0.300,0.270,0.570,6,0,9,8,1,0,0,10,0,0,3,0,5,0,0,3,0,21723889
+2006,Regular Season,Yomiuri Giants,17,"Takahashi, Hisanori",P,35,6,4,0.000,0.200,0.000,0.200,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,21725111
+2006,Regular Season,Yomiuri Giants,11,"Kubo, Yuya",P,59,3,3,0.333,0.333,0.667,1.000,0,2,1,0,1,0,0,2,0,0,0,0,2,0,0,0,0,21725117
+2006,Regular Season,Tohoku Rakuten Golden Eagles,3,"Yoshioka, Yuji",1B,49,159,146,0.240,0.289,0.274,0.563,10,6,35,30,5,0,0,40,0,0,9,0,31,4,2,0,2,21823881
+2006,Regular Season,Tokyo Yakult Swallows,65,"Matsumoto, Yuichi",PH,3,3,3,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21823888
+2006,Regular Season,Chiba Lotte Marines,43,"Pascucci, Val",RF,69,238,203,0.222,0.332,0.468,0.800,26,32,45,22,9,1,13,95,0,1,31,1,77,1,3,0,1,21825110
+2006,Regular Season,Hanshin Tigers,4,"Sheets, Andy",1B,143,629,580,0.310,0.355,0.466,0.821,87,75,180,129,31,1,19,270,0,0,42,2,120,18,0,3,4,21825117
+2006,Regular Season,Hiroshima Toyo Carp,38,"Fukui, Keiji",PH,27,37,31,0.161,0.297,0.161,0.458,1,2,5,5,0,0,0,5,0,0,6,0,7,1,0,0,0,21923880
+2006,Regular Season,Yomiuri Giants,62,"Hara, Shunsuke",DH,13,21,19,0.158,0.200,0.211,0.411,1,1,3,2,1,0,0,4,0,0,1,0,4,1,0,1,0,21923882
+2006,Regular Season,Hiroshima Toyo Carp,2,"Higashide, Akihiro",2B,138,550,504,0.282,0.321,0.306,0.627,57,23,142,131,10,1,0,154,11,18,27,0,60,7,3,14,2,21923888
+2006,Regular Season,Chiba Lotte Marines,9,"Fukura, Kazuya",1B,114,484,436,0.312,0.362,0.390,0.752,43,52,136,111,20,1,4,170,0,3,33,5,52,11,5,3,7,21923889
+2006,Regular Season,Tokyo Yakult Swallows,7,"Tanaka, Hiroyasu",2B,75,248,214,0.266,0.326,0.393,0.719,23,22,57,40,12,0,5,84,1,1,19,0,47,11,1,12,2,21925110
+2006,Regular Season,Hiroshima Toyo Carp,32,"Soyogi, Eishin",SS,123,494,450,0.289,0.332,0.422,0.754,78,36,130,94,20,8,8,190,13,5,27,0,62,8,3,12,2,21925112
+2006,Regular Season,Tokyo Yakult Swallows,47,"Tanaka, Takashi",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21925115
+2006,Regular Season,Orix Buffaloes,52,"Sakaguchi, Tomotaka",PR,28,26,22,0.091,0.200,0.227,0.427,3,2,2,1,0,0,1,5,3,1,3,0,6,1,0,1,0,21925117
+2006,Regular Season,Hanshin Tigers,1,"Toritani, Takashi",SS,146,609,543,0.289,0.362,0.431,0.793,65,58,157,112,28,2,15,234,5,3,60,1,111,10,2,4,0,21925119
+2006,Regular Season,Yomiuri Giants,46,"Glover, Gary",P,20,34,29,0.138,0.194,0.172,0.366,1,0,4,3,1,0,0,5,0,0,2,0,12,1,0,3,0,23125112
+2006,Regular Season,Yomiuri Giants,97,"Jan, Chiぇnmin",P,10,21,17,0.118,0.167,0.118,0.285,1,0,2,2,0,0,0,2,0,0,1,0,7,0,0,3,0,23325110
+2006,Regular Season,Tohoku Rakuten Golden Eagles,5,"Valent, Eric",LF,24,82,74,0.189,0.259,0.257,0.516,8,5,14,11,2,0,1,19,1,0,5,0,22,2,2,1,0,23525112
+2006,Regular Season,Chiba Lotte Marines,38,"Kakiuchi, Tetsuya",PH,5,6,6,0.167,0.167,0.667,0.834,1,3,1,0,0,0,1,4,0,0,0,0,1,0,0,0,0,27123868
+2006,Regular Season,Yokohama BayStars,0,"Manei, Takashi",2B,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31033889
+2006,Regular Season,Tokyo Yakult Swallows,24,"Hanada, Masato",P,51,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035111
+2006,Regular Season,Tokyo Yakult Swallows,8,"Takeuchi, Shinichi",PH,12,30,24,0.083,0.233,0.208,0.441,4,4,2,1,0,0,1,5,0,1,5,0,8,0,0,0,1,31035112
+2006,Regular Season,Tohoku Rakuten Golden Eagles,46,"Tsuchiya, Teppei",CF,103,432,396,0.303,0.352,0.396,0.748,44,29,120,94,17,7,2,157,10,4,21,0,68,6,9,6,0,31035113
+2006,Regular Season,Tohoku Rakuten Golden Eagles,48,"Tsuji, Ryutaro",LF,10,29,28,0.321,0.345,0.393,0.738,1,1,9,7,2,0,0,11,0,0,1,0,6,0,0,0,0,31035115
+2006,Regular Season,Orix Buffaloes,36,"Shimoyama, Shinji",LF,42,88,78,0.282,0.345,0.500,0.845,9,9,22,13,5,0,4,39,0,1,8,0,24,1,0,1,1,31035117
+2006,Regular Season,Yomiuri Giants,23,"Nishimura, Kentaro",P,32,25,23,0.174,0.174,0.174,0.348,0,0,4,4,0,0,0,4,0,0,0,0,13,1,0,2,0,31035119
+2006,Regular Season,Tokyo Yakult Swallows,16,"Ishii, Kazuhisa",P,28,58,54,0.130,0.145,0.130,0.275,5,5,7,7,0,0,0,7,0,0,1,0,20,1,0,3,0,31133885
+2006,Regular Season,Orix Buffaloes,53,"Aikawa, Ryota",1B,65,195,175,0.257,0.311,0.497,0.808,22,26,45,25,9,0,11,87,1,0,13,0,49,2,1,5,1,31133888
+2006,Regular Season,Seibu Lions,21,"Ishii, Takashi",P,46,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31133889
+2006,Regular Season,Chiba Lotte Marines,63,"Aomatsu, Keiyo",PH,1,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,31135110
+2006,Regular Season,Hiroshima Toyo Carp,36,"Aoki, Hayato",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31135111
+2006,Regular Season,Hanshin Tigers,48,"Aiki, Takashi",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31135113
+2006,Regular Season,Tohoku Rakuten Golden Eagles,36,"Asai, Hideki",P,9,3,3,0.333,0.333,0.333,0.666,0,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,31135115
+2006,Regular Season,Tokyo Yakult Swallows,23,"Aoki, Norichika",CF,146,680,599,0.321,0.396,0.439,0.835,112,62,192,150,26,3,13,263,41,12,68,2,78,3,8,4,1,31135119
+2006,Regular Season,Tokyo Yakult Swallows,43,"Miyade, Ryuji",RF,134,473,422,0.275,0.335,0.405,0.740,49,59,116,82,22,3,9,171,1,4,38,1,83,11,2,8,3,31233882
+2006,Regular Season,Yomiuri Giants,58,"Kimura, Takuya",PH,62,169,146,0.260,0.335,0.308,0.643,12,7,38,31,7,0,0,45,0,2,16,0,32,2,1,5,1,31233883
+2006,Regular Season,Seibu Lions,66,"Miyakoshi, Akira",P,12,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31233884
+2006,Regular Season,Tohoku Rakuten Golden Eagles,53,"Makino, Rui",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31233887
+2006,Regular Season,Seibu Lions,18,"Matsuzaka, Daisuke",P,25,9,9,0.333,0.333,0.778,1.111,2,3,3,1,1,0,1,7,0,0,0,0,1,0,0,0,0,31233888
+2006,Regular Season,Yokohama BayStars,54,"Hashimoto, Taro",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31235110
+2006,Regular Season,Orix Buffaloes,49,"Nakayama, Shinya",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31235112
+2006,Regular Season,Tokyo Yakult Swallows,33,"Hatakeyama, Kazuhiro",PH,7,7,6,0.000,0.143,0.000,0.143,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,31235113
+2006,Regular Season,Seibu Lions,39,"Kaizuka, Masahide",PH,13,21,20,0.150,0.190,0.150,0.340,0,3,3,3,0,0,0,3,0,0,1,0,6,2,0,0,0,31335111
+2006,Regular Season,Yokohama BayStars,38,"Inamine, Shigeo",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335113
+2006,Regular Season,Tokyo Yakult Swallows,41,"Kida, Masao",P,56,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31433868
+2006,Climax Series - First Stage,Seibu Lions,5,"Wada, Kazuhiro",LF,3,,10,0.200,,0.300,,,1,2,1,1,0,0,3,0,,1,,1,,0,,,31433884
+2006,Regular Season,Seibu Lions,5,"Wada, Kazuhiro",LF,131,566,484,0.298,0.392,0.494,0.886,72,95,144,89,34,2,19,239,3,3,78,9,84,14,0,0,4,31433884
+2006,Regular Season,Hanshin Tigers,24,"Hiyama, Shinjiro",PH,85,144,133,0.180,0.243,0.263,0.506,8,12,24,17,5,0,2,35,1,0,10,1,42,0,1,0,0,31433885
+2006,Regular Season,Orix Buffaloes,18,"Yamaguchi, Kazuo",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31435111
+2006,Regular Season,Yomiuri Giants,22,"Fukuda, Satoshi",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31435112
+2006,Regular Season,Seibu Lions,45,"Mizuta, Keisuke",2B,23,17,15,0.067,0.067,0.267,0.334,8,2,1,0,0,0,1,4,0,0,0,0,5,0,0,2,0,31435113
+2006,Regular Season,Chiba Lotte Marines,7,"Nishioka, Tsuyoshi",SS,115,485,426,0.282,0.358,0.390,0.748,58,27,120,89,20,7,4,166,33,17,49,2,61,6,3,4,3,31435117
+2006,Regular Season,Tohoku Rakuten Golden Eagles,0,"Sakai, Tadaharu",3B,7,9,6,0.000,0.143,0.000,0.143,1,0,0,0,0,0,0,0,0,0,1,0,3,0,0,2,0,31533868
+2006,Regular Season,Chiba Lotte Marines,54,"Kuroki, Tomohiro",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31533880
+2006,Regular Season,Hiroshima Toyo Carp,40,"Kura, Yoshikazu",C,84,265,247,0.239,0.280,0.328,0.608,16,14,59,47,7,0,5,81,1,1,7,1,51,8,7,4,0,31533886
+2006,Regular Season,Yomiuri Giants,45,"Kuroda, Satoshi",3B,24,13,13,0.154,0.154,0.154,0.308,2,0,2,2,0,0,0,2,0,0,0,0,8,0,0,0,0,31533887
+2006,Regular Season,Yomiuri Giants,6,"Kokubo, Hiroki",3B,88,344,308,0.256,0.325,0.458,0.783,37,55,79,55,5,0,19,141,1,0,31,3,68,6,1,2,2,31533889
+2006,Regular Season,Hiroshima Toyo Carp,5,"Kurihara, Kenta",1B,101,397,373,0.295,0.330,0.507,0.837,44,69,110,71,19,0,20,189,2,1,21,1,90,7,0,0,3,31535111
+2006,Regular Season,Tohoku Rakuten Golden Eagles,32,"Okihara, Yoshinori",SS,60,203,186,0.204,0.236,0.247,0.483,16,12,38,32,4,2,0,46,3,2,7,0,29,8,1,8,1,31535113
+2006,Regular Season,Yokohama BayStars,13,"Okamoto, Naoya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535115
+2006,Regular Season,Seibu Lions,19,"Osada, Shuichiro",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535117
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,23,"Kidokoro, Ryuma",LF,3,,1,1.000,,1.000,,,0,1,1,0,0,0,1,0,,0,,0,,0,,,31535119
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,23,"Kidokoro, Ryuma",LF,3,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,0,,,31535119
+2006,Regular Season,Fukuoka Softbank Hawks,23,"Kidokoro, Ryuma",LF,34,74,69,0.232,0.284,0.362,0.646,5,7,16,10,3,3,0,25,2,0,4,0,28,0,1,0,0,31535119
+2006,Regular Season,Hiroshima Toyo Carp,1,"Maeda, Tomonori",LF,134,522,472,0.314,0.371,0.511,0.882,66,75,148,102,22,1,23,241,2,3,40,4,42,6,5,2,3,31633881
+2006,Regular Season,Seibu Lions,16,"Wakui, Hideaki",P,26,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,31635110
+2006,Regular Season,Tohoku Rakuten Golden Eagles,47,"Matsuzaki, Shingo",P,10,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,31635112
+2006,Regular Season,Yokohama BayStars,21,"Yoshimi, Yuji",P,17,32,26,0.154,0.154,0.154,0.308,2,2,4,4,0,0,0,4,0,0,0,0,8,1,0,6,0,31635113
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,32,"Morimoto, Satoru",2B,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,31635117
+2006,Regular Season,Fukuoka Softbank Hawks,32,"Morimoto, Satoru",2B,93,87,73,0.205,0.306,0.233,0.539,17,3,15,13,2,0,0,17,2,0,9,0,21,1,2,2,1,31635117
+2006,Regular Season,Chiba Lotte Marines,14,"Komiyama, Satoru",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31733881
+2006,Regular Season,Chiba Lotte Marines,22,"Satozaki, Tomoya",C,116,449,382,0.264,0.351,0.463,0.814,50,56,101,60,23,1,17,177,2,1,45,3,95,7,9,8,5,31733888
+2006,Regular Season,Chunichi Dragons,37,"Koyama, Yoshio",PH,3,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,31735110
+2006,Regular Season,Tokyo Yakult Swallows,36,"Kawabata, Shingo",SS,6,23,21,0.190,0.227,0.190,0.417,2,1,4,4,0,0,0,4,0,0,1,0,8,0,0,1,0,31735112
+2006,Regular Season,Tokyo Yakult Swallows,20,"Kamada, Yuya",P,13,6,5,0.200,0.333,0.200,0.533,0,2,1,1,0,0,0,1,0,0,1,0,2,0,0,0,0,31735113
+2006,Regular Season,Chiba Lotte Marines,11,"Kanda, Yoshihide",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31735117
+2006,Regular Season,Seibu Lions,46,"Sato, Takahiko",RF,45,138,133,0.248,0.275,0.383,0.658,18,17,33,23,6,0,4,51,2,0,3,0,42,1,2,0,0,31735119
+2006,Regular Season,Fukuoka Softbank Hawks,56,"Yanase, Akihiro",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31835112
+2006,Regular Season,Hanshin Tigers,54,"Williams, Jeff",P,47,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31835117
+2006,Regular Season,Yomiuri Giants,8,"Nishi, Toshihisa",2B,64,137,119,0.185,0.263,0.261,0.524,13,7,22,16,4,1,1,31,1,1,12,2,21,4,1,4,1,31933882
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,30,"Takahashi, Shinji",C,3,,6,0.167,,0.167,,,0,1,1,0,0,0,1,0,,0,,2,,0,,,31933884
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,30,"Takahashi, Shinji",C,78,242,223,0.251,0.289,0.363,0.652,26,19,56,45,3,2,6,81,2,2,10,0,42,3,3,3,3,31933884
+2006,Regular Season,Chunichi Dragons,0,"Takahashi, Mitsunobu",PH,67,90,86,0.244,0.267,0.419,0.686,6,12,21,12,6,0,3,36,0,0,3,0,15,2,0,0,1,31933886
+2006,Regular Season,Fukuoka Softbank Hawks,13,"Takahashi, Hideaki",P,4,2,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,31935110
+2006,Regular Season,Fukuoka Softbank Hawks,47,"Sugiuchi, Toshiya",P,22,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,31935115
+2006,Regular Season,Chunichi Dragons,69,"Kobayashi, Masato",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31935117
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,13,"Sunaga, Hideki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31935119
+2006,Regular Season,Fukuoka Softbank Hawks,00,"Carrasco, D.J.",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33335112
+2006,Regular Season,Orix Buffaloes,30,"Obermueller, Wes",P,14,7,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,33535112
+2006,Regular Season,Orix Buffaloes,6,"Davey, Tom",P,24,7,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,33535117
+2006,Regular Season,Yokohama BayStars,29,"Niinuma, Shinji",PH,7,9,7,0.143,0.333,0.571,0.904,1,2,1,0,0,0,1,4,0,0,2,0,1,0,0,0,0,41043886
+2006,Regular Season,Seibu Lions,26,"Hoshino, Tomoki",P,58,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043888
+2006,Regular Season,Tohoku Rakuten Golden Eagles,6,"Nishitani, Hisanori",3B,10,32,28,0.357,0.379,0.429,0.808,2,4,10,8,2,0,0,12,0,0,1,0,2,0,0,3,0,41045110
+2006,Regular Season,Tohoku Rakuten Golden Eagles,58,"Nagasaka, Kenji",C,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41045115
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,21,"Takeda, Hisashi",P,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,41045117
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,21,"Takeda, Hisashi",P,75,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41045117
+2006,Regular Season,Chiba Lotte Marines,3,"Omura, Saburo",CF,115,344,298,0.218,0.295,0.359,0.654,38,38,65,42,13,1,9,107,6,2,34,0,84,6,2,2,8,41143880
+2006,Japan Series,Chunichi Dragons,6,"Ibata, Hirokazu",SS,5,,20,0.200,,0.350,,,1,4,3,0,0,1,7,1,,0,,1,,1,,,41143886
+2006,Regular Season,Chunichi Dragons,6,"Ibata, Hirokazu",SS,146,666,573,0.283,0.355,0.365,0.720,97,48,162,133,19,2,8,209,17,12,61,0,72,13,4,27,1,41143886
+2006,Regular Season,Tokyo Yakult Swallows,14,"Uehara, Kojiro",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41145110
+2006,Regular Season,Orix Buffaloes,4,"Abe, Masahiro",SS,67,235,203,0.217,0.279,0.286,0.565,15,21,44,36,5,0,3,58,4,2,17,1,24,3,1,13,1,41145113
+2006,Regular Season,Hanshin Tigers,16,"Ando, Yuya",P,31,43,38,0.132,0.132,0.132,0.264,1,1,5,5,0,0,0,5,0,0,0,0,14,1,0,5,0,41145115
+2006,Regular Season,Yokohama BayStars,35,"Ushida, Shigeki",P,28,15,15,0.200,0.200,0.200,0.400,1,0,3,3,0,0,0,3,0,0,0,0,5,0,0,0,0,41145119
+2006,Regular Season,Fukuoka Softbank Hawks,49,"Yoshida, Shuji",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243868
+2006,Regular Season,Fukuoka Softbank Hawks,33,"Hoshino, Junji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41243886
+2006,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,46,"Morimoto, Hichori",LF,7,,7,0.143,,0.143,,,0,1,1,0,0,0,1,0,,1,,2,,0,,,41243888
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,46,"Morimoto, Hichori",LF,7,,19,0.368,,0.474,,,0,7,6,0,1,0,9,0,,3,,5,,0,,,41243888
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,46,"Morimoto, Hichori",LF,134,595,520,0.285,0.343,0.413,0.756,84,42,148,105,28,6,9,215,13,9,46,1,103,4,3,21,5,41243888
+2006,Regular Season,Seibu Lions,47,"Hoashi, Kazuyuki",P,17,5,5,0.200,0.200,0.400,0.600,1,2,1,0,1,0,0,2,0,0,0,0,3,0,0,0,0,41245113
+2006,Regular Season,Yomiuri Giants,32,"Nagata, Masahiro",2B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41245117
+2006,Regular Season,Orix Buffaloes,5,"Kiyohara, Kazuhiro",DH,67,241,203,0.222,0.340,0.419,0.759,21,36,45,27,7,0,11,85,0,0,36,1,83,6,1,0,1,41343862
+2006,Regular Season,Hanshin Tigers,39,"Yano, Akihiro",C,133,501,453,0.274,0.323,0.444,0.767,42,78,124,84,20,3,17,201,0,0,32,1,94,12,3,8,5,41343883
+2006,Regular Season,Hanshin Tigers,6,"Kanemoto, Tomoaki",LF,146,634,545,0.303,0.393,0.505,0.898,85,98,165,111,24,4,26,275,2,2,79,18,98,5,5,0,5,41343885
+2006,Japan Series,Chunichi Dragons,11,"Kawakami, Kenshin",P,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,1,,0,,,41343886
+2006,Regular Season,Chunichi Dragons,11,"Kawakami, Kenshin",P,29,70,60,0.217,0.266,0.250,0.516,5,1,13,11,2,0,0,15,0,0,4,0,16,2,0,6,0,41343886
+2006,Regular Season,Hanshin Tigers,20,"Kanazawa, Takehito",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343888
+2006,Regular Season,Orix Buffaloes,19,"Kaneko, Chihiro",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41345110
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,52,"Kawasaki, Munenori",SS,5,,8,0.250,,0.250,,,0,2,2,0,0,0,2,0,,0,,2,,1,,,41345111
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,52,"Kawasaki, Munenori",SS,5,,11,0.182,,0.273,,,0,2,1,1,0,0,3,0,,0,,2,,3,,,41345111
+2006,Regular Season,Fukuoka Softbank Hawks,52,"Kawasaki, Munenori",SS,115,513,449,0.312,0.364,0.410,0.774,69,27,140,109,21,7,3,184,24,9,32,0,54,2,5,27,0,41345111
+2006,Regular Season,Orix Buffaloes,35,"Okubo, Masanobu",P,36,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41345113
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,27,"Ejiri, Shintaro",P,10,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41345115
+2006,Regular Season,Orix Buffaloes,50,"Onishi, Hiroaki",RF,79,190,169,0.272,0.328,0.391,0.719,19,15,46,33,9,1,3,66,7,2,12,0,37,2,2,7,0,41345117
+2006,Regular Season,Yokohama BayStars,8,"Aikawa, Ryoji",C,119,438,388,0.245,0.301,0.340,0.641,36,39,95,70,19,0,6,132,2,1,29,10,83,11,5,9,7,41443880
+2006,Regular Season,Yokohama BayStars,18,"Miura, Daisuke",P,30,57,53,0.113,0.130,0.151,0.281,2,2,6,5,0,1,0,8,0,0,1,0,10,0,0,3,0,41443885
+2006,Regular Season,Yomiuri Giants,50,"Yoshikawa, Motohiro",PH,11,10,9,0.222,0.300,0.333,0.633,1,2,2,1,1,0,0,3,0,0,1,0,4,0,0,0,0,41443886
+2006,Regular Season,Yomiuri Giants,91,"Arias, George",3B,17,64,60,0.167,0.219,0.300,0.519,5,5,10,6,2,0,2,18,0,1,4,0,15,0,0,0,0,41445111
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,46,"Honda, Yuichi",2B,4,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,1,,1,,,41445112
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,46,"Honda, Yuichi",2B,4,,11,0.091,,0.091,,,0,1,1,0,0,0,1,0,,0,,5,,0,,,41445112
+2006,Regular Season,Fukuoka Softbank Hawks,46,"Honda, Yuichi",2B,37,112,102,0.245,0.280,0.412,0.692,13,8,25,14,7,2,2,42,2,0,5,0,28,0,0,5,0,41445112
+2006,Regular Season,Hiroshima Toyo Carp,49,"Bale, John",P,30,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,41445119
+2006,Regular Season,Yomiuri Giants,2,"Kosaka, Makoto",2B,92,255,218,0.183,0.271,0.225,0.496,24,12,40,33,5,2,0,49,4,4,22,2,41,3,5,8,2,41543884
+2006,Regular Season,Fukuoka Softbank Hawks,31,"Sato, Makoto",P,17,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41543889
+2006,Regular Season,Chiba Lotte Marines,18,"Shimizu, Naoyuki",P,25,7,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,41545111
+2006,Regular Season,Yomiuri Giants,64,"Kamoshida, Takashi",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41545115
+2006,Regular Season,Yokohama BayStars,17,"Kato, Takeharu",P,65,2,2,0.500,0.500,0.500,1.000,0,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,41545117
+2006,Regular Season,Orix Buffaloes,7,"Mizuguchi, Eiji",2B,91,270,243,0.255,0.305,0.321,0.626,18,24,62,52,7,0,3,78,0,1,19,0,42,9,0,4,4,41643883
+2006,Regular Season,Hanshin Tigers,41,"Spencer, Shane",PH,59,115,108,0.222,0.261,0.435,0.696,12,17,24,13,5,0,6,47,1,0,6,0,33,0,0,0,1,41645110
+2006,Regular Season,Orix Buffaloes,0,"Moriyama, Makoto",2B,35,55,45,0.356,0.453,0.378,0.831,9,1,16,15,1,0,0,17,2,3,6,0,4,1,2,2,0,41645112
+2006,Climax Series - First Stage,Seibu Lions,42,"Cabrera, Alex",1B,3,,10,0.200,,0.200,,,0,2,2,0,0,0,2,0,,1,,4,,0,,,41645113
+2006,Regular Season,Seibu Lions,42,"Cabrera, Alex",1B,126,540,466,0.315,0.404,0.564,0.968,74,100,147,94,21,1,31,263,0,2,68,7,115,12,3,0,3,41645113
+2006,Regular Season,Hiroshima Toyo Carp,47,"Yoshida, Kei",1B,16,25,24,0.125,0.120,0.125,0.245,1,2,3,3,0,0,0,3,0,0,0,0,9,0,0,0,1,41645117
+2006,Regular Season,Orix Buffaloes,29,"Serafini, Dan",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41645119
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,6,"Tanaka, Yukio",PH,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,41743862
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,6,"Tanaka, Yukio",PH,58,96,86,0.174,0.242,0.198,0.440,3,4,15,13,2,0,0,17,1,0,8,1,18,3,0,1,1,41743862
+2006,Regular Season,Yokohama BayStars,6,"Tamura, Hitoshi",CF,39,145,127,0.276,0.359,0.488,0.847,24,20,35,24,3,0,8,62,5,1,14,2,29,5,3,0,1,41743880
+2006,Regular Season,Tohoku Rakuten Golden Eagles,4,"Takasu, Yosuke",2B,118,477,403,0.300,0.373,0.357,0.730,41,38,121,102,16,2,1,144,10,7,40,1,55,10,8,24,2,41743886
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,25,"Tateishi, Naoyuki",P,11,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,41743888
+2006,Regular Season,Tohoku Rakuten Golden Eagles,1,"Shiokawa, Tatsuya",SS,69,212,190,0.216,0.265,0.247,0.512,16,6,41,37,3,0,1,47,5,2,10,0,44,5,3,8,1,41745110
+2006,Regular Season,Fukuoka Softbank Hawks,93,"Kosai, Yusuke",PH,11,16,15,0.000,0.063,0.000,0.063,1,0,0,0,0,0,0,0,0,0,1,1,3,0,0,0,0,41745112
+2006,Regular Season,Tokyo Yakult Swallows,45,"Sakamoto, Yataro",P,30,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41745113
+2006,Regular Season,Chunichi Dragons,19,"Yoshimi, Kazuki",P,4,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,41845112
+2006,Regular Season,Tohoku Rakuten Golden Eagles,55,"Short, Rick",1B,109,431,401,0.314,0.357,0.411,0.768,33,34,126,95,27,0,4,165,5,5,22,2,51,16,5,2,1,41845117
+2006,Regular Season,Tohoku Rakuten Golden Eagles,15,"Fukumori, Kazuo",P,50,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41943880
+2006,Regular Season,Chiba Lotte Marines,00,"Daita, Takenori",LF,17,25,22,0.182,0.217,0.273,0.490,4,1,4,3,0,1,0,6,3,1,1,0,5,0,0,2,0,41943886
+2006,Regular Season,Hiroshima Toyo Carp,28,"Hiroike, Koji",P,48,6,5,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,41943888
+2006,Climax Series - First Stage,Seibu Lions,53,"Fukuchi, Kazuki",RF,2,,7,0.143,,0.143,,,0,1,1,0,0,0,1,1,,1,,1,,0,,,41943889
+2006,Regular Season,Seibu Lions,53,"Fukuchi, Kazuki",RF,91,333,294,0.289,0.341,0.401,0.742,51,22,85,65,11,5,4,118,25,9,16,1,47,2,7,16,0,41943889
+2006,Regular Season,Hanshin Tigers,62,"Tamaki, Yutaka",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41945110
+2006,Regular Season,Chunichi Dragons,32,"Nakagawa, Hiroki",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41945119
+2006,Regular Season,Hiroshima Toyo Carp,21,"Douglass, Sean",P,20,29,23,0.130,0.167,0.130,0.297,0,4,3,3,0,0,0,3,0,0,1,0,14,0,0,5,0,43145112
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,67,"Lee, Corey",P,11,6,5,0.000,0.167,0.000,0.167,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0,43345110
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,66,"Diaz, Felix",P,8,5,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,43345112
+2006,Regular Season,Yomiuri Giants,42,"Powell, Jeremy",P,28,60,53,0.113,0.130,0.151,0.281,1,1,6,4,2,0,0,8,0,0,1,0,24,1,0,6,0,43345113
+2006,Regular Season,Tokyo Yakult Swallows,6,"Miyamoto, Shinya",SS,73,290,270,0.304,0.337,0.374,0.711,29,34,82,68,11,1,2,101,3,1,8,0,29,10,6,5,1,51053880
+2006,Regular Season,Yokohama BayStars,30,"Doi, Yoshihiro",P,14,22,22,0.182,0.182,0.227,0.409,0,0,4,3,1,0,0,5,0,0,0,0,15,0,0,0,0,51053886
+2006,Regular Season,Tohoku Rakuten Golden Eagles,31,"Fujii, Akihito",C,105,342,297,0.236,0.305,0.310,0.615,26,25,70,54,13,0,3,92,6,1,29,0,51,9,1,14,1,51053888
+2006,Regular Season,Chunichi Dragons,20,"Nakata, Kenichi",P,20,40,37,0.081,0.081,0.081,0.162,1,2,3,3,0,0,0,3,0,0,0,0,16,0,0,3,0,51055110
+2006,Regular Season,Hanshin Tigers,18,"Sugiyama, Naohisa",P,17,24,23,0.130,0.130,0.174,0.304,0,3,3,2,1,0,0,4,0,0,0,0,11,0,0,1,0,51055117
+2006,Regular Season,Hiroshima Toyo Carp,6,"Asai, Itsuki",PH,43,66,63,0.222,0.258,0.222,0.480,2,4,14,14,0,0,0,14,2,0,3,0,7,2,0,0,0,51153881
+2006,Climax Series - First Stage,Seibu Lions,9,"Akada, Shogo",CF,3,,10,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,0,,,51153888
+2006,Regular Season,Seibu Lions,9,"Akada, Shogo",CF,124,518,451,0.293,0.345,0.373,0.718,50,34,132,107,16,7,2,168,16,9,36,1,79,3,2,25,4,51153888
+2006,Regular Season,Hanshin Tigers,52,"Akamatsu, Masato",CF,6,15,14,0.143,0.143,0.143,0.286,1,0,2,2,0,0,0,2,2,1,0,0,3,0,0,1,0,51155110
+2006,Regular Season,Chunichi Dragons,14,"Asakura, Kenta",P,25,45,38,0.053,0.077,0.053,0.130,0,1,2,2,0,0,0,2,0,0,1,0,21,0,0,6,0,51155111
+2006,Regular Season,Tohoku Rakuten Golden Eagles,22,"Aikyo, Hisashi",P,16,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,51155113
+2006,Regular Season,Hanshin Tigers,12,"Asai, Ryo",C,40,59,56,0.268,0.305,0.411,0.716,5,3,15,11,2,0,2,23,0,1,2,0,10,3,1,0,0,51155115
+2006,Regular Season,Orix Buffaloes,48,"Abe, Kenta",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51155117
+2006,Regular Season,Tohoku Rakuten Golden Eagles,49,"Yoshida, Toyohiko",P,41,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51253866
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,33,"Hashimoto, Yoshitaka",P,19,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,51255110
+2006,Regular Season,Fukuoka Softbank Hawks,57,"Mise, Koji",P,40,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51255119
+2006,Regular Season,Chunichi Dragons,43,"Ogasawara, Takashi",P,9,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,51353888
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,40,"Okajima, Hideki",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,51353889
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,40,"Okajima, Hideki",P,55,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51353889
+2006,Regular Season,Hanshin Tigers,21,"Iwata, Minoru",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51355112
+2006,Regular Season,Hiroshima Toyo Carp,31,"Ishihara, Yoshiyuki",C,85,267,240,0.221,0.276,0.296,0.572,17,11,53,41,9,0,3,71,2,0,15,2,43,6,4,6,2,51355115
+2006,Regular Season,Seibu Lions,28,"Okamoto, Atsushi",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51355119
+2006,Regular Season,Hiroshima Toyo Carp,00,"Yamasaki, Koji",SS,27,86,81,0.111,0.143,0.123,0.266,5,1,9,8,1,0,0,10,0,1,3,0,19,1,0,2,0,51453888
+2006,Regular Season,Tokyo Yakult Swallows,21,"Matsuoka, Kenichi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51455110
+2006,Regular Season,Tohoku Rakuten Golden Eagles,38,"Yamashita, Katsumi",3B,39,101,90,0.278,0.333,0.367,0.700,9,9,25,17,8,0,0,33,3,1,8,0,26,1,0,2,1,51455111
+2006,Japan Series,Chunichi Dragons,22,"Fujii, Atsushi",CF,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,51455112
+2006,Regular Season,Chunichi Dragons,22,"Fujii, Atsushi",CF,40,44,41,0.146,0.167,0.195,0.362,10,0,6,4,2,0,0,8,1,1,0,0,7,0,1,2,0,51455112
+2006,Regular Season,Seibu Lions,29,"Mitsui, Koji",P,45,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51455113
+2006,Regular Season,Hanshin Tigers,44,"Fujiwara, Toru",3B,2,2,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51455115
+2006,Regular Season,Chiba Lotte Marines,68,"Hayasaka, Keisuke",2B,6,9,8,0.000,0.111,0.000,0.111,0,0,0,0,0,0,0,0,1,0,0,0,3,0,1,0,0,51455117
+2006,Regular Season,Yomiuri Giants,33,"I, Sunyopu",1B,143,592,524,0.323,0.389,0.615,1.004,101,108,169,98,30,0,41,322,5,1,56,3,126,5,5,0,7,51455119
+2006,Regular Season,Yomiuri Giants,47,"Kudo, Kimiyasu",P,13,19,18,0.222,0.222,0.222,0.444,0,0,4,4,0,0,0,4,0,0,0,0,11,0,0,1,0,51553865
+2006,Regular Season,Yokohama BayStars,46,"Sakumoto, Masahiro",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553882
+2006,Regular Season,Tokyo Yakult Swallows,11,"Takatsu, Shingo",P,48,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553883
+2006,Regular Season,Yokohama BayStars,16,"Kawamura, Takeo",P,57,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51553884
+2006,Regular Season,Seibu Lions,67,"Ono, Go",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51555113
+2006,Regular Season,Seibu Lions,14,"Onodera, Chikara",P,59,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51555117
+2006,Regular Season,Orix Buffaloes,21,"Yoshii, Masato",P,19,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,51653860
+2006,Regular Season,Tohoku Rakuten Golden Eagles,18,"Watanabe, Koki",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51655110
+2006,Regular Season,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",3B,62,220,204,0.211,0.258,0.324,0.582,17,18,43,29,8,3,3,66,0,0,11,0,53,2,2,3,0,51655112
+2006,Regular Season,Yomiuri Giants,48,"Yano, Kenji",RF,103,372,335,0.269,0.335,0.376,0.711,36,30,90,66,18,0,6,126,11,3,21,2,66,6,13,2,1,51655117
+2006,Regular Season,Chunichi Dragons,46,"Denī, Tomori",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51753864
+2006,Climax Series - First Stage,Seibu Lions,4,"Takagi, Hiroyuki",2B,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,51753880
+2006,Regular Season,Seibu Lions,4,"Takagi, Hiroyuki",2B,69,199,177,0.288,0.344,0.333,0.677,19,7,51,43,8,0,0,59,1,0,15,0,17,2,1,4,2,51753880
+2006,Regular Season,Yomiuri Giants,69,"Sanematsu, Kazunari",C,11,15,14,0.071,0.071,0.143,0.214,0,3,1,0,1,0,0,2,0,0,0,0,6,1,0,1,0,51753888
+2006,Regular Season,Yomiuri Giants,52,"Sogawa, Takatomi",2B,7,9,8,0.250,0.333,0.250,0.583,1,0,2,2,0,0,0,2,1,0,1,0,1,0,0,0,0,51755111
+2006,Regular Season,Orix Buffaloes,14,"Kishida, Mamoru",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51755112
+2006,Climax Series - First Stage,Seibu Lions,52,"Kuriyama, Takumi",DH,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,0,,,51755115
+2006,Regular Season,Seibu Lions,52,"Kuriyama, Takumi",DH,63,164,142,0.268,0.350,0.380,0.730,18,22,38,27,8,1,2,54,3,1,16,0,32,2,2,4,0,51755115
+2006,Regular Season,Tokyo Yakult Swallows,13,"Sato, Masaru",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51755119
+2006,Regular Season,Yokohama BayStars,11,"Yamaguchi, Shun",P,5,5,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,0,0,51855112
+2006,Japan Series,Chunichi Dragons,44,"Woods, Tyrone",1B,5,,15,0.267,,0.333,,,0,4,3,1,0,0,5,0,,5,,7,,0,,,51855117
+2006,Regular Season,Chunichi Dragons,44,"Woods, Tyrone",1B,144,614,523,0.310,0.402,0.635,1.037,85,144,162,86,29,0,47,332,1,2,84,4,151,22,1,0,6,51855117
+2006,Regular Season,Seibu Lions,13,"Nishiguchi, Fumiya",P,26,8,8,0.250,0.250,0.250,0.500,0,0,2,2,0,0,0,2,0,0,0,0,3,0,0,0,0,51953880
+2006,Regular Season,Yomiuri Giants,24,"Takahashi, Yoshinobu",CF,97,390,350,0.260,0.320,0.434,0.754,45,51,91,61,14,1,15,152,1,0,25,0,64,5,8,2,5,51953886
+2006,Regular Season,Fukuoka Softbank Hawks,68,"Takeoka, Kazuhiro",P,22,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51955119
+2006,Regular Season,Hanshin Tigers,45,"Oxspring, Chris",P,17,24,23,0.174,0.174,0.261,0.435,4,0,4,2,2,0,0,6,0,0,0,0,9,1,0,1,0,53155112
+2006,Climax Series - First Stage,Seibu Lions,33,"Eto, Akira",DH,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,0,,0,,,53253868
+2006,Regular Season,Seibu Lions,33,"Eto, Akira",DH,52,146,124,0.242,0.349,0.419,0.768,15,19,30,18,7,0,5,52,1,0,21,0,31,2,0,0,1,53253868
+2006,Regular Season,Fukuoka Softbank Hawks,91,"Yan, Yaoshun",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53355112
+2006,Japan Series,Chunichi Dragons,4,"Ochoa, Alex",LF,5,,15,0.200,,0.267,,,1,3,2,1,0,0,4,0,,0,,1,,0,,,53355117
+2006,Regular Season,Chunichi Dragons,4,"Ochoa, Alex",LF,138,578,523,0.273,0.341,0.421,0.762,57,77,143,97,30,1,15,220,2,3,52,3,86,13,2,0,1,53355117
+2006,Regular Season,Tohoku Rakuten Golden Eagles,50,"Glynn, Ryan",P,21,7,6,0.167,0.286,0.333,0.619,0,1,1,0,1,0,0,2,0,0,1,0,0,0,0,0,0,53555112
+2006,Regular Season,Chiba Lotte Marines,47,"Inoe, Jun",LF,30,60,55,0.218,0.283,0.236,0.519,4,1,12,11,1,0,0,13,0,1,5,0,14,0,0,0,0,55953868
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,3,"Matsunaka, Nobuhiko",LF,5,,5,0.200,,0.200,,,1,1,1,0,0,0,1,0,,1,,0,,0,,,61063884
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,3,"Matsunaka, Nobuhiko",LF,5,,13,0.462,,0.923,,,6,6,2,3,0,1,12,0,,1,,2,,0,,,61063884
+2006,Regular Season,Fukuoka Softbank Hawks,3,"Matsunaka, Nobuhiko",LF,131,559,447,0.324,0.453,0.528,0.981,79,76,145,93,32,1,19,236,2,0,102,10,37,5,6,0,4,61063884
+2006,Regular Season,Tokyo Yakult Swallows,30,"Yamabe, Futoshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61063889
+2006,Regular Season,Hanshin Tigers,14,"Nohmi, Atsushi",P,38,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,61065110
+2006,Regular Season,Yomiuri Giants,27,"Togano, Masafumi",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61065112
+2006,Regular Season,Yokohama BayStars,65,"Nishizaki, Nobuhiro",LF,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61065113
+2006,Regular Season,Yomiuri Giants,49,"Ozeki, Tatsuya",PH,56,137,128,0.258,0.286,0.320,0.606,8,10,33,27,4,2,0,41,3,0,4,0,15,1,1,4,0,61163880
+2006,Japan Series,Chunichi Dragons,9,"Inoe, Kazuki",RF,5,,15,0.267,,0.333,,,1,4,3,1,0,0,5,0,,2,,4,,0,,,61163881
+2006,Regular Season,Chunichi Dragons,9,"Inoe, Kazuki",RF,108,288,273,0.311,0.340,0.476,0.816,27,39,85,62,12,0,11,130,2,1,12,0,42,5,0,3,0,61163881
+2006,Regular Season,Hanshin Tigers,7,"Imaoka, Makoto",3B,59,218,204,0.221,0.252,0.358,0.610,16,29,45,33,3,2,7,73,1,0,7,0,42,13,3,0,4,61163884
+2006,Japan Series,Chunichi Dragons,35,"Ueda, Yoshinori",PH,2,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,61163885
+2006,Regular Season,Chunichi Dragons,35,"Ueda, Yoshinori",PH,59,89,81,0.222,0.264,0.296,0.560,8,8,18,12,6,0,0,24,0,0,3,0,16,1,2,2,1,61163885
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,60,"Ito, Takeshi",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61163888
+2006,Regular Season,Chiba Lotte Marines,23,"Otsuka, Akira",CF,109,197,182,0.242,0.291,0.308,0.599,22,10,44,32,12,0,0,56,5,4,11,0,42,7,2,0,1,61163889
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,65,"Ugumori, Atsushi",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61165110
+2006,Regular Season,Tokyo Yakult Swallows,46,"Iihara, Yasushi",LF,28,40,37,0.324,0.375,0.324,0.699,4,3,12,12,0,0,0,12,2,1,1,0,9,0,2,0,0,61165112
+2006,Regular Season,Chiba Lotte Marines,21,"Uchi, Tatsuya",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61165119
+2006,Regular Season,Yomiuri Giants,38,"Hoshi, Takanori",C,7,5,5,0.200,0.200,0.400,0.600,0,0,1,0,1,0,0,2,0,0,0,0,1,0,0,0,0,61265110
+2006,Regular Season,Orix Buffaloes,46,"Mukae, Yuichiro",LF,28,32,30,0.100,0.156,0.200,0.356,2,2,3,2,0,0,1,6,0,0,2,0,10,1,0,0,0,61265111
+2006,Regular Season,Chunichi Dragons,8,"Hirata, Ryosuke",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61265112
+2006,Regular Season,Tohoku Rakuten Golden Eagles,63,"Makida, Akihisa",RF,62,144,125,0.224,0.312,0.232,0.544,8,8,28,27,1,0,0,29,5,6,13,0,21,3,3,3,0,61265113
+2006,Regular Season,Orix Buffaloes,9,"Hirano, Keiichi",CF,33,111,98,0.235,0.276,0.347,0.623,14,6,23,16,5,0,2,34,0,1,6,0,16,1,0,6,1,61265115
+2006,Regular Season,Yokohama BayStars,12,"Yoshikawa, Teruaki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61265119
+2006,Regular Season,Tokyo Yakult Swallows,32,"Ono, Kosei",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61363884
+2006,Regular Season,Chunichi Dragons,54,"Kamata, Keiji",PR,4,1,1,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61365110
+2006,Regular Season,Yokohama BayStars,20,"Kizuka, Atsushi",P,59,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61365111
+2006,Regular Season,Orix Buffaloes,55,"Okada, Takahiro",1B,3,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,61365112
+2006,Regular Season,Seibu Lions,15,"Onuma, Koji",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61365113
+2006,Regular Season,Hiroshima Toyo Carp,46,"Oshima, Takayuki",P,5,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,61365115
+2006,Regular Season,Fukuoka Softbank Hawks,53,"Kaneko, Keisuke",PH,5,7,7,0.143,0.143,0.143,0.286,1,1,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,61365119
+2006,Regular Season,Fukuoka Softbank Hawks,61,"Yamamura, Michinao",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61465113
+2006,Regular Season,Chiba Lotte Marines,50,"Agbayani, Benny",DH,118,473,417,0.281,0.357,0.451,0.808,59,65,117,81,18,1,17,188,4,3,49,0,72,17,3,0,4,61465119
+2006,Regular Season,Hiroshima Toyo Carp,55,"Shima, Shigenobu",RF,128,530,495,0.269,0.308,0.438,0.746,56,69,133,97,12,0,24,217,2,4,27,0,102,11,3,0,5,61563880
+2006,Regular Season,Chiba Lotte Marines,41,"Kobayashi, Hiroyuki",P,20,8,8,0.125,0.125,0.125,0.250,1,0,1,1,0,0,0,1,0,0,0,0,6,0,0,0,0,61563884
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,19,"Shimizu, Akio",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563886
+2006,Regular Season,Chiba Lotte Marines,30,"Kobayashi, Masahide",P,53,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563888
+2006,Regular Season,Chiba Lotte Marines,16,"Kubo, Yasutomo",P,23,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,5,0,0,0,0,61565110
+2006,Regular Season,Chiba Lotte Marines,49,"Kawasaki, Yusuke",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61565112
+2006,Regular Season,Hanshin Tigers,55,"Kida, Go",3B,2,5,5,0.600,0.600,1.000,1.600,0,1,3,1,2,0,0,5,0,0,0,0,1,0,0,0,0,61565115
+2006,Regular Season,Hanshin Tigers,35,"Saka, Katsuhiko",2B,2,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61565119
+2006,Regular Season,Hanshin Tigers,59,"Cubillan, Darwin",P,49,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,61665110
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,29,"Yagi, Tomoya",P,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,61665112
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,29,"Yagi, Tomoya",P,26,7,7,0.143,0.143,0.286,0.429,1,1,1,0,1,0,0,2,0,0,0,0,2,0,0,0,0,61665112
+2006,Regular Season,Yokohama BayStars,31,"Yoshimura, Yuki",LF,111,416,396,0.311,0.336,0.573,0.909,57,66,123,72,24,1,26,227,5,3,10,1,116,5,6,2,2,61665117
+2006,Regular Season,Yomiuri Giants,68,"Suzuki, Takahiro",CF,89,263,245,0.241,0.276,0.286,0.562,34,9,59,52,4,2,1,70,25,4,12,0,38,5,0,6,0,61763884
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,22,"Tateyama, Yoshinori",P,46,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61763888
+2006,Japan Series,Chunichi Dragons,23,"Suzuki, Yoshihiro",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,61765110
+2006,Regular Season,Chunichi Dragons,23,"Suzuki, Yoshihiro",P,46,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61765110
+2006,Regular Season,Seibu Lions,44,"Takayama, Hisashi",RF,55,126,114,0.263,0.317,0.430,0.747,11,15,30,16,11,1,2,49,1,1,9,1,23,2,1,0,2,61765111
+2006,Regular Season,Chunichi Dragons,38,"Saito, Shinsuke",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61765112
+2006,Climax Series - First Stage,Seibu Lions,10,"Sato, Tomoaki",RF,1,,2,0.500,,0.500,,,0,1,1,0,0,0,1,0,,1,,1,,0,,,61765113
+2006,Regular Season,Seibu Lions,10,"Sato, Tomoaki",RF,64,120,99,0.222,0.322,0.263,0.585,14,6,22,19,2,1,0,26,9,4,14,1,13,4,1,5,1,61765113
+2006,Regular Season,Yomiuri Giants,43,"Sanada, Hiroki",P,25,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61765115
+2006,Regular Season,Hanshin Tigers,30,"Kubota, Tomoyuki",P,47,1,0,0.000,1.000,0.000,1.000,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,61765117
+2006,Regular Season,Chunichi Dragons,49,"Martinez, Luis",P,23,34,30,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,0,0,0,0,22,0,0,4,0,61865110
+2006,Regular Season,Fukuoka Softbank Hawks,58,"Tsuji, Takeshi",LF,34,67,57,0.193,0.303,0.368,0.671,8,6,11,4,5,1,1,21,1,2,4,0,16,0,5,1,0,61963886
+2006,Regular Season,Yomiuri Giants,20,"Toyoda, Kiyoshi",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61963887
+2006,Japan Series,Chunichi Dragons,1,"Fukudome, Kosuke",RF,5,,20,0.200,,0.400,,,2,4,2,1,0,1,8,0,,1,,7,,0,,,61963888
+2006,Regular Season,Chunichi Dragons,1,"Fukudome, Kosuke",RF,130,578,496,0.351,0.438,0.653,1.091,117,104,174,91,47,5,31,324,11,2,76,4,94,4,3,0,3,61963888
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,11,"Darvish, Yu",P,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,0,,,61965110
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,11,"Darvish, Yu",P,27,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,3,1,0,0,0,61965110
+2006,Regular Season,Tokyo Yakult Swallows,12,"Takagi, Hiromitsu",P,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61965112
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,70,"Tanoe, Hidenori",DH,4,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,61965115
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,70,"Tanoe, Hidenori",DH,4,,8,0.375,,0.375,,,1,3,3,0,0,0,3,0,,0,,3,,0,,,61965115
+2006,Regular Season,Fukuoka Softbank Hawks,70,"Tanoe, Hidenori",DH,62,217,198,0.283,0.298,0.384,0.682,14,31,56,42,11,0,3,76,0,1,6,0,33,8,0,9,4,61965115
+2006,Regular Season,Hiroshima Toyo Carp,33,"Sayashi, Tomoya",PH,5,8,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,61965117
+2006,Regular Season,Chunichi Dragons,56,"Nakamura, Koji",PH,4,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,2,1,0,0,0,61965119
+2006,Regular Season,Yomiuri Giants,5,"Dillon, Joe",3B,31,95,87,0.195,0.263,0.322,0.585,9,7,17,11,3,1,2,28,0,0,8,0,17,4,0,0,0,63165112
+2006,Regular Season,Tokyo Yakult Swallows,3,"Ramirez, Alex",LF,146,636,603,0.267,0.289,0.449,0.738,79,112,161,105,28,2,26,271,0,0,19,1,104,28,4,0,10,63165113
+2006,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,9,"Macias, Jose",3B,4,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,0,,,63365112
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,9,"Macias, Jose",3B,4,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,63365112
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,9,"Macias, Jose",3B,73,249,227,0.229,0.264,0.344,0.608,24,21,52,33,15,1,3,78,3,2,11,0,35,7,1,7,3,63365112
+2006,Regular Season,Yomiuri Giants,29,"Maeda, Yukinaga",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63463868
+2006,Regular Season,Yokohama BayStars,5,"Ishii, Takuro",SS,146,675,604,0.288,0.357,0.368,0.725,91,32,174,138,30,0,6,222,12,11,63,0,99,4,2,5,1,65563868
+2006,Regular Season,Yomiuri Giants,31,"Noguchi, Shigeki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71073887
+2006,Regular Season,Hanshin Tigers,22,"Fujikawa, Kyuji",P,63,5,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,1,0,71073888
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,38,"Takeda, Masaru",P,29,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71075112
+2006,Regular Season,Chunichi Dragons,18,"Nakazato, Atsushi",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71075113
+2006,Japan Series,Chunichi Dragons,2,"Araki, Masahiro",2B,5,,18,0.111,,0.111,,,1,2,2,0,0,0,2,1,,2,,1,,0,,,71173882
+2006,Regular Season,Chunichi Dragons,2,"Araki, Masahiro",2B,112,506,464,0.300,0.338,0.358,0.696,69,31,139,117,19,1,2,166,30,7,26,1,49,8,1,15,0,71173882
+2006,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,57,"Iiyama, Yuji",3B,5,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,0,,0,,,71173886
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,57,"Iiyama, Yuji",3B,5,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,71173886
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,57,"Iiyama, Yuji",3B,86,107,92,0.141,0.218,0.152,0.370,12,3,13,12,1,0,0,14,2,3,7,0,26,1,2,6,0,71173886
+2006,Regular Season,Chunichi Dragons,30,"Ishii, Yuya",P,11,5,4,0.000,0.200,0.000,0.200,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,71175110
+2006,Regular Season,Chiba Lotte Marines,53,"Aihara, Katsuyuki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71175112
+2006,Regular Season,Chiba Lotte Marines,58,"Aono, Takeshi",2B,64,199,182,0.275,0.313,0.473,0.786,18,22,50,29,12,3,6,86,1,1,10,0,44,6,1,4,2,71175113
+2006,Regular Season,Chunichi Dragons,58,"Ishikawa, Satoru",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71175119
+2006,Regular Season,Chiba Lotte Marines,20,"Yabuta, Yasuhiko",P,47,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71273882
+2006,Regular Season,Orix Buffaloes,42,"Hagiwara, Jun",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71273885
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,26,"Matoba, Naoki",C,4,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,0,,,71275111
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,26,"Matoba, Naoki",C,4,,3,0.667,,1.000,,,1,2,1,1,0,0,3,0,,0,,0,,1,,,71275111
+2006,Regular Season,Fukuoka Softbank Hawks,26,"Matoba, Naoki",C,82,157,137,0.146,0.197,0.190,0.387,12,8,20,14,6,0,0,26,0,0,7,1,42,3,2,10,1,71275111
+2006,Regular Season,Tohoku Rakuten Golden Eagles,66,"Nishimura, Wataru",SS,47,67,63,0.127,0.141,0.143,0.284,13,1,8,7,1,0,0,9,0,4,1,0,25,1,0,3,0,71275112
+2006,Regular Season,Hiroshima Toyo Carp,26,"Hirose, Jun",PH,84,183,162,0.290,0.344,0.420,0.764,20,29,47,36,6,0,5,68,4,0,10,1,30,4,5,3,3,71275113
+2006,Regular Season,Yokohama BayStars,28,"Hata, Yuji",P,33,12,8,0.250,0.400,0.250,0.650,1,0,2,2,0,0,0,2,0,0,2,0,5,0,0,2,0,71275115
+2006,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,64,"Tsuruoka, Shinya",C,6,,7,0.143,,0.143,,,0,1,1,0,0,0,1,0,,0,,1,,0,,,71275117
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,64,"Tsuruoka, Shinya",C,6,,6,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,0,,,71275117
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,64,"Tsuruoka, Shinya",C,76,218,203,0.241,0.251,0.340,0.591,18,21,49,36,9,1,3,69,2,1,3,0,51,5,0,11,1,71275117
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,16,"Kanemura, Satoru",P,23,8,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,1,0,71373880
+2006,Regular Season,Fukuoka Softbank Hawks,66,"Saito, Kazumi",P,26,8,7,0.286,0.286,0.286,0.572,1,2,2,2,0,0,0,2,0,0,0,0,3,0,0,1,0,71373882
+2006,Regular Season,Chunichi Dragons,26,"Ochiai, Eiji",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71373885
+2006,Regular Season,Chiba Lotte Marines,29,"Ono, Shingo",P,22,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,71373889
+2006,Regular Season,Chiba Lotte Marines,10,"Omatsu, Shoitsu",RF,74,194,180,0.217,0.266,0.389,0.655,13,31,39,24,7,0,8,70,1,0,10,1,49,2,2,2,0,71375110
+2006,Regular Season,Seibu Lions,49,"Uemoto, Tatsuyuki",1B,4,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,71375117
+2006,Regular Season,Orix Buffaloes,99,"Yoshikawa, Katsunari",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71475111
+2006,Regular Season,Fukuoka Softbank Hawks,40,"Fujioka, Yoshiaki",P,62,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71475112
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,62,"Yamazaki, Katsuki",C,3,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,0,,,71475113
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,62,"Yamazaki, Katsuki",C,3,,5,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,2,,0,,,71475113
+2006,Regular Season,Fukuoka Softbank Hawks,62,"Yamazaki, Katsuki",C,105,284,245,0.229,0.279,0.269,0.548,17,19,56,48,7,0,1,66,1,0,17,1,72,3,1,19,2,71475113
+2006,Climax Series - First Stage,Seibu Lions,30,"Hosokawa, Toru",C,3,,8,0.125,,0.125,,,0,1,1,0,0,0,1,0,,0,,2,,0,,,71475115
+2006,Regular Season,Seibu Lions,30,"Hosokawa, Toru",C,99,312,266,0.199,0.252,0.335,0.587,22,27,53,32,13,1,7,89,0,0,15,1,68,3,4,26,1,71475115
+2006,Regular Season,Fukuoka Softbank Hawks,67,"Saito, Hidemitsu",3B,4,9,8,0.125,0.125,0.125,0.250,0,0,1,1,0,0,0,1,0,1,0,0,3,0,0,1,0,71573889
+2006,Regular Season,Hiroshima Toyo Carp,57,"Kai, Masahito",1B,8,16,16,0.063,0.063,0.063,0.126,0,0,1,1,0,0,0,1,0,0,0,0,6,0,0,0,0,71575113
+2006,Regular Season,Yokohama BayStars,26,"Odajima, Masakuni",PH,26,51,44,0.205,0.265,0.432,0.697,3,6,9,5,1,0,3,19,0,0,3,0,16,1,1,2,1,71575115
+2006,Regular Season,Seibu Lions,24,"Matsunaga, Hironori",P,11,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675112
+2006,Regular Season,Chiba Lotte Marines,31,"Watanabe, Shunsuke",P,23,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,71675113
+2006,Regular Season,Tokyo Yakult Swallows,5,"Dobashi, Katsuyuki",PH,29,31,25,0.160,0.250,0.200,0.450,1,3,4,3,1,0,0,5,0,0,2,0,4,2,1,3,0,71773864
+2006,Regular Season,Hiroshima Toyo Carp,22,"Takahashi, Ken",P,54,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71773880
+2006,Regular Season,Orix Buffaloes,31,"Shiozaki, Makoto",2B,128,473,410,0.278,0.347,0.388,0.735,46,31,114,89,14,2,9,159,1,2,38,2,64,8,5,20,0,71773884
+2006,Regular Season,Orix Buffaloes,33,"Takagi, Yasunari",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71775111
+2006,Regular Season,Orix Buffaloes,1,"Goto, Mitsutaka",SS,95,307,290,0.269,0.300,0.362,0.662,26,21,78,59,14,2,3,105,4,0,11,1,51,2,2,4,0,71775115
+2006,Regular Season,Yomiuri Giants,21,"Kisanuki, Hiroshi",P,3,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71775117
+2006,Regular Season,Chunichi Dragons,16,"Sato, Mitsuru",P,19,39,30,0.067,0.097,0.067,0.164,0,1,2,2,0,0,0,2,1,0,1,0,15,1,0,8,0,71775119
+2006,Regular Season,Tokyo Yakult Swallows,2,"Riggs, Adam",1B,142,636,591,0.294,0.343,0.558,0.901,111,94,174,96,39,0,39,330,11,2,33,0,112,7,11,0,1,71875110
+2006,Regular Season,Tokyo Yakult Swallows,42,"Gonzalez, Dicky",P,17,33,25,0.120,0.120,0.160,0.280,0,4,3,2,1,0,0,4,0,0,0,0,3,0,0,8,0,71875119
+2006,Regular Season,Hiroshima Toyo Carp,42,"Hasegawa, Masayuki",P,29,7,4,0.000,0.200,0.000,0.200,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,2,0,71973882
+2006,Regular Season,Chiba Lotte Marines,61,"Teramoto, Shiro",DH,2,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,71973888
+2006,Japan Series,Chunichi Dragons,36,"Hirai, Masafumi",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,71973889
+2006,Regular Season,Chunichi Dragons,36,"Hirai, Masafumi",P,57,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973889
+2006,Regular Season,Chiba Lotte Marines,25,"Takehara, Naotaka",LF,8,20,19,0.105,0.150,0.105,0.255,2,0,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,71975110
+2006,Regular Season,Chunichi Dragons,67,"Takahashi, Akifumi",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71975115
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,31,"Koyano, Eiichi",PH,17,26,21,0.143,0.217,0.143,0.360,0,1,3,3,0,0,0,3,0,0,2,0,6,1,0,3,0,71975117
+2006,Regular Season,Seibu Lions,34,"Gissell, Chris",P,18,3,3,0.667,0.667,0.667,1.334,1,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,73175112
+2006,Regular Season,Chiba Lotte Marines,42,"Beirne, Kevin",P,28,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,73175117
+2006,Regular Season,Yokohama BayStars,3,"Taneda, Hitoshi",2B,80,268,230,0.217,0.304,0.270,0.574,33,17,50,40,9,0,1,62,3,1,25,1,25,5,4,8,1,73373881
+2006,Regular Season,Chunichi Dragons,47,"Galva, Claudio",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73375112
+2006,Regular Season,Chiba Lotte Marines,36,"Miller, Justin",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73575112
+2006,Regular Season,Chiba Lotte Marines,5,"Hori, Koichi",2B,87,283,264,0.227,0.270,0.348,0.618,19,23,60,41,12,1,6,92,1,1,15,0,55,8,1,1,2,73873868
+2006,Regular Season,Tohoku Rakuten Golden Eagles,16,"Yamamura, Hiroki",P,30,9,9,0.222,0.222,0.222,0.444,1,1,2,2,0,0,0,2,0,0,0,0,4,0,0,0,0,81083880
+2006,Regular Season,Tokyo Yakult Swallows,35,"Miki, Hajime",2B,59,27,27,0.148,0.148,0.148,0.296,5,0,4,4,0,0,0,4,8,3,0,0,7,0,0,0,0,81083882
+2006,Regular Season,Yomiuri Giants,13,"Nomaguchi, Takahiko",P,26,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,81085110
+2006,Regular Season,Hanshin Tigers,32,"Maeda, Tadatoki",3B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81085111
+2006,Regular Season,Yokohama BayStars,39,"Naito, Yuta",PH,2,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,81085112
+2006,Climax Series - First Stage,Seibu Lions,60,"Nakamura, Takeya",3B,2,,6,0.167,,0.667,,,1,1,0,0,0,1,4,0,,1,,2,,0,,,81085115
+2006,Regular Season,Seibu Lions,60,"Nakamura, Takeya",3B,100,323,283,0.276,0.359,0.428,0.787,47,29,78,53,16,0,9,121,4,2,29,2,78,9,8,3,0,81085115
+2006,Regular Season,Tokyo Yakult Swallows,25,"Tateyama, Shohei",P,44,9,9,0.111,0.111,0.111,0.222,0,0,1,1,0,0,0,1,0,0,0,0,7,0,0,0,0,81085117
+2006,Regular Season,Orix Buffaloes,41,"Matsumura, Toyoji",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81085119
+2006,Japan Series,Chunichi Dragons,13,"Iwase, Hitoki",P,1,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,81183888
+2006,Regular Season,Chunichi Dragons,13,"Iwase, Hitoki",P,56,2,1,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,81183888
+2006,Regular Season,Hiroshima Toyo Carp,39,"Umetsu, Tomohiro",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81185110
+2006,Regular Season,Seibu Lions,51,"Oshima, Hiroyuki",PH,9,16,15,0.133,0.188,0.133,0.321,0,1,2,2,0,0,0,2,0,0,0,0,2,1,1,0,0,81185111
+2006,Regular Season,Fukuoka Softbank Hawks,51,"Arakane, Hisao",LF,19,18,17,0.059,0.111,0.118,0.229,0,0,1,0,1,0,0,2,0,0,0,0,7,0,1,0,0,81185113
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,60,"Inamine, Homare",2B,4,,4,0.250,,0.250,,,0,1,1,0,0,0,1,0,,0,,1,,0,,,81185117
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,60,"Inamine, Homare",2B,4,,2,0.500,,0.500,,,1,1,1,0,0,0,1,0,,0,,0,,0,,,81185117
+2006,Regular Season,Fukuoka Softbank Hawks,60,"Inamine, Homare",2B,26,65,56,0.196,0.246,0.304,0.550,4,4,11,7,2,2,0,17,1,1,4,0,11,1,0,3,1,81185117
+2006,Regular Season,Yomiuri Giants,26,"Utsumi, Tetsuya",P,31,63,56,0.214,0.214,0.232,0.446,2,5,12,11,1,0,0,13,0,0,0,0,29,1,0,7,0,81185119
+2006,Regular Season,Hanshin Tigers,42,"Shimoyanagi, Tsuyoshi",P,25,49,44,0.045,0.065,0.045,0.110,1,3,2,2,0,0,0,2,0,0,1,0,21,0,0,3,1,81283883
+2006,Regular Season,Orix Buffaloes,16,"Hirano, Yoshihisa",P,26,9,9,0.111,0.111,0.111,0.222,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,81285112
+2006,Regular Season,Chunichi Dragons,68,"Nagamine, Shoji",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285117
+2006,Regular Season,Orix Buffaloes,66,"Yoshida, Shintaro",PH,12,15,13,0.154,0.214,0.154,0.368,1,1,2,2,0,0,0,2,1,0,1,0,4,0,0,1,0,81285119
+2006,Regular Season,Orix Buffaloes,23,"Kitagawa, Hirotoshi",1B,100,403,373,0.290,0.335,0.442,0.777,39,55,108,69,29,2,8,165,2,2,23,2,47,8,4,0,3,81383880
+2006,Regular Season,Tohoku Rakuten Golden Eagles,14,"Kawamoto, Yasuyuki",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383885
+2006,Regular Season,Yomiuri Giants,0,"Kawanaka, Mototsugu",PH,58,100,92,0.174,0.232,0.272,0.504,12,9,16,11,3,0,2,25,3,0,5,0,20,1,2,1,0,81383886
+2006,Regular Season,Tohoku Rakuten Golden Eagles,45,"Kawai, Takashi",P,13,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81383888
+2006,Regular Season,Yomiuri Giants,25,"Kamei, Yoshiyuki",RF,65,151,141,0.206,0.233,0.369,0.602,13,18,29,13,12,1,3,52,1,0,5,0,38,2,1,1,3,81385110
+2006,Regular Season,Hiroshima Toyo Carp,27,"Kimura, Koichiro",PH,8,11,11,0.091,0.091,0.182,0.273,0,0,1,0,1,0,0,2,0,0,0,0,2,0,0,0,0,81385111
+2006,Regular Season,Hiroshima Toyo Carp,37,"Okagami, Kazunori",PH,10,9,8,0.125,0.125,0.375,0.500,2,0,1,0,0,1,0,3,0,0,0,0,2,0,0,1,0,81385113
+2006,Regular Season,Tokyo Yakult Swallows,40,"Ohara, Heishu",SS,13,35,31,0.226,0.265,0.323,0.588,4,1,7,4,3,0,0,10,1,0,2,0,8,0,0,1,1,81385117
+2006,Regular Season,Chiba Lotte Marines,40,"Watanabe, Masato",2B,68,80,72,0.194,0.247,0.236,0.483,8,2,14,12,1,1,0,17,0,0,3,0,23,0,2,3,0,81483886
+2006,Regular Season,Orix Buffaloes,20,"Yamamoto, Shogo",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81485113
+2006,Regular Season,Yokohama BayStars,25,"Murata, Shuichi",3B,145,611,545,0.266,0.325,0.519,0.844,83,114,145,78,30,3,34,283,1,0,39,0,153,11,13,4,10,81485117
+2006,Regular Season,Chiba Lotte Marines,48,"Takagi, Koji",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583864
+2006,Regular Season,Hiroshima Toyo Carp,9,"Ogata, Koichi",CF,81,242,215,0.284,0.349,0.428,0.777,28,29,61,42,13,0,6,92,2,4,17,1,33,6,6,1,3,81583866
+2006,Regular Season,Tohoku Rakuten Golden Eagles,57,"Koyama, Shinichiro",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583884
+2006,Regular Season,Yomiuri Giants,54,"Sakai, Junya",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583888
+2006,Regular Season,Yokohama BayStars,40,"Kuwahara, Yoshiyuki",LF,9,23,21,0.381,0.409,0.476,0.885,3,0,8,6,2,0,0,10,1,0,1,0,1,0,0,1,0,81585110
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,39,"Kawashima, Keizo",PR,24,37,33,0.182,0.250,0.273,0.523,6,2,6,3,3,0,0,9,2,0,2,0,8,0,1,1,0,81585112
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,12,"Kamakura, Ken",P,7,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,81585117
+2006,Regular Season,Hanshin Tigers,40,"Sajikihara, Masashi",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81585119
+2006,Regular Season,Chunichi Dragons,42,"Guzman, Domingo",P,4,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,81685115
+2006,Regular Season,Hanshin Tigers,31,"Wei-chu, Lin",PH,67,82,76,0.303,0.354,0.579,0.933,12,13,23,13,4,1,5,44,0,0,6,1,24,0,0,0,0,81685117
+2006,Regular Season,Hanshin Tigers,3,"Sekimoto, Kentaro",3B,132,439,356,0.301,0.382,0.441,0.823,52,33,107,77,19,2,9,157,0,1,42,0,76,8,6,33,2,81783884
+2006,Regular Season,Hiroshima Toyo Carp,60,"Saito, Yuki",P,2,4,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,81785112
+2006,Regular Season,Tokyo Yakult Swallows,0,"Shida, Munehiro",PH,41,28,27,0.185,0.214,0.185,0.399,7,0,5,5,0,0,0,5,1,1,1,0,6,0,0,0,0,81785115
+2006,Regular Season,Yokohama BayStars,00,"Kono, Yuki",LF,13,16,16,0.125,0.125,0.125,0.250,1,1,2,2,0,0,0,2,0,0,0,0,5,1,0,0,0,81785117
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,10,"Honma, Mitsuru",2B,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,1,,0,,,81983880
+2006,Regular Season,Fukuoka Softbank Hawks,10,"Honma, Mitsuru",2B,116,374,328,0.244,0.303,0.305,0.608,35,30,80,64,14,0,2,100,1,0,25,1,96,6,3,17,1,81983880
+2006,Regular Season,Orix Buffaloes,27,"Hidaka, Takeshi",C,115,349,304,0.240,0.311,0.286,0.597,23,29,73,61,11,0,1,87,3,0,28,0,53,8,4,11,2,81983882
+2006,Japan Series,Chunichi Dragons,95,"Narahara, Hiroshi",PH,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,81983883
+2006,Regular Season,Chunichi Dragons,95,"Narahara, Hiroshi",PH,37,35,31,0.194,0.219,0.258,0.477,4,1,6,4,2,0,0,8,1,0,1,1,11,0,0,3,0,81983883
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,7,"Tsuboi, Tomochika",PH,1,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,81983886
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,7,"Tsuboi, Tomochika",PH,25,50,47,0.191,0.224,0.234,0.458,4,1,9,7,2,0,0,11,0,0,2,0,10,1,0,1,0,81983886
+2006,Regular Season,Hanshin Tigers,28,"Fukuhara, Shinobu",P,24,46,40,0.175,0.214,0.175,0.389,2,3,7,7,0,0,0,7,0,0,2,0,22,1,0,4,0,81983888
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,17,"Thomas, Brad",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83185110
+2006,Climax Series - First Stage,Seibu Lions,40,"Liefer, Jeff",DH,2,,4,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,0,,,83185112
+2006,Regular Season,Seibu Lions,40,"Liefer, Jeff",DH,49,158,143,0.252,0.323,0.601,0.924,24,32,36,13,9,1,13,86,0,1,13,1,35,2,2,0,0,83185112
+2006,Regular Season,Hiroshima Toyo Carp,93,"Marte, Victor",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83385112
+2006,Japan Series,Chunichi Dragons,27,"Tanishige, Motonobu",C,5,,15,0.333,,0.333,,,2,5,5,0,0,0,5,0,,1,,5,,1,,,85583868
+2006,Regular Season,Chunichi Dragons,27,"Tanishige, Motonobu",C,141,520,428,0.234,0.347,0.353,0.700,48,38,100,68,22,1,9,151,0,0,71,16,102,12,5,13,3,85583868
+2006,Regular Season,Fukuoka Softbank Hawks,64,"Tanoe, Keisaburo",P,5,4,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,91093881
+2006,Regular Season,Tohoku Rakuten Golden Eagles,60,"Fujisaki, Hironori",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91093888
+2006,Regular Season,Chiba Lotte Marines,0,"Morozumi, Kenji",LF,20,5,4,0.500,0.500,1.000,1.500,2,2,2,1,0,1,0,4,0,0,0,0,1,0,0,1,0,91093889
+2006,Regular Season,Tokyo Yakult Swallows,18,"Fujii, Shugo",P,27,34,30,0.133,0.133,0.167,0.300,0,3,4,3,1,0,0,5,0,0,0,0,11,0,0,4,0,91095111
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,0,"Nakazawa, Tadaatsu",2B,3,,3,0.667,,0.667,,,0,2,2,0,0,0,2,0,,0,,0,,0,,,91095113
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,0,"Nakazawa, Tadaatsu",2B,3,,3,0.333,,0.667,,,3,1,0,1,0,0,2,0,,1,,1,,0,,,91095113
+2006,Regular Season,Fukuoka Softbank Hawks,0,"Nakazawa, Tadaatsu",2B,46,83,76,0.171,0.200,0.329,0.529,10,9,13,6,4,1,2,25,0,0,3,0,19,2,0,3,1,91095113
+2006,Regular Season,Fukuoka Softbank Hawks,20,"Terahara, Hayato",P,16,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91095115
+2006,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,41,"Inaba, Atsunori",RF,7,,8,0.125,,0.125,,,1,1,1,0,0,0,1,0,,0,,0,,0,,,91193880
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,41,"Inaba, Atsunori",RF,7,,17,0.353,,0.765,,,7,6,3,1,0,2,13,0,,2,,2,,0,,,91193880
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,41,"Inaba, Atsunori",RF,128,518,473,0.307,0.355,0.522,0.877,66,75,145,97,20,2,26,247,5,5,27,2,74,6,10,6,2,91193880
+2006,Climax Series - First Stage,Seibu Lions,32,"Ishii, Yoshihito",3B,2,,4,0.250,,0.250,,,0,1,1,0,0,0,1,0,,1,,2,,0,,,91193884
+2006,Regular Season,Seibu Lions,32,"Ishii, Yoshihito",3B,67,213,186,0.312,0.389,0.414,0.803,32,16,58,45,10,0,3,77,3,0,23,1,35,1,1,2,1,91193884
+2006,Regular Season,Tokyo Yakult Swallows,53,"Igarashi, Ryota",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193886
+2006,Regular Season,Yokohama BayStars,52,"Ishikawa, Takehiro",2B,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91195110
+2006,Regular Season,Tohoku Rakuten Golden Eagles,41,"Aoyama, Kouji",P,43,1,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,91195112
+2006,Regular Season,Hanshin Tigers,53,"Akahoshi, Norihiro",CF,142,642,566,0.269,0.344,0.302,0.646,84,20,152,136,13,3,0,171,35,13,60,0,94,2,6,9,1,91195113
+2006,Regular Season,Fukuoka Softbank Hawks,18,"Arakaki, Nagisa",P,23,3,3,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91195117
+2006,Regular Season,Hanshin Tigers,2,"Noguchi, Toshihiro",C,16,21,20,0.150,0.190,0.150,0.340,1,0,3,3,0,0,0,3,0,0,0,0,4,2,1,0,0,91293881
+2006,Regular Season,Tokyo Yakult Swallows,31,"Manaka, Mitsuru",PH,99,194,172,0.238,0.283,0.302,0.585,13,15,41,32,8,0,1,52,1,0,11,0,19,5,1,7,3,91293887
+2006,Regular Season,Fukuoka Softbank Hawks,44,"Mizuta, Akio",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91293888
+2006,Regular Season,Tokyo Yakult Swallows,4,"Watarai, Hirobumi",PH,27,31,28,0.357,0.400,0.429,0.829,3,3,10,8,2,0,0,12,0,0,2,0,4,1,0,1,0,91293889
+2006,Regular Season,Tohoku Rakuten Golden Eagles,33,"Hiraishi, Yosuke",LF,2,7,7,0.143,0.143,0.143,0.286,0,0,1,1,0,0,0,1,0,1,0,0,3,0,0,0,0,91295110
+2006,Regular Season,Fukuoka Softbank Hawks,94,"Nishiyama, Michitaka",P,3,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91295112
+2006,Regular Season,Orix Buffaloes,37,"Hayakawa, Daisuke",CF,21,55,46,0.196,0.260,0.304,0.564,10,3,9,6,2,0,1,14,5,1,1,0,11,0,3,5,0,91295115
+2006,Regular Season,Tohoku Rakuten Golden Eagles,61,"Kawaguchi, Kenshi",PH,85,203,180,0.233,0.315,0.339,0.654,14,15,42,27,13,0,2,61,2,2,17,2,38,7,5,0,1,91393880
+2006,Regular Season,Tohoku Rakuten Golden Eagles,52,"Nomura, Katsunori",C,56,141,129,0.124,0.186,0.171,0.357,8,5,16,11,4,1,0,22,1,0,7,1,26,6,3,1,1,91393882
+2006,Regular Season,Chunichi Dragons,40,"Oda, Kohei",C,33,42,38,0.158,0.179,0.237,0.416,1,2,6,3,3,0,0,9,0,0,1,0,13,2,0,3,0,91393886
+2006,Regular Season,Tohoku Rakuten Golden Eagles,34,"Kaneda, Masahiko",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393887
+2006,Regular Season,Hiroshima Toyo Carp,11,"Oyamada, Yasuhiro",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91393888
+2006,Regular Season,Hanshin Tigers,43,"Kamisaka, Taichiro",3B,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91395111
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,69,"Ide, Shotaro",LF,2,,1,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,91395115
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,69,"Ide, Shotaro",LF,2,,2,0.500,,0.500,,,0,1,1,0,0,0,1,0,,0,,1,,0,,,91395115
+2006,Regular Season,Fukuoka Softbank Hawks,69,"Ide, Shotaro",LF,23,34,31,0.129,0.182,0.161,0.343,1,2,4,3,1,0,0,5,0,0,2,0,8,0,0,1,0,91395115
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,61,"Oshimoto, Takehiko",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91395119
+2006,Regular Season,Hanshin Tigers,50,"Machida, Kojiro",PH,14,15,12,0.250,0.400,0.583,0.983,2,2,3,1,1,0,1,7,0,0,3,0,2,0,0,0,0,91493885
+2006,Regular Season,Tohoku Rakuten Golden Eagles,00,"Moritani, Akihito",CF,24,25,22,0.227,0.292,0.364,0.656,6,0,5,2,3,0,0,8,5,0,2,1,9,0,0,1,0,91493886
+2006,Regular Season,Fukuoka Softbank Hawks,50,"Yoshimoto, Ryo",1B,13,44,40,0.250,0.286,0.325,0.611,3,7,10,7,3,0,0,13,0,0,2,0,11,2,0,2,0,91493888
+2006,Regular Season,Chiba Lotte Marines,27,"Furuya, Takuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91495112
+2006,Regular Season,Chunichi Dragons,55,"Maeda, Akihiro",C,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91495115
+2006,Regular Season,Orix Buffaloes,40,"Maeda, Daisuke",C,5,9,9,0.111,0.111,0.111,0.222,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,91495117
+2006,Regular Season,Yomiuri Giants,9,"Shimizu, Takayuki",LF,121,343,315,0.216,0.275,0.302,0.577,36,20,68,53,9,0,6,95,3,3,25,4,34,5,1,1,1,91593882
+2006,Regular Season,Fukuoka Softbank Hawks,41,"Kurano, Shinji",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91593884
+2006,Regular Season,Yokohama BayStars,1,"Kinjo, Tatsuhiko",RF,144,618,552,0.268,0.333,0.375,0.708,60,59,148,113,22,2,11,207,2,1,48,7,57,14,7,8,3,91593888
+2006,Regular Season,Yokohama BayStars,41,"Kishimoto, Hideki",P,6,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,91595110
+2006,Regular Season,Hiroshima Toyo Carp,13,"Satake, Kenta",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91595111
+2006,Regular Season,Tokyo Yakult Swallows,39,"Kajimoto, Yusuke",PH,21,46,45,0.156,0.174,0.200,0.374,2,0,7,6,0,1,0,9,2,0,1,0,13,0,0,0,0,91595115
+2006,Regular Season,Orix Buffaloes,28,"Garcia, Karim",RF,91,325,301,0.249,0.302,0.412,0.714,33,37,75,52,10,0,13,124,0,4,22,4,77,12,1,0,1,91695110
+2006,Regular Season,Tokyo Yakult Swallows,29,"Larocca, Greg",2B,103,436,379,0.285,0.372,0.464,0.836,58,63,108,76,14,0,18,176,2,1,34,3,52,6,20,0,3,91695119
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,32,"Nakajima, Satoshi",C,4,,2,0.500,,0.500,,,0,1,1,0,0,0,1,0,,0,,1,,1,,,91793864
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,32,"Nakajima, Satoshi",C,79,30,29,0.207,0.233,0.276,0.509,0,5,6,4,2,0,0,8,0,0,0,0,6,1,1,0,0,91793864
+2006,Regular Season,Hanshin Tigers,00,"Tanaka, Shuta",3B,21,6,4,0.000,0.200,0.000,0.200,2,0,0,0,0,0,0,0,0,0,1,0,4,0,0,1,0,91793880
+2006,Climax Series - Final Stage,Fukuoka Softbank Hawks,1,"Shibahara, Hiroshi",RF,4,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,3,,0,,,91793884
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,1,"Shibahara, Hiroshi",RF,4,,6,0.000,,0.000,,,0,0,0,0,0,0,0,0,,2,,2,,0,,,91793884
+2006,Regular Season,Fukuoka Softbank Hawks,1,"Shibahara, Hiroshi",RF,121,414,361,0.277,0.353,0.380,0.733,52,48,100,75,16,6,3,137,6,3,38,2,67,9,7,3,5,91793884
+2006,Regular Season,Orix Buffaloes,44,"Suzuki, Fumihiro",C,15,14,13,0.231,0.286,0.385,0.671,2,1,3,2,0,1,0,5,0,0,1,0,5,0,0,0,0,91793886
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,35,"Kinoshita, Tatsuo",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91795112
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,10,"Kimoto, Kuniyuki",3B,69,244,218,0.239,0.294,0.294,0.588,15,21,52,42,9,0,1,64,4,2,15,2,51,3,2,9,0,91795113
+2006,Regular Season,Yokohama BayStars,4,"Kitagawa, Toshiyuki",PH,11,14,13,0.154,0.214,0.231,0.445,1,0,2,1,1,0,0,3,0,0,1,0,2,1,0,0,0,91795117
+2006,Regular Season,Hiroshima Toyo Carp,30,"Romano, Mike",P,31,20,18,0.222,0.263,0.333,0.596,0,0,4,2,2,0,0,6,0,0,1,0,10,0,0,1,0,91895110
+2006,Regular Season,Tohoku Rakuten Golden Eagles,24,"Yamazaki, Takahiro",RF,7,17,15,0.200,0.250,0.333,0.583,1,0,3,1,2,0,0,5,0,0,1,0,4,0,0,1,0,91895112
+2006,Climax Series - Final Stage,Hokkaido Nippon-Ham Fighters,5,"Seguignol, Fernando",DH,7,,7,0.143,,0.143,,,1,1,1,0,0,0,1,0,,1,,4,,0,,,91895115
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,5,"Seguignol, Fernando",DH,7,,17,0.294,,0.647,,,6,5,3,0,0,2,11,0,,2,,4,,1,,,91895115
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Seguignol, Fernando",DH,132,540,485,0.295,0.356,0.532,0.888,60,77,143,80,37,0,26,258,0,0,40,3,119,13,9,0,6,91895115
+2006,Regular Season,Chiba Lotte Marines,33,"Hashimoto, Tasuku",C,44,115,103,0.146,0.228,0.233,0.461,6,8,15,11,1,1,2,24,0,1,10,1,33,0,1,1,0,91993880
+2006,Regular Season,Orix Buffaloes,10,"Tani, Yoshitomo",LF,118,469,434,0.267,0.316,0.346,0.662,45,30,116,94,16,0,6,150,1,2,30,1,41,15,2,0,3,91993884
+2006,Regular Season,Yokohama BayStars,51,"Tanaka, Mitsuru",PH,9,8,7,0.000,0.125,0.000,0.125,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,91993886
+2006,Regular Season,Tohoku Rakuten Golden Eagles,43,"Tokumoto, Satoshi",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91993888
+2006,Climax Series - First Stage,Seibu Lions,8,"Hirao, Hiroshi",3B,1,,3,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,2,,0,,,91993889
+2006,Regular Season,Seibu Lions,8,"Hirao, Hiroshi",3B,76,227,195,0.231,0.327,0.359,0.686,21,28,45,31,8,1,5,70,1,1,28,0,36,5,1,1,2,91993889
+2006,Regular Season,Orix Buffaloes,64,"Tanaka, Akira",3B,9,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,91995110
+2006,Regular Season,Seibu Lions,37,"Sumitani, Ginjiro",C,54,146,138,0.181,0.193,0.290,0.483,10,14,25,17,4,1,3,40,0,0,2,0,33,6,0,6,0,91995112
+2006,Japan Series,Hokkaido Nippon-Ham Fighters,52,"Konta, Toshimasa",PR,2,,0,0.000,,0.000,,,0,0,0,0,0,0,0,0,,0,,0,,0,,,91995117
+2006,Regular Season,Hokkaido Nippon-Ham Fighters,52,"Konta, Toshimasa",PR,21,20,19,0.263,0.300,0.368,0.668,4,1,5,3,2,0,0,7,1,1,1,0,5,0,0,0,0,91995117
+2006,Regular Season,Yokohama BayStars,7,"Suzuki, Takanori",PH,61,86,82,0.329,0.349,0.537,0.886,10,13,27,17,5,3,2,44,0,0,2,0,16,0,1,0,1,93193883
+2006,Regular Season,Orix Buffaloes,26,"Grabowski, Jason",RF,39,108,89,0.146,0.296,0.326,0.622,10,7,13,5,4,0,4,29,0,0,18,0,30,3,1,0,0,93195112
+2006,Regular Season,Yokohama BayStars,43,"Beverlin, Jason",P,8,8,5,0.000,0.167,0.000,0.167,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,2,0,93395117
+2006,Climax Series - First Stage,Fukuoka Softbank Hawks,55,"Omichi, Noriyoshi",PH,1,,2,0.000,,0.000,,,0,0,0,0,0,0,0,0,,1,,1,,0,,,93993868
+2006,Regular Season,Fukuoka Softbank Hawks,55,"Omichi, Noriyoshi",PH,44,71,60,0.217,0.246,0.267,0.513,0,8,13,10,3,0,0,16,0,0,3,1,10,5,0,6,2,93993868

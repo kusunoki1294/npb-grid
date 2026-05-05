@@ -1,0 +1,702 @@
+Season,Game Type,Team,#,Name,Position,G,FPCT,PO,A,E,DP,PB,PlayerID
+1991,Regular Season,Yokohama Taiyo Whales,46,"Miyashita, Shiro",OF,5,1.000,2,0,0,0,,01003864
+1991,Regular Season,Orix Bluewave,34,"Mori, Koji",P,3,0.000,0,0,0,0,,01003865
+1991,Regular Season,Lotte Orions,00,"Taijun, Masahiro",3B,1,0.000,0,0,0,0,,01003883
+1991,Regular Season,Seibu Lions,22,"Omiya, Tatsuo",C,24,0.982,47,7,1,0,1,01103844
+1991,Regular Season,Yomiuri Giants,52,"Inoe, Shinji",OF,11,1.000,11,0,0,0,,01103860
+1991,Regular Season,Lotte Orions,27,"Ushijima, Kazuhiko",P,1,1.000,0,1,0,0,,01103861
+1991,Regular Season,Fukuoka Daiei Hawks,12,"Inoe, Yuji",P,17,1.000,2,6,0,0,,01103863
+1991,Regular Season,Hanshin Tigers,25,"Inomata, Takashi",P,27,0.921,3,32,3,0,,01103864
+1991,Regular Season,Fukuoka Daiei Hawks,15,"Takashima, Satoru",P,18,1.000,3,5,0,2,,01103866
+1991,Regular Season,Nippon-Ham Fighters,24,"Arikura, Masashi",P,9,1.000,2,5,0,0,,01103881
+1991,Regular Season,Fukuoka Daiei Hawks,5,"Fujimoto, Hiroshi",1B,7,0.960,20,4,1,4,,01203860
+1991,Regular Season,Fukuoka Daiei Hawks,5,"Fujimoto, Hiroshi",3B,77,0.973,54,125,5,10,,01203860
+1991,Regular Season,Fukuoka Daiei Hawks,5,"Fujimoto, Hiroshi",OF,1,1.000,2,0,0,0,,01203860
+1991,Regular Season,Kintetsu Buffaloes,44,"Mitsuyama, Hidekazu",C,71,0.994,317,31,2,4,2,01203862
+1991,Regular Season,Seibu Lions,43,"Yokota, Hisanori",P,24,1.000,1,9,0,1,,01203864
+1991,Regular Season,Fukuoka Daiei Hawks,14,"Wakai, Motoyasu",2B,1,1.000,1,0,0,0,,01203866
+1991,Regular Season,Fukuoka Daiei Hawks,14,"Wakai, Motoyasu",3B,1,1.000,1,0,0,0,,01203866
+1991,Regular Season,Seibu Lions,48,"Maeda, Koji",P,3,0.000,0,0,0,0,,01203869
+1991,Regular Season,Seibu Lions,64,"Nonogaki, Takeshi",2B,1,0.000,0,0,0,0,,01203881
+1991,Regular Season,Seibu Lions,64,"Nonogaki, Takeshi",SS,1,0.750,2,1,1,1,,01203881
+1991,Regular Season,Yokohama Taiyo Whales,17,"Saito, Akio",P,17,0.967,6,23,1,1,,01303844
+1991,Regular Season,Chunichi Dragons,23,"Kawamata, Yonetoshi",1B,11,0.980,43,6,1,3,,01303848
+1991,Regular Season,Chunichi Dragons,23,"Kawamata, Yonetoshi",OF,31,1.000,38,1,0,0,,01303848
+1991,Regular Season,Lotte Orions,41,"Kasahara, Eiichi",P,7,1.000,1,2,0,1,,01303862
+1991,Regular Season,Kintetsu Buffaloes,4,"Oishi, Daijiro",2B,122,0.990,268,334,6,63,,01303863
+1991,Regular Season,Hiroshima Toyo Carp,11,"Kito, Makoto",P,36,1.000,3,16,0,2,,01303864
+1991,Regular Season,Hanshin Tigers,5,"Kanamori, Eiji",OF,40,1.000,43,3,0,0,,01303865
+1991,Regular Season,Chunichi Dragons,22,"Yamasaki, Takeshi",OF,17,0.947,17,1,1,0,,01303868
+1991,Regular Season,Chunichi Dragons,18,"Kashima, Tadashi",P,19,1.000,0,4,0,0,,01303869
+1991,Regular Season,Seibu Lions,23,"Otsuka, Koji",OF,3,1.000,2,0,0,0,,01303881
+1991,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,33,1.000,8,32,0,1,,01403862
+1991,Regular Season,Yomiuri Giants,62,"Kojima, Keiichi",P,1,1.000,0,1,0,0,,01403868
+1991,Regular Season,Chunichi Dragons,30,"Komatsuzaki, Yoshihisa",1B,6,1.000,20,0,0,3,,01503860
+1991,Regular Season,Chunichi Dragons,30,"Komatsuzaki, Yoshihisa",OF,15,1.000,11,1,0,0,,01503860
+1991,Regular Season,Yakult Swallows,48,"Sakurai, Shinichi",2B,2,1.000,1,5,0,0,,01503862
+1991,Regular Season,Yakult Swallows,48,"Sakurai, Shinichi",3B,3,1.000,1,2,0,0,,01503862
+1991,Regular Season,Yakult Swallows,48,"Sakurai, Shinichi",SS,1,0.000,0,0,0,0,,01503862
+1991,Regular Season,Yokohama Taiyo Whales,21,"Nomura, Hiroki",P,26,0.976,12,29,1,5,,01503866
+1991,Regular Season,Hiroshima Toyo Carp,6,"Kobayakawa, Takehiko",1B,68,0.992,455,37,4,49,,01503869
+1991,Regular Season,Hiroshima Toyo Carp,6,"Kobayakawa, Takehiko",3B,1,1.000,0,1,0,0,,01503869
+1991,Regular Season,Hiroshima Toyo Carp,6,"Kobayakawa, Takehiko",OF,2,0.000,0,0,0,0,,01503869
+1991,Regular Season,Chunichi Dragons,19,"Yonemura, Akira",P,1,0.000,0,0,0,0,,01603860
+1991,Regular Season,Yokohama Taiyo Whales,60,"Shirahata, Takahiro",1B,1,1.000,5,0,0,1,,01703860
+1991,Regular Season,Yokohama Taiyo Whales,60,"Shirahata, Takahiro",3B,1,0.000,0,0,0,0,,01703860
+1991,Regular Season,Yokohama Taiyo Whales,60,"Shirahata, Takahiro",OF,32,0.976,39,1,1,0,,01703860
+1991,Regular Season,Seibu Lions,19,"Takahashi, Kazuhiko",P,5,1.000,0,4,0,0,,01703862
+1991,Regular Season,Orix Bluewave,66,"Sakaemura, Tadahiro",OF,2,1.000,2,0,0,0,,01703866
+1991,Regular Season,Hanshin Tigers,21,"Sekikawa, Koichi",C,10,0.982,55,1,1,1,1,01703883
+1991,Regular Season,Chunichi Dragons,32,"Yamada, Kikuo",P,32,1.000,2,3,0,0,,01803881
+1991,Regular Season,Hanshin Tigers,0,"Nakano, Satoru",OF,100,0.992,123,3,1,0,,01903862
+1991,Regular Season,Yomiuri Giants,22,"Nakao, Takayoshi",C,27,0.991,105,7,1,0,4,01903863
+1991,Regular Season,Yomiuri Giants,28,"Hirota, Hiroaki",P,12,1.000,2,4,0,1,,01903864
+1991,Regular Season,Orix Bluewave,16,"Ito, Atsunori",P,29,0.962,8,42,2,2,,01903866
+1991,Regular Season,Nippon-Ham Fighters,7,"Nakajima, Terushi",1B,57,1.000,153,13,0,11,,01903868
+1991,Regular Season,Nippon-Ham Fighters,7,"Nakajima, Terushi",3B,40,0.941,11,69,5,4,,01903868
+1991,Regular Season,Nippon-Ham Fighters,7,"Nakajima, Terushi",OF,61,0.986,70,2,1,0,,01903868
+1991,Regular Season,Hanshin Tigers,63,"Shinjo, Tsuyoshi",SS,8,0.842,6,10,3,2,,01903881
+1991,Regular Season,Hiroshima Toyo Carp,54,"Chiyomaru, Shoshi",OF,3,1.000,1,0,0,0,,03003868
+1991,Regular Season,Hiroshima Toyo Carp,00,"Allen, Rod",OF,63,1.000,72,3,0,0,,03403868
+1991,Regular Season,Hanshin Tigers,33,"Kaneko, Seiichi",OF,10,1.000,12,0,0,0,,03503868
+1991,Regular Season,Lotte Orions,65,"Yashima, Shoji",P,4,1.000,0,1,0,0,,03603868
+1991,Regular Season,Fukuoka Daiei Hawks,27,"Yoshinaga, Koichiro",C,82,0.992,346,21,3,3,5,03703868
+1991,Regular Season,Yakult Swallows,13,"Kato, Hiroto",P,28,0.972,12,23,1,2,,05003868
+1991,Regular Season,Kintetsu Buffaloes,46,"Omura, Shinji",1B,2,1.000,9,0,0,1,,05603868
+1991,Regular Season,Seibu Lions,39,"Destrade, Orestes",1B,3,1.000,22,2,0,2,,07303868
+1991,Regular Season,Hanshin Tigers,7,"Mayumi, Akinobu",OF,88,0.991,106,2,1,0,,11013847
+1991,Regular Season,Hanshin Tigers,29,"Yoshida, Hiroyuki",C,36,0.985,124,11,2,3,1,11013848
+1991,Regular Season,Hanshin Tigers,41,"Nishikawa, Yoshiaki",P,5,1.000,1,1,0,0,,11013862
+1991,Regular Season,Lotte Orions,10,"Furukawa, Shinichi",OF,49,0.967,59,0,2,0,,11213862
+1991,Regular Season,Hanshin Tigers,3,"Yagi, Hiroshi",3B,130,0.966,106,240,12,18,,11213864
+1991,Regular Season,Yokohama Taiyo Whales,49,"Hatayama, Hitoshi",1B,1,0.000,0,0,0,0,,11213867
+1991,Regular Season,Yokohama Taiyo Whales,49,"Hatayama, Hitoshi",OF,29,0.964,26,1,1,0,,11213867
+1991,Regular Season,Nippon-Ham Fighters,35,"Fujio, Yasuharu",1B,10,0.979,44,3,1,6,,11213869
+1991,Regular Season,Nippon-Ham Fighters,35,"Fujio, Yasuharu",3B,7,0.950,6,13,1,0,,11213869
+1991,Regular Season,Nippon-Ham Fighters,35,"Fujio, Yasuharu",OF,2,0.000,0,0,0,0,,11213869
+1991,Regular Season,Fukuoka Daiei Hawks,42,"Nishi, Shunji",3B,1,1.000,1,0,0,0,,11213881
+1991,Regular Season,Nippon-Ham Fighters,41,"Komaki, Yuichi",C,6,1.000,6,2,0,0,0,11213883
+1991,Regular Season,Nippon-Ham Fighters,41,"Komaki, Yuichi",OF,11,1.000,7,0,0,0,,11213883
+1991,Regular Season,Seibu Lions,45,"Okubo, Hiromoto",C,3,1.000,10,2,0,1,0,11313860
+1991,Regular Season,Nippon-Ham Fighters,28,"Okamoto, Tetsushi",C,11,0.882,13,2,2,1,0,11313862
+1991,Regular Season,Chunichi Dragons,12,"Ishimoto, Yoshiaki",P,4,1.000,0,1,0,0,,11313863
+1991,Regular Season,Yokohama Taiyo Whales,8,"Ono, Yuji",1B,32,1.000,251,6,0,31,,11313864
+1991,Regular Season,Yokohama Taiyo Whales,8,"Ono, Yuji",3B,3,1.000,3,3,0,0,,11313864
+1991,Regular Season,Yokohama Taiyo Whales,8,"Ono, Yuji",OF,1,0.000,0,0,0,0,,11313864
+1991,Regular Season,Hanshin Tigers,18,"Noda, Koji",P,32,1.000,19,43,0,1,,11313866
+1991,Regular Season,Seibu Lions,52,"Oda, Shinya",P,33,1.000,0,3,0,0,,11313869
+1991,Regular Season,Kintetsu Buffaloes,41,"Iriki, Satoshi",P,10,0.938,4,11,1,0,,11313881
+1991,Regular Season,Chunichi Dragons,21,"Kojima, Hiromu",P,24,0.963,10,16,1,1,,11313883
+1991,Regular Season,Fukuoka Daiei Hawks,00,"Yamaguchi, Yuji",OF,14,1.000,5,1,0,0,,11413862
+1991,Regular Season,Chunichi Dragons,43,"Yamanaka, Kiyoshi",C,25,0.987,132,17,2,5,0,11413863
+1991,Regular Season,Fukuoka Daiei Hawks,32,"Motohara, Masaharu",P,26,0.971,7,27,1,0,,11413868
+1991,Regular Season,Fukuoka Daiei Hawks,51,"Eguchi, Takayoshi",P,8,1.000,1,1,0,0,,11413883
+1991,Regular Season,Yomiuri Giants,18,"Kuwata, Masumi",P,28,0.988,24,58,1,1,,11513862
+1991,Regular Season,Yokohama Taiyo Whales,53,"Kataoka, Mitsuhiro",1B,1,1.000,3,1,0,1,,11513863
+1991,Regular Season,Yomiuri Giants,40,"Sato, Hiroshi",2B,18,1.000,19,29,0,1,,11513864
+1991,Regular Season,Yomiuri Giants,40,"Sato, Hiroshi",3B,3,0.667,1,1,1,0,,11513864
+1991,Regular Season,Yomiuri Giants,40,"Sato, Hiroshi",SS,3,0.000,0,0,0,0,,11513864
+1991,Regular Season,Yokohama Taiyo Whales,40,"Okawa, Ryusai",OF,6,1.000,5,1,0,1,,11513866
+1991,Regular Season,Yokohama Taiyo Whales,40,"Okawa, Ryusai",SS,1,1.000,1,0,0,0,,11513866
+1991,Regular Season,Hiroshima Toyo Carp,19,"Kiyokawa, Eiji",P,4,0.000,0,0,0,0,,11513869
+1991,Regular Season,Kintetsu Buffaloes,47,"Kiyokawa, Eiji",P,30,0.833,0,5,1,0,,11513869
+1991,Regular Season,Yakult Swallows,15,"Okabayashi, Yoichi",P,45,0.935,3,26,2,2,,11513883
+1991,Regular Season,Yakult Swallows,27,"Furuta, Atsuya",C,127,0.995,783,93,4,22,12,11613881
+1991,Regular Season,Hanshin Tigers,2,"Takahashi, Yoshihiko",OF,33,1.000,33,0,0,0,,11713842
+1991,Regular Season,Hanshin Tigers,2,"Takahashi, Yoshihiko",SS,8,0.966,8,20,1,5,,11713842
+1991,Regular Season,Fukuoka Daiei Hawks,3,"Sasaki, Makoto",OF,125,0.989,270,12,3,1,,11713860
+1991,Regular Season,Yomiuri Giants,25,"Kono, Junki",OF,41,1.000,31,0,0,0,,11713863
+1991,Regular Season,Hanshin Tigers,24,"Sumitomo, Kazuya",P,1,0.000,0,0,0,0,,11713865
+1991,Regular Season,Hiroshima Toyo Carp,21,"Kawashima, Ken",P,1,1.000,0,1,0,0,,11713866
+1991,Regular Season,Lotte Orions,13,"Kobayashi, Akinori",P,11,1.000,1,5,0,0,,11713881
+1991,Regular Season,Hanshin Tigers,15,"Yufune, Toshiro",P,23,0.926,0,25,2,0,,11713883
+1991,Regular Season,Yomiuri Giants,35,"Yojo, Minoru",OF,5,1.000,6,1,0,1,,11813868
+1991,Regular Season,Nippon-Ham Fighters,21,"Nishizaki, Yukihiro",P,19,0.929,4,22,2,1,,11913864
+1991,Regular Season,Lotte Orions,3,"Nishimura, Norifumi",OF,112,0.996,229,1,1,1,,11913865
+1991,Regular Season,Yomiuri Giants,12,"Ro, Meishi",OF,7,1.000,7,0,0,0,,11913866
+1991,Regular Season,Nippon-Ham Fighters,48,"Shirai, Yasukatsu",P,31,0.962,6,19,1,0,,11913868
+1991,Regular Season,Hiroshima Toyo Carp,29,"Kondo, Yoshihisa",P,29,0.944,5,12,1,3,,13013868
+1991,Regular Season,Chunichi Dragons,53,"Service, Scott",P,1,1.000,1,1,0,0,,13313883
+1991,Regular Season,Lotte Orions,0,"Hatsushiba, Kiyoshi",3B,85,0.946,45,164,12,9,,13813868
+1991,Regular Season,Fukuoka Daiei Hawks,61,"Yanagita, Shikato",2B,1,1.000,2,0,0,0,,13913868
+1991,Regular Season,Fukuoka Daiei Hawks,61,"Yanagita, Shikato",3B,7,1.000,0,6,0,0,,13913868
+1991,Regular Season,Fukuoka Daiei Hawks,61,"Yanagita, Shikato",SS,1,0.000,0,0,0,0,,13913868
+1991,Regular Season,Yakult Swallows,40,"Suzuki, Taira",P,13,1.000,0,4,0,0,,15013868
+1991,Regular Season,Seibu Lions,21,"Watanabe, Tomio",P,22,0.980,14,34,1,6,,15113868
+1991,Regular Season,Yakult Swallows,2,"Iida, Tetsuya",OF,99,0.995,196,8,1,3,,15213868
+1991,Regular Season,Yakult Swallows,2,"Iida, Tetsuya",SS,1,0.667,2,0,1,0,,15213868
+1991,Regular Season,Seibu Lions,8,"Suzuki, Ken",1B,4,1.000,10,4,0,1,,15313868
+1991,Regular Season,Seibu Lions,8,"Suzuki, Ken",3B,8,1.000,8,6,0,0,,15313868
+1991,Regular Season,Yokohama Taiyo Whales,7,"Miyazato, Futoshi",OF,121,0.982,210,7,4,0,,15713868
+1991,Regular Season,Yokohama Taiyo Whales,4,"Yokotani, Akimasa",OF,12,1.000,5,0,0,0,,15913868
+1991,Regular Season,Yakult Swallows,26,"Hata, Shinji",OF,111,0.980,142,3,3,0,,21023860
+1991,Regular Season,Orix Bluewave,9,"Motonishi, Atsuhiro",OF,121,0.993,260,6,2,2,,21023864
+1991,Regular Season,Nippon-Ham Fighters,15,"Takeda, Kazuhiro",P,41,0.917,2,9,1,1,,21023866
+1991,Regular Season,Lotte Orions,9,"Igarashi, Akihito",OF,80,0.982,98,9,2,2,,21023883
+1991,Regular Season,Fukuoka Daiei Hawks,1,"Ogawa, Hiroshi",2B,2,0.000,0,0,0,0,,21123861
+1991,Regular Season,Fukuoka Daiei Hawks,1,"Ogawa, Hiroshi",SS,96,0.981,99,206,6,37,,21123861
+1991,Regular Season,Fukuoka Daiei Hawks,43,"Iwakiri, Eiji",C,12,0.975,35,4,1,0,0,21123864
+1991,Regular Season,Chunichi Dragons,3,"Tatsunami, Kazuyoshi",SS,131,0.976,192,377,14,76,,21123866
+1991,Regular Season,Yomiuri Giants,49,"Delacruz, Hector",3B,2,1.000,1,1,0,0,,21123883
+1991,Regular Season,Yomiuri Giants,49,"Delacruz, Hector",OF,1,1.000,1,0,0,0,,21123883
+1991,Regular Season,Fukuoka Daiei Hawks,4,"Moriwaki, Hiroshi",2B,11,1.000,9,6,0,1,,21223863
+1991,Regular Season,Fukuoka Daiei Hawks,4,"Moriwaki, Hiroshi",3B,37,0.923,9,15,2,1,,21223863
+1991,Regular Season,Fukuoka Daiei Hawks,4,"Moriwaki, Hiroshi",SS,14,0.900,1,8,1,2,,21223863
+1991,Regular Season,Lotte Orions,18,"Irabu, Hideki",P,24,0.950,2,17,1,0,,21223866
+1991,Regular Season,Orix Bluewave,44,"Wells, Boomer",1B,116,0.996,970,86,4,79,,21223867
+1991,Regular Season,Yomiuri Giants,31,"Mizuno, Katsuhito",P,31,1.000,3,6,0,1,,21223869
+1991,Regular Season,Kintetsu Buffaloes,11,"Nomo, Hideo",P,31,0.978,9,36,1,1,,21223881
+1991,Regular Season,Hanshin Tigers,48,"Kubo, Yasuo",P,37,1.000,5,12,0,0,,21323846
+1991,Regular Season,Seibu Lions,18,"Kaku, Taigen",P,24,1.000,6,35,0,3,,21323860
+1991,Regular Season,Orix Bluewave,0,"Kawabata, Yasuhiro",P,17,1.000,2,12,0,0,,21323862
+1991,Regular Season,Chunichi Dragons,1,"Kondo, Shinichi",P,4,1.000,3,1,0,0,,21323864
+1991,Regular Season,Hiroshima Toyo Carp,47,"Kaneishi, Akihito",P,31,0.947,5,13,1,2,,21323865
+1991,Regular Season,Yakult Swallows,33,"Nakanishi, Chikashi",C,13,0.985,58,7,1,4,1,21323866
+1991,Regular Season,Chunichi Dragons,62,"Hasebe, Yutaka",C,19,1.000,93,3,0,1,1,21323868
+1991,Regular Season,Yomiuri Giants,0,"Kawai, Masahiro",SS,126,0.981,176,352,10,66,,21323869
+1991,Regular Season,Hanshin Tigers,39,"Yoshida, Yasuo",C,6,1.000,10,0,0,0,0,21423862
+1991,Regular Season,Seibu Lions,2,"Yoshitake, Haruki",OF,96,0.992,118,0,1,0,,21423863
+1991,Regular Season,Fukuoka Daiei Hawks,9,"Uchinokura, Takashi",1B,3,1.000,2,0,0,0,,21423883
+1991,Regular Season,Lotte Orions,40,"Sato, Kazuhito",OF,37,1.000,24,2,0,0,,21523862
+1991,Regular Season,Yokohama Taiyo Whales,14,"Paciorek, Jim",1B,109,0.998,954,68,2,80,,21523866
+1991,Regular Season,Yokohama Taiyo Whales,14,"Paciorek, Jim",OF,12,1.000,9,0,0,0,,21523866
+1991,Regular Season,Chunichi Dragons,9,"Yamaguchi, Koji",OF,77,0.990,101,2,1,0,,21523868
+1991,Regular Season,Yakult Swallows,6,"Ray, Johnny",2B,106,0.985,221,308,8,62,,21523883
+1991,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",2B,22,0.971,52,49,3,15,,21623860
+1991,Regular Season,Hanshin Tigers,6,"Wada, Yutaka",SS,114,0.984,183,308,8,74,,21623860
+1991,Regular Season,Yakult Swallows,9,"Sugiura, Toru",1B,26,0.989,172,10,2,17,,21723845
+1991,Regular Season,Yakult Swallows,24,"Naito, Naoyuki",P,18,0.941,4,12,1,0,,21723864
+1991,Regular Season,Yomiuri Giants,38,"Suguro, Hironori",2B,1,1.000,2,1,0,0,,21723866
+1991,Regular Season,Lotte Orions,20,"Shiratake, Yoshihisa",P,37,0.842,5,11,3,1,,21723867
+1991,Regular Season,Hiroshima Toyo Carp,18,"Sasaoka, Shinji",P,33,1.000,20,48,0,7,,21723881
+1991,Regular Season,Hanshin Tigers,1,"O'Malley, Tom",1B,128,0.995,1104,103,6,98,,21723883
+1991,Regular Season,Yomiuri Giants,50,"Goto, Koji",3B,8,0.833,1,9,2,0,,21823868
+1991,Regular Season,Yomiuri Giants,50,"Goto, Koji",OF,6,0.500,1,0,1,0,,21823868
+1991,Regular Season,Fukuoka Daiei Hawks,7,"Mizukami, Yoshio",2B,3,0.000,0,0,0,0,,21923842
+1991,Regular Season,Fukuoka Daiei Hawks,7,"Mizukami, Yoshio",3B,1,0.000,0,0,0,0,,21923842
+1991,Regular Season,Fukuoka Daiei Hawks,7,"Mizukami, Yoshio",OF,1,1.000,1,0,0,0,,21923842
+1991,Regular Season,Fukuoka Daiei Hawks,7,"Mizukami, Yoshio",SS,93,0.970,103,189,9,31,,21923842
+1991,Regular Season,Chunichi Dragons,4,"Nagashima, Kiyoyuki",OF,49,0.990,94,2,1,1,,21923861
+1991,Regular Season,Hiroshima Toyo Carp,16,"Nagadomi, Hiroshi",P,24,0.971,7,26,1,1,,21923862
+1991,Regular Season,Hanshin Tigers,28,"Nakada, Yoshihiro",P,14,1.000,0,2,0,0,,21923863
+1991,Regular Season,Yomiuri Giants,64,"Fujimoto, Kenji",OF,2,0.000,0,0,0,0,,21923864
+1991,Regular Season,Orix Bluewave,40,"Fukuhara, Mineo",2B,8,0.933,8,6,1,1,,21923865
+1991,Regular Season,Orix Bluewave,62,"Kazaoka, Naoyuki",2B,26,0.981,27,24,1,6,,21923866
+1991,Regular Season,Orix Bluewave,62,"Kazaoka, Naoyuki",3B,9,1.000,1,2,0,0,,21923866
+1991,Regular Season,Orix Bluewave,62,"Kazaoka, Naoyuki",SS,3,0.000,0,0,0,0,,21923866
+1991,Regular Season,Fukuoka Daiei Hawks,38,"Tomari, Katsunori",1B,9,1.000,61,1,0,3,,21923869
+1991,Regular Season,Fukuoka Daiei Hawks,38,"Tomari, Katsunori",OF,1,1.000,3,0,0,0,,21923869
+1991,Regular Season,Yokohama Taiyo Whales,23,"Reynolds, R.J.",OF,116,0.984,233,7,4,1,,23123883
+1991,Regular Season,Hiroshima Toyo Carp,50,"Kawada, Yusuke",OF,6,1.000,1,0,0,0,,23423868
+1991,Regular Season,Hanshin Tigers,43,"Miyauchi, Masakazu",OF,65,0.973,71,1,2,1,,23523868
+1991,Regular Season,Lotte Orions,43,"Shibahara, Hiroshi",C,3,1.000,3,0,0,0,0,23623868
+1991,Regular Season,Lotte Orions,4,"Diaz, Mike",C,6,0.971,30,3,1,3,0,23823868
+1991,Regular Season,Lotte Orions,4,"Diaz, Mike",OF,2,1.000,2,0,0,0,,23823868
+1991,Regular Season,Hiroshima Toyo Carp,15,"Katase, Kiyotoshi",P,7,1.000,1,2,0,0,,23923868
+1991,Regular Season,Seibu Lions,68,"Kaseda, Michihisa",P,1,0.000,0,0,0,0,,25123868
+1991,Regular Season,Hiroshima Toyo Carp,49,"Nobayashi, Hiroki",1B,1,1.000,7,0,0,0,,25623868
+1991,Regular Season,Hiroshima Toyo Carp,49,"Nobayashi, Hiroki",2B,2,1.000,2,6,0,1,,25623868
+1991,Regular Season,Hiroshima Toyo Carp,49,"Nobayashi, Hiroki",3B,10,1.000,1,8,0,0,,25623868
+1991,Regular Season,Yokohama Taiyo Whales,50,"Horie, Kenji",3B,1,1.000,0,1,0,0,,25723868
+1991,Regular Season,Yokohama Taiyo Whales,50,"Horie, Kenji",SS,56,0.960,57,134,8,31,,25723868
+1991,Regular Season,Yakult Swallows,17,"Kawasaki, Kenjiro",P,28,1.000,12,35,0,3,,25923868
+1991,Regular Season,Seibu Lions,63,"Kakiuchi, Tetsuya",OF,4,1.000,3,0,0,0,,27123868
+1991,Regular Season,Hiroshima Toyo Carp,1,"Yamasaki, Ryuzo",3B,67,0.968,42,79,4,10,,31033846
+1991,Regular Season,Hiroshima Toyo Carp,1,"Yamasaki, Ryuzo",OF,88,0.989,84,5,1,3,,31033846
+1991,Regular Season,Chunichi Dragons,40,"Minamimure, Toyozo",OF,49,1.000,70,3,0,0,,31033865
+1991,Regular Season,Orix Bluewave,0,"Minamimure, Toyozo",OF,9,1.000,7,0,0,0,,31033865
+1991,Regular Season,Orix Bluewave,37,"Watanabe, Shinji",1B,1,1.000,2,0,0,0,,31033866
+1991,Regular Season,Nippon-Ham Fighters,2,"Suzuki, Yoshihiro",OF,53,1.000,84,6,0,0,,31033868
+1991,Regular Season,Lotte Orions,69,"Enoki, Yasuhiro",P,4,0.000,0,0,0,0,,31033883
+1991,Regular Season,Chunichi Dragons,7,"Uno, Masaru",3B,120,0.952,91,166,13,17,,31133844
+1991,Regular Season,Kintetsu Buffaloes,25,"Adachi, Toshiya",2B,32,1.000,33,44,0,7,,31133860
+1991,Regular Season,Kintetsu Buffaloes,25,"Adachi, Toshiya",OF,1,0.000,0,0,0,0,,31133860
+1991,Regular Season,Kintetsu Buffaloes,25,"Adachi, Toshiya",SS,60,0.969,68,149,7,23,,31133860
+1991,Regular Season,Yokohama Taiyo Whales,20,"Aikawa, Hideaki",P,1,0.000,0,0,0,0,,31133862
+1991,Regular Season,Lotte Orions,1,"Aiko, Takeshi",1B,130,0.993,1175,81,9,81,,31133863
+1991,Regular Season,Lotte Orions,1,"Aiko, Takeshi",OF,1,0.000,0,0,0,0,,31133863
+1991,Regular Season,Chunichi Dragons,17,"Uehara, Akira",P,46,0.909,2,8,1,0,,31133866
+1991,Regular Season,Seibu Lions,25,"Abe, Osamu",1B,2,1.000,8,1,0,1,,31133869
+1991,Regular Season,Seibu Lions,25,"Abe, Osamu",OF,18,1.000,18,0,0,0,,31133869
+1991,Regular Season,Hiroshima Toyo Carp,53,"Akimura, Norihiro",P,10,1.000,3,1,0,0,,31133881
+1991,Regular Season,Chunichi Dragons,57,"Hikono, Toshikatsu",OF,37,0.977,41,1,1,0,,31233860
+1991,Regular Season,Orix Bluewave,2,"Yamagoshi, Yoshihiro",1B,34,1.000,51,2,0,4,,31233864
+1991,Regular Season,Orix Bluewave,2,"Yamagoshi, Yoshihiro",2B,26,0.969,36,58,3,8,,31233864
+1991,Regular Season,Orix Bluewave,2,"Yamagoshi, Yoshihiro",3B,4,0.750,0,3,1,1,,31233864
+1991,Regular Season,Fukuoka Daiei Hawks,18,"Murata, Katsuyoshi",P,23,1.000,7,28,0,2,,31233866
+1991,Regular Season,Yakult Swallows,32,"Obana, Takao",P,21,1.000,4,24,0,2,,31333846
+1991,Regular Season,Fukuoka Daiei Hawks,2,"Ono, Hisashi",OF,130,0.984,296,6,5,1,,31333860
+1991,Regular Season,Hanshin Tigers,16,"Okada, Akinobu",2B,102,0.974,227,289,14,55,,31333861
+1991,Regular Season,Fukuoka Daiei Hawks,35,"Otsuka, Yoshiki",C,1,0.000,0,0,0,0,0,31333862
+1991,Regular Season,Yokohama Taiyo Whales,33,"Ichikawa, Kazumasa",C,19,0.990,90,9,1,1,1,31333863
+1991,Regular Season,Hanshin Tigers,32,"Yamaguchi, Shigeyuki",1B,3,1.000,10,0,0,0,,31333866
+1991,Regular Season,Hanshin Tigers,32,"Yamaguchi, Shigeyuki",2B,7,1.000,10,10,0,1,,31333866
+1991,Regular Season,Hanshin Tigers,32,"Yamaguchi, Shigeyuki",3B,3,0.000,0,0,0,0,,31333866
+1991,Regular Season,Hanshin Tigers,32,"Yamaguchi, Shigeyuki",OF,4,1.000,1,0,0,0,,31333866
+1991,Regular Season,Hanshin Tigers,32,"Yamaguchi, Shigeyuki",SS,5,0.667,0,2,1,0,,31333866
+1991,Regular Season,Kintetsu Buffaloes,26,"Ono, Kazuyoshi",P,21,1.000,8,34,0,3,,31333869
+1991,Regular Season,Nippon-Ham Fighters,20,"Iwamoto, Tsutomu",P,5,1.000,0,3,0,0,,31333881
+1991,Regular Season,Chunichi Dragons,25,"Yoshida, Futoshi",P,8,1.000,1,3,0,1,,31333883
+1991,Regular Season,Orix Bluewave,28,"Hoshino, Nobuyuki",P,28,0.946,5,48,3,2,,31433860
+1991,Regular Season,Kintetsu Buffaloes,29,"Kato, Masaki",OF,33,1.000,16,2,0,0,,31433866
+1991,Regular Season,Yomiuri Giants,17,"Makihara, Hiromi",P,25,0.975,10,29,1,4,,31433867
+1991,Regular Season,Yomiuri Giants,47,"Kida, Masao",P,19,0.944,1,16,1,0,,31433868
+1991,Regular Season,Fukuoka Daiei Hawks,52,"Ashikaga, Yutaka",P,11,1.000,3,3,0,0,,31433883
+1991,Regular Season,Fukuoka Daiei Hawks,0,"Shimada, Makoto",OF,10,1.000,9,0,0,0,,31533844
+1991,Regular Season,Chunichi Dragons,20,"Komatsu, Tatsuo",P,23,0.955,4,17,1,0,,31533846
+1991,Regular Season,Yakult Swallows,30,"Kiminami, Takayoshi",3B,3,1.000,1,1,0,0,,31533865
+1991,Regular Season,Yakult Swallows,30,"Kiminami, Takayoshi",C,2,1.000,8,1,0,0,1,31533865
+1991,Regular Season,Yakult Swallows,30,"Kiminami, Takayoshi",OF,9,1.000,2,0,0,0,,31533865
+1991,Regular Season,Yokohama Taiyo Whales,18,"Okamoto, Toru",P,30,1.000,12,43,0,3,,31533866
+1991,Regular Season,Chunichi Dragons,49,"Sakai, Tadaharu",2B,27,0.958,14,32,2,5,,31533868
+1991,Regular Season,Chunichi Dragons,49,"Sakai, Tadaharu",SS,11,1.000,8,11,0,4,,31533868
+1991,Regular Season,Yakult Swallows,21,"Osaka, Katsuhito",P,10,1.000,0,3,0,0,,31533883
+1991,Regular Season,Lotte Orions,2,"Yokota, Masashi",OF,77,0.981,99,5,2,0,,31633860
+1991,Regular Season,Yomiuri Giants,59,"Ishige, Hiroshi",P,23,1.000,0,9,0,1,,31633868
+1991,Regular Season,Hiroshima Toyo Carp,51,"Maeda, Tomonori",OF,126,0.986,207,6,3,2,,31633881
+1991,Regular Season,Kintetsu Buffaloes,22,"Sato, Hideaki",P,27,1.000,0,8,0,0,,31733860
+1991,Regular Season,Kintetsu Buffaloes,2,"Suzuki, Takahisa",3B,1,1.000,1,0,0,0,,31733862
+1991,Regular Season,Kintetsu Buffaloes,2,"Suzuki, Takahisa",OF,124,0.982,219,2,4,2,,31733862
+1991,Regular Season,Hiroshima Toyo Carp,0,"Ko, Shinji",2B,3,1.000,0,3,0,1,,31733866
+1991,Regular Season,Hiroshima Toyo Carp,0,"Ko, Shinji",3B,60,1.000,13,27,0,1,,31733866
+1991,Regular Season,Hiroshima Toyo Carp,0,"Ko, Shinji",SS,5,1.000,6,11,0,2,,31733866
+1991,Regular Season,Nippon-Ham Fighters,3,"Shirai, Kazuyuki",2B,92,0.993,204,254,3,53,,31733869
+1991,Regular Season,Lotte Orions,14,"Komiyama, Satoru",P,29,0.941,11,37,3,2,,31733881
+1991,Regular Season,Hanshin Tigers,36,"Tamura, Tsutomu",P,50,1.000,3,11,0,1,,31733883
+1991,Regular Season,Hanshin Tigers,50,"Mugikura, Yoichi",P,12,1.000,4,10,0,2,,31833881
+1991,Regular Season,Hanshin Tigers,12,"Furuya, Hideo",1B,10,1.000,31,2,0,1,,31933846
+1991,Regular Season,Seibu Lions,6,"Tanabe, Norio",SS,124,0.980,174,306,10,60,,31933860
+1991,Regular Season,Hiroshima Toyo Carp,5,"Van Burkleo, Tyler",1B,15,0.984,120,6,2,10,,31933866
+1991,Regular Season,Hiroshima Toyo Carp,5,"Van Burkleo, Tyler",OF,6,0.833,5,0,1,0,,31933866
+1991,Regular Season,Seibu Lions,5,"Tsuji, Hatsuhiko",2B,128,0.992,303,331,5,83,,31933869
+1991,Regular Season,Orix Bluewave,58,"Iwasaki, Hisanori",P,11,1.000,1,4,0,0,,31933883
+1991,Regular Season,Hanshin Tigers,17,"Ota, Takashi",P,4,0.000,0,0,0,0,,33133868
+1991,Regular Season,Fukuoka Daiei Hawks,40,"Wakisaka, Koji",3B,13,0.895,5,12,2,1,,33133881
+1991,Regular Season,Fukuoka Daiei Hawks,40,"Wakisaka, Koji",OF,3,1.000,1,0,0,0,,33133881
+1991,Regular Season,Yokohama Taiyo Whales,61,"Watabe, Takashi",P,2,0.000,0,0,0,0,,33133883
+1991,Regular Season,Hiroshima Toyo Carp,32,"Nishiyama, Shuji",3B,7,1.000,3,7,0,0,,33233868
+1991,Regular Season,Hiroshima Toyo Carp,32,"Nishiyama, Shuji",C,20,1.000,71,6,0,0,0,33233868
+1991,Regular Season,Hiroshima Toyo Carp,32,"Nishiyama, Shuji",OF,19,1.000,15,0,0,0,,33233868
+1991,Regular Season,Fukuoka Daiei Hawks,99,"Tunnell, Lee",P,12,1.000,6,17,0,0,,33333883
+1991,Regular Season,Lotte Orions,50,"Mori, Koji",P,5,1.000,1,5,0,1,,33633868
+1991,Regular Season,Lotte Orions,35,"Watanabe, Hideaki",2B,7,1.000,12,11,0,2,,33833868
+1991,Regular Season,Lotte Orions,35,"Watanabe, Hideaki",3B,16,1.000,10,23,0,1,,33833868
+1991,Regular Season,Lotte Orions,35,"Watanabe, Hideaki",SS,10,0.905,5,14,2,6,,33833868
+1991,Regular Season,Fukuoka Daiei Hawks,45,"Yasuda, Hideyuki",C,12,1.000,42,2,0,1,1,33933868
+1991,Regular Season,Yakult Swallows,4,"Tomashino, Kenji",2B,62,0.985,68,131,3,21,,35233868
+1991,Regular Season,Yakult Swallows,4,"Tomashino, Kenji",3B,1,1.000,2,1,0,0,,35233868
+1991,Regular Season,Yakult Swallows,4,"Tomashino, Kenji",OF,51,0.988,78,2,1,0,,35233868
+1991,Regular Season,Kintetsu Buffaloes,40,"Akahori, Motoyuki",P,26,1.000,3,10,0,1,,35433868
+1991,Regular Season,Kintetsu Buffaloes,42,"Harada, Kazuhiko",C,1,1.000,1,0,0,0,0,35633868
+1991,Regular Season,Orix Bluewave,18,"Sakai, Tsutomu",P,20,0.909,11,29,4,2,,35833868
+1991,Regular Season,Orix Bluewave,23,"Ogawa, Hirofumi",SS,130,0.984,188,359,9,69,,37133868
+1991,Regular Season,Orix Bluewave,38,"Hoffman, Guy",P,9,0.875,2,5,1,0,,37333868
+1991,Regular Season,Seibu Lions,24,"Hirano, Ken",OF,125,1.000,239,5,0,2,,41043863
+1991,Regular Season,Nippon-Ham Fighters,57,"Mori, Noriyuki",2B,12,1.000,6,10,0,2,,41043864
+1991,Regular Season,Nippon-Ham Fighters,57,"Mori, Noriyuki",3B,13,1.000,6,9,0,2,,41043864
+1991,Regular Season,Nippon-Ham Fighters,57,"Mori, Noriyuki",SS,1,0.000,0,0,0,0,,41043864
+1991,Regular Season,Orix Bluewave,21,"Yano, Minoru",P,11,1.000,0,3,0,0,,41043865
+1991,Regular Season,Nippon-Ham Fighters,9,"Dayett, Brian",OF,11,1.000,18,2,0,0,,41043866
+1991,Regular Season,Nippon-Ham Fighters,16,"Kojima, Yoshihiro",P,20,1.000,2,13,0,0,,41043883
+1991,Regular Season,Chunichi Dragons,8,"Oishi, Tomoyoshi",C,23,1.000,35,7,0,1,0,41143861
+1991,Regular Season,Seibu Lions,7,"Ishige, Hiromichi",3B,121,0.985,93,230,5,28,,41143863
+1991,Regular Season,Seibu Lions,7,"Ishige, Hiromichi",SS,1,1.000,1,1,0,0,,41143863
+1991,Regular Season,Hanshin Tigers,47,"Shimao, Yasuhito",P,2,0.000,0,0,0,0,,41143866
+1991,Regular Season,Orix Bluewave,24,"Iizuka, Tomiji",1B,7,1.000,19,1,0,1,,41143869
+1991,Regular Season,Kintetsu Buffaloes,3,"Ishii, Hiro",1B,14,0.985,122,9,2,7,,41143881
+1991,Regular Season,Kintetsu Buffaloes,3,"Ishii, Hiro",3B,5,0.933,2,12,1,1,,41143881
+1991,Regular Season,Kintetsu Buffaloes,57,"Furukubo, Kenji",C,69,0.986,263,26,4,3,1,41243860
+1991,Regular Season,Lotte Orions,30,"Morita, Yoshihiko",2B,3,0.000,0,0,0,0,,41243862
+1991,Regular Season,Lotte Orions,30,"Morita, Yoshihiko",3B,14,0.900,3,6,1,0,,41243862
+1991,Regular Season,Lotte Orions,30,"Morita, Yoshihiko",OF,3,1.000,3,1,0,0,,41243862
+1991,Regular Season,Lotte Orions,30,"Morita, Yoshihiko",SS,21,1.000,9,20,0,1,,41243862
+1991,Regular Season,Lotte Orions,47,"Nagano, Yoshinari",P,17,1.000,5,6,0,1,,41243866
+1991,Regular Season,Orix Bluewave,25,"Fujita, Hiromasa",C,23,0.975,70,8,2,2,1,41243867
+1991,Regular Season,Yomiuri Giants,19,"Yoshida, Shuji",P,11,0.857,1,11,2,0,,41243868
+1991,Regular Season,Orix Bluewave,47,"Murakami, Shinichi",1B,1,0.000,0,0,0,0,,41243869
+1991,Regular Season,Orix Bluewave,47,"Murakami, Shinichi",OF,4,1.000,3,0,0,0,,41243869
+1991,Regular Season,Fukuoka Daiei Hawks,16,"Hashimoto, Takehiro",P,17,1.000,1,16,0,0,,41243881
+1991,Regular Season,Seibu Lions,3,"Kiyohara, Kazuhiro",1B,121,0.996,1042,70,4,95,,41343862
+1991,Regular Season,Seibu Lions,3,"Kiyohara, Kazuhiro",3B,4,1.000,2,2,0,0,,41343862
+1991,Regular Season,Kintetsu Buffaloes,6,"Kanemura, Yoshiaki",3B,126,0.953,89,257,17,23,,41343865
+1991,Regular Season,Kintetsu Buffaloes,6,"Kanemura, Yoshiaki",C,1,1.000,2,0,0,0,0,41343865
+1991,Regular Season,Yakult Swallows,3,"Nagashima, Kazushige",3B,59,0.938,34,57,6,7,,41343866
+1991,Regular Season,Hiroshima Toyo Carp,17,"Kawabata, Jun",P,28,1.000,4,7,0,1,,41343869
+1991,Regular Season,Yomiuri Giants,24,"Omori, Takeshi",OF,1,1.000,1,0,0,0,,41343881
+1991,Regular Season,Chunichi Dragons,2,"Yano, Akihiro",C,14,1.000,34,3,0,0,2,41343883
+1991,Regular Season,Chunichi Dragons,2,"Yano, Akihiro",OF,1,0.000,0,0,0,0,,41343883
+1991,Regular Season,Yomiuri Giants,21,"Miyamoto, Kazutomo",P,30,0.981,10,41,1,3,,41443860
+1991,Regular Season,Yakult Swallows,46,"Ranbashi, Yukihito",P,11,1.000,0,1,0,0,,41443862
+1991,Regular Season,Orix Bluewave,32,"Fujimoto, Toshihiko",OF,4,1.000,5,0,0,0,,41443881
+1991,Regular Season,Fukuoka Daiei Hawks,10,"Williams, Eddie",3B,46,0.959,38,78,5,6,,41443883
+1991,Regular Season,Nippon-Ham Fighters,18,"Kono, Hirofumi",P,17,1.000,0,8,0,1,,41543860
+1991,Regular Season,Nippon-Ham Fighters,32,"Sakaguchi, Chisen",2B,12,1.000,11,9,0,4,,41543862
+1991,Regular Season,Nippon-Ham Fighters,32,"Sakaguchi, Chisen",3B,15,1.000,10,19,0,1,,41543862
+1991,Regular Season,Nippon-Ham Fighters,32,"Sakaguchi, Chisen",SS,10,1.000,4,7,0,2,,41543862
+1991,Regular Season,Orix Bluewave,52,"Takahashi, Satoshi",OF,120,0.985,260,9,4,4,,41543864
+1991,Regular Season,Yokohama Taiyo Whales,15,"Morita, Koki",P,26,1.000,4,5,0,0,,41543866
+1991,Regular Season,Kintetsu Buffaloes,36,"Goseki, Masahiko",1B,2,1.000,6,0,0,1,,41543869
+1991,Regular Season,Yomiuri Giants,56,"Sugiyama, Naoki",C,1,1.000,3,0,0,0,0,41643868
+1991,Regular Season,Kintetsu Buffaloes,32,"Mizuguchi, Eiji",SS,67,0.961,30,69,4,11,,41643883
+1991,Regular Season,Lotte Orions,15,"So, Katsuo",P,29,0.964,5,22,1,2,,41743860
+1991,Regular Season,Nippon-Ham Fighters,6,"Tanaka, Yukio",SS,130,0.981,199,380,11,76,,41743862
+1991,Regular Season,Nippon-Ham Fighters,22,"Tamura, Fujio",C,121,0.989,565,61,7,9,3,41743863
+1991,Regular Season,Kintetsu Buffaloes,60,"Nakatani, Tadami",OF,8,1.000,2,0,0,0,,41743864
+1991,Regular Season,Hiroshima Toyo Carp,14,"Tsuda, Tsunemi",P,2,0.000,0,0,0,0,,41743865
+1991,Regular Season,Yomiuri Giants,32,"Takada, Makoto",C,1,0.000,0,0,0,0,0,41743866
+1991,Regular Season,Hanshin Tigers,40,"Wynne, Marvell",OF,123,0.987,219,8,3,0,,41743883
+1991,Regular Season,Hiroshima Toyo Carp,2,"Seto, Terunobu",C,6,0.955,18,3,1,1,0,41843883
+1991,Regular Season,Orix Bluewave,10,"Fujii, Yasuo",1B,15,1.000,121,3,0,16,,41943864
+1991,Regular Season,Orix Bluewave,10,"Fujii, Yasuo",OF,107,0.984,182,3,3,1,,41943864
+1991,Regular Season,Orix Bluewave,61,"Kiyohara, Yuichi",P,18,1.000,3,5,0,1,,41943866
+1991,Regular Season,Kintetsu Buffaloes,33,"Traber, Jim",1B,116,0.997,1109,85,3,87,,43143881
+1991,Regular Season,Yakult Swallows,16,"Birtsas, Tim",P,18,0.941,2,14,1,0,,43143883
+1991,Regular Season,Hiroshima Toyo Carp,7,"Nomura, Kenjiro",SS,129,0.977,224,380,14,99,,43243868
+1991,Regular Season,Lotte Orions,59,"Aoyagi, Susumu",C,70,0.997,290,31,1,4,3,43643868
+1991,Regular Season,Hiroshima Toyo Carp,63,"Matsui, Takamasa",C,3,1.000,8,3,0,0,1,43743868
+1991,Regular Season,Lotte Orions,49,"Hirai, Mitsuchika",OF,102,0.978,163,11,4,2,,43843868
+1991,Regular Season,Kintetsu Buffaloes,27,"Nakane, Hitoshi",OF,98,0.992,127,3,1,1,,45643868
+1991,Regular Season,Nippon-Ham Fighters,26,"Nishimura, Motofumi",P,22,1.000,3,4,0,0,,51053860
+1991,Regular Season,Hiroshima Toyo Carp,27,"Hara, Shinji",1B,1,0.000,0,0,0,0,,51053863
+1991,Regular Season,Hiroshima Toyo Carp,27,"Hara, Shinji",2B,4,1.000,4,5,0,3,,51053863
+1991,Regular Season,Hiroshima Toyo Carp,27,"Hara, Shinji",3B,12,1.000,3,16,0,1,,51053863
+1991,Regular Season,Kintetsu Buffaloes,12,"Makishi, Yasunaga",SS,2,0.000,0,0,0,0,,51053864
+1991,Regular Season,Yakult Swallows,14,"Miyamoto, Kenji",P,12,0.857,2,4,1,0,,51053865
+1991,Regular Season,Yakult Swallows,20,"Nakamoto, Shigeki",P,22,1.000,1,10,0,1,,51053867
+1991,Regular Season,Lotte Orions,45,"Jozume, Masahiko",C,51,0.984,166,18,3,3,3,51053883
+1991,Regular Season,Kintetsu Buffaloes,9,"Arai, Hiromasa",1B,4,1.000,7,0,0,0,,51153840
+1991,Regular Season,Kintetsu Buffaloes,9,"Arai, Hiromasa",OF,88,0.986,140,4,2,1,,51153840
+1991,Regular Season,Lotte Orions,33,"Ai, Eijiro",P,2,0.000,0,0,0,0,,51153860
+1991,Regular Season,Nippon-Ham Fighters,4,"Igarashi, Shinichi",1B,12,0.957,21,1,1,3,,51153861
+1991,Regular Season,Nippon-Ham Fighters,4,"Igarashi, Shinichi",2B,29,0.990,47,51,1,10,,51153861
+1991,Regular Season,Nippon-Ham Fighters,4,"Igarashi, Shinichi",3B,9,1.000,4,13,0,1,,51153861
+1991,Regular Season,Nippon-Ham Fighters,4,"Igarashi, Shinichi",OF,35,1.000,30,1,0,0,,51153861
+1991,Regular Season,Yakult Swallows,10,"Arai, Yukio",OF,52,1.000,61,2,0,1,,51153862
+1991,Regular Season,Seibu Lions,1,"Akiyama, Koji",OF,116,0.993,260,6,2,2,,51153863
+1991,Regular Season,Kintetsu Buffaloes,14,"Awano, Hideyuki",P,13,0.900,1,8,1,0,,51153864
+1991,Regular Season,Nippon-Ham Fighters,99,"Wakana, Yoshiharu",1B,1,1.000,2,0,0,1,,51253849
+1991,Regular Season,Nippon-Ham Fighters,99,"Wakana, Yoshiharu",C,34,0.993,135,15,1,1,6,51253849
+1991,Regular Season,Fukuoka Daiei Hawks,29,"Yamamoto, Kazunori",1B,3,0.950,15,4,1,1,,51253861
+1991,Regular Season,Fukuoka Daiei Hawks,29,"Yamamoto, Kazunori",OF,33,1.000,42,1,0,0,,51253861
+1991,Regular Season,Orix Bluewave,8,"Matsunaga, Hiromi",3B,130,0.972,93,290,11,31,,51253863
+1991,Regular Season,Kintetsu Buffaloes,15,"Yamasaki, Shintaro",P,28,0.960,6,18,1,1,,51253864
+1991,Regular Season,Yomiuri Giants,7,"Yoshimura, Sadaaki",OF,68,0.991,108,2,1,2,,51253865
+1991,Regular Season,Fukuoka Daiei Hawks,11,"Yoshida, Toyohiko",P,20,0.960,4,20,1,2,,51253866
+1991,Regular Season,Hanshin Tigers,26,"Fujimoto, Shuji",P,30,0.950,3,16,1,0,,51253869
+1991,Regular Season,Yakult Swallows,29,"Nishimura, Tatsuji",P,30,0.979,9,37,1,2,,51253881
+1991,Regular Season,Nippon-Ham Fighters,5,"Sumiyoshi, Yoshinori",1B,9,1.000,34,2,0,2,,51253883
+1991,Regular Season,Nippon-Ham Fighters,5,"Sumiyoshi, Yoshinori",3B,1,0.000,0,0,0,0,,51253883
+1991,Regular Season,Nippon-Ham Fighters,5,"Sumiyoshi, Yoshinori",C,1,1.000,1,0,0,0,0,51253883
+1991,Regular Season,Nippon-Ham Fighters,5,"Sumiyoshi, Yoshinori",OF,3,1.000,2,0,0,0,,51253883
+1991,Regular Season,Fukuoka Daiei Hawks,31,"Imai, Yutaro",P,10,1.000,1,2,0,0,,51353843
+1991,Regular Season,Hiroshima Toyo Carp,9,"Osanai, Takashi",1B,86,0.993,370,42,3,33,,51353861
+1991,Regular Season,Yokohama Taiyo Whales,10,"Kamogawa, Shigeharu",P,1,1.000,0,1,0,0,,51353864
+1991,Regular Season,Yomiuri Giants,5,"Okazaki, Kaoru",2B,13,0.970,25,39,2,3,,51353865
+1991,Regular Season,Yomiuri Giants,5,"Okazaki, Kaoru",3B,99,0.967,71,161,8,12,,51353865
+1991,Regular Season,Yomiuri Giants,5,"Okazaki, Kaoru",SS,1,1.000,3,7,0,2,,51353865
+1991,Regular Season,Hanshin Tigers,46,"Yokotani, Soichi",OF,6,1.000,10,0,0,0,,51353866
+1991,Regular Season,Nippon-Ham Fighters,43,"Uchiyama, Masahiro",P,38,1.000,5,26,0,2,,51353881
+1991,Regular Season,Chunichi Dragons,28,"Anderson, Scott",P,23,1.000,13,31,0,3,,51353883
+1991,Regular Season,Kintetsu Buffaloes,10,"Yamashita, Kazuhiko",C,69,1.000,234,26,0,5,4,51453862
+1991,Regular Season,Kintetsu Buffaloes,34,"Kinoshita, Fuminobu",P,11,1.000,1,6,0,0,,51453866
+1991,Regular Season,Seibu Lions,41,"Watanabe, Hisanobu",P,25,0.975,9,30,1,0,,51453869
+1991,Regular Season,Yakult Swallows,5,"Sumi, Fujio",1B,1,1.000,5,1,0,1,,51553842
+1991,Regular Season,Yakult Swallows,5,"Sumi, Fujio",3B,103,0.990,63,142,2,13,,51553842
+1991,Regular Season,Nippon-Ham Fighters,13,"Shibata, Yasumitsu",P,23,1.000,16,25,0,1,,51553848
+1991,Regular Season,Hiroshima Toyo Carp,34,"Kawaguchi, Kazuhisa",P,29,0.969,5,26,1,3,,51553863
+1991,Regular Season,Seibu Lions,47,"Kudo, Kimiyasu",P,25,1.000,6,23,0,1,,51553865
+1991,Regular Season,Hanshin Tigers,22,"Kido, Katsuhiko",C,76,0.978,320,36,8,6,6,51553867
+1991,Regular Season,Chunichi Dragons,56,"Maehara, Hiroyuki",3B,4,1.000,1,4,0,0,,51553868
+1991,Regular Season,Hanshin Tigers,13,"Kasai, Minoru",P,17,1.000,3,18,0,0,,51553881
+1991,Regular Season,Yakult Swallows,22,"Takatsu, Shingo",P,13,0.875,3,4,1,0,,51553883
+1991,Regular Season,Kintetsu Buffaloes,21,"Yoshii, Masato",P,21,1.000,1,11,0,2,,51653860
+1991,Regular Season,Kintetsu Buffaloes,37,"Sano, Shigeki",P,38,1.000,2,9,0,0,,51653883
+1991,Regular Season,Hanshin Tigers,60,"Shimada, Akihiro",OF,23,1.000,34,2,0,0,,51753860
+1991,Regular Season,Hanshin Tigers,45,"Shimata, Tetsuya",P,2,1.000,0,1,0,1,,51753883
+1991,Regular Season,Yomiuri Giants,44,"Ogata, Koichi",2B,26,0.960,47,48,4,10,,51853868
+1991,Regular Season,Yomiuri Giants,44,"Ogata, Koichi",OF,45,0.986,67,4,1,1,,51853868
+1991,Regular Season,Yomiuri Giants,44,"Ogata, Koichi",SS,1,0.000,0,0,0,0,,51853868
+1991,Regular Season,Lotte Orions,16,"Toyama, Shoji",P,10,1.000,2,6,0,1,,51953862
+1991,Regular Season,Fukuoka Daiei Hawks,58,"Nishimura, Hidetsugu",P,7,1.000,0,2,0,0,,51953864
+1991,Regular Season,Chunichi Dragons,41,"Tanaka, Tomio",P,2,1.000,0,3,0,0,,51953867
+1991,Regular Season,Hanshin Tigers,20,"Watanabe, Nobuhiko",P,8,1.000,1,2,0,0,,53153868
+1991,Regular Season,Hiroshima Toyo Carp,33,"Eto, Akira",1B,30,0.995,170,14,1,17,,53253868
+1991,Regular Season,Hiroshima Toyo Carp,33,"Eto, Akira",3B,62,0.915,37,82,11,7,,53253868
+1991,Regular Season,Hanshin Tigers,67,"Kameyama, Tsutomu",OF,11,0.933,14,0,1,0,,53553868
+1991,Regular Season,Fukuoka Daiei Hawks,13,"Murakami, Seiichi",P,5,1.000,3,3,0,1,,53753868
+1991,Regular Season,Lotte Orions,44,"Shimada, Shigeru",3B,4,1.000,0,5,0,0,,53853868
+1991,Regular Season,Lotte Orions,44,"Shimada, Shigeru",OF,3,1.000,4,0,0,0,,53853868
+1991,Regular Season,Yakult Swallows,47,"Uchiyama, Kenichi",P,11,1.000,2,2,0,0,,55053868
+1991,Regular Season,Kintetsu Buffaloes,51,"Ota, Satoru",2B,1,1.000,0,1,0,0,,55453868
+1991,Regular Season,Yokohama Taiyo Whales,13,"Ishida, Tomoya",P,4,0.750,0,3,1,0,,55553868
+1991,Regular Season,Orix Bluewave,26,"Ito, Takahide",P,28,1.000,6,13,0,3,,55853868
+1991,Regular Season,Yokohama Taiyo Whales,32,"Inoe, Jun",OF,2,0.000,0,0,0,0,,55953868
+1991,Regular Season,Fukuoka Daiei Hawks,68,"Hirohashi, Koju",OF,4,1.000,5,0,0,0,,61063863
+1991,Regular Season,Orix Bluewave,12,"Yamaoki, Yukihiko",P,24,1.000,10,33,0,1,,61063865
+1991,Regular Season,Lotte Orions,25,"Hiranuma, Sadaharu",P,40,1.000,4,21,0,1,,61063869
+1991,Regular Season,Yomiuri Giants,23,"Ueda, Kazuaki",2B,2,1.000,1,2,0,0,,61163860
+1991,Regular Season,Yomiuri Giants,23,"Ueda, Kazuaki",3B,12,0.933,4,10,1,1,,61163860
+1991,Regular Season,Yomiuri Giants,23,"Ueda, Kazuaki",SS,7,1.000,4,9,0,0,,61163860
+1991,Regular Season,Hiroshima Toyo Carp,23,"Ueda, Yukihiro",1B,2,1.000,2,0,0,0,,61163862
+1991,Regular Season,Hiroshima Toyo Carp,23,"Ueda, Yukihiro",C,15,1.000,42,4,0,1,0,61163862
+1991,Regular Season,Yakult Swallows,23,"Ishibashi, Mitsugu",OF,1,0.000,0,0,0,0,,61163863
+1991,Regular Season,Yakult Swallows,35,"Ogawa, Junji",OF,48,0.971,32,1,1,0,,61163865
+1991,Regular Season,Fukuoka Daiei Hawks,21,"Ikeda, Chikafusa",P,38,1.000,6,12,0,0,,61163869
+1991,Regular Season,Chunichi Dragons,38,"Inoe, Kazuki",P,8,1.000,0,3,0,0,,61163881
+1991,Regular Season,Yomiuri Giants,2,"Bradley, Phil",OF,121,0.992,243,6,2,2,,61163883
+1991,Regular Season,Orix Bluewave,35,"Furumizo, Katsuyuki",P,2,1.000,0,1,0,0,,61263860
+1991,Regular Season,Chunichi Dragons,46,"Yamauchi, Kazuhiro",P,3,0.000,0,0,0,0,,61263863
+1991,Regular Season,Nippon-Ham Fighters,56,"Watanabe, Hiroshi",1B,1,1.000,1,0,0,0,,61263864
+1991,Regular Season,Nippon-Ham Fighters,56,"Watanabe, Hiroshi",2B,2,1.000,0,1,0,0,,61263864
+1991,Regular Season,Nippon-Ham Fighters,56,"Watanabe, Hiroshi",3B,3,1.000,0,3,0,0,,61263864
+1991,Regular Season,Yokohama Taiyo Whales,44,"Futamura, Tadami",OF,18,1.000,12,0,0,0,,61263867
+1991,Regular Season,Yomiuri Giants,26,"Matsutani, Ryujiro",P,21,1.000,1,8,0,1,,61263868
+1991,Regular Season,Kintetsu Buffaloes,5,"Murakami, Takayuki",1B,4,1.000,17,1,0,1,,61263869
+1991,Regular Season,Kintetsu Buffaloes,5,"Murakami, Takayuki",OF,56,1.000,92,2,0,0,,61263869
+1991,Regular Season,Kintetsu Buffaloes,7,"Hatayama, Shunji",1B,2,1.000,4,0,0,0,,61263881
+1991,Regular Season,Kintetsu Buffaloes,7,"Hatayama, Shunji",OF,8,1.000,6,0,0,0,,61263881
+1991,Regular Season,Fukuoka Daiei Hawks,20,"Kimura, Keiji",P,29,1.000,9,14,0,1,,61263883
+1991,Regular Season,Lotte Orions,6,"Kamikawa, Seiji",2B,30,0.990,44,58,1,9,,61363865
+1991,Regular Season,Lotte Orions,6,"Kamikawa, Seiji",3B,11,1.000,5,12,0,1,,61363865
+1991,Regular Season,Kintetsu Buffaloes,30,"Kato, Tetsuro",P,21,1.000,1,6,0,0,,61363867
+1991,Regular Season,Chunichi Dragons,42,"Shimizu, Masaji",OF,12,1.000,2,0,0,0,,61363868
+1991,Regular Season,Yokohama Taiyo Whales,2,"Yamazaki, Kenichi",OF,41,1.000,62,2,0,1,,61463860
+1991,Regular Season,Hanshin Tigers,4,"Yamawaki, Koji",2B,17,1.000,16,26,0,6,,61463867
+1991,Regular Season,Hanshin Tigers,4,"Yamawaki, Koji",OF,24,1.000,8,1,0,0,,61463867
+1991,Regular Season,Hanshin Tigers,4,"Yamawaki, Koji",SS,4,1.000,2,1,0,1,,61463867
+1991,Regular Season,Fukuoka Daiei Hawks,44,"Laga, Mike",1B,122,0.998,1072,75,2,84,,61463883
+1991,Regular Season,Yomiuri Giants,48,"Koda, Isao",P,27,0.897,11,24,4,0,,61563860
+1991,Regular Season,Hiroshima Toyo Carp,52,"Ishibashi, Fumio",OF,3,1.000,1,0,0,0,,61563866
+1991,Regular Season,Yomiuri Giants,10,"Komada, Norihiro",1B,130,0.994,1220,99,8,84,,61563867
+1991,Regular Season,Chunichi Dragons,55,"Taiho, Yasuaki",1B,27,0.995,166,15,1,14,,61563868
+1991,Regular Season,Chunichi Dragons,55,"Taiho, Yasuaki",OF,101,0.987,146,5,2,0,,61563868
+1991,Regular Season,Lotte Orions,7,"Minamibuchi, Tokitaka",2B,16,1.000,27,30,0,7,,61663881
+1991,Regular Season,Lotte Orions,7,"Minamibuchi, Tokitaka",3B,3,1.000,3,1,0,0,,61663881
+1991,Regular Season,Lotte Orions,7,"Minamibuchi, Tokitaka",SS,81,0.983,71,165,4,27,,61663881
+1991,Regular Season,Yokohama Taiyo Whales,3,"Takagi, Yutaka",2B,130,0.991,284,385,6,85,,61763863
+1991,Regular Season,Yokohama Taiyo Whales,3,"Takagi, Yutaka",SS,2,1.000,0,2,0,0,,61763863
+1991,Regular Season,Chunichi Dragons,39,"Nakamura, Takeshi",C,101,0.995,596,62,3,10,6,61763864
+1991,Regular Season,Yokohama Taiyo Whales,9,"Choshi, Toshio",2B,2,1.000,2,4,0,1,,61763869
+1991,Regular Season,Yokohama Taiyo Whales,9,"Choshi, Toshio",3B,2,0.667,0,2,1,0,,61763869
+1991,Regular Season,Yokohama Taiyo Whales,9,"Choshi, Toshio",SS,9,1.000,6,19,0,3,,61763869
+1991,Regular Season,Yokohama Taiyo Whales,22,"Sasaki, Kazuhiro",P,58,0.962,7,18,1,0,,61763881
+1991,Regular Season,Yokohama Taiyo Whales,31,"Yashiki, Kaname",OF,78,0.987,149,1,2,1,,61963846
+1991,Regular Season,Hanshin Tigers,34,"Nakada, Koji",P,37,0.848,12,16,5,0,,61963860
+1991,Regular Season,Seibu Lions,42,"Nishimoto, Kazuhito",P,10,1.000,1,5,0,1,,61963863
+1991,Regular Season,Yokohama Taiyo Whales,43,"Fujino, Seigo",SS,14,1.000,14,18,0,4,,61963864
+1991,Regular Season,Seibu Lions,4,"Tomashino, Seiji",1B,1,1.000,0,1,0,0,,61963867
+1991,Regular Season,Seibu Lions,4,"Tomashino, Seiji",2B,5,1.000,4,9,0,1,,61963867
+1991,Regular Season,Seibu Lions,4,"Tomashino, Seiji",OF,72,1.000,84,1,0,0,,61963867
+1991,Regular Season,Hanshin Tigers,19,"Nakanishi, Kiyoki",P,16,0.938,5,10,1,1,,61963869
+1991,Regular Season,Seibu Lions,34,"Suzuki, Tetsu",P,20,1.000,1,19,0,2,,61963881
+1991,Regular Season,Hanshin Tigers,99,"Nakagomi, Shin",P,13,0.955,6,15,1,0,,63163868
+1991,Regular Season,Kintetsu Buffaloes,35,"Reid, Jessie",OF,45,1.000,66,0,0,0,,63163883
+1991,Regular Season,Lotte Orions,11,"Maeda, Yukinaga",P,30,0.972,6,29,1,1,,63463868
+1991,Regular Season,Lotte Orions,39,"Fukuzawa, Yoichi",C,70,0.994,300,36,2,3,2,63663868
+1991,Regular Season,Hiroshima Toyo Carp,22,"Adachi, Wataru",P,26,0.852,5,18,4,1,,63963868
+1991,Regular Season,Yokohama Taiyo Whales,39,"Akimoto, Kosaku",C,80,0.998,377,25,1,6,6,65163868
+1991,Regular Season,Yokohama Taiyo Whales,66,"Ishii, Takuro",P,9,1.000,0,3,0,0,,65563868
+1991,Regular Season,Kintetsu Buffaloes,43,"Matsukubo, Shingo",OF,1,0.000,0,0,0,0,,65663868
+1991,Regular Season,Nippon-Ham Fighters,1,"Hirose, Tetsuro",2B,3,1.000,3,2,0,1,,71073862
+1991,Regular Season,Nippon-Ham Fighters,1,"Hirose, Tetsuro",3B,82,0.981,31,70,2,9,,71073862
+1991,Regular Season,Nippon-Ham Fighters,1,"Hirose, Tetsuro",SS,10,1.000,8,14,0,1,,71073862
+1991,Regular Season,Yomiuri Giants,8,"Hara, Tatsunori",3B,13,0.935,7,22,2,0,,71073863
+1991,Regular Season,Yomiuri Giants,8,"Hara, Tatsunori",OF,113,0.984,177,10,3,2,,71073863
+1991,Regular Season,Nippon-Ham Fighters,52,"Tanaka, Minoru",OF,118,0.996,225,6,1,3,,71073866
+1991,Regular Season,Nippon-Ham Fighters,27,"Kawana, Shinichi",OF,82,1.000,56,1,0,0,,71073868
+1991,Regular Season,Hanshin Tigers,14,"Ito, Fumitaka",P,1,0.000,0,0,0,0,,71173846
+1991,Regular Season,Seibu Lions,27,"Ito, Tsutomu",C,124,0.998,816,53,2,11,7,71173865
+1991,Regular Season,Hiroshima Toyo Carp,30,"Oto, Shigeki",OF,45,1.000,28,2,0,1,,71173866
+1991,Regular Season,Chunichi Dragons,14,"Imanaka, Shinji",P,36,0.954,16,46,3,0,,71173868
+1991,Regular Season,Fukuoka Daiei Hawks,41,"Aoi, Kaname",P,19,1.000,1,2,0,0,,71173869
+1991,Regular Season,Yomiuri Giants,39,"Yoshihara, Kosuke",C,33,0.988,165,6,2,3,2,71173883
+1991,Regular Season,Yakult Swallows,8,"Hirosawa, Katsumi",1B,116,0.995,1034,84,6,90,,71273860
+1991,Regular Season,Yakult Swallows,8,"Hirosawa, Katsumi",3B,1,0.000,0,0,0,0,,71273860
+1991,Regular Season,Yakult Swallows,8,"Hirosawa, Katsumi",OF,20,1.000,14,0,0,0,,71273860
+1991,Regular Season,Orix Bluewave,36,"Yamamori, Masafumi",OF,80,0.986,70,0,1,0,,71273861
+1991,Regular Season,Yokohama Taiyo Whales,29,"Matsumoto, Yutaka",P,28,0.917,2,9,1,0,,71273862
+1991,Regular Season,Hiroshima Toyo Carp,55,"Nihei, Kaoru",OF,3,0.000,0,0,0,0,,71273881
+1991,Regular Season,Nippon-Ham Fighters,8,"Bathe, Bill",1B,20,0.986,129,8,2,13,,71273883
+1991,Regular Season,Nippon-Ham Fighters,8,"Bathe, Bill",OF,12,1.000,17,0,0,0,,71273883
+1991,Regular Season,Seibu Lions,26,"Katori, Yoshitaka",P,34,1.000,3,20,0,2,,71373848
+1991,Regular Season,Yokohama Taiyo Whales,16,"Kakehata, Mitsunori",P,11,1.000,1,7,0,0,,71373865
+1991,Regular Season,Fukuoka Daiei Hawks,17,"Kato, Shinichi",P,14,0.957,5,17,1,0,,71373869
+1991,Regular Season,Chunichi Dragons,45,"Morita, Koichi",P,50,0.895,7,10,2,2,,71373883
+1991,Regular Season,Hiroshima Toyo Carp,25,"Yamada, Kazutoshi",1B,1,1.000,4,2,0,1,,71473862
+1991,Regular Season,Hiroshima Toyo Carp,25,"Yamada, Kazutoshi",2B,2,1.000,1,1,0,1,,71473862
+1991,Regular Season,Kintetsu Buffaloes,20,"Takayanagi, Izumi",P,23,0.943,5,28,2,3,,71473866
+1991,Regular Season,Hanshin Tigers,56,"Mikoshiba, Susumu",P,9,1.000,3,2,0,1,,71473867
+1991,Regular Season,Yokohama Taiyo Whales,35,"Hiratsuka, Katsuhiro",OF,12,1.000,17,0,0,0,,71473881
+1991,Regular Season,Hanshin Tigers,8,"Tao, Yasushi",OF,26,0.970,31,1,1,1,,71573842
+1991,Regular Season,Yakult Swallows,39,"Shibui, Keiichi",2B,11,0.941,8,8,1,2,,71573846
+1991,Regular Season,Orix Bluewave,6,"Kumano, Terumitsu",OF,30,1.000,37,1,0,0,,71573860
+1991,Regular Season,Chunichi Dragons,37,"Kitamura, Terufumi",OF,42,0.964,27,0,1,0,,71573861
+1991,Regular Season,Yokohama Taiyo Whales,5,"Shimizu, Yoshiyuki",1B,1,1.000,3,0,0,0,,71573866
+1991,Regular Season,Yokohama Taiyo Whales,5,"Shimizu, Yoshiyuki",2B,1,0.000,0,0,0,0,,71573866
+1991,Regular Season,Yokohama Taiyo Whales,5,"Shimizu, Yoshiyuki",3B,129,0.972,93,257,10,28,,71573866
+1991,Regular Season,Chunichi Dragons,54,"Matsui, Tatsunori",OF,8,0.889,7,1,1,0,,71673881
+1991,Regular Season,Hanshin Tigers,27,"Shimada, Munehiko",C,2,1.000,3,0,0,0,1,71773860
+1991,Regular Season,Seibu Lions,12,"Suzuki, Yasutomo",2B,4,0.917,5,6,1,2,,71773861
+1991,Regular Season,Seibu Lions,12,"Suzuki, Yasutomo",3B,19,0.917,2,9,1,0,,71773861
+1991,Regular Season,Lotte Orions,28,"Sonokawa, Kazumi",P,31,1.000,6,20,0,2,,71773862
+1991,Regular Season,Yakult Swallows,38,"Dobashi, Katsuyuki",1B,1,1.000,2,0,0,0,,71773864
+1991,Regular Season,Yakult Swallows,38,"Dobashi, Katsuyuki",2B,1,1.000,3,0,0,0,,71773864
+1991,Regular Season,Yakult Swallows,38,"Dobashi, Katsuyuki",3B,5,1.000,1,8,0,0,,71773864
+1991,Regular Season,Yakult Swallows,38,"Dobashi, Katsuyuki",OF,18,1.000,12,0,0,0,,71773864
+1991,Regular Season,Orix Bluewave,31,"Shibahara, Minoru",OF,3,1.000,4,0,0,0,,71773867
+1991,Regular Season,Nippon-Ham Fighters,14,"Sakai, Mitsujiro",P,23,1.000,5,36,0,0,,71773881
+1991,Regular Season,Yokohama Taiyo Whales,6,"Takahashi, Masahiro",2B,3,1.000,1,0,0,0,,71973860
+1991,Regular Season,Yokohama Taiyo Whales,6,"Takahashi, Masahiro",SS,96,0.983,96,200,5,46,,71973860
+1991,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",1B,7,1.000,8,1,0,1,,71973865
+1991,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",2B,7,1.000,6,7,0,1,,71973865
+1991,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",3B,1,0.000,0,0,0,0,,71973865
+1991,Regular Season,Hanshin Tigers,30,"Hirata, Katsuo",SS,17,0.971,9,24,1,2,,71973865
+1991,Regular Season,Seibu Lions,32,"Haraguchi, Tetsuya",P,2,0.000,0,0,0,0,,71973866
+1991,Regular Season,Yakult Swallows,44,"Takani, Hideharu",1B,4,1.000,20,0,0,1,,71973867
+1991,Regular Season,Yakult Swallows,44,"Takani, Hideharu",OF,2,0.000,0,0,1,0,,71973867
+1991,Regular Season,Nippon-Ham Fighters,51,"Ushiyama, Tsutomu",C,5,1.000,7,1,0,0,0,71973868
+1991,Regular Season,Seibu Lions,16,"Shiozaki, Tetsuya",P,45,0.941,3,13,1,0,,71973881
+1991,Regular Season,Hanshin Tigers,49,"Hattori, Hiroaki",P,2,0.000,0,0,0,0,,73173868
+1991,Regular Season,Yokohama Taiyo Whales,25,"Miyakawa, Kazuhiko",2B,5,1.000,1,1,0,1,,73173883
+1991,Regular Season,Yokohama Taiyo Whales,25,"Miyakawa, Kazuhiko",3B,4,1.000,1,2,0,0,,73173883
+1991,Regular Season,Hanshin Tigers,38,"Iwata, Toru",C,3,1.000,4,0,0,0,0,73373868
+1991,Regular Season,Chunichi Dragons,0,"Taneda, Hitoshi",2B,98,0.990,228,278,5,48,,73373881
+1991,Regular Season,Chunichi Dragons,0,"Taneda, Hitoshi",3B,11,1.000,2,6,0,1,,73373881
+1991,Regular Season,Lotte Orions,54,"Ishida, Masahiko",P,1,0.000,0,0,0,0,,73673868
+1991,Regular Season,Lotte Orions,5,"Hori, Koichi",2B,106,0.991,257,296,5,52,,73873868
+1991,Regular Season,Lotte Orions,5,"Hori, Koichi",SS,1,0.000,0,0,0,0,,73873868
+1991,Regular Season,Fukuoka Daiei Hawks,47,"Hironaga, Yasutaka",OF,43,0.983,55,3,1,1,,73973868
+1991,Regular Season,Yokohama Taiyo Whales,27,"Tanabe, Manabu",P,23,1.000,8,13,0,2,,75573868
+1991,Regular Season,Yokohama Taiyo Whales,56,"Yamaguchi, Yukio",OF,1,0.000,0,0,0,0,,75973868
+1991,Regular Season,Seibu Lions,31,"Moriyama, Ryoji",P,3,1.000,0,1,0,0,,81083864
+1991,Regular Season,Fukuoka Daiei Hawks,34,"Otsuka, Kenichi",P,1,0.000,0,0,0,0,,81083866
+1991,Regular Season,Yokohama Taiyo Whales,24,"Endo, Kazuhiko",P,19,1.000,0,3,0,0,,81183846
+1991,Regular Season,Chunichi Dragons,6,"Ochiai, Hiromitsu",1B,109,0.995,954,87,5,76,,81183848
+1991,Regular Season,Fukuoka Daiei Hawks,30,"Uchida, Tsuyoshi",C,48,1.000,216,22,0,3,2,81183862
+1991,Regular Season,Orix Bluewave,3,"Ishimine, Kazuhiko",OF,6,1.000,5,0,0,0,,81183863
+1991,Regular Season,Yakult Swallows,36,"Ikeyama, Takahiro",SS,132,0.994,270,412,4,101,,81183869
+1991,Regular Season,Yokohama Taiyo Whales,57,"Imakurusu, Nariyuki",C,8,1.000,12,1,0,0,0,81183881
+1991,Regular Season,Yakult Swallows,0,"Yanada, Masao",OF,83,0.976,77,5,2,2,,81283862
+1991,Regular Season,Fukuoka Daiei Hawks,19,"Yamauchi, Takanori",P,5,1.000,0,4,0,0,,81283863
+1991,Regular Season,Lotte Orions,24,"Yamashita, Norihito",2B,1,0.000,0,0,0,0,,81283866
+1991,Regular Season,Lotte Orions,24,"Yamashita, Norihito",3B,1,0.000,0,0,0,0,,81283866
+1991,Regular Season,Lotte Orions,24,"Yamashita, Norihito",OF,39,1.000,39,0,0,0,,81283866
+1991,Regular Season,Yomiuri Giants,9,"Murata, Shinichi",C,110,0.992,666,38,6,5,2,81283869
+1991,Regular Season,Fukuoka Daiei Hawks,24,"Shimoyanagi, Tsuyoshi",P,1,1.000,0,1,0,0,,81283883
+1991,Regular Season,Nippon-Ham Fighters,11,"Oshima, Yasunori",1B,99,0.994,796,50,5,65,,81383843
+1991,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",2B,82,0.987,139,234,5,45,,81383844
+1991,Regular Season,Yomiuri Giants,6,"Shinozuka, Kazunori",3B,1,1.000,0,3,0,0,,81383844
+1991,Regular Season,Lotte Orions,23,"Sato, Kenichi",SS,86,0.971,101,202,9,36,,81383848
+1991,Regular Season,Fukuoka Daiei Hawks,8,"Kishikawa, Katsuya",1B,6,0.980,49,1,1,4,,81383860
+1991,Regular Season,Fukuoka Daiei Hawks,8,"Kishikawa, Katsuya",OF,68,0.983,113,6,2,1,,81383860
+1991,Regular Season,Chunichi Dragons,33,"Kaku, Genji",P,33,0.940,16,31,3,2,,81383863
+1991,Regular Season,Lotte Orions,57,"Sato, Yukihiko",1B,1,1.000,5,0,0,1,,81383864
+1991,Regular Season,Lotte Orions,57,"Sato, Yukihiko",2B,1,0.000,0,0,0,0,,81383864
+1991,Regular Season,Lotte Orions,57,"Sato, Yukihiko",3B,52,0.942,22,75,6,5,,81383864
+1991,Regular Season,Yakult Swallows,31,"Hashigami, Hideki",OF,58,0.989,88,1,1,0,,81383866
+1991,Regular Season,Yakult Swallows,50,"Kawamura, Kazuaki",P,2,1.000,0,1,0,0,,81383869
+1991,Regular Season,Chunichi Dragons,16,"Ryal, Mark",OF,114,0.988,162,0,2,0,,81383883
+1991,Regular Season,Fukuoka Daiei Hawks,6,"Yugamidani, Hiroshi",2B,130,0.989,281,371,7,89,,81483860
+1991,Regular Season,Hanshin Tigers,52,"Furusato, Yasutaka",P,14,0.833,0,5,1,0,,81483881
+1991,Regular Season,Hiroshima Toyo Carp,40,"Tatsukawa, Mitsuo",C,120,0.996,886,67,4,17,4,81583846
+1991,Regular Season,Kintetsu Buffaloes,17,"Sasaki, Osamu",P,24,0.938,6,24,2,2,,81583860
+1991,Regular Season,Orix Bluewave,19,"Takagi, Koji",P,18,0.895,2,15,2,1,,81583864
+1991,Regular Season,Hiroshima Toyo Carp,37,"Ogata, Koichi",2B,7,1.000,11,14,0,2,,81583866
+1991,Regular Season,Hiroshima Toyo Carp,37,"Ogata, Koichi",OF,88,0.981,99,4,2,0,,81583866
+1991,Regular Season,Yomiuri Giants,11,"Saito, Masaki",P,24,0.949,9,28,2,0,,81583869
+1991,Regular Season,Hiroshima Toyo Carp,10,"Takazawa, Hideaki",OF,16,1.000,13,1,0,0,,81783861
+1991,Regular Season,Lotte Orions,7,"Takazawa, Hideaki",OF,22,1.000,34,0,0,0,,81783861
+1991,Regular Season,Yokohama Taiyo Whales,47,"Takada, Hirohisa",P,3,0.000,0,0,0,0,,81783862
+1991,Regular Season,Hiroshima Toyo Carp,41,"Nishi, Kiyotaka",P,1,0.000,0,0,0,0,,81783864
+1991,Regular Season,Yomiuri Giants,29,"Nishioka, Yoshihiro",OF,56,1.000,62,5,0,1,,81783865
+1991,Regular Season,Nippon-Ham Fighters,30,"Tsuno, Hiroshi",P,10,0.875,1,6,1,0,,81783869
+1991,Regular Season,Orix Bluewave,45,"Sato, Kazuhiro",1B,2,1.000,3,1,0,0,,81783881
+1991,Regular Season,Orix Bluewave,45,"Sato, Kazuhiro",OF,18,0.958,22,1,1,0,,81783881
+1991,Regular Season,Orix Bluewave,17,"Hasegawa, Shigetoshi",P,28,0.977,13,30,1,2,,81783883
+1991,Regular Season,Chunichi Dragons,29,"Yoda, Tsuyoshi",P,29,0.900,3,6,1,0,,81883881
+1991,Regular Season,Seibu Lions,37,"Nakada, Hideshi",C,4,1.000,11,0,0,0,0,81983860
+1991,Regular Season,Yomiuri Giants,27,"Fukuo, Akihito",2B,7,1.000,5,12,0,3,,81983864
+1991,Regular Season,Yomiuri Giants,27,"Fukuo, Akihito",3B,1,0.000,0,0,0,0,,81983864
+1991,Regular Season,Lotte Orions,22,"Suzuki, Toshio",C,1,1.000,2,0,0,0,0,81983881
+1991,Regular Season,Seibu Lions,9,"Narahara, Hiroshi",2B,15,1.000,4,14,0,0,,81983883
+1991,Regular Season,Seibu Lions,9,"Narahara, Hiroshi",3B,2,1.000,2,5,0,0,,81983883
+1991,Regular Season,Seibu Lions,9,"Narahara, Hiroshi",SS,50,1.000,21,51,0,11,,81983883
+1991,Regular Season,Nippon-Ham Fighters,10,"Winters, Matt",OF,98,0.988,160,8,2,0,,83183881
+1991,Regular Season,Yomiuri Giants,49,"Gonzalez, Denny",2B,13,0.963,20,32,2,8,,83183883
+1991,Regular Season,Yomiuri Giants,49,"Gonzalez, Denny",3B,15,0.941,11,21,2,0,,83183883
+1991,Regular Season,Yomiuri Giants,49,"Gonzalez, Denny",OF,12,1.000,17,1,0,1,,83183883
+1991,Regular Season,Lotte Orions,17,"Konno, Takahiro",P,22,0.947,5,13,1,2,,83483868
+1991,Regular Season,Hanshin Tigers,51,"Takamura, Yosuke",P,5,1.000,0,1,0,0,,83583868
+1991,Regular Season,Lotte Orions,68,"Inokubo, Goichi",C,26,1.000,49,4,0,1,2,83683868
+1991,Regular Season,Fukuoka Daiei Hawks,37,"Mifune, Hideyuki",2B,1,1.000,1,2,0,1,,83783868
+1991,Regular Season,Fukuoka Daiei Hawks,37,"Mifune, Hideyuki",3B,11,0.875,8,13,3,3,,83783868
+1991,Regular Season,Fukuoka Daiei Hawks,37,"Mifune, Hideyuki",SS,7,1.000,11,12,0,3,,83783868
+1991,Regular Season,Seibu Lions,11,"Ishii, Takehiro",P,17,0.955,7,14,1,0,,83883868
+1991,Regular Season,Hiroshima Toyo Carp,26,"Une, Tatsumi",P,1,0.000,0,0,0,0,,83983868
+1991,Regular Season,Kintetsu Buffaloes,31,"Yamada, Masami",P,1,0.000,0,0,0,0,,85283868
+1991,Regular Season,Seibu Lions,20,"Mori, Hiroyuki",1B,12,1.000,46,1,0,5,,85383868
+1991,Regular Season,Seibu Lions,20,"Mori, Hiroyuki",OF,40,0.978,41,3,1,0,,85383868
+1991,Regular Season,Yokohama Taiyo Whales,1,"Tanishige, Motonobu",C,79,0.991,416,41,4,6,8,85583868
+1991,Regular Season,Yakult Swallows,37,"Kaku, Kensei",P,4,1.000,0,2,0,0,,85983868
+1991,Regular Season,Yokohama Taiyo Whales,28,"Niura, Hisao",P,47,0.923,3,9,1,0,,91093843
+1991,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",1B,6,1.000,30,0,0,5,,91093866
+1991,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",2B,35,1.000,50,51,0,15,,91093866
+1991,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",3B,69,0.962,41,111,6,6,,91093866
+1991,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",OF,1,0.000,0,0,0,0,,91093866
+1991,Regular Season,Nippon-Ham Fighters,25,"Ogawa, Koichi",SS,4,0.952,6,14,1,3,,91093866
+1991,Regular Season,Hiroshima Toyo Carp,28,"Nishida, Shinji",OF,97,1.000,144,5,0,2,,91093867
+1991,Regular Season,Chunichi Dragons,5,"Nimura, Toru",2B,57,0.983,128,162,5,33,,91093869
+1991,Regular Season,Chunichi Dragons,5,"Nimura, Toru",3B,27,0.936,11,33,3,3,,91093869
+1991,Regular Season,Hiroshima Toyo Carp,24,"Ono, Yutaka",P,37,1.000,1,8,0,1,,91193844
+1991,Regular Season,Kintetsu Buffaloes,54,"Ikeue, Koichi",P,9,1.000,3,3,0,0,,91193864
+1991,Regular Season,Lotte Orions,19,"Ibe, Yasuji",P,29,1.000,1,10,0,0,,91193867
+1991,Regular Season,Yokohama Taiyo Whales,12,"Azuse, Kotaro",P,8,0.667,1,1,1,0,,91193881
+1991,Regular Season,Orix Bluewave,1,"Fukura, Junichi",2B,104,0.990,232,269,5,60,,91293860
+1991,Regular Season,Yakult Swallows,66,"Yamada, Tsutomu",P,5,1.000,0,3,0,0,,91293864
+1991,Regular Season,Yakult Swallows,55,"Hirose, Shintaro",P,29,1.000,2,8,0,0,,91293867
+1991,Regular Season,Nippon-Ham Fighters,60,"Tsunoda, Mitsuru",P,1,0.000,0,0,0,0,,91293868
+1991,Regular Season,Yakult Swallows,67,"Noguchi, Toshihiro",C,1,1.000,2,0,0,0,0,91293881
+1991,Regular Season,Hiroshima Toyo Carp,20,"Kitabeppu, Manabu",P,25,1.000,2,26,0,1,,91393842
+1991,Regular Season,Orix Bluewave,11,"Sato, Yoshinori",P,28,0.929,0,13,1,2,,91393844
+1991,Regular Season,Seibu Lions,51,"Okada, Hirokazu",P,3,0.000,0,0,0,0,,91393862
+1991,Regular Season,Yakult Swallows,41,"Kanazawa, Tsugio",P,4,1.000,0,1,0,0,,91393865
+1991,Regular Season,Chunichi Dragons,47,"Teranishi, Hideto",P,2,0.000,0,0,0,0,,91393883
+1991,Regular Season,Nippon-Ham Fighters,0,"Matsura, Hiroaki",P,25,1.000,8,20,0,4,,91493860
+1991,Regular Season,Orix Bluewave,5,"Yumioka, Keijiro",2B,22,1.000,12,14,0,1,,91493863
+1991,Regular Season,Orix Bluewave,5,"Yumioka, Keijiro",SS,5,1.000,0,5,0,0,,91493863
+1991,Regular Season,Kintetsu Buffaloes,16,"Bryant, Ralph",OF,45,0.974,70,4,2,1,,91493866
+1991,Regular Season,Fukuoka Daiei Hawks,57,"Bonishi, Koji",C,31,0.966,76,9,3,1,1,91493883
+1991,Regular Season,Yokohama Taiyo Whales,26,"Tashiro, Tomio",1B,1,1.000,9,1,0,1,,91593842
+1991,Regular Season,Yokohama Taiyo Whales,26,"Tashiro, Tomio",3B,1,1.000,2,0,0,0,,91593842
+1991,Regular Season,Nippon-Ham Fighters,23,"Sumi, Mitsuo",P,17,1.000,6,12,0,1,,91593846
+1991,Regular Season,Fukuoka Daiei Hawks,33,"Saito, Manabu",P,26,1.000,4,5,0,1,,91593862
+1991,Regular Season,Nippon-Ham Fighters,31,"Saito, Hiroyuki",1B,2,1.000,7,2,0,0,,91593865
+1991,Regular Season,Nippon-Ham Fighters,31,"Saito, Hiroyuki",OF,14,0.867,13,0,2,0,,91593865
+1991,Regular Season,Yokohama Taiyo Whales,36,"Shindo, Tatsuya",2B,1,1.000,3,4,0,0,,91593866
+1991,Regular Season,Yokohama Taiyo Whales,36,"Shindo, Tatsuya",3B,1,0.000,0,0,0,0,,91593866
+1991,Regular Season,Yokohama Taiyo Whales,36,"Shindo, Tatsuya",SS,14,0.980,14,35,1,5,,91593866
+1991,Regular Season,Kintetsu Buffaloes,0,"Yoshida, Takashi",2B,3,1.000,6,3,0,0,,91693860
+1991,Regular Season,Kintetsu Buffaloes,0,"Yoshida, Takashi",3B,3,1.000,0,1,0,0,,91693860
+1991,Regular Season,Kintetsu Buffaloes,0,"Yoshida, Takashi",OF,2,0.000,0,0,0,0,,91693860
+1991,Regular Season,Kintetsu Buffaloes,0,"Yoshida, Takashi",SS,75,0.977,91,205,7,39,,91693860
+1991,Regular Season,Chunichi Dragons,27,"Matsunaga, Yukio",P,7,1.000,0,1,0,0,,91693881
+1991,Regular Season,Chunichi Dragons,24,"Nishimoto, Takashi",P,6,0.889,4,12,2,0,,91793842
+1991,Regular Season,Hiroshima Toyo Carp,4,"Shoda, Kozo",2B,127,0.984,322,355,11,83,,91793860
+1991,Regular Season,Yokohama Taiyo Whales,54,"Daimon, Kazuhiko",P,42,1.000,8,29,0,2,,91793862
+1991,Regular Season,Fukuoka Daiei Hawks,28,"Sugimoto, Tadashi",P,15,1.000,5,16,0,0,,91793863
+1991,Regular Season,Orix Bluewave,27,"Nakajima, Satoshi",C,128,0.988,739,77,10,11,11,91793864
+1991,Regular Season,Nippon-Ham Fighters,39,"Shimada, Nobutoshi",OF,98,0.993,138,3,1,3,,91793867
+1991,Regular Season,Nippon-Ham Fighters,29,"Shibakusa, Hiroshi",P,8,1.000,1,6,0,0,,91793868
+1991,Regular Season,Hiroshima Toyo Carp,12,"Takayama, Ikuo",P,9,1.000,0,3,0,0,,91993860
+1991,Regular Season,Yokohama Taiyo Whales,19,"Nakayama, Hiroaki",P,27,0.927,9,29,3,4,,91993862
+1991,Regular Season,Seibu Lions,10,"Hanyuda, Tadakatsu",OF,48,1.000,46,2,0,0,,91993864
+1991,Regular Season,Seibu Lions,29,"Young, Ray",P,2,0.000,0,0,0,0,,91993883
+1991,Regular Season,Hiroshima Toyo Carp,48,"Ishinuki, Hiromi",P,46,0.926,4,21,2,2,,93093868
+1991,Regular Season,Orix Bluewave,42,"Schulze, Don",P,24,1.000,3,11,0,0,,93193881
+1991,Regular Season,Yokohama Taiyo Whales,51,"Suzuki, Takanori",OF,1,1.000,2,0,0,0,,93193883
+1991,Regular Season,Hanshin Tigers,61,"Yamada, Katsuhiko",C,66,0.987,347,26,5,3,4,93393868
+1991,Regular Season,Lotte Orions,42,"Hengel, Dave",OF,1,1.000,2,0,0,0,,93393881
+1991,Regular Season,Fukuoka Daiei Hawks,55,"Omichi, Noriyoshi",OF,39,0.944,33,1,2,1,,93993868
+1991,Regular Season,Seibu Lions,55,"Ando, Shinji",2B,2,1.000,0,1,0,0,,95393868
+1991,Regular Season,Seibu Lions,56,"Go, Toshihiro",P,3,0.000,0,0,0,0,,95593868
+1991,Regular Season,Kintetsu Buffaloes,28,"Nakamura, Ryoji",1B,1,1.000,2,1,0,0,,95693868

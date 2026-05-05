@@ -1,0 +1,916 @@
+Season,Game Type,Team,#,Name,Position,G,PA,AB,BA,OBP,SLG,OPS,R,RBI,H,1B,2B,3B,HR,TB,SB,CS,BB,IBB,K,DP,DB,SH,SF,PlayerID
+2013,Regular Season,Yokohama DeNA Baystars,22,"Takasaki, Kentaro",P,20,17,14,0.143,0.143,0.143,0.286,0,0,2,2,0,0,0,2,0,0,0,0,5,0,0,3,0,01005114
+2013,Regular Season,Tokyo Yakult Swallows,41,"Takai, Yuhei",CF,13,43,37,0.297,0.395,0.622,1.017,6,3,11,4,4,1,2,23,0,0,6,0,10,0,0,0,0,01005117
+2013,Regular Season,Fukuoka Softbank Hawks,41,"Senga, Koudai",P,51,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005133
+2013,Regular Season,Fukuoka Softbank Hawks,30,"Takeda, Shota",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005135
+2013,Regular Season,Fukuoka Softbank Hawks,16,"Higashihama, Nao",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01005137
+2013,Regular Season,Orix Buffaloes,29,"Igawa, Kei",P,9,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,01103886
+2013,Climax Series - First Stage,Hanshin Tigers,25,"Arai, Takahiro",1B,2,7,7,0.286,0.286,0.286,0.572,1,0,2,2,0,0,0,2,0,0,0,0,3,0,0,0,0,01103888
+2013,Regular Season,Hanshin Tigers,25,"Arai, Takahiro",1B,140,548,476,0.267,0.350,0.403,0.753,60,70,127,92,20,0,15,192,2,3,60,3,110,17,5,0,7,01103888
+2013,Regular Season,Hanshin Tigers,32,"Arai, Ryota",3B,119,401,357,0.238,0.315,0.401,0.716,44,51,85,56,14,1,14,143,2,2,37,0,89,10,4,1,2,01105112
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,49,"Amaya, Soichiro",PH,3,3,3,0.667,0.667,0.667,1.334,0,0,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,01105115
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,49,"Amaya, Soichiro",PH,2,4,4,0.250,0.250,0.250,0.500,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,01105115
+2013,Regular Season,Hiroshima Toyo Carp,49,"Amaya, Soichiro",PH,34,62,53,0.208,0.323,0.226,0.549,5,1,11,10,1,0,0,12,3,1,9,0,15,0,0,0,0,01105115
+2013,Regular Season,Tokyo Yakult Swallows,24,"Araki, Takahiro",1B,12,44,43,0.256,0.256,0.349,0.605,6,3,11,9,1,0,1,15,0,1,0,0,3,0,0,1,0,01105131
+2013,Regular Season,Yokohama DeNA Baystars,4,"Aranami, Sho",CF,126,490,445,0.258,0.317,0.337,0.654,65,30,115,87,23,3,2,150,19,9,37,2,96,9,2,4,2,01105133
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,49,"Ishikawa, Shingo",RF,4,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,01105135
+2013,Climax Series - Final Stage,Chiba Lotte Marines,2,"Nemoto, Shunichi",2B,4,18,16,0.313,0.353,0.313,0.666,0,3,5,5,0,0,0,5,0,0,1,0,5,0,0,1,0,01205112
+2013,Climax Series - First Stage,Chiba Lotte Marines,2,"Nemoto, Shunichi",2B,3,14,13,0.231,0.286,0.385,0.671,1,2,3,2,0,1,0,5,1,0,1,0,5,0,0,0,0,01205112
+2013,Regular Season,Chiba Lotte Marines,2,"Nemoto, Shunichi",2B,123,559,485,0.262,0.338,0.353,0.691,72,45,127,99,20,0,8,171,9,1,52,0,85,7,5,14,3,01205112
+2013,Regular Season,Tokyo Yakult Swallows,51,"Fujita, Taiyo",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205113
+2013,Regular Season,Chunichi Dragons,1,"Donoue, Naomichi",SS,74,170,152,0.171,0.204,0.217,0.421,5,12,26,22,2,1,1,33,1,0,6,0,15,3,1,8,3,01205114
+2013,Regular Season,Yokohama DeNA Baystars,24,"Hayashi, Masanori",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205115
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,20,"Hasebe, Kohei",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205116
+2013,Japan Series,Tohoku Rakuten Golden Eagles,20,"Hasebe, Kohei",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205116
+2013,Regular Season,Tohoku Rakuten Golden Eagles,20,"Hasebe, Kohei",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205116
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,20,"Nagakawa, Katsuhiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205117
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,20,"Nagakawa, Katsuhiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205117
+2013,Regular Season,Hiroshima Toyo Carp,20,"Nagakawa, Katsuhiro",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205117
+2013,Climax Series - Final Stage,Chiba Lotte Marines,67,"Nishino, Yuji",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205118
+2013,Climax Series - First Stage,Chiba Lotte Marines,67,"Nishino, Yuji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205118
+2013,Regular Season,Chiba Lotte Marines,67,"Nishino, Yuji",P,24,4,1,0.000,0.667,0.000,0.667,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,1,0,01205118
+2013,Regular Season,Orix Buffaloes,14,"Furukawa, Shuichi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205131
+2013,Regular Season,Tokyo Yakult Swallows,62,"Tokuyama, Takeaki",P,5,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,01205135
+2013,Climax Series - Final Stage,Chiba Lotte Marines,28,"Matsunaga, Takahiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205137
+2013,Climax Series - First Stage,Chiba Lotte Marines,28,"Matsunaga, Takahiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205137
+2013,Regular Season,Chiba Lotte Marines,28,"Matsunaga, Takahiro",P,58,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01205137
+2013,Regular Season,Chunichi Dragons,7,"Yamasaki, Takeshi",PH,51,71,62,0.210,0.310,0.258,0.568,1,7,13,11,1,1,0,16,0,0,5,0,11,5,4,0,0,01303868
+2013,Climax Series - First Stage,Saitama Seibu Lions,7,"Kataoka, Yasuyuki",2B,3,12,11,0.636,0.636,1.000,1.636,4,3,7,5,1,0,1,11,1,0,0,0,2,1,0,1,0,01305110
+2013,Regular Season,Saitama Seibu Lions,7,"Kataoka, Yasuyuki",2B,72,300,259,0.290,0.354,0.355,0.709,41,28,75,66,5,0,4,92,9,1,24,0,35,4,2,15,0,01305110
+2013,Regular Season,Hiroshima Toyo Carp,12,"Ueno, Hirofumi",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01305114
+2013,Climax Series - Final Stage,Chiba Lotte Marines,8,"Imae, Toshiaki",3B,4,16,16,0.188,0.188,0.188,0.376,0,1,3,3,0,0,0,3,0,0,0,0,5,1,0,0,0,01305115
+2013,Climax Series - First Stage,Chiba Lotte Marines,8,"Imae, Toshiaki",3B,3,12,10,0.300,0.417,0.400,0.817,2,1,3,2,1,0,0,4,0,0,2,0,0,1,0,0,0,01305115
+2013,Regular Season,Chiba Lotte Marines,8,"Imae, Toshiaki",3B,132,551,508,0.325,0.355,0.435,0.790,44,74,165,129,26,0,10,221,5,2,26,2,45,12,4,2,11,01305115
+2013,Regular Season,Yokohama DeNA Baystars,58,"Ota, Atori",P,38,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01305116
+2013,Regular Season,Hiroshima Toyo Carp,29,"Egusa, Hirotaka",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01305117
+2013,Climax Series - First Stage,Hanshin Tigers,4,"Uemoto, Hiroki",2B,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01305118
+2013,Regular Season,Hanshin Tigers,4,"Uemoto, Hiroki",2B,25,70,59,0.254,0.353,0.407,0.760,13,8,15,10,3,0,2,24,2,1,8,0,19,1,1,2,0,01305118
+2013,Regular Season,Yomiuri Giants,17,"Katsuki, Ryota",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01305119
+2013,Regular Season,Chunichi Dragons,8,"Ohshima, Yohei",CF,140,555,499,0.248,0.306,0.311,0.617,68,27,124,101,18,2,3,155,19,9,37,1,69,2,6,10,3,01305131
+2013,Regular Season,Hanshin Tigers,13,"Enokida, Daiki",P,16,30,26,0.077,0.077,0.077,0.154,0,0,2,2,0,0,0,2,0,0,0,0,14,0,0,4,0,01305133
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,11,"Ohtani, Shohei",RF,77,204,189,0.238,0.284,0.376,0.660,14,20,45,26,15,1,3,71,4,1,12,0,64,3,1,0,2,01305137
+2013,Regular Season,Chunichi Dragons,34,"Yamamoto, Masahiro",P,16,22,14,0.071,0.278,0.071,0.349,0,1,1,1,0,0,0,1,0,0,4,0,7,1,0,4,0,01403862
+2013,Regular Season,Orix Buffaloes,48,"Yoshino, Makoto",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01405111
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,37,"Matsuyama, Ryuhei",RF,3,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01405116
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,37,"Matsuyama, Ryuhei",RF,2,6,6,0.167,0.167,0.167,0.334,0,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,01405116
+2013,Regular Season,Hiroshima Toyo Carp,37,"Matsuyama, Ryuhei",RF,123,389,372,0.282,0.302,0.430,0.732,27,52,105,71,23,1,10,160,2,0,11,0,49,4,1,1,4,01405116
+2013,Regular Season,Saitama Seibu Lions,57,"Matsushita, Kenta",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01405131
+2013,Regular Season,Fukuoka Softbank Hawks,56,"Hoshino, Daichi",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01405133
+2013,Regular Season,Yokohama DeNA Baystars,112,"Nishimori, Masashi",PH,7,5,5,0.200,0.200,0.200,0.400,2,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,01405135
+2013,Regular Season,Chiba Lotte Marines,11,"Ohmine, Yuta",P,10,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,01505114
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,58,"Karashima, Wataru",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01505118
+2013,Japan Series,Tohoku Rakuten Golden Eagles,58,"Karashima, Wataru",P,1,2,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01505118
+2013,Regular Season,Tohoku Rakuten Golden Eagles,58,"Karashima, Wataru",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01505118
+2013,Regular Season,Hanshin Tigers,38,"Kurose, Haruki",3B,13,15,13,0.231,0.333,0.385,0.718,1,0,3,1,2,0,0,5,0,0,1,0,1,1,1,0,0,01505119
+2013,Regular Season,Yokohama DeNA Baystars,21,"Kagami, Kisho",P,8,10,10,0.300,0.300,0.300,0.600,0,0,3,3,0,0,0,3,0,0,0,0,3,0,0,0,0,01505133
+2013,Climax Series - First Stage,Saitama Seibu Lions,2,"Kaneko, Yuji",2B,3,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,01505137
+2013,Regular Season,Saitama Seibu Lions,2,"Kaneko, Yuji",2B,94,311,278,0.223,0.278,0.291,0.569,30,23,62,52,3,5,2,81,12,6,18,0,56,5,3,12,0,01505137
+2013,Regular Season,Orix Buffaloes,00,"Ming-Chieh, Hsu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01605111
+2013,Japan Series,Yomiuri Giants,31,"Matsumoto, Tetsuya",CF,5,14,11,0.182,0.308,0.182,0.490,3,0,2,2,0,0,0,2,0,0,2,0,5,0,0,1,0,01605114
+2013,Regular Season,Yomiuri Giants,31,"Matsumoto, Tetsuya",CF,91,222,190,0.237,0.315,0.258,0.573,24,5,45,41,4,0,0,49,11,5,21,0,34,2,1,9,1,01605114
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,31,"Mima, Manabu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01605133
+2013,Japan Series,Tohoku Rakuten Golden Eagles,31,"Mima, Manabu",P,2,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,01605133
+2013,Regular Season,Tohoku Rakuten Golden Eagles,31,"Mima, Manabu",P,18,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,01605133
+2013,Regular Season,Hanshin Tigers,56,"Matsuda, Ryoma",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01605135
+2013,Regular Season,Chunichi Dragons,70,"Cabrera, Daniel",P,20,38,34,0.029,0.108,0.029,0.137,1,0,1,1,0,0,0,1,0,0,3,0,29,0,0,1,0,01605137
+2013,Regular Season,Yokohama DeNA Baystars,14,"Kobayashi, Futoshi",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01705116
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,66,"Kimura, Shogo",3B,2,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,01705117
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,66,"Kimura, Shogo",3B,2,8,7,0.143,0.143,0.143,0.286,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,01705117
+2013,Regular Season,Hiroshima Toyo Carp,66,"Kimura, Shogo",3B,62,133,114,0.325,0.389,0.360,0.749,15,12,37,35,1,0,1,41,3,2,12,0,18,2,0,7,0,01705117
+2013,Climax Series - First Stage,Saitama Seibu Lions,31,"Sakata, Ryo",RF,3,12,11,0.364,0.417,0.455,0.872,0,1,4,3,1,0,0,5,0,0,1,0,2,0,0,0,0,01705118
+2013,Regular Season,Saitama Seibu Lions,31,"Sakata, Ryo",RF,53,195,180,0.289,0.338,0.450,0.788,17,34,52,35,11,0,6,81,1,2,13,1,39,7,1,0,1,01705118
+2013,Regular Season,Yokohama DeNA Baystars,65,"Kuniyoshi, Yuki",P,3,7,6,0.167,0.167,0.167,0.334,0,1,1,1,0,0,0,1,0,0,0,0,3,0,0,1,0,01705131
+2013,Regular Season,Tokyo Yakult Swallows,26,"Kyuko, Kentaro",P,38,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01705133
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,23,"Nioka, Tomohiro",PH,36,45,42,0.071,0.111,0.095,0.206,0,6,3,2,1,0,0,4,0,0,2,0,16,1,0,0,1,01903888
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,37,"Shima, Motohiro",C,4,15,12,0.167,0.286,0.250,0.536,1,2,2,1,1,0,0,3,0,0,2,0,4,0,0,1,0,01905114
+2013,Japan Series,Tohoku Rakuten Golden Eagles,37,"Shima, Motohiro",C,7,28,23,0.261,0.346,0.261,0.607,2,1,6,6,0,0,0,6,0,0,3,0,5,1,0,2,0,01905114
+2013,Regular Season,Tohoku Rakuten Golden Eagles,37,"Shima, Motohiro",C,134,507,447,0.257,0.318,0.318,0.636,44,48,115,97,13,1,4,142,3,3,39,2,92,14,2,16,3,01905114
+2013,Regular Season,Chunichi Dragons,63,"Donoe, Takehiro",PH,44,52,41,0.195,0.365,0.366,0.731,3,6,8,4,2,1,1,15,0,0,9,0,12,1,2,0,0,01905119
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,18,"Saitoh, Yuki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01905133
+2013,Climax Series - Final Stage,Chiba Lotte Marines,46,"Greisinger, Seth",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03105114
+2013,Regular Season,Chiba Lotte Marines,46,"Greisinger, Seth",P,13,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,03105114
+2013,Regular Season,Fukuoka Softbank Hawks,25,"Falkenborg, Brian",P,41,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03105118
+2013,Climax Series - First Stage,Saitama Seibu Lions,6,"German, Esteban",3B,3,13,9,0.222,0.462,0.222,0.684,4,0,2,2,0,0,0,2,0,0,4,0,2,0,0,0,0,03105135
+2013,Regular Season,Saitama Seibu Lions,6,"German, Esteban",3B,144,623,518,0.319,0.418,0.396,0.814,74,55,165,136,22,3,4,205,40,20,85,0,87,20,7,8,5,03105135
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,42,"Abreu, Michel",DH,138,571,504,0.284,0.357,0.506,0.863,59,95,143,93,19,0,31,255,0,1,57,0,132,14,4,0,6,03105137
+2013,Regular Season,Orix Buffaloes,44,"Fernandez, Jose",DH,25,85,80,0.188,0.235,0.250,0.485,4,4,15,12,2,0,1,20,0,0,4,0,13,4,1,0,0,03305117
+2013,Regular Season,Fukuoka Softbank Hawks,14,"Oseguera, Paul",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03305137
+2013,Regular Season,Yokohama DeNA Baystars,61,"Soto, Enyelbert",P,8,10,8,0.125,0.125,0.125,0.250,0,1,1,1,0,0,0,1,0,0,0,0,5,0,0,2,0,03505133
+2013,Climax Series - Final Stage,Chiba Lotte Marines,47,"Ledezma, Wil",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03505135
+2013,Climax Series - First Stage,Chiba Lotte Marines,47,"Ledezma, Wil",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03505135
+2013,Regular Season,Chiba Lotte Marines,47,"Ledezma, Wil",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03505135
+2013,Regular Season,Hanshin Tigers,40,"Takamiya, Kazuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11015112
+2013,Regular Season,Orix Buffaloes,37,"Tsuji, Toshiya",DH,5,16,15,0.200,0.250,0.267,0.517,1,4,3,2,1,0,0,4,0,0,1,0,3,1,0,0,0,11015115
+2013,Regular Season,Yokohama DeNA Baystars,46,"Tanaka, Kenjiro",P,9,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11015116
+2013,Climax Series - Final Stage,Chiba Lotte Marines,17,"Naruse, Yoshihisa",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11015119
+2013,Regular Season,Chiba Lotte Marines,17,"Naruse, Yoshihisa",P,14,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,11015119
+2013,Regular Season,Orix Buffaloes,58,"Toda, Ryo",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11015137
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,23,"Yokoyama, Ryuji",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213880
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,23,"Yokoyama, Ryuji",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213880
+2013,Regular Season,Hiroshima Toyo Carp,23,"Yokoyama, Ryuji",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11213880
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,18,"Tanaka, Masahiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11215114
+2013,Japan Series,Tohoku Rakuten Golden Eagles,18,"Tanaka, Masahiro",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11215114
+2013,Regular Season,Tohoku Rakuten Golden Eagles,18,"Tanaka, Masahiro",P,28,9,6,0.167,0.167,0.333,0.500,0,1,1,0,1,0,0,2,0,0,0,0,2,0,0,3,0,11215114
+2013,Regular Season,Orix Buffaloes,53,"Nonaka, Shingo",PR,6,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,11215115
+2013,Regular Season,Fukuoka Softbank Hawks,60,"Nakamura, Akira",1B,109,492,427,0.307,0.392,0.403,0.795,77,44,131,102,22,2,5,172,7,9,54,1,59,12,7,2,2,11215116
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,56,"Nakashima, Takuya",2B,127,272,223,0.238,0.305,0.260,0.565,24,8,53,48,5,0,0,58,23,2,21,0,47,2,1,26,1,11215118
+2013,Regular Season,Orix Buffaloes,20,"Mahara, Takahiro",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11215119
+2013,Regular Season,Tokyo Yakult Swallows,67,"Hirai, Ryo",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11215131
+2013,Regular Season,Tokyo Yakult Swallows,48,"Iwamura, Akinori",PH,75,159,142,0.246,0.314,0.338,0.652,11,17,35,28,4,0,3,48,0,0,15,0,48,0,0,0,2,11313884
+2013,Regular Season,Fukuoka Softbank Hawks,43,"Egawa, Tomoaki",RF,77,264,227,0.260,0.352,0.445,0.797,32,35,59,42,4,1,12,101,2,2,30,0,64,3,3,3,1,11315110
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,62,"Imai, Keisuke",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11315112
+2013,Regular Season,Hiroshima Toyo Carp,62,"Imai, Keisuke",P,33,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,11315112
+2013,Regular Season,Tokyo Yakult Swallows,19,"Ishikawa, Masanori",P,24,46,38,0.158,0.179,0.158,0.337,1,1,6,6,0,0,0,6,0,0,1,0,11,0,0,7,0,11315115
+2013,Regular Season,Chiba Lotte Marines,30,"Ito, Yoshihiro",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11315116
+2013,Regular Season,Orix Buffaloes,68,"Fukae, Masato",PR,44,55,45,0.200,0.265,0.244,0.509,9,1,9,8,0,1,0,11,4,3,3,0,17,2,1,6,0,11415133
+2013,Climax Series - First Stage,Saitama Seibu Lions,59,"Nagae, Kyohei",SS,2,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11415135
+2013,Regular Season,Saitama Seibu Lions,59,"Nagae, Kyohei",SS,99,92,78,0.141,0.202,0.244,0.446,8,3,11,7,1,2,1,19,1,0,6,0,34,0,0,8,0,11415135
+2013,Regular Season,Chunichi Dragons,17,"Kawai, Yudai",P,3,4,3,0.333,0.333,0.333,0.666,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,11515110
+2013,Regular Season,Tohoku Rakuten Golden Eagles,65,"Oyama, Keiji",C,5,8,6,0.167,0.375,0.167,0.542,0,0,1,1,0,0,0,1,0,0,2,0,2,0,0,0,0,11515112
+2013,Regular Season,Saitama Seibu Lions,9,"Osaki, Yutaro",RF,84,208,184,0.250,0.305,0.299,0.604,14,13,46,39,6,0,1,55,0,0,11,0,29,5,5,5,3,11515114
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,17,"Ohtake, Kan",P,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11515115
+2013,Regular Season,Hiroshima Toyo Carp,17,"Ohtake, Kan",P,25,49,45,0.044,0.065,0.044,0.109,2,3,2,2,0,0,0,2,0,0,1,0,16,0,0,3,0,11515115
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,53,"Ozaki, Masaya",1B,4,5,5,0.200,0.200,0.200,0.400,0,1,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,11515117
+2013,Regular Season,Chunichi Dragons,64,"Oguma, Ryosuke",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11515118
+2013,Regular Season,Chunichi Dragons,21,"Okada, Toshiya",P,66,11,9,0.000,0.100,0.000,0.100,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,1,0,11515131
+2013,Regular Season,Chunichi Dragons,22,"Ohno, Yudai",P,25,46,43,0.047,0.047,0.070,0.117,2,0,2,1,1,0,0,3,0,0,0,0,25,1,0,3,0,11515133
+2013,Regular Season,Tokyo Yakult Swallows,29,"Ogawa, Yasuhiro",P,26,59,54,0.093,0.093,0.148,0.241,1,3,5,2,3,0,0,8,0,0,0,0,18,2,0,5,0,11515137
+2013,Regular Season,Tokyo Yakult Swallows,44,"Matsui, Kosuke",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11615112
+2013,Regular Season,Fukuoka Softbank Hawks,37,"Fukuda, Shuhei",RF,33,28,25,0.120,0.154,0.240,0.394,4,1,3,1,1,1,0,6,1,0,1,0,10,0,0,2,0,11615114
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,51,"Murata, Kazuya",RF,24,29,24,0.333,0.407,0.333,0.740,2,0,8,8,0,0,0,8,3,1,3,0,4,0,0,2,0,11615116
+2013,Regular Season,Tokyo Yakult Swallows,68,"Morioka, Ryosuke",SS,109,347,295,0.247,0.333,0.298,0.631,28,21,73,61,10,1,1,88,0,0,36,1,61,5,3,11,2,11615117
+2013,Regular Season,Tokyo Yakult Swallows,20,"Yamamoto, Tetsuya",P,64,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11615131
+2013,Climax Series - First Stage,Chiba Lotte Marines,18,"Fujioka, Takahiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11615135
+2013,Regular Season,Chiba Lotte Marines,18,"Fujioka, Takahiro",P,39,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11615135
+2013,Regular Season,Tokyo Yakult Swallows,46,"Yachi, Ryota",SS,6,23,21,0.190,0.227,0.190,0.417,0,1,4,4,0,0,0,4,0,0,1,1,3,1,0,1,0,11615137
+2013,Regular Season,Hanshin Tigers,99,"Kano, Keisuke",PH,6,11,10,0.200,0.200,0.200,0.400,1,0,2,2,0,0,0,2,0,0,0,0,2,2,0,1,0,11715113
+2013,Regular Season,Yokohama DeNA Baystars,54,"Kosugi, Yota",P,6,10,10,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,11715118
+2013,Regular Season,Fukuoka Softbank Hawks,26,"Kawahara, Hiroyuki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11715131
+2013,Regular Season,Tokyo Yakult Swallows,64,"Kawasaki, Nariaki",LF,11,15,12,0.250,0.400,0.333,0.733,1,1,3,2,1,0,0,4,0,0,2,0,3,0,1,0,0,11715133
+2013,Regular Season,Yomiuri Giants,56,"Sakaguchi, Masaki",1B,7,10,10,0.400,0.400,0.400,0.800,3,1,4,4,0,0,0,4,0,0,0,0,5,0,0,0,0,11715137
+2013,Regular Season,Fukuoka Softbank Hawks,34,"Yamada, Hiroki",P,9,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11815114
+2013,Regular Season,Orix Buffaloes,66,"Yamamoto, Kazunao",SS,96,176,159,0.226,0.273,0.333,0.606,13,15,36,28,3,1,4,53,3,0,9,0,48,4,2,4,2,11815118
+2013,Regular Season,Tohoku Rakuten Golden Eagles,2,"Miyoshi, Takumi",SS,6,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11815135
+2013,Regular Season,Saitama Seibu Lions,19,"Spilborghs, Ryan",RF,70,246,214,0.234,0.317,0.308,0.625,20,25,50,41,5,1,3,66,1,0,24,0,50,6,4,0,4,11815137
+2013,Regular Season,Hanshin Tigers,29,"Kojima, Tatsuya",P,3,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,11915114
+2013,Regular Season,Hiroshima Toyo Carp,14,"Shinoda, Junpei",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11915116
+2013,Regular Season,Yokohama DeNA Baystars,55,"Goto, Taketoshi",PH,62,101,88,0.284,0.370,0.557,0.927,13,14,25,13,6,0,6,49,0,1,9,0,19,1,3,1,0,11915117
+2013,Regular Season,Orix Buffaloes,15,"Sato, Tatsuya",P,67,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11915135
+2013,Regular Season,Fukuoka Softbank Hawks,0,"Takata, Tomoki",2B,11,19,17,0.118,0.167,0.176,0.343,4,0,2,1,1,0,0,3,1,0,1,0,3,0,0,1,0,11915137
+2013,Japan Series,Yomiuri Giants,23,"Wakiya, Ryota",2B,3,2,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13115112
+2013,Regular Season,Yomiuri Giants,23,"Wakiya, Ryota",2B,49,135,123,0.244,0.306,0.285,0.591,12,8,30,25,5,0,0,35,3,0,10,2,18,1,1,1,0,13115112
+2013,Regular Season,Saitama Seibu Lions,10,"Carter, Chris",DH,14,34,30,0.133,0.206,0.133,0.339,0,3,4,4,0,0,0,4,0,0,3,0,11,2,0,0,1,13115135
+2013,Regular Season,Tokyo Yakult Swallows,4,"Balentien, Wladimir",RF,130,547,439,0.330,0.455,0.779,1.234,94,131,145,68,17,0,60,342,0,0,103,9,105,14,1,0,4,13315133
+2013,Regular Season,Tokyo Yakult Swallows,85,"Milledge, Lastings",LF,96,423,374,0.251,0.329,0.436,0.765,56,49,94,57,21,0,16,163,7,3,42,2,54,12,2,3,2,13315135
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,13,"Ka'Aihue, Kila",1B,3,12,11,0.091,0.167,0.091,0.258,0,0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,0,13315137
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,13,"Ka'Aihue, Kila",1B,2,10,9,0.444,0.500,0.889,1.389,2,4,4,2,1,0,1,8,0,0,1,0,4,0,0,0,0,13315137
+2013,Regular Season,Hiroshima Toyo Carp,13,"Ka'Aihue, Kila",1B,66,265,224,0.259,0.362,0.478,0.840,31,45,58,37,7,0,14,107,0,0,36,0,65,2,2,0,3,13315137
+2013,Regular Season,Yokohama DeNA Baystars,62,"Zen, Kaiun",P,6,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,13515118
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,55,"Eldred, Brad",1B,3,11,9,0.000,0.182,0.000,0.182,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,0,0,13515135
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,55,"Eldred, Brad",1B,2,6,5,0.200,0.333,0.200,0.533,0,1,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,13515135
+2013,Regular Season,Hiroshima Toyo Carp,55,"Eldred, Brad",1B,66,260,235,0.247,0.315,0.460,0.775,24,32,58,34,11,0,13,108,3,0,20,1,73,6,4,0,1,13515135
+2013,Regular Season,Yokohama DeNA Baystars,99,"Nakamura, Norihiro",3B,122,473,431,0.281,0.334,0.427,0.761,37,61,121,87,19,1,14,184,1,0,32,1,66,20,5,0,5,21023885
+2013,Regular Season,Chiba Lotte Marines,23,"Heiuchi, Hisao",2B,36,36,32,0.188,0.235,0.250,0.485,4,2,6,4,2,0,0,8,0,0,2,0,9,1,0,2,0,21025111
+2013,Japan Series,Yomiuri Giants,61,"Nakai, Daisuke",2B,2,5,4,0.250,0.400,0.250,0.650,0,0,1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,21025116
+2013,Regular Season,Yomiuri Giants,61,"Nakai, Daisuke",2B,48,149,139,0.324,0.361,0.453,0.814,19,17,45,35,6,0,4,63,2,1,8,0,12,4,0,2,0,21025116
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,36,"Nakamura, Masaru",P,13,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21025131
+2013,Regular Season,Chunichi Dragons,45,"Tajima, Shinji",P,50,10,10,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,21025135
+2013,Regular Season,Chunichi Dragons,24,"Fukutani, Koji",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21025137
+2013,Climax Series - Final Stage,Yomiuri Giants,10,"Abe, Shinnosuke",C,3,12,10,0.300,0.417,0.300,0.717,1,2,3,3,0,0,0,3,0,0,2,0,1,0,0,0,0,21125113
+2013,Japan Series,Yomiuri Giants,10,"Abe, Shinnosuke",C,7,29,22,0.091,0.276,0.136,0.412,0,1,2,1,1,0,0,3,0,0,5,0,6,0,1,0,1,21125113
+2013,Regular Season,Yomiuri Giants,10,"Abe, Shinnosuke",C,135,529,422,0.296,0.427,0.564,0.991,81,91,125,76,17,0,32,238,0,0,86,9,59,8,15,0,6,21125113
+2013,Regular Season,Yomiuri Giants,46,"Ichioka, Ryuji",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21125135
+2013,Regular Season,Tokyo Yakult Swallows,12,"Ishiyama, Taichi",P,60,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21125137
+2013,Regular Season,Chunichi Dragons,30,"Morino, Masahiko",1B,134,457,399,0.286,0.369,0.461,0.830,53,51,114,77,20,1,16,184,1,0,54,0,61,10,0,2,2,21223884
+2013,Regular Season,Yomiuri Giants,51,"Furuki, Shigeyuki",2B,3,4,4,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,21223886
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,6,"Fujita, Kazuya",2B,4,17,12,0.250,0.357,0.250,0.607,0,1,3,3,0,0,0,3,0,0,2,0,1,0,0,3,0,21225110
+2013,Japan Series,Tohoku Rakuten Golden Eagles,6,"Fujita, Kazuya",2B,7,32,27,0.259,0.355,0.296,0.651,3,4,7,6,1,0,0,8,0,0,2,0,3,0,2,1,0,21225110
+2013,Regular Season,Tohoku Rakuten Golden Eagles,6,"Fujita, Kazuya",2B,128,536,466,0.275,0.320,0.326,0.646,48,48,128,108,17,2,1,152,3,3,21,0,43,7,12,33,4,21225110
+2013,Regular Season,Tokyo Yakult Swallows,10,"Fujimoto, Atsushi",PH,4,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21225113
+2013,Regular Season,Tohoku Rakuten Golden Eagles,30,"Nagai, Satoshi",P,10,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,21225114
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,65,"Hisamoto, Yuichi",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21225115
+2013,Regular Season,Hiroshima Toyo Carp,65,"Hisamoto, Yuichi",P,43,12,11,0.091,0.091,0.091,0.182,0,0,1,1,0,0,0,1,0,0,0,0,6,0,0,1,0,21225115
+2013,Climax Series - Final Stage,Chiba Lotte Marines,20,"Hattori, Yasutaka",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21225116
+2013,Climax Series - First Stage,Chiba Lotte Marines,20,"Hattori, Yasutaka",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21225116
+2013,Regular Season,Chiba Lotte Marines,20,"Hattori, Yasutaka",P,51,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21225116
+2013,Japan Series,Tohoku Rakuten Golden Eagles,8,"Nakashima, Toshiya",LF,5,6,6,0.167,0.167,0.167,0.334,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,21225117
+2013,Regular Season,Tohoku Rakuten Golden Eagles,8,"Nakashima, Toshiya",LF,45,90,82,0.232,0.284,0.317,0.601,7,3,19,14,4,0,1,26,0,0,6,0,8,3,0,2,0,21225117
+2013,Regular Season,Hanshin Tigers,43,"Nishimura, Ken",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21225118
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,26,"Nishikawa, Haruki",2B,85,332,281,0.278,0.358,0.370,0.728,35,26,78,57,18,1,2,104,22,2,31,0,69,5,5,14,1,21225133
+2013,Regular Season,Hiroshima Toyo Carp,53,"Toda, Takaya",P,3,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,21225135
+2013,Regular Season,Orix Buffaloes,11,"Matsuba, Takahiro",P,17,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,21225137
+2013,Regular Season,Yomiuri Giants,2,"Ogasawara, Michihiro",PH,22,40,36,0.250,0.300,0.389,0.689,2,8,9,6,2,0,1,14,0,1,2,0,7,2,1,0,1,21323884
+2013,Regular Season,Hiroshima Toyo Carp,36,"Kikuchihara, Tsuyoshi",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21323887
+2013,Regular Season,Yomiuri Giants,40,"Kato, Ken",C,12,31,28,0.214,0.290,0.250,0.540,2,2,6,5,1,0,0,7,0,0,2,0,4,2,1,0,0,21323888
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,8,"Kaneko, Makoto",PH,32,56,50,0.200,0.231,0.200,0.431,3,1,10,10,0,0,0,10,0,0,1,0,18,1,1,4,0,21323889
+2013,Regular Season,Hiroshima Toyo Carp,24,"Kawauchi, Takaya",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21325111
+2013,Regular Season,Fukuoka Softbank Hawks,1,"Uchikawa, Seiichi",LF,144,633,570,0.316,0.376,0.477,0.853,76,92,180,127,33,1,19,272,1,0,46,0,47,23,12,0,5,21325113
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,35,"Enoshita, Yodai",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21325133
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,27,"Okajima, Takero",RF,4,18,17,0.294,0.333,0.294,0.627,4,1,5,5,0,0,0,5,0,0,0,0,1,1,1,0,0,21325135
+2013,Japan Series,Tohoku Rakuten Golden Eagles,27,"Okajima, Takero",RF,7,32,27,0.259,0.355,0.296,0.651,3,2,7,6,1,0,0,8,0,0,2,0,3,0,2,1,0,21325135
+2013,Regular Season,Tohoku Rakuten Golden Eagles,27,"Okajima, Takero",RF,79,264,226,0.323,0.405,0.385,0.790,40,13,73,62,9,1,1,87,3,3,27,1,31,6,4,7,0,21325135
+2013,Regular Season,Saitama Seibu Lions,36,"Yoneno, Tomohito",PH,3,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,21425111
+2013,Climax Series - Final Stage,Chiba Lotte Marines,59,"Hosoya, Kei",1B,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21425112
+2013,Climax Series - First Stage,Chiba Lotte Marines,59,"Hosoya, Kei",1B,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21425112
+2013,Regular Season,Chiba Lotte Marines,59,"Hosoya, Kei",1B,84,116,102,0.216,0.283,0.294,0.577,18,8,22,18,2,0,2,30,1,0,10,0,29,2,0,3,1,21425112
+2013,Regular Season,Fukuoka Softbank Hawks,24,"Hasegawa, Yuya",CF,144,637,580,0.341,0.392,0.510,0.902,92,83,198,144,29,6,19,296,12,2,47,0,111,5,5,0,5,21425114
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,63,"Maru, Yoshihiro",CF,3,13,11,0.273,0.385,0.364,0.749,1,0,3,2,1,0,0,4,0,0,1,0,4,0,1,0,0,21425116
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,63,"Maru, Yoshihiro",CF,2,10,8,0.375,0.500,0.750,1.250,2,1,3,2,0,0,1,6,1,0,2,0,2,0,0,0,0,21425116
+2013,Regular Season,Hiroshima Toyo Carp,63,"Maru, Yoshihiro",CF,140,601,506,0.273,0.376,0.425,0.801,82,58,138,94,25,5,14,215,29,15,85,5,103,6,1,5,4,21425116
+2013,Regular Season,Fukuoka Softbank Hawks,68,"Fukumoto, Atsushi",2B,15,41,36,0.222,0.216,0.278,0.494,2,4,8,7,0,1,0,10,0,1,0,0,3,0,0,4,1,21425118
+2013,Regular Season,Saitama Seibu Lions,4,"Misawa, Masaru",2B,5,14,12,0.083,0.214,0.083,0.297,1,1,1,1,0,0,0,1,0,0,1,0,6,0,1,0,0,21425131
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,19,"Nomura, Yusuke",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21425135
+2013,Regular Season,Hiroshima Toyo Carp,19,"Nomura, Yusuke",P,23,53,40,0.150,0.186,0.250,0.436,4,8,6,4,1,0,1,10,0,0,2,0,18,1,0,10,1,21425135
+2013,Regular Season,Orix Buffaloes,64,"Morimoto, Shota",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21425137
+2013,Regular Season,Yokohama DeNA Baystars,8,"Koike, Masaaki",PH,14,30,27,0.222,0.222,0.444,0.666,3,3,6,4,0,0,2,12,0,0,0,0,6,0,0,3,0,21523888
+2013,Climax Series - First Stage,Hanshin Tigers,63,"Kato, Kosuke",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525113
+2013,Regular Season,Hanshin Tigers,63,"Kato, Kosuke",P,61,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525113
+2013,Regular Season,Chiba Lotte Marines,0,"Ogino, Tadahiro",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525114
+2013,Regular Season,Yokohama DeNA Baystars,38,"Kamiuchi, Yasushi",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525115
+2013,Climax Series - Final Stage,Chiba Lotte Marines,19,"Karakawa, Yuki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525116
+2013,Climax Series - First Stage,Chiba Lotte Marines,19,"Karakawa, Yuki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525116
+2013,Regular Season,Chiba Lotte Marines,19,"Karakawa, Yuki",P,27,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,21525116
+2013,Regular Season,Tohoku Rakuten Golden Eagles,54,"Kato, Daisuke",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525117
+2013,Regular Season,Fukuoka Softbank Hawks,61,"Kimu, Muyon",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525118
+2013,Regular Season,Yokohama DeNA Baystars,16,"Kaga, Shigeru",P,48,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525131
+2013,Regular Season,Chunichi Dragons,51,"Kawasaki, Takahiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21525135
+2013,Regular Season,Tokyo Yakult Swallows,15,"Muranaka, Kyohei",P,25,33,27,0.037,0.071,0.037,0.108,1,0,1,1,0,0,0,1,0,0,1,0,17,0,0,5,0,21625112
+2013,Regular Season,Chunichi Dragons,26,"Yamauchi, Soma",P,9,15,11,0.091,0.231,0.364,0.595,2,2,1,0,0,0,1,4,0,0,2,0,7,1,0,2,0,21625116
+2013,Regular Season,Tokyo Yakult Swallows,70,"Yagi, Ryosuke",P,26,49,42,0.071,0.071,0.095,0.166,0,2,3,2,1,0,0,4,0,0,0,0,26,0,0,7,0,21625118
+2013,Regular Season,Yomiuri Giants,30,"Miyaguni, Ryosuke",P,17,31,29,0.103,0.103,0.172,0.275,0,2,3,2,0,1,0,5,0,0,0,0,14,1,0,2,0,21625133
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,12,"Matsumoto, Go",3B,2,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,21625135
+2013,Regular Season,Chunichi Dragons,60,"Clark, Matt",1B,132,467,407,0.238,0.328,0.457,0.785,56,70,97,58,14,0,25,186,0,0,49,1,130,7,7,0,4,21625137
+2013,Regular Season,Yokohama DeNA Baystars,10,"Tsuruoka, Kazunari",C,108,318,280,0.250,0.312,0.346,0.658,27,40,70,49,18,0,3,97,1,0,26,3,50,7,1,7,4,21723882
+2013,Regular Season,Yokohama DeNA Baystars,59,"Kurobane, Toshiki",C,30,68,60,0.267,0.333,0.383,0.716,6,5,16,13,1,0,2,23,0,0,5,0,16,2,1,2,0,21725112
+2013,Climax Series - First Stage,Saitama Seibu Lions,65,"Saito, Shogo",PR,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21725116
+2013,Regular Season,Saitama Seibu Lions,65,"Saito, Shogo",PR,8,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,21725116
+2013,Climax Series - First Stage,Hanshin Tigers,00,"Shibata, Kohei",RF,2,3,3,0.667,0.667,0.667,1.334,0,1,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,21725118
+2013,Regular Season,Hanshin Tigers,00,"Shibata, Kohei",RF,36,80,70,0.229,0.280,0.286,0.566,8,5,16,14,1,0,1,20,4,1,5,0,14,0,0,5,0,21725118
+2013,Climax Series - First Stage,Saitama Seibu Lions,58,"Kumashiro, Masato",RF,1,2,2,0.500,0.500,1.000,1.500,0,2,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,21725133
+2013,Regular Season,Saitama Seibu Lions,58,"Kumashiro, Masato",RF,104,99,92,0.239,0.286,0.261,0.547,11,6,22,20,2,0,0,24,4,2,6,0,25,0,0,1,0,21725133
+2013,Regular Season,Yokohama DeNA Baystars,29,"Shirasaki, Hiroyuki",3B,47,60,52,0.212,0.268,0.231,0.499,16,1,11,10,1,0,0,12,0,1,4,0,11,2,0,4,0,21725137
+2013,Regular Season,Tokyo Yakult Swallows,31,"Matsumoto, Yuichi",1B,44,153,139,0.309,0.368,0.417,0.785,19,25,43,37,1,1,4,58,0,0,10,1,17,4,3,1,0,21823888
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,1,"Yoh, Daikan",CF,144,658,574,0.282,0.367,0.430,0.797,93,67,162,115,27,2,18,247,47,10,69,2,142,9,9,4,2,21825112
+2013,Regular Season,Orix Buffaloes,42,"Schultz, Mike",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21825116
+2013,Regular Season,Chunichi Dragons,3,"Yoshikawa, Daiki",PR,15,15,12,0.250,0.250,0.250,0.500,4,0,3,3,0,0,0,3,1,0,0,0,5,0,0,3,0,21825133
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,3,"Mcgehee, Casey",3B,4,16,13,0.385,0.500,0.615,1.115,1,2,5,4,0,0,1,8,0,0,3,0,1,0,0,0,0,21825137
+2013,Japan Series,Tohoku Rakuten Golden Eagles,3,"Mcgehee, Casey",3B,7,30,25,0.240,0.367,0.280,0.647,0,0,6,5,1,0,0,7,0,0,5,1,6,3,0,0,0,21825137
+2013,Regular Season,Tohoku Rakuten Golden Eagles,3,"Mcgehee, Casey",3B,144,590,513,0.292,0.376,0.515,0.891,78,93,150,92,30,0,28,264,2,3,70,3,119,12,2,0,5,21825137
+2013,Climax Series - Final Stage,Chiba Lotte Marines,9,"Fukura, Kazuya",PH,2,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,21923889
+2013,Climax Series - First Stage,Chiba Lotte Marines,9,"Fukura, Kazuya",PH,2,4,4,0.500,0.500,0.500,1.000,0,0,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,21923889
+2013,Regular Season,Chiba Lotte Marines,9,"Fukura, Kazuya",PH,78,169,140,0.229,0.349,0.279,0.628,5,17,32,26,5,1,0,39,0,0,26,1,30,4,1,0,2,21923889
+2013,Regular Season,Tokyo Yakult Swallows,7,"Tanaka, Hiroyasu",2B,97,252,227,0.225,0.280,0.256,0.536,22,14,51,44,7,0,0,58,1,1,17,1,32,6,1,6,1,21925110
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,6,"Soyogi, Eishin",SS,3,12,12,0.167,0.167,0.250,0.417,1,1,2,1,1,0,0,3,1,0,0,0,4,0,0,0,0,21925112
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,6,"Soyogi, Eishin",SS,2,10,8,0.375,0.444,0.625,1.069,2,1,3,2,0,1,0,5,0,0,1,0,1,0,0,1,0,21925112
+2013,Regular Season,Hiroshima Toyo Carp,6,"Soyogi, Eishin",SS,117,427,359,0.304,0.371,0.429,0.800,53,42,109,76,27,0,6,154,6,5,38,0,58,7,3,23,4,21925112
+2013,Regular Season,Chunichi Dragons,12,"Shimizu, Akinobu",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21925114
+2013,Regular Season,Chiba Lotte Marines,00,"Takahama, Takuya",2B,6,14,14,0.214,0.214,0.214,0.428,1,0,3,3,0,0,0,3,0,0,0,0,2,1,0,0,0,21925116
+2013,Regular Season,Orix Buffaloes,9,"Sakaguchi, Tomotaka",LF,97,440,383,0.230,0.309,0.313,0.622,47,24,88,67,13,5,3,120,2,2,44,0,48,4,1,10,2,21925117
+2013,Climax Series - First Stage,Hanshin Tigers,1,"Toritani, Takashi",SS,2,8,7,0.143,0.250,0.143,0.393,1,0,1,1,0,0,0,1,1,0,1,0,1,0,0,0,0,21925119
+2013,Regular Season,Hanshin Tigers,1,"Toritani, Takashi",SS,144,643,532,0.282,0.402,0.410,0.812,74,65,150,106,30,4,10,218,15,7,104,1,65,12,4,1,2,21925119
+2013,Regular Season,Tohoku Rakuten Golden Eagles,40,"Tsuchiya, Tomohiro",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21925131
+2013,Regular Season,Yokohama DeNA Baystars,42,"Blanco, Tony",1B,134,558,483,0.333,0.416,0.634,1.050,74,136,161,98,22,0,41,306,1,1,62,6,118,10,9,0,4,23125118
+2013,Regular Season,Orix Buffaloes,40,"Mills, Brad",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23325137
+2013,Regular Season,Orix Buffaloes,17,"Tono, Shun",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035110
+2013,Regular Season,Tokyo Yakult Swallows,8,"Takeuchi, Shinichi",PH,76,165,146,0.185,0.259,0.301,0.560,8,19,27,16,8,0,3,44,1,0,14,0,23,3,1,3,1,31035112
+2013,Regular Season,Tohoku Rakuten Golden Eagles,46,"Tsuchiya, Teppei",RF,54,168,146,0.240,0.311,0.322,0.633,24,10,35,26,7,1,1,47,2,2,15,1,22,5,0,7,0,31035113
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,48,"Tanimoto, Keisuke",P,31,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,31035118
+2013,Climax Series - Final Stage,Yomiuri Giants,35,"Nishimura, Kentaro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035119
+2013,Japan Series,Yomiuri Giants,35,"Nishimura, Kentaro",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035119
+2013,Regular Season,Yomiuri Giants,35,"Nishimura, Kentaro",P,71,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035119
+2013,Regular Season,Tokyo Yakult Swallows,42,"Shichijo, Yuki",P,30,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31035133
+2013,Regular Season,Yomiuri Giants,28,"Takagi, Kyosuke",P,46,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31035135
+2013,Regular Season,Orix Buffaloes,99,"Nishikawa, Hiroki",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31035137
+2013,Regular Season,Saitama Seibu Lions,16,"Ishii, Kazuhisa",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31133885
+2013,Regular Season,Chiba Lotte Marines,63,"Aomatsu, Keiyo",PH,9,17,16,0.313,0.353,0.438,0.791,2,3,5,3,2,0,0,7,0,0,0,0,4,1,1,0,0,31135110
+2013,Regular Season,Hiroshima Toyo Carp,64,"Aizawa, Tsubasa",C,31,68,64,0.188,0.235,0.344,0.579,6,6,12,8,1,0,3,22,0,0,4,0,18,1,0,0,0,31135114
+2013,Regular Season,Tokyo Yakult Swallows,47,"Akagawa, Katsuki",P,9,14,13,0.154,0.154,0.154,0.308,0,0,2,2,0,0,0,2,0,0,0,0,4,0,0,1,0,31135118
+2013,Regular Season,Chunichi Dragons,68,"Akada, Ryuichiro",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31135131
+2013,Climax Series - First Stage,Saitama Seibu Lions,55,"Akiyama, Shogo",CF,3,13,11,0.182,0.308,0.182,0.490,0,0,2,2,0,0,0,2,0,0,1,0,1,1,1,0,0,31135133
+2013,Regular Season,Saitama Seibu Lions,55,"Akiyama, Shogo",CF,144,634,564,0.270,0.334,0.408,0.742,89,58,152,107,25,7,13,230,13,6,49,1,89,8,7,12,2,31135133
+2013,Regular Season,Orix Buffaloes,3,"Adachi, Ryoichi",SS,131,470,395,0.235,0.299,0.316,0.615,52,30,93,73,13,2,5,125,16,5,27,1,80,4,9,38,1,31135135
+2013,Regular Season,Yokohama DeNA Baystars,31,"Akahori, Daichi",LF,5,8,7,0.143,0.125,0.286,0.411,0,1,1,0,1,0,0,2,0,0,0,0,2,0,0,0,1,31135137
+2013,Regular Season,Orix Buffaloes,34,"Nakayama, Shinya",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31235112
+2013,Regular Season,Tokyo Yakult Swallows,33,"Hatakeyama, Kazuhiro",1B,99,393,360,0.219,0.279,0.369,0.648,28,51,79,49,18,0,12,133,0,0,30,1,69,10,0,2,1,31235113
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,34,"Nakata, Ren",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31235118
+2013,Regular Season,Hiroshima Toyo Carp,34,"Nakata, Ren",P,15,1,1,1.000,1.000,2.000,3.000,1,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,0,31235118
+2013,Regular Season,Yokohama DeNA Baystars,49,"Fukuda, Takehiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31235131
+2013,Regular Season,Hiroshima Toyo Carp,56,"Nakazaki, Shota",P,17,14,11,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,3,0,31235133
+2013,Regular Season,Chunichi Dragons,35,"Tsuji, Takehiko",P,13,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31235135
+2013,Climax Series - First Stage,Hanshin Tigers,49,"Imanari, Ryota",RF,2,5,4,0.500,0.600,0.500,1.100,0,1,2,2,0,0,0,2,0,0,1,0,1,0,0,0,0,31335112
+2013,Regular Season,Hanshin Tigers,49,"Imanari, Ryota",RF,88,215,185,0.265,0.346,0.357,0.703,11,17,49,36,10,2,1,66,2,2,25,0,37,7,0,1,4,31335112
+2013,Regular Season,Yomiuri Giants,52,"Inzen, Tomoya",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335114
+2013,Regular Season,Fukuoka Softbank Hawks,21,"Iwasaki, Sho",P,47,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335116
+2013,Regular Season,Chunichi Dragons,37,"Iwasaki, Kyohei",PR,54,57,49,0.286,0.352,0.347,0.699,15,2,14,13,0,0,1,17,8,6,5,0,10,2,0,3,0,31335118
+2013,Regular Season,Fukuoka Softbank Hawks,2,"Imamiya, Kenta",SS,143,600,491,0.253,0.312,0.346,0.658,57,43,124,92,23,4,5,170,10,3,35,1,94,7,9,62,3,31335131
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,16,"Inui, Masahiro",P,19,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335133
+2013,Japan Series,Yomiuri Giants,65,"Imamura, Nobutaka",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335135
+2013,Regular Season,Yomiuri Giants,65,"Imamura, Nobutaka",P,3,5,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,31335135
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,0,"Uemoto, Takashi",3B,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31335137
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,0,"Uemoto, Takashi",3B,1,0,0,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31335137
+2013,Regular Season,Hiroshima Toyo Carp,0,"Uemoto, Takashi",3B,30,30,26,0.077,0.143,0.115,0.258,4,2,2,1,1,0,0,3,0,0,1,0,5,1,1,2,0,31335137
+2013,Regular Season,Chunichi Dragons,5,"Wada, Kazuhiro",LF,142,581,495,0.275,0.370,0.434,0.804,63,76,136,95,21,2,18,215,2,2,77,1,63,26,2,0,7,31433884
+2013,Climax Series - First Stage,Hanshin Tigers,24,"Hiyama, Shinjiro",PH,2,2,2,0.500,0.500,2.000,2.500,1,2,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,31433885
+2013,Regular Season,Hanshin Tigers,24,"Hiyama, Shinjiro",PH,57,59,51,0.196,0.305,0.275,0.580,0,13,10,6,4,0,0,14,0,0,6,1,12,2,2,0,0,31433885
+2013,Regular Season,Yomiuri Giants,29,"Fukuda, Satoshi",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31435112
+2013,Regular Season,Tokyo Yakult Swallows,54,"Mizuta, Keisuke",PH,5,7,7,0.143,0.143,0.571,0.714,1,1,1,0,0,0,1,4,0,0,0,0,2,0,0,0,0,31435113
+2013,Regular Season,Yomiuri Giants,0,"Fujimura, Daisuke",2B,40,72,68,0.191,0.225,0.206,0.431,8,1,13,12,1,0,0,14,4,1,3,0,13,0,0,1,0,31435116
+2013,Climax Series - First Stage,Hanshin Tigers,7,"Nishioka, Tsuyoshi",2B,2,8,8,0.125,0.125,0.500,0.625,1,1,1,0,0,0,1,4,0,0,0,0,1,2,0,0,0,31435117
+2013,Regular Season,Hanshin Tigers,7,"Nishioka, Tsuyoshi",2B,122,549,497,0.290,0.346,0.382,0.728,57,44,144,109,28,3,4,190,11,3,45,2,65,6,1,0,6,31435117
+2013,Regular Season,Chunichi Dragons,9,"Nomoto, Kei",PH,14,19,18,0.167,0.167,0.167,0.334,0,2,3,3,0,0,0,3,0,0,0,0,7,0,0,1,0,31435118
+2013,Regular Season,Tokyo Yakult Swallows,57,"Matsui, Jun",RF,11,32,30,0.233,0.281,0.267,0.548,1,0,7,6,1,0,0,8,0,1,1,1,8,0,1,0,0,31435131
+2013,Regular Season,Hiroshima Toyo Carp,11,"Fukui, Yuya",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31435133
+2013,Japan Series,Tohoku Rakuten Golden Eagles,90,"Miyagawa, Sho",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31435137
+2013,Regular Season,Tohoku Rakuten Golden Eagles,90,"Miyagawa, Sho",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31435137
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,40,"Kura, Yoshikazu",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31533886
+2013,Regular Season,Hiroshima Toyo Carp,40,"Kura, Yoshikazu",C,39,75,64,0.234,0.319,0.297,0.616,4,4,15,12,2,1,0,19,0,0,6,0,14,1,2,3,0,31533886
+2013,Regular Season,Chiba Lotte Marines,39,"Kawamoto, Ryohei",C,47,103,91,0.187,0.237,0.209,0.446,5,5,17,15,2,0,0,19,1,0,6,0,25,1,0,6,0,31535110
+2013,Regular Season,Hiroshima Toyo Carp,5,"Kurihara, Kenta",1B,24,69,59,0.203,0.319,0.220,0.539,3,4,12,11,1,0,0,13,0,0,10,0,12,3,0,0,0,31535111
+2013,Regular Season,Tohoku Rakuten Golden Eagles,28,"Katayama, Hiroshi",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535112
+2013,Climax Series - First Stage,Saitama Seibu Lions,56,"Onizaki, Yuji",SS,3,11,11,0.364,0.364,0.364,0.728,1,0,4,4,0,0,0,4,0,0,0,0,2,0,0,0,0,31535116
+2013,Regular Season,Saitama Seibu Lions,56,"Onizaki, Yuji",SS,105,301,271,0.266,0.302,0.336,0.638,29,24,72,60,7,3,2,91,6,2,12,0,73,4,3,13,2,31535116
+2013,Regular Season,Saitama Seibu Lions,34,"Osada, Shuichiro",P,16,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535117
+2013,Regular Season,Yokohama DeNA Baystars,64,"Osada, Shuichiro",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535117
+2013,Regular Season,Fukuoka Softbank Hawks,23,"Kidokoro, Ryuma",RF,34,6,6,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,31535119
+2013,Climax Series - First Stage,Saitama Seibu Lions,30,"Okamoto, Yosuke",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535131
+2013,Regular Season,Saitama Seibu Lions,30,"Okamoto, Yosuke",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535131
+2013,Regular Season,Tohoku Rakuten Golden Eagles,21,"Kamata, Yoshinao",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31535135
+2013,Regular Season,Hiroshima Toyo Carp,1,"Maeda, Tomonori",PH,12,12,11,0.364,0.417,0.364,0.781,0,4,4,4,0,0,0,4,0,0,0,0,2,0,1,0,0,31633881
+2013,Climax Series - First Stage,Saitama Seibu Lions,18,"Wakui, Hideaki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31635110
+2013,Regular Season,Saitama Seibu Lions,18,"Wakui, Hideaki",P,45,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31635110
+2013,Regular Season,Chiba Lotte Marines,12,"Yoshimi, Yuji",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31635113
+2013,Regular Season,Chunichi Dragons,55,"Fukuda, Nobumasa",PH,4,7,7,0.286,0.286,0.286,0.572,0,0,2,2,0,0,0,2,0,0,0,0,2,0,0,0,0,31635114
+2013,Regular Season,Chunichi Dragons,29,"Yamai, Daisuke",P,23,30,27,0.111,0.111,0.111,0.222,0,0,3,3,0,0,0,3,0,0,0,0,14,2,0,3,0,31635115
+2013,Regular Season,Fukuoka Softbank Hawks,39,"Yamanaka, Hirofumi",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31635137
+2013,Climax Series - Final Stage,Chiba Lotte Marines,22,"Satozaki, Tomoya",C,4,12,10,0.200,0.200,0.300,0.500,0,0,2,1,1,0,0,3,0,0,0,0,3,2,0,2,0,31733888
+2013,Climax Series - First Stage,Chiba Lotte Marines,22,"Satozaki, Tomoya",C,3,9,8,0.250,0.333,0.500,0.833,2,1,2,0,2,0,0,4,0,0,0,0,2,0,1,0,0,31733888
+2013,Regular Season,Chiba Lotte Marines,22,"Satozaki, Tomoya",C,48,157,134,0.224,0.299,0.321,0.620,13,17,30,23,4,0,3,43,0,0,11,1,35,5,5,3,4,31733888
+2013,Regular Season,Tokyo Yakult Swallows,5,"Kawabata, Shingo",3B,70,312,267,0.311,0.393,0.408,0.801,36,37,83,69,7,2,5,109,2,2,37,1,28,6,0,7,1,31735112
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,26,"Kaneto, Norihito",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31735114
+2013,Japan Series,Tohoku Rakuten Golden Eagles,26,"Kaneto, Norihito",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31735114
+2013,Regular Season,Tohoku Rakuten Golden Eagles,26,"Kaneto, Norihito",P,39,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31735114
+2013,Regular Season,Orix Buffaloes,13,"Kuwahara, Kentaro",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31735116
+2013,Climax Series - Final Stage,Chiba Lotte Marines,48,"Sato, Takahiko",PH,1,3,3,0.333,0.333,1.333,1.666,1,3,1,0,0,0,1,4,0,0,0,0,1,0,0,0,0,31735119
+2013,Regular Season,Chiba Lotte Marines,48,"Sato, Takahiko",PH,30,54,51,0.255,0.296,0.471,0.767,6,9,13,6,5,0,2,24,0,1,3,0,15,3,0,0,0,31735119
+2013,Regular Season,Tokyo Yakult Swallows,16,"Kiya, Ryohei",P,28,18,14,0.143,0.294,0.143,0.437,1,1,2,2,0,0,0,2,0,0,3,0,7,1,0,1,0,31735135
+2013,Regular Season,Fukuoka Softbank Hawks,54,"Yanase, Akihiro",P,44,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31835112
+2013,Regular Season,Fukuoka Softbank Hawks,44,"Yanagita, Yuki",CF,104,337,298,0.295,0.377,0.483,0.860,48,41,88,56,19,2,11,144,10,1,32,0,96,3,7,0,0,31835133
+2013,Regular Season,Hiroshima Toyo Carp,58,"Socolovich, Miguel",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31835137
+2013,Regular Season,Orix Buffaloes,6,"Takahashi, Shinji",PH,51,99,96,0.219,0.242,0.313,0.555,4,9,21,14,6,0,1,30,1,0,2,0,18,2,1,0,0,31933884
+2013,Regular Season,Orix Buffaloes,28,"Komatsu, Satoshi",P,27,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31935114
+2013,Climax Series - Final Stage,Yomiuri Giants,18,"Sugiuchi, Toshiya",P,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,31935115
+2013,Japan Series,Yomiuri Giants,18,"Sugiuchi, Toshiya",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31935115
+2013,Regular Season,Yomiuri Giants,18,"Sugiuchi, Toshiya",P,24,50,44,0.136,0.170,0.159,0.329,2,3,6,5,1,0,0,7,0,0,2,0,23,0,0,3,1,31935115
+2013,Regular Season,Chunichi Dragons,69,"Kobayashi, Masato",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31935117
+2013,Regular Season,Tohoku Rakuten Golden Eagles,24,"Takahori, Kazuya",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31935131
+2013,Regular Season,Yokohama DeNA Baystars,12,"Kobayashi, Hiroshi",P,24,13,12,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,1,0,31935133
+2013,Climax Series - First Stage,Saitama Seibu Lions,43,"Takahashi, Tomomi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31935137
+2013,Regular Season,Saitama Seibu Lions,43,"Takahashi, Tomomi",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31935137
+2013,Regular Season,Hanshin Tigers,12,"Watanabe, Ryo",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33135112
+2013,Climax Series - First Stage,Saitama Seibu Lions,26,"Sarfate, Dennis",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33135133
+2013,Regular Season,Saitama Seibu Lions,26,"Sarfate, Dennis",P,58,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33135133
+2013,Regular Season,Hiroshima Toyo Carp,41,"Lewis, Fred",LF,79,300,265,0.268,0.350,0.385,0.735,36,20,71,48,19,0,4,102,12,3,31,0,73,7,3,0,1,33135137
+2013,Regular Season,Tokyo Yakult Swallows,53,"Roman, Orlando",P,30,16,13,0.077,0.077,0.154,0.231,0,0,1,0,1,0,0,2,0,0,0,0,4,0,0,3,0,33335135
+2013,Regular Season,Chunichi Dragons,65,"Madrigal, Warner",P,31,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,33335137
+2013,Regular Season,Orix Buffaloes,91,"Maestri, Alessandro",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33535135
+2013,Regular Season,Tohoku Rakuten Golden Eagles,00,"Hoshino, Tomoki",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41043888
+2013,Regular Season,Hanshin Tigers,46,"Tsuru, Naoto",P,20,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,41045112
+2013,Regular Season,Fukuoka Softbank Hawks,12,"Takaya, Hiroaki",C,22,28,26,0.077,0.143,0.077,0.220,1,1,2,2,0,0,0,2,0,0,2,0,9,1,0,0,0,41045114
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,21,"Takeda, Hisashi",P,47,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41045117
+2013,Regular Season,Tohoku Rakuten Golden Eagles,56,"Nakagawa, Taishi",PH,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41045118
+2013,Regular Season,Tohoku Rakuten Golden Eagles,55,"Nishida, Tetsuro",SS,26,52,48,0.167,0.200,0.188,0.388,3,2,8,7,1,0,0,9,1,0,2,0,14,0,0,2,0,41045131
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,64,"Taniguchi, Yuya",RF,14,43,37,0.108,0.195,0.135,0.330,3,0,4,3,1,0,0,5,0,0,4,0,11,0,0,2,0,41045133
+2013,Regular Season,Saitama Seibu Lions,61,"Tashiro, Shotaro",PR,8,1,1,1.000,1.000,1.000,2.000,3,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,41045135
+2013,Climax Series - First Stage,Hanshin Tigers,19,"Fujinami, Shintaro",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41045137
+2013,Regular Season,Hanshin Tigers,19,"Fujinami, Shintaro",P,24,43,37,0.027,0.053,0.054,0.107,0,1,1,0,1,0,0,2,0,0,1,0,19,0,0,5,0,41045137
+2013,Climax Series - Final Stage,Chiba Lotte Marines,3,"Omura, Saburo",DH,3,10,9,0.000,0.100,0.000,0.100,1,0,0,0,0,0,0,0,0,0,1,0,4,0,0,0,0,41143880
+2013,Climax Series - First Stage,Chiba Lotte Marines,3,"Omura, Saburo",DH,3,10,7,0.429,0.600,0.857,1.457,2,1,3,2,0,0,1,6,0,0,3,0,1,1,0,0,0,41143880
+2013,Regular Season,Chiba Lotte Marines,3,"Omura, Saburo",DH,73,216,184,0.245,0.335,0.375,0.710,17,24,45,31,9,0,5,69,0,1,27,0,42,6,0,1,4,41143880
+2013,Regular Season,Chunichi Dragons,6,"Ibata, Hirokazu",SS,100,376,326,0.236,0.323,0.273,0.596,30,18,77,67,9,0,1,89,0,2,38,0,51,13,4,8,0,41143886
+2013,Climax Series - First Stage,Hanshin Tigers,16,"Ando, Yuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41145115
+2013,Regular Season,Hanshin Tigers,16,"Ando, Yuya",P,58,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41145115
+2013,Regular Season,Chunichi Dragons,205,"Ito, Shingo",PH,4,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41145118
+2013,Regular Season,Yokohama DeNA Baystars,5,"Morimoto, Hichori",LF,4,5,5,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,41243888
+2013,Regular Season,Fukuoka Softbank Hawks,47,"Hoashi, Kazuyuki",P,19,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,41245113
+2013,Regular Season,Chiba Lotte Marines,38,"Nakago, Taiki",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41245114
+2013,Regular Season,Tokyo Yakult Swallows,32,"Nitta, Genki",PH,14,18,17,0.353,0.389,0.529,0.918,4,7,6,5,0,0,1,9,0,0,1,0,5,0,0,0,0,41245118
+2013,Regular Season,Orix Buffaloes,60,"Maeda, Yuji",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41245131
+2013,Regular Season,Tokyo Yakult Swallows,30,"Nishida, Akihisa",C,5,8,8,0.125,0.125,0.125,0.250,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,41245133
+2013,Regular Season,Yokohama DeNA Baystars,68,"Tomita, Kosuke",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41245135
+2013,Regular Season,Yokohama DeNA Baystars,17,"Mishima, Kazuki",P,34,37,30,0.133,0.161,0.133,0.294,1,0,4,4,0,0,0,4,0,0,1,0,13,1,0,6,0,41245137
+2013,Regular Season,Chunichi Dragons,11,"Kawakami, Kenshin",P,5,9,8,0.000,0.111,0.000,0.111,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,0,0,41343886
+2013,Regular Season,Fukuoka Softbank Hawks,51,"Kanazawa, Takehito",P,27,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41343888
+2013,Regular Season,Orix Buffaloes,19,"Kaneko, Chihiro",P,29,9,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,0,41345110
+2013,Regular Season,Fukuoka Softbank Hawks,00,"Ejiri, Shintaro",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41345115
+2013,Regular Season,Fukuoka Softbank Hawks,17,"Oba, Shota",P,11,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41345116
+2013,Regular Season,Yomiuri Giants,55,"Ohta, Taishi",LF,21,38,31,0.161,0.250,0.161,0.411,3,2,5,5,0,0,0,5,1,0,4,1,9,0,0,2,1,41345118
+2013,Regular Season,Chiba Lotte Marines,14,"Ohtani, Tomohisa",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41345131
+2013,Regular Season,Tohoku Rakuten Golden Eagles,36,"Enomoto, Aoi",PR,13,11,11,0.091,0.091,0.182,0.273,1,2,1,0,1,0,0,2,0,0,0,0,5,0,0,0,0,41345133
+2013,Regular Season,Tokyo Yakult Swallows,49,"Oba, Tatsuya",P,5,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,41345137
+2013,Regular Season,Tokyo Yakult Swallows,2,"Aikawa, Ryoji",C,66,239,219,0.279,0.319,0.420,0.739,23,30,61,42,13,0,6,92,1,1,14,1,42,2,0,4,2,41443880
+2013,Regular Season,Yokohama DeNA Baystars,18,"Miura, Daisuke",P,27,53,49,0.143,0.143,0.184,0.327,0,2,7,5,2,0,0,9,0,0,0,0,20,1,0,4,0,41443885
+2013,Regular Season,Fukuoka Softbank Hawks,46,"Honda, Yuichi",2B,120,471,406,0.283,0.352,0.347,0.699,56,37,115,97,12,4,2,141,22,6,42,1,62,1,2,19,2,41445112
+2013,Regular Season,Orix Buffaloes,2,"Hara, Takuya",2B,67,174,154,0.253,0.320,0.292,0.612,11,8,39,34,4,1,0,45,0,1,15,0,29,6,0,5,0,41445114
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,25,"Miyanishi, Naoki",P,57,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41445116
+2013,Regular Season,Chunichi Dragons,59,"Yachi, Kento",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41445131
+2013,Climax Series - First Stage,Saitama Seibu Lions,35,"Makita, Kazuhisa",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41445133
+2013,Regular Season,Saitama Seibu Lions,35,"Makita, Kazuhisa",P,26,6,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,0,41445133
+2013,Climax Series - Final Stage,Chiba Lotte Marines,61,"Kakunaka, Katsuya",RF,4,16,15,0.267,0.267,0.333,0.600,0,0,4,3,1,0,0,5,0,0,0,0,1,0,0,1,0,41545114
+2013,Climax Series - First Stage,Chiba Lotte Marines,61,"Kakunaka, Katsuya",RF,3,10,10,0.300,0.300,0.500,0.800,0,2,3,2,0,1,0,5,0,0,0,0,2,0,0,0,0,41545114
+2013,Regular Season,Chiba Lotte Marines,61,"Kakunaka, Katsuya",RF,125,525,462,0.288,0.360,0.403,0.763,65,43,133,96,26,6,5,186,10,6,50,1,63,3,4,6,3,41545114
+2013,Regular Season,Orix Buffaloes,39,"Kamoshida, Takashi",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41545115
+2013,Regular Season,Tohoku Rakuten Golden Eagles,59,"Kikuchi, Yasunori",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41545116
+2013,Regular Season,Hanshin Tigers,39,"Komiyama, Shinji",C,14,12,12,0.167,0.167,0.167,0.334,0,0,2,2,0,0,0,2,0,0,0,0,2,0,0,0,0,41545119
+2013,Regular Season,Orix Buffaloes,46,"Kawabata, Takayoshi",LF,74,257,217,0.244,0.315,0.313,0.628,28,16,53,40,12,0,1,68,7,1,18,0,34,2,5,16,1,41545135
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,59,"Kawano, Hidekazu",P,33,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41545137
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,0,"Moriyama, Makoto",LF,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41645112
+2013,Japan Series,Tohoku Rakuten Golden Eagles,0,"Moriyama, Makoto",LF,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41645112
+2013,Regular Season,Tohoku Rakuten Golden Eagles,0,"Moriyama, Makoto",LF,89,95,81,0.272,0.344,0.272,0.616,20,9,22,22,0,0,0,22,11,2,8,0,10,0,1,5,0,41645112
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,31,"Keppel, Bobby",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41645131
+2013,Regular Season,Orix Buffaloes,24,"Miyazaki, Yuki",LF,53,146,121,0.223,0.331,0.273,0.604,11,6,27,23,3,0,1,33,0,2,19,0,39,2,1,4,1,41645133
+2013,Regular Season,Hanshin Tigers,42,"Conrad, Brooks",3B,24,69,57,0.175,0.319,0.281,0.600,1,0,10,4,6,0,0,16,0,0,11,2,23,1,1,0,0,41645137
+2013,Regular Season,Yokohama DeNA Baystars,52,"Tamura, Hitoshi",LF,96,277,238,0.261,0.354,0.466,0.820,26,39,62,38,11,1,12,111,1,1,33,0,54,5,3,0,3,41743880
+2013,Regular Season,Tohoku Rakuten Golden Eagles,4,"Takasu, Yosuke",3B,21,55,50,0.160,0.189,0.180,0.369,3,3,8,7,1,0,0,9,0,0,2,0,6,2,0,2,1,41743886
+2013,Regular Season,Tohoku Rakuten Golden Eagles,43,"Kosai, Yusuke",1B,22,47,46,0.239,0.255,0.370,0.625,3,3,11,7,3,0,1,17,0,0,1,0,7,0,0,0,0,41745112
+2013,Regular Season,Saitama Seibu Lions,37,"Sakamoto, Yataro",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41745113
+2013,Regular Season,Saitama Seibu Lions,51,"Kimura, Fumikazu",PH,11,16,14,0.214,0.267,0.643,0.910,1,1,3,0,1,1,1,9,0,0,1,0,8,0,0,1,0,41745114
+2013,Regular Season,Hiroshima Toyo Carp,32,"Shirahama, Yuta",C,7,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,41745119
+2013,Regular Season,Chiba Lotte Marines,43,"Kurosawa, Shota",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41745133
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,54,"Kondoh, Kensuke",C,32,80,66,0.152,0.269,0.152,0.421,7,2,10,10,0,0,0,10,2,0,11,0,14,4,0,2,1,41745135
+2013,Climax Series - Final Stage,Yomiuri Giants,19,"Sugano, Tomoyuki",P,1,3,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,41745137
+2013,Japan Series,Yomiuri Giants,19,"Sugano, Tomoyuki",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41745137
+2013,Regular Season,Yomiuri Giants,19,"Sugano, Tomoyuki",P,27,56,48,0.083,0.120,0.104,0.224,2,4,4,3,1,0,0,5,0,0,2,0,20,0,0,6,0,41745137
+2013,Regular Season,Chunichi Dragons,19,"Yoshimi, Kazuki",P,6,14,13,0.077,0.077,0.077,0.154,0,0,1,1,0,0,0,1,0,0,0,0,5,0,0,1,0,41845112
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,34,"Yoshikawa, Mitsuo",P,26,9,8,0.125,0.125,0.125,0.250,0,1,1,1,0,0,0,1,0,0,0,0,3,0,0,1,0,41845114
+2013,Climax Series - First Stage,Hanshin Tigers,97,"Tamaki, Yutaka",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41945110
+2013,Regular Season,Hanshin Tigers,97,"Tamaki, Yutaka",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41945110
+2013,Climax Series - First Stage,Hanshin Tigers,45,"Shimizu, Takashi",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41945114
+2013,Regular Season,Hanshin Tigers,45,"Shimizu, Takashi",C,39,94,90,0.233,0.258,0.289,0.547,8,3,21,17,3,1,0,26,0,0,1,0,29,2,2,1,0,41945114
+2013,Regular Season,Saitama Seibu Lions,48,"Takekuma, Shota",P,9,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41945116
+2013,Regular Season,Yokohama DeNA Baystars,25,"Tsutsugo, Yoshitomo",3B,23,56,51,0.216,0.286,0.294,0.580,5,3,11,9,1,0,1,15,0,0,3,0,13,2,2,0,0,41945131
+2013,Climax Series - Final Stage,Chiba Lotte Marines,45,"Tamura, Tatsuhiro",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41945137
+2013,Climax Series - First Stage,Chiba Lotte Marines,45,"Tamura, Tatsuhiro",C,2,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41945137
+2013,Regular Season,Chiba Lotte Marines,45,"Tamura, Tatsuhiro",C,7,7,7,0.286,0.286,0.286,0.572,0,1,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,41945137
+2013,Japan Series,Yomiuri Giants,54,"Houlton, Dennis",P,1,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,43145116
+2013,Regular Season,Yomiuri Giants,54,"Houlton, Dennis",P,18,34,31,0.065,0.121,0.097,0.218,1,0,2,1,1,0,0,3,0,0,2,0,19,1,0,1,0,43145116
+2013,Climax Series - Final Stage,Yomiuri Giants,42,"Bowker, John",LF,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,43145135
+2013,Japan Series,Yomiuri Giants,42,"Bowker, John",LF,5,13,11,0.091,0.167,0.091,0.258,0,0,1,1,0,0,0,1,0,0,1,0,3,0,0,1,0,43145135
+2013,Regular Season,Yomiuri Giants,42,"Bowker, John",LF,105,295,271,0.262,0.315,0.502,0.817,27,46,71,37,17,3,14,136,0,0,19,2,79,8,3,0,2,43145135
+2013,Regular Season,Tohoku Rakuten Golden Eagles,69,"Duckworth, Brandon J.",P,18,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,43545135
+2013,Regular Season,Tokyo Yakult Swallows,6,"Miyamoto, Shinya",PH,104,259,237,0.266,0.308,0.270,0.578,13,17,63,62,1,0,0,64,1,0,14,0,28,8,1,6,1,51053880
+2013,Climax Series - First Stage,Hanshin Tigers,50,"Fujii, Akihito",C,2,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51053888
+2013,Regular Season,Hanshin Tigers,50,"Fujii, Akihito",C,112,343,298,0.258,0.317,0.292,0.609,21,24,77,69,7,0,1,87,1,0,27,2,43,7,0,15,3,51053888
+2013,Regular Season,Chunichi Dragons,20,"Nakata, Kenichi",P,40,26,24,0.250,0.280,0.292,0.572,1,2,6,5,1,0,0,7,0,0,1,0,8,1,0,1,0,51055110
+2013,Regular Season,Chunichi Dragons,36,"Tani, Tetsuya",SS,10,26,21,0.095,0.095,0.190,0.285,1,0,2,0,2,0,0,4,0,0,0,0,9,1,0,5,0,51055116
+2013,Regular Season,Tokyo Yakult Swallows,14,"Nakazawa, Masato",P,3,5,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,1,0,51055131
+2013,Regular Season,Yokohama DeNA Baystars,32,"Takajoh, Shuto",C,51,124,110,0.136,0.188,0.173,0.361,6,4,15,11,4,0,0,19,0,0,6,0,42,2,1,7,0,51055135
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,14,"Norimoto, Takahiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51055137
+2013,Japan Series,Tohoku Rakuten Golden Eagles,14,"Norimoto, Takahiro",P,3,2,1,0.000,0.500,0.000,0.500,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,51055137
+2013,Regular Season,Tohoku Rakuten Golden Eagles,14,"Norimoto, Takahiro",P,27,8,7,0.000,0.125,0.000,0.125,0,0,0,0,0,0,0,0,0,0,1,0,6,0,0,0,0,51055137
+2013,Climax Series - Final Stage,Chiba Lotte Marines,6,"Iguchi, Tadahito",1B,4,17,13,0.154,0.353,0.231,0.584,2,0,2,1,1,0,0,3,0,0,3,0,5,0,1,0,0,51153884
+2013,Climax Series - First Stage,Chiba Lotte Marines,6,"Iguchi, Tadahito",1B,3,11,9,0.333,0.364,1.000,1.364,2,4,3,1,0,0,2,9,0,0,1,0,2,0,0,0,1,51153884
+2013,Regular Season,Chiba Lotte Marines,6,"Iguchi, Tadahito",1B,135,566,485,0.297,0.390,0.511,0.901,68,83,144,88,31,2,23,248,4,3,67,2,81,13,10,0,4,51153884
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,10,"Akada, Shogo",LF,57,160,143,0.273,0.340,0.357,0.697,16,12,39,31,6,0,2,51,1,2,15,0,36,1,0,1,1,51153888
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,38,"Akamatsu, Masato",CF,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51155110
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,38,"Akamatsu, Masato",CF,1,0,0,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51155110
+2013,Regular Season,Hiroshima Toyo Carp,38,"Akamatsu, Masato",CF,85,60,54,0.204,0.232,0.241,0.473,16,3,11,9,2,0,0,13,12,4,1,0,9,0,1,4,0,51155110
+2013,Regular Season,Chunichi Dragons,14,"Asakura, Kenta",P,3,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51155111
+2013,Japan Series,Yomiuri Giants,43,"Aoki, Takahiro",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51155114
+2013,Regular Season,Yomiuri Giants,43,"Aoki, Takahiro",P,34,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,51155114
+2013,Regular Season,Hanshin Tigers,5,"Asai, Ryo",PH,46,55,50,0.220,0.264,0.300,0.564,5,5,11,9,1,0,1,15,0,0,2,0,7,3,1,2,0,51155115
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,68,"Asanuma, Toshinori",RF,6,4,4,0.500,0.500,0.500,1.000,3,0,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,51155116
+2013,Regular Season,Tokyo Yakult Swallows,58,"Abe, Kenta",P,18,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51155117
+2013,Climax Series - First Stage,Saitama Seibu Lions,32,"Asamura, Hideto",1B,3,14,12,0.500,0.500,0.583,1.083,2,3,6,5,1,0,0,7,0,1,1,0,1,1,0,0,1,51155118
+2013,Regular Season,Saitama Seibu Lions,32,"Asamura, Hideto",1B,144,620,543,0.317,0.388,0.554,0.942,85,110,172,102,38,5,27,301,14,8,61,3,88,9,5,7,4,51155118
+2013,Regular Season,Fukuoka Softbank Hawks,36,"Akashi, Kenji",1B,33,89,79,0.228,0.282,0.304,0.586,8,7,18,15,1,1,1,24,2,2,6,0,16,1,0,4,0,51155119
+2013,Regular Season,Hanshin Tigers,27,"Akiyama, Takumi",P,8,14,13,0.154,0.154,0.154,0.308,1,1,2,2,0,0,0,2,0,0,0,0,5,0,0,1,0,51155131
+2013,Climax Series - Final Stage,Yomiuri Giants,00,"Terauchi, Takayuki",2B,3,12,11,0.364,0.364,0.636,1.000,1,3,4,3,0,0,1,7,0,0,0,0,2,0,0,1,0,51255114
+2013,Japan Series,Yomiuri Giants,00,"Terauchi, Takayuki",2B,7,25,22,0.227,0.292,0.364,0.656,2,2,5,4,0,0,1,8,3,1,1,0,4,1,1,1,0,51255114
+2013,Regular Season,Yomiuri Giants,00,"Terauchi, Takayuki",2B,114,274,240,0.225,0.265,0.279,0.544,24,12,54,46,5,1,2,67,6,2,11,1,45,6,2,21,0,51255114
+2013,Regular Season,Tokyo Yakult Swallows,52,"Nakamura, Yuhei",C,84,286,239,0.234,0.325,0.322,0.647,17,24,56,45,5,2,4,77,1,1,30,2,37,8,3,12,2,51255118
+2013,Regular Season,Chunichi Dragons,39,"Mise, Koji",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51255119
+2013,Climax Series - First Stage,Hanshin Tigers,68,"Fujikawa, Shunsuke",CF,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51255131
+2013,Regular Season,Hanshin Tigers,68,"Fujikawa, Shunsuke",CF,119,216,192,0.292,0.320,0.349,0.669,30,9,56,47,7,2,0,67,8,5,8,0,19,2,0,16,0,51255131
+2013,Regular Season,Hanshin Tigers,21,"Iwata, Minoru",P,9,15,13,0.077,0.143,0.154,0.297,0,0,1,0,1,0,0,2,0,0,1,0,6,0,0,1,0,51355112
+2013,Regular Season,Tohoku Rakuten Golden Eagles,61,"Uezono, Keiji",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51355114
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,31,"Ishihara, Yoshiyuki",C,3,8,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51355115
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,31,"Ishihara, Yoshiyuki",C,2,9,7,0.286,0.375,0.286,0.661,0,0,2,2,0,0,0,2,0,0,0,0,3,0,1,1,0,51355115
+2013,Regular Season,Hiroshima Toyo Carp,31,"Ishihara, Yoshiyuki",C,121,398,327,0.248,0.350,0.339,0.689,32,35,81,65,9,0,7,111,0,2,45,2,76,12,8,15,3,51355115
+2013,Regular Season,Chunichi Dragons,28,"Iwata, Shinji",P,5,4,3,0.000,0.250,0.000,0.250,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,51355118
+2013,Regular Season,Saitama Seibu Lions,22,"Okamoto, Atsushi",P,20,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51355119
+2013,Regular Season,Hiroshima Toyo Carp,16,"Imamura, Takeru",P,57,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51355131
+2013,Regular Season,Hiroshima Toyo Carp,28,"Iwami, Yuki",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51355133
+2013,Regular Season,Saitama Seibu Lions,5,"Yamasaki, Koji",SS,45,64,58,0.155,0.183,0.207,0.390,4,5,9,6,3,0,0,12,0,0,2,0,8,2,0,4,0,51453888
+2013,Regular Season,Tokyo Yakult Swallows,21,"Matsuoka, Kenichi",P,34,15,12,0.083,0.083,0.083,0.166,0,0,1,1,0,0,0,1,0,0,0,0,8,0,0,3,0,51455110
+2013,Regular Season,Chunichi Dragons,4,"Fujii, Atsushi",LF,108,259,238,0.303,0.342,0.420,0.762,27,19,72,56,10,0,6,100,5,2,14,1,53,4,2,2,3,51455112
+2013,Regular Season,Saitama Seibu Lions,28,"Fujiwara, Ryohei",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51455116
+2013,Regular Season,Chiba Lotte Marines,68,"Hayasaka, Keisuke",2B,21,25,22,0.136,0.174,0.318,0.492,4,1,3,1,1,0,1,7,2,2,1,0,4,0,0,2,0,51455117
+2013,Climax Series - Final Stage,Yomiuri Giants,32,"Hashimoto, Itaru",RF,2,1,0,0.000,1.000,0.000,1.000,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,51455118
+2013,Japan Series,Yomiuri Giants,32,"Hashimoto, Itaru",RF,2,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,51455118
+2013,Regular Season,Yomiuri Giants,32,"Hashimoto, Itaru",RF,35,111,92,0.239,0.297,0.326,0.623,9,8,22,17,3,1,1,30,3,3,7,0,30,0,1,10,1,51455118
+2013,Regular Season,Chunichi Dragons,47,"Matsui, Masato",C,45,72,63,0.143,0.217,0.175,0.392,4,3,9,7,2,0,0,11,1,0,6,0,15,0,0,3,0,51455131
+2013,Regular Season,Yokohama DeNA Baystars,51,"Miyazaki, Toshiro",PH,33,58,52,0.250,0.310,0.404,0.714,7,5,13,9,2,0,2,21,0,0,2,0,11,1,3,0,1,51455137
+2013,Regular Season,Yokohama DeNA Baystars,30,"Kikuchi, Kazumasa",P,24,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51555110
+2013,Regular Season,Fukuoka Softbank Hawks,28,"Otonari, Kenji",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51555114
+2013,Regular Season,Yomiuri Giants,63,"Kasahara, Shoki",P,30,7,5,0.200,0.333,0.600,0.933,0,2,1,0,0,1,0,3,0,0,1,0,1,0,0,1,0,51555118
+2013,Regular Season,Chunichi Dragons,16,"Ogawa, Ryuya",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51555131
+2013,Regular Season,Yokohama DeNA Baystars,41,"Ohara, Shinji",P,58,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51555133
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,30,"Kagiya, Yohei",P,38,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51555137
+2013,Regular Season,Fukuoka Softbank Hawks,5,"Matsuda, Nobuhiro",3B,144,626,584,0.279,0.314,0.443,0.757,86,90,163,112,26,5,20,259,13,7,27,1,124,11,6,2,7,51655112
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,18,"Maeda, Kenta",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51655114
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,18,"Maeda, Kenta",P,1,3,3,0.667,0.667,0.667,1.334,1,0,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,51655114
+2013,Regular Season,Hiroshima Toyo Carp,18,"Maeda, Kenta",P,26,62,56,0.179,0.193,0.250,0.443,5,5,10,7,2,1,0,14,0,0,1,0,23,1,0,5,0,51655114
+2013,Climax Series - Final Stage,Yomiuri Giants,48,"Yano, Kenji",PH,1,1,0,0.000,1.000,0.000,1.000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,51655117
+2013,Japan Series,Yomiuri Giants,48,"Yano, Kenji",PH,4,7,6,0.167,0.286,0.667,0.953,1,1,1,0,0,0,1,4,0,0,0,0,1,0,1,0,0,51655117
+2013,Regular Season,Yomiuri Giants,48,"Yano, Kenji",PH,90,166,159,0.289,0.302,0.409,0.711,17,22,46,31,13,0,2,65,2,0,3,0,20,8,0,4,0,51655117
+2013,Regular Season,Yokohama DeNA Baystars,6,"Matsumoto, Keijiro",LF,72,166,154,0.247,0.266,0.357,0.623,14,14,38,30,3,1,4,55,0,1,4,0,34,2,0,8,0,51655118
+2013,Regular Season,Orix Buffaloes,30,"Mitsumata, Taiki",2B,21,14,10,0.100,0.308,0.200,0.508,2,2,1,0,1,0,0,2,0,0,3,0,4,0,0,1,0,51655133
+2013,Regular Season,Tokyo Yakult Swallows,40,"Furuno, Masato",P,10,9,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,51655135
+2013,Regular Season,Yomiuri Giants,27,"Sanematsu, Kazunari",C,41,73,65,0.246,0.319,0.369,0.688,6,6,16,10,5,0,1,24,0,0,6,0,20,1,1,1,0,51753888
+2013,Regular Season,Orix Buffaloes,18,"Kishida, Mamoru",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51755112
+2013,Climax Series - First Stage,Saitama Seibu Lions,1,"Kuriyama, Takumi",LF,3,12,9,0.333,0.417,0.778,1.195,2,5,3,1,1,0,1,7,0,0,1,0,1,0,1,0,1,51755115
+2013,Regular Season,Saitama Seibu Lions,1,"Kuriyama, Takumi",LF,144,637,527,0.279,0.396,0.414,0.810,77,73,147,103,29,3,12,218,6,3,99,2,96,8,6,1,4,51755115
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,4,"Kokubo, Tetsuya",PH,2,5,4,0.000,0.200,0.000,0.200,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,51755116
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,4,"Kokubo, Tetsuya",PH,1,1,1,1.000,1.000,3.000,4.000,1,2,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,51755116
+2013,Regular Season,Hiroshima Toyo Carp,4,"Kokubo, Tetsuya",PH,53,121,110,0.264,0.325,0.409,0.734,16,9,29,21,3,2,3,45,0,0,8,0,14,3,2,1,0,51755116
+2013,Regular Season,Saitama Seibu Lions,17,"Kikuchi, Yusei",P,17,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,51755131
+2013,Regular Season,Yokohama DeNA Baystars,37,"Kuwahara, Masayuki",PH,5,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,51755135
+2013,Regular Season,Yokohama DeNA Baystars,11,"Yamaguchi, Shun",P,44,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,51855112
+2013,Regular Season,Orix Buffaloes,32,"Dickson, Brandon",P,23,5,5,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51855137
+2013,Regular Season,Saitama Seibu Lions,13,"Nishiguchi, Fumiya",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51953880
+2013,Climax Series - Final Stage,Yomiuri Giants,24,"Takahashi, Yoshinobu",LF,3,9,7,0.000,0.222,0.000,0.222,0,0,0,0,0,0,0,0,0,0,2,0,3,1,0,0,0,51953886
+2013,Japan Series,Yomiuri Giants,24,"Takahashi, Yoshinobu",LF,6,22,20,0.150,0.227,0.200,0.427,0,1,3,2,1,0,0,4,0,0,1,0,8,0,1,0,0,51953886
+2013,Regular Season,Yomiuri Giants,24,"Takahashi, Yoshinobu",LF,68,197,165,0.303,0.416,0.533,0.949,23,34,50,33,6,1,10,88,0,0,31,2,34,4,1,0,0,51953886
+2013,Climax Series - Final Stage,Yomiuri Giants,6,"Sakamoto, Hayato",SS,3,10,10,0.200,0.200,0.600,0.800,1,2,2,0,1,0,1,6,0,0,0,0,3,0,0,0,0,51955114
+2013,Japan Series,Yomiuri Giants,6,"Sakamoto, Hayato",SS,7,28,25,0.200,0.259,0.280,0.539,1,0,5,3,2,0,0,7,0,0,2,0,10,0,0,1,0,51955114
+2013,Regular Season,Yomiuri Giants,6,"Sakamoto, Hayato",SS,144,620,554,0.265,0.334,0.394,0.728,73,54,147,101,33,1,12,218,24,4,55,1,87,11,4,4,3,51955114
+2013,Regular Season,Hanshin Tigers,61,"Tagami, Kenichi",PR,24,8,7,0.286,0.375,0.286,0.661,6,0,2,2,0,0,0,2,5,1,1,0,1,0,0,0,0,51955131
+2013,Japan Series,Yomiuri Giants,59,"Koyama, Yuki",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,51955133
+2013,Regular Season,Yomiuri Giants,59,"Koyama, Yuki",P,10,10,9,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,0,51955133
+2013,Climax Series - Final Stage,Chiba Lotte Marines,32,"Brazell, Craig",DH,3,6,6,0.167,0.167,0.667,0.834,1,2,1,0,0,0,1,4,0,0,0,0,2,0,0,0,0,53155116
+2013,Climax Series - First Stage,Chiba Lotte Marines,32,"Brazell, Craig",DH,3,9,9,0.111,0.111,0.111,0.222,0,0,1,1,0,0,0,1,0,0,0,0,4,0,0,0,0,53155116
+2013,Regular Season,Chiba Lotte Marines,32,"Brazell, Craig",DH,62,201,185,0.265,0.303,0.476,0.779,20,33,49,32,6,0,11,88,0,0,10,1,45,6,2,0,4,53155116
+2013,Climax Series - First Stage,Hanshin Tigers,9,"Murton, Matt",LF,2,8,8,0.125,0.125,0.125,0.250,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,53155131
+2013,Regular Season,Hanshin Tigers,9,"Murton, Matt",LF,143,613,566,0.314,0.361,0.484,0.845,55,85,178,121,37,1,19,274,6,1,42,1,81,25,1,0,4,53155131
+2013,Regular Season,Hanshin Tigers,95,"Zarate, Robert",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53155133
+2013,Regular Season,Chunichi Dragons,0,"Luna, Hector",3B,85,356,329,0.350,0.399,0.520,0.919,46,51,115,80,23,3,9,171,4,0,26,2,57,10,1,0,0,53155137
+2013,Regular Season,Yokohama DeNA Baystars,56,"Corcoran, Tim",P,7,11,11,0.091,0.091,0.091,0.182,0,0,1,1,0,0,0,1,0,0,0,0,5,0,0,0,0,53355137
+2013,Regular Season,Fukuoka Softbank Hawks,3,"Matsunaka, Nobuhiko",PH,9,10,10,0.200,0.200,0.200,0.400,0,1,2,2,0,0,0,2,0,0,0,0,3,0,0,0,0,61063884
+2013,Regular Season,Hanshin Tigers,14,"Nohmi, Atsushi",P,25,60,55,0.145,0.190,0.236,0.426,3,4,8,5,2,0,1,13,0,0,3,0,18,0,0,2,0,61065110
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,6,"Nakata, Sho",LF,108,459,407,0.305,0.381,0.550,0.931,67,73,124,81,14,1,28,224,1,2,45,4,77,11,6,0,1,61065116
+2013,Regular Season,Saitama Seibu Lions,52,"Takeyama, Shingo",PH,19,16,15,0.067,0.125,0.067,0.192,2,2,1,1,0,0,0,1,0,0,0,0,6,0,1,0,0,61065117
+2013,Regular Season,Saitama Seibu Lions,46,"Nakazaki, Yuta",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61065118
+2013,Regular Season,Yomiuri Giants,37,"Tahara, Seiji",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61065135
+2013,Regular Season,Orix Buffaloes,23,"Fushimi, Torai",C,17,30,28,0.250,0.276,0.393,0.669,1,2,7,5,1,0,1,11,0,0,1,0,5,0,0,1,0,61065137
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,44,"Ugumori, Atsushi",RF,22,51,50,0.140,0.157,0.160,0.317,2,1,7,6,1,0,0,8,0,0,1,0,10,0,0,0,0,61165110
+2013,Regular Season,Tokyo Yakult Swallows,9,"Iihara, Yasushi",RF,70,193,168,0.274,0.354,0.399,0.753,24,23,46,33,8,2,3,67,2,2,21,0,25,6,0,4,0,61165112
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,45,"Imanami, Takahiro",2B,91,150,128,0.242,0.306,0.273,0.579,11,14,31,27,4,0,0,35,0,1,13,0,11,1,0,6,3,61165114
+2013,Regular Season,Tohoku Rakuten Golden Eagles,48,"Ishimine, Tadashi",C,19,35,32,0.125,0.118,0.219,0.337,2,6,4,3,0,0,1,7,0,0,0,0,8,0,0,1,2,61165116
+2013,Climax Series - Final Stage,Chiba Lotte Marines,21,"Uchi, Tatsuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61165119
+2013,Climax Series - First Stage,Chiba Lotte Marines,21,"Uchi, Tatsuya",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61165119
+2013,Regular Season,Chiba Lotte Marines,21,"Uchi, Tatsuya",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61165119
+2013,Regular Season,Saitama Seibu Lions,53,"Ishikawa, Mitsugu",PH,16,25,23,0.130,0.167,0.130,0.297,5,1,3,3,0,0,0,3,1,0,1,0,6,0,0,1,0,61165131
+2013,Climax Series - Final Stage,Chiba Lotte Marines,5,"Ishimine, Shota",CF,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61165133
+2013,Climax Series - First Stage,Chiba Lotte Marines,5,"Ishimine, Shota",CF,2,2,2,1.000,1.000,1.000,2.000,0,0,2,2,0,0,0,2,0,0,0,0,0,0,0,0,0,61165133
+2013,Regular Season,Chiba Lotte Marines,5,"Ishimine, Shota",CF,102,161,137,0.234,0.323,0.314,0.637,28,11,32,27,2,0,3,43,8,5,16,1,27,4,2,6,0,61165133
+2013,Regular Season,Yokohama DeNA Baystars,15,"Inoh, Shoichi",P,18,25,23,0.217,0.217,0.261,0.478,1,3,5,4,1,0,0,6,0,0,0,0,11,0,0,2,0,61165137
+2013,Climax Series - First Stage,Saitama Seibu Lions,25,"Hoshi, Takanori",C,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61265110
+2013,Regular Season,Saitama Seibu Lions,25,"Hoshi, Takanori",C,40,29,28,0.179,0.207,0.179,0.386,0,1,5,5,0,0,0,5,1,0,0,0,6,0,1,0,0,61265110
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,44,"Mukae, Yuichiro",PH,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61265111
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,44,"Mukae, Yuichiro",PH,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61265111
+2013,Regular Season,Hiroshima Toyo Carp,44,"Mukae, Yuichiro",PH,42,67,60,0.217,0.262,0.300,0.562,7,2,13,9,3,1,0,18,1,0,4,0,12,2,0,2,1,61265111
+2013,Regular Season,Chunichi Dragons,40,"Hirata, Ryosuke",RF,118,414,367,0.289,0.366,0.488,0.854,54,55,106,66,22,3,15,179,1,2,41,1,54,13,4,1,1,61265112
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,5,"Makida, Akihisa",RF,2,2,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,61265113
+2013,Japan Series,Tohoku Rakuten Golden Eagles,5,"Makida, Akihisa",RF,4,11,10,0.300,0.300,0.600,0.900,1,1,3,2,0,0,1,6,0,0,0,0,3,0,0,1,0,61265113
+2013,Regular Season,Tohoku Rakuten Golden Eagles,5,"Makida, Akihisa",RF,27,90,81,0.222,0.292,0.358,0.650,15,7,18,12,3,1,2,29,0,0,7,0,6,1,1,1,0,61265113
+2013,Regular Season,Hiroshima Toyo Carp,00,"Nakahigashi, Naoki",LF,51,87,77,0.273,0.333,0.351,0.684,12,4,21,17,3,0,1,27,3,2,7,1,13,0,0,3,0,61265114
+2013,Regular Season,Orix Buffaloes,5,"Hirano, Keiichi",2B,56,238,217,0.313,0.361,0.369,0.730,19,14,68,57,10,1,0,80,1,1,15,0,26,3,1,5,0,61265115
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,23,"Hijirisawa, Ryo",CF,4,14,13,0.231,0.286,0.462,0.748,1,1,3,2,0,0,1,6,0,0,1,0,3,1,0,0,0,61265116
+2013,Japan Series,Tohoku Rakuten Golden Eagles,23,"Hijirisawa, Ryo",CF,7,21,17,0.471,0.526,0.588,1.114,1,1,8,6,2,0,0,10,1,0,2,0,4,0,0,2,0,61265116
+2013,Regular Season,Tohoku Rakuten Golden Eagles,23,"Hijirisawa, Ryo",CF,120,491,433,0.284,0.357,0.356,0.713,51,40,123,100,17,4,2,154,21,8,44,0,100,3,5,9,0,61265116
+2013,Regular Season,Fukuoka Softbank Hawks,13,"Niho, Akira",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61265118
+2013,Regular Season,Yokohama DeNA Baystars,13,"Yoshikawa, Teruaki",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61265119
+2013,Regular Season,Saitama Seibu Lions,45,"Hayashizaki, Ryo",2B,31,36,33,0.152,0.200,0.152,0.352,4,1,5,5,0,0,0,5,0,0,2,0,12,0,0,1,0,61265133
+2013,Regular Season,Orix Buffaloes,55,"Okada, Takahiro",DH,58,207,189,0.222,0.280,0.349,0.629,17,18,42,27,10,1,4,66,2,1,15,1,42,6,1,0,2,61365112
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,2,"Ohno, Shota",C,87,244,201,0.259,0.349,0.368,0.717,20,19,52,36,13,0,3,74,0,0,25,2,35,3,3,15,0,61365118
+2013,Regular Season,Fukuoka Softbank Hawks,4,"Kaneko, Keisuke",1B,59,49,40,0.325,0.400,0.450,0.850,8,3,13,8,5,0,0,18,2,0,3,0,7,1,2,4,0,61365119
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,14,"Otsuka, Yutaka",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61365131
+2013,Regular Season,Chiba Lotte Marines,53,"Emura, Naoya",C,64,134,117,0.171,0.197,0.188,0.385,6,7,20,18,2,0,0,22,0,1,4,0,34,7,0,12,1,61365133
+2013,Regular Season,Orix Buffaloes,47,"Kaida, Tomoyuki",P,35,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61365135
+2013,Regular Season,Yomiuri Giants,39,"Orui, Susumu",2B,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61365137
+2013,Climax Series - First Stage,Hanshin Tigers,0,"Yamato, Maeda",CF,1,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61465112
+2013,Regular Season,Hanshin Tigers,0,"Yamato, Maeda",CF,104,454,384,0.273,0.334,0.320,0.654,51,21,105,90,12,3,0,123,19,9,27,0,40,2,8,35,0,61465112
+2013,Regular Season,Yokohama DeNA Baystars,19,"Fujie, Hitoshi",P,25,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61465118
+2013,Regular Season,Orix Buffaloes,57,"Yamada, Nobuyoshi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61465131
+2013,Regular Season,Fukuoka Softbank Hawks,69,"Makihara, Taisei",DH,6,7,6,0.000,0.000,0.000,0.000,2,0,0,0,0,0,0,0,0,1,0,0,3,0,0,1,0,61465133
+2013,Regular Season,Tokyo Yakult Swallows,0,"Hiyane, Wataru",CF,63,176,156,0.250,0.314,0.314,0.628,30,10,39,32,5,1,1,49,14,6,14,0,20,1,1,4,1,61465135
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,57,"Yagi, Shogo",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61465137
+2013,Regular Season,Saitama Seibu Lions,42,"Shima, Shigenobu",PH,9,8,7,0.143,0.250,0.143,0.393,0,0,1,1,0,0,0,1,0,0,1,0,1,1,0,0,0,61563880
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,44,"Saito, Takashi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563885
+2013,Japan Series,Tohoku Rakuten Golden Eagles,44,"Saito, Takashi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563885
+2013,Regular Season,Tohoku Rakuten Golden Eagles,44,"Saito, Takashi",P,30,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61563885
+2013,Climax Series - First Stage,Hanshin Tigers,34,"Kubo, Yasutomo",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61565110
+2013,Regular Season,Hanshin Tigers,34,"Kubo, Yasutomo",P,44,2,1,0.000,0.500,0.000,0.500,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,61565110
+2013,Regular Season,Tokyo Yakult Swallows,61,"Shoda, Itsuki",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61565111
+2013,Regular Season,Hanshin Tigers,62,"Kawasaki, Yusuke",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61565112
+2013,Regular Season,Saitama Seibu Lions,44,"Kawasaki, Yusuke",P,8,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61565112
+2013,Regular Season,Yokohama DeNA Baystars,63,"Kajitani, Takayuki",SS,77,287,254,0.346,0.413,0.634,1.047,59,44,88,51,17,4,16,161,7,4,27,1,60,6,2,4,0,61565114
+2013,Regular Season,Hanshin Tigers,47,"Kiyohara, Daiki",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61565116
+2013,Climax Series - Final Stage,Chiba Lotte Marines,62,"Kanazawa, Takeshi",C,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61565117
+2013,Regular Season,Chiba Lotte Marines,62,"Kanazawa, Takeshi",C,56,128,106,0.198,0.277,0.236,0.513,8,7,21,17,4,0,0,25,1,0,10,0,26,0,2,9,1,61565117
+2013,Climax Series - First Stage,Hanshin Tigers,35,"Saka, Katsuhiko",3B,2,7,6,0.167,0.286,0.167,0.453,0,0,1,1,0,0,0,1,0,0,1,0,2,0,0,0,0,61565119
+2013,Regular Season,Hanshin Tigers,35,"Saka, Katsuhiko",3B,111,233,205,0.229,0.294,0.293,0.587,29,20,47,39,5,1,2,60,0,0,20,0,43,1,0,5,3,61565119
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,33,"Kikuchi, Ryosuke",2B,3,13,12,0.417,0.417,0.417,0.834,0,0,5,5,0,0,0,5,1,0,0,0,4,0,0,1,0,61565135
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,33,"Kikuchi, Ryosuke",2B,2,10,7,0.571,0.500,0.714,1.214,2,1,4,3,1,0,0,5,0,0,0,0,0,0,0,2,1,61565135
+2013,Regular Season,Hiroshima Toyo Carp,33,"Kikuchi, Ryosuke",2B,141,633,538,0.247,0.297,0.374,0.671,69,57,133,91,27,4,11,201,16,7,38,0,121,4,2,50,5,61565135
+2013,Regular Season,Orix Buffaloes,27,"Yagi, Tomoya",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61665112
+2013,Regular Season,Fukuoka Softbank Hawks,19,"Morifuku, Masahiko",P,57,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61665114
+2013,Regular Season,Fukuoka Softbank Hawks,6,"Yoshimura, Yuki",RF,36,104,93,0.194,0.272,0.355,0.627,13,16,18,13,0,0,5,33,1,0,7,0,23,2,3,1,0,61665117
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,33,"Yanuki, Toshiyuki",P,57,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,61665118
+2013,Regular Season,Chunichi Dragons,25,"Mutoh, Yuta",P,58,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61665133
+2013,Regular Season,Fukuoka Softbank Hawks,42,"Padilla, Vicente",P,16,5,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,0,0,61665137
+2013,Climax Series - Final Stage,Yomiuri Giants,12,"Suzuki, Takahiro",LF,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61763884
+2013,Japan Series,Yomiuri Giants,12,"Suzuki, Takahiro",LF,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61763884
+2013,Regular Season,Yomiuri Giants,12,"Suzuki, Takahiro",LF,80,25,22,0.227,0.227,0.273,0.500,13,1,5,4,1,0,0,6,13,3,0,0,0,0,0,3,0,61763884
+2013,Regular Season,Chunichi Dragons,23,"Suzuki, Yoshihiro",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61765110
+2013,Regular Season,Hanshin Tigers,62,"Takayama, Hisashi",PH,9,21,16,0.250,0.429,0.688,1.117,2,3,4,1,1,0,2,11,0,0,4,1,6,0,1,0,0,61765111
+2013,Regular Season,Yokohama DeNA Baystars,60,"Sato, Shoma",P,8,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61765116
+2013,Regular Season,Hanshin Tigers,30,"Kubota, Tomoyuki",P,17,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61765117
+2013,Regular Season,Hanshin Tigers,26,"Saiuchi, Hiroaki",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61765135
+2013,Regular Season,Orix Buffaloes,25,"I, Deho",1B,141,593,521,0.303,0.384,0.493,0.877,60,91,158,107,27,0,24,257,0,0,64,4,80,20,6,0,2,61865135
+2013,Regular Season,Yokohama DeNA Baystars,27,"Morgan, Nyjer",CF,108,424,371,0.294,0.361,0.434,0.795,57,50,109,81,15,2,11,161,3,2,27,0,81,3,13,11,2,61865137
+2013,Climax Series - First Stage,Hanshin Tigers,8,"Fukudome, Kosuke",RF,2,5,4,0.000,0.200,0.000,0.200,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,61963888
+2013,Regular Season,Hanshin Tigers,8,"Fukudome, Kosuke",RF,63,241,212,0.198,0.295,0.335,0.630,18,31,42,25,11,0,6,71,0,1,28,3,43,1,1,0,0,61963888
+2013,Regular Season,Fukuoka Softbank Hawks,31,"Tanoe, Hidenori",PH,15,25,25,0.200,0.200,0.320,0.520,1,4,5,2,3,0,0,8,0,0,0,0,5,1,0,0,0,61965115
+2013,Regular Season,Fukuoka Softbank Hawks,20,"Tatsumi, Shingo",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61965118
+2013,Regular Season,Hiroshima Toyo Carp,7,"Dohbayashi, Shota",3B,105,410,364,0.217,0.294,0.305,0.599,36,41,79,59,14,0,6,111,10,2,33,0,96,10,7,5,1,61965131
+2013,Regular Season,Yokohama DeNA Baystars,3,"Ramirez, Alex",PH,56,139,130,0.185,0.230,0.231,0.461,6,14,24,22,0,0,2,30,0,0,8,0,20,7,0,0,1,63165113
+2013,Climax Series - Final Stage,Yomiuri Giants,20,"Mathieson, Scott",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63165135
+2013,Japan Series,Yomiuri Giants,20,"Mathieson, Scott",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63165135
+2013,Regular Season,Yomiuri Giants,20,"Mathieson, Scott",P,63,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,63165135
+2013,Regular Season,Tokyo Yakult Swallows,17,"Leroux, Chris",P,5,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,63165137
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,9,"Hoffpauir, Micah",PH,69,163,145,0.186,0.276,0.310,0.586,13,15,27,19,3,0,5,45,0,0,16,1,53,2,2,0,0,63365133
+2013,Japan Series,Tohoku Rakuten Golden Eagles,53,"Heuser, Jim",P,2,2,2,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63365135
+2013,Regular Season,Tohoku Rakuten Golden Eagles,53,"Heuser, Jim",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63365135
+2013,Climax Series - Final Stage,Chiba Lotte Marines,99,"Rosa, Carlos",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63565133
+2013,Climax Series - First Stage,Chiba Lotte Marines,99,"Rosa, Carlos",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63565133
+2013,Regular Season,Chiba Lotte Marines,99,"Rosa, Carlos",P,52,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63565133
+2013,Regular Season,Fukuoka Softbank Hawks,58,"Nakanishi, Kenta",PH,6,9,8,0.125,0.125,0.125,0.250,1,0,1,1,0,0,0,1,0,0,0,0,1,0,0,1,0,71075110
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,38,"Takeda, Masaru",P,22,4,4,0.000,0.000,0.000,0.000,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,71075112
+2013,Regular Season,Chunichi Dragons,50,"Nakata, Ryoji",PH,23,25,21,0.238,0.333,0.286,0.619,1,0,5,4,1,0,0,6,0,0,3,0,2,0,0,1,0,71075131
+2013,Regular Season,Yokohama DeNA Baystars,20,"Suda, Kota",P,14,26,23,0.130,0.130,0.130,0.260,1,3,3,3,0,0,0,3,0,0,0,0,14,0,0,3,0,71075133
+2013,Regular Season,Chunichi Dragons,2,"Araki, Masahiro",2B,105,384,338,0.222,0.276,0.249,0.525,35,19,75,66,9,0,0,84,12,6,25,1,33,10,1,18,2,71173882
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,4,"Iiyama, Yuji",3B,56,29,26,0.154,0.179,0.192,0.371,6,1,4,3,1,0,0,5,0,0,1,0,9,0,0,1,1,71173886
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,13,"Ishii, Yuya",P,51,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71175110
+2013,Regular Season,Chunichi Dragons,41,"Asao, Takuya",P,34,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71175114
+2013,Regular Season,Chiba Lotte Marines,60,"Abe, Kazunari",P,5,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,71175116
+2013,Regular Season,Fukuoka Softbank Hawks,62,"Arima, Sho",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71175118
+2013,Japan Series,Tohoku Rakuten Golden Eagles,9,"Abe, Toshihito",2B,2,0,0,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71175133
+2013,Regular Season,Tohoku Rakuten Golden Eagles,9,"Abe, Toshihito",2B,22,46,38,0.211,0.250,0.263,0.513,4,1,8,6,2,0,0,10,1,1,2,0,7,1,0,6,0,71175133
+2013,Regular Season,Yokohama DeNA Baystars,43,"Abe, Tateki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71175137
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,26,"Hirose, Jun",RF,1,4,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,71275113
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,26,"Hirose, Jun",RF,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71275113
+2013,Regular Season,Hiroshima Toyo Carp,26,"Hirose, Jun",RF,106,334,274,0.270,0.379,0.405,0.784,41,39,74,56,8,1,9,111,7,2,43,1,51,6,8,4,5,71275113
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,22,"Tsuruoka, Shinya",C,114,276,244,0.295,0.342,0.357,0.699,22,26,72,61,9,0,2,87,1,1,16,0,28,7,2,13,1,71275117
+2013,Regular Season,Orix Buffaloes,21,"Nishi, Yuki",P,28,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,71275118
+2013,Regular Season,Hanshin Tigers,15,"Fujihara, Masanori",P,10,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71275131
+2013,Regular Season,Orix Buffaloes,62,"Tsutsumi, Yuki",2B,2,8,7,0.143,0.250,0.143,0.393,1,1,1,1,0,0,0,1,1,0,1,0,1,0,0,0,0,71275135
+2013,Climax Series - First Stage,Saitama Seibu Lions,14,"Masuda, Tatsushi",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71275137
+2013,Regular Season,Saitama Seibu Lions,14,"Masuda, Tatsushi",P,42,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71275137
+2013,Regular Season,Chiba Lotte Marines,10,"Omatsu, Shoitsu",1B,35,82,77,0.260,0.305,0.325,0.630,6,8,20,15,5,0,0,25,0,0,3,0,16,1,2,0,0,71375110
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,33,"Akaminai, Ginji",1B,4,17,12,0.417,0.563,0.667,1.230,2,3,5,4,0,0,1,8,0,0,4,0,2,0,0,1,0,71375112
+2013,Japan Series,Tohoku Rakuten Golden Eagles,33,"Akaminai, Ginji",1B,7,32,29,0.241,0.313,0.310,0.623,1,5,7,5,2,0,0,9,0,0,2,0,2,0,1,0,0,71375112
+2013,Regular Season,Tohoku Rakuten Golden Eagles,33,"Akaminai, Ginji",1B,131,525,482,0.317,0.365,0.405,0.770,63,54,153,122,24,3,4,195,3,3,36,2,44,14,2,1,4,71375112
+2013,Regular Season,Tokyo Yakult Swallows,50,"Ueda, Tsuyoshi",CF,112,399,339,0.257,0.323,0.336,0.659,51,22,87,72,7,4,4,114,18,3,33,0,65,2,1,24,2,71375114
+2013,Regular Season,Yokohama DeNA Baystars,23,"Uchimura, Kensuke",2B,89,269,223,0.206,0.275,0.229,0.504,33,6,46,42,3,1,0,51,12,8,20,0,43,2,2,22,2,71375116
+2013,Climax Series - First Stage,Saitama Seibu Lions,49,"Uemoto, Tatsuyuki",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71375117
+2013,Regular Season,Saitama Seibu Lions,49,"Uemoto, Tatsuyuki",PH,42,57,53,0.151,0.211,0.226,0.437,3,2,8,6,1,0,1,12,0,0,4,0,19,1,0,0,0,71375117
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,10,"Iwamoto, Takahiro",1B,3,3,3,0.333,0.333,0.333,0.666,0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,71375118
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,10,"Iwamoto, Takahiro",1B,2,2,2,0.500,0.500,2.000,2.500,1,3,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,71375118
+2013,Regular Season,Hiroshima Toyo Carp,10,"Iwamoto, Takahiro",1B,82,152,145,0.255,0.276,0.407,0.683,9,24,37,25,7,0,5,59,0,0,5,0,33,3,0,0,2,71375118
+2013,Regular Season,Saitama Seibu Lions,12,"Iwao, Toshihiro",P,10,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71375131
+2013,Regular Season,Hanshin Tigers,59,"Iwamoto, Akira",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,71375133
+2013,Regular Season,Yomiuri Giants,62,"Egarashi, Yuki",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71375135
+2013,Regular Season,Tokyo Yakult Swallows,43,"Emura, Masaya",P,31,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71375137
+2013,Regular Season,Fukuoka Softbank Hawks,40,"Fujioka, Yoshiaki",P,32,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71475112
+2013,Regular Season,Fukuoka Softbank Hawks,29,"Yamazaki, Katsuki",C,91,168,139,0.252,0.314,0.345,0.659,14,20,35,25,8,1,1,48,0,0,10,1,30,0,4,12,3,71475113
+2013,Regular Season,Hanshin Tigers,67,"Nohara, Masashi",1B,8,10,10,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71475114
+2013,Regular Season,Fukuoka Softbank Hawks,27,"Hosokawa, Toru",C,112,274,227,0.194,0.265,0.313,0.578,20,30,44,27,12,0,5,71,0,3,15,0,64,3,7,25,0,71475115
+2013,Regular Season,Tokyo Yakult Swallows,45,"Hidaka, Ryo",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71475118
+2013,Regular Season,Chunichi Dragons,56,"Matsui, Yusuke",PH,43,91,81,0.173,0.198,0.247,0.445,7,11,14,10,3,0,1,20,0,0,2,0,16,3,1,5,2,71475131
+2013,Regular Season,Tohoku Rakuten Golden Eagles,64,"Fukuyama, Hiroyuki",P,23,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71475133
+2013,Regular Season,Chunichi Dragons,32,"Nishikawa, Kentaro",P,12,14,13,0.077,0.077,0.077,0.154,1,1,1,1,0,0,0,1,0,0,0,0,6,0,0,1,0,71475135
+2013,Regular Season,Yomiuri Giants,50,"Kajimae, Ryuichi",PH,3,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71575116
+2013,Regular Season,Chiba Lotte Marines,42,"Katsuki, Ryoji",P,7,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71575118
+2013,Regular Season,Chiba Lotte Marines,4,"Ogino, Takashi",LF,102,397,335,0.275,0.351,0.370,0.721,52,28,92,71,14,3,4,124,26,3,32,0,26,4,9,17,3,71575131
+2013,Regular Season,Chiba Lotte Marines,31,"Watanabe, Shunsuke",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675113
+2013,Regular Season,Tokyo Yakult Swallows,22,"Masubuchi, Tatsuyoshi",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675114
+2013,Regular Season,Hanshin Tigers,69,"Morita, Issei",PH,13,19,19,0.211,0.211,0.263,0.474,0,2,4,3,1,0,0,5,0,0,0,0,8,1,0,0,0,71675116
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,17,"Wolfe, Brian",P,22,3,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,71675131
+2013,Climax Series - Final Stage,Chiba Lotte Marines,52,"Masuda, Naoya",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675135
+2013,Climax Series - First Stage,Chiba Lotte Marines,52,"Masuda, Naoya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675135
+2013,Regular Season,Chiba Lotte Marines,52,"Masuda, Naoya",P,68,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675135
+2013,Regular Season,Yomiuri Giants,49,"Acosta, Manny",P,14,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71675137
+2013,Regular Season,Orix Buffaloes,45,"Saito, Toshio",C,22,23,21,0.095,0.095,0.095,0.190,1,0,2,2,0,0,0,2,0,0,0,0,10,0,0,2,0,71775110
+2013,Regular Season,Yomiuri Giants,13,"Takagi, Yasunari",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71775111
+2013,Regular Season,Orix Buffaloes,1,"Goto, Mitsutaka",2B,69,271,255,0.243,0.281,0.314,0.595,17,16,62,50,9,0,3,80,1,4,11,1,41,7,3,1,1,71775115
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,29,"Kisanuki, Hiroshi",P,24,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71775117
+2013,Regular Season,Yomiuri Giants,64,"Kiyashiki, Masato",C,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71775131
+2013,Regular Season,Saitama Seibu Lions,29,"Koishi, Hirotaka",P,11,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71775135
+2013,Climax Series - Final Stage,Yomiuri Giants,47,"Yamaguchi, Tetsuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875112
+2013,Japan Series,Yomiuri Giants,47,"Yamaguchi, Tetsuya",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875112
+2013,Regular Season,Yomiuri Giants,47,"Yamaguchi, Tetsuya",P,64,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,71875112
+2013,Regular Season,Saitama Seibu Lions,40,"Yamamoto, Jun",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875114
+2013,Regular Season,Chiba Lotte Marines,40,"Gonzalez, Dicky",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875119
+2013,Regular Season,Tokyo Yakult Swallows,34,"Barnette, Tony",P,47,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875131
+2013,Regular Season,Fukuoka Softbank Hawks,22,"Yamashita, Ayatsugu",C,11,14,14,0.286,0.286,0.286,0.572,1,0,4,4,0,0,0,4,0,0,0,0,3,0,0,0,0,71875133
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,47,"Moriuchi, Toshiharu",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71875135
+2013,Regular Season,Orix Buffaloes,36,"Hirai, Masafumi",P,21,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71973889
+2013,Regular Season,Orix Buffaloes,26,"Takehara, Naotaka",PH,20,49,42,0.238,0.347,0.405,0.752,2,8,10,5,4,0,1,17,0,0,7,0,13,0,0,0,0,71975110
+2013,Regular Season,Hiroshima Toyo Carp,50,"Suzuki, Masamitsu",PH,5,9,8,0.125,0.125,0.125,0.250,0,0,1,1,0,0,0,1,0,0,0,0,2,0,0,1,0,71975112
+2013,Regular Season,Chunichi Dragons,67,"Takahashi, Akifumi",P,29,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71975115
+2013,Regular Season,Hanshin Tigers,64,"Shiranita, Hirokazu",P,2,3,3,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,71975116
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,5,"Koyano, Eiichi",3B,139,559,512,0.275,0.309,0.342,0.651,37,46,141,114,23,1,3,175,2,5,26,0,77,9,3,8,10,71975117
+2013,Regular Season,Tokyo Yakult Swallows,28,"Tanaka, Masahiko",C,23,48,41,0.244,0.326,0.268,0.594,6,0,10,9,1,0,0,11,0,0,5,0,14,0,0,2,0,71975119
+2013,Regular Season,Hiroshima Toyo Carp,54,"Takeuchi, Hisashi",P,5,4,4,0.250,0.250,0.250,0.500,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,71975131
+2013,Japan Series,Tohoku Rakuten Golden Eagles,35,"Shimauchi, Hiroaki",RF,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71975135
+2013,Regular Season,Tohoku Rakuten Golden Eagles,35,"Shimauchi, Hiroaki",RF,97,329,299,0.284,0.326,0.391,0.717,36,38,85,69,6,4,6,117,6,4,21,0,44,6,0,4,5,71975135
+2013,Regular Season,Hiroshima Toyo Carp,70,"Stavinoha, Nick",DH,14,40,39,0.154,0.175,0.231,0.406,2,3,6,5,0,0,1,9,0,0,1,0,14,3,0,0,0,73175135
+2013,Regular Season,Orix Buffaloes,4,"Rottino, Vinny",LF,37,111,97,0.206,0.297,0.381,0.678,7,8,20,11,5,0,4,37,1,2,11,0,18,2,2,0,1,73175137
+2013,Regular Season,Orix Buffaloes,52,"Baldiris, Aarom",3B,142,585,512,0.289,0.371,0.441,0.812,60,91,148,105,25,1,17,226,1,0,54,3,67,17,15,0,4,73375116
+2013,Regular Season,Chiba Lotte Marines,64,"Whitesell, Josh",DH,24,83,70,0.200,0.301,0.429,0.730,8,14,14,6,4,0,4,30,0,0,10,0,19,4,1,0,2,73375131
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,42,"Ray, Kenny",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73375137
+2013,Japan Series,Tohoku Rakuten Golden Eagles,42,"Ray, Kenny",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73375137
+2013,Regular Season,Tohoku Rakuten Golden Eagles,42,"Ray, Kenny",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73375137
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,62,"Molleken, Dustin",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73575135
+2013,Regular Season,Chunichi Dragons,58,"Tanaka, Daisuke",C,15,27,25,0.280,0.296,0.480,0.776,1,2,7,4,2,0,1,12,0,0,0,0,7,0,1,0,1,81085114
+2013,Climax Series - First Stage,Saitama Seibu Lions,60,"Nakamura, Takeya",DH,3,12,11,0.273,0.333,0.636,0.969,1,3,3,1,1,0,1,7,0,0,1,0,3,0,0,0,0,81085115
+2013,Regular Season,Saitama Seibu Lions,60,"Nakamura, Takeya",DH,26,114,96,0.208,0.316,0.354,0.670,8,15,20,14,2,0,4,34,0,0,16,3,38,1,0,0,2,81085115
+2013,Regular Season,Tokyo Yakult Swallows,25,"Tateyama, Shohei",P,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,81085117
+2013,Regular Season,Tohoku Rakuten Golden Eagles,68,"Nakazawa, Hiroki",3B,14,8,8,0.250,0.250,0.250,0.500,1,1,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,81085118
+2013,Regular Season,Orix Buffaloes,35,"Higa, Motoki",P,59,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81085131
+2013,Regular Season,Chunichi Dragons,13,"Iwase, Hitoki",P,55,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81183888
+2013,Regular Season,Hiroshima Toyo Carp,39,"Umetsu, Tomohiro",P,8,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81185110
+2013,Regular Season,Yomiuri Giants,38,"Ino, Suguru",C,10,8,6,0.000,0.143,0.000,0.143,1,0,0,0,0,0,0,0,0,0,1,0,2,1,0,1,0,81185112
+2013,Regular Season,Tohoku Rakuten Golden Eagles,67,"Iwasaki, Tatsuro",SS,74,112,101,0.218,0.252,0.267,0.519,17,12,22,17,5,0,0,27,0,2,5,0,18,3,0,5,1,81185114
+2013,Regular Season,Orix Buffaloes,22,"Itoh, Hikaru",C,137,475,410,0.285,0.327,0.366,0.693,36,40,117,92,20,2,3,150,4,0,24,0,84,10,3,35,3,81185116
+2013,Climax Series - Final Stage,Yomiuri Giants,26,"Utsumi, Tetsuya",P,1,1,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,81185119
+2013,Japan Series,Yomiuri Giants,26,"Utsumi, Tetsuya",P,3,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,81185119
+2013,Regular Season,Yomiuri Giants,26,"Utsumi, Tetsuya",P,25,47,40,0.050,0.095,0.050,0.145,1,0,2,2,0,0,0,2,0,0,2,0,21,0,0,5,0,81185119
+2013,Regular Season,Yomiuri Giants,69,"Ichikawa, Tomoya",PR,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81185131
+2013,Regular Season,Hiroshima Toyo Carp,61,"Isomura, Yoshitaka",PH,4,3,2,0.000,0.333,0.000,0.333,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,81185133
+2013,Regular Season,Hanshin Tigers,51,"Itoh, Hayata",RF,30,71,62,0.145,0.232,0.210,0.442,8,4,9,7,1,0,1,13,0,2,6,0,19,0,1,2,0,81185135
+2013,Regular Season,Chunichi Dragons,49,"Inoe, Koshi",P,11,1,1,1.000,1.000,1.000,2.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,81185137
+2013,Regular Season,Saitama Seibu Lions,33,"Hoshi, Hidekazu",PH,12,13,11,0.000,0.154,0.000,0.154,1,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0,0,81285110
+2013,Regular Season,Orix Buffaloes,16,"Hirano, Yoshihisa",P,60,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285112
+2013,Regular Season,Saitama Seibu Lions,20,"Nogami, Ryoma",P,30,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,81285118
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,19,"Masui, Hirotoshi",P,66,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285131
+2013,Regular Season,Chiba Lotte Marines,16,"Nakaushiro, Yuhei",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81285135
+2013,Regular Season,Tohoku Rakuten Golden Eagles,45,"Kawai, Takashi",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81383888
+2013,Climax Series - Final Stage,Yomiuri Giants,9,"Kamei, Yoshiyuki",RF,3,9,8,0.375,0.444,0.375,0.819,1,0,3,3,0,0,0,3,0,0,1,0,0,0,0,0,0,81385110
+2013,Japan Series,Yomiuri Giants,9,"Kamei, Yoshiyuki",RF,7,18,14,0.143,0.294,0.286,0.580,3,0,2,0,2,0,0,4,0,0,3,0,1,0,0,1,0,81385110
+2013,Regular Season,Yomiuri Giants,9,"Kamei, Yoshiyuki",RF,86,324,296,0.257,0.298,0.345,0.643,31,25,76,56,17,0,3,102,3,2,17,0,36,5,1,9,1,81385110
+2013,Climax Series - Final Stage,Chiba Lotte Marines,66,"Okada, Yoshifumi",CF,3,12,12,0.083,0.083,0.083,0.166,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,81385118
+2013,Climax Series - First Stage,Chiba Lotte Marines,66,"Okada, Yoshifumi",CF,3,13,11,0.182,0.250,0.273,0.523,3,0,2,1,1,0,0,3,1,0,0,0,1,1,1,1,0,81385118
+2013,Regular Season,Chiba Lotte Marines,66,"Okada, Yoshifumi",CF,134,355,313,0.259,0.307,0.297,0.604,39,18,81,73,4,4,0,93,19,3,18,0,26,7,5,16,3,81385118
+2013,Climax Series - First Stage,Saitama Seibu Lions,15,"Oishi, Tatsuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81385133
+2013,Regular Season,Saitama Seibu Lions,15,"Oishi, Tatsuya",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81385133
+2013,Regular Season,Hanshin Tigers,65,"Ogata, Ryosuke",PR,2,1,1,0.000,0.000,0.000,0.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81385137
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,32,"Masuda, Shintaro",LF,4,14,13,0.077,0.143,0.154,0.297,1,0,1,0,1,0,0,2,0,0,0,0,2,2,1,0,0,81485112
+2013,Japan Series,Tohoku Rakuten Golden Eagles,32,"Masuda, Shintaro",LF,4,9,8,0.125,0.222,0.125,0.347,1,0,1,1,0,0,0,1,1,0,1,0,3,1,0,0,0,81485112
+2013,Regular Season,Tohoku Rakuten Golden Eagles,32,"Masuda, Shintaro",LF,86,311,268,0.272,0.352,0.425,0.777,32,47,73,48,17,0,8,114,1,0,33,1,81,2,3,1,6,81485112
+2013,Regular Season,Fukuoka Softbank Hawks,38,"Yamamoto, Shogo",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81485113
+2013,Regular Season,Tokyo Yakult Swallows,60,"Miwa, Masayoshi",PR,75,56,45,0.333,0.412,0.333,0.745,10,5,15,15,0,0,0,15,6,0,6,0,6,0,0,5,0,81485116
+2013,Climax Series - Final Stage,Yomiuri Giants,25,"Murata, Shuichi",3B,3,12,12,0.333,0.333,0.333,0.666,0,1,4,4,0,0,0,4,0,0,0,0,1,0,0,0,0,81485117
+2013,Japan Series,Yomiuri Giants,25,"Murata, Shuichi",3B,7,29,27,0.259,0.310,0.519,0.829,3,4,7,4,1,0,2,14,0,0,2,0,5,0,0,0,0,81485117
+2013,Regular Season,Yomiuri Giants,25,"Murata, Shuichi",3B,144,595,519,0.316,0.385,0.511,0.896,76,87,164,113,26,0,25,265,1,1,50,1,74,11,13,6,7,81485117
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,57,"Koyama, Shinichiro",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583884
+2013,Japan Series,Tohoku Rakuten Golden Eagles,57,"Koyama, Shinichiro",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81583884
+2013,Regular Season,Tohoku Rakuten Golden Eagles,57,"Koyama, Shinichiro",P,45,1,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,81583884
+2013,Regular Season,Tokyo Yakult Swallows,00,"Kawashima, Keizo",SS,101,268,225,0.213,0.299,0.289,0.588,27,14,48,39,5,0,4,65,7,2,23,2,38,4,5,14,1,81585112
+2013,Regular Season,Yomiuri Giants,95,"Kawano, Genki",C,11,16,16,0.063,0.063,0.250,0.313,1,3,1,0,0,0,1,4,0,0,0,0,5,0,0,0,0,81585131
+2013,Regular Season,Yomiuri Giants,57,"Kumon, Katsuhiko",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81585137
+2013,Regular Season,Chunichi Dragons,53,"Yanagida, Shigeo",PH,24,32,32,0.219,0.219,0.250,0.469,1,0,7,6,1,0,0,8,0,0,0,0,8,0,0,0,0,81685112
+2013,Regular Season,Hanshin Tigers,31,"Wei-chu, Lin",RF,1,4,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,81685117
+2013,Regular Season,Yokohama DeNA Baystars,0,"Yamazaki, Noriharu",SS,115,279,237,0.249,0.299,0.350,0.649,39,23,59,42,13,1,3,83,1,3,13,0,53,8,4,25,0,81685118
+2013,Regular Season,Chunichi Dragons,54,"Morikoshi, Yuto",PR,21,10,8,0.125,0.125,0.125,0.250,2,0,1,1,0,0,0,1,1,0,0,0,5,0,0,2,0,81685133
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,25,"Jones, Andruw",DH,4,17,16,0.250,0.235,0.688,0.923,2,4,4,1,1,0,2,11,0,0,0,0,6,0,0,0,1,81685137
+2013,Japan Series,Tohoku Rakuten Golden Eagles,25,"Jones, Andruw",DH,7,30,24,0.292,0.433,0.458,0.891,1,5,7,5,1,0,1,11,0,1,6,0,7,0,0,0,0,81685137
+2013,Regular Season,Tohoku Rakuten Golden Eagles,25,"Jones, Andruw",DH,143,604,478,0.243,0.391,0.454,0.845,81,94,116,68,21,1,26,217,4,3,105,1,164,15,15,0,6,81685137
+2013,Regular Season,Hanshin Tigers,3,"Sekimoto, Kentaro",3B,56,55,43,0.279,0.415,0.349,0.764,4,5,12,9,3,0,0,15,1,0,8,1,10,1,2,2,0,81783884
+2013,Regular Season,Chiba Lotte Marines,55,"Kobe, Takumi",PH,12,15,15,0.200,0.200,0.467,0.667,2,5,3,1,1,0,1,7,0,0,0,0,6,1,0,0,0,81785114
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,61,"Sugiya, Kenshi",RF,55,165,141,0.199,0.266,0.248,0.514,11,8,28,22,5,1,0,35,0,1,12,0,24,2,1,11,0,81785118
+2013,Regular Season,Orix Buffaloes,8,"Gotoh, Shunta",CF,117,221,201,0.199,0.247,0.284,0.531,24,12,40,29,8,0,3,57,4,1,13,0,38,0,0,6,1,81785133
+2013,Regular Season,Hiroshima Toyo Carp,51,"Suzuki, Seiya",PH,11,14,12,0.083,0.214,0.083,0.297,0,1,1,1,0,0,0,1,0,0,1,0,1,1,1,0,0,81785137
+2013,Climax Series - First Stage,Saitama Seibu Lions,8,"Watanabe, Naoto",3B,1,2,2,0.500,0.500,0.500,1.000,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,81885114
+2013,Regular Season,Saitama Seibu Lions,8,"Watanabe, Naoto",3B,56,177,139,0.201,0.273,0.237,0.510,9,4,28,24,3,1,0,33,3,2,9,0,19,6,5,23,1,81885114
+2013,Regular Season,Yokohama DeNA Baystars,2,"Watanabe, Naoto",PH,14,15,14,0.143,0.200,0.143,0.343,3,0,2,2,0,0,0,2,0,0,1,0,5,1,0,0,0,81885114
+2013,Climax Series - First Stage,Saitama Seibu Lions,54,"Williams, Randy",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81885135
+2013,Regular Season,Saitama Seibu Lions,54,"Williams, Randy",P,47,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81885135
+2013,Regular Season,Fukuoka Softbank Hawks,35,"Lahair, Bryan",1B,111,389,348,0.230,0.306,0.428,0.734,38,57,80,44,19,1,16,149,2,1,39,0,121,7,0,0,2,81885137
+2013,Climax Series - First Stage,Hanshin Tigers,37,"Hidaka, Takeshi",C,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81983882
+2013,Regular Season,Hanshin Tigers,37,"Hidaka, Takeshi",C,44,100,97,0.289,0.310,0.381,0.691,9,7,28,23,3,0,2,37,1,0,2,0,16,0,1,0,0,81983882
+2013,Climax Series - First Stage,Hanshin Tigers,28,"Fukuhara, Shinobu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81983888
+2013,Regular Season,Hanshin Tigers,28,"Fukuhara, Shinobu",P,50,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81983888
+2013,Climax Series - Final Stage,Tohoku Rakuten Golden Eagles,7,"Matsui, Kazuo",SS,4,15,14,0.214,0.267,0.286,0.553,2,0,3,2,1,0,0,4,0,0,1,0,3,0,0,0,0,81983889
+2013,Japan Series,Tohoku Rakuten Golden Eagles,7,"Matsui, Kazuo",SS,7,28,27,0.333,0.357,0.370,0.727,4,0,9,8,1,0,0,10,0,0,1,0,5,0,0,0,0,81983889
+2013,Regular Season,Tohoku Rakuten Golden Eagles,7,"Matsui, Kazuo",SS,125,497,448,0.248,0.311,0.388,0.699,55,58,111,72,26,2,11,174,1,1,40,2,85,4,3,2,4,81983889
+2013,Regular Season,Yomiuri Giants,53,"Takaguchi, Takayuki",3B,8,7,7,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,81985112
+2013,Regular Season,Yokohama DeNA Baystars,50,"Shimozono, Tatsuya",PH,26,45,41,0.146,0.222,0.146,0.368,1,1,6,6,0,0,0,6,0,0,4,0,10,1,0,0,0,81985114
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,65,"Tadano, Kazuhito",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81985116
+2013,Regular Season,Yomiuri Giants,58,"Tateoka, Soichiro",2B,46,77,74,0.203,0.234,0.270,0.504,5,7,15,12,1,2,0,20,1,0,3,0,15,0,0,0,0,81985118
+2013,Regular Season,Tohoku Rakuten Golden Eagles,22,"Tomura, Kenji",P,12,5,4,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,0,81985131
+2013,Climax Series - Final Stage,Yomiuri Giants,15,"Sawamura, Hirokazu",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81985133
+2013,Japan Series,Yomiuri Giants,15,"Sawamura, Hirokazu",P,4,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81985133
+2013,Regular Season,Yomiuri Giants,15,"Sawamura, Hirokazu",P,34,46,38,0.026,0.098,0.026,0.124,0,1,1,1,0,0,0,1,0,0,3,0,24,1,0,5,0,81985133
+2013,Climax Series - Final Stage,Chiba Lotte Marines,35,"Suzuki, Daichi",SS,4,15,15,0.333,0.333,0.467,0.800,2,0,5,3,2,0,0,7,0,0,0,0,2,0,0,0,0,81985135
+2013,Climax Series - First Stage,Chiba Lotte Marines,35,"Suzuki, Daichi",SS,3,12,11,0.273,0.273,0.636,0.909,2,1,3,1,1,0,1,7,0,0,0,0,1,1,0,1,0,81985135
+2013,Regular Season,Chiba Lotte Marines,35,"Suzuki, Daichi",SS,144,551,481,0.264,0.330,0.383,0.713,54,50,127,91,20,11,5,184,2,4,38,2,66,8,12,14,6,81985135
+2013,Regular Season,Tohoku Rakuten Golden Eagles,17,"Rasner, Darrell",P,37,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83185118
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,42,"Bullington, Bryan",P,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,83185133
+2013,Regular Season,Hiroshima Toyo Carp,42,"Bullington, Bryan",P,28,59,54,0.093,0.109,0.093,0.202,1,3,5,5,0,0,0,5,0,0,1,0,23,2,0,4,0,83185133
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,57,"Mickolio, Kam",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83185135
+2013,Regular Season,Hiroshima Toyo Carp,57,"Mickolio, Kam",P,57,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83185135
+2013,Climax Series - First Stage,Hanshin Tigers,44,"Boyer, Blaine",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83185137
+2013,Regular Season,Hanshin Tigers,44,"Boyer, Blaine",P,22,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83185137
+2013,Regular Season,Hanshin Tigers,55,"Standridge, Jason",P,26,51,46,0.130,0.167,0.152,0.319,3,2,6,5,1,0,0,7,0,0,2,0,26,0,0,3,0,83585114
+2013,Regular Season,Fukuoka Softbank Hawks,7,"Barrios, Edison",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83785133
+2013,Regular Season,Chunichi Dragons,27,"Tanishige, Motonobu",C,130,438,379,0.216,0.306,0.296,0.602,19,34,82,64,12,0,6,112,1,2,46,2,70,11,4,6,3,85583868
+2013,Regular Season,Orix Buffaloes,63,"Nakamura, Issei",LF,34,37,34,0.265,0.324,0.353,0.677,3,1,9,6,3,0,0,12,2,1,3,0,14,1,0,0,0,91095110
+2013,Regular Season,Yokohama DeNA Baystars,00,"Fujii, Shugo",P,21,37,30,0.067,0.125,0.067,0.192,3,2,2,2,0,0,0,2,0,0,1,0,12,0,1,5,0,91095111
+2013,Regular Season,Fukuoka Softbank Hawks,11,"Terahara, Hayato",P,16,5,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,91095115
+2013,Regular Season,Yokohama DeNA Baystars,45,"Tsuchiya, Kenji",P,7,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91095118
+2013,Regular Season,Chunichi Dragons,31,"Takahashi, Shuhei",3B,66,212,197,0.249,0.290,0.401,0.691,19,27,49,30,13,1,5,79,0,0,11,2,34,2,1,2,1,91095135
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,41,"Inaba, Atsunori",1B,91,285,261,0.203,0.264,0.299,0.563,25,24,53,34,16,0,3,78,0,0,21,0,48,6,1,1,1,91193880
+2013,Climax Series - Final Stage,Yomiuri Giants,33,"Ishii, Yoshihito",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91193884
+2013,Japan Series,Yomiuri Giants,33,"Ishii, Yoshihito",PH,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91193884
+2013,Regular Season,Yomiuri Giants,33,"Ishii, Yoshihito",PH,62,70,64,0.203,0.271,0.203,0.474,1,2,13,13,0,0,0,13,0,0,6,1,18,0,0,0,0,91193884
+2013,Regular Season,Fukuoka Softbank Hawks,53,"Igarashi, Ryota",P,51,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91193886
+2013,Regular Season,Yokohama DeNA Baystars,7,"Ishikawa, Takehiro",2B,119,523,459,0.275,0.357,0.351,0.708,75,41,126,105,12,4,5,161,5,2,51,0,76,6,8,5,0,91195110
+2013,Regular Season,Tohoku Rakuten Golden Eagles,41,"Aoyama, Kouji",P,60,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91195112
+2013,Regular Season,Hiroshima Toyo Carp,60,"Abe, Tomohiro",SS,75,142,123,0.220,0.287,0.276,0.563,13,8,27,22,4,0,1,34,5,2,12,0,31,1,0,6,1,91195116
+2013,Regular Season,Fukuoka Softbank Hawks,18,"Arakaki, Nagisa",P,5,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91195117
+2013,Regular Season,Orix Buffaloes,7,"Itoi, Yoshio",RF,141,601,524,0.300,0.384,0.468,0.852,75,61,157,105,33,2,17,245,33,9,66,1,93,6,8,0,3,91195119
+2013,Regular Season,Yomiuri Giants,99,"Anan, Toru",P,2,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91195131
+2013,Regular Season,Hanshin Tigers,58,"Araki, Fumiya",PR,20,6,6,0.000,0.000,0.000,0.000,4,0,0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,91195133
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,28,"Arakaki, Hayato",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91195137
+2013,Regular Season,Fukuoka Softbank Hawks,45,"Tu-Hsuan, Lee",PH,43,72,61,0.295,0.394,0.459,0.853,9,10,18,14,1,0,3,28,0,1,10,0,20,2,0,1,0,91295114
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,32,"Nemoto, Tomohisa",P,6,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91295116
+2013,Regular Season,Hiroshima Toyo Carp,22,"Nakamura, Kyohei",P,12,14,14,0.071,0.071,0.071,0.142,1,0,1,1,0,0,0,1,0,0,0,0,5,0,0,0,0,91295133
+2013,Climax Series - First Stage,Saitama Seibu Lions,21,"Togame, Ken",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91295135
+2013,Regular Season,Saitama Seibu Lions,21,"Togame, Ken",P,28,6,6,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,91295135
+2013,Regular Season,Chunichi Dragons,52,"Oda, Kohei",C,31,40,37,0.135,0.200,0.216,0.416,2,2,5,4,0,0,1,8,0,0,3,1,7,0,0,0,0,91393886
+2013,Regular Season,Yokohama DeNA Baystars,26,"Ide, Shotaro",LF,32,99,87,0.310,0.357,0.356,0.713,16,11,27,23,4,0,0,31,0,0,7,0,11,4,1,1,3,91395115
+2013,Regular Season,Chiba Lotte Marines,15,"Ueno, Hiroki",P,42,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91395118
+2013,Regular Season,Tokyo Yakult Swallows,65,"Oshimoto, Takehiko",P,26,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91395119
+2013,Climax Series - Final Stage,Chiba Lotte Marines,27,"Furuya, Takuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91495112
+2013,Climax Series - First Stage,Chiba Lotte Marines,27,"Furuya, Takuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91495112
+2013,Regular Season,Chiba Lotte Marines,27,"Furuya, Takuya",P,15,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91495112
+2013,Regular Season,Chunichi Dragons,38,"Maeda, Akihiro",PH,6,5,5,0.200,0.200,0.200,0.400,0,0,1,1,0,0,0,1,0,0,0,0,3,0,0,0,0,91495115
+2013,Regular Season,Hanshin Tigers,33,"Nishida, Naoto",PH,1,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91495135
+2013,Regular Season,Yokohama DeNA Baystars,1,"Kinjo, Tatsuhiko",RF,118,334,306,0.291,0.343,0.395,0.738,33,36,89,70,12,1,6,121,3,0,17,2,40,8,8,2,1,91593888
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,7,"Obiki, Keiji",SS,120,492,402,0.266,0.359,0.333,0.692,52,32,107,87,16,1,3,134,13,3,50,0,86,9,8,32,0,91595114
+2013,Regular Season,Hiroshima Toyo Carp,47,"Ono, Junpei",P,19,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,91595131
+2013,Regular Season,Fukuoka Softbank Hawks,57,"Kayama, Shinya",P,40,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91595135
+2013,Climax Series - Final Stage,Chiba Lotte Marines,65,"Katoh, Shohei",LF,3,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91595137
+2013,Climax Series - First Stage,Chiba Lotte Marines,65,"Katoh, Shohei",LF,3,2,2,0.500,0.500,2.000,2.500,1,3,1,0,0,0,1,4,1,0,0,0,0,0,0,0,0,91595137
+2013,Regular Season,Chiba Lotte Marines,65,"Katoh, Shohei",LF,23,28,26,0.154,0.154,0.269,0.423,2,1,4,3,0,0,1,7,0,1,0,0,8,0,0,2,0,91595137
+2013,Regular Season,Orix Buffaloes,61,"Matsumoto, Kodai",P,12,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91695114
+2013,Regular Season,Chiba Lotte Marines,33,"Minami, Masaki",P,28,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91695133
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,27,"Nakajima, Satoshi",C,2,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91793864
+2013,Climax Series - First Stage,Saitama Seibu Lions,11,"Kishi, Takayuki",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91795114
+2013,Regular Season,Saitama Seibu Lions,11,"Kishi, Takayuki",P,26,8,8,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,91795114
+2013,Regular Season,Orix Buffaloes,50,"Kondoh, Kazuki",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91795115
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,15,"Sakakibara, Ryo",P,2,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91795118
+2013,Climax Series - Final Stage,Chiba Lotte Marines,1,"Kiyota, Ikuhiro",RF,4,14,14,0.286,0.286,0.286,0.572,2,0,4,4,0,0,0,4,0,0,0,0,2,0,0,0,0,91795131
+2013,Climax Series - First Stage,Chiba Lotte Marines,1,"Kiyota, Ikuhiro",RF,3,2,2,0.500,0.500,1.500,2.000,0,0,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,91795131
+2013,Regular Season,Chiba Lotte Marines,1,"Kiyota, Ikuhiro",RF,68,223,184,0.255,0.359,0.375,0.734,23,18,47,33,9,2,3,69,3,2,29,0,51,5,2,6,2,91795131
+2013,Regular Season,Orix Buffaloes,38,"Kojima, Shuhei",DH,17,22,22,0.045,0.045,0.091,0.136,1,0,1,0,1,0,0,2,1,0,0,0,8,0,0,0,0,91795135
+2013,Climax Series - Final Stage,Hiroshima Toyo Carp,35,"Shimozuru, Ko",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91795137
+2013,Climax Series - First Stage,Hiroshima Toyo Carp,35,"Shimozuru, Ko",PH,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91795137
+2013,Regular Season,Hiroshima Toyo Carp,35,"Shimozuru, Ko",PH,2,5,5,0.400,0.400,0.400,0.800,0,1,2,2,0,0,0,2,0,0,0,0,1,0,0,0,0,91795137
+2013,Regular Season,Saitama Seibu Lions,8,"Ortiz, Jose",DH,29,111,100,0.210,0.279,0.260,0.539,6,9,21,16,5,0,0,26,0,0,7,0,24,3,3,0,1,91895117
+2013,Regular Season,Tokyo Yakult Swallows,23,"Yamada, Tetsuto",2B,94,396,350,0.283,0.354,0.357,0.711,50,26,99,81,13,2,3,125,9,2,39,2,37,6,1,3,3,91895133
+2013,Regular Season,Chunichi Dragons,42,"Bergesen, Bradley",P,14,11,10,0.200,0.273,0.300,0.573,2,0,2,1,1,0,0,3,0,0,1,0,5,0,0,0,0,91895137
+2013,Japan Series,Yomiuri Giants,8,"Tani, Yoshitomo",LF,1,1,0,0.000,1.000,0.000,1.000,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,91993884
+2013,Regular Season,Yomiuri Giants,8,"Tani, Yoshitomo",LF,13,31,28,0.250,0.300,0.321,0.621,2,1,7,5,2,0,0,9,0,0,2,0,4,2,0,1,0,91993884
+2013,Climax Series - First Stage,Saitama Seibu Lions,27,"Sumitani, Ginjiro",C,3,10,9,0.222,0.222,0.222,0.444,2,0,2,2,0,0,0,2,0,0,0,0,1,0,0,1,0,91995112
+2013,Regular Season,Saitama Seibu Lions,27,"Sumitani, Ginjiro",C,141,468,413,0.215,0.274,0.291,0.565,28,43,89,68,16,0,5,120,1,2,30,2,62,14,4,19,2,91995112
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,52,"Sato, Kenji",RF,38,108,91,0.242,0.337,0.363,0.700,9,15,22,16,3,1,2,33,1,1,12,0,28,2,1,4,0,91995114
+2013,Regular Season,Fukuoka Softbank Hawks,50,"Settsu, Tadashi",P,25,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,91995118
+2013,Climax Series - First Stage,Hanshin Tigers,20,"Tsutsui, Kazuya",P,1,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91995119
+2013,Regular Season,Hanshin Tigers,20,"Tsutsui, Kazuya",P,39,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91995119
+2013,Climax Series - Final Stage,Yomiuri Giants,7,"Chono, Hisayoshi",RF,3,12,11,0.273,0.333,0.273,0.606,3,0,3,3,0,0,0,3,0,0,1,0,2,0,0,0,0,91995131
+2013,Japan Series,Yomiuri Giants,7,"Chono, Hisayoshi",RF,7,30,26,0.269,0.367,0.308,0.675,1,4,7,6,1,0,0,8,0,0,3,1,6,1,1,0,0,91995131
+2013,Regular Season,Yomiuri Giants,7,"Chono, Hisayoshi",RF,144,642,590,0.281,0.336,0.424,0.760,82,65,166,123,21,3,19,250,14,5,48,0,101,6,1,3,0,91995131
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,58,"Saito, Masaru",P,5,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,91995133
+2013,Regular Season,Orix Buffaloes,33,"Shimada, Takuya",3B,51,40,35,0.143,0.211,0.229,0.440,6,3,5,3,1,1,0,8,0,0,3,0,14,0,0,2,0,91995135
+2013,Regular Season,Orix Buffaloes,56,"Takeda, Kengo",RF,2,8,8,0.250,0.250,0.375,0.625,1,0,2,1,1,0,0,3,0,0,0,0,0,0,0,0,0,91995137
+2013,Climax Series - First Stage,Hanshin Tigers,54,"Messenger, Randy",P,1,1,1,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,93195131
+2013,Regular Season,Hanshin Tigers,54,"Messenger, Randy",P,30,66,56,0.107,0.153,0.125,0.278,3,3,6,5,1,0,0,7,0,0,3,0,30,1,0,7,0,93195131
+2013,Regular Season,Fukuoka Softbank Hawks,55,"Mo Pena, Wily",DH,55,171,150,0.233,0.322,0.307,0.629,8,16,35,27,6,1,1,46,0,0,15,0,52,4,5,0,1,93195135
+2013,Climax Series - Final Stage,Yomiuri Giants,5,"Lopez, Jose",1B,3,10,7,0.000,0.111,0.000,0.111,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,93195137
+2013,Japan Series,Yomiuri Giants,5,"Lopez, Jose",1B,7,23,23,0.174,0.174,0.304,0.478,1,3,4,3,0,0,1,7,0,0,0,0,5,0,0,0,0,93195137
+2013,Regular Season,Yomiuri Giants,5,"Lopez, Jose",1B,121,467,429,0.303,0.346,0.490,0.836,45,55,130,86,26,0,18,210,1,1,25,1,57,12,5,5,3,93195137
+2013,Regular Season,Yokohama DeNA Baystars,53,"Sosa, Jorge",P,55,2,2,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,93395135
+2013,Regular Season,Hokkaido Nippon-Ham Fighters,67,"Thomas, Justin",P,3,0,0,0.000,0.000,0.000,0.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93395137
