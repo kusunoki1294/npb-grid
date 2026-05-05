@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-05-05T05:20:49.264Z",
+  "generatedAt": "2026-05-05T15:46:48.974Z",
   "rowCounts": {
-    "registry": 100,
+    "registry": 8068,
     "batting": 51077,
     "pitching": 20436,
     "fielding": 61636,
     "awards": 252,
-    "players": 7490
+    "players": 8086
   },
   "skippedRows": {
     "registry": [],
@@ -19,12 +19,14 @@
     "registry": [
       {
         "file": "proeyekyuu-player-registry.csv",
-        "rowCount": 100,
-        "importedRows": 100,
+        "rowCount": 8068,
+        "importedRows": 8068,
         "skippedRowCount": 0,
         "headers": [
           "player_id",
           "name",
+          "name_japanese",
+          "name_furigana",
           "status",
           "current_last_team",
           "teams_played_on",
@@ -49,12 +51,12 @@
         },
         "recommended": {
           "present": [
+            "nameJapanese",
             "position",
             "bats",
             "throws"
           ],
           "missing": [
-            "nameJapanese",
             "birthCountry",
             "playedInMLB",
             "hallOfFame",

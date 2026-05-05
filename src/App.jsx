@@ -1,11 +1,20 @@
 import { useEffect, useState } from 'react';
 import GridBoard from './components/GridBoard';
 import {
+  categoriesById,
   createDailyGridFromEligibility,
   createRandomGridFromEligibility,
 } from './data/categories';
-import { findPlayerByName, isPlayerAlreadyUsed, validateAnswer } from './lib/validateAnswer';
+import {
+  findPlayerByName,
+  formatImportedPlayerName,
+  isPlayerAlreadyUsed,
+} from './lib/validateAnswer';
+import { getIntersectionPlayerIds } from './lib/categoryIntersection';
 import { hasSupabaseConfig, supabase } from './lib/supabase';
+import playerAwards from '../data/processed/playerAwards.json';
+import battingSeasons from '../data/processed/battingSeasons.json';
+import pitchingSeasons from '../data/processed/pitchingSeasons.json';
 import playersById from '../data/processed/players.json';
 import eligibility from '../data/processed/eligibility.json';
 
@@ -139,6 +148,10 @@ const copy = {
     dailyBoardLabel: (date) => `Daily board: ${date}`,
     dailyBoardNotice: 'You can show or hide square rarity from the toolbar.',
     dailyResetMessage: 'Daily board reset. Today\'s puzzle is loaded again.',
+    legalDisclaimer:
+      'This is an unofficial fan-made game and is not affiliated with, endorsed by, or sponsored by Nippon Professional Baseball or any NPB team.',
+    dataCreditPrefix: 'Player data source:',
+    dataCreditName: 'ProEyeKyuu',
   },
   ja: {
     signIn: '新規登録',
@@ -267,6 +280,10 @@ const copy = {
     dailyBoardLabel: (date) => `デイリーボード: ${date}`,
     dailyBoardNotice: 'ツールバーから各マスのレア度表示を切り替えできます。',
     dailyResetMessage: 'デイリーボードをリセットしました。今日の盤面を再読み込みしました。',
+    legalDisclaimer:
+      'このゲームは非公式のファンメイド作品であり、日本野球機構（NPB）および各球団とは一切関係ありません。公認・提携・協賛も受けていません。',
+    dataCreditPrefix: '選手データ提供:',
+    dataCreditName: 'ProEyeKyuu',
   },
 };
 
@@ -472,17 +489,21 @@ function getCellKey(rowIndex, columnIndex) {
 }
 
 function getEligibleIntersectionCount(rowCategoryId, columnCategoryId, eligibilityMap) {
-  const rowEligible = eligibilityMap[rowCategoryId] ?? [];
-  const columnEligible = new Set(eligibilityMap[columnCategoryId] ?? []);
-  let count = 0;
+  const rowCategory = categoriesById[rowCategoryId];
+  const columnCategory = categoriesById[columnCategoryId];
 
-  for (const playerId of rowEligible) {
-    if (columnEligible.has(playerId)) {
-      count += 1;
-    }
+  if (!rowCategory || !columnCategory) {
+    return 0;
   }
 
-  return count;
+  return getIntersectionPlayerIds(
+    rowCategory,
+    columnCategory,
+    eligibilityMap,
+    playerAwards,
+    battingSeasons,
+    pitchingSeasons,
+  ).length;
 }
 
 function getRarityTone(count) {
@@ -521,7 +542,7 @@ function getRarityBandLabel(count, text) {
 
 function getPlayerDisplayName(player, locale) {
   if (locale === 'ja') {
-    return player.nameJapanese || player.name;
+    return player.nameJapanese || formatImportedPlayerName(player.name ?? '');
   }
 
   return player.name;
@@ -599,7 +620,19 @@ function getCurrentPuzzleDate() {
 }
 
 function getSnapshotGrid(dateString) {
-  return createDailyGridFromEligibility(eligibility, dateString);
+  return createDailyGridFromEligibility(
+    eligibility,
+    dateString,
+    (rowCategory, columnCategory) =>
+      getIntersectionPlayerIds(
+        rowCategory,
+        columnCategory,
+        eligibility,
+        playerAwards,
+        battingSeasons,
+        pitchingSeasons,
+      ).length > 0,
+  );
 }
 
 function getDailyStorageKey(dateString, userId) {
@@ -871,7 +904,18 @@ function mergePerfectDatesWithLocal(perfectDates, userId) {
 function getInitialGrid(mode, dateString) {
   return mode === 'daily'
     ? getSnapshotGrid(dateString)
-    : createRandomGridFromEligibility(eligibility);
+    : createRandomGridFromEligibility(
+      eligibility,
+      (rowCategory, columnCategory) =>
+        getIntersectionPlayerIds(
+          rowCategory,
+          columnCategory,
+          eligibility,
+          playerAwards,
+          battingSeasons,
+          pitchingSeasons,
+        ).length > 0,
+    );
 }
 
 function localizeCategory(category, locale) {
@@ -1396,6 +1440,22 @@ function AuthModal({
   );
 }
 
+function SiteNote({ locale }) {
+  const text = copy[locale];
+
+  return (
+    <footer className="site-note" aria-label="Legal notice">
+      <p>{text.legalDisclaimer}</p>
+      <p>
+        {text.dataCreditPrefix}{' '}
+        <a href="https://proeyekyuu.com/" target="_blank" rel="noreferrer">
+          {text.dataCreditName}
+        </a>
+      </p>
+    </footer>
+  );
+}
+
 function GameScreen({
   locale,
   mode,
@@ -1462,7 +1522,12 @@ function GameScreen({
     ? allPlayers.filter((player) => {
         const english = (player.name ?? '').toLowerCase();
         const japanese = (player.nameJapanese ?? '').toLowerCase();
-        return english.includes(query) || japanese.includes(query);
+        const localizedFallback = formatImportedPlayerName(player.name ?? '').toLowerCase();
+        return (
+          english.includes(query)
+          || japanese.includes(query)
+          || localizedFallback.includes(query)
+        );
       })
     : allPlayers
   ).slice(0, 8);
@@ -1771,12 +1836,14 @@ function GameScreen({
 
     const rowCategory = activeGrid.rows[selectedCell.rowIndex];
     const columnCategory = activeGrid.columns[selectedCell.columnIndex];
-    const isCorrect = validateAnswer(
-      player.id,
-      rowCategory.id,
-      columnCategory.id,
+    const isCorrect = getIntersectionPlayerIds(
+      rowCategory,
+      columnCategory,
       eligibility,
-    );
+      playerAwards,
+      battingSeasons,
+      pitchingSeasons,
+    ).includes(player.id);
     const nextGuessCount = guessCount + 1;
     const nextScore = isCorrect ? score + 1 : score;
     const nextCells = {
@@ -1831,7 +1898,20 @@ function GameScreen({
       return;
     }
 
-    setActiveGrid(createRandomGridFromEligibility(eligibility));
+    setActiveGrid(
+      createRandomGridFromEligibility(
+        eligibility,
+        (rowCategory, columnCategory) =>
+          getIntersectionPlayerIds(
+            rowCategory,
+            columnCategory,
+            eligibility,
+            playerAwards,
+            battingSeasons,
+            pitchingSeasons,
+          ).length > 0,
+      ),
+    );
     setCells(createEmptyCells());
     setGuessCount(0);
     setSelectedCell(null);
@@ -2427,6 +2507,8 @@ export default function App() {
           onOpenBoard={openArchiveBoard}
         />
       )}
+
+      <SiteNote locale={activeLocale} />
 
       {authMode && (
         <AuthModal

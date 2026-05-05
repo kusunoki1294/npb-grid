@@ -156,7 +156,7 @@ const playerExtras = {
       '1,000+ Career Strikeouts',
       '1,000+ Career IP',
     ],
-    specialCategories: ['Japanese-Born Player'],
+    specialCategories: ['Japanese-Born Player', 'Played in MLB'],
   },
   'Alex Ramirez': {
     awards: ['Best Nine', 'All-Star', 'Batting Champion', 'RBI Leader', 'Japan Series Champion'],
@@ -491,7 +491,7 @@ const rawPlayers = [
   {
     name: 'Munetaka Murakami',
     teams: ['Yakult Swallows'],
-    positions: ['Third Baseman'],
+    positions: ['Third Baseman', 'First Baseman'],
     awards: ['MVP Winner'],
     battingMilestones: ['30+ HR Season', '100+ RBI Season'],
     pitchingMilestones: [],

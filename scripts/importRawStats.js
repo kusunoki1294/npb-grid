@@ -428,6 +428,18 @@ function parseBoolean(value) {
   return ['1', 'true', 'yes', 'y', 'on'].includes(normalized);
 }
 
+function toSeasonYear(value) {
+  const direct = toNumber(value);
+
+  if (Number.isInteger(direct)) {
+    return direct;
+  }
+
+  const normalized = String(value ?? '').trim();
+  const yearMatch = normalized.match(/\b(19|20)\d{2}\b/);
+  return yearMatch ? Number(yearMatch[0]) : null;
+}
+
 function normalizeBatThrowSide(value) {
   const normalized = cleanSourceValue(value).toLowerCase();
 
@@ -510,7 +522,7 @@ function mapAwardRows(players, rows, identityState) {
     attachPlayerBasics(player, row);
 
     const award = cleanSourceValue(getFirstValue(row, COLUMN_CANDIDATES.award));
-    const year = toNumber(getFirstValue(row, COLUMN_CANDIDATES.year));
+    const year = toSeasonYear(getFirstValue(row, COLUMN_CANDIDATES.year));
     const team = getNormalizedTeam(row);
 
     return award
@@ -533,7 +545,7 @@ function mapBattingRows(players, rows, identityState) {
 
     return {
       playerId: player.id,
-      year: toNumber(getFirstValue(row, COLUMN_CANDIDATES.year)),
+      year: toSeasonYear(getFirstValue(row, COLUMN_CANDIDATES.year)),
       team: getNormalizedTeam(row),
       games: toNumber(getFirstValue(row, COLUMN_CANDIDATES.games)),
       avg: toNumber(getFirstValue(row, COLUMN_CANDIDATES.avg)),
@@ -555,7 +567,7 @@ function mapPitchingRows(players, rows, identityState) {
 
     return {
       playerId: player.id,
-      year: toNumber(getFirstValue(row, COLUMN_CANDIDATES.year)),
+      year: toSeasonYear(getFirstValue(row, COLUMN_CANDIDATES.year)),
       team: getNormalizedTeam(row),
       wins: toNumber(getFirstValue(row, COLUMN_CANDIDATES.wins)),
       losses: toNumber(getFirstValue(row, COLUMN_CANDIDATES.losses)),
@@ -579,7 +591,7 @@ function mapFieldingRows(players, rows, identityState) {
 
     return {
       playerId: player.id,
-      year: toNumber(getFirstValue(row, COLUMN_CANDIDATES.year)),
+      year: toSeasonYear(getFirstValue(row, COLUMN_CANDIDATES.year)),
       team: getNormalizedTeam(row),
       position: normalizePosition(cleanSourceValue(getFirstValue(row, COLUMN_CANDIDATES.position))),
       games: toNumber(getFirstValue(row, COLUMN_CANDIDATES.games)),

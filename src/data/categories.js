@@ -251,24 +251,56 @@ function shuffle(items) {
   return nextItems;
 }
 
+function hashString(value) {
+  let hash = 2166136261;
+
+  for (let index = 0; index < value.length; index += 1) {
+    hash ^= value.charCodeAt(index);
+    hash = Math.imul(hash, 16777619);
+  }
+
+  return hash >>> 0;
+}
+
+function createSeededRandom(seedValue) {
+  let seed = hashString(seedValue) || 1;
+
+  return function nextRandom() {
+    seed = (seed * 1664525 + 1013904223) >>> 0;
+    return seed / 4294967296;
+  };
+}
+
+function shuffleWithRandom(items, random) {
+  const nextItems = [...items];
+
+  for (let index = nextItems.length - 1; index > 0; index -= 1) {
+    const swapIndex = Math.floor(random() * (index + 1));
+    [nextItems[index], nextItems[swapIndex]] = [nextItems[swapIndex], nextItems[index]];
+  }
+
+  return nextItems;
+}
+
 function hasIntersection(leftIds, rightIds) {
   const rightSet = new Set(rightIds);
   return leftIds.some((id) => rightSet.has(id));
 }
 
-export function createRandomGridFromEligibility(eligibility) {
+export function createRandomGridFromEligibility(eligibility, hasPlayableIntersection) {
   const usableCategories = categories.filter(
     (category) => (eligibility[category.id] ?? []).length > 0,
   );
+  const hasIntersectionForCategories = hasPlayableIntersection
+    ?? ((rowCategory, columnCategory) =>
+      hasIntersection(eligibility[rowCategory.id] ?? [], eligibility[columnCategory.id] ?? []));
 
   for (let attempt = 0; attempt < 2500; attempt += 1) {
     const rows = shuffle(usableCategories).slice(0, 3);
     const viableColumns = usableCategories.filter(
       (candidate) =>
         !rows.some((row) => row.id === candidate.id) &&
-        rows.every((row) =>
-          hasIntersection(eligibility[row.id] ?? [], eligibility[candidate.id] ?? []),
-        ),
+        rows.every((row) => hasIntersectionForCategories(row, candidate)),
     );
 
     if (viableColumns.length < 3) {
@@ -284,6 +316,51 @@ export function createRandomGridFromEligibility(eligibility) {
 
   return {
     id: 'fallback-grid',
+    rows: categories.filter((category) =>
+      ['team:yomiuri-giants', 'team:hanshin-tigers', 'team:yakult-swallows'].includes(
+        category.id,
+      ),
+    ),
+    columns: categories.filter((category) =>
+      [
+        'award:mvp-winner',
+        'battingSeasonMilestone:30-hr-season',
+        'position:pitcher',
+      ].includes(category.id),
+    ),
+  };
+}
+
+export function createDailyGridFromEligibility(eligibility, dateString, hasPlayableIntersection) {
+  const usableCategories = categories.filter(
+    (category) => (eligibility[category.id] ?? []).length > 0,
+  );
+  const hasIntersectionForCategories = hasPlayableIntersection
+    ?? ((rowCategory, columnCategory) =>
+      hasIntersection(eligibility[rowCategory.id] ?? [], eligibility[columnCategory.id] ?? []));
+
+  for (let attempt = 0; attempt < 2500; attempt += 1) {
+    const random = createSeededRandom(`${dateString}:${attempt}`);
+    const rows = shuffleWithRandom(usableCategories, random).slice(0, 3);
+    const viableColumns = usableCategories.filter(
+      (candidate) =>
+        !rows.some((row) => row.id === candidate.id) &&
+        rows.every((row) => hasIntersectionForCategories(row, candidate)),
+    );
+
+    if (viableColumns.length < 3) {
+      continue;
+    }
+
+    return {
+      id: `daily-grid-${dateString}`,
+      rows,
+      columns: shuffleWithRandom(viableColumns, random).slice(0, 3),
+    };
+  }
+
+  return {
+    id: `fallback-daily-grid-${dateString}`,
     rows: categories.filter((category) =>
       ['team:yomiuri-giants', 'team:hanshin-tigers', 'team:yakult-swallows'].includes(
         category.id,

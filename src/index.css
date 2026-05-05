@@ -1312,6 +1312,36 @@ h1 {
   transform: none;
 }
 
+.site-note {
+  width: min(100% - 40px, 1160px);
+  margin: 22px auto 36px;
+  padding: 14px 18px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 18px;
+  background: rgba(8, 18, 34, 0.5);
+  color: #92a6bf;
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
+.site-note p {
+  margin: 0;
+}
+
+.site-note p + p {
+  margin-top: 6px;
+}
+
+.site-note a {
+  color: #9ecfff;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.site-note a:hover {
+  color: #d9efff;
+}
+
 @media (max-width: 900px) {
   .hero-card {
     flex-direction: column;
@@ -1424,6 +1454,11 @@ h1 {
 
   .auth-card {
     padding: 24px 18px 20px;
+  }
+
+  .site-note {
+    width: min(100% - 20px, 1160px);
+    margin: 18px auto 28px;
   }
 
   .summary-grid {

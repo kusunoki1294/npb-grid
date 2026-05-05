@@ -1,7 +1,7 @@
 [
   {
     "playerId": "01003872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Club",
     "wins": 0,
     "losses": 0,
@@ -17,7 +17,7 @@
   },
   {
     "playerId": "01803872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Club",
     "wins": 0,
     "losses": 0,
@@ -33,7 +33,7 @@
   },
   {
     "playerId": "03303872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Club",
     "wins": 4,
     "losses": 8,
@@ -49,7 +49,7 @@
   },
   {
     "playerId": "03303872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Club",
     "wins": 4,
     "losses": 1,
@@ -65,7 +65,7 @@
   },
   {
     "playerId": "03503872",
-    "year": null,
+    "year": 1936,
     "team": "Hankyu Club",
     "wins": 0,
     "losses": 1,
@@ -81,7 +81,7 @@
   },
   {
     "playerId": "11013872",
-    "year": null,
+    "year": 1936,
     "team": "Dai Tokyo",
     "wins": 0,
     "losses": 4,
@@ -97,7 +97,7 @@
   },
   {
     "playerId": "11013872",
-    "year": null,
+    "year": 1936,
     "team": "Dai Tokyo",
     "wins": 0,
     "losses": 4,
@@ -113,7 +113,7 @@
   },
   {
     "playerId": "11513872",
-    "year": null,
+    "year": 1936,
     "team": "Dai Tokyo",
     "wins": 4,
     "losses": 5,
@@ -129,7 +129,7 @@
   },
   {
     "playerId": "11513872",
-    "year": null,
+    "year": 1936,
     "team": "Dai Tokyo",
     "wins": 0,
     "losses": 5,
@@ -145,7 +145,7 @@
   },
   {
     "playerId": "13913872",
-    "year": null,
+    "year": 1936,
     "team": "Osaka Tigers",
     "wins": 5,
     "losses": 4,
@@ -161,7 +161,7 @@
   },
   {
     "playerId": "13913872",
-    "year": null,
+    "year": 1936,
     "team": "Osaka Tigers",
     "wins": 5,
     "losses": 2,
@@ -177,7 +177,7 @@
   },
   {
     "playerId": "21023872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Kyojin",
     "wins": 13,
     "losses": 2,
@@ -193,7 +193,7 @@
   },
   {
     "playerId": "21023872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Kyojin",
     "wins": 1,
     "losses": 1,
@@ -209,7 +209,7 @@
   },
   {
     "playerId": "21523872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Club",
     "wins": 0,
     "losses": 1,
@@ -225,7 +225,7 @@
   },
   {
     "playerId": "23123872",
-    "year": null,
+    "year": 1936,
     "team": "Osaka Tigers",
     "wins": 6,
     "losses": 1,
@@ -241,7 +241,7 @@
   },
   {
     "playerId": "23123872",
-    "year": null,
+    "year": 1936,
     "team": "Osaka Tigers",
     "wins": 3,
     "losses": 3,
@@ -257,7 +257,7 @@
   },
   {
     "playerId": "31733872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Golden Dolphins",
     "wins": 0,
     "losses": 0,
@@ -273,7 +273,7 @@
   },
   {
     "playerId": "31733872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Golden Dolphins",
     "wins": 0,
     "losses": 0,
@@ -289,7 +289,7 @@
   },
   {
     "playerId": "31833872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Club",
     "wins": 2,
     "losses": 5,
@@ -305,7 +305,7 @@
   },
   {
     "playerId": "33333872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Kyojin",
     "wins": 3,
     "losses": 3,
@@ -321,7 +321,7 @@
   },
   {
     "playerId": "33333872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Kyojin",
     "wins": 0,
     "losses": 1,
@@ -337,7 +337,7 @@
   },
   {
     "playerId": "41743872",
-    "year": null,
+    "year": 1936,
     "team": "Osaka Tigers",
     "wins": 1,
     "losses": 0,
@@ -353,7 +353,7 @@
   },
   {
     "playerId": "41843872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Kyojin",
     "wins": 0,
     "losses": 1,
@@ -369,7 +369,7 @@
   },
   {
     "playerId": "41843872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Kyojin",
     "wins": 1,
     "losses": 1,
@@ -385,7 +385,7 @@
   },
   {
     "playerId": "43143872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Golden Dolphins",
     "wins": 3,
     "losses": 10,
@@ -401,7 +401,7 @@
   },
   {
     "playerId": "43143872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Golden Dolphins",
     "wins": 3,
     "losses": 2,
@@ -417,7 +417,7 @@
   },
   {
     "playerId": "43543872",
-    "year": null,
+    "year": 1936,
     "team": "Osaka Tigers",
     "wins": 0,
     "losses": 0,
@@ -433,7 +433,7 @@
   },
   {
     "playerId": "51153872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Kyojin",
     "wins": 1,
     "losses": 1,
@@ -449,7 +449,7 @@
   },
   {
     "playerId": "51153872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Kyojin",
     "wins": 0,
     "losses": 2,
@@ -465,7 +465,7 @@
   },
   {
     "playerId": "51253872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Kyojin",
     "wins": 1,
     "losses": 2,
@@ -481,7 +481,7 @@
   },
   {
     "playerId": "51253872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Kyojin",
     "wins": 0,
     "losses": 0,
@@ -497,7 +497,7 @@
   },
   {
     "playerId": "51353872",
-    "year": null,
+    "year": 1936,
     "team": "Hankyu Club",
     "wins": 7,
     "losses": 5,
@@ -513,7 +513,7 @@
   },
   {
     "playerId": "51353872",
-    "year": null,
+    "year": 1936,
     "team": "Hankyu Club",
     "wins": 0,
     "losses": 0,
@@ -529,7 +529,7 @@
   },
   {
     "playerId": "51553872",
-    "year": null,
+    "year": 1936,
     "team": "Dai Tokyo",
     "wins": 0,
     "losses": 1,
@@ -545,7 +545,7 @@
   },
   {
     "playerId": "51553872",
-    "year": null,
+    "year": 1936,
     "team": "Dai Tokyo",
     "wins": 0,
     "losses": 2,
@@ -561,7 +561,7 @@
   },
   {
     "playerId": "51853872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Senators",
     "wins": 7,
     "losses": 9,
@@ -577,7 +577,7 @@
   },
   {
     "playerId": "51853872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Senators",
     "wins": 8,
     "losses": 4,
@@ -593,7 +593,7 @@
   },
   {
     "playerId": "53153872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Golden Dolphins",
     "wins": 0,
     "losses": 1,
@@ -609,7 +609,7 @@
   },
   {
     "playerId": "53153872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Golden Dolphins",
     "wins": 1,
     "losses": 2,
@@ -625,7 +625,7 @@
   },
   {
     "playerId": "53553872",
-    "year": null,
+    "year": 1936,
     "team": "Osaka Tigers",
     "wins": 6,
     "losses": 1,
@@ -641,7 +641,7 @@
   },
   {
     "playerId": "53553872",
-    "year": null,
+    "year": 1936,
     "team": "Osaka Tigers",
     "wins": 1,
     "losses": 1,
@@ -657,7 +657,7 @@
   },
   {
     "playerId": "61063872",
-    "year": null,
+    "year": 1936,
     "team": "Hankyu Club",
     "wins": 3,
     "losses": 2,
@@ -673,7 +673,7 @@
   },
   {
     "playerId": "61563872",
-    "year": null,
+    "year": 1936,
     "team": "Osaka Tigers",
     "wins": 6,
     "losses": 0,
@@ -689,7 +689,7 @@
   },
   {
     "playerId": "61563872",
-    "year": null,
+    "year": 1936,
     "team": "Osaka Tigers",
     "wins": 0,
     "losses": 0,
@@ -705,7 +705,7 @@
   },
   {
     "playerId": "61663872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Kyojin",
     "wins": 0,
     "losses": 0,
@@ -721,7 +721,7 @@
   },
   {
     "playerId": "61763872",
-    "year": null,
+    "year": 1936,
     "team": "Hankyu Club",
     "wins": 6,
     "losses": 4,
@@ -737,7 +737,7 @@
   },
   {
     "playerId": "61763872",
-    "year": null,
+    "year": 1936,
     "team": "Hankyu Club",
     "wins": 6,
     "losses": 2,
@@ -753,7 +753,7 @@
   },
   {
     "playerId": "63163872",
-    "year": null,
+    "year": 1936,
     "team": "Dai Tokyo",
     "wins": 0,
     "losses": 1,
@@ -769,7 +769,7 @@
   },
   {
     "playerId": "63563872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Club",
     "wins": 8,
     "losses": 5,
@@ -785,7 +785,7 @@
   },
   {
     "playerId": "71173872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Senators",
     "wins": 3,
     "losses": 1,
@@ -801,7 +801,7 @@
   },
   {
     "playerId": "71173872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Senators",
     "wins": 2,
     "losses": 0,
@@ -817,7 +817,7 @@
   },
   {
     "playerId": "71373872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Senators",
     "wins": 2,
     "losses": 5,
@@ -833,7 +833,7 @@
   },
   {
     "playerId": "71373872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Senators",
     "wins": 4,
     "losses": 0,
@@ -849,7 +849,7 @@
   },
   {
     "playerId": "73373872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Club",
     "wins": 0,
     "losses": 0,
@@ -865,7 +865,7 @@
   },
   {
     "playerId": "73373872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Club",
     "wins": 1,
     "losses": 3,
@@ -881,7 +881,7 @@
   },
   {
     "playerId": "81183872",
-    "year": null,
+    "year": 1936,
     "team": "Tokyo Senators",
     "wins": 0,
     "losses": 1,
@@ -897,7 +897,7 @@
   },
   {
     "playerId": "81483872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Golden Dolphins",
     "wins": 6,
     "losses": 8,
@@ -913,7 +913,7 @@
   },
   {
     "playerId": "81483872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Golden Dolphins",
     "wins": 1,
     "losses": 1,
@@ -929,7 +929,7 @@
   },
   {
     "playerId": "83383872",
-    "year": null,
+    "year": 1936,
     "team": "Hankyu Club",
     "wins": 0,
     "losses": 0,
@@ -945,7 +945,7 @@
   },
   {
     "playerId": "83383872",
-    "year": null,
+    "year": 1936,
     "team": "Hankyu Club",
     "wins": 4,
     "losses": 1,
@@ -961,7 +961,7 @@
   },
   {
     "playerId": "91093872",
-    "year": null,
+    "year": 1936,
     "team": "Dai Tokyo",
     "wins": 1,
     "losses": 10,
@@ -977,7 +977,7 @@
   },
   {
     "playerId": "91093872",
-    "year": null,
+    "year": 1936,
     "team": "Dai Tokyo",
     "wins": 0,
     "losses": 2,
@@ -993,7 +993,7 @@
   },
   {
     "playerId": "91193872",
-    "year": null,
+    "year": 1936,
     "team": "Hankyu Club",
     "wins": 1,
     "losses": 1,
@@ -1009,7 +1009,7 @@
   },
   {
     "playerId": "91193872",
-    "year": null,
+    "year": 1936,
     "team": "Hankyu Club",
     "wins": 1,
     "losses": 3,
@@ -1025,7 +1025,7 @@
   },
   {
     "playerId": "91793872",
-    "year": null,
+    "year": 1936,
     "team": "Nagoya Golden Dolphins",
     "wins": 1,
     "losses": 0,
@@ -1041,7 +1041,7 @@
   },
   {
     "playerId": "01103874",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Club",
     "wins": 0,
     "losses": 0,
@@ -1057,7 +1057,7 @@
   },
   {
     "playerId": "01303874",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Club",
     "wins": 1,
     "losses": 4,
@@ -1073,7 +1073,7 @@
   },
   {
     "playerId": "01403874",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 0,
     "losses": 0,
@@ -1089,7 +1089,7 @@
   },
   {
     "playerId": "01703874",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Club",
     "wins": 2,
     "losses": 1,
@@ -1105,7 +1105,7 @@
   },
   {
     "playerId": "01703874",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Club",
     "wins": 9,
     "losses": 7,
@@ -1121,7 +1121,7 @@
   },
   {
     "playerId": "03503872",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 1,
     "losses": 0,
@@ -1137,7 +1137,7 @@
   },
   {
     "playerId": "03503872",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 0,
     "losses": 1,
@@ -1153,7 +1153,7 @@
   },
   {
     "playerId": "11013872",
-    "year": null,
+    "year": 1937,
     "team": "Lion Baseball Club",
     "wins": 3,
     "losses": 11,
@@ -1169,7 +1169,7 @@
   },
   {
     "playerId": "11013872",
-    "year": null,
+    "year": 1937,
     "team": "Dai Tokyo",
     "wins": 11,
     "losses": 10,
@@ -1185,7 +1185,7 @@
   },
   {
     "playerId": "11013874",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Club",
     "wins": 0,
     "losses": 0,
@@ -1201,7 +1201,7 @@
   },
   {
     "playerId": "11513872",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Club",
     "wins": 0,
     "losses": 2,
@@ -1217,7 +1217,7 @@
   },
   {
     "playerId": "11513872",
-    "year": null,
+    "year": 1937,
     "team": "Dai Tokyo",
     "wins": 1,
     "losses": 1,
@@ -1233,7 +1233,7 @@
   },
   {
     "playerId": "11513872",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Club",
     "wins": 3,
     "losses": 4,
@@ -1249,7 +1249,7 @@
   },
   {
     "playerId": "13913872",
-    "year": null,
+    "year": 1937,
     "team": "Osaka Tigers",
     "wins": 9,
     "losses": 4,
@@ -1265,7 +1265,7 @@
   },
   {
     "playerId": "13913872",
-    "year": null,
+    "year": 1937,
     "team": "Osaka Tigers",
     "wins": 8,
     "losses": 2,
@@ -1281,7 +1281,7 @@
   },
   {
     "playerId": "21023872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Kyojin",
     "wins": 9,
     "losses": 6,
@@ -1297,7 +1297,7 @@
   },
   {
     "playerId": "21023872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Kyojin",
     "wins": 24,
     "losses": 4,
@@ -1313,7 +1313,7 @@
   },
   {
     "playerId": "21223874",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Golden Dolphins",
     "wins": 0,
     "losses": 4,
@@ -1329,7 +1329,7 @@
   },
   {
     "playerId": "21223874",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Golden Dolphins",
     "wins": 1,
     "losses": 2,
@@ -1345,7 +1345,7 @@
   },
   {
     "playerId": "23123872",
-    "year": null,
+    "year": 1937,
     "team": "Osaka Tigers",
     "wins": 0,
     "losses": 0,
@@ -1361,7 +1361,7 @@
   },
   {
     "playerId": "23123872",
-    "year": null,
+    "year": 1937,
     "team": "Osaka Tigers",
     "wins": 4,
     "losses": 1,
@@ -1377,7 +1377,7 @@
   },
   {
     "playerId": "31033874",
-    "year": null,
+    "year": 1937,
     "team": "Osaka Tigers",
     "wins": 15,
     "losses": 3,
@@ -1393,7 +1393,7 @@
   },
   {
     "playerId": "31033874",
-    "year": null,
+    "year": 1937,
     "team": "Osaka Tigers",
     "wins": 9,
     "losses": 3,
@@ -1409,7 +1409,7 @@
   },
   {
     "playerId": "31233874",
-    "year": null,
+    "year": 1937,
     "team": "Korakuen Eagles",
     "wins": 3,
     "losses": 2,
@@ -1425,7 +1425,7 @@
   },
   {
     "playerId": "31233874",
-    "year": null,
+    "year": 1937,
     "team": "Korakuen Eagles",
     "wins": 2,
     "losses": 6,
@@ -1441,7 +1441,7 @@
   },
   {
     "playerId": "31533874",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 3,
     "losses": 7,
@@ -1457,7 +1457,7 @@
   },
   {
     "playerId": "31533874",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 7,
     "losses": 9,
@@ -1473,7 +1473,7 @@
   },
   {
     "playerId": "31733872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Senators",
     "wins": 0,
     "losses": 1,
@@ -1489,7 +1489,7 @@
   },
   {
     "playerId": "31733872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Senators",
     "wins": 1,
     "losses": 0,
@@ -1505,7 +1505,7 @@
   },
   {
     "playerId": "33333872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Kyojin",
     "wins": 2,
     "losses": 4,
@@ -1521,7 +1521,7 @@
   },
   {
     "playerId": "33333872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Kyojin",
     "wins": 4,
     "losses": 5,
@@ -1536,8 +1536,8 @@
     "perfectGame": false
   },
   {
-    "playerId": "01103846",
-    "year": null,
+    "playerId": "41143874",
+    "year": 1937,
     "team": "Korakuen Eagles",
     "wins": 0,
     "losses": 0,
@@ -1552,8 +1552,8 @@
     "perfectGame": false
   },
   {
-    "playerId": "01103846",
-    "year": null,
+    "playerId": "41143874",
+    "year": 1937,
     "team": "Korakuen Eagles",
     "wins": 1,
     "losses": 3,
@@ -1569,7 +1569,7 @@
   },
   {
     "playerId": "41243874",
-    "year": null,
+    "year": 1937,
     "team": "Korakuen Eagles",
     "wins": 0,
     "losses": 1,
@@ -1585,7 +1585,7 @@
   },
   {
     "playerId": "41243874",
-    "year": null,
+    "year": 1937,
     "team": "Korakuen Eagles",
     "wins": 1,
     "losses": 7,
@@ -1601,7 +1601,7 @@
   },
   {
     "playerId": "41543874",
-    "year": null,
+    "year": 1937,
     "team": "Korakuen Eagles",
     "wins": 0,
     "losses": 0,
@@ -1617,7 +1617,7 @@
   },
   {
     "playerId": "41743872",
-    "year": null,
+    "year": 1937,
     "team": "Lion Baseball Club",
     "wins": 13,
     "losses": 10,
@@ -1633,7 +1633,7 @@
   },
   {
     "playerId": "41743872",
-    "year": null,
+    "year": 1937,
     "team": "Dai Tokyo",
     "wins": 6,
     "losses": 2,
@@ -1649,7 +1649,7 @@
   },
   {
     "playerId": "41743872",
-    "year": null,
+    "year": 1937,
     "team": "Osaka Tigers",
     "wins": 0,
     "losses": 0,
@@ -1665,7 +1665,7 @@
   },
   {
     "playerId": "41843872",
-    "year": null,
+    "year": 1937,
     "team": "Korakuen Eagles",
     "wins": 12,
     "losses": 11,
@@ -1681,7 +1681,7 @@
   },
   {
     "playerId": "41843872",
-    "year": null,
+    "year": 1937,
     "team": "Korakuen Eagles",
     "wins": 7,
     "losses": 21,
@@ -1697,7 +1697,7 @@
   },
   {
     "playerId": "41943874",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Golden Dolphins",
     "wins": 7,
     "losses": 9,
@@ -1713,7 +1713,7 @@
   },
   {
     "playerId": "41943874",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Golden Dolphins",
     "wins": 5,
     "losses": 7,
@@ -1729,7 +1729,7 @@
   },
   {
     "playerId": "43143872",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Golden Dolphins",
     "wins": 7,
     "losses": 4,
@@ -1745,7 +1745,7 @@
   },
   {
     "playerId": "43143872",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Golden Dolphins",
     "wins": 15,
     "losses": 13,
@@ -1761,7 +1761,7 @@
   },
   {
     "playerId": "43543872",
-    "year": null,
+    "year": 1937,
     "team": "Lion Baseball Club",
     "wins": 0,
     "losses": 0,
@@ -1777,7 +1777,7 @@
   },
   {
     "playerId": "43543872",
-    "year": null,
+    "year": 1937,
     "team": "Dai Tokyo",
     "wins": 0,
     "losses": 1,
@@ -1793,7 +1793,7 @@
   },
   {
     "playerId": "51153872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Kyojin",
     "wins": 2,
     "losses": 1,
@@ -1809,7 +1809,7 @@
   },
   {
     "playerId": "51153872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Kyojin",
     "wins": 0,
     "losses": 0,
@@ -1825,7 +1825,7 @@
   },
   {
     "playerId": "51253872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Kyojin",
     "wins": 15,
     "losses": 7,
@@ -1841,7 +1841,7 @@
   },
   {
     "playerId": "51253872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Kyojin",
     "wins": 13,
     "losses": 4,
@@ -1857,7 +1857,7 @@
   },
   {
     "playerId": "51253874",
-    "year": null,
+    "year": 1937,
     "team": "Korakuen Eagles",
     "wins": 1,
     "losses": 3,
@@ -1873,7 +1873,7 @@
   },
   {
     "playerId": "51353872",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 5,
     "losses": 4,
@@ -1889,7 +1889,7 @@
   },
   {
     "playerId": "51353872",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 8,
     "losses": 6,
@@ -1905,7 +1905,7 @@
   },
   {
     "playerId": "51553872",
-    "year": null,
+    "year": 1937,
     "team": "Lion Baseball Club",
     "wins": 1,
     "losses": 5,
@@ -1921,7 +1921,7 @@
   },
   {
     "playerId": "51553872",
-    "year": null,
+    "year": 1937,
     "team": "Dai Tokyo",
     "wins": 3,
     "losses": 12,
@@ -1937,7 +1937,7 @@
   },
   {
     "playerId": "51853872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Senators",
     "wins": 15,
     "losses": 15,
@@ -1953,7 +1953,7 @@
   },
   {
     "playerId": "51853872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Senators",
     "wins": 19,
     "losses": 7,
@@ -1969,7 +1969,7 @@
   },
   {
     "playerId": "53153872",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Golden Dolphins",
     "wins": 0,
     "losses": 1,
@@ -1985,7 +1985,7 @@
   },
   {
     "playerId": "53553872",
-    "year": null,
+    "year": 1937,
     "team": "Osaka Tigers",
     "wins": 11,
     "losses": 0,
@@ -2001,7 +2001,7 @@
   },
   {
     "playerId": "53553872",
-    "year": null,
+    "year": 1937,
     "team": "Osaka Tigers",
     "wins": 8,
     "losses": 3,
@@ -2017,7 +2017,7 @@
   },
   {
     "playerId": "61063872",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 1,
     "losses": 2,
@@ -2033,7 +2033,7 @@
   },
   {
     "playerId": "61063872",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 6,
     "losses": 3,
@@ -2049,7 +2049,7 @@
   },
   {
     "playerId": "61563872",
-    "year": null,
+    "year": 1937,
     "team": "Osaka Tigers",
     "wins": 4,
     "losses": 1,
@@ -2065,7 +2065,7 @@
   },
   {
     "playerId": "61563872",
-    "year": null,
+    "year": 1937,
     "team": "Osaka Tigers",
     "wins": 11,
     "losses": 5,
@@ -2081,7 +2081,7 @@
   },
   {
     "playerId": "61563874",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Golden Dolphins",
     "wins": 0,
     "losses": 1,
@@ -2097,7 +2097,7 @@
   },
   {
     "playerId": "61663872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Kyojin",
     "wins": 2,
     "losses": 0,
@@ -2113,7 +2113,7 @@
   },
   {
     "playerId": "61763872",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 2,
     "losses": 4,
@@ -2129,7 +2129,7 @@
   },
   {
     "playerId": "63563872",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Club",
     "wins": 5,
     "losses": 11,
@@ -2145,7 +2145,7 @@
   },
   {
     "playerId": "63563872",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Club",
     "wins": 3,
     "losses": 9,
@@ -2161,7 +2161,7 @@
   },
   {
     "playerId": "71073874",
-    "year": null,
+    "year": 1937,
     "team": "Osaka Tigers",
     "wins": 0,
     "losses": 0,
@@ -2177,7 +2177,7 @@
   },
   {
     "playerId": "71173872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Senators",
     "wins": 3,
     "losses": 8,
@@ -2193,7 +2193,7 @@
   },
   {
     "playerId": "71173872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Senators",
     "wins": 5,
     "losses": 12,
@@ -2209,7 +2209,7 @@
   },
   {
     "playerId": "71173874",
-    "year": null,
+    "year": 1937,
     "team": "Osaka Tigers",
     "wins": 0,
     "losses": 1,
@@ -2225,7 +2225,7 @@
   },
   {
     "playerId": "71173874",
-    "year": null,
+    "year": 1937,
     "team": "Osaka Tigers",
     "wins": 1,
     "losses": 0,
@@ -2241,7 +2241,7 @@
   },
   {
     "playerId": "71473874",
-    "year": null,
+    "year": 1937,
     "team": "Korakuen Eagles",
     "wins": 0,
     "losses": 0,
@@ -2257,7 +2257,7 @@
   },
   {
     "playerId": "71473874",
-    "year": null,
+    "year": 1937,
     "team": "Korakuen Eagles",
     "wins": 0,
     "losses": 1,
@@ -2273,7 +2273,7 @@
   },
   {
     "playerId": "71773874",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Golden Dolphins",
     "wins": 9,
     "losses": 7,
@@ -2289,7 +2289,7 @@
   },
   {
     "playerId": "71773874",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Golden Dolphins",
     "wins": 4,
     "losses": 7,
@@ -2305,7 +2305,7 @@
   },
   {
     "playerId": "81183872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Senators",
     "wins": 2,
     "losses": 3,
@@ -2321,7 +2321,7 @@
   },
   {
     "playerId": "81183872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Senators",
     "wins": 5,
     "losses": 7,
@@ -2337,7 +2337,7 @@
   },
   {
     "playerId": "81283874",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 3,
     "losses": 9,
@@ -2353,7 +2353,7 @@
   },
   {
     "playerId": "81283874",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 5,
     "losses": 2,
@@ -2369,7 +2369,7 @@
   },
   {
     "playerId": "81583874",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Club",
     "wins": 1,
     "losses": 8,
@@ -2385,7 +2385,7 @@
   },
   {
     "playerId": "83383872",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 3,
     "losses": 7,
@@ -2401,7 +2401,7 @@
   },
   {
     "playerId": "83383872",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 0,
     "losses": 1,
@@ -2417,7 +2417,7 @@
   },
   {
     "playerId": "83783872",
-    "year": null,
+    "year": 1937,
     "team": "Tokyo Senators",
     "wins": 0,
     "losses": 0,
@@ -2433,7 +2433,7 @@
   },
   {
     "playerId": "91093872",
-    "year": null,
+    "year": 1937,
     "team": "Lion Baseball Club",
     "wins": 2,
     "losses": 3,
@@ -2449,7 +2449,7 @@
   },
   {
     "playerId": "91093872",
-    "year": null,
+    "year": 1937,
     "team": "Dai Tokyo",
     "wins": 0,
     "losses": 5,
@@ -2465,7 +2465,7 @@
   },
   {
     "playerId": "91193872",
-    "year": null,
+    "year": 1937,
     "team": "Hankyu Club",
     "wins": 1,
     "losses": 0,
@@ -2481,7 +2481,7 @@
   },
   {
     "playerId": "91293874",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Club",
     "wins": 3,
     "losses": 6,
@@ -2497,7 +2497,7 @@
   },
   {
     "playerId": "91393874",
-    "year": null,
+    "year": 1937,
     "team": "Korakuen Eagles",
     "wins": 0,
     "losses": 3,
@@ -2513,7 +2513,7 @@
   },
   {
     "playerId": "91793872",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Club",
     "wins": 2,
     "losses": 5,
@@ -2529,7 +2529,7 @@
   },
   {
     "playerId": "91793872",
-    "year": null,
+    "year": 1937,
     "team": "Nagoya Club",
     "wins": 5,
     "losses": 11,
@@ -2545,7 +2545,7 @@
   },
   {
     "playerId": "91993874",
-    "year": null,
+    "year": 1937,
     "team": "Korakuen Eagles",
     "wins": 13,
     "losses": 5,
@@ -2561,7 +2561,7 @@
   },
   {
     "playerId": "01103874",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Club",
     "wins": 1,
     "losses": 0,
@@ -2577,7 +2577,7 @@
   },
   {
     "playerId": "01303876",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Kyojin",
     "wins": 0,
     "losses": 1,
@@ -2593,7 +2593,7 @@
   },
   {
     "playerId": "01303876",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Kyojin",
     "wins": 2,
     "losses": 2,
@@ -2609,7 +2609,7 @@
   },
   {
     "playerId": "01403874",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 0,
     "losses": 0,
@@ -2625,7 +2625,7 @@
   },
   {
     "playerId": "01403874",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 5,
     "losses": 2,
@@ -2641,7 +2641,7 @@
   },
   {
     "playerId": "01703874",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Club",
     "wins": 0,
     "losses": 2,
@@ -2657,7 +2657,7 @@
   },
   {
     "playerId": "03503872",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 6,
     "losses": 4,
@@ -2673,7 +2673,7 @@
   },
   {
     "playerId": "03503872",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 3,
     "losses": 1,
@@ -2689,7 +2689,7 @@
   },
   {
     "playerId": "11013872",
-    "year": null,
+    "year": 1938,
     "team": "Lion Baseball Club",
     "wins": 5,
     "losses": 6,
@@ -2705,7 +2705,7 @@
   },
   {
     "playerId": "11013872",
-    "year": null,
+    "year": 1938,
     "team": "Lion Baseball Club",
     "wins": 2,
     "losses": 5,
@@ -2721,7 +2721,7 @@
   },
   {
     "playerId": "11013874",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Club",
     "wins": 3,
     "losses": 4,
@@ -2737,7 +2737,7 @@
   },
   {
     "playerId": "11013874",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Club",
     "wins": 3,
     "losses": 4,
@@ -2753,7 +2753,7 @@
   },
   {
     "playerId": "11313876",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 1,
     "losses": 1,
@@ -2769,7 +2769,7 @@
   },
   {
     "playerId": "11313876",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 3,
     "losses": 2,
@@ -2785,7 +2785,7 @@
   },
   {
     "playerId": "11513872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Senators",
     "wins": 0,
     "losses": 2,
@@ -2801,7 +2801,7 @@
   },
   {
     "playerId": "11513872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Senators",
     "wins": 1,
     "losses": 3,
@@ -2817,7 +2817,7 @@
   },
   {
     "playerId": "13913872",
-    "year": null,
+    "year": 1938,
     "team": "Osaka Tigers",
     "wins": 4,
     "losses": 2,
@@ -2833,7 +2833,7 @@
   },
   {
     "playerId": "21023876",
-    "year": null,
+    "year": 1938,
     "team": "Nankai Club",
     "wins": 0,
     "losses": 2,
@@ -2849,7 +2849,7 @@
   },
   {
     "playerId": "21223874",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Golden Dolphins",
     "wins": 0,
     "losses": 0,
@@ -2865,7 +2865,7 @@
   },
   {
     "playerId": "21323876",
-    "year": null,
+    "year": 1938,
     "team": "Osaka Tigers",
     "wins": 0,
     "losses": 0,
@@ -2881,7 +2881,7 @@
   },
   {
     "playerId": "21523876",
-    "year": null,
+    "year": 1938,
     "team": "Nankai Club",
     "wins": 1,
     "losses": 5,
@@ -2897,7 +2897,7 @@
   },
   {
     "playerId": "23123872",
-    "year": null,
+    "year": 1938,
     "team": "Osaka Tigers",
     "wins": 0,
     "losses": 1,
@@ -2913,7 +2913,7 @@
   },
   {
     "playerId": "23123872",
-    "year": null,
+    "year": 1938,
     "team": "Osaka Tigers",
     "wins": 4,
     "losses": 1,
@@ -2929,7 +2929,7 @@
   },
   {
     "playerId": "31033874",
-    "year": null,
+    "year": 1938,
     "team": "Osaka Tigers",
     "wins": 9,
     "losses": 2,
@@ -2945,7 +2945,7 @@
   },
   {
     "playerId": "31033874",
-    "year": null,
+    "year": 1938,
     "team": "Osaka Tigers",
     "wins": 11,
     "losses": 4,
@@ -2961,7 +2961,7 @@
   },
   {
     "playerId": "31433874",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Senators",
     "wins": 0,
     "losses": 1,
@@ -2977,7 +2977,7 @@
   },
   {
     "playerId": "31433874",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Senators",
     "wins": 0,
     "losses": 1,
@@ -2993,7 +2993,7 @@
   },
   {
     "playerId": "31733872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Senators",
     "wins": 9,
     "losses": 9,
@@ -3009,7 +3009,7 @@
   },
   {
     "playerId": "31733872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Senators",
     "wins": 4,
     "losses": 6,
@@ -3025,7 +3025,7 @@
   },
   {
     "playerId": "33333872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Kyojin",
     "wins": 3,
     "losses": 4,
@@ -3041,7 +3041,7 @@
   },
   {
     "playerId": "33333872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Kyojin",
     "wins": 6,
     "losses": 3,
@@ -3057,7 +3057,7 @@
   },
   {
     "playerId": "41743872",
-    "year": null,
+    "year": 1938,
     "team": "Lion Baseball Club",
     "wins": 9,
     "losses": 9,
@@ -3073,7 +3073,7 @@
   },
   {
     "playerId": "41743872",
-    "year": null,
+    "year": 1938,
     "team": "Lion Baseball Club",
     "wins": 7,
     "losses": 18,
@@ -3089,7 +3089,7 @@
   },
   {
     "playerId": "41943874",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Golden Dolphins",
     "wins": 6,
     "losses": 13,
@@ -3105,7 +3105,7 @@
   },
   {
     "playerId": "41943874",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Golden Dolphins",
     "wins": 8,
     "losses": 7,
@@ -3121,7 +3121,7 @@
   },
   {
     "playerId": "43143872",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Golden Dolphins",
     "wins": 1,
     "losses": 7,
@@ -3137,7 +3137,7 @@
   },
   {
     "playerId": "43143872",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Golden Dolphins",
     "wins": 3,
     "losses": 6,
@@ -3153,7 +3153,7 @@
   },
   {
     "playerId": "51153872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Kyojin",
     "wins": 0,
     "losses": 0,
@@ -3169,7 +3169,7 @@
   },
   {
     "playerId": "51253872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Kyojin",
     "wins": 19,
     "losses": 2,
@@ -3185,7 +3185,7 @@
   },
   {
     "playerId": "51253872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Kyojin",
     "wins": 14,
     "losses": 3,
@@ -3201,7 +3201,7 @@
   },
   {
     "playerId": "51253874",
-    "year": null,
+    "year": 1938,
     "team": "Eagles",
     "wins": 0,
     "losses": 4,
@@ -3217,7 +3217,7 @@
   },
   {
     "playerId": "51253874",
-    "year": null,
+    "year": 1938,
     "team": "Eagles",
     "wins": 3,
     "losses": 5,
@@ -3233,7 +3233,7 @@
   },
   {
     "playerId": "51353872",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 7,
     "losses": 6,
@@ -3249,7 +3249,7 @@
   },
   {
     "playerId": "51353872",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 5,
     "losses": 4,
@@ -3265,7 +3265,7 @@
   },
   {
     "playerId": "51553872",
-    "year": null,
+    "year": 1938,
     "team": "Lion Baseball Club",
     "wins": 5,
     "losses": 5,
@@ -3281,7 +3281,7 @@
   },
   {
     "playerId": "51553872",
-    "year": null,
+    "year": 1938,
     "team": "Lion Baseball Club",
     "wins": 0,
     "losses": 3,
@@ -3297,7 +3297,7 @@
   },
   {
     "playerId": "51753872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Senators",
     "wins": 0,
     "losses": 0,
@@ -3313,7 +3313,7 @@
   },
   {
     "playerId": "51753876",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Golden Dolphins",
     "wins": 4,
     "losses": 9,
@@ -3329,7 +3329,7 @@
   },
   {
     "playerId": "51753876",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Golden Dolphins",
     "wins": 0,
     "losses": 3,
@@ -3345,7 +3345,7 @@
   },
   {
     "playerId": "53553872",
-    "year": null,
+    "year": 1938,
     "team": "Osaka Tigers",
     "wins": 11,
     "losses": 5,
@@ -3361,7 +3361,7 @@
   },
   {
     "playerId": "53553872",
-    "year": null,
+    "year": 1938,
     "team": "Osaka Tigers",
     "wins": 10,
     "losses": 1,
@@ -3377,7 +3377,7 @@
   },
   {
     "playerId": "61063872",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 4,
     "losses": 2,
@@ -3393,7 +3393,7 @@
   },
   {
     "playerId": "61063872",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 2,
     "losses": 1,
@@ -3409,7 +3409,7 @@
   },
   {
     "playerId": "61363876",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 0,
     "losses": 0,
@@ -3425,7 +3425,7 @@
   },
   {
     "playerId": "61463874",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 0,
     "losses": 1,
@@ -3441,7 +3441,7 @@
   },
   {
     "playerId": "61563872",
-    "year": null,
+    "year": 1938,
     "team": "Osaka Tigers",
     "wins": 2,
     "losses": 1,
@@ -3457,7 +3457,7 @@
   },
   {
     "playerId": "61563872",
-    "year": null,
+    "year": 1938,
     "team": "Osaka Tigers",
     "wins": 2,
     "losses": 0,
@@ -3473,7 +3473,7 @@
   },
   {
     "playerId": "61563874",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Senators",
     "wins": 0,
     "losses": 0,
@@ -3489,7 +3489,7 @@
   },
   {
     "playerId": "61563874",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Golden Dolphins",
     "wins": 1,
     "losses": 0,
@@ -3505,7 +3505,7 @@
   },
   {
     "playerId": "61663872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Kyojin",
     "wins": 2,
     "losses": 3,
@@ -3521,7 +3521,7 @@
   },
   {
     "playerId": "61963876",
-    "year": null,
+    "year": 1938,
     "team": "Nankai Club",
     "wins": 6,
     "losses": 11,
@@ -3537,7 +3537,7 @@
   },
   {
     "playerId": "63563872",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Club",
     "wins": 2,
     "losses": 1,
@@ -3553,7 +3553,7 @@
   },
   {
     "playerId": "63563872",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Club",
     "wins": 4,
     "losses": 9,
@@ -3569,7 +3569,7 @@
   },
   {
     "playerId": "71173872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Senators",
     "wins": 7,
     "losses": 5,
@@ -3585,7 +3585,7 @@
   },
   {
     "playerId": "71173872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Senators",
     "wins": 8,
     "losses": 9,
@@ -3601,7 +3601,7 @@
   },
   {
     "playerId": "71173874",
-    "year": null,
+    "year": 1938,
     "team": "Osaka Tigers",
     "wins": 1,
     "losses": 1,
@@ -3617,7 +3617,7 @@
   },
   {
     "playerId": "71173874",
-    "year": null,
+    "year": 1938,
     "team": "Osaka Tigers",
     "wins": 0,
     "losses": 0,
@@ -3633,7 +3633,7 @@
   },
   {
     "playerId": "71473874",
-    "year": null,
+    "year": 1938,
     "team": "Eagles",
     "wins": 3,
     "losses": 4,
@@ -3649,7 +3649,7 @@
   },
   {
     "playerId": "71473874",
-    "year": null,
+    "year": 1938,
     "team": "Eagles",
     "wins": 0,
     "losses": 0,
@@ -3665,7 +3665,7 @@
   },
   {
     "playerId": "71773874",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Golden Dolphins",
     "wins": 1,
     "losses": 6,
@@ -3681,7 +3681,7 @@
   },
   {
     "playerId": "71773876",
-    "year": null,
+    "year": 1938,
     "team": "Osaka Tigers",
     "wins": 0,
     "losses": 1,
@@ -3697,7 +3697,7 @@
   },
   {
     "playerId": "71773876",
-    "year": null,
+    "year": 1938,
     "team": "Osaka Tigers",
     "wins": 2,
     "losses": 0,
@@ -3713,7 +3713,7 @@
   },
   {
     "playerId": "81183872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Senators",
     "wins": 3,
     "losses": 3,
@@ -3729,7 +3729,7 @@
   },
   {
     "playerId": "81183872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Senators",
     "wins": 0,
     "losses": 2,
@@ -3745,7 +3745,7 @@
   },
   {
     "playerId": "81383876",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Kyojin",
     "wins": 0,
     "losses": 0,
@@ -3761,7 +3761,7 @@
   },
   {
     "playerId": "81583874",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Club",
     "wins": 1,
     "losses": 3,
@@ -3777,7 +3777,7 @@
   },
   {
     "playerId": "81583874",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Club",
     "wins": 1,
     "losses": 3,
@@ -3793,7 +3793,7 @@
   },
   {
     "playerId": "81583876",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 1,
     "losses": 2,
@@ -3809,7 +3809,7 @@
   },
   {
     "playerId": "81583876",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 1,
     "losses": 1,
@@ -3825,7 +3825,7 @@
   },
   {
     "playerId": "81783876",
-    "year": null,
+    "year": 1938,
     "team": "Nankai Club",
     "wins": 4,
     "losses": 7,
@@ -3841,7 +3841,7 @@
   },
   {
     "playerId": "91193872",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 2,
     "losses": 1,
@@ -3857,7 +3857,7 @@
   },
   {
     "playerId": "91193872",
-    "year": null,
+    "year": 1938,
     "team": "Hankyu Club",
     "wins": 2,
     "losses": 2,
@@ -3873,7 +3873,7 @@
   },
   {
     "playerId": "91293874",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Club",
     "wins": 12,
     "losses": 8,
@@ -3889,7 +3889,7 @@
   },
   {
     "playerId": "91293874",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Club",
     "wins": 3,
     "losses": 8,
@@ -3905,7 +3905,7 @@
   },
   {
     "playerId": "91393876",
-    "year": null,
+    "year": 1938,
     "team": "Eagles",
     "wins": 7,
     "losses": 10,
@@ -3921,7 +3921,7 @@
   },
   {
     "playerId": "91393876",
-    "year": null,
+    "year": 1938,
     "team": "Eagles",
     "wins": 12,
     "losses": 9,
@@ -3937,7 +3937,7 @@
   },
   {
     "playerId": "91793872",
-    "year": null,
+    "year": 1938,
     "team": "Nagoya Club",
     "wins": 0,
     "losses": 0,
@@ -3953,7 +3953,7 @@
   },
   {
     "playerId": "91793876",
-    "year": null,
+    "year": 1938,
     "team": "Nankai Club",
     "wins": 0,
     "losses": 1,
@@ -3969,7 +3969,7 @@
   },
   {
     "playerId": "91993874",
-    "year": null,
+    "year": 1938,
     "team": "Eagles",
     "wins": 5,
     "losses": 2,
@@ -3985,7 +3985,7 @@
   },
   {
     "playerId": "91993874",
-    "year": null,
+    "year": 1938,
     "team": "Eagles",
     "wins": 3,
     "losses": 1,
@@ -4001,7 +4001,7 @@
   },
   {
     "playerId": "93593872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Kyojin",
     "wins": 8,
     "losses": 2,
@@ -4017,7 +4017,7 @@
   },
   {
     "playerId": "93593872",
-    "year": null,
+    "year": 1938,
     "team": "Tokyo Kyojin",
     "wins": 0,
     "losses": 0,
@@ -20928,7 +20928,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "91293872",
+    "playerId": "11013807",
     "year": 1953,
     "team": "Yomiuri Giants",
     "wins": 1,
@@ -24224,7 +24224,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71073876",
+    "playerId": "23323809",
     "year": 1954,
     "team": "Hiroshima Toyo Carp",
     "wins": 0,
@@ -25152,7 +25152,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "31733891",
+    "playerId": "61463809",
     "year": 1954,
     "team": "SoftBank Hawks",
     "wins": 1,
@@ -27216,7 +27216,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71073876",
+    "playerId": "23323809",
     "year": 1955,
     "team": "Hiroshima Toyo Carp",
     "wins": 1,
@@ -30272,7 +30272,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71073876",
+    "playerId": "23323809",
     "year": 1956,
     "team": "Hiroshima Toyo Carp",
     "wins": 1,
@@ -33232,7 +33232,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71073876",
+    "playerId": "23323809",
     "year": 1957,
     "team": "Hiroshima Toyo Carp",
     "wins": 1,
@@ -34864,7 +34864,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81983804",
+    "playerId": "11013869",
     "year": 1957,
     "team": "Yomiuri Giants",
     "wins": 0,
@@ -35824,7 +35824,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21823801",
+    "playerId": "21723806",
     "year": 1958,
     "team": "Yokohama DeNA BayStars",
     "wins": 15,
@@ -35888,7 +35888,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71073876",
+    "playerId": "23323809",
     "year": 1958,
     "team": "Hiroshima Toyo Carp",
     "wins": 0,
@@ -37328,7 +37328,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81983804",
+    "playerId": "11013869",
     "year": 1958,
     "team": "Yomiuri Giants",
     "wins": 1,
@@ -38240,7 +38240,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21823801",
+    "playerId": "21723806",
     "year": 1959,
     "team": "Yokohama DeNA BayStars",
     "wins": 12,
@@ -39776,7 +39776,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81983804",
+    "playerId": "11013869",
     "year": 1959,
     "team": "Yomiuri Giants",
     "wins": 0,
@@ -40672,7 +40672,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21823801",
+    "playerId": "21723806",
     "year": 1960,
     "team": "Yokohama DeNA BayStars",
     "wins": 5,
@@ -42304,7 +42304,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81983804",
+    "playerId": "11013869",
     "year": 1960,
     "team": "Yomiuri Giants",
     "wins": 2,
@@ -43184,7 +43184,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21823801",
+    "playerId": "21723806",
     "year": 1961,
     "team": "Yokohama DeNA BayStars",
     "wins": 8,
@@ -43760,7 +43760,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "93193801",
+    "playerId": "41943823",
     "year": 1961,
     "team": "Yomiuri Giants",
     "wins": 0,
@@ -44832,7 +44832,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81983804",
+    "playerId": "11013869",
     "year": 1961,
     "team": "Yomiuri Giants",
     "wins": 17,
@@ -45744,7 +45744,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21823801",
+    "playerId": "21723806",
     "year": 1962,
     "team": "Yokohama DeNA BayStars",
     "wins": 14,
@@ -46272,7 +46272,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "93193801",
+    "playerId": "41943823",
     "year": 1962,
     "team": "Yomiuri Giants",
     "wins": 0,
@@ -47536,7 +47536,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81983804",
+    "playerId": "11013869",
     "year": 1962,
     "team": "Yomiuri Giants",
     "wins": 9,
@@ -48560,7 +48560,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21823801",
+    "playerId": "21723806",
     "year": 1963,
     "team": "Yokohama DeNA BayStars",
     "wins": 8,
@@ -49200,7 +49200,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "93193801",
+    "playerId": "41943823",
     "year": 1963,
     "team": "Yomiuri Giants",
     "wins": 14,
@@ -50240,7 +50240,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81983804",
+    "playerId": "11013869",
     "year": 1963,
     "team": "Yomiuri Giants",
     "wins": 3,
@@ -51184,7 +51184,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21823801",
+    "playerId": "21723806",
     "year": 1964,
     "team": "Yokohama DeNA BayStars",
     "wins": 9,
@@ -51776,7 +51776,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "93193801",
+    "playerId": "41943823",
     "year": 1964,
     "team": "Yomiuri Giants",
     "wins": 12,
@@ -52896,7 +52896,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81983804",
+    "playerId": "11013869",
     "year": 1964,
     "team": "Yomiuri Giants",
     "wins": 0,
@@ -53824,7 +53824,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21823801",
+    "playerId": "21723806",
     "year": 1965,
     "team": "Yokohama DeNA BayStars",
     "wins": 4,
@@ -54464,7 +54464,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "93193801",
+    "playerId": "41943823",
     "year": 1965,
     "team": "Yomiuri Giants",
     "wins": 4,
@@ -55456,7 +55456,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81983804",
+    "playerId": "11013869",
     "year": 1965,
     "team": "Yomiuri Giants",
     "wins": 20,
@@ -56416,7 +56416,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21823801",
+    "playerId": "21723806",
     "year": 1966,
     "team": "Tokyo Orions",
     "wins": 2,
@@ -57008,7 +57008,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "93193801",
+    "playerId": "41943823",
     "year": 1966,
     "team": "Yomiuri Giants",
     "wins": 3,
@@ -57952,7 +57952,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81983804",
+    "playerId": "11013869",
     "year": 1966,
     "team": "Yomiuri Giants",
     "wins": 11,
@@ -58912,7 +58912,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21823801",
+    "playerId": "21723806",
     "year": 1967,
     "team": "Tokyo Orions",
     "wins": 4,
@@ -59616,7 +59616,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "93193801",
+    "playerId": "41943823",
     "year": 1967,
     "team": "Yomiuri Giants",
     "wins": 1,
@@ -60640,7 +60640,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81983804",
+    "playerId": "11013869",
     "year": 1967,
     "team": "Yomiuri Giants",
     "wins": 4,
@@ -61600,7 +61600,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21823801",
+    "playerId": "21723806",
     "year": 1968,
     "team": "Yokohama DeNA BayStars",
     "wins": 0,
@@ -62320,7 +62320,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "93193801",
+    "playerId": "41943823",
     "year": 1968,
     "team": "Yomiuri Giants",
     "wins": 9,
@@ -62960,7 +62960,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1968,
     "team": "SoftBank Hawks",
     "wins": 0,
@@ -63424,7 +63424,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81983804",
+    "playerId": "11013869",
     "year": 1968,
     "team": "Yomiuri Giants",
     "wins": 5,
@@ -65120,7 +65120,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "93193801",
+    "playerId": "41943823",
     "year": 1969,
     "team": "Yomiuri Giants",
     "wins": 10,
@@ -65648,7 +65648,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1969,
     "team": "SoftBank Hawks",
     "wins": 0,
@@ -66144,7 +66144,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81983804",
+    "playerId": "11013869",
     "year": 1969,
     "team": "Yomiuri Giants",
     "wins": 0,
@@ -67792,7 +67792,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "93193801",
+    "playerId": "41943823",
     "year": 1970,
     "team": "Yomiuri Giants",
     "wins": 3,
@@ -68304,7 +68304,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1970,
     "team": "SoftBank Hawks",
     "wins": 0,
@@ -70512,7 +70512,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "93193801",
+    "playerId": "41943823",
     "year": 1971,
     "team": "Seibu Lions",
     "wins": 14,
@@ -70976,7 +70976,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1971,
     "team": "SoftBank Hawks",
     "wins": 1,
@@ -73312,7 +73312,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "93193801",
+    "playerId": "41943823",
     "year": 1972,
     "team": "Seibu Lions",
     "wins": 1,
@@ -73872,7 +73872,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1972,
     "team": "SoftBank Hawks",
     "wins": 0,
@@ -75248,7 +75248,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003828",
+    "playerId": "21023847",
     "year": 1973,
     "team": "Nittaku Home Flyers",
     "wins": 6,
@@ -78048,7 +78048,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003828",
+    "playerId": "21023847",
     "year": 1974,
     "team": "Nippon-Ham Fighters",
     "wins": 4,
@@ -78704,7 +78704,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21123894",
+    "playerId": "41143849",
     "year": 1974,
     "team": "Orix Buffaloes",
     "wins": 0,
@@ -79424,7 +79424,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1974,
     "team": "Hiroshima Toyo Carp",
     "wins": 0,
@@ -80832,7 +80832,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003828",
+    "playerId": "21023847",
     "year": 1975,
     "team": "Nippon-Ham Fighters",
     "wins": 1,
@@ -82880,7 +82880,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21723874",
+    "playerId": "01503842",
     "year": 1976,
     "team": "Chiba Lotte Marines",
     "wins": 0,
@@ -83232,7 +83232,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003828",
+    "playerId": "21023847",
     "year": 1976,
     "team": "Nippon-Ham Fighters",
     "wins": 1,
@@ -84480,7 +84480,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1976,
     "team": "Hiroshima Toyo Carp",
     "wins": 8,
@@ -85536,7 +85536,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21723874",
+    "playerId": "01503842",
     "year": 1977,
     "team": "Chiba Lotte Marines",
     "wins": 2,
@@ -85904,7 +85904,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003828",
+    "playerId": "21023847",
     "year": 1977,
     "team": "Nippon-Ham Fighters",
     "wins": 1,
@@ -87232,7 +87232,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1977,
     "team": "Hiroshima Toyo Carp",
     "wins": 20,
@@ -88240,7 +88240,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21723874",
+    "playerId": "01503842",
     "year": 1978,
     "team": "Yokohama Taiyo Whales",
     "wins": 0,
@@ -88560,7 +88560,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003828",
+    "playerId": "21023847",
     "year": 1978,
     "team": "Yakult Swallows",
     "wins": 0,
@@ -89904,7 +89904,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1978,
     "team": "Hiroshima Toyo Carp",
     "wins": 10,
@@ -90864,7 +90864,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21723874",
+    "playerId": "01503842",
     "year": 1979,
     "team": "Yokohama Taiyo Whales",
     "wins": 5,
@@ -91200,7 +91200,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003828",
+    "playerId": "21023847",
     "year": 1979,
     "team": "Yakult Swallows",
     "wins": 0,
@@ -92512,7 +92512,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1979,
     "team": "Hiroshima Toyo Carp",
     "wins": 3,
@@ -93568,7 +93568,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21723874",
+    "playerId": "01503842",
     "year": 1980,
     "team": "Yokohama Taiyo Whales",
     "wins": 5,
@@ -93936,7 +93936,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003828",
+    "playerId": "21023847",
     "year": 1980,
     "team": "SoftBank Hawks",
     "wins": 3,
@@ -94368,7 +94368,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563805",
+    "playerId": "31533861",
     "year": 1980,
     "team": "Seibu Lions",
     "wins": 0,
@@ -95248,7 +95248,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1980,
     "team": "Hiroshima Toyo Carp",
     "wins": 0,
@@ -96352,7 +96352,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21723874",
+    "playerId": "01503842",
     "year": 1981,
     "team": "Yokohama Taiyo Whales",
     "wins": 0,
@@ -96704,7 +96704,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003828",
+    "playerId": "21023847",
     "year": 1981,
     "team": "SoftBank Hawks",
     "wins": 1,
@@ -97168,7 +97168,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563805",
+    "playerId": "31533861",
     "year": 1981,
     "team": "Seibu Lions",
     "wins": 0,
@@ -97776,7 +97776,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61063847",
+    "playerId": "51453863",
     "year": 1981,
     "team": "Hiroshima Toyo Carp",
     "wins": 0,
@@ -97920,7 +97920,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51853805",
+    "playerId": "61263863",
     "year": 1981,
     "team": "SoftBank Hawks",
     "wins": 5,
@@ -98064,7 +98064,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1981,
     "team": "Nippon-Ham Fighters",
     "wins": 1,
@@ -99520,7 +99520,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003828",
+    "playerId": "21023847",
     "year": 1982,
     "team": "SoftBank Hawks",
     "wins": 0,
@@ -99936,7 +99936,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563805",
+    "playerId": "31533861",
     "year": 1982,
     "team": "Seibu Lions",
     "wins": 1,
@@ -100528,7 +100528,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61063847",
+    "playerId": "51453863",
     "year": 1982,
     "team": "Hiroshima Toyo Carp",
     "wins": 2,
@@ -100720,7 +100720,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51853805",
+    "playerId": "61263863",
     "year": 1982,
     "team": "SoftBank Hawks",
     "wins": 11,
@@ -100848,7 +100848,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1982,
     "team": "Nippon-Ham Fighters",
     "wins": 8,
@@ -101776,7 +101776,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "91793865",
+    "playerId": "41743862",
     "year": 1982,
     "team": "Nippon-Ham Fighters",
     "wins": 5,
@@ -102432,7 +102432,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003828",
+    "playerId": "21023847",
     "year": 1983,
     "team": "Yokohama Taiyo Whales",
     "wins": 0,
@@ -102896,7 +102896,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563805",
+    "playerId": "31533861",
     "year": 1983,
     "team": "Seibu Lions",
     "wins": 2,
@@ -103472,7 +103472,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61063847",
+    "playerId": "51453863",
     "year": 1983,
     "team": "Hiroshima Toyo Carp",
     "wins": 1,
@@ -103680,7 +103680,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51853805",
+    "playerId": "61263863",
     "year": 1983,
     "team": "SoftBank Hawks",
     "wins": 18,
@@ -103744,7 +103744,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1983,
     "team": "Nippon-Ham Fighters",
     "wins": 5,
@@ -104832,7 +104832,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "91793865",
+    "playerId": "41743862",
     "year": 1983,
     "team": "Nippon-Ham Fighters",
     "wins": 6,
@@ -105456,7 +105456,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "13113800",
+    "playerId": "21023869",
     "year": 1984,
     "team": "Chunichi Dragons",
     "wins": 0,
@@ -105968,7 +105968,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563805",
+    "playerId": "31533861",
     "year": 1984,
     "team": "Nippon-Ham Fighters",
     "wins": 1,
@@ -106576,7 +106576,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61063847",
+    "playerId": "51453863",
     "year": 1984,
     "team": "Hiroshima Toyo Carp",
     "wins": 5,
@@ -106848,7 +106848,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51853805",
+    "playerId": "61263863",
     "year": 1984,
     "team": "SoftBank Hawks",
     "wins": 12,
@@ -106944,7 +106944,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1984,
     "team": "Nippon-Ham Fighters",
     "wins": 0,
@@ -107920,7 +107920,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "91793865",
+    "playerId": "41743862",
     "year": 1984,
     "team": "Nippon-Ham Fighters",
     "wins": 2,
@@ -109072,7 +109072,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563805",
+    "playerId": "31533861",
     "year": 1985,
     "team": "Yokohama Taiyo Whales",
     "wins": 0,
@@ -109744,7 +109744,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21523802",
+    "playerId": "51353860",
     "year": 1985,
     "team": "Orix Buffaloes",
     "wins": 0,
@@ -109776,7 +109776,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61063847",
+    "playerId": "51453863",
     "year": 1985,
     "team": "Hiroshima Toyo Carp",
     "wins": 0,
@@ -109904,7 +109904,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01403800",
+    "playerId": "51053881",
     "year": 1985,
     "team": "Nippon-Ham Fighters",
     "wins": 0,
@@ -110032,7 +110032,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51853805",
+    "playerId": "61263863",
     "year": 1985,
     "team": "SoftBank Hawks",
     "wins": 11,
@@ -110112,7 +110112,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1985,
     "team": "Orix Buffaloes",
     "wins": 5,
@@ -111168,7 +111168,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "91793865",
+    "playerId": "41743862",
     "year": 1985,
     "team": "Nippon-Ham Fighters",
     "wins": 6,
@@ -113024,7 +113024,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21523802",
+    "playerId": "51353860",
     "year": 1986,
     "team": "Orix Buffaloes",
     "wins": 0,
@@ -113040,7 +113040,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61063847",
+    "playerId": "51453863",
     "year": 1986,
     "team": "Hiroshima Toyo Carp",
     "wins": 0,
@@ -113168,7 +113168,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01403800",
+    "playerId": "51053881",
     "year": 1986,
     "team": "Nippon-Ham Fighters",
     "wins": 0,
@@ -113328,7 +113328,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51853805",
+    "playerId": "61263863",
     "year": 1986,
     "team": "SoftBank Hawks",
     "wins": 8,
@@ -113408,7 +113408,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81583876",
+    "playerId": "61763826",
     "year": 1986,
     "team": "Orix Buffaloes",
     "wins": 0,
@@ -114576,7 +114576,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "91793865",
+    "playerId": "41743862",
     "year": 1986,
     "team": "Nippon-Ham Fighters",
     "wins": 3,
@@ -115264,7 +115264,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "13113800",
+    "playerId": "21023869",
     "year": 1987,
     "team": "Chunichi Dragons",
     "wins": 0,
@@ -115888,7 +115888,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "31933864",
+    "playerId": "31435117",
     "year": 1987,
     "team": "Yakult Swallows",
     "wins": 0,
@@ -116464,7 +116464,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61063847",
+    "playerId": "51453863",
     "year": 1987,
     "team": "Hiroshima Toyo Carp",
     "wins": 0,
@@ -116752,7 +116752,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51853805",
+    "playerId": "61263863",
     "year": 1987,
     "team": "SoftBank Hawks",
     "wins": 10,
@@ -117392,7 +117392,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 1987,
     "team": "Orix Buffaloes",
     "wins": 0,
@@ -117856,7 +117856,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "91793865",
+    "playerId": "41743862",
     "year": 1987,
     "team": "Nippon-Ham Fighters",
     "wins": 2,
@@ -119120,7 +119120,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "31933864",
+    "playerId": "31435117",
     "year": 1988,
     "team": "Yakult Swallows",
     "wins": 0,
@@ -119744,7 +119744,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61063847",
+    "playerId": "51453863",
     "year": 1988,
     "team": "Hiroshima Toyo Carp",
     "wins": 0,
@@ -120048,7 +120048,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51853805",
+    "playerId": "61263863",
     "year": 1988,
     "team": "SoftBank Hawks",
     "wins": 8,
@@ -121120,7 +121120,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "91793865",
+    "playerId": "41743862",
     "year": 1988,
     "team": "Nippon-Ham Fighters",
     "wins": 1,
@@ -122400,7 +122400,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003865",
+    "playerId": "33633868",
     "year": 1989,
     "team": "Chiba Lotte Marines",
     "wins": 0,
@@ -123376,7 +123376,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51853805",
+    "playerId": "61263863",
     "year": 1989,
     "team": "SoftBank Hawks",
     "wins": 9,
@@ -124000,7 +124000,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 1989,
     "team": "Orix Buffaloes",
     "wins": 0,
@@ -124528,7 +124528,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "91793865",
+    "playerId": "41743862",
     "year": 1989,
     "team": "Nippon-Ham Fighters",
     "wins": 0,
@@ -125840,7 +125840,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003865",
+    "playerId": "33633868",
     "year": 1990,
     "team": "Chiba Lotte Marines",
     "wins": 2,
@@ -126848,7 +126848,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51853805",
+    "playerId": "61263863",
     "year": 1990,
     "team": "Chunichi Dragons",
     "wins": 4,
@@ -126864,7 +126864,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51853805",
+    "playerId": "61263863",
     "year": 1990,
     "team": "SoftBank Hawks",
     "wins": 0,
@@ -127520,7 +127520,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 1990,
     "team": "Orix Buffaloes",
     "wins": 6,
@@ -129488,7 +129488,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003865",
+    "playerId": "33633868",
     "year": 1991,
     "team": "Chiba Lotte Marines",
     "wins": 2,
@@ -130368,7 +130368,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51853805",
+    "playerId": "61263863",
     "year": 1991,
     "team": "Chunichi Dragons",
     "wins": 0,
@@ -131008,7 +131008,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 1991,
     "team": "Orix Bluewave",
     "wins": 2,
@@ -133728,7 +133728,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51853805",
+    "playerId": "61263863",
     "year": 1992,
     "team": "Chunichi Dragons",
     "wins": 1,
@@ -135312,7 +135312,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "15313868",
+    "playerId": "01703887",
     "year": 1993,
     "team": "Hiroshima Toyo Carp",
     "wins": 1,
@@ -139952,7 +139952,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003865",
+    "playerId": "33633868",
     "year": 1994,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -140272,7 +140272,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01403800",
+    "playerId": "51053881",
     "year": 1994,
     "team": "Orix Bluewave",
     "wins": 6,
@@ -141536,7 +141536,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 1994,
     "team": "SoftBank Hawks",
     "wins": 0,
@@ -142416,7 +142416,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "15313868",
+    "playerId": "01703887",
     "year": 1995,
     "team": "Hiroshima Toyo Carp",
     "wins": 0,
@@ -144064,7 +144064,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01403800",
+    "playerId": "51053881",
     "year": 1995,
     "team": "Orix Bluewave",
     "wins": 7,
@@ -145424,7 +145424,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 1995,
     "team": "SoftBank Hawks",
     "wins": 0,
@@ -145968,7 +145968,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01303894",
+    "playerId": "91993887",
     "year": 1995,
     "team": "Yokohama DeNA BayStars",
     "wins": 0,
@@ -147600,7 +147600,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003865",
+    "playerId": "33633868",
     "year": 1996,
     "team": "Chunichi Dragons",
     "wins": 0,
@@ -147904,7 +147904,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01403800",
+    "playerId": "51053881",
     "year": 1996,
     "team": "Orix Bluewave",
     "wins": 0,
@@ -149328,7 +149328,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 1996,
     "team": "SoftBank Hawks",
     "wins": 0,
@@ -151632,7 +151632,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01003865",
+    "playerId": "33633868",
     "year": 1997,
     "team": "Chunichi Dragons",
     "wins": 0,
@@ -151888,7 +151888,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51453825",
+    "playerId": "41743882",
     "year": 1997,
     "team": "SoftBank Hawks",
     "wins": 1,
@@ -152016,7 +152016,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01403800",
+    "playerId": "51053881",
     "year": 1997,
     "team": "Orix Bluewave",
     "wins": 2,
@@ -154320,7 +154320,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "23023801",
+    "playerId": "01203886",
     "year": 1998,
     "team": "Chiba Lotte Marines",
     "wins": 6,
@@ -155600,7 +155600,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51053862",
+    "playerId": "31233886",
     "year": 1998,
     "team": "Nippon-Ham Fighters",
     "wins": 0,
@@ -156112,7 +156112,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51453825",
+    "playerId": "41743882",
     "year": 1998,
     "team": "SoftBank Hawks",
     "wins": 1,
@@ -156240,7 +156240,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01403800",
+    "playerId": "51053881",
     "year": 1998,
     "team": "Orix Bluewave",
     "wins": 4,
@@ -157792,7 +157792,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 1998,
     "team": "Yakult Swallows",
     "wins": 0,
@@ -158512,7 +158512,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "23023801",
+    "playerId": "01203886",
     "year": 1999,
     "team": "Chiba Lotte Marines",
     "wins": 3,
@@ -159952,7 +159952,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51053862",
+    "playerId": "31233886",
     "year": 1999,
     "team": "Nippon-Ham Fighters",
     "wins": 0,
@@ -160448,7 +160448,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51453825",
+    "playerId": "41743882",
     "year": 1999,
     "team": "SoftBank Hawks",
     "wins": 0,
@@ -160624,7 +160624,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01403800",
+    "playerId": "51053881",
     "year": 1999,
     "team": "Orix Bluewave",
     "wins": 3,
@@ -162192,7 +162192,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 1999,
     "team": "Yakult Swallows",
     "wins": 9,
@@ -162976,7 +162976,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "23023801",
+    "playerId": "01203886",
     "year": 2000,
     "team": "Chiba Lotte Marines",
     "wins": 2,
@@ -164352,7 +164352,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51053862",
+    "playerId": "31233886",
     "year": 2000,
     "team": "Nippon-Ham Fighters",
     "wins": 0,
@@ -164976,7 +164976,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51453825",
+    "playerId": "41743882",
     "year": 2000,
     "team": "SoftBank Hawks",
     "wins": 3,
@@ -165152,7 +165152,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01403800",
+    "playerId": "51053881",
     "year": 2000,
     "team": "Orix Bluewave",
     "wins": 2,
@@ -166256,7 +166256,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "33733868",
+    "playerId": "71273888",
     "year": 2000,
     "team": "Osaka Kintetsu Buffaloes",
     "wins": 0,
@@ -166848,7 +166848,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 2000,
     "team": "Yakult Swallows",
     "wins": 2,
@@ -167632,7 +167632,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "23023801",
+    "playerId": "01203886",
     "year": 2001,
     "team": "Chiba Lotte Marines",
     "wins": 0,
@@ -169696,7 +169696,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51453825",
+    "playerId": "41743882",
     "year": 2001,
     "team": "SoftBank Hawks",
     "wins": 0,
@@ -171088,7 +171088,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "33733868",
+    "playerId": "71273888",
     "year": 2001,
     "team": "Osaka Kintetsu Buffaloes",
     "wins": 0,
@@ -171776,7 +171776,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 2001,
     "team": "Yakult Swallows",
     "wins": 0,
@@ -172320,7 +172320,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01303894",
+    "playerId": "91993887",
     "year": 2001,
     "team": "Yokohama DeNA BayStars",
     "wins": 0,
@@ -172512,7 +172512,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "23023801",
+    "playerId": "01203886",
     "year": 2002,
     "team": "Chiba Lotte Marines",
     "wins": 0,
@@ -172688,7 +172688,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51753849",
+    "playerId": "01505111",
     "year": 2002,
     "team": "Yomiuri Giants",
     "wins": 0,
@@ -173728,7 +173728,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81783804",
+    "playerId": "21925115",
     "year": 2002,
     "team": "Chiba Lotte Marines",
     "wins": 0,
@@ -173872,7 +173872,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51053862",
+    "playerId": "31233886",
     "year": 2002,
     "team": "Hanshin Tigers",
     "wins": 0,
@@ -174640,7 +174640,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51453825",
+    "playerId": "41743882",
     "year": 2002,
     "team": "SoftBank Hawks",
     "wins": 0,
@@ -175888,7 +175888,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "33733868",
+    "playerId": "71273888",
     "year": 2002,
     "team": "Osaka Kintetsu Buffaloes",
     "wins": 0,
@@ -176496,7 +176496,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 2002,
     "team": "Chiba Lotte Marines",
     "wins": 3,
@@ -177232,7 +177232,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "23023801",
+    "playerId": "01203886",
     "year": 2003,
     "team": "Chiba Lotte Marines",
     "wins": 0,
@@ -178304,7 +178304,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81783881",
+    "playerId": "21725115",
     "year": 2003,
     "team": "Osaka Kintetsu Buffaloes",
     "wins": 0,
@@ -179264,7 +179264,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51453825",
+    "playerId": "41743882",
     "year": 2003,
     "team": "Orix Bluewave",
     "wins": 2,
@@ -180592,7 +180592,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "33733868",
+    "playerId": "71273888",
     "year": 2003,
     "team": "Osaka Kintetsu Buffaloes",
     "wins": 0,
@@ -181168,7 +181168,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 2003,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -181936,7 +181936,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "23023801",
+    "playerId": "01203886",
     "year": 2004,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -182144,7 +182144,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51753849",
+    "playerId": "01505111",
     "year": 2004,
     "team": "Yomiuri Giants",
     "wins": 3,
@@ -183040,7 +183040,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81783804",
+    "playerId": "21925115",
     "year": 2004,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -183056,7 +183056,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81783804",
+    "playerId": "21925115",
     "year": 2004,
     "team": "Yakult Swallows",
     "wins": 1,
@@ -185936,7 +185936,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 2004,
     "team": "Chiba Lotte Marines",
     "wins": 2,
@@ -186688,7 +186688,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "23023801",
+    "playerId": "01203886",
     "year": 2005,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -186896,7 +186896,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51753849",
+    "playerId": "01505111",
     "year": 2005,
     "team": "Yomiuri Giants",
     "wins": 0,
@@ -187856,7 +187856,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81783804",
+    "playerId": "21925115",
     "year": 2005,
     "team": "Yakult Swallows",
     "wins": 0,
@@ -189664,7 +189664,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "31033868",
+    "playerId": "61765110",
     "year": 2005,
     "team": "Chunichi Dragons",
     "wins": 5,
@@ -190464,7 +190464,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 2005,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -191184,7 +191184,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "23023801",
+    "playerId": "01203886",
     "year": 2006,
     "team": "Chiba Lotte Marines",
     "wins": 4,
@@ -191360,7 +191360,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51753849",
+    "playerId": "01505111",
     "year": 2006,
     "team": "Yomiuri Giants",
     "wins": 0,
@@ -192320,7 +192320,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81783804",
+    "playerId": "21925115",
     "year": 2006,
     "team": "Yakult Swallows",
     "wins": 0,
@@ -194192,7 +194192,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "31033868",
+    "playerId": "61765110",
     "year": 2006,
     "team": "Chunichi Dragons",
     "wins": 1,
@@ -195024,7 +195024,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 2006,
     "team": "Chiba Lotte Marines",
     "wins": 2,
@@ -195552,7 +195552,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "23023801",
+    "playerId": "01203886",
     "year": 2007,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -195728,7 +195728,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51753849",
+    "playerId": "01505111",
     "year": 2007,
     "team": "Rakuten Eagles",
     "wins": 0,
@@ -195984,7 +195984,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71773865",
+    "playerId": "11215114",
     "year": 2007,
     "team": "Rakuten Eagles",
     "wins": 11,
@@ -196816,7 +196816,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81783804",
+    "playerId": "21925115",
     "year": 2007,
     "team": "Yakult Swallows",
     "wins": 0,
@@ -198400,7 +198400,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51253861",
+    "playerId": "51855114",
     "year": 2007,
     "team": "Nippon-Ham Fighters",
     "wins": 0,
@@ -198736,7 +198736,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "31033868",
+    "playerId": "61765110",
     "year": 2007,
     "team": "Chunichi Dragons",
     "wins": 1,
@@ -199600,7 +199600,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 2007,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -200192,7 +200192,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "23023801",
+    "playerId": "01203886",
     "year": 2008,
     "team": "Yomiuri Giants",
     "wins": 0,
@@ -200432,7 +200432,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51753849",
+    "playerId": "01505111",
     "year": 2008,
     "team": "Rakuten Eagles",
     "wins": 0,
@@ -200704,7 +200704,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71773865",
+    "playerId": "11215114",
     "year": 2008,
     "team": "Rakuten Eagles",
     "wins": 9,
@@ -201776,7 +201776,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "11313896",
+    "playerId": "31535112",
     "year": 2008,
     "team": "Rakuten Eagles",
     "wins": 2,
@@ -203408,7 +203408,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "31033868",
+    "playerId": "61765110",
     "year": 2008,
     "team": "Chunichi Dragons",
     "wins": 0,
@@ -204240,7 +204240,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 2008,
     "team": "Chiba Lotte Marines",
     "wins": 0,
@@ -204880,7 +204880,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "23023801",
+    "playerId": "01203886",
     "year": 2009,
     "team": "Yomiuri Giants",
     "wins": 1,
@@ -205408,7 +205408,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71773865",
+    "playerId": "11215114",
     "year": 2009,
     "team": "Rakuten Eagles",
     "wins": 15,
@@ -207712,7 +207712,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51253861",
+    "playerId": "51855114",
     "year": 2009,
     "team": "Nippon-Ham Fighters",
     "wins": 0,
@@ -208080,7 +208080,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "31033868",
+    "playerId": "61765110",
     "year": 2009,
     "team": "Chunichi Dragons",
     "wins": 0,
@@ -208976,7 +208976,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61563842",
+    "playerId": "81583864",
     "year": 2009,
     "team": "Chiba Lotte Marines",
     "wins": 0,
@@ -210128,7 +210128,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71773865",
+    "playerId": "11215114",
     "year": 2010,
     "team": "Rakuten Eagles",
     "wins": 11,
@@ -211328,7 +211328,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "11313896",
+    "playerId": "31535112",
     "year": 2010,
     "team": "Rakuten Eagles",
     "wins": 1,
@@ -212688,7 +212688,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51253861",
+    "playerId": "51855114",
     "year": 2010,
     "team": "Nippon-Ham Fighters",
     "wins": 0,
@@ -213088,7 +213088,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "31033868",
+    "playerId": "61765110",
     "year": 2010,
     "team": "Chunichi Dragons",
     "wins": 1,
@@ -214848,7 +214848,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "23023801",
+    "playerId": "01203886",
     "year": 2011,
     "team": "Fukuoka Softbank Hawks",
     "wins": 0,
@@ -215408,7 +215408,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71773865",
+    "playerId": "11215114",
     "year": 2011,
     "team": "Rakuten Eagles",
     "wins": 19,
@@ -215680,7 +215680,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81683807",
+    "playerId": "11615131",
     "year": 2011,
     "team": "Yakult Swallows",
     "wins": 0,
@@ -215808,7 +215808,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "01803883",
+    "playerId": "11915133",
     "year": 2011,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -216512,7 +216512,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "11313896",
+    "playerId": "31535112",
     "year": 2011,
     "team": "Rakuten Eagles",
     "wins": 2,
@@ -216656,7 +216656,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81683807",
+    "playerId": "31835118",
     "year": 2011,
     "team": "Chiba Lotte Marines",
     "wins": 0,
@@ -216736,7 +216736,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "91593887",
+    "playerId": "31935133",
     "year": 2011,
     "team": "Yokohama DeNA BayStars",
     "wins": 0,
@@ -217728,7 +217728,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "51253861",
+    "playerId": "51855114",
     "year": 2011,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -218112,7 +218112,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "31033868",
+    "playerId": "61765110",
     "year": 2011,
     "team": "Chunichi Dragons",
     "wins": 2,
@@ -220112,7 +220112,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71773865",
+    "playerId": "11215114",
     "year": 2012,
     "team": "Rakuten Eagles",
     "wins": 10,
@@ -220304,7 +220304,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81683807",
+    "playerId": "11615131",
     "year": 2012,
     "team": "Yakult Swallows",
     "wins": 2,
@@ -221216,7 +221216,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "11313896",
+    "playerId": "31535112",
     "year": 2012,
     "team": "Rakuten Eagles",
     "wins": 0,
@@ -222912,7 +222912,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "31033868",
+    "playerId": "61765110",
     "year": 2012,
     "team": "Chunichi Dragons",
     "wins": 0,
@@ -223232,7 +223232,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21123876",
+    "playerId": "71375133",
     "year": 2012,
     "team": "Hanshin Tigers",
     "wins": 2,
@@ -223424,7 +223424,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "63263868",
+    "playerId": "71675135",
     "year": 2012,
     "team": "Chiba Lotte Marines",
     "wins": 2,
@@ -225280,7 +225280,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71773865",
+    "playerId": "11215114",
     "year": 2013,
     "team": "Rakuten Eagles",
     "wins": 24,
@@ -225488,7 +225488,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81683807",
+    "playerId": "11615131",
     "year": 2013,
     "team": "Yakult Swallows",
     "wins": 1,
@@ -226432,7 +226432,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "11313896",
+    "playerId": "31535112",
     "year": 2013,
     "team": "Rakuten Eagles",
     "wins": 3,
@@ -226720,7 +226720,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "91593887",
+    "playerId": "31935133",
     "year": 2013,
     "team": "Yokohama DeNA Baystars",
     "wins": 2,
@@ -228256,7 +228256,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "31033868",
+    "playerId": "61765110",
     "year": 2013,
     "team": "Chunichi Dragons",
     "wins": 0,
@@ -228576,7 +228576,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21123876",
+    "playerId": "71375133",
     "year": 2013,
     "team": "Hanshin Tigers",
     "wins": 0,
@@ -228752,7 +228752,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "63263868",
+    "playerId": "71675135",
     "year": 2013,
     "team": "Chiba Lotte Marines",
     "wins": 2,
@@ -230720,7 +230720,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81683807",
+    "playerId": "11615131",
     "year": 2014,
     "team": "Yakult Swallows",
     "wins": 3,
@@ -231648,7 +231648,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "11313896",
+    "playerId": "31535112",
     "year": 2014,
     "team": "Rakuten Eagles",
     "wins": 0,
@@ -233424,7 +233424,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "31033868",
+    "playerId": "61765110",
     "year": 2014,
     "team": "Chunichi Dragons",
     "wins": 0,
@@ -233712,7 +233712,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21123876",
+    "playerId": "71375133",
     "year": 2014,
     "team": "Hanshin Tigers",
     "wins": 0,
@@ -233888,7 +233888,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "63263868",
+    "playerId": "71675135",
     "year": 2014,
     "team": "Chiba Lotte Marines",
     "wins": 7,
@@ -235728,7 +235728,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81683807",
+    "playerId": "11615131",
     "year": 2015,
     "team": "Yakult Swallows",
     "wins": 0,
@@ -236496,7 +236496,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "31133807",
+    "playerId": "31135139",
     "year": 2015,
     "team": "Rakuten Eagles",
     "wins": 0,
@@ -236880,7 +236880,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "91593887",
+    "playerId": "31935133",
     "year": 2015,
     "team": "Yokohama DeNA Baystars",
     "wins": 0,
@@ -238896,7 +238896,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21123876",
+    "playerId": "71375133",
     "year": 2015,
     "team": "Hanshin Tigers",
     "wins": 2,
@@ -239024,7 +239024,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "63263868",
+    "playerId": "71675135",
     "year": 2015,
     "team": "Chiba Lotte Marines",
     "wins": 3,
@@ -239728,7 +239728,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "15213868",
+    "playerId": "91195130",
     "year": 2015,
     "team": "Hiroshima Toyo Carp",
     "wins": 0,
@@ -242176,7 +242176,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "91593887",
+    "playerId": "31935133",
     "year": 2016,
     "team": "Yokohama DeNA Baystars",
     "wins": 0,
@@ -244288,7 +244288,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "63263868",
+    "playerId": "71675135",
     "year": 2016,
     "team": "Chiba Lotte Marines",
     "wins": 3,
@@ -245056,7 +245056,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "15213868",
+    "playerId": "91195130",
     "year": 2016,
     "team": "Hiroshima Toyo Carp",
     "wins": 0,
@@ -246336,7 +246336,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81683807",
+    "playerId": "11615131",
     "year": 2017,
     "team": "Yakult Swallows",
     "wins": 0,
@@ -247504,7 +247504,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "91593887",
+    "playerId": "31935133",
     "year": 2017,
     "team": "Yokohama DeNA Baystars",
     "wins": 0,
@@ -249648,7 +249648,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "63263868",
+    "playerId": "71675135",
     "year": 2017,
     "team": "Chiba Lotte Marines",
     "wins": 0,
@@ -250400,7 +250400,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "15213868",
+    "playerId": "91195130",
     "year": 2017,
     "team": "Hiroshima Toyo Carp",
     "wins": 0,
@@ -251600,7 +251600,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81683807",
+    "playerId": "11615131",
     "year": 2018,
     "team": "Yakult Swallows",
     "wins": 0,
@@ -253968,7 +253968,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81985132",
+    "playerId": "51755136",
     "year": 2018,
     "team": "Orix Buffaloes",
     "wins": 0,
@@ -254848,7 +254848,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21123876",
+    "playerId": "71375133",
     "year": 2018,
     "team": "Orix Buffaloes",
     "wins": 1,
@@ -254960,7 +254960,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "63263868",
+    "playerId": "71675135",
     "year": 2018,
     "team": "Chiba Lotte Marines",
     "wins": 2,
@@ -255776,7 +255776,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "15213868",
+    "playerId": "91195130",
     "year": 2018,
     "team": "Hiroshima Toyo Carp",
     "wins": 0,
@@ -259600,7 +259600,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81985132",
+    "playerId": "51755136",
     "year": 2019,
     "team": "Orix Buffaloes",
     "wins": 4,
@@ -260576,7 +260576,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "21123876",
+    "playerId": "71375133",
     "year": 2019,
     "team": "Orix Buffaloes",
     "wins": 0,
@@ -260720,7 +260720,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "63263868",
+    "playerId": "71675135",
     "year": 2019,
     "team": "Chiba Lotte Marines",
     "wins": 4,
@@ -264816,7 +264816,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "23125114",
+    "playerId": "43345151",
     "year": 2020,
     "team": "Chunichi Dragons",
     "wins": 0,
@@ -265200,7 +265200,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81985132",
+    "playerId": "51755136",
     "year": 2020,
     "team": "Orix Buffaloes",
     "wins": 0,
@@ -266320,7 +266320,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "63263868",
+    "playerId": "71675135",
     "year": 2020,
     "team": "Chiba Lotte Marines",
     "wins": 3,
@@ -268144,7 +268144,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71773865",
+    "playerId": "11215114",
     "year": 2021,
     "team": "Rakuten Eagles",
     "wins": 4,
@@ -270720,7 +270720,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81985132",
+    "playerId": "51755136",
     "year": 2021,
     "team": "Orix Buffaloes",
     "wins": 1,
@@ -271696,7 +271696,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81785139",
+    "playerId": "71275153",
     "year": 2021,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -271872,7 +271872,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "63263868",
+    "playerId": "71675135",
     "year": 2021,
     "team": "Chiba Lotte Marines",
     "wins": 3,
@@ -273568,7 +273568,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71773865",
+    "playerId": "11215114",
     "year": 2022,
     "team": "Rakuten Eagles",
     "wins": 9,
@@ -274112,7 +274112,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "61765116",
+    "playerId": "21025153",
     "year": 2022,
     "team": "Chiba Lotte Marines",
     "wins": 2,
@@ -276288,7 +276288,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81985132",
+    "playerId": "51755136",
     "year": 2022,
     "team": "Orix Buffaloes",
     "wins": 0,
@@ -277296,7 +277296,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81785139",
+    "playerId": "71275153",
     "year": 2022,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -277472,7 +277472,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "63263868",
+    "playerId": "71675135",
     "year": 2022,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -279264,7 +279264,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71773865",
+    "playerId": "11215114",
     "year": 2023,
     "team": "Rakuten Eagles",
     "wins": 7,
@@ -281936,7 +281936,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81985132",
+    "playerId": "51755136",
     "year": 2023,
     "team": "Yomiuri Giants",
     "wins": 1,
@@ -282896,7 +282896,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81785139",
+    "playerId": "71275153",
     "year": 2023,
     "team": "Chiba Lotte Marines",
     "wins": 0,
@@ -283040,7 +283040,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "63263868",
+    "playerId": "71675135",
     "year": 2023,
     "team": "Chiba Lotte Marines",
     "wins": 2,
@@ -284624,7 +284624,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71773865",
+    "playerId": "11215114",
     "year": 2024,
     "team": "Rakuten Eagles",
     "wins": 0,
@@ -288400,7 +288400,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81785139",
+    "playerId": "71275153",
     "year": 2024,
     "team": "Chiba Lotte Marines",
     "wins": 2,
@@ -288528,7 +288528,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "63263868",
+    "playerId": "71675135",
     "year": 2024,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -290272,7 +290272,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "71773865",
+    "playerId": "11215114",
     "year": 2025,
     "team": "Yomiuri Giants",
     "wins": 3,
@@ -294064,7 +294064,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "81785139",
+    "playerId": "71275153",
     "year": 2025,
     "team": "Chiba Lotte Marines",
     "wins": 1,
@@ -294192,7 +294192,7 @@
     "perfectGame": false
   },
   {
-    "playerId": "63263868",
+    "playerId": "71675135",
     "year": 2025,
     "team": "Chiba Lotte Marines",
     "wins": 1,

@@ -66,6 +66,19 @@ For the first real import pass, start with:
 - `data/processed/eligibility.json`: category-to-player lookup table used for validation
 - `data/processed/importDiagnostics.json`: import health report for skipped rows, header coverage, and identity collisions
 
+## Historical data status
+
+- Imported players now include Japanese names from the ProEyeKyuu registry, so Japanese mode no longer falls back to English-only imported names for those players.
+
+- Historical awards are built from official NPB award pages for 2002 to 2025 and written to `data/processed/playerAwards.json`.
+  Award-driven eligibility such as `Best Nine`, `Golden Glove`, `MVP Winner`, `Sawamura Award Winner`, and league leader categories now comes from the rebuilt historical dataset instead of the sample awards CSV.
+
+## Next TODO
+
+- Extend the official awards import earlier than 2002.
+  The current awards pipeline only covers the official NPB page structure that was validated for 2002 to 2025, but major awards such as MVP and Sawamura go back much further.
+  Future work: expand `scripts/fetchNpbAwards.js` and `scripts/buildOfficialAwards.js` to support older archive formats and backfill earlier seasons.
+
 ## Main files
 
 - `src/App.jsx`: main game state, bilingual UI, and interactions

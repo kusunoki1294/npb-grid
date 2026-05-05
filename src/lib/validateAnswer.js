@@ -2,14 +2,44 @@ export function normalizeName(value) {
   return value.trim().toLowerCase();
 }
 
+export function formatImportedPlayerName(name) {
+  const normalizedName = name.trim();
+
+  if (!normalizedName.includes(',')) {
+    return normalizedName;
+  }
+
+  const parts = normalizedName
+    .split(',')
+    .map((part) => part.trim())
+    .filter(Boolean);
+
+  if (parts.length < 2) {
+    return normalizedName;
+  }
+
+  const [familyName, ...givenNames] = parts;
+  return [...givenNames, familyName].join(' ');
+}
+
+export function getPlayerNameCandidates(player) {
+  const candidates = [player.name ?? '', player.nameJapanese ?? ''];
+  const formattedImportedName = formatImportedPlayerName(player.name ?? '');
+
+  if (formattedImportedName && formattedImportedName !== (player.name ?? '')) {
+    candidates.push(formattedImportedName);
+  }
+
+  return candidates.filter(Boolean);
+}
+
 export function findPlayerByName(playersById, name) {
   const normalizedName = normalizeName(name);
 
   return (
     Object.values(playersById).find((player) => {
-      const english = normalizeName(player.name ?? '');
-      const japanese = normalizeName(player.nameJapanese ?? '');
-      return english === normalizedName || japanese === normalizedName;
+      const names = getPlayerNameCandidates(player).map(normalizeName);
+      return names.includes(normalizedName);
     }) ?? null
   );
 }

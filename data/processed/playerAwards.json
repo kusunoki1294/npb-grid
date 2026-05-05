@@ -1,1514 +1,6898 @@
 [
   {
-    "playerId": "sadaharu-oh",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "11313888",
+    "award": "Sawamura Award Winner",
+    "year": 2002,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "上原 浩治",
+    "name": "Uehara, Koji"
   },
   {
-    "playerId": "sadaharu-oh",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Yomiuri Giants"
-  },
-  {
-    "playerId": "sadaharu-oh",
+    "playerId": "11313888",
     "award": "Golden Glove",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "year": 2003,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "上原 浩治",
+    "name": "Uehara, Koji"
   },
   {
-    "playerId": "sadaharu-oh",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "41343883",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "矢野 輝弘",
+    "name": "Yano, Akihiro"
   },
   {
-    "playerId": "sadaharu-oh",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "41445111",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "Ｇ．アリアス",
+    "name": "Arias, George"
   },
   {
-    "playerId": "sadaharu-oh",
+    "playerId": "61163884",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "今岡 誠",
+    "name": "Imaoka, Makoto"
+  },
+  {
+    "playerId": "21123866",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "立浪 和義",
+    "name": "Tatsunami, Kazuyoshi"
+  },
+  {
+    "playerId": "51053880",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "Yakult Swallows",
+    "nameJapanese": "宮本 慎也",
+    "name": "Miyamoto, Shinya"
+  },
+  {
+    "playerId": "91195113",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "赤星 憲広",
+    "name": "Akahoshi, Norihiro"
+  },
+  {
+    "playerId": "61963888",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "福留 孝介",
+    "name": "Fukudome, Kosuke"
+  },
+  {
+    "playerId": "51953886",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "高橋 由伸",
+    "name": "Takahashi, Yoshinobu"
+  },
+  {
+    "playerId": "31233888",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "Seibu Lions",
+    "nameJapanese": "松坂 大輔",
+    "name": "Matsuzaka, Daisuke"
+  },
+  {
+    "playerId": "31733880",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "城島 健司",
+    "name": "Jojima, Kenji"
+  },
+  {
+    "playerId": "21923889",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "福浦 和也",
+    "name": "Fukura, Kazuya"
+  },
+  {
+    "playerId": "51153884",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "井口 資仁",
+    "name": "Iguchi, Tadahito"
+  },
+  {
+    "playerId": "21323884",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "小笠原 道大",
+    "name": "Ogasawara, Michihiro"
+  },
+  {
+    "playerId": "81983889",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "Seibu Lions",
+    "nameJapanese": "松井 稼頭央",
+    "name": "Matsui, Kazuo"
+  },
+  {
+    "playerId": "11613883",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "村松 有人",
+    "name": "Muramatsu, Arihito"
+  },
+  {
+    "playerId": "91993884",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "谷 佳知",
+    "name": "Tani, Yoshitomo"
+  },
+  {
+    "playerId": "11313889",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "大村 直之",
+    "name": "Omura, Naoyuki"
+  },
+  {
+    "playerId": "91793884",
+    "award": "Golden Glove",
+    "year": 2003,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柴原 洋",
+    "name": "Shibahara, Hiroshi"
+  },
+  {
+    "playerId": "71373882",
+    "award": "Sawamura Award Winner",
+    "year": 2003,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "斉藤 和巳",
+    "name": "Saito, Kazumi"
+  },
+  {
+    "playerId": "01103886",
+    "award": "Sawamura Award Winner",
+    "year": 2003,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "井川 慶",
+    "name": "Igawa, Kei"
+  },
+  {
+    "playerId": "41343886",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "川上 憲伸",
+    "name": "Kawakami, Kenshin"
+  },
+  {
+    "playerId": "11613881",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "Yakult Swallows",
+    "nameJapanese": "古田 敦也",
+    "name": "Furuta, Atsuya"
+  },
+  {
+    "playerId": "21223882",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "渡邉 博幸",
+    "name": "Watanabe, Hiroyuki"
+  },
+  {
+    "playerId": "71173882",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "荒木 雅博",
+    "name": "Araki, Masahiro"
+  },
+  {
+    "playerId": "11313884",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "Yakult Swallows",
+    "nameJapanese": "岩村 明憲",
+    "name": "Iwamura, Akinori"
+  },
+  {
+    "playerId": "41143886",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "井端 弘和",
+    "name": "Ibata, Hirokazu"
+  },
+  {
+    "playerId": "53355117",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "アレックス",
+    "name": "Ochoa, Alex"
+  },
+  {
+    "playerId": "01503888",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "英智",
+    "name": "Kuramoto, Hidenori"
+  },
+  {
+    "playerId": "91195113",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "赤星 憲広",
+    "name": "Akahoshi, Norihiro"
+  },
+  {
+    "playerId": "31233888",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "Seibu Lions",
+    "nameJapanese": "松坂 大輔",
+    "name": "Matsuzaka, Daisuke"
+  },
+  {
+    "playerId": "31733880",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "城島 健司",
+    "name": "Jojima, Kenji"
+  },
+  {
+    "playerId": "61063884",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "松中 信彦",
+    "name": "Matsunaka, Nobuhiko"
+  },
+  {
+    "playerId": "51153884",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "井口 資仁",
+    "name": "Iguchi, Tadahito"
+  },
+  {
+    "playerId": "21023885",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "中村 紀洋",
+    "name": "Nakamura, Norihiro"
+  },
+  {
+    "playerId": "41345111",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "川崎 宗則",
+    "name": "Kawasaki, Munenori"
+  },
+  {
+    "playerId": "01903881",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "ＳＨＩＮＪＯ",
+    "name": "Shinjo, Tsuyoshi"
+  },
+  {
+    "playerId": "11613883",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "村松 有人",
+    "name": "Muramatsu, Arihito"
+  },
+  {
+    "playerId": "91993884",
+    "award": "Golden Glove",
+    "year": 2004,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "谷 佳知",
+    "name": "Tani, Yoshitomo"
+  },
+  {
+    "playerId": "41343886",
+    "award": "Sawamura Award Winner",
+    "year": 2004,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "川上 憲伸",
+    "name": "Kawakami, Kenshin"
+  },
+  {
+    "playerId": "21523884",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "黒田 博樹",
+    "name": "Kuroda, Hiroki"
+  },
+  {
+    "playerId": "41343883",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "矢野 輝弘",
+    "name": "Yano, Akihiro"
+  },
+  {
+    "playerId": "21825117",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "Ａ．シーツ",
+    "name": "Sheets, Andy"
+  },
+  {
+    "playerId": "71173882",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "荒木 雅博",
+    "name": "Araki, Masahiro"
+  },
+  {
+    "playerId": "11313884",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Yakult Swallows",
+    "nameJapanese": "岩村 明憲",
+    "name": "Iwamura, Akinori"
+  },
+  {
+    "playerId": "41143886",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "井端 弘和",
+    "name": "Ibata, Hirokazu"
+  },
+  {
+    "playerId": "61963888",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "福留 孝介",
+    "name": "Fukudome, Kosuke"
+  },
+  {
+    "playerId": "91195113",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "赤星 憲広",
+    "name": "Akahoshi, Norihiro"
+  },
+  {
+    "playerId": "91593888",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "金城 龍彦",
+    "name": "Kinjo, Tatsuhiko"
+  },
+  {
+    "playerId": "31233888",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Seibu Lions",
+    "nameJapanese": "松坂 大輔",
+    "name": "Matsuzaka, Daisuke"
+  },
+  {
+    "playerId": "31733880",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "城島 健司",
+    "name": "Jojima, Kenji"
+  },
+  {
+    "playerId": "21923889",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "福浦 和也",
+    "name": "Fukura, Kazuya"
+  },
+  {
+    "playerId": "31435117",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "西岡 剛",
+    "name": "Nishioka, Tsuyoshi"
+  },
+  {
+    "playerId": "01305115",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "今江 敏晃",
+    "name": "Imae, Toshiaki"
+  },
+  {
+    "playerId": "41543884",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "小坂 誠",
+    "name": "Kosaka, Makoto"
+  },
+  {
+    "playerId": "01903881",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "ＳＨＩＮＪＯ",
+    "name": "Shinjo, Tsuyoshi"
+  },
+  {
+    "playerId": "41143880",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "サブロー",
+    "name": "Omura, Saburo"
+  },
+  {
+    "playerId": "11313889",
+    "award": "Golden Glove",
+    "year": 2005,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "大村 直之",
+    "name": "Omura, Naoyuki"
+  },
+  {
+    "playerId": "31935115",
+    "award": "Sawamura Award Winner",
+    "year": 2005,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "杉内 俊哉",
+    "name": "Sugiuchi, Toshiya"
+  },
+  {
+    "playerId": "41343886",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "川上 憲伸",
+    "name": "Kawakami, Kenshin"
+  },
+  {
+    "playerId": "85583868",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "谷繁 元信",
+    "name": "Tanishige, Motonobu"
+  },
+  {
+    "playerId": "21825117",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "Ａ．シーツ",
+    "name": "Sheets, Andy"
+  },
+  {
+    "playerId": "71173882",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "荒木 雅博",
+    "name": "Araki, Masahiro"
+  },
+  {
+    "playerId": "11313884",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Yakult Swallows",
+    "nameJapanese": "岩村 明憲",
+    "name": "Iwamura, Akinori"
+  },
+  {
+    "playerId": "41143886",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "井端 弘和",
+    "name": "Ibata, Hirokazu"
+  },
+  {
+    "playerId": "61963888",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "福留 孝介",
+    "name": "Fukudome, Kosuke"
+  },
+  {
+    "playerId": "31135119",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Yakult Swallows",
+    "nameJapanese": "青木 宣親",
+    "name": "Aoki, Norichika"
+  },
+  {
+    "playerId": "91195113",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "赤星 憲広",
+    "name": "Akahoshi, Norihiro"
+  },
+  {
+    "playerId": "31233888",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Seibu Lions",
+    "nameJapanese": "松坂 大輔",
+    "name": "Matsuzaka, Daisuke"
+  },
+  {
+    "playerId": "31733888",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "里崎 智也",
+    "name": "Satozaki, Tomoya"
+  },
+  {
+    "playerId": "21323884",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "小笠原 道大",
+    "name": "Ogasawara, Michihiro"
+  },
+  {
+    "playerId": "11915111",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "田中 賢介",
+    "name": "Tanaka, Kensuke"
+  },
+  {
+    "playerId": "01305115",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "今江 敏晃",
+    "name": "Imae, Toshiaki"
+  },
+  {
+    "playerId": "41345111",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "川崎 宗則",
+    "name": "Kawasaki, Munenori"
+  },
+  {
+    "playerId": "41243888",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "森本 稀哲",
+    "name": "Morimoto, Hichori"
+  },
+  {
+    "playerId": "01903881",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "ＳＨＩＮＪＯ",
+    "name": "Shinjo, Tsuyoshi"
+  },
+  {
+    "playerId": "91193880",
+    "award": "Golden Glove",
+    "year": 2006,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "稲葉 篤紀",
+    "name": "Inaba, Atsunori"
+  },
+  {
+    "playerId": "71373882",
+    "award": "Sawamura Award Winner",
+    "year": 2006,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "斉藤 和巳",
+    "name": "Saito, Kazumi"
+  },
+  {
+    "playerId": "41343886",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "川上 憲伸",
+    "name": "Kawakami, Kenshin"
+  },
+  {
+    "playerId": "85583868",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "谷繁 元信",
+    "name": "Tanishige, Motonobu"
+  },
+  {
+    "playerId": "21825117",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "Ａ．シーツ",
+    "name": "Sheets, Andy"
+  },
+  {
+    "playerId": "71173882",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "荒木 雅博",
+    "name": "Araki, Masahiro"
+  },
+  {
+    "playerId": "21023885",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "中村 紀洋",
+    "name": "Nakamura, Norihiro"
+  },
+  {
+    "playerId": "41143886",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "井端 弘和",
+    "name": "Ibata, Hirokazu"
+  },
+  {
+    "playerId": "31135119",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Yakult Swallows",
+    "nameJapanese": "青木 宣親",
+    "name": "Aoki, Norichika"
+  },
+  {
+    "playerId": "51953886",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "高橋 由伸",
+    "name": "Takahashi, Yoshinobu"
+  },
+  {
+    "playerId": "91593888",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "金城 龍彦",
+    "name": "Kinjo, Tatsuhiko"
+  },
+  {
+    "playerId": "61965110",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "ダルビッシュ 有",
+    "name": "Darvish, Yu"
+  },
+  {
+    "playerId": "31733888",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "里崎 智也",
+    "name": "Satozaki, Tomoya"
+  },
+  {
+    "playerId": "21923889",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "福浦 和也",
+    "name": "Fukura, Kazuya"
+  },
+  {
+    "playerId": "11915111",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "田中 賢介",
+    "name": "Tanaka, Kensuke"
+  },
+  {
+    "playerId": "01305115",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "今江 敏晃",
+    "name": "Imae, Toshiaki"
+  },
+  {
+    "playerId": "31435117",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "ＴＳＵＹＯＳＨＩ",
+    "name": "Nishioka, Tsuyoshi"
+  },
+  {
+    "playerId": "41243888",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "森本 稀哲",
+    "name": "Morimoto, Hichori"
+  },
+  {
+    "playerId": "91193880",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "稲葉 篤紀",
+    "name": "Inaba, Atsunori"
+  },
+  {
+    "playerId": "41143880",
+    "award": "Golden Glove",
+    "year": 2007,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "サブロー",
+    "name": "Omura, Saburo"
+  },
+  {
+    "playerId": "61965110",
+    "award": "Sawamura Award Winner",
+    "year": 2007,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "ダルビッシュ 有",
+    "name": "Darvish, Yu"
+  },
+  {
+    "playerId": "11315115",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Yakult Swallows",
+    "nameJapanese": "石川 雅規",
+    "name": "Ishikawa, Masanori"
+  },
+  {
+    "playerId": "21125113",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "阿部 慎之助",
+    "name": "Abe, Shinnosuke"
+  },
+  {
+    "playerId": "01103888",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "新井 貴浩",
+    "name": "Arai, Takahiro"
+  },
+  {
+    "playerId": "31535111",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "栗原 健太",
+    "name": "Kurihara, Kenta"
+  },
+  {
+    "playerId": "71173882",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "荒木 雅博",
+    "name": "Araki, Masahiro"
+  },
+  {
+    "playerId": "21023885",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "中村 紀洋",
+    "name": "Nakamura, Norihiro"
+  },
+  {
+    "playerId": "41143886",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "井端 弘和",
+    "name": "Ibata, Hirokazu"
+  },
+  {
+    "playerId": "31135119",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Yakult Swallows",
+    "nameJapanese": "青木 宣親",
+    "name": "Aoki, Norichika"
+  },
+  {
+    "playerId": "91195113",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "赤星 憲広",
+    "name": "Akahoshi, Norihiro"
+  },
+  {
+    "playerId": "61763884",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "鈴木 尚広",
+    "name": "Suzuki, Takahiro"
+  },
+  {
+    "playerId": "61965110",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "ダルビッシュ 有",
+    "name": "Darvish, Yu"
+  },
+  {
+    "playerId": "71475115",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Seibu Lions",
+    "nameJapanese": "細川 亨",
+    "name": "Hosokawa, Toru"
+  },
+  {
+    "playerId": "41645113",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "Ａ．カブレラ",
+    "name": "Cabrera, Alex"
+  },
+  {
+    "playerId": "11915111",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "田中 賢介",
+    "name": "Tanaka, Kensuke"
+  },
+  {
+    "playerId": "01305115",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "今江 敏晃",
+    "name": "Imae, Toshiaki"
+  },
+  {
+    "playerId": "01005113",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Seibu Lions",
+    "nameJapanese": "中島 裕之",
+    "name": "Nakajima, Hiroyuki"
+  },
+  {
+    "playerId": "91193880",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "稲葉 篤紀",
+    "name": "Inaba, Atsunori"
+  },
+  {
+    "playerId": "41243888",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "森本 稀哲",
+    "name": "Morimoto, Hichori"
+  },
+  {
+    "playerId": "21925117",
+    "award": "Golden Glove",
+    "year": 2008,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "坂口 智隆",
+    "name": "Sakaguchi, Tomotaka"
+  },
+  {
+    "playerId": "01105111",
+    "award": "Sawamura Award Winner",
+    "year": 2008,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "岩隈 久志",
+    "name": "Iwakuma, Hisashi"
+  },
+  {
+    "playerId": "71875119",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "Ｄ．ゴンザレス",
+    "name": "Gonzalez, Dicky"
+  },
+  {
+    "playerId": "85583868",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "谷繁 元信",
+    "name": "Tanishige, Motonobu"
+  },
+  {
+    "playerId": "31535111",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "栗原 健太",
+    "name": "Kurihara, Kenta"
+  },
+  {
+    "playerId": "71173882",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "荒木 雅博",
+    "name": "Araki, Masahiro"
+  },
+  {
+    "playerId": "51053880",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Yakult Swallows",
+    "nameJapanese": "宮本 慎也",
+    "name": "Miyamoto, Shinya"
+  },
+  {
+    "playerId": "41143886",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "井端 弘和",
+    "name": "Ibata, Hirokazu"
+  },
+  {
+    "playerId": "31135119",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Yakult Swallows",
+    "nameJapanese": "青木 宣親",
+    "name": "Aoki, Norichika"
+  },
+  {
+    "playerId": "01605114",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "松本 哲也",
+    "name": "Matsumoto, Tetsuya"
+  },
+  {
+    "playerId": "81385110",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "亀井 義行",
+    "name": "Kamei, Yoshiyuki"
+  },
+  {
+    "playerId": "31635110",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Seibu Lions",
+    "nameJapanese": "涌井 秀章",
+    "name": "Wakui, Hideaki"
+  },
+  {
+    "playerId": "71275117",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "鶴岡 慎也",
+    "name": "Tsuruoka, Shinya"
+  },
+  {
+    "playerId": "31933884",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "高橋 信二",
+    "name": "Takahashi, Shinji"
+  },
+  {
+    "playerId": "11915111",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "田中 賢介",
+    "name": "Tanaka, Kensuke"
+  },
+  {
+    "playerId": "71975117",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "小谷野 栄一",
+    "name": "Koyano, Eiichi"
+  },
+  {
+    "playerId": "21323889",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "金子 誠",
+    "name": "Kaneko, Makoto"
+  },
+  {
+    "playerId": "91195119",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "糸井 嘉男",
+    "name": "Itoi, Yoshio"
+  },
+  {
+    "playerId": "21925117",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "坂口 智隆",
+    "name": "Sakaguchi, Tomotaka"
+  },
+  {
+    "playerId": "91193880",
+    "award": "Golden Glove",
+    "year": 2009,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "稲葉 篤紀",
+    "name": "Inaba, Atsunori"
+  },
+  {
+    "playerId": "31635110",
+    "award": "Sawamura Award Winner",
+    "year": 2009,
+    "team": "Seibu Lions",
+    "nameJapanese": "涌井 秀章",
+    "name": "Wakui, Hideaki"
+  },
+  {
+    "playerId": "51655114",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "前田 健太",
+    "name": "Maeda, Kenta"
+  },
+  {
+    "playerId": "31733880",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "城島 健司",
+    "name": "Jojima, Kenji"
+  },
+  {
+    "playerId": "61265115",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "平野 恵一",
+    "name": "Hirano, Keiichi"
+  },
+  {
+    "playerId": "51053880",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Yakult Swallows",
+    "nameJapanese": "宮本 慎也",
+    "name": "Miyamoto, Shinya"
+  },
+  {
+    "playerId": "21925112",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "梵 英心",
+    "name": "Soyogi, Eishin"
+  },
+  {
+    "playerId": "31135119",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Yakult Swallows",
+    "nameJapanese": "青木 宣親",
+    "name": "Aoki, Norichika"
+  },
+  {
+    "playerId": "71275113",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "廣瀬 純",
+    "name": "Hirose, Jun"
+  },
+  {
+    "playerId": "51155110",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "赤松 真人",
+    "name": "Akamatsu, Masato"
+  },
+  {
+    "playerId": "31635110",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Seibu Lions",
+    "nameJapanese": "涌井 秀章",
+    "name": "Wakui, Hideaki"
+  },
+  {
+    "playerId": "01905114",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "嶋 基宏",
+    "name": "Shima, Motohiro"
+  },
+  {
+    "playerId": "31533889",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "小久保 裕紀",
+    "name": "Kokubo, Hiroki"
+  },
+  {
+    "playerId": "11915111",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "田中 賢介",
+    "name": "Tanaka, Kensuke"
+  },
+  {
+    "playerId": "71975117",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "小谷野 栄一",
+    "name": "Koyano, Eiichi"
+  },
+  {
+    "playerId": "31435117",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "西岡 剛",
+    "name": "Nishioka, Tsuyoshi"
+  },
+  {
+    "playerId": "91195119",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "糸井 嘉男",
+    "name": "Itoi, Yoshio"
+  },
+  {
+    "playerId": "21925117",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "坂口 智隆",
+    "name": "Sakaguchi, Tomotaka"
+  },
+  {
+    "playerId": "51755115",
+    "award": "Golden Glove",
+    "year": 2010,
+    "team": "Seibu Lions",
+    "nameJapanese": "栗山 巧",
+    "name": "Kuriyama, Takumi"
+  },
+  {
+    "playerId": "51655114",
+    "award": "Sawamura Award Winner",
+    "year": 2010,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "前田 健太",
+    "name": "Maeda, Kenta"
+  },
+  {
+    "playerId": "71175114",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "浅尾 拓也",
+    "name": "Asao, Takuya"
+  },
+  {
+    "playerId": "85583868",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "谷繁 元信",
+    "name": "Tanishige, Motonobu"
+  },
+  {
+    "playerId": "31535111",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "栗原 健太",
+    "name": "Kurihara, Kenta"
+  },
+  {
+    "playerId": "61265115",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "平野 恵一",
+    "name": "Hirano, Keiichi"
+  },
+  {
+    "playerId": "51053880",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "Yakult Swallows",
+    "nameJapanese": "宮本 慎也",
+    "name": "Miyamoto, Shinya"
+  },
+  {
+    "playerId": "21925119",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "鳥谷 敬",
+    "name": "Toritani, Takashi"
+  },
+  {
+    "playerId": "91995131",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "長野 久義",
+    "name": "Chono, Hisayoshi"
+  },
+  {
+    "playerId": "31135119",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "Yakult Swallows",
+    "nameJapanese": "青木 宣親",
+    "name": "Aoki, Norichika"
+  },
+  {
+    "playerId": "01305131",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "大島 洋平",
+    "name": "Ohshima, Yohei"
+  },
+  {
+    "playerId": "11215114",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "田中 将大",
+    "name": "Tanaka, Masahiro"
+  },
+  {
+    "playerId": "71475115",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "細川 亨",
+    "name": "Hosokawa, Toru"
+  },
+  {
+    "playerId": "31533889",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "小久保 裕紀",
+    "name": "Kokubo, Hiroki"
+  },
+  {
+    "playerId": "41445112",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "本多 雄一",
+    "name": "Honda, Yuichi"
+  },
+  {
+    "playerId": "51655112",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "松田 宣浩",
+    "name": "Matsuda, Nobuhiro"
+  },
+  {
+    "playerId": "01005113",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "Seibu Lions",
+    "nameJapanese": "中島 裕之",
+    "name": "Nakajima, Hiroyuki"
+  },
+  {
+    "playerId": "81385118",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "岡田 幸文",
+    "name": "Okada, Yoshifumi"
+  },
+  {
+    "playerId": "91195119",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "糸井 嘉男",
+    "name": "Itoi, Yoshio"
+  },
+  {
+    "playerId": "21925117",
+    "award": "Golden Glove",
+    "year": 2011,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "坂口 智隆",
+    "name": "Sakaguchi, Tomotaka"
+  },
+  {
+    "playerId": "11215114",
+    "award": "Sawamura Award Winner",
+    "year": 2011,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "田中 将大",
+    "name": "Tanaka, Masahiro"
+  },
+  {
+    "playerId": "51655114",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "前田 健太",
+    "name": "Maeda, Kenta"
+  },
+  {
+    "playerId": "85583868",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "谷繁 元信",
+    "name": "Tanishige, Motonobu"
+  },
+  {
+    "playerId": "31235113",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Yakult Swallows",
+    "nameJapanese": "畠山 和洋",
+    "name": "Hatakeyama, Kazuhiro"
+  },
+  {
+    "playerId": "21925110",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Yakult Swallows",
+    "nameJapanese": "田中 浩康",
+    "name": "Tanaka, Hiroyasu"
+  },
+  {
+    "playerId": "51053880",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Yakult Swallows",
+    "nameJapanese": "宮本 慎也",
+    "name": "Miyamoto, Shinya"
+  },
+  {
+    "playerId": "41143886",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "井端 弘和",
+    "name": "Ibata, Hirokazu"
+  },
+  {
+    "playerId": "01305131",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "大島 洋平",
+    "name": "Ohshima, Yohei"
+  },
+  {
+    "playerId": "91995131",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "長野 久義",
+    "name": "Chono, Hisayoshi"
+  },
+  {
+    "playerId": "01105133",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "荒波 翔",
+    "name": "Aranami, Sho"
+  },
+  {
+    "playerId": "11215114",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "田中 将大",
+    "name": "Tanaka, Masahiro"
+  },
+  {
+    "playerId": "91995112",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Seibu Lions",
+    "nameJapanese": "炭谷 銀仁朗",
+    "name": "Sumitani, Ginjiro"
+  },
+  {
+    "playerId": "91193880",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "稲葉 篤紀",
+    "name": "Inaba, Atsunori"
+  },
+  {
+    "playerId": "41445112",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "本多 雄一",
+    "name": "Honda, Yuichi"
+  },
+  {
+    "playerId": "71975117",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "小谷野 栄一",
+    "name": "Koyano, Eiichi"
+  },
+  {
+    "playerId": "01005113",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Seibu Lions",
+    "nameJapanese": "中島 裕之",
+    "name": "Nakajima, Hiroyuki"
+  },
+  {
+    "playerId": "21825112",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "陽 岱鋼",
+    "name": "Yoh, Daikan"
+  },
+  {
+    "playerId": "91195119",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "糸井 嘉男",
+    "name": "Itoi, Yoshio"
+  },
+  {
+    "playerId": "81385118",
+    "award": "Golden Glove",
+    "year": 2012,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "岡田 幸文",
+    "name": "Okada, Yoshifumi"
+  },
+  {
+    "playerId": "91995118",
+    "award": "Sawamura Award Winner",
+    "year": 2012,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "攝津 正",
+    "name": "Settsu, Tadashi"
+  },
+  {
+    "playerId": "51655114",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "前田 健太",
+    "name": "Maeda, Kenta"
+  },
+  {
+    "playerId": "21125113",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "阿部 慎之助",
+    "name": "Abe, Shinnosuke"
+  },
+  {
+    "playerId": "93195137",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "Ｊ．ロペス",
+    "name": "Lopez, Jose"
+  },
+  {
+    "playerId": "61565135",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "菊池 涼介",
+    "name": "Kikuchi, Ryosuke"
+  },
+  {
+    "playerId": "81485117",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "村田 修一",
+    "name": "Murata, Shuichi"
+  },
+  {
+    "playerId": "21925119",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "鳥谷 敬",
+    "name": "Toritani, Takashi"
+  },
+  {
+    "playerId": "91995131",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "長野 久義",
+    "name": "Chono, Hisayoshi"
+  },
+  {
+    "playerId": "21425116",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "丸 佳浩",
+    "name": "Maru, Yoshihiro"
+  },
+  {
+    "playerId": "01105133",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "荒波 翔",
+    "name": "Aranami, Sho"
+  },
+  {
+    "playerId": "11215114",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "田中 将大",
+    "name": "Tanaka, Masahiro"
+  },
+  {
+    "playerId": "01905114",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "嶋 基宏",
+    "name": "Shima, Motohiro"
+  },
+  {
+    "playerId": "51155118",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Seibu Lions",
+    "nameJapanese": "浅村 栄斗",
+    "name": "Asamura, Hideto"
+  },
+  {
+    "playerId": "21225110",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "藤田 一也",
+    "name": "Fujita, Kazuya"
+  },
+  {
+    "playerId": "51655112",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "松田 宣浩",
+    "name": "Matsuda, Nobuhiro"
+  },
+  {
+    "playerId": "31335131",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "今宮 健太",
+    "name": "Imamiya, Kenta"
+  },
+  {
+    "playerId": "21825112",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "陽 岱鋼",
+    "name": "Yoh, Daikan"
+  },
+  {
+    "playerId": "91195119",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "糸井 嘉男",
+    "name": "Itoi, Yoshio"
+  },
+  {
+    "playerId": "31135133",
+    "award": "Golden Glove",
+    "year": 2013,
+    "team": "Seibu Lions",
+    "nameJapanese": "秋山 翔吾",
+    "name": "Akiyama, Shogo"
+  },
+  {
+    "playerId": "11215114",
+    "award": "Sawamura Award Winner",
+    "year": 2013,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "田中 将大",
+    "name": "Tanaka, Masahiro"
+  },
+  {
+    "playerId": "51655114",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "前田 健太",
+    "name": "Maeda, Kenta"
+  },
+  {
+    "playerId": "21125113",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "阿部 慎之助",
+    "name": "Abe, Shinnosuke"
+  },
+  {
+    "playerId": "21223884",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "森野 将彦",
+    "name": "Morino, Masahiko"
+  },
+  {
+    "playerId": "61565135",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "菊池 涼介",
+    "name": "Kikuchi, Ryosuke"
+  },
+  {
+    "playerId": "81485117",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "村田 修一",
+    "name": "Murata, Shuichi"
+  },
+  {
+    "playerId": "21925119",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "鳥谷 敬",
+    "name": "Toritani, Takashi"
+  },
+  {
+    "playerId": "21425116",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "丸 佳浩",
+    "name": "Maru, Yoshihiro"
+  },
+  {
+    "playerId": "01305131",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "大島 洋平",
+    "name": "Ohshima, Yohei"
+  },
+  {
+    "playerId": "61465112",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "大和",
+    "name": "Maeda, Yamato"
+  },
+  {
+    "playerId": "41345110",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "金子 千尋",
+    "name": "Kaneko, Chihiro"
+  },
+  {
+    "playerId": "81185116",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "伊藤 光",
+    "name": "Itoh, Hikaru"
+  },
+  {
+    "playerId": "61365112",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "Ｔ－岡田",
+    "name": "Okada, Takahiro"
+  },
+  {
+    "playerId": "21225110",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "藤田 一也",
+    "name": "Fujita, Kazuya"
+  },
+  {
+    "playerId": "51655112",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "松田 宣浩",
+    "name": "Matsuda, Nobuhiro"
+  },
+  {
+    "playerId": "31335131",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "今宮 健太",
+    "name": "Imamiya, Kenta"
+  },
+  {
+    "playerId": "21825112",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "陽 岱鋼",
+    "name": "Yoh, Daikan"
+  },
+  {
+    "playerId": "91195119",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "糸井 嘉男",
+    "name": "Itoi, Yoshio"
+  },
+  {
+    "playerId": "yuki-yanagita",
+    "award": "Golden Glove",
+    "year": 2014,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
+  },
+  {
+    "playerId": "41345110",
+    "award": "Sawamura Award Winner",
+    "year": 2014,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "金子 千尋",
+    "name": "Kaneko, Chihiro"
+  },
+  {
+    "playerId": "31735112",
     "award": "Batting Champion",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "year": 2015,
+    "team": "Yakult Swallows",
+    "nameJapanese": "川端 慎吾",
+    "name": "Kawabata, Shingo"
   },
   {
-    "playerId": "sadaharu-oh",
+    "playerId": "91895133",
     "award": "Home Run Leader",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "year": 2015,
+    "team": "Yakult Swallows",
+    "nameJapanese": "山田 哲人",
+    "name": "Yamada, Tetsuto"
   },
   {
-    "playerId": "sadaharu-oh",
+    "playerId": "31235113",
     "award": "RBI Leader",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "year": 2015,
+    "team": "Yakult Swallows",
+    "nameJapanese": "畠山 和洋",
+    "name": "Hatakeyama, Kazuhiro"
   },
   {
-    "playerId": "sadaharu-oh",
-    "award": "Japan Baseball Hall of Fame",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "91895133",
+    "award": "Stolen Base Leader",
+    "year": 2015,
+    "team": "Yakult Swallows",
+    "nameJapanese": "山田 哲人",
+    "name": "Yamada, Tetsuto"
   },
   {
-    "playerId": "sadaharu-oh",
-    "award": "Meikyukai Member",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "53355130",
+    "award": "ERA Leader",
+    "year": 2015,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "Ｋ．ジョンソン",
+    "name": "Johnson, Kris"
   },
   {
-    "playerId": "shigeo-nagashima",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "51655114",
+    "award": "Wins Leader",
+    "year": 2015,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "前田 健太",
+    "name": "Maeda, Kenta"
   },
   {
-    "playerId": "shigeo-nagashima",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "41045137",
+    "award": "Strikeout Leader",
+    "year": 2015,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "藤浪 晋太郎",
+    "name": "Fujinami, Shintaro"
   },
   {
-    "playerId": "shigeo-nagashima",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "71875131",
+    "award": "Saves Leader",
+    "year": 2015,
+    "team": "Yakult Swallows",
+    "nameJapanese": "Ｔ．バーネット",
+    "name": "Barnette, Tony"
   },
   {
-    "playerId": "shigeo-nagashima",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "51855139",
+    "award": "Saves Leader",
+    "year": 2015,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "呉 昇桓",
+    "name": "Oh Seung-hwan"
   },
   {
-    "playerId": "shigeo-nagashima",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "81983888",
+    "award": "Holds Leader",
+    "year": 2015,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "福原 忍",
+    "name": "Fukuhara, Shinobu"
   },
   {
-    "playerId": "shigeo-nagashima",
+    "playerId": "yuki-yanagita",
     "award": "Batting Champion",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "year": 2015,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
   },
   {
-    "playerId": "shigeo-nagashima",
+    "playerId": "81085115",
     "award": "Home Run Leader",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "year": 2015,
+    "team": "Seibu Lions",
+    "nameJapanese": "中村 剛也",
+    "name": "Nakamura, Takeya"
   },
   {
-    "playerId": "shigeo-nagashima",
+    "playerId": "81085115",
     "award": "RBI Leader",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "year": 2015,
+    "team": "Seibu Lions",
+    "nameJapanese": "中村 剛也",
+    "name": "Nakamura, Takeya"
   },
   {
-    "playerId": "shigeo-nagashima",
-    "award": "Japan Baseball Hall of Fame",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "11215118",
+    "award": "Stolen Base Leader",
+    "year": 2015,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "中島 卓也",
+    "name": "Nakashima, Takuya"
   },
   {
-    "playerId": "shigeo-nagashima",
-    "award": "Meikyukai Member",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "01305137",
+    "award": "ERA Leader",
+    "year": 2015,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "大谷 翔平",
+    "name": "Ohtani, Shohei"
   },
   {
-    "playerId": "hayato-sakamoto",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "01305137",
+    "award": "Wins Leader",
+    "year": 2015,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "大谷 翔平",
+    "name": "Ohtani, Shohei"
   },
   {
-    "playerId": "hayato-sakamoto",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "31635110",
+    "award": "Wins Leader",
+    "year": 2015,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "涌井 秀章",
+    "name": "Wakui, Hideaki"
   },
   {
-    "playerId": "hayato-sakamoto",
+    "playerId": "51055137",
+    "award": "Strikeout Leader",
+    "year": 2015,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "則本 昂大",
+    "name": "Norimoto, Takahiro"
+  },
+  {
+    "playerId": "33135133",
+    "award": "Saves Leader",
+    "year": 2015,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "Ｄ．サファテ",
+    "name": "Sarfate, Dennis"
+  },
+  {
+    "playerId": "71275137",
+    "award": "Holds Leader",
+    "year": 2015,
+    "team": "Seibu Lions",
+    "nameJapanese": "増田 達至",
+    "name": "Masuda, Tatsushi"
+  },
+  {
+    "playerId": "51655114",
     "award": "Golden Glove",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "year": 2015,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "前田 健太",
+    "name": "Maeda, Kenta"
   },
   {
-    "playerId": "hayato-sakamoto",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "51255118",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "Yakult Swallows",
+    "nameJapanese": "中村 悠平",
+    "name": "Nakamura, Yuhei"
   },
   {
-    "playerId": "hayato-sakamoto",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "31235113",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "Yakult Swallows",
+    "nameJapanese": "畠山 和洋",
+    "name": "Hatakeyama, Kazuhiro"
   },
   {
-    "playerId": "kazuma-okamoto",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "61565135",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "菊池 涼介",
+    "name": "Kikuchi, Ryosuke"
   },
   {
-    "playerId": "kazuma-okamoto",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "playerId": "31735112",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "Yakult Swallows",
+    "nameJapanese": "川端 慎吾",
+    "name": "Kawabata, Shingo"
   },
   {
-    "playerId": "kazuma-okamoto",
+    "playerId": "21925119",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "鳥谷 敬",
+    "name": "Toritani, Takashi"
+  },
+  {
+    "playerId": "61963888",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "福留 孝介",
+    "name": "Fukudome, Kosuke"
+  },
+  {
+    "playerId": "21425116",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "丸 佳浩",
+    "name": "Maru, Yoshihiro"
+  },
+  {
+    "playerId": "01305131",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "大島 洋平",
+    "name": "Ohshima, Yohei"
+  },
+  {
+    "playerId": "31635110",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "涌井 秀章",
+    "name": "Wakui, Hideaki"
+  },
+  {
+    "playerId": "91995112",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "Seibu Lions",
+    "nameJapanese": "炭谷 銀仁朗",
+    "name": "Sumitani, Ginjiro"
+  },
+  {
+    "playerId": "61065116",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "中田 翔",
+    "name": "Nakata, Sho"
+  },
+  {
+    "playerId": "01805139",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "Ｌ．クルーズ",
+    "name": "Cruz, Luis"
+  },
+  {
+    "playerId": "51655112",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "松田 宣浩",
+    "name": "Matsuda, Nobuhiro"
+  },
+  {
+    "playerId": "31335131",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "今宮 健太",
+    "name": "Imamiya, Kenta"
+  },
+  {
+    "playerId": "yuki-yanagita",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
+  },
+  {
+    "playerId": "31135133",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "Seibu Lions",
+    "nameJapanese": "秋山 翔吾",
+    "name": "Akiyama, Shogo"
+  },
+  {
+    "playerId": "91795131",
+    "award": "Golden Glove",
+    "year": 2015,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "清田 育宏",
+    "name": "Kiyota, Ikuhiro"
+  },
+  {
+    "playerId": "51655114",
+    "award": "Sawamura Award Winner",
+    "year": 2015,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "前田 健太",
+    "name": "Maeda, Kenta"
+  },
+  {
+    "playerId": "51955114",
+    "award": "Batting Champion",
+    "year": 2016,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "坂本 勇人",
+    "name": "Sakamoto, Hayato"
+  },
+  {
+    "playerId": "41945131",
     "award": "Home Run Leader",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "year": 2016,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "筒香 嘉智",
+    "name": "Tsutsugoh, Yoshitomo"
   },
   {
-    "playerId": "kazuma-okamoto",
+    "playerId": "41945131",
     "award": "RBI Leader",
-    "year": 2024,
-    "team": "Yomiuri Giants"
+    "year": 2016,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "筒香 嘉智",
+    "name": "Tsutsugoh, Yoshitomo"
   },
   {
-    "playerId": "koji-uehara",
+    "playerId": "91895133",
+    "award": "Stolen Base Leader",
+    "year": 2016,
+    "team": "Yakult Swallows",
+    "nameJapanese": "山田 哲人",
+    "name": "Yamada, Tetsuto"
+  },
+  {
+    "playerId": "41745137",
+    "award": "ERA Leader",
+    "year": 2016,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "21425135",
+    "award": "Wins Leader",
+    "year": 2016,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "野村 祐輔",
+    "name": "Nomura, Yusuke"
+  },
+  {
+    "playerId": "41745137",
+    "award": "Strikeout Leader",
+    "year": 2016,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "81985133",
+    "award": "Saves Leader",
+    "year": 2016,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "澤村 拓一",
+    "name": "Sawamura, Hirokazu"
+  },
+  {
+    "playerId": "63165135",
+    "award": "Holds Leader",
+    "year": 2016,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "Ｓ．マシソン",
+    "name": "Mathieson, Scott"
+  },
+  {
+    "playerId": "41545114",
+    "award": "Batting Champion",
+    "year": 2016,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "角中 勝也",
+    "name": "Kakunaka, Katsuya"
+  },
+  {
+    "playerId": "23525130",
+    "award": "Home Run Leader",
+    "year": 2016,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "Ｂ．レアード",
+    "name": "Laird, Brandon"
+  },
+  {
+    "playerId": "61065116",
+    "award": "RBI Leader",
+    "year": 2016,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "中田 翔",
+    "name": "Nakata, Sho"
+  },
+  {
+    "playerId": "91195119",
+    "award": "Stolen Base Leader",
+    "year": 2016,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "糸井 嘉男",
+    "name": "Itoi, Yoshio"
+  },
+  {
+    "playerId": "01505137",
+    "award": "Stolen Base Leader",
+    "year": 2016,
+    "team": "Seibu Lions",
+    "nameJapanese": "金子 侑司",
+    "name": "Kaneko, Yuji"
+  },
+  {
+    "playerId": "41145139",
+    "award": "ERA Leader",
+    "year": 2016,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "石川 歩",
+    "name": "Ishikawa, Ayumu"
+  },
+  {
+    "playerId": "11815117",
+    "award": "Wins Leader",
+    "year": 2016,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "和田 毅",
+    "name": "Wada, Tsuyoshi"
+  },
+  {
+    "playerId": "51055137",
+    "award": "Strikeout Leader",
+    "year": 2016,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "則本 昂大",
+    "name": "Norimoto, Takahiro"
+  },
+  {
+    "playerId": "33135133",
+    "award": "Saves Leader",
+    "year": 2016,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "Ｄ．サファテ",
+    "name": "Sarfate, Dennis"
+  },
+  {
+    "playerId": "41445116",
+    "award": "Holds Leader",
+    "year": 2016,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "宮西 尚生",
+    "name": "Miyanishi, Naoki"
+  },
+  {
+    "playerId": "41745137",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "51355115",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "石原 慶幸",
+    "name": "Ishihara, Yoshiyuki"
+  },
+  {
+    "playerId": "93195137",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "Ｊ．ロペス",
+    "name": "Lopez, Jose"
+  },
+  {
+    "playerId": "61565135",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "菊池 涼介",
+    "name": "Kikuchi, Ryosuke"
+  },
+  {
+    "playerId": "81485117",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "村田 修一",
+    "name": "Murata, Shuichi"
+  },
+  {
+    "playerId": "51955114",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "坂本 勇人",
+    "name": "Sakamoto, Hayato"
+  },
+  {
+    "playerId": "21425116",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "丸 佳浩",
+    "name": "Maru, Yoshihiro"
+  },
+  {
+    "playerId": "01305131",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "大島 洋平",
+    "name": "Ohshima, Yohei"
+  },
+  {
+    "playerId": "81785137",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "鈴木 誠也",
+    "name": "Suzuki, Seiya"
+  },
+  {
+    "playerId": "31635110",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "涌井 秀章",
+    "name": "Wakui, Hideaki"
+  },
+  {
+    "playerId": "61365118",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "大野 奨太",
+    "name": "Ohno, Shota"
+  },
+  {
+    "playerId": "61065116",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "中田 翔",
+    "name": "Nakata, Sho"
+  },
+  {
+    "playerId": "21225110",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "藤田 一也",
+    "name": "Fujita, Kazuya"
+  },
+  {
+    "playerId": "51655112",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "松田 宣浩",
+    "name": "Matsuda, Nobuhiro"
+  },
+  {
+    "playerId": "31335131",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "今宮 健太",
+    "name": "Imamiya, Kenta"
+  },
+  {
+    "playerId": "31135133",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Seibu Lions",
+    "nameJapanese": "秋山 翔吾",
+    "name": "Akiyama, Shogo"
+  },
+  {
+    "playerId": "21825112",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "陽 岱鋼",
+    "name": "Yoh, Daikan"
+  },
+  {
+    "playerId": "91195119",
+    "award": "Golden Glove",
+    "year": 2016,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "糸井 嘉男",
+    "name": "Itoi, Yoshio"
+  },
+  {
+    "playerId": "53355130",
+    "award": "Sawamura Award Winner",
+    "year": 2016,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "Ｋ．ジョンソン",
+    "name": "Johnson, Kris"
+  },
+  {
+    "playerId": "21425116",
+    "award": "MVP Winner",
+    "year": 2017,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "丸 佳浩",
+    "name": "Maru, Yoshihiro"
+  },
+  {
+    "playerId": "81585134",
+    "award": "Rookie of the Year",
+    "year": 2017,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "京田 陽太",
+    "name": "Kyoda, Yota"
+  },
+  {
+    "playerId": "41745137",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "31135114",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "會澤 翼",
+    "name": "Aizawa, Tsubasa"
+  },
+  {
+    "playerId": "93195137",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "Ｊ．ロペス",
+    "name": "Lopez, Jose"
+  },
+  {
+    "playerId": "61565135",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "菊池 涼介",
+    "name": "Kikuchi, Ryosuke"
+  },
+  {
+    "playerId": "51455137",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "宮﨑 敏郎",
+    "name": "Miyazaki, Toshiro"
+  },
+  {
+    "playerId": "61965139",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "田中 広輔",
+    "name": "Tanaka, Kosuke"
+  },
+  {
+    "playerId": "21425116",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "丸 佳浩",
+    "name": "Maru, Yoshihiro"
+  },
+  {
+    "playerId": "81785137",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "鈴木 誠也",
+    "name": "Suzuki, Seiya"
+  },
+  {
+    "playerId": "41945131",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "筒香 嘉智",
+    "name": "Tsutsugoh, Yoshitomo"
+  },
+  {
+    "playerId": "51455137",
+    "award": "Batting Champion",
+    "year": 2017,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "宮﨑 敏郎",
+    "name": "Miyazaki, Toshiro"
+  },
+  {
+    "playerId": "43545134",
+    "award": "Home Run Leader",
+    "year": 2017,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "Ａ．ゲレーロ",
+    "name": "Guerrero, Alex"
+  },
+  {
+    "playerId": "93195137",
+    "award": "RBI Leader",
+    "year": 2017,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "Ｊ．ロペス",
+    "name": "Lopez, Jose"
+  },
+  {
+    "playerId": "61965139",
+    "award": "Stolen Base Leader",
+    "year": 2017,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "田中 広輔",
+    "name": "Tanaka, Kosuke"
+  },
+  {
+    "playerId": "41745137",
+    "award": "ERA Leader",
+    "year": 2017,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "41745137",
+    "award": "Wins Leader",
+    "year": 2017,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "53555130",
+    "award": "Strikeout Leader",
+    "year": 2017,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "Ｍ．マイコラス",
+    "name": "Mikolas, Miles"
+  },
+  {
+    "playerId": "03505132",
+    "award": "Saves Leader",
+    "year": 2017,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "Ｒ．ドリス",
+    "name": "Dolis, Rafael"
+  },
+  {
+    "playerId": "31735116",
+    "award": "Holds Leader",
+    "year": 2017,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "桑原 謙太朗",
+    "name": "Kuwahara, Kentaro"
+  },
+  {
+    "playerId": "83785132",
+    "award": "Holds Leader",
+    "year": 2017,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "Ｍ．マテオ",
+    "name": "Mateo, Marcos"
+  },
+  {
+    "playerId": "33135133",
+    "award": "MVP Winner",
+    "year": 2017,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "Ｄ．サファテ",
+    "name": "Sarfate, Dennis"
+  },
+  {
+    "playerId": "71775134",
+    "award": "Rookie of the Year",
+    "year": 2017,
+    "team": "Seibu Lions",
+    "nameJapanese": "源田 壮亮",
+    "name": "Genda, Sosuke"
+  },
+  {
+    "playerId": "51755131",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Seibu Lions",
+    "nameJapanese": "菊池 雄星",
+    "name": "Kikuchi, Yusei"
+  },
+  {
+    "playerId": "91595133",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "甲斐 拓也",
+    "name": "Kai, Takuya"
+  },
+  {
+    "playerId": "71375112",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "銀次",
+    "name": "Akaminai, Ginji"
+  },
+  {
+    "playerId": "51155118",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Seibu Lions",
+    "nameJapanese": "浅村 栄斗",
+    "name": "Asamura, Hideto"
+  },
+  {
+    "playerId": "03105130",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "Ｚ．ウィーラー",
+    "name": "Wheeler, Zelous"
+  },
+  {
+    "playerId": "31335131",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "今宮 健太",
+    "name": "Imamiya, Kenta"
+  },
+  {
+    "playerId": "yuki-yanagita",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
+  },
+  {
+    "playerId": "31135133",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Seibu Lions",
+    "nameJapanese": "秋山 翔吾",
+    "name": "Akiyama, Shogo"
+  },
+  {
+    "playerId": "21225133",
+    "award": "Best Nine",
+    "year": 2017,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "西川 遥輝",
+    "name": "Nishikawa, Haruki"
+  },
+  {
+    "playerId": "31135133",
+    "award": "Batting Champion",
+    "year": 2017,
+    "team": "Seibu Lions",
+    "nameJapanese": "秋山 翔吾",
+    "name": "Akiyama, Shogo"
+  },
+  {
+    "playerId": "03505139",
+    "award": "Home Run Leader",
+    "year": 2017,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "Ａ． デスパイネ",
+    "name": "Despaigne, Alfredo"
+  },
+  {
+    "playerId": "03505139",
+    "award": "RBI Leader",
+    "year": 2017,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "Ａ． デスパイネ",
+    "name": "Despaigne, Alfredo"
+  },
+  {
+    "playerId": "21225133",
+    "award": "Stolen Base Leader",
+    "year": 2017,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "西川 遥輝",
+    "name": "Nishikawa, Haruki"
+  },
+  {
+    "playerId": "51755131",
+    "award": "ERA Leader",
+    "year": 2017,
+    "team": "Seibu Lions",
+    "nameJapanese": "菊池 雄星",
+    "name": "Kikuchi, Yusei"
+  },
+  {
+    "playerId": "01005137",
+    "award": "Wins Leader",
+    "year": 2017,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "東浜 巨",
+    "name": "Higashihama, Nao"
+  },
+  {
+    "playerId": "51755131",
+    "award": "Wins Leader",
+    "year": 2017,
+    "team": "Seibu Lions",
+    "nameJapanese": "菊池 雄星",
+    "name": "Kikuchi, Yusei"
+  },
+  {
+    "playerId": "51055137",
+    "award": "Strikeout Leader",
+    "year": 2017,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "則本 昂大",
+    "name": "Norimoto, Takahiro"
+  },
+  {
+    "playerId": "33135133",
+    "award": "Saves Leader",
+    "year": 2017,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "Ｄ．サファテ",
+    "name": "Sarfate, Dennis"
+  },
+  {
+    "playerId": "31335116",
+    "award": "Holds Leader",
+    "year": 2017,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "岩嵜 翔",
+    "name": "Iwasaki, Sho"
+  },
+  {
+    "playerId": "41745137",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "91795139",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "小林 誠司",
+    "name": "Kobayashi, Seiji"
+  },
+  {
+    "playerId": "93195137",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "Ｊ．ロペス",
+    "name": "Lopez, Jose"
+  },
+  {
+    "playerId": "61565135",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "菊池 涼介",
+    "name": "Kikuchi, Ryosuke"
+  },
+  {
+    "playerId": "21925119",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "鳥谷 敬",
+    "name": "Toritani, Takashi"
+  },
+  {
+    "playerId": "51955114",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "坂本 勇人",
+    "name": "Sakamoto, Hayato"
+  },
+  {
+    "playerId": "21425116",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "丸 佳浩",
+    "name": "Maru, Yoshihiro"
+  },
+  {
+    "playerId": "81785137",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "鈴木 誠也",
+    "name": "Suzuki, Seiya"
+  },
+  {
+    "playerId": "51755135",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "桑原 将志",
+    "name": "Kuwahara, Masayuki"
+  },
+  {
+    "playerId": "51755131",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "Seibu Lions",
+    "nameJapanese": "菊池 雄星",
+    "name": "Kikuchi, Yusei"
+  },
+  {
+    "playerId": "91595133",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "甲斐 拓也",
+    "name": "Kai, Takuya"
+  },
+  {
+    "playerId": "71375112",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "銀次",
+    "name": "Akaminai, Ginji"
+  },
+  {
+    "playerId": "81985135",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "鈴木 大地",
+    "name": "Suzuki, Daichi"
+  },
+  {
+    "playerId": "51655112",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "松田 宣浩",
+    "name": "Matsuda, Nobuhiro"
+  },
+  {
+    "playerId": "31335131",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "今宮 健太",
+    "name": "Imamiya, Kenta"
+  },
+  {
+    "playerId": "31135133",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "Seibu Lions",
+    "nameJapanese": "秋山 翔吾",
+    "name": "Akiyama, Shogo"
+  },
+  {
+    "playerId": "yuki-yanagita",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
+  },
+  {
+    "playerId": "21225133",
+    "award": "Golden Glove",
+    "year": 2017,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "西川 遥輝",
+    "name": "Nishikawa, Haruki"
+  },
+  {
+    "playerId": "41745137",
+    "award": "Sawamura Award Winner",
+    "year": 2017,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "21425116",
+    "award": "MVP Winner",
+    "year": 2018,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "丸 佳浩",
+    "name": "Maru, Yoshihiro"
+  },
+  {
+    "playerId": "51155136",
+    "award": "Rookie of the Year",
+    "year": 2018,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "東 克樹",
+    "name": "Azuma, Katsuki"
+  },
+  {
+    "playerId": "41745137",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "31135114",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "會澤 翼",
+    "name": "Aizawa, Tsubasa"
+  },
+  {
+    "playerId": "13715132",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "Ｄ．ビシエド",
+    "name": "Viciedo, Dayan"
+  },
+  {
+    "playerId": "91895133",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Yakult Swallows",
+    "nameJapanese": "山田 哲人",
+    "name": "Yamada, Tetsuto"
+  },
+  {
+    "playerId": "51455137",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "宮﨑 敏郎",
+    "name": "Miyazaki, Toshiro"
+  },
+  {
+    "playerId": "51955114",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "坂本 勇人",
+    "name": "Sakamoto, Hayato"
+  },
+  {
+    "playerId": "21425116",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "丸 佳浩",
+    "name": "Maru, Yoshihiro"
+  },
+  {
+    "playerId": "81785137",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "鈴木 誠也",
+    "name": "Suzuki, Seiya"
+  },
+  {
+    "playerId": "03505136",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "Ｎ．ソト",
+    "name": "Soto, Neftali"
+  },
+  {
+    "playerId": "13715132",
+    "award": "Batting Champion",
+    "year": 2018,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "Ｄ．ビシエド",
+    "name": "Viciedo, Dayan"
+  },
+  {
+    "playerId": "03505136",
+    "award": "Home Run Leader",
+    "year": 2018,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "Ｎ．ソト",
+    "name": "Soto, Neftali"
+  },
+  {
+    "playerId": "13315133",
+    "award": "RBI Leader",
+    "year": 2018,
+    "team": "Yakult Swallows",
+    "nameJapanese": "Ｗ．バレンティン",
+    "name": "Balentien, Wladimir"
+  },
+  {
+    "playerId": "91895133",
+    "award": "Stolen Base Leader",
+    "year": 2018,
+    "team": "Yakult Swallows",
+    "nameJapanese": "山田 哲人",
+    "name": "Yamada, Tetsuto"
+  },
+  {
+    "playerId": "41745137",
+    "award": "ERA Leader",
+    "year": 2018,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "61365139",
+    "award": "Wins Leader",
+    "year": 2018,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "大瀬良 大地",
+    "name": "Ohsera, Daichi"
+  },
+  {
+    "playerId": "41745137",
+    "award": "Wins Leader",
+    "year": 2018,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "41745137",
+    "award": "Strikeout Leader",
+    "year": 2018,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "41845130",
+    "award": "Saves Leader",
+    "year": 2018,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "山﨑 康晃",
+    "name": "Yamasaki, Yasuaki"
+  },
+  {
+    "playerId": "91795115",
+    "award": "Holds Leader",
+    "year": 2018,
+    "team": "Yakult Swallows",
+    "nameJapanese": "近藤 一樹",
+    "name": "Kondoh, Kazuki"
+  },
+  {
+    "playerId": "21425139",
+    "award": "MVP Winner",
+    "year": 2018,
+    "team": "Seibu Lions",
+    "nameJapanese": "山川 穂高",
+    "name": "Yamakawa, Hotaka"
+  },
+  {
+    "playerId": "11215134",
+    "award": "Rookie of the Year",
+    "year": 2018,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "田中 和基",
+    "name": "Tanaka, Kazuki"
+  },
+  {
+    "playerId": "51755131",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Seibu Lions",
+    "nameJapanese": "菊池 雄星",
+    "name": "Kikuchi, Yusei"
+  },
+  {
+    "playerId": "91495139",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Seibu Lions",
+    "nameJapanese": "森 友哉",
+    "name": "Mori, Tomoya"
+  },
+  {
+    "playerId": "21425139",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Seibu Lions",
+    "nameJapanese": "山川 穂高",
+    "name": "Yamakawa, Hotaka"
+  },
+  {
+    "playerId": "51155118",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Seibu Lions",
+    "nameJapanese": "浅村 栄斗",
+    "name": "Asamura, Hideto"
+  },
+  {
+    "playerId": "51655112",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "松田 宣浩",
+    "name": "Matsuda, Nobuhiro"
+  },
+  {
+    "playerId": "71775134",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Seibu Lions",
+    "nameJapanese": "源田 壮亮",
+    "name": "Genda, Sosuke"
+  },
+  {
+    "playerId": "yuki-yanagita",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
+  },
+  {
+    "playerId": "31135133",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Seibu Lions",
+    "nameJapanese": "秋山 翔吾",
+    "name": "Akiyama, Shogo"
+  },
+  {
+    "playerId": "63165132",
+    "award": "Best Nine",
+    "year": 2018,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "吉田 正尚",
+    "name": "Yoshida, Masataka"
+  },
+  {
+    "playerId": "yuki-yanagita",
+    "award": "Batting Champion",
+    "year": 2018,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
+  },
+  {
+    "playerId": "21425139",
+    "award": "Home Run Leader",
+    "year": 2018,
+    "team": "Seibu Lions",
+    "nameJapanese": "山川 穂高",
+    "name": "Yamakawa, Hotaka"
+  },
+  {
+    "playerId": "51155118",
+    "award": "RBI Leader",
+    "year": 2018,
+    "team": "Seibu Lions",
+    "nameJapanese": "浅村 栄斗",
+    "name": "Asamura, Hideto"
+  },
+  {
+    "playerId": "21225133",
+    "award": "Stolen Base Leader",
+    "year": 2018,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "西川 遥輝",
+    "name": "Nishikawa, Haruki"
+  },
+  {
+    "playerId": "91795114",
+    "award": "ERA Leader",
+    "year": 2018,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "岸 孝之",
+    "name": "Kishi, Takayuki"
+  },
+  {
+    "playerId": "51255132",
+    "award": "Wins Leader",
+    "year": 2018,
+    "team": "Seibu Lions",
+    "nameJapanese": "多和田 真三郎",
+    "name": "Tawata, Shinsaburou"
+  },
+  {
+    "playerId": "51055137",
+    "award": "Strikeout Leader",
+    "year": 2018,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "則本 昂大",
+    "name": "Norimoto, Takahiro"
+  },
+  {
+    "playerId": "01405139",
+    "award": "Saves Leader",
+    "year": 2018,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "森 唯斗",
+    "name": "Mori, Yuito"
+  },
+  {
+    "playerId": "41445116",
+    "award": "Holds Leader",
+    "year": 2018,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "宮西 尚生",
+    "name": "Miyanishi, Naoki"
+  },
+  {
+    "playerId": "41745137",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "21325139",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "梅野 隆太郎",
+    "name": "Umeno, Ryutaro"
+  },
+  {
+    "playerId": "93195137",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "Ｊ．ロペス",
+    "name": "Lopez, Jose"
+  },
+  {
+    "playerId": "61565135",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "菊池 涼介",
+    "name": "Kikuchi, Ryosuke"
+  },
+  {
+    "playerId": "51455137",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "宮﨑 敏郎",
+    "name": "Miyazaki, Toshiro"
+  },
+  {
+    "playerId": "61965139",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "田中 広輔",
+    "name": "Tanaka, Kosuke"
+  },
+  {
+    "playerId": "21425116",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "丸 佳浩",
+    "name": "Maru, Yoshihiro"
+  },
+  {
+    "playerId": "01305131",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "大島 洋平",
+    "name": "Ohshima, Yohei"
+  },
+  {
+    "playerId": "61265112",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "平田 良介",
+    "name": "Hirata, Ryosuke"
+  },
+  {
+    "playerId": "91795114",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "岸 孝之",
+    "name": "Kishi, Takayuki"
+  },
+  {
+    "playerId": "91595133",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "甲斐 拓也",
+    "name": "Kai, Takuya"
+  },
+  {
+    "playerId": "61065116",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "中田 翔",
+    "name": "Nakata, Sho"
+  },
+  {
+    "playerId": "51455130",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "中村 奨吾",
+    "name": "Nakamura, Shogo"
+  },
+  {
+    "playerId": "51655112",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "松田 宣浩",
+    "name": "Matsuda, Nobuhiro"
+  },
+  {
+    "playerId": "71775134",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Seibu Lions",
+    "nameJapanese": "源田 壮亮",
+    "name": "Genda, Sosuke"
+  },
+  {
+    "playerId": "31135133",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Seibu Lions",
+    "nameJapanese": "秋山 翔吾",
+    "name": "Akiyama, Shogo"
+  },
+  {
+    "playerId": "yuki-yanagita",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
+  },
+  {
+    "playerId": "21225133",
+    "award": "Golden Glove",
+    "year": 2018,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "西川 遥輝",
+    "name": "Nishikawa, Haruki"
+  },
+  {
+    "playerId": "41745137",
+    "award": "Sawamura Award Winner",
+    "year": 2018,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "51955114",
+    "award": "MVP Winner",
+    "year": 2019,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "坂本 勇人",
+    "name": "Sakamoto, Hayato"
+  },
+  {
+    "playerId": "41845136",
+    "award": "Rookie of the Year",
+    "year": 2019,
+    "team": "Yakult Swallows",
+    "nameJapanese": "村上 宗隆",
+    "name": "Murakami, Munetaka"
+  },
+  {
+    "playerId": "51855112",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "山口 俊",
+    "name": "Yamaguchi, Shun"
+  },
+  {
+    "playerId": "31135114",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "會澤 翼",
+    "name": "Aizawa, Tsubasa"
+  },
+  {
+    "playerId": "13715132",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "Ｄ．ビシエド",
+    "name": "Viciedo, Dayan"
+  },
+  {
+    "playerId": "91895133",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Yakult Swallows",
+    "nameJapanese": "山田 哲人",
+    "name": "Yamada, Tetsuto"
+  },
+  {
+    "playerId": "91095135",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "高橋 周平",
+    "name": "Takahashi, Shuhei"
+  },
+  {
+    "playerId": "51955114",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "坂本 勇人",
+    "name": "Sakamoto, Hayato"
+  },
+  {
+    "playerId": "81785137",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "鈴木 誠也",
+    "name": "Suzuki, Seiya"
+  },
+  {
+    "playerId": "21425116",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "丸 佳浩",
+    "name": "Maru, Yoshihiro"
+  },
+  {
+    "playerId": "03505136",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "Ｎ．ソト",
+    "name": "Soto, Neftali"
+  },
+  {
+    "playerId": "81785137",
+    "award": "Batting Champion",
+    "year": 2019,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "鈴木 誠也",
+    "name": "Suzuki, Seiya"
+  },
+  {
+    "playerId": "03505136",
+    "award": "Home Run Leader",
+    "year": 2019,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "Ｎ．ソト",
+    "name": "Soto, Neftali"
+  },
+  {
+    "playerId": "03505136",
+    "award": "RBI Leader",
+    "year": 2019,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "Ｎ．ソト",
+    "name": "Soto, Neftali"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Stolen Base Leader",
+    "year": 2019,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "11515133",
+    "award": "ERA Leader",
+    "year": 2019,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "大野 雄大",
+    "name": "Ohno, Yudai"
+  },
+  {
+    "playerId": "51855112",
+    "award": "Wins Leader",
+    "year": 2019,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "山口 俊",
+    "name": "Yamaguchi, Shun"
+  },
+  {
+    "playerId": "51855112",
+    "award": "Strikeout Leader",
+    "year": 2019,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "山口 俊",
+    "name": "Yamaguchi, Shun"
+  },
+  {
+    "playerId": "41845130",
+    "award": "Saves Leader",
+    "year": 2019,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "山﨑 康晃",
+    "name": "Yamasaki, Yasuaki"
+  },
+  {
+    "playerId": "83985136",
+    "award": "Holds Leader",
+    "year": 2019,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "Ｊ．ロドリゲス",
+    "name": "Rodriguez, Joely"
+  },
+  {
+    "playerId": "91495139",
+    "award": "MVP Winner",
+    "year": 2019,
+    "team": "Seibu Lions",
+    "nameJapanese": "森 友哉",
+    "name": "Mori, Tomoya"
+  },
+  {
+    "playerId": "01005136",
+    "award": "Rookie of the Year",
+    "year": 2019,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "高橋 礼",
+    "name": "Takahashi, Rei"
+  },
+  {
+    "playerId": "kodai-senga",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "千賀 滉大",
+    "name": "Kodai Senga"
+  },
+  {
+    "playerId": "91495139",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Seibu Lions",
+    "nameJapanese": "森 友哉",
+    "name": "Mori, Tomoya"
+  },
+  {
+    "playerId": "21425139",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Seibu Lions",
+    "nameJapanese": "山川 穂高",
+    "name": "Yamakawa, Hotaka"
+  },
+  {
+    "playerId": "51155118",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "浅村 栄斗",
+    "name": "Asamura, Hideto"
+  },
+  {
+    "playerId": "81085115",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Seibu Lions",
+    "nameJapanese": "中村 剛也",
+    "name": "Nakamura, Takeya"
+  },
+  {
+    "playerId": "71775134",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Seibu Lions",
+    "nameJapanese": "源田 壮亮",
+    "name": "Genda, Sosuke"
+  },
+  {
+    "playerId": "31135133",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Seibu Lions",
+    "nameJapanese": "秋山 翔吾",
+    "name": "Akiyama, Shogo"
+  },
+  {
+    "playerId": "63165132",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "吉田 正尚",
+    "name": "Yoshida, Masataka"
+  },
+  {
+    "playerId": "71575131",
+    "award": "Best Nine",
+    "year": 2019,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "荻野 貴司",
+    "name": "Ogino, Takashi"
+  },
+  {
+    "playerId": "91495139",
+    "award": "Batting Champion",
+    "year": 2019,
+    "team": "Seibu Lions",
+    "nameJapanese": "森 友哉",
+    "name": "Mori, Tomoya"
+  },
+  {
+    "playerId": "21425139",
+    "award": "Home Run Leader",
+    "year": 2019,
+    "team": "Seibu Lions",
+    "nameJapanese": "山川 穂高",
+    "name": "Yamakawa, Hotaka"
+  },
+  {
+    "playerId": "81085115",
+    "award": "RBI Leader",
+    "year": 2019,
+    "team": "Seibu Lions",
+    "nameJapanese": "中村 剛也",
+    "name": "Nakamura, Takeya"
+  },
+  {
+    "playerId": "01505137",
+    "award": "Stolen Base Leader",
+    "year": 2019,
+    "team": "Seibu Lions",
+    "nameJapanese": "金子 侑司",
+    "name": "Kaneko, Yuji"
+  },
+  {
+    "playerId": "53355134",
+    "award": "ERA Leader",
+    "year": 2019,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "51155130",
+    "award": "Wins Leader",
+    "year": 2019,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "有原 航平",
+    "name": "Arihara, Kohei"
+  },
+  {
+    "playerId": "kodai-senga",
+    "award": "Strikeout Leader",
+    "year": 2019,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "千賀 滉大",
+    "name": "Kodai Senga"
+  },
+  {
+    "playerId": "81285139",
+    "award": "Saves Leader",
+    "year": 2019,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "松井 裕樹",
+    "name": "Matsui, Yuki"
+  },
+  {
+    "playerId": "41445116",
+    "award": "Holds Leader",
+    "year": 2019,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "宮西 尚生",
+    "name": "Miyanishi, Naoki"
+  },
+  {
+    "playerId": "71275118",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "西 勇輝",
+    "name": "Nishi, Yuki"
+  },
+  {
+    "playerId": "21325139",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "梅野 隆太郎",
+    "name": "Umeno, Ryutaro"
+  },
+  {
+    "playerId": "93195137",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "Ｊ．ロペス",
+    "name": "Lopez, Jose"
+  },
+  {
+    "playerId": "61565135",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "菊池 涼介",
+    "name": "Kikuchi, Ryosuke"
+  },
+  {
+    "playerId": "91095135",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "高橋 周平",
+    "name": "Takahashi, Shuhei"
+  },
+  {
+    "playerId": "51955114",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "坂本 勇人",
+    "name": "Sakamoto, Hayato"
+  },
+  {
+    "playerId": "21425116",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "丸 佳浩",
+    "name": "Maru, Yoshihiro"
+  },
+  {
+    "playerId": "81785137",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "鈴木 誠也",
+    "name": "Suzuki, Seiya"
+  },
+  {
+    "playerId": "01305131",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "大島 洋平",
+    "name": "Ohshima, Yohei"
+  },
+  {
+    "playerId": "kodai-senga",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "千賀 滉大",
+    "name": "Kodai Senga"
+  },
+  {
+    "playerId": "91595133",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "甲斐 拓也",
+    "name": "Kai, Takuya"
+  },
+  {
+    "playerId": "21325113",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "内川 聖一",
+    "name": "Uchikawa, Seiichi"
+  },
+  {
+    "playerId": "51155118",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "浅村 栄斗",
+    "name": "Asamura, Hideto"
+  },
+  {
+    "playerId": "51655112",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "松田 宣浩",
+    "name": "Matsuda, Nobuhiro"
+  },
+  {
+    "playerId": "71775134",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "Seibu Lions",
+    "nameJapanese": "源田 壮亮",
+    "name": "Genda, Sosuke"
+  },
+  {
+    "playerId": "31135133",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "Seibu Lions",
+    "nameJapanese": "秋山 翔吾",
+    "name": "Akiyama, Shogo"
+  },
+  {
+    "playerId": "71575131",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "荻野 貴司",
+    "name": "Ogino, Takashi"
+  },
+  {
+    "playerId": "21225133",
+    "award": "Golden Glove",
+    "year": 2019,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "西川 遥輝",
+    "name": "Nishikawa, Haruki"
+  },
+  {
+    "playerId": "41745137",
+    "award": "MVP Winner",
+    "year": 2020,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "53155151",
+    "award": "Rookie of the Year",
+    "year": 2020,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "森下 暢仁",
+    "name": "Morishita, Masato"
+  },
+  {
+    "playerId": "41745137",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "21325136",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "大城 卓三",
+    "name": "Ohshiro, Takumi"
+  },
+  {
+    "playerId": "41845136",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Yakult Swallows",
+    "nameJapanese": "村上 宗隆",
+    "name": "Murakami, Munetaka"
+  },
+  {
+    "playerId": "61565135",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "菊池 涼介",
+    "name": "Kikuchi, Ryosuke"
+  },
+  {
+    "playerId": "11515130",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "岡本 和真",
+    "name": "Okamoto, Kazuma"
+  },
+  {
+    "playerId": "51955114",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "坂本 勇人",
+    "name": "Sakamoto, Hayato"
+  },
+  {
+    "playerId": "91995134",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "佐野 恵太",
+    "name": "Sano, Keita"
+  },
+  {
+    "playerId": "21425116",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "丸 佳浩",
+    "name": "Maru, Yoshihiro"
+  },
+  {
+    "playerId": "81785137",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "鈴木 誠也",
+    "name": "Suzuki, Seiya"
+  },
+  {
+    "playerId": "91995134",
+    "award": "Batting Champion",
+    "year": 2020,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "佐野 恵太",
+    "name": "Sano, Keita"
+  },
+  {
+    "playerId": "11515130",
+    "award": "Home Run Leader",
+    "year": 2020,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "岡本 和真",
+    "name": "Okamoto, Kazuma"
+  },
+  {
+    "playerId": "11515130",
+    "award": "RBI Leader",
+    "year": 2020,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "岡本 和真",
+    "name": "Okamoto, Kazuma"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Stolen Base Leader",
+    "year": 2020,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "11515133",
+    "award": "ERA Leader",
+    "year": 2020,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "大野 雄大",
+    "name": "Ohno, Yudai"
+  },
+  {
+    "playerId": "41745137",
+    "award": "Wins Leader",
+    "year": 2020,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "11515133",
+    "award": "Strikeout Leader",
+    "year": 2020,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "大野 雄大",
+    "name": "Ohno, Yudai"
+  },
+  {
+    "playerId": "53555132",
+    "award": "Saves Leader",
+    "year": 2020,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "Ｒ．スアレス",
+    "name": "Suarez, Robert"
+  },
+  {
+    "playerId": "91995139",
+    "award": "Holds Leader",
+    "year": 2020,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "祖父江 大輔",
+    "name": "Sobue, Daisuke"
+  },
+  {
+    "playerId": "41645132",
+    "award": "Holds Leader",
+    "year": 2020,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "福 敬登",
+    "name": "Fuku, Hiroto"
+  },
+  {
+    "playerId": "51955138",
+    "award": "Holds Leader",
+    "year": 2020,
+    "team": "Yakult Swallows",
+    "nameJapanese": "清水 昇",
+    "name": "Shimizu, Noboru"
+  },
+  {
+    "playerId": "yuki-yanagita",
+    "award": "MVP Winner",
+    "year": 2020,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
+  },
+  {
+    "playerId": "31035136",
+    "award": "Rookie of the Year",
+    "year": 2020,
+    "team": "Seibu Lions",
+    "nameJapanese": "平良 海馬",
+    "name": "Taira, Kaima"
+  },
+  {
+    "playerId": "kodai-senga",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "千賀 滉大",
+    "name": "Kodai Senga"
+  },
+  {
+    "playerId": "91595133",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "甲斐 拓也",
+    "name": "Kai, Takuya"
+  },
+  {
+    "playerId": "61065116",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "中田 翔",
+    "name": "Nakata, Sho"
+  },
+  {
+    "playerId": "51155118",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "浅村 栄斗",
+    "name": "Asamura, Hideto"
+  },
+  {
+    "playerId": "81985135",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "鈴木 大地",
+    "name": "Suzuki, Daichi"
+  },
+  {
+    "playerId": "71775134",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Seibu Lions",
+    "nameJapanese": "源田 壮亮",
+    "name": "Genda, Sosuke"
+  },
+  {
+    "playerId": "yuki-yanagita",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
+  },
+  {
+    "playerId": "63165132",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "吉田 正尚",
+    "name": "Yoshida, Masataka"
+  },
+  {
+    "playerId": "41745135",
+    "award": "Best Nine",
+    "year": 2020,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "近藤 健介",
+    "name": "Kondoh, Kensuke"
+  },
+  {
+    "playerId": "63165132",
+    "award": "Batting Champion",
+    "year": 2020,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "吉田 正尚",
+    "name": "Yoshida, Masataka"
+  },
+  {
+    "playerId": "51155118",
+    "award": "Home Run Leader",
+    "year": 2020,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "浅村 栄斗",
+    "name": "Asamura, Hideto"
+  },
+  {
+    "playerId": "61065116",
+    "award": "RBI Leader",
+    "year": 2020,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "中田 翔",
+    "name": "Nakata, Sho"
+  },
+  {
+    "playerId": "21925136",
+    "award": "Stolen Base Leader",
+    "year": 2020,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "周東 佑京",
+    "name": "Shuto, Ukyo"
+  },
+  {
+    "playerId": "kodai-senga",
+    "award": "ERA Leader",
+    "year": 2020,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "千賀 滉大",
+    "name": "Kodai Senga"
+  },
+  {
+    "playerId": "61165139",
+    "award": "Wins Leader",
+    "year": 2020,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "石川 柊太",
+    "name": "Ishikawa, Shuta"
+  },
+  {
+    "playerId": "kodai-senga",
+    "award": "Wins Leader",
+    "year": 2020,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "千賀 滉大",
+    "name": "Kodai Senga"
+  },
+  {
+    "playerId": "31635110",
+    "award": "Wins Leader",
+    "year": 2020,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "涌井 秀章",
+    "name": "Wakui, Hideaki"
+  },
+  {
+    "playerId": "kodai-senga",
+    "award": "Strikeout Leader",
+    "year": 2020,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "千賀 滉大",
+    "name": "Kodai Senga"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Strikeout Leader",
+    "year": 2020,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "71275137",
+    "award": "Saves Leader",
+    "year": 2020,
+    "team": "Seibu Lions",
+    "nameJapanese": "増田 達至",
+    "name": "Masuda, Tatsushi"
+  },
+  {
+    "playerId": "63965134",
+    "award": "Holds Leader",
+    "year": 2020,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "Ｌ．モイネロ",
+    "name": "Moinelo, Livan"
+  },
+  {
+    "playerId": "41745137",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "21325139",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "梅野 隆太郎",
+    "name": "Umeno, Ryutaro"
+  },
+  {
+    "playerId": "13715132",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "Ｄ．ビシエド",
+    "name": "Viciedo, Dayan"
+  },
+  {
+    "playerId": "61565135",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "菊池 涼介",
+    "name": "Kikuchi, Ryosuke"
+  },
+  {
+    "playerId": "91095135",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "高橋 周平",
+    "name": "Takahashi, Shuhei"
+  },
+  {
+    "playerId": "51955114",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "坂本 勇人",
+    "name": "Sakamoto, Hayato"
+  },
+  {
+    "playerId": "81785137",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "鈴木 誠也",
+    "name": "Suzuki, Seiya"
+  },
+  {
+    "playerId": "01305131",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "大島 洋平",
+    "name": "Ohshima, Yohei"
+  },
+  {
+    "playerId": "31135119",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Yakult Swallows",
+    "nameJapanese": "青木 宣親",
+    "name": "Aoki, Norichika"
+  },
+  {
+    "playerId": "kodai-senga",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "千賀 滉大",
+    "name": "Kodai Senga"
+  },
+  {
+    "playerId": "91595133",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "甲斐 拓也",
+    "name": "Kai, Takuya"
+  },
+  {
+    "playerId": "11215116",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "中村 晃",
+    "name": "Nakamura, Akira"
+  },
+  {
+    "playerId": "61065116",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "中田 翔",
+    "name": "Nakata, Sho"
+  },
+  {
+    "playerId": "41245130",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Seibu Lions",
+    "nameJapanese": "外崎 修汰",
+    "name": "Tonosaki, Shuta"
+  },
+  {
+    "playerId": "81985135",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "鈴木 大地",
+    "name": "Suzuki, Daichi"
+  },
+  {
+    "playerId": "71775134",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Seibu Lions",
+    "nameJapanese": "源田 壮亮",
+    "name": "Genda, Sosuke"
+  },
+  {
+    "playerId": "yuki-yanagita",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
+  },
+  {
+    "playerId": "41345118",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "大田 泰示",
+    "name": "Ohta, Taishi"
+  },
+  {
+    "playerId": "21225133",
+    "award": "Golden Glove",
+    "year": 2020,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "西川 遥輝",
+    "name": "Nishikawa, Haruki"
+  },
+  {
+    "playerId": "11515133",
+    "award": "Sawamura Award Winner",
+    "year": 2020,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "大野 雄大",
+    "name": "Ohno, Yudai"
+  },
+  {
+    "playerId": "41845136",
+    "award": "MVP Winner",
+    "year": 2021,
+    "team": "Yakult Swallows",
+    "nameJapanese": "村上 宗隆",
+    "name": "Murakami, Munetaka"
+  },
+  {
+    "playerId": "91995153",
+    "award": "Rookie of the Year",
+    "year": 2021,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "栗林 良吏",
+    "name": "Kuribayashi, Ryoji"
+  },
+  {
+    "playerId": "63165134",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "柳 裕也",
+    "name": "Yanagi, Yuya"
+  },
+  {
+    "playerId": "51255118",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Yakult Swallows",
+    "nameJapanese": "中村 悠平",
+    "name": "Nakamura, Yuhei"
+  },
+  {
+    "playerId": "63365138",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "Ｊ．マルテ",
+    "name": "Marte, Jefry"
+  },
+  {
+    "playerId": "91895133",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Yakult Swallows",
+    "nameJapanese": "山田 哲人",
+    "name": "Yamada, Tetsuto"
+  },
+  {
+    "playerId": "41845136",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Yakult Swallows",
+    "nameJapanese": "村上 宗隆",
+    "name": "Murakami, Munetaka"
+  },
+  {
+    "playerId": "51955114",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "坂本 勇人",
+    "name": "Sakamoto, Hayato"
+  },
+  {
+    "playerId": "81785137",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "鈴木 誠也",
+    "name": "Suzuki, Seiya"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "71975136",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Yakult Swallows",
+    "nameJapanese": "塩見 泰隆",
+    "name": "Shiomi, Yasutaka"
+  },
+  {
+    "playerId": "81785137",
+    "award": "Batting Champion",
+    "year": 2021,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "鈴木 誠也",
+    "name": "Suzuki, Seiya"
+  },
+  {
+    "playerId": "41845136",
+    "award": "Home Run Leader",
+    "year": 2021,
+    "team": "Yakult Swallows",
+    "nameJapanese": "村上 宗隆",
+    "name": "Murakami, Munetaka"
+  },
+  {
+    "playerId": "11515130",
+    "award": "Home Run Leader",
+    "year": 2021,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "岡本 和真",
+    "name": "Okamoto, Kazuma"
+  },
+  {
+    "playerId": "11515130",
+    "award": "RBI Leader",
+    "year": 2021,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "岡本 和真",
+    "name": "Okamoto, Kazuma"
+  },
+  {
+    "playerId": "41445153",
+    "award": "Stolen Base Leader",
+    "year": 2021,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "中野 拓夢",
+    "name": "Nakano, Takumu"
+  },
+  {
+    "playerId": "63165134",
+    "award": "ERA Leader",
+    "year": 2021,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "柳 裕也",
+    "name": "Yanagi, Yuya"
+  },
+  {
+    "playerId": "71175132",
+    "award": "Wins Leader",
+    "year": 2021,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "青柳 晃洋",
+    "name": "Aoyagi, Koyo"
+  },
+  {
+    "playerId": "71775139",
+    "award": "Wins Leader",
+    "year": 2021,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "九里 亜蓮",
+    "name": "Kuri, Allen"
+  },
+  {
+    "playerId": "63165134",
+    "award": "Strikeout Leader",
+    "year": 2021,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "柳 裕也",
+    "name": "Yanagi, Yuya"
+  },
+  {
+    "playerId": "53555132",
+    "award": "Saves Leader",
+    "year": 2021,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "Ｒ．スアレス",
+    "name": "Suarez, Robert"
+  },
+  {
+    "playerId": "51955138",
+    "award": "Holds Leader",
+    "year": 2021,
+    "team": "Yakult Swallows",
+    "nameJapanese": "清水 昇",
+    "name": "Shimizu, Noboru"
+  },
+  {
+    "playerId": "53355134",
+    "award": "MVP Winner",
+    "year": 2021,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "71875151",
+    "award": "Rookie of the Year",
+    "year": 2021,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "宮城 大弥",
+    "name": "Miyagi, Hiroya"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "91495139",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Seibu Lions",
+    "nameJapanese": "森 友哉",
+    "name": "Mori, Tomoya"
+  },
+  {
+    "playerId": "23525130",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "Ｂ．レアード",
+    "name": "Laird, Brandon"
+  },
+  {
+    "playerId": "51455130",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "中村 奨吾",
+    "name": "Nakamura, Shogo"
+  },
+  {
+    "playerId": "11815130",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "宗 佑磨",
+    "name": "Mune, Yuma"
+  },
+  {
+    "playerId": "71775134",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Seibu Lions",
+    "nameJapanese": "源田 壮亮",
+    "name": "Genda, Sosuke"
+  },
+  {
+    "playerId": "61965132",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "杉本 裕太郎",
+    "name": "Sugimoto, Yutaro"
+  },
+  {
+    "playerId": "63165132",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "吉田 正尚",
+    "name": "Yoshida, Masataka"
+  },
+  {
+    "playerId": "yuki-yanagita",
+    "award": "Best Nine",
+    "year": 2021,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
+  },
+  {
+    "playerId": "63165132",
+    "award": "Batting Champion",
+    "year": 2021,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "吉田 正尚",
+    "name": "Yoshida, Masataka"
+  },
+  {
+    "playerId": "61965132",
+    "award": "Home Run Leader",
+    "year": 2021,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "杉本 裕太郎",
+    "name": "Sugimoto, Yutaro"
+  },
+  {
+    "playerId": "71975135",
+    "award": "RBI Leader",
+    "year": 2021,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "島内 宏明",
+    "name": "Shimauchi, Hiroaki"
+  },
+  {
+    "playerId": "71575131",
+    "award": "Stolen Base Leader",
+    "year": 2021,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "荻野 貴司",
+    "name": "Ogino, Takashi"
+  },
+  {
+    "playerId": "33335136",
+    "award": "Stolen Base Leader",
+    "year": 2021,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "和田 康士朗",
+    "name": "Wada, Koshiro"
+  },
+  {
+    "playerId": "21225133",
+    "award": "Stolen Base Leader",
+    "year": 2021,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "西川 遥輝",
+    "name": "Nishikawa, Haruki"
+  },
+  {
+    "playerId": "71775134",
+    "award": "Stolen Base Leader",
+    "year": 2021,
+    "team": "Seibu Lions",
+    "nameJapanese": "源田 壮亮",
+    "name": "Genda, Sosuke"
+  },
+  {
+    "playerId": "53355134",
+    "award": "ERA Leader",
+    "year": 2021,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Wins Leader",
+    "year": 2021,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Strikeout Leader",
+    "year": 2021,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "71675135",
+    "award": "Saves Leader",
+    "year": 2021,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "益田 直也",
+    "name": "Masuda, Naoya"
+  },
+  {
+    "playerId": "51855134",
+    "award": "Holds Leader",
+    "year": 2021,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "堀 瑞輝",
+    "name": "Hori, Mizuki"
+  },
+  {
+    "playerId": "63165134",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "柳 裕也",
+    "name": "Yanagi, Yuya"
+  },
+  {
+    "playerId": "51255118",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Yakult Swallows",
+    "nameJapanese": "中村 悠平",
+    "name": "Nakamura, Yuhei"
+  },
+  {
+    "playerId": "13715132",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "Ｄ．ビシエド",
+    "name": "Viciedo, Dayan"
+  },
+  {
+    "playerId": "61565135",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "菊池 涼介",
+    "name": "Kikuchi, Ryosuke"
+  },
+  {
+    "playerId": "11515130",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "岡本 和真",
+    "name": "Okamoto, Kazuma"
+  },
+  {
+    "playerId": "51955114",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "坂本 勇人",
+    "name": "Sakamoto, Hayato"
+  },
+  {
+    "playerId": "81785137",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "鈴木 誠也",
+    "name": "Suzuki, Seiya"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "01305131",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "大島 洋平",
+    "name": "Ohshima, Yohei"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "91595133",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "甲斐 拓也",
+    "name": "Kai, Takuya"
+  },
+  {
+    "playerId": "11215116",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "中村 晃",
+    "name": "Nakamura, Akira"
+  },
+  {
+    "playerId": "51455130",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "中村 奨吾",
+    "name": "Nakamura, Shogo"
+  },
+  {
+    "playerId": "11815130",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "宗 佑磨",
+    "name": "Mune, Yuma"
+  },
+  {
+    "playerId": "71775134",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Seibu Lions",
+    "nameJapanese": "源田 壮亮",
+    "name": "Genda, Sosuke"
+  },
+  {
+    "playerId": "71575131",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "荻野 貴司",
+    "name": "Ogino, Takashi"
+  },
+  {
+    "playerId": "11015138",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "辰己 涼介",
+    "name": "Tatsumi, Ryosuke"
+  },
+  {
+    "playerId": "yuki-yanagita",
+    "award": "Golden Glove",
+    "year": 2021,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Sawamura Award Winner",
+    "year": 2021,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "41845136",
+    "award": "MVP Winner",
+    "year": 2022,
+    "team": "Yakult Swallows",
+    "nameJapanese": "村上 宗隆",
+    "name": "Murakami, Munetaka"
+  },
+  {
+    "playerId": "81085155",
+    "award": "Rookie of the Year",
+    "year": 2022,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "大勢",
+    "name": "Ota, Taisei"
+  },
+  {
+    "playerId": "71175132",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "青柳 晃洋",
+    "name": "Aoyagi, Koyo"
+  },
+  {
+    "playerId": "51255118",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Yakult Swallows",
+    "nameJapanese": "中村 悠平",
+    "name": "Nakamura, Yuhei"
+  },
+  {
+    "playerId": "23525153",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Yakult Swallows",
+    "nameJapanese": "Ｊ．オスナ",
+    "name": "Osuna, Jose"
+  },
+  {
+    "playerId": "13115153",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "牧 秀悟",
+    "name": "Maki, Shugo"
+  },
+  {
+    "playerId": "41845136",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Yakult Swallows",
+    "nameJapanese": "村上 宗隆",
+    "name": "Murakami, Munetaka"
+  },
+  {
+    "playerId": "41445153",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "中野 拓夢",
+    "name": "Nakano, Takumu"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "91995134",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "佐野 恵太",
+    "name": "Sano, Keita"
+  },
+  {
+    "playerId": "81585151",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "岡林 勇希",
+    "name": "Okabayashi, Yuki"
+  },
+  {
+    "playerId": "41845136",
+    "award": "Batting Champion",
+    "year": 2022,
+    "team": "Yakult Swallows",
+    "nameJapanese": "村上 宗隆",
+    "name": "Murakami, Munetaka"
+  },
+  {
+    "playerId": "41845136",
+    "award": "Home Run Leader",
+    "year": 2022,
+    "team": "Yakult Swallows",
+    "nameJapanese": "村上 宗隆",
+    "name": "Murakami, Munetaka"
+  },
+  {
+    "playerId": "41845136",
+    "award": "RBI Leader",
+    "year": 2022,
+    "team": "Yakult Swallows",
+    "nameJapanese": "村上 宗隆",
+    "name": "Murakami, Munetaka"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Stolen Base Leader",
+    "year": 2022,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "71175132",
+    "award": "ERA Leader",
+    "year": 2022,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "青柳 晃洋",
+    "name": "Aoyagi, Koyo"
+  },
+  {
+    "playerId": "71175132",
+    "award": "Wins Leader",
+    "year": 2022,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "青柳 晃洋",
+    "name": "Aoyagi, Koyo"
+  },
+  {
+    "playerId": "41045138",
+    "award": "Strikeout Leader",
+    "year": 2022,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "戸郷 翔征",
+    "name": "Togo, Shosei"
+  },
+  {
+    "playerId": "23925134",
+    "award": "Saves Leader",
+    "year": 2022,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "Ｒ．マルティネス",
+    "name": "Martinez, Raidel"
+  },
+  {
+    "playerId": "41845138",
+    "award": "Holds Leader",
+    "year": 2022,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "湯浅 京己",
+    "name": "Yuasa, Atsuki"
+  },
+  {
+    "playerId": "33935151",
+    "award": "Holds Leader",
+    "year": 2022,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "Ｙ．ロドリゲス",
+    "name": "Rodriguez, Yariel"
+  },
+  {
+    "playerId": "53355134",
+    "award": "MVP Winner",
+    "year": 2022,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "63165153",
+    "award": "Rookie of the Year",
+    "year": 2022,
+    "team": "Seibu Lions",
+    "nameJapanese": "水上 由伸",
+    "name": "Mizukami, Yoshinobu"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "91595133",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "甲斐 拓也",
+    "name": "Kai, Takuya"
+  },
+  {
+    "playerId": "21425139",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Seibu Lions",
+    "nameJapanese": "山川 穂高",
+    "name": "Yamakawa, Hotaka"
+  },
+  {
+    "playerId": "51155118",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "浅村 栄斗",
+    "name": "Asamura, Hideto"
+  },
+  {
+    "playerId": "11815130",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "宗 佑磨",
+    "name": "Mune, Yuma"
+  },
+  {
+    "playerId": "31335131",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "今宮 健太",
+    "name": "Imamiya, Kenta"
+  },
+  {
+    "playerId": "21625135",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "松本 剛",
+    "name": "Matsumoto, Go"
+  },
+  {
+    "playerId": "yuki-yanagita",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
+  },
+  {
+    "playerId": "71975135",
+    "award": "Best Nine",
+    "year": 2022,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "島内 宏明",
+    "name": "Shimauchi, Hiroaki"
+  },
+  {
+    "playerId": "21625135",
+    "award": "Batting Champion",
+    "year": 2022,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "松本 剛",
+    "name": "Matsumoto, Go"
+  },
+  {
+    "playerId": "21425139",
+    "award": "Home Run Leader",
+    "year": 2022,
+    "team": "Seibu Lions",
+    "nameJapanese": "山川 穂高",
+    "name": "Yamakawa, Hotaka"
+  },
+  {
+    "playerId": "21425139",
+    "award": "RBI Leader",
+    "year": 2022,
+    "team": "Seibu Lions",
+    "nameJapanese": "山川 穂高",
+    "name": "Yamakawa, Hotaka"
+  },
+  {
+    "playerId": "11215151",
+    "award": "Stolen Base Leader",
+    "year": 2022,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "髙部 瑛斗",
+    "name": "Takabe, Akito"
+  },
+  {
+    "playerId": "53355134",
+    "award": "ERA Leader",
+    "year": 2022,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Wins Leader",
+    "year": 2022,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Strikeout Leader",
+    "year": 2022,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "81285139",
+    "award": "Saves Leader",
+    "year": 2022,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "松井 裕樹",
+    "name": "Matsui, Yuki"
+  },
+  {
+    "playerId": "31035136",
+    "award": "Holds Leader",
+    "year": 2022,
+    "team": "Seibu Lions",
+    "nameJapanese": "平良 海馬",
+    "name": "Taira, Kaima"
+  },
+  {
+    "playerId": "63165153",
+    "award": "Holds Leader",
+    "year": 2022,
+    "team": "Seibu Lions",
+    "nameJapanese": "水上 由伸",
+    "name": "Mizukami, Yoshinobu"
+  },
+  {
+    "playerId": "53155151",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "森下 暢仁",
+    "name": "Morishita, Masato"
+  },
+  {
+    "playerId": "51255118",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Yakult Swallows",
+    "nameJapanese": "中村 悠平",
+    "name": "Nakamura, Yuhei"
+  },
+  {
+    "playerId": "61065116",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "中田 翔",
+    "name": "Nakata, Sho"
+  },
+  {
+    "playerId": "61565135",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "菊池 涼介",
+    "name": "Kikuchi, Ryosuke"
+  },
+  {
+    "playerId": "11515130",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "岡本 和真",
+    "name": "Okamoto, Kazuma"
+  },
+  {
+    "playerId": "51455151",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Yakult Swallows",
+    "nameJapanese": "長岡 秀樹",
+    "name": "Nagaoka, Hideki"
+  },
+  {
+    "playerId": "71975136",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Yakult Swallows",
+    "nameJapanese": "塩見 泰隆",
+    "name": "Shiomi, Yasutaka"
+  },
+  {
+    "playerId": "81585151",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "岡林 勇希",
+    "name": "Okabayashi, Yuki"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "91595133",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "甲斐 拓也",
+    "name": "Kai, Takuya"
+  },
+  {
+    "playerId": "11215116",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "中村 晃",
+    "name": "Nakamura, Akira"
+  },
+  {
+    "playerId": "41245130",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Seibu Lions",
+    "nameJapanese": "外崎 修汰",
+    "name": "Tonosaki, Shuta"
+  },
+  {
+    "playerId": "11815130",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "宗 佑磨",
+    "name": "Mune, Yuma"
+  },
+  {
+    "playerId": "71775134",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Seibu Lions",
+    "nameJapanese": "源田 壮亮",
+    "name": "Genda, Sosuke"
+  },
+  {
+    "playerId": "11215151",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "髙部 瑛斗",
+    "name": "Takabe, Akito"
+  },
+  {
+    "playerId": "11015138",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "辰己 涼介",
+    "name": "Tatsumi, Ryosuke"
+  },
+  {
+    "playerId": "01605136",
+    "award": "Golden Glove",
+    "year": 2022,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "福田 周平",
+    "name": "Fukuda, Shuhei"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Sawamura Award Winner",
+    "year": 2022,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "13315153",
+    "award": "MVP Winner",
+    "year": 2023,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "村上 頌樹",
+    "name": "Murakami, Shoki"
+  },
+  {
+    "playerId": "13315153",
+    "award": "Rookie of the Year",
+    "year": 2023,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "村上 頌樹",
+    "name": "Murakami, Shoki"
+  },
+  {
+    "playerId": "51155136",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "東 克樹",
+    "name": "Azuma, Katsuki"
+  },
+  {
+    "playerId": "21325136",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "大城 卓三",
+    "name": "Ohshiro, Takumi"
+  },
+  {
+    "playerId": "21325134",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "大山 悠輔",
+    "name": "Ohyama, Yusuke"
+  },
+  {
+    "playerId": "13115153",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "牧 秀悟",
+    "name": "Maki, Shugo"
+  },
+  {
+    "playerId": "51455137",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "宮﨑 敏郎",
+    "name": "Miyazaki, Toshiro"
+  },
+  {
+    "playerId": "31735138",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "木浪 聖也",
+    "name": "Kinami, Seiya"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "71475132",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "西川 龍馬",
+    "name": "Nishikawa, Ryoma"
+  },
+  {
+    "playerId": "81585151",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "岡林 勇希",
+    "name": "Okabayashi, Yuki"
+  },
+  {
+    "playerId": "51455137",
+    "award": "Batting Champion",
+    "year": 2023,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "宮﨑 敏郎",
+    "name": "Miyazaki, Toshiro"
+  },
+  {
+    "playerId": "11515130",
+    "award": "Home Run Leader",
+    "year": 2023,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "岡本 和真",
+    "name": "Okamoto, Kazuma"
+  },
+  {
+    "playerId": "13115153",
+    "award": "RBI Leader",
+    "year": 2023,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "牧 秀悟",
+    "name": "Maki, Shugo"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Stolen Base Leader",
+    "year": 2023,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "13315153",
+    "award": "ERA Leader",
+    "year": 2023,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "村上 頌樹",
+    "name": "Murakami, Shoki"
+  },
+  {
+    "playerId": "51155136",
+    "award": "Wins Leader",
+    "year": 2023,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "東 克樹",
+    "name": "Azuma, Katsuki"
+  },
+  {
+    "playerId": "01305132",
+    "award": "Strikeout Leader",
+    "year": 2023,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "今永 昇太",
+    "name": "Imanaga, Shota"
+  },
+  {
+    "playerId": "31335139",
+    "award": "Saves Leader",
+    "year": 2023,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "岩崎 優",
+    "name": "Iwazaki, Suguru"
+  },
+  {
+    "playerId": "31935138",
+    "award": "Holds Leader",
+    "year": 2023,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "島内 颯太郎",
+    "name": "Shimauchi, Sotaro"
+  },
+  {
+    "playerId": "53355134",
+    "award": "MVP Winner",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "43345153",
+    "award": "Rookie of the Year",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山下 舜平大",
+    "name": "Yamashita, Shunpeita"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "91495139",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "森 友哉",
+    "name": "Mori, Tomoya"
+  },
+  {
+    "playerId": "81085138",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "頓宮 裕真",
+    "name": "Tongu, Yuma"
+  },
+  {
+    "playerId": "51155118",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "浅村 栄斗",
+    "name": "Asamura, Hideto"
+  },
+  {
+    "playerId": "11815130",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "宗 佑磨",
+    "name": "Mune, Yuma"
+  },
+  {
+    "playerId": "91995151",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "紅林 弘太郎",
+    "name": "Kurebayashi, Kotaro"
+  },
+  {
+    "playerId": "41745135",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "近藤 健介",
+    "name": "Kondoh, Kensuke"
+  },
+  {
+    "playerId": "11815138",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "万波 中正",
+    "name": "Mannami, Chusei"
+  },
+  {
+    "playerId": "yuki-yanagita",
+    "award": "Best Nine",
+    "year": 2023,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳田 悠岐",
+    "name": "Yuki Yanagita"
+  },
+  {
+    "playerId": "81085138",
+    "award": "Batting Champion",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "頓宮 裕真",
+    "name": "Tongu, Yuma"
+  },
+  {
+    "playerId": "63065155",
+    "award": "Home Run Leader",
+    "year": 2023,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "Ｇ．ポランコ",
+    "name": "Polanco, Gregory"
+  },
+  {
+    "playerId": "41745135",
+    "award": "Home Run Leader",
+    "year": 2023,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "近藤 健介",
+    "name": "Kondoh, Kensuke"
+  },
+  {
+    "playerId": "51155118",
+    "award": "Home Run Leader",
+    "year": 2023,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "浅村 栄斗",
+    "name": "Asamura, Hideto"
+  },
+  {
+    "playerId": "41745135",
+    "award": "RBI Leader",
+    "year": 2023,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "近藤 健介",
+    "name": "Kondoh, Kensuke"
+  },
+  {
+    "playerId": "21925136",
+    "award": "Stolen Base Leader",
+    "year": 2023,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "周東 佑京",
+    "name": "Shuto, Ukyo"
+  },
+  {
+    "playerId": "61965151",
+    "award": "Stolen Base Leader",
+    "year": 2023,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "小深田 大翔",
+    "name": "Kobukata, Hiroto"
+  },
+  {
+    "playerId": "53355134",
+    "award": "ERA Leader",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Wins Leader",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Strikeout Leader",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "81285139",
+    "award": "Saves Leader",
+    "year": 2023,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "松井 裕樹",
+    "name": "Matsui, Yuki"
+  },
+  {
+    "playerId": "13215157",
+    "award": "Holds Leader",
+    "year": 2023,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "Ｌ．ペルドモ",
+    "name": "Perdomo, Luis"
+  },
+  {
+    "playerId": "51155136",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "東 克樹",
+    "name": "Azuma, Katsuki"
+  },
+  {
+    "playerId": "11915132",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "坂本 誠志郎",
+    "name": "Sakamoto, Seishiro"
+  },
+  {
+    "playerId": "21325134",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "大山 悠輔",
+    "name": "Ohyama, Yusuke"
+  },
+  {
+    "playerId": "41445153",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "中野 拓夢",
+    "name": "Nakano, Takumu"
+  },
+  {
+    "playerId": "51455137",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "宮﨑 敏郎",
+    "name": "Miyazaki, Toshiro"
+  },
+  {
+    "playerId": "31735138",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "木浪 聖也",
+    "name": "Kinami, Seiya"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "81585151",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "岡林 勇希",
+    "name": "Okabayashi, Yuki"
+  },
+  {
+    "playerId": "51755135",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "桑原 将志",
+    "name": "Kuwahara, Masayuki"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "41645139",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "若月 健矢",
+    "name": "Wakatsuki, Kenya"
+  },
+  {
+    "playerId": "11215116",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "中村 晃",
+    "name": "Nakamura, Akira"
+  },
+  {
+    "playerId": "51455130",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "中村 奨吾",
+    "name": "Nakamura, Shogo"
+  },
+  {
+    "playerId": "11815130",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "宗 佑磨",
+    "name": "Mune, Yuma"
+  },
+  {
+    "playerId": "71775134",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Seibu Lions",
+    "nameJapanese": "源田 壮亮",
+    "name": "Genda, Sosuke"
+  },
+  {
+    "playerId": "11015138",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "辰己 涼介",
+    "name": "Tatsumi, Ryosuke"
+  },
+  {
+    "playerId": "11815138",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "万波 中正",
+    "name": "Mannami, Chusei"
+  },
+  {
+    "playerId": "41745135",
+    "award": "Golden Glove",
+    "year": 2023,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "近藤 健介",
+    "name": "Kondoh, Kensuke"
+  },
+  {
+    "playerId": "53355134",
+    "award": "Sawamura Award Winner",
+    "year": 2023,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "山本 由伸",
+    "name": "Yamamoto, Yoshinobu"
+  },
+  {
+    "playerId": "41745137",
     "award": "MVP Winner",
     "year": 2024,
-    "team": "Yomiuri Giants"
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
   },
   {
-    "playerId": "koji-uehara",
+    "playerId": "31835157",
     "award": "Rookie of the Year",
     "year": 2024,
-    "team": "Yomiuri Giants"
+    "team": "Yomiuri Giants",
+    "nameJapanese": "船迫 大雅",
+    "name": "Funabasama, Hiromasa"
   },
   {
-    "playerId": "koji-uehara",
-    "award": "Sawamura Award Winner",
-    "year": 2024,
-    "team": "Yomiuri Giants"
-  },
-  {
-    "playerId": "koji-uehara",
+    "playerId": "41745137",
     "award": "Best Nine",
     "year": 2024,
-    "team": "Yomiuri Giants"
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
   },
   {
-    "playerId": "koji-uehara",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Yomiuri Giants"
-  },
-  {
-    "playerId": "koji-uehara",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Yomiuri Giants"
-  },
-  {
-    "playerId": "koji-uehara",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Yomiuri Giants"
-  },
-  {
-    "playerId": "koji-uehara",
-    "award": "Wins Leader",
-    "year": 2024,
-    "team": "Yomiuri Giants"
-  },
-  {
-    "playerId": "koji-uehara",
-    "award": "Strikeout Leader",
-    "year": 2024,
-    "team": "Yomiuri Giants"
-  },
-  {
-    "playerId": "tomoyuki-sugano",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Yomiuri Giants"
-  },
-  {
-    "playerId": "tomoyuki-sugano",
-    "award": "Sawamura Award Winner",
-    "year": 2024,
-    "team": "Yomiuri Giants"
-  },
-  {
-    "playerId": "tomoyuki-sugano",
+    "playerId": "23125136",
     "award": "Best Nine",
     "year": 2024,
-    "team": "Yomiuri Giants"
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "山本 祐大",
+    "name": "Yamamoto, Yuudai"
   },
   {
-    "playerId": "tomoyuki-sugano",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Yomiuri Giants"
-  },
-  {
-    "playerId": "tomoyuki-sugano",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Yomiuri Giants"
-  },
-  {
-    "playerId": "tomoyuki-sugano",
-    "award": "Wins Leader",
-    "year": 2024,
-    "team": "Yomiuri Giants"
-  },
-  {
-    "playerId": "tomoyuki-sugano",
-    "award": "ERA Leader",
-    "year": 2024,
-    "team": "Yomiuri Giants"
-  },
-  {
-    "playerId": "tomoyuki-sugano",
-    "award": "Strikeout Leader",
-    "year": 2024,
-    "team": "Yomiuri Giants"
-  },
-  {
-    "playerId": "alex-ramirez",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "alex-ramirez",
+    "playerId": "11515130",
     "award": "Best Nine",
     "year": 2024,
-    "team": "Yakult Swallows"
+    "team": "Yomiuri Giants",
+    "nameJapanese": "岡本 和真",
+    "name": "Okamoto, Kazuma"
   },
   {
-    "playerId": "alex-ramirez",
-    "award": "All-Star",
+    "playerId": "73375134",
+    "award": "Best Nine",
     "year": 2024,
-    "team": "Yakult Swallows"
+    "team": "Yomiuri Giants",
+    "nameJapanese": "吉川 尚輝",
+    "name": "Yoshikawa, Naoki"
   },
   {
-    "playerId": "alex-ramirez",
+    "playerId": "41845136",
+    "award": "Best Nine",
+    "year": 2024,
+    "team": "Yakult Swallows",
+    "nameJapanese": "村上 宗隆",
+    "name": "Murakami, Munetaka"
+  },
+  {
+    "playerId": "51455151",
+    "award": "Best Nine",
+    "year": 2024,
+    "team": "Yakult Swallows",
+    "nameJapanese": "長岡 秀樹",
+    "name": "Nagaoka, Hideki"
+  },
+  {
+    "playerId": "53755153",
+    "award": "Best Nine",
+    "year": 2024,
+    "team": "Yakult Swallows",
+    "nameJapanese": "Ｄ．サンタナ",
+    "name": "Santana, Domingo"
+  },
+  {
+    "playerId": "31835134",
+    "award": "Best Nine",
+    "year": 2024,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "細川 成也",
+    "name": "Hosokawa, Seiya"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Best Nine",
+    "year": 2024,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "73375151",
     "award": "Batting Champion",
     "year": 2024,
-    "team": "Yakult Swallows"
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "Ｔ．オースティン",
+    "name": "Austin, Tyler"
   },
   {
-    "playerId": "alex-ramirez",
-    "award": "RBI Leader",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "alex-ramirez",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "randy-bass",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Hanshin Tigers"
-  },
-  {
-    "playerId": "randy-bass",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Hanshin Tigers"
-  },
-  {
-    "playerId": "randy-bass",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Hanshin Tigers"
-  },
-  {
-    "playerId": "randy-bass",
-    "award": "Batting Champion",
-    "year": 2024,
-    "team": "Hanshin Tigers"
-  },
-  {
-    "playerId": "randy-bass",
+    "playerId": "41845136",
     "award": "Home Run Leader",
     "year": 2024,
-    "team": "Hanshin Tigers"
+    "team": "Yakult Swallows",
+    "nameJapanese": "村上 宗隆",
+    "name": "Murakami, Munetaka"
   },
   {
-    "playerId": "randy-bass",
+    "playerId": "41845136",
     "award": "RBI Leader",
     "year": 2024,
-    "team": "Hanshin Tigers"
+    "team": "Yakult Swallows",
+    "nameJapanese": "村上 宗隆",
+    "name": "Murakami, Munetaka"
   },
   {
-    "playerId": "yutaka-enatsu",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Hanshin Tigers"
-  },
-  {
-    "playerId": "yutaka-enatsu",
-    "award": "Sawamura Award Winner",
-    "year": 2024,
-    "team": "Hanshin Tigers"
-  },
-  {
-    "playerId": "yutaka-enatsu",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Hanshin Tigers"
-  },
-  {
-    "playerId": "yutaka-enatsu",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Hanshin Tigers"
-  },
-  {
-    "playerId": "yutaka-enatsu",
-    "award": "ERA Leader",
-    "year": 2024,
-    "team": "Hanshin Tigers"
-  },
-  {
-    "playerId": "yutaka-enatsu",
-    "award": "Wins Leader",
-    "year": 2024,
-    "team": "Hanshin Tigers"
-  },
-  {
-    "playerId": "yutaka-enatsu",
-    "award": "Strikeout Leader",
-    "year": 2024,
-    "team": "Hanshin Tigers"
-  },
-  {
-    "playerId": "yutaka-enatsu",
-    "award": "Japan Baseball Hall of Fame",
-    "year": 2024,
-    "team": "Hanshin Tigers"
-  },
-  {
-    "playerId": "yutaka-enatsu",
-    "award": "Meikyukai Member",
-    "year": 2024,
-    "team": "Hanshin Tigers"
-  },
-  {
-    "playerId": "toru-murayama",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Hanshin Tigers"
-  },
-  {
-    "playerId": "munetaka-murakami",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "munetaka-murakami",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "munetaka-murakami",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "munetaka-murakami",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "munetaka-murakami",
-    "award": "Batting Champion",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "munetaka-murakami",
-    "award": "Home Run Leader",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "munetaka-murakami",
-    "award": "RBI Leader",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "tetsuto-yamada",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "tetsuto-yamada",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "tetsuto-yamada",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "tetsuto-yamada",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "tetsuto-yamada",
+    "playerId": "71075138",
     "award": "Stolen Base Leader",
     "year": 2024,
-    "team": "Yakult Swallows"
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
   },
   {
-    "playerId": "wladimir-balentien",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "wladimir-balentien",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "wladimir-balentien",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "wladimir-balentien",
-    "award": "Home Run Leader",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "wladimir-balentien",
-    "award": "RBI Leader",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "atsuya-furuta",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "atsuya-furuta",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "atsuya-furuta",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "atsuya-furuta",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "atsuya-furuta",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "atsuya-furuta",
-    "award": "Japan Baseball Hall of Fame",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "atsuya-furuta",
-    "award": "Meikyukai Member",
-    "year": 2024,
-    "team": "Yakult Swallows"
-  },
-  {
-    "playerId": "tsuyoshi-wada",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "tsuyoshi-wada",
-    "award": "Sawamura Award Winner",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "tsuyoshi-wada",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "tsuyoshi-wada",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "tsuyoshi-wada",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "tsuyoshi-wada",
-    "award": "Wins Leader",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "tsuyoshi-wada",
-    "award": "Strikeout Leader",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "kodai-senga",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "kodai-senga",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "kodai-senga",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "kodai-senga",
-    "award": "Strikeout Leader",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "yuki-yanagita",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "yuki-yanagita",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "yuki-yanagita",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "yuki-yanagita",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "yuki-yanagita",
-    "award": "Batting Champion",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "yuki-yanagita",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "tadahito-iguchi",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "tadahito-iguchi",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "tadahito-iguchi",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "tadahito-iguchi",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "tadahito-iguchi",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "katsuya-nomura",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "katsuya-nomura",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "katsuya-nomura",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "katsuya-nomura",
-    "award": "Batting Champion",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "katsuya-nomura",
-    "award": "Home Run Leader",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "katsuya-nomura",
-    "award": "RBI Leader",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "katsuya-nomura",
-    "award": "Japan Baseball Hall of Fame",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "katsuya-nomura",
-    "award": "Meikyukai Member",
-    "year": 2024,
-    "team": "SoftBank Hawks"
-  },
-  {
-    "playerId": "yoshinobu-yamamoto",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "yoshinobu-yamamoto",
-    "award": "Sawamura Award Winner",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "yoshinobu-yamamoto",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "yoshinobu-yamamoto",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "yoshinobu-yamamoto",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "yoshinobu-yamamoto",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "yoshinobu-yamamoto",
-    "award": "Wins Leader",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "yoshinobu-yamamoto",
+    "playerId": "61265153",
     "award": "ERA Leader",
     "year": 2024,
-    "team": "Orix Buffaloes"
+    "team": "Chunichi Dragons",
+    "nameJapanese": "髙橋 宏斗",
+    "name": "Takahashi, Hiroto"
   },
   {
-    "playerId": "yoshinobu-yamamoto",
+    "playerId": "41745137",
+    "award": "Wins Leader",
+    "year": 2024,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
+  },
+  {
+    "playerId": "41045138",
     "award": "Strikeout Leader",
     "year": 2024,
-    "team": "Orix Buffaloes"
+    "team": "Yomiuri Giants",
+    "nameJapanese": "戸郷 翔征",
+    "name": "Togo, Shosei"
   },
   {
-    "playerId": "masataka-yoshida",
-    "award": "Best Nine",
+    "playerId": "23925134",
+    "award": "Saves Leader",
     "year": 2024,
-    "team": "Orix Buffaloes"
+    "team": "Chunichi Dragons",
+    "nameJapanese": "Ｒ．マルティネス",
+    "name": "Martinez, Raidel"
   },
   {
-    "playerId": "masataka-yoshida",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "masataka-yoshida",
-    "award": "Batting Champion",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "masataka-yoshida",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "yutaka-fukumoto",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "ichiro-suzuki",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "ichiro-suzuki",
-    "award": "Rookie of the Year",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "ichiro-suzuki",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "ichiro-suzuki",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "ichiro-suzuki",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "ichiro-suzuki",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "ichiro-suzuki",
-    "award": "Batting Champion",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "ichiro-suzuki",
-    "award": "Stolen Base Leader",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "hisashi-yamada",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Orix Buffaloes"
-  },
-  {
-    "playerId": "takuya-asao",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Chunichi Dragons"
-  },
-  {
-    "playerId": "takuya-asao",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Chunichi Dragons"
-  },
-  {
-    "playerId": "takuya-asao",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Chunichi Dragons"
-  },
-  {
-    "playerId": "takuya-asao",
+    "playerId": "01705155",
     "award": "Holds Leader",
     "year": 2024,
-    "team": "Chunichi Dragons"
+    "team": "Hanshin Tigers",
+    "nameJapanese": "桐敷 拓馬",
+    "name": "Kirishiki, Takuma"
   },
   {
-    "playerId": "hiromitsu-ochiai",
+    "playerId": "61865157",
+    "award": "Holds Leader",
+    "year": 2024,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "松山 晋也",
+    "name": "Matsuyama, Shinya"
+  },
+  {
+    "playerId": "41745135",
     "award": "MVP Winner",
     "year": 2024,
-    "team": "Chiba Lotte Marines"
+    "team": "SoftBank Hawks",
+    "nameJapanese": "近藤 健介",
+    "name": "Kondoh, Kensuke"
   },
   {
-    "playerId": "hiromitsu-ochiai",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Chiba Lotte Marines"
-  },
-  {
-    "playerId": "hiromitsu-ochiai",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Chiba Lotte Marines"
-  },
-  {
-    "playerId": "hiromitsu-ochiai",
-    "award": "Batting Champion",
-    "year": 2024,
-    "team": "Chiba Lotte Marines"
-  },
-  {
-    "playerId": "hiromitsu-ochiai",
-    "award": "Home Run Leader",
-    "year": 2024,
-    "team": "Chiba Lotte Marines"
-  },
-  {
-    "playerId": "hiromitsu-ochiai",
-    "award": "RBI Leader",
-    "year": 2024,
-    "team": "Chiba Lotte Marines"
-  },
-  {
-    "playerId": "hiromitsu-ochiai",
-    "award": "Japan Baseball Hall of Fame",
-    "year": 2024,
-    "team": "Chiba Lotte Marines"
-  },
-  {
-    "playerId": "hiromitsu-ochiai",
-    "award": "Meikyukai Member",
-    "year": 2024,
-    "team": "Chiba Lotte Marines"
-  },
-  {
-    "playerId": "kosuke-fukudome",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Chunichi Dragons"
-  },
-  {
-    "playerId": "kosuke-fukudome",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Chunichi Dragons"
-  },
-  {
-    "playerId": "kosuke-fukudome",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Chunichi Dragons"
-  },
-  {
-    "playerId": "kosuke-fukudome",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Chunichi Dragons"
-  },
-  {
-    "playerId": "kosuke-fukudome",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Chunichi Dragons"
-  },
-  {
-    "playerId": "kosuke-fukudome",
-    "award": "Batting Champion",
-    "year": 2024,
-    "team": "Chunichi Dragons"
-  },
-  {
-    "playerId": "kosuke-fukudome",
-    "award": "Stolen Base Leader",
-    "year": 2024,
-    "team": "Chunichi Dragons"
-  },
-  {
-    "playerId": "kenshin-kawakami",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Chunichi Dragons"
-  },
-  {
-    "playerId": "koji-yamamoto",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Hiroshima Toyo Carp"
-  },
-  {
-    "playerId": "koji-yamamoto",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Hiroshima Toyo Carp"
-  },
-  {
-    "playerId": "koji-yamamoto",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Hiroshima Toyo Carp"
-  },
-  {
-    "playerId": "koji-yamamoto",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Hiroshima Toyo Carp"
-  },
-  {
-    "playerId": "koji-yamamoto",
-    "award": "Batting Champion",
-    "year": 2024,
-    "team": "Hiroshima Toyo Carp"
-  },
-  {
-    "playerId": "koji-yamamoto",
-    "award": "Home Run Leader",
-    "year": 2024,
-    "team": "Hiroshima Toyo Carp"
-  },
-  {
-    "playerId": "koji-yamamoto",
-    "award": "RBI Leader",
-    "year": 2024,
-    "team": "Hiroshima Toyo Carp"
-  },
-  {
-    "playerId": "koji-yamamoto",
-    "award": "Japan Baseball Hall of Fame",
-    "year": 2024,
-    "team": "Hiroshima Toyo Carp"
-  },
-  {
-    "playerId": "koji-yamamoto",
-    "award": "Meikyukai Member",
-    "year": 2024,
-    "team": "Hiroshima Toyo Carp"
-  },
-  {
-    "playerId": "tadahito-iguchi",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Chiba Lotte Marines"
-  },
-  {
-    "playerId": "tadahito-iguchi",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Chiba Lotte Marines"
-  },
-  {
-    "playerId": "tadahito-iguchi",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Chiba Lotte Marines"
-  },
-  {
-    "playerId": "tadahito-iguchi",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Chiba Lotte Marines"
-  },
-  {
-    "playerId": "tadahito-iguchi",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Chiba Lotte Marines"
-  },
-  {
-    "playerId": "roki-sasaki",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Chiba Lotte Marines"
-  },
-  {
-    "playerId": "kazuhiro-wada",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "kazuhiro-wada",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "kazuhiro-wada",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "kazuhiro-wada",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "kazuhiro-wada",
-    "award": "Batting Champion",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "kazuhiro-wada",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "koji-akiyama",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "koji-akiyama",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "koji-akiyama",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "koji-akiyama",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "koji-akiyama",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "koji-akiyama",
-    "award": "Batting Champion",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "koji-akiyama",
-    "award": "Home Run Leader",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "koji-akiyama",
-    "award": "Stolen Base Leader",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "koji-akiyama",
-    "award": "Japan Baseball Hall of Fame",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "koji-akiyama",
-    "award": "Meikyukai Member",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "daisuke-matsuzaka",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "daisuke-matsuzaka",
+    "playerId": "51255159",
     "award": "Rookie of the Year",
     "year": 2024,
-    "team": "Seibu Lions"
+    "team": "Seibu Lions",
+    "nameJapanese": "武内 夏暉",
+    "name": "Takeuchi, Natsuki"
   },
   {
-    "playerId": "daisuke-matsuzaka",
-    "award": "Sawamura Award Winner",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "daisuke-matsuzaka",
+    "playerId": "51155130",
     "award": "Best Nine",
     "year": 2024,
-    "team": "Seibu Lions"
+    "team": "SoftBank Hawks",
+    "nameJapanese": "有原 航平",
+    "name": "Arihara, Kohei"
   },
   {
-    "playerId": "daisuke-matsuzaka",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "daisuke-matsuzaka",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "daisuke-matsuzaka",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "daisuke-matsuzaka",
-    "award": "Strikeout Leader",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "takeya-nakamura",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "kazuhisa-inao",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "kazuhisa-inao",
-    "award": "Sawamura Award Winner",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "kazuhisa-inao",
+    "playerId": "71075151",
     "award": "Best Nine",
     "year": 2024,
-    "team": "Seibu Lions"
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "佐藤 都志也",
+    "name": "Satoh, Toshiya"
   },
   {
-    "playerId": "kazuhisa-inao",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "kazuhisa-inao",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "kazuhisa-inao",
-    "award": "ERA Leader",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "kazuhisa-inao",
-    "award": "Wins Leader",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "kazuhisa-inao",
-    "award": "Strikeout Leader",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "kazuhisa-inao",
-    "award": "Japan Baseball Hall of Fame",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "kazuhisa-inao",
-    "award": "Meikyukai Member",
-    "year": 2024,
-    "team": "Seibu Lions"
-  },
-  {
-    "playerId": "masahiro-tanaka",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Rakuten Eagles"
-  },
-  {
-    "playerId": "masahiro-tanaka",
-    "award": "Sawamura Award Winner",
-    "year": 2024,
-    "team": "Rakuten Eagles"
-  },
-  {
-    "playerId": "masahiro-tanaka",
+    "playerId": "21425139",
     "award": "Best Nine",
     "year": 2024,
-    "team": "Rakuten Eagles"
+    "team": "SoftBank Hawks",
+    "nameJapanese": "山川 穂高",
+    "name": "Yamakawa, Hotaka"
   },
   {
-    "playerId": "masahiro-tanaka",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Rakuten Eagles"
-  },
-  {
-    "playerId": "masahiro-tanaka",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Rakuten Eagles"
-  },
-  {
-    "playerId": "masahiro-tanaka",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Rakuten Eagles"
-  },
-  {
-    "playerId": "masahiro-tanaka",
-    "award": "Wins Leader",
-    "year": 2024,
-    "team": "Rakuten Eagles"
-  },
-  {
-    "playerId": "masahiro-tanaka",
-    "award": "ERA Leader",
-    "year": 2024,
-    "team": "Rakuten Eagles"
-  },
-  {
-    "playerId": "masahiro-tanaka",
-    "award": "Strikeout Leader",
-    "year": 2024,
-    "team": "Rakuten Eagles"
-  },
-  {
-    "playerId": "kazuo-matsui",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Rakuten Eagles"
-  },
-  {
-    "playerId": "kazuo-matsui",
+    "playerId": "61965151",
     "award": "Best Nine",
     "year": 2024,
-    "team": "Rakuten Eagles"
+    "team": "Rakuten Eagles",
+    "nameJapanese": "小深田 大翔",
+    "name": "Kobukata, Hiroto"
   },
   {
-    "playerId": "kazuo-matsui",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Rakuten Eagles"
-  },
-  {
-    "playerId": "kazuo-matsui",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Rakuten Eagles"
-  },
-  {
-    "playerId": "kazuo-matsui",
-    "award": "Stolen Base Leader",
-    "year": 2024,
-    "team": "Rakuten Eagles"
-  },
-  {
-    "playerId": "hideto-asamura",
+    "playerId": "01705130",
     "award": "Best Nine",
     "year": 2024,
-    "team": "Rakuten Eagles"
+    "team": "SoftBank Hawks",
+    "nameJapanese": "栗原 陵矢",
+    "name": "Kurihara, Ryoya"
   },
   {
-    "playerId": "hideto-asamura",
-    "award": "All-Star",
+    "playerId": "31335131",
+    "award": "Best Nine",
     "year": 2024,
-    "team": "Rakuten Eagles"
+    "team": "SoftBank Hawks",
+    "nameJapanese": "今宮 健太",
+    "name": "Imamiya, Kenta"
   },
   {
-    "playerId": "hideto-asamura",
+    "playerId": "11015138",
+    "award": "Best Nine",
+    "year": 2024,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "辰己 涼介",
+    "name": "Tatsumi, Ryosuke"
+  },
+  {
+    "playerId": "41745135",
+    "award": "Best Nine",
+    "year": 2024,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "近藤 健介",
+    "name": "Kondoh, Kensuke"
+  },
+  {
+    "playerId": "21925136",
+    "award": "Best Nine",
+    "year": 2024,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "周東 佑京",
+    "name": "Shuto, Ukyo"
+  },
+  {
+    "playerId": "41745135",
+    "award": "Batting Champion",
+    "year": 2024,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "近藤 健介",
+    "name": "Kondoh, Kensuke"
+  },
+  {
+    "playerId": "21425139",
+    "award": "Home Run Leader",
+    "year": 2024,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "山川 穂高",
+    "name": "Yamakawa, Hotaka"
+  },
+  {
+    "playerId": "21425139",
     "award": "RBI Leader",
     "year": 2024,
-    "team": "Rakuten Eagles"
+    "team": "SoftBank Hawks",
+    "nameJapanese": "山川 穂高",
+    "name": "Yamakawa, Hotaka"
   },
   {
-    "playerId": "shohei-ohtani",
-    "award": "MVP Winner",
+    "playerId": "21925136",
+    "award": "Stolen Base Leader",
     "year": 2024,
-    "team": "Nippon-Ham Fighters"
+    "team": "SoftBank Hawks",
+    "nameJapanese": "周東 佑京",
+    "name": "Shuto, Ukyo"
   },
   {
-    "playerId": "shohei-ohtani",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Nippon-Ham Fighters"
-  },
-  {
-    "playerId": "shohei-ohtani",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Nippon-Ham Fighters"
-  },
-  {
-    "playerId": "shohei-ohtani",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Nippon-Ham Fighters"
-  },
-  {
-    "playerId": "yu-darvish",
-    "award": "MVP Winner",
-    "year": 2024,
-    "team": "Nippon-Ham Fighters"
-  },
-  {
-    "playerId": "yu-darvish",
-    "award": "Sawamura Award Winner",
-    "year": 2024,
-    "team": "Nippon-Ham Fighters"
-  },
-  {
-    "playerId": "yu-darvish",
-    "award": "Best Nine",
-    "year": 2024,
-    "team": "Nippon-Ham Fighters"
-  },
-  {
-    "playerId": "yu-darvish",
-    "award": "Golden Glove",
-    "year": 2024,
-    "team": "Nippon-Ham Fighters"
-  },
-  {
-    "playerId": "yu-darvish",
-    "award": "All-Star",
-    "year": 2024,
-    "team": "Nippon-Ham Fighters"
-  },
-  {
-    "playerId": "yu-darvish",
-    "award": "Japan Series Champion",
-    "year": 2024,
-    "team": "Nippon-Ham Fighters"
-  },
-  {
-    "playerId": "yu-darvish",
-    "award": "Climax Series MVP",
-    "year": 2024,
-    "team": "Nippon-Ham Fighters"
-  },
-  {
-    "playerId": "yu-darvish",
+    "playerId": "63965134",
     "award": "ERA Leader",
     "year": 2024,
-    "team": "Nippon-Ham Fighters"
+    "team": "SoftBank Hawks",
+    "nameJapanese": "Ｌ．モイネロ",
+    "name": "Moinelo, Livan"
   },
   {
-    "playerId": "yu-darvish",
+    "playerId": "51155130",
     "award": "Wins Leader",
     "year": 2024,
-    "team": "Nippon-Ham Fighters"
+    "team": "SoftBank Hawks",
+    "nameJapanese": "有原 航平",
+    "name": "Arihara, Kohei"
   },
   {
-    "playerId": "yu-darvish",
+    "playerId": "51355153",
+    "award": "Wins Leader",
+    "year": 2024,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "伊藤 大海",
+    "name": "Itoh, Hiromi"
+  },
+  {
+    "playerId": "31335134",
     "award": "Strikeout Leader",
     "year": 2024,
-    "team": "Nippon-Ham Fighters"
+    "team": "Seibu Lions",
+    "nameJapanese": "今井 達也",
+    "name": "Imai, Tatsuya"
   },
   {
-    "playerId": "atsunori-inaba",
-    "award": "MVP Winner",
+    "playerId": "51055137",
+    "award": "Saves Leader",
     "year": 2024,
-    "team": "Yakult Swallows"
+    "team": "Rakuten Eagles",
+    "nameJapanese": "則本 昂大",
+    "name": "Norimoto, Takahiro"
   },
   {
-    "playerId": "atsunori-inaba",
-    "award": "Best Nine",
+    "playerId": "81785151",
+    "award": "Holds Leader",
     "year": 2024,
-    "team": "Yakult Swallows"
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "河野 竜生",
+    "name": "Kawano, Ryusei"
   },
   {
-    "playerId": "atsunori-inaba",
+    "playerId": "41745137",
     "award": "Golden Glove",
     "year": 2024,
-    "team": "Yakult Swallows"
+    "team": "Yomiuri Giants",
+    "nameJapanese": "菅野 智之",
+    "name": "Sugano, Tomoyuki"
   },
   {
-    "playerId": "atsunori-inaba",
-    "award": "All-Star",
+    "playerId": "23125136",
+    "award": "Golden Glove",
     "year": 2024,
-    "team": "Yakult Swallows"
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "山本 祐大",
+    "name": "Yamamoto, Yuudai"
   },
   {
-    "playerId": "atsunori-inaba",
-    "award": "Japan Series Champion",
+    "playerId": "11515130",
+    "award": "Golden Glove",
     "year": 2024,
-    "team": "Yakult Swallows"
+    "team": "Yomiuri Giants",
+    "nameJapanese": "岡本 和真",
+    "name": "Okamoto, Kazuma"
   },
   {
-    "playerId": "atsunori-inaba",
-    "award": "Meikyukai Member",
+    "playerId": "73375134",
+    "award": "Golden Glove",
     "year": 2024,
-    "team": "Yakult Swallows"
+    "team": "Yomiuri Giants",
+    "nameJapanese": "吉川 尚輝",
+    "name": "Yoshikawa, Naoki"
+  },
+  {
+    "playerId": "51955114",
+    "award": "Golden Glove",
+    "year": 2024,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "坂本 勇人",
+    "name": "Sakamoto, Hayato"
+  },
+  {
+    "playerId": "93395153",
+    "award": "Golden Glove",
+    "year": 2024,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "矢野 雅哉",
+    "name": "Yano, Masaya"
+  },
+  {
+    "playerId": "31135133",
+    "award": "Golden Glove",
+    "year": 2024,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "秋山 翔吾",
+    "name": "Akiyama, Shogo"
+  },
+  {
+    "playerId": "81585151",
+    "award": "Golden Glove",
+    "year": 2024,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "岡林 勇希",
+    "name": "Okabayashi, Yuki"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Golden Glove",
+    "year": 2024,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "63965134",
+    "award": "Golden Glove",
+    "year": 2024,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "Ｌ．モイネロ",
+    "name": "Moinelo, Livan"
+  },
+  {
+    "playerId": "91595133",
+    "award": "Golden Glove",
+    "year": 2024,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "甲斐 拓也",
+    "name": "Kai, Takuya"
+  },
+  {
+    "playerId": "21425139",
+    "award": "Golden Glove",
+    "year": 2024,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "山川 穂高",
+    "name": "Yamakawa, Hotaka"
+  },
+  {
+    "playerId": "61965151",
+    "award": "Golden Glove",
+    "year": 2024,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "小深田 大翔",
+    "name": "Kobukata, Hiroto"
+  },
+  {
+    "playerId": "01705130",
+    "award": "Golden Glove",
+    "year": 2024,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "栗原 陵矢",
+    "name": "Kurihara, Ryoya"
+  },
+  {
+    "playerId": "71775134",
+    "award": "Golden Glove",
+    "year": 2024,
+    "team": "Seibu Lions",
+    "nameJapanese": "源田 壮亮",
+    "name": "Genda, Sosuke"
+  },
+  {
+    "playerId": "11015138",
+    "award": "Golden Glove",
+    "year": 2024,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "辰己 涼介",
+    "name": "Tatsumi, Ryosuke"
+  },
+  {
+    "playerId": "21925136",
+    "award": "Golden Glove",
+    "year": 2024,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "周東 佑京",
+    "name": "Shuto, Ukyo"
+  },
+  {
+    "playerId": "11815138",
+    "award": "Golden Glove",
+    "year": 2024,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "万波 中正",
+    "name": "Mannami, Chusei"
+  },
+  {
+    "playerId": "41045153",
+    "award": "MVP Winner",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "佐藤 輝明",
+    "name": "Sato, Teruaki"
+  },
+  {
+    "playerId": "91295150",
+    "award": "Rookie of the Year",
+    "year": 2025,
+    "team": "Yakult Swallows",
+    "nameJapanese": "荘司 宏太",
+    "name": "Shoji, Kota"
+  },
+  {
+    "playerId": "13315153",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "村上 頌樹",
+    "name": "Murakami, Shoki"
+  },
+  {
+    "playerId": "11915132",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "坂本 誠志郎",
+    "name": "Sakamoto, Seishiro"
+  },
+  {
+    "playerId": "21325134",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "大山 悠輔",
+    "name": "Ohyama, Yusuke"
+  },
+  {
+    "playerId": "41445153",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "中野 拓夢",
+    "name": "Nakano, Takumu"
+  },
+  {
+    "playerId": "41045153",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "佐藤 輝明",
+    "name": "Sato, Teruaki"
+  },
+  {
+    "playerId": "61165159",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "泉口 友汰",
+    "name": "Izuguchi, Yuta"
+  },
+  {
+    "playerId": "43145157",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "森下 翔太",
+    "name": "Morishita, Shota"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "81585151",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "岡林 勇希",
+    "name": "Okabayashi, Yuki"
+  },
+  {
+    "playerId": "01705138",
+    "award": "Batting Champion",
+    "year": 2025,
+    "team": "Hiroshima Toyo Carp",
+    "nameJapanese": "小園 海斗",
+    "name": "Kozono, Kaito"
+  },
+  {
+    "playerId": "41045153",
+    "award": "Home Run Leader",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "佐藤 輝明",
+    "name": "Sato, Teruaki"
+  },
+  {
+    "playerId": "41045153",
+    "award": "RBI Leader",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "佐藤 輝明",
+    "name": "Sato, Teruaki"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Stolen Base Leader",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "41745134",
+    "award": "ERA Leader",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "才木 浩人",
+    "name": "Saiki, Hiroto"
+  },
+  {
+    "playerId": "13315153",
+    "award": "Wins Leader",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "村上 頌樹",
+    "name": "Murakami, Shoki"
+  },
+  {
+    "playerId": "51155136",
+    "award": "Wins Leader",
+    "year": 2025,
+    "team": "Yokohama DeNA BayStars",
+    "nameJapanese": "東 克樹",
+    "name": "Azuma, Katsuki"
+  },
+  {
+    "playerId": "13315153",
+    "award": "Strikeout Leader",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "村上 頌樹",
+    "name": "Murakami, Shoki"
+  },
+  {
+    "playerId": "23925134",
+    "award": "Saves Leader",
+    "year": 2025,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "Ｒ．マルティネス",
+    "name": "Martinez, Raidel"
+  },
+  {
+    "playerId": "61865157",
+    "award": "Saves Leader",
+    "year": 2025,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "松山 晋也",
+    "name": "Matsuyama, Shinya"
+  },
+  {
+    "playerId": "81085155",
+    "award": "Holds Leader",
+    "year": 2025,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "大勢",
+    "name": "Ota, Taisei"
+  },
+  {
+    "playerId": "63965134",
+    "award": "MVP Winner",
+    "year": 2025,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "Ｌ．モイネロ",
+    "name": "Moinelo, Livan"
+  },
+  {
+    "playerId": "21625150",
+    "award": "Rookie of the Year",
+    "year": 2025,
+    "team": "Chiba Lotte Marines",
+    "nameJapanese": "西川 史礁",
+    "name": "Nishikawa, Misho"
+  },
+  {
+    "playerId": "63965134",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "Ｌ．モイネロ",
+    "name": "Moinelo, Livan"
+  },
+  {
+    "playerId": "41645139",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "若月 健矢",
+    "name": "Wakatsuki, Kenya"
+  },
+  {
+    "playerId": "53755150",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "Seibu Lions",
+    "nameJapanese": "Ｔ．ネビン",
+    "name": "Nevin, Tyler"
+  },
+  {
+    "playerId": "61465133",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "牧原 大成",
+    "name": "Makihara, Taisei"
+  },
+  {
+    "playerId": "41845132",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "村林 一輝",
+    "name": "Murabayashi, Itsuki"
+  },
+  {
+    "playerId": "53155150",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "宗山 塁",
+    "name": "Muneyama, Rui"
+  },
+  {
+    "playerId": "73175151",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "柳町 達",
+    "name": "Yanagimachi, Tatsuru"
+  },
+  {
+    "playerId": "51255138",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "中川 圭太",
+    "name": "Nakagawa, Keita"
+  },
+  {
+    "playerId": "21925136",
+    "award": "Best Nine",
+    "year": 2025,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "周東 佑京",
+    "name": "Shuto, Ukyo"
+  },
+  {
+    "playerId": "61465133",
+    "award": "Batting Champion",
+    "year": 2025,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "牧原 大成",
+    "name": "Makihara, Taisei"
+  },
+  {
+    "playerId": "73075159",
+    "award": "Home Run Leader",
+    "year": 2025,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "Ｆ．レイエス",
+    "name": "Reyes, Franmil"
+  },
+  {
+    "playerId": "73075159",
+    "award": "RBI Leader",
+    "year": 2025,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "Ｆ．レイエス",
+    "name": "Reyes, Franmil"
+  },
+  {
+    "playerId": "21925136",
+    "award": "Stolen Base Leader",
+    "year": 2025,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "周東 佑京",
+    "name": "Shuto, Ukyo"
+  },
+  {
+    "playerId": "63965134",
+    "award": "ERA Leader",
+    "year": 2025,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "Ｌ．モイネロ",
+    "name": "Moinelo, Livan"
+  },
+  {
+    "playerId": "51155130",
+    "award": "Wins Leader",
+    "year": 2025,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "有原 航平",
+    "name": "Arihara, Kohei"
+  },
+  {
+    "playerId": "51355153",
+    "award": "Wins Leader",
+    "year": 2025,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "伊藤 大海",
+    "name": "Itoh, Hiromi"
+  },
+  {
+    "playerId": "51355153",
+    "award": "Strikeout Leader",
+    "year": 2025,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "伊藤 大海",
+    "name": "Itoh, Hiromi"
+  },
+  {
+    "playerId": "91995138",
+    "award": "Saves Leader",
+    "year": 2025,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "杉山 一樹",
+    "name": "Sugiyama, Kazuki"
+  },
+  {
+    "playerId": "31035136",
+    "award": "Saves Leader",
+    "year": 2025,
+    "team": "Seibu Lions",
+    "nameJapanese": "平良 海馬",
+    "name": "Taira, Kaima"
+  },
+  {
+    "playerId": "61665130",
+    "award": "Holds Leader",
+    "year": 2025,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "松本 裕樹",
+    "name": "Matsumoto, Yuki"
+  },
+  {
+    "playerId": "13315153",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "村上 頌樹",
+    "name": "Murakami, Shoki"
+  },
+  {
+    "playerId": "11915132",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "坂本 誠志郎",
+    "name": "Sakamoto, Seishiro"
+  },
+  {
+    "playerId": "21325134",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "大山 悠輔",
+    "name": "Ohyama, Yusuke"
+  },
+  {
+    "playerId": "41445153",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "中野 拓夢",
+    "name": "Nakano, Takumu"
+  },
+  {
+    "playerId": "41045153",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "佐藤 輝明",
+    "name": "Sato, Teruaki"
+  },
+  {
+    "playerId": "61165159",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Yomiuri Giants",
+    "nameJapanese": "泉口 友汰",
+    "name": "Izuguchi, Yuta"
+  },
+  {
+    "playerId": "81585151",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Chunichi Dragons",
+    "nameJapanese": "岡林 勇希",
+    "name": "Okabayashi, Yuki"
+  },
+  {
+    "playerId": "71075138",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "近本 光司",
+    "name": "Chikamoto, Koji"
+  },
+  {
+    "playerId": "43145157",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Hanshin Tigers",
+    "nameJapanese": "森下 翔太",
+    "name": "Morishita, Shota"
+  },
+  {
+    "playerId": "51355153",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "伊藤 大海",
+    "name": "Itoh, Hiromi"
+  },
+  {
+    "playerId": "41645139",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "若月 健矢",
+    "name": "Wakatsuki, Kenya"
+  },
+  {
+    "playerId": "53755150",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Seibu Lions",
+    "nameJapanese": "Ｔ．ネビン",
+    "name": "Nevin, Tyler"
+  },
+  {
+    "playerId": "61465133",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "牧原 大成",
+    "name": "Makihara, Taisei"
+  },
+  {
+    "playerId": "41845132",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "村林 一輝",
+    "name": "Murabayashi, Itsuki"
+  },
+  {
+    "playerId": "91995151",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Orix Buffaloes",
+    "nameJapanese": "紅林 弘太郎",
+    "name": "Kurebayashi, Kotaro"
+  },
+  {
+    "playerId": "21925136",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "SoftBank Hawks",
+    "nameJapanese": "周東 佑京",
+    "name": "Shuto, Ukyo"
+  },
+  {
+    "playerId": "11015138",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Rakuten Eagles",
+    "nameJapanese": "辰己 涼介",
+    "name": "Tatsumi, Ryosuke"
+  },
+  {
+    "playerId": "51455136",
+    "award": "Golden Glove",
+    "year": 2025,
+    "team": "Seibu Lions",
+    "nameJapanese": "西川 愛也",
+    "name": "Nishikawa, Manaya"
+  },
+  {
+    "playerId": "51355153",
+    "award": "Sawamura Award Winner",
+    "year": 2025,
+    "team": "Nippon-Ham Fighters",
+    "nameJapanese": "伊藤 大海",
+    "name": "Itoh, Hiromi"
   }
 ]
