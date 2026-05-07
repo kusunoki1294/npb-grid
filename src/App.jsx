@@ -120,7 +120,6 @@ const copy = {
     cellIncorrectStatus: 'Try again',
     suggestionsHint: 'Start typing to see matching players.',
     suggestionsEmpty: 'No matching players found.',
-    suggestionFitsSquare: 'Fits this square',
     suggestionAlreadyUsed: 'Already used',
     summaryKicker: 'Game Complete',
     summaryHeading: 'Final Scorecard',
@@ -262,7 +261,6 @@ const copy = {
     cellIncorrectStatus: '再挑戦',
     suggestionsHint: '入力すると該当する選手候補が表示されます。',
     suggestionsEmpty: '一致する選手が見つかりません。',
-    suggestionFitsSquare: 'このマスで使えます',
     suggestionAlreadyUsed: '使用済み',
     summaryKicker: 'ゲーム終了',
     summaryHeading: '最終スコアカード',
@@ -731,10 +729,6 @@ function getPlayerSuggestionDetail(player, locale) {
 function compareSuggestionEntries(left, right, locale) {
   if (left.matchScore !== right.matchScore) {
     return right.matchScore - left.matchScore;
-  }
-
-  if (left.isEligible !== right.isEligible) {
-    return Number(right.isEligible) - Number(left.isEligible);
   }
 
   if (left.isUsed !== right.isUsed) {
@@ -1409,8 +1403,9 @@ function ArchiveScreen({ locale, activeUser, authReady, puzzleDate, onBackToGame
   );
   const archiveDates = getArchiveDatesFromStart(ARCHIVE_START_DATE, puzzleDate);
   const completedResults = storedResults.filter((result) => (result.guess_count ?? 0) >= MAX_GUESSES);
-  const completedDates = completedResults.map((result) => result.puzzle_date);
-  const streakStats = computeStreakStats(completedDates, puzzleDate);
+  const perfectResults = completedResults.filter((result) => (result.score ?? 0) === 9);
+  const perfectDates = perfectResults.map((result) => result.puzzle_date);
+  const streakStats = computeStreakStats(perfectDates, puzzleDate);
 
   const playerCounts = {};
   const teamCounts = {};
@@ -1830,24 +1825,6 @@ function GameScreen({
   const selectedCellKey = selectedCell
     ? getCellKey(selectedCell.rowIndex, selectedCell.columnIndex)
     : null;
-  const selectedRowCategory = selectedCell
-    ? activeGrid.rows[selectedCell.rowIndex]
-    : null;
-  const selectedColumnCategory = selectedCell
-    ? activeGrid.columns[selectedCell.columnIndex]
-    : null;
-  const eligiblePlayerIds = selectedRowCategory && selectedColumnCategory
-    ? new Set(
-      getIntersectionPlayerIds(
-        selectedRowCategory,
-        selectedColumnCategory,
-        eligibility,
-        playerAwards,
-        battingSeasons,
-        pitchingSeasons,
-      ),
-    )
-    : null;
   const usedPlayerIds = new Set(
     Object.entries(cells).flatMap(([key, cell]) => (
       key !== selectedCellKey && cell?.result === 'correct' && cell.playerId
@@ -1870,7 +1847,6 @@ function GameScreen({
           label: getPlayerDisplayName(player, locale),
           detail: getPlayerSuggestionDetail(player, locale),
           matchScore,
-          isEligible: eligiblePlayerIds?.has(player.id) ?? false,
           isUsed: usedPlayerIds.has(player.id),
         };
       })
@@ -1909,6 +1885,38 @@ function GameScreen({
       computeStreakStats(mergedDates, puzzleDate),
     );
   }
+
+  useEffect(() => {
+    if (!selectedCell || typeof window === 'undefined') {
+      return undefined;
+    }
+
+    const { body, documentElement } = document;
+    const scrollY = window.scrollY;
+    const previousBodyOverflow = body.style.overflow;
+    const previousBodyPosition = body.style.position;
+    const previousBodyTop = body.style.top;
+    const previousBodyWidth = body.style.width;
+    const previousHtmlOverflow = documentElement.style.overflow;
+    const previousHtmlOverscroll = documentElement.style.overscrollBehavior;
+
+    body.style.overflow = 'hidden';
+    body.style.position = 'fixed';
+    body.style.top = `-${scrollY}px`;
+    body.style.width = '100%';
+    documentElement.style.overflow = 'hidden';
+    documentElement.style.overscrollBehavior = 'none';
+
+    return () => {
+      body.style.overflow = previousBodyOverflow;
+      body.style.position = previousBodyPosition;
+      body.style.top = previousBodyTop;
+      body.style.width = previousBodyWidth;
+      documentElement.style.overflow = previousHtmlOverflow;
+      documentElement.style.overscrollBehavior = previousHtmlOverscroll;
+      window.scrollTo(0, scrollY);
+    };
+  }, [selectedCell]);
 
   useEffect(() => {
     if (!ENABLE_PUBLIC_LEADERBOARD || !isDailyMode || !showSummary || !isGameOver) {
@@ -2475,14 +2483,9 @@ function GameScreen({
                   {suggestion.detail && (
                     <span className="suggestion-chip-meta">{suggestion.detail}</span>
                   )}
-                  {(suggestion.isEligible || suggestion.isUsed) && (
+                  {suggestion.isUsed && (
                     <span className="suggestion-chip-tags">
-                      {suggestion.isEligible && (
-                        <span className="suggestion-chip-tag good">{text.suggestionFitsSquare}</span>
-                      )}
-                      {suggestion.isUsed && (
-                        <span className="suggestion-chip-tag muted">{text.suggestionAlreadyUsed}</span>
-                      )}
+                      <span className="suggestion-chip-tag muted">{text.suggestionAlreadyUsed}</span>
                     </span>
                   )}
                 </button>
@@ -2614,6 +2617,38 @@ export default function App() {
       window.removeEventListener('popstate', handlePopState);
     };
   }, []);
+
+  useEffect(() => {
+    if (!authMode || typeof window === 'undefined') {
+      return undefined;
+    }
+
+    const { body, documentElement } = document;
+    const scrollY = window.scrollY;
+    const previousBodyOverflow = body.style.overflow;
+    const previousBodyPosition = body.style.position;
+    const previousBodyTop = body.style.top;
+    const previousBodyWidth = body.style.width;
+    const previousHtmlOverflow = documentElement.style.overflow;
+    const previousHtmlOverscroll = documentElement.style.overscrollBehavior;
+
+    body.style.overflow = 'hidden';
+    body.style.position = 'fixed';
+    body.style.top = `-${scrollY}px`;
+    body.style.width = '100%';
+    documentElement.style.overflow = 'hidden';
+    documentElement.style.overscrollBehavior = 'none';
+
+    return () => {
+      body.style.overflow = previousBodyOverflow;
+      body.style.position = previousBodyPosition;
+      body.style.top = previousBodyTop;
+      body.style.width = previousBodyWidth;
+      documentElement.style.overflow = previousHtmlOverflow;
+      documentElement.style.overscrollBehavior = previousHtmlOverscroll;
+      window.scrollTo(0, scrollY);
+    };
+  }, [authMode]);
 
   useEffect(() => {
     if (typeof window === 'undefined') {
