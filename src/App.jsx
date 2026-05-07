@@ -20,10 +20,37 @@ import eligibility from '../data/processed/eligibility.json';
 
 const MAX_GUESSES = 9;
 const ARCHIVE_START_DATE = '2026-05-01';
+const STANDARD_MODE_MIN_ELIGIBLE = 13;
+const SUPER_HARD_MIN_ELIGIBLE = 3;
+const SUPER_HARD_MAX_ELIGIBLE = 15;
+const STANDARD_GRID_MAX_ATTEMPTS = 20000;
+const SUPER_HARD_GRID_MAX_ATTEMPTS = 50000;
+const eligibleIntersectionCountCache = new Map();
+const BATTING_AWARDS = new Set([
+  'Batting Champion',
+  'Home Run Leader',
+  'RBI Leader',
+  'Stolen Base Leader',
+]);
+const PITCHING_AWARDS = new Set([
+  'Sawamura Award Winner',
+  'ERA Leader',
+  'Wins Leader',
+  'Strikeout Leader',
+  'Saves Leader',
+  'Holds Leader',
+]);
+const BATTING_SPECIAL_CATEGORIES = new Set([
+  'Switch Hitter',
+]);
+const PITCHING_SPECIAL_CATEGORIES = new Set([
+  'No-Hitter',
+  'Perfect Game',
+]);
 
 const copy = {
   en: {
-    signIn: 'Sign in',
+    signIn: 'Sign up',
     logIn: 'Log in',
     authClose: 'Close',
     authName: 'Display name',
@@ -62,7 +89,7 @@ const copy = {
     title: 'NPB Trivia Grid',
     dailyTab: 'Daily',
     practiceTab: 'Practice',
-    superHardTab: 'Super hard mode',
+    superHardTab: 'Super hard\nmode',
     score: 'Score',
     noGuesses: 'No guesses remaining.',
     guessesRemaining: (count) => `${count} guesses remaining.`,
@@ -497,6 +524,54 @@ function getCellKey(rowIndex, columnIndex) {
   return `${rowIndex}-${columnIndex}`;
 }
 
+function getEligibleIntersectionCacheKey(rowCategoryId, columnCategoryId) {
+  return rowCategoryId < columnCategoryId
+    ? `${rowCategoryId}::${columnCategoryId}`
+    : `${columnCategoryId}::${rowCategoryId}`;
+}
+
+function getCategoryDomain(category) {
+  switch (category.type) {
+    case 'battingSeasonMilestone':
+    case 'battingCareerMilestone':
+      return 'batting';
+    case 'pitchingSeasonMilestone':
+    case 'pitchingCareerMilestone':
+      return 'pitching';
+    case 'position':
+      return category.value === 'Pitcher' ? 'pitching' : 'batting';
+    case 'award':
+      if (BATTING_AWARDS.has(category.value)) {
+        return 'batting';
+      }
+      if (PITCHING_AWARDS.has(category.value)) {
+        return 'pitching';
+      }
+      return 'neutral';
+    case 'specialCategory':
+      if (BATTING_SPECIAL_CATEGORIES.has(category.value)) {
+        return 'batting';
+      }
+      if (PITCHING_SPECIAL_CATEGORIES.has(category.value)) {
+        return 'pitching';
+      }
+      return 'neutral';
+    default:
+      return 'neutral';
+  }
+}
+
+function areCategoriesSemanticallyCompatible(rowCategory, columnCategory) {
+  const rowDomain = getCategoryDomain(rowCategory);
+  const columnDomain = getCategoryDomain(columnCategory);
+
+  return (
+    rowDomain === 'neutral'
+    || columnDomain === 'neutral'
+    || rowDomain === columnDomain
+  );
+}
+
 function getEligibleIntersectionCount(rowCategoryId, columnCategoryId, eligibilityMap) {
   const rowCategory = categoriesById[rowCategoryId];
   const columnCategory = categoriesById[columnCategoryId];
@@ -505,7 +580,13 @@ function getEligibleIntersectionCount(rowCategoryId, columnCategoryId, eligibili
     return 0;
   }
 
-  return getIntersectionPlayerIds(
+  const cacheKey = getEligibleIntersectionCacheKey(rowCategoryId, columnCategoryId);
+
+  if (eligibilityMap === eligibility && eligibleIntersectionCountCache.has(cacheKey)) {
+    return eligibleIntersectionCountCache.get(cacheKey);
+  }
+
+  const count = getIntersectionPlayerIds(
     rowCategory,
     columnCategory,
     eligibilityMap,
@@ -513,18 +594,63 @@ function getEligibleIntersectionCount(rowCategoryId, columnCategoryId, eligibili
     battingSeasons,
     pitchingSeasons,
   ).length;
+
+  if (eligibilityMap === eligibility) {
+    eligibleIntersectionCountCache.set(cacheKey, count);
+  }
+
+  return count;
+}
+
+function isPlayableIntersectionForMode(mode, rowCategory, columnCategory, eligibilityMap) {
+  if (!areCategoriesSemanticallyCompatible(rowCategory, columnCategory)) {
+    return false;
+  }
+
+  const count = getEligibleIntersectionCount(rowCategory.id, columnCategory.id, eligibilityMap);
+
+  if (mode === 'super-hard') {
+    return count >= SUPER_HARD_MIN_ELIGIBLE && count <= SUPER_HARD_MAX_ELIGIBLE;
+  }
+
+  return count >= STANDARD_MODE_MIN_ELIGIBLE;
+}
+
+function gridMatchesModeConstraints(grid, mode, eligibilityMap) {
+  return grid.rows.every((rowCategory) =>
+    grid.columns.every((columnCategory) =>
+      isPlayableIntersectionForMode(mode, rowCategory, columnCategory, eligibilityMap),
+    ));
+}
+
+function createGridForMode(mode, dateString) {
+  const hasValidIntersection = (rowCategory, columnCategory) =>
+    isPlayableIntersectionForMode(mode, rowCategory, columnCategory, eligibility);
+
+  if (mode === 'daily') {
+    return createDailyGridFromEligibility(
+      eligibility,
+      dateString,
+      hasValidIntersection,
+      { maxAttempts: STANDARD_GRID_MAX_ATTEMPTS },
+    );
+  }
+
+  return createRandomGridFromEligibility(
+    eligibility,
+    hasValidIntersection,
+    mode === 'super-hard'
+      ? { maxAttempts: SUPER_HARD_GRID_MAX_ATTEMPTS }
+      : { maxAttempts: STANDARD_GRID_MAX_ATTEMPTS },
+  );
 }
 
 function getRarityTone(count) {
-  if (count <= 1) {
-    return 'only';
-  }
-
-  if (count <= 3) {
+  if (count < 10) {
     return 'rare';
   }
 
-  if (count <= 6) {
+  if (count <= 30) {
     return 'tricky';
   }
 
@@ -533,10 +659,6 @@ function getRarityTone(count) {
 
 function getRarityBandLabel(count, text) {
   const tone = getRarityTone(count);
-
-  if (tone === 'only') {
-    return text.rarityOnly;
-  }
 
   if (tone === 'rare') {
     return text.rarityRare;
@@ -729,19 +851,7 @@ async function copyTextToClipboard(value) {
 }
 
 function getSnapshotGrid(dateString) {
-  return createDailyGridFromEligibility(
-    eligibility,
-    dateString,
-    (rowCategory, columnCategory) =>
-      getIntersectionPlayerIds(
-        rowCategory,
-        columnCategory,
-        eligibility,
-        playerAwards,
-        battingSeasons,
-        pitchingSeasons,
-      ).length > 0,
-  );
+  return createGridForMode('daily', dateString);
 }
 
 function getDailyStorageKey(dateString, userId) {
@@ -1011,20 +1121,7 @@ function mergePerfectDatesWithLocal(perfectDates, userId) {
 }
 
 function getInitialGrid(mode, dateString) {
-  return mode === 'daily'
-    ? getSnapshotGrid(dateString)
-    : createRandomGridFromEligibility(
-      eligibility,
-      (rowCategory, columnCategory) =>
-        getIntersectionPlayerIds(
-          rowCategory,
-          columnCategory,
-          eligibility,
-          playerAwards,
-          battingSeasons,
-          pitchingSeasons,
-        ).length > 0,
-    );
+  return createGridForMode(mode, dateString);
 }
 
 function localizeCategory(category, locale) {
@@ -1574,7 +1671,6 @@ function GameScreen({
   currentPuzzleDate,
   onOpenArchive,
   onReturnToToday,
-  onCopyBoardLink,
 }) {
   const text = copy[locale];
   const [activeGrid, setActiveGrid] = useState(() =>
@@ -1847,6 +1943,27 @@ function GameScreen({
     };
   }, [activeUser, isDailyMode, isVisible, locale, puzzleDate, text.dailyGuestNotice, text.dailySyncError, text.dailySyncLoaded, text.dailySyncLoading, text.defaultMessage]);
 
+  useEffect(() => {
+    if (isDailyMode || !isVisible) {
+      return;
+    }
+
+    if (gridMatchesModeConstraints(activeGrid, mode, eligibility)) {
+      return;
+    }
+
+    setActiveGrid(createGridForMode(mode, puzzleDate));
+    setCells(createEmptyCells());
+    setGuessCount(0);
+    setSelectedCell(null);
+    setSelectedCategory(null);
+    setShowHelp(false);
+    setDraftName('');
+    setEditorNotice('');
+    setShowSummary(false);
+    setMessage(text.newGridMessage);
+  }, [activeGrid, isDailyMode, isVisible, mode, puzzleDate, text.newGridMessage]);
+
   async function persistDailyResult(nextCells, nextGuessCount, nextScore) {
     if (!isDailyMode) {
       return;
@@ -2008,20 +2125,7 @@ function GameScreen({
       return;
     }
 
-    setActiveGrid(
-      createRandomGridFromEligibility(
-        eligibility,
-        (rowCategory, columnCategory) =>
-          getIntersectionPlayerIds(
-            rowCategory,
-            columnCategory,
-            eligibility,
-            playerAwards,
-            battingSeasons,
-            pitchingSeasons,
-          ).length > 0,
-      ),
-    );
+    setActiveGrid(createGridForMode(mode, puzzleDate));
     setCells(createEmptyCells());
     setGuessCount(0);
     setSelectedCell(null);
@@ -2031,15 +2135,6 @@ function GameScreen({
     setEditorNotice('');
     setShowSummary(false);
     setMessage(text.newGridMessage);
-  }
-
-  async function handleCopyBoardLink() {
-    try {
-      await onCopyBoardLink(puzzleDate, locale);
-      setMessage(text.copyLinkSuccess);
-    } catch {
-      setMessage(text.copyLinkError);
-    }
   }
 
   return (
@@ -2065,11 +2160,6 @@ function GameScreen({
             {isDailyMode && (
               <button className="info-button" onClick={onOpenArchive} type="button">
                 {text.archive}
-              </button>
-            )}
-            {isDailyMode && (
-              <button className="info-button" onClick={handleCopyBoardLink} type="button">
-                {text.copyLink}
               </button>
             )}
             {isViewingArchiveDate && (
@@ -2471,6 +2561,15 @@ export default function App() {
     await copyTextToClipboard(shareUrl);
   }
 
+  async function handleTopBarCopyBoardLink() {
+    try {
+      await copyBoardLink(puzzleDate, activeLocale);
+      setAuthNotice(activeText.copyLinkSuccess);
+    } catch {
+      setAuthNotice(activeText.copyLinkError);
+    }
+  }
+
   async function handleAuthSubmit(event) {
     event.preventDefault();
 
@@ -2561,7 +2660,7 @@ export default function App() {
   const leaderboardIdentity = getLeaderboardIdentity(activeUser);
 
   return (
-    <div className="page-shell">
+    <div className={activeLocale === 'ja' ? 'page-shell locale-ja' : 'page-shell'}>
       <header className="top-bar">
         <nav className="tab-bar" aria-label="Language tabs">
           <button
@@ -2588,6 +2687,11 @@ export default function App() {
               <button className="account-button secondary" onClick={handleLogout}>
                 {activeText.authLogout}
               </button>
+              {activeView === 'game' && activeMode === 'daily' && (
+                <button className="account-button secondary" onClick={handleTopBarCopyBoardLink}>
+                  {activeText.copyLink}
+                </button>
+              )}
             </>
           ) : (
             <>
@@ -2597,6 +2701,11 @@ export default function App() {
               <button className="account-button primary" onClick={() => openAuthModal('signup')}>
                 {activeText.signIn}
               </button>
+              {activeView === 'game' && activeMode === 'daily' && (
+                <button className="account-button secondary" onClick={handleTopBarCopyBoardLink}>
+                  {activeText.copyLink}
+                </button>
+              )}
             </>
           )}
         </div>
@@ -2636,7 +2745,6 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
-                onCopyBoardLink={copyBoardLink}
               />
             </div>
             <div className={activeMode === 'practice' ? 'mode-panel active' : 'mode-panel'}>
@@ -2649,7 +2757,6 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
-                onCopyBoardLink={copyBoardLink}
               />
             </div>
             <div className={activeMode === 'super-hard' ? 'mode-panel active' : 'mode-panel'}>
@@ -2662,7 +2769,6 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
-                onCopyBoardLink={copyBoardLink}
               />
             </div>
           </div>
@@ -2677,7 +2783,6 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
-                onCopyBoardLink={copyBoardLink}
               />
             </div>
             <div className={activeMode === 'practice' ? 'mode-panel active' : 'mode-panel'}>
@@ -2690,7 +2795,6 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
-                onCopyBoardLink={copyBoardLink}
               />
             </div>
             <div className={activeMode === 'super-hard' ? 'mode-panel active' : 'mode-panel'}>
@@ -2703,7 +2807,6 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
-                onCopyBoardLink={copyBoardLink}
               />
             </div>
           </div>

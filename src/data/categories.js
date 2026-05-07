@@ -287,7 +287,12 @@ function hasIntersection(leftIds, rightIds) {
   return leftIds.some((id) => rightSet.has(id));
 }
 
-export function createRandomGridFromEligibility(eligibility, hasPlayableIntersection) {
+export function createRandomGridFromEligibility(
+  eligibility,
+  hasPlayableIntersection,
+  options = {},
+) {
+  const { maxAttempts = 2500 } = options;
   const usableCategories = categories.filter(
     (category) => (eligibility[category.id] ?? []).length > 0,
   );
@@ -295,7 +300,7 @@ export function createRandomGridFromEligibility(eligibility, hasPlayableIntersec
     ?? ((rowCategory, columnCategory) =>
       hasIntersection(eligibility[rowCategory.id] ?? [], eligibility[columnCategory.id] ?? []));
 
-  for (let attempt = 0; attempt < 2500; attempt += 1) {
+  for (let attempt = 0; attempt < maxAttempts; attempt += 1) {
     const rows = shuffle(usableCategories).slice(0, 3);
     const viableColumns = usableCategories.filter(
       (candidate) =>
@@ -331,7 +336,13 @@ export function createRandomGridFromEligibility(eligibility, hasPlayableIntersec
   };
 }
 
-export function createDailyGridFromEligibility(eligibility, dateString, hasPlayableIntersection) {
+export function createDailyGridFromEligibility(
+  eligibility,
+  dateString,
+  hasPlayableIntersection,
+  options = {},
+) {
+  const { maxAttempts = 2500 } = options;
   const usableCategories = categories.filter(
     (category) => (eligibility[category.id] ?? []).length > 0,
   );
@@ -339,7 +350,7 @@ export function createDailyGridFromEligibility(eligibility, dateString, hasPlaya
     ?? ((rowCategory, columnCategory) =>
       hasIntersection(eligibility[rowCategory.id] ?? [], eligibility[columnCategory.id] ?? []));
 
-  for (let attempt = 0; attempt < 2500; attempt += 1) {
+  for (let attempt = 0; attempt < maxAttempts; attempt += 1) {
     const random = createSeededRandom(`${dateString}:${attempt}`);
     const rows = shuffleWithRandom(usableCategories, random).slice(0, 3);
     const viableColumns = usableCategories.filter(
