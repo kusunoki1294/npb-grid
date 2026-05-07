@@ -8,8 +8,8 @@ import {
 import {
   findPlayerByName,
   formatImportedPlayerName,
+  getPlayerNameQueryScore,
   isPlayerAlreadyUsed,
-  playerMatchesNameQuery,
 } from './lib/validateAnswer';
 import { getIntersectionPlayerIds } from './lib/categoryIntersection';
 import { hasSupabaseConfig, supabase } from './lib/supabase';
@@ -69,7 +69,7 @@ const copy = {
     authSignupBlurb: 'Set up a profile so you can keep daily streaks and puzzle history later.',
     authLoginSubmit: 'Log in',
     authSignupSubmit: 'Create account',
-    authSwitchToSignup: 'Need an account? Sign in',
+    authSwitchToSignup: 'Need an account? Sign up',
     authSwitchToLogin: 'Already have an account? Log in',
     authConfigMissing:
       'Supabase is not configured yet. Add VITE_SUPABASE_URL and VITE_SUPABASE_ANON_KEY to connect real accounts.',
@@ -88,7 +88,6 @@ const copy = {
     streak: 'Streak',
     bestStreak: 'Best',
     streakDays: (count) => `${count} day${count === 1 ? '' : 's'}`,
-    eyebrow: 'Daily-style prototype',
     title: 'NPB Trivia Grid',
     dailyTab: 'Daily',
     practiceTab: 'Practice',
@@ -117,6 +116,12 @@ const copy = {
     cancel: 'Cancel',
     placeholder: 'Example: Munetaka Murakami',
     selectPlayer: 'Select player',
+    cellCorrectStatus: 'Correct',
+    cellIncorrectStatus: 'Try again',
+    suggestionsHint: 'Start typing to see matching players.',
+    suggestionsEmpty: 'No matching players found.',
+    suggestionFitsSquare: 'Fits this square',
+    suggestionAlreadyUsed: 'Already used',
     summaryKicker: 'Game Complete',
     summaryHeading: 'Final Scorecard',
     summaryClose: 'Close scorecard',
@@ -206,8 +211,8 @@ const copy = {
     authSignupBlurb: '今後、連続記録やプレー履歴を保存できるようにするための登録画面です。',
     authLoginSubmit: 'ログイン',
     authSignupSubmit: '登録する',
-    authSwitchToSignup: 'アカウントを作成する',
-    authSwitchToLogin: 'すでにアカウントをお持ちですか',
+    authSwitchToSignup: 'アカウント作成はこちら',
+    authSwitchToLogin: 'ログインはこちら',
     authConfigMissing:
       'Supabase がまだ設定されていません。実際のアカウント連携には VITE_SUPABASE_URL と VITE_SUPABASE_ANON_KEY を追加してください。',
     authPasswordMismatch: 'パスワードが一致していません。',
@@ -225,7 +230,6 @@ const copy = {
     streak: '連続記録',
     bestStreak: '最高',
     streakDays: (count) => `${count}日`,
-    eyebrow: 'デイリープロトタイプ',
     title: 'プロ野球グリッド',
     dailyTab: 'デイリー',
     practiceTab: '練習',
@@ -254,6 +258,12 @@ const copy = {
     cancel: 'キャンセル',
     placeholder: '例: 村上 宗隆',
     selectPlayer: '選手を選択',
+    cellCorrectStatus: '正解',
+    cellIncorrectStatus: '再挑戦',
+    suggestionsHint: '入力すると該当する選手候補が表示されます。',
+    suggestionsEmpty: '一致する選手が見つかりません。',
+    suggestionFitsSquare: 'このマスで使えます',
+    suggestionAlreadyUsed: '使用済み',
     summaryKicker: 'ゲーム終了',
     summaryHeading: '最終スコアカード',
     summaryClose: 'スコアカードを閉じる',
@@ -689,6 +699,51 @@ function getPlayerDisplayName(player, locale) {
   }
 
   return player.name;
+}
+
+function localizePlayerDescriptor(label, locale) {
+  if (locale !== 'ja') {
+    return label;
+  }
+
+  return jaCategoryLabels[label] ?? localizeGeneratedCategoryLabel(label);
+}
+
+function getPlayerPrimaryTeam(player) {
+  const teams = player.teams ?? [];
+
+  for (let index = teams.length - 1; index >= 0; index -= 1) {
+    if (teams[index]) {
+      return teams[index];
+    }
+  }
+
+  return '';
+}
+
+function getPlayerSuggestionDetail(player, locale) {
+  const team = localizePlayerDescriptor(getPlayerPrimaryTeam(player), locale);
+  const position = localizePlayerDescriptor(player.positions?.[0] ?? '', locale);
+
+  return [team, position].filter(Boolean).join(' • ');
+}
+
+function compareSuggestionEntries(left, right, locale) {
+  if (left.matchScore !== right.matchScore) {
+    return right.matchScore - left.matchScore;
+  }
+
+  if (left.isEligible !== right.isEligible) {
+    return Number(right.isEligible) - Number(left.isEligible);
+  }
+
+  if (left.isUsed !== right.isUsed) {
+    return Number(left.isUsed) - Number(right.isUsed);
+  }
+
+  return left.label.localeCompare(right.label, locale === 'ja' ? 'ja' : 'en', {
+    sensitivity: 'base',
+  });
 }
 
 function computeResultRarityStats(cells, grid, eligibilityMap) {
@@ -1772,11 +1827,57 @@ function GameScreen({
     ),
   );
   const allPlayers = Object.values(playersById);
+  const selectedCellKey = selectedCell
+    ? getCellKey(selectedCell.rowIndex, selectedCell.columnIndex)
+    : null;
+  const selectedRowCategory = selectedCell
+    ? activeGrid.rows[selectedCell.rowIndex]
+    : null;
+  const selectedColumnCategory = selectedCell
+    ? activeGrid.columns[selectedCell.columnIndex]
+    : null;
+  const eligiblePlayerIds = selectedRowCategory && selectedColumnCategory
+    ? new Set(
+      getIntersectionPlayerIds(
+        selectedRowCategory,
+        selectedColumnCategory,
+        eligibility,
+        playerAwards,
+        battingSeasons,
+        pitchingSeasons,
+      ),
+    )
+    : null;
+  const usedPlayerIds = new Set(
+    Object.entries(cells).flatMap(([key, cell]) => (
+      key !== selectedCellKey && cell?.result === 'correct' && cell.playerId
+        ? [cell.playerId]
+        : []
+    )),
+  );
   const hasDraftQuery = Boolean(draftName.trim());
-  const suggestions = (hasDraftQuery
-    ? allPlayers.filter((player) => playerMatchesNameQuery(player, draftName))
-    : allPlayers
-  ).slice(0, 8);
+  const suggestions = hasDraftQuery
+    ? allPlayers
+      .map((player) => {
+        const matchScore = getPlayerNameQueryScore(player, draftName);
+
+        if (matchScore === null) {
+          return null;
+        }
+
+        return {
+          player,
+          label: getPlayerDisplayName(player, locale),
+          detail: getPlayerSuggestionDetail(player, locale),
+          matchScore,
+          isEligible: eligiblePlayerIds?.has(player.id) ?? false,
+          isUsed: usedPlayerIds.has(player.id),
+        };
+      })
+      .filter(Boolean)
+      .sort((left, right) => compareSuggestionEntries(left, right, locale))
+      .slice(0, 8)
+    : [];
   const leaderboardIdentity = getLeaderboardIdentity(activeUser);
 
   async function refreshStreakStats(userId) {
@@ -2191,7 +2292,7 @@ function GameScreen({
     <main className="app-shell">
       <section className="hero-card">
         <div className="hero-main">
-          <p className="eyebrow">{text.eyebrow}</p>
+          {text.eyebrow && <p className="eyebrow">{text.eyebrow}</p>}
           <h1>{text.title}</h1>
           <div className="hero-actions">
             <button
@@ -2320,6 +2421,10 @@ function GameScreen({
           onCellClick={handleCellClick}
           onCategoryClick={setSelectedCategory}
           emptyLabel={text.selectPlayer}
+          statusText={{
+            correct: text.cellCorrectStatus,
+            incorrect: text.cellIncorrectStatus,
+          }}
           cellMeta={showRarity ? cellMeta : undefined}
         />
       )}
@@ -2356,18 +2461,36 @@ function GameScreen({
             {editorNotice && <p className="editor-notice">{editorNotice}</p>}
 
             <div className="suggestions">
-              {suggestions.map((player) => (
+              {suggestions.length > 0 ? suggestions.map((suggestion) => (
                 <button
-                  key={player.id}
-                  className="suggestion-chip"
+                  key={suggestion.player.id}
+                  className={suggestion.isUsed ? 'suggestion-chip used' : 'suggestion-chip'}
                   onClick={() => {
-                    setDraftName(getPlayerDisplayName(player, locale));
+                    setDraftName(suggestion.label);
                     setEditorNotice('');
                   }}
+                  type="button"
                 >
-                  {getPlayerDisplayName(player, locale)}
+                  <strong className="suggestion-chip-label">{suggestion.label}</strong>
+                  {suggestion.detail && (
+                    <span className="suggestion-chip-meta">{suggestion.detail}</span>
+                  )}
+                  {(suggestion.isEligible || suggestion.isUsed) && (
+                    <span className="suggestion-chip-tags">
+                      {suggestion.isEligible && (
+                        <span className="suggestion-chip-tag good">{text.suggestionFitsSquare}</span>
+                      )}
+                      {suggestion.isUsed && (
+                        <span className="suggestion-chip-tag muted">{text.suggestionAlreadyUsed}</span>
+                      )}
+                    </span>
+                  )}
                 </button>
-              ))}
+              )) : (
+                <p className="suggestions-note">
+                  {hasDraftQuery ? text.suggestionsEmpty : text.suggestionsHint}
+                </p>
+              )}
             </div>
 
             <div className="editor-actions">

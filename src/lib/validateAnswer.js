@@ -24,6 +24,13 @@ function getCompactNameKey(value) {
   return getNormalizedNameParts(value).join('');
 }
 
+function getNameQueryKeys(query) {
+  return {
+    orderedQuery: getOrderedNameKey(query),
+    compactQuery: getCompactNameKey(query),
+  };
+}
+
 function reverseLocalizedName(value) {
   const parts = String(value ?? '')
     .normalize('NFKC')
@@ -104,9 +111,55 @@ function getCachedPlayerNameMatchKeys(player) {
   return computedKeys;
 }
 
+function getNameMatchScore(nameKey, queryKey, wordBoundaryWeight = 0) {
+  if (!nameKey || !queryKey) {
+    return 0;
+  }
+
+  if (nameKey === queryKey) {
+    return 100;
+  }
+
+  if (nameKey.startsWith(queryKey)) {
+    return 80;
+  }
+
+  if (wordBoundaryWeight > 0 && nameKey.includes(` ${queryKey}`)) {
+    return wordBoundaryWeight;
+  }
+
+  if (nameKey.includes(queryKey)) {
+    return 40;
+  }
+
+  return 0;
+}
+
+export function getPlayerNameQueryScore(player, query) {
+  const { orderedQuery, compactQuery } = getNameQueryKeys(query);
+
+  if (!orderedQuery && !compactQuery) {
+    return null;
+  }
+
+  let bestScore = 0;
+
+  for (const candidate of getPlayerNameCandidates(player)) {
+    const orderedKey = getOrderedNameKey(candidate);
+    const compactKey = getCompactNameKey(candidate);
+
+    bestScore = Math.max(
+      bestScore,
+      getNameMatchScore(orderedKey, orderedQuery, 60),
+      getNameMatchScore(compactKey, compactQuery),
+    );
+  }
+
+  return bestScore > 0 ? bestScore : null;
+}
+
 export function findPlayerByName(playersById, name) {
-  const orderedQuery = getOrderedNameKey(name);
-  const compactQuery = getCompactNameKey(name);
+  const { orderedQuery, compactQuery } = getNameQueryKeys(name);
 
   if (!orderedQuery && !compactQuery) {
     return null;
@@ -124,19 +177,7 @@ export function findPlayerByName(playersById, name) {
 }
 
 export function playerMatchesNameQuery(player, query) {
-  const orderedQuery = getOrderedNameKey(query);
-  const compactQuery = getCompactNameKey(query);
-
-  if (!orderedQuery && !compactQuery) {
-    return true;
-  }
-
-  const names = getCachedPlayerNameMatchKeys(player);
-
-  return names.some((name) => (
-    (orderedQuery && name.includes(orderedQuery))
-    || (compactQuery && name.includes(compactQuery))
-  ));
+  return getPlayerNameQueryScore(player, query) !== null;
 }
 
 export function isPlayerAlreadyUsed(entries, selectedPlayerId, cellKey) {

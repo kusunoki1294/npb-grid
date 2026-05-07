@@ -1,4 +1,4 @@
-function GridCell({ cell, onClick, emptyLabel, meta }) {
+function GridCell({ cell, onClick, emptyLabel, meta, statusText }) {
   const stateClassName = cell.result
     ? cell.result === 'correct'
       ? 'grid-cell correct'
@@ -17,8 +17,8 @@ function GridCell({ cell, onClick, emptyLabel, meta }) {
         {cell.playerName || emptyLabel}
       </span>
       <span className="cell-status">
-        {cell.result === 'correct' && 'Correct'}
-        {cell.result === 'incorrect' && 'Try again'}
+        {cell.result === 'correct' && statusText.correct}
+        {cell.result === 'incorrect' && statusText.incorrect}
       </span>
     </button>
   );
@@ -41,6 +41,7 @@ export default function GridBoard({
   onCellClick,
   onCategoryClick,
   emptyLabel,
+  statusText,
   cellMeta,
 }) {
   return (
@@ -75,6 +76,7 @@ export default function GridBoard({
                   cell={cell}
                   onClick={() => onCellClick(rowIndex, columnIndex)}
                   emptyLabel={emptyLabel}
+                  statusText={statusText}
                   meta={cellMeta?.[cellKey]}
                 />
               );

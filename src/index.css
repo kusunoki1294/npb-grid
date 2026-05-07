@@ -804,6 +804,11 @@ h1 {
   letter-spacing: 0.08em;
 }
 
+.page-shell.locale-ja .cell-status {
+  text-transform: none;
+  letter-spacing: 0;
+}
+
 .summary-card {
   position: relative;
   display: flex;
@@ -1185,18 +1190,69 @@ h1 {
 }
 
 .suggestions {
-  display: flex;
+  display: grid;
   gap: 10px;
-  flex-wrap: wrap;
   margin-bottom: 18px;
 }
 
 .suggestion-chip {
+  display: grid;
+  gap: 4px;
+  justify-items: flex-start;
+  text-align: left;
   border: 1px solid rgba(123, 197, 255, 0.3);
   background: rgba(28, 81, 139, 0.28);
   color: #f6f8fb;
+  border-radius: 18px;
+  padding: 12px 14px;
+}
+
+.suggestion-chip.used {
+  border-color: rgba(255, 215, 220, 0.22);
+  background: rgba(92, 36, 50, 0.24);
+}
+
+.suggestion-chip-label {
+  font-size: 0.98rem;
+}
+
+.suggestion-chip-meta {
+  color: #bdd8f3;
+  font-size: 0.84rem;
+}
+
+.suggestion-chip-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 2px;
+}
+
+.suggestion-chip-tag {
+  border: 1px solid rgba(255, 255, 255, 0.16);
   border-radius: 999px;
-  padding: 8px 12px;
+  padding: 4px 8px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.suggestion-chip-tag.good {
+  border-color: rgba(130, 233, 192, 0.3);
+  background: rgba(24, 119, 83, 0.26);
+  color: #d6ffea;
+}
+
+.suggestion-chip-tag.muted {
+  border-color: rgba(255, 215, 220, 0.22);
+  background: rgba(92, 36, 50, 0.22);
+  color: #ffdce2;
+}
+
+.suggestions-note {
+  margin: 0;
+  color: #bdd8f3;
+  font-size: 0.92rem;
 }
 
 .editor-actions {
