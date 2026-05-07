@@ -1300,32 +1300,16 @@ function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame, onOpenBoa
   const playerCounts = {};
   const teamCounts = {};
   const categoryCounts = {};
-  const averageRarityValues = [];
 
   for (const result of storedResults) {
-    const grid = getSnapshotGrid(result.puzzle_date);
     const cells = result.cells ?? {};
-    let rarityTotal = 0;
-    let rarityHits = 0;
 
     for (const [key, cell] of Object.entries(cells)) {
       if (cell?.result !== 'correct' || !cell.playerId) {
         continue;
       }
 
-      const [rowIndex, columnIndex] = key.split('-').map(Number);
-      const rowCategory = grid.rows[rowIndex];
-      const columnCategory = grid.columns[columnIndex];
-
-      if (!rowCategory || !columnCategory) {
-        continue;
-      }
-
       const player = playersById[cell.playerId];
-      const rarityCount = getEligibleIntersectionCount(rowCategory.id, columnCategory.id, eligibility);
-
-      rarityTotal += rarityCount;
-      rarityHits += 1;
 
       if (player) {
         const playerLabel = getPlayerDisplayName(player, locale);
@@ -1344,10 +1328,6 @@ function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame, onOpenBoa
       const localizedLabel = localizeCategory(category, locale).label;
       categoryCounts[localizedLabel] = (categoryCounts[localizedLabel] ?? 0) + 1;
     }
-
-    if (rarityHits > 0) {
-      averageRarityValues.push(rarityTotal / rarityHits);
-    }
   }
 
   const archiveRows = archiveDates.map((dateString) => {
@@ -1363,36 +1343,18 @@ function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame, onOpenBoa
 
     const score = result.score ?? 0;
     const guessCount = result.guess_count ?? 0;
-    const grid = getSnapshotGrid(dateString);
-    const solvedCounts = Object.entries(result.cells ?? {})
-      .filter(([, cell]) => cell?.result === 'correct')
-      .map(([key]) => {
-        const [rowIndex, columnIndex] = key.split('-').map(Number);
-        const rowCategory = grid.rows[rowIndex];
-        const columnCategory = grid.columns[columnIndex];
-        return rowCategory && columnCategory
-          ? getEligibleIntersectionCount(rowCategory.id, columnCategory.id, eligibility)
-          : null;
-      })
-      .filter((value) => typeof value === 'number');
-
-    const averageMatches = solvedCounts.length > 0
-      ? solvedCounts.reduce((total, value) => total + value, 0) / solvedCounts.length
-      : null;
 
     return {
       dateString,
       scoreLabel: guessCount >= MAX_GUESSES ? `${score} / 9` : text.archiveContinue,
-      rarityLabel: averageMatches ? text.avgRarityValue(averageMatches) : '—',
+      rarityLabel: '—',
     };
   });
 
   const averageScore = completedResults.length > 0
     ? completedResults.reduce((total, result) => total + (result.score ?? 0), 0) / completedResults.length
     : null;
-  const averageRarity = averageRarityValues.length > 0
-    ? averageRarityValues.reduce((total, value) => total + value, 0) / averageRarityValues.length
-    : null;
+  const averageRarity = null;
   const topPlayers = createLeaderboard(playerCounts);
   const topTeams = createLeaderboard(teamCounts);
   const topCategories = createLeaderboard(categoryCounts, 5);
