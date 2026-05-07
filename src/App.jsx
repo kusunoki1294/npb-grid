@@ -78,6 +78,7 @@ const copy = {
     authSignupSuccess: 'Account created. Check your email if confirmation is enabled.',
     authLogout: 'Log out',
     authLoggedInAs: 'Signed in as',
+    authRestoring: 'Restoring session...',
     authWorking: 'Working...',
     dailySyncLoading: 'Loading your saved daily puzzle progress...',
     dailySyncLoaded: 'Loaded your saved daily progress.',
@@ -214,6 +215,7 @@ const copy = {
     authSignupSuccess: 'アカウントを作成しました。確認メールが有効な場合はメールを確認してください。',
     authLogout: 'ログアウト',
     authLoggedInAs: 'ログイン中',
+    authRestoring: 'ログイン状態を復元しています...',
     authWorking: '処理中...',
     dailySyncLoading: '保存済みのデイリー進捗を読み込んでいます...',
     dailySyncLoaded: '保存済みのデイリー進捗を読み込みました。',
@@ -1338,13 +1340,15 @@ function SummaryScreen({
   );
 }
 
-function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame, onOpenBoard }) {
+function ArchiveScreen({ locale, activeUser, authReady, puzzleDate, onBackToGame, onOpenBoard }) {
   const text = copy[locale];
   const [remoteResults, setRemoteResults] = useState([]);
-  const storedResults = mergeDailyResultsByDate(
-    listStoredDailyResults(activeUser?.id),
-    remoteResults,
-  );
+  const storedResults = authReady
+    ? mergeDailyResultsByDate(
+      listStoredDailyResults(activeUser?.id),
+      remoteResults,
+    )
+    : [];
   const resultMap = Object.fromEntries(
     storedResults.map((result) => [result.puzzle_date, result]),
   );
@@ -1422,6 +1426,11 @@ function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame, onOpenBoa
   const topCategories = createLeaderboard(categoryCounts, 5);
 
   useEffect(() => {
+    if (!authReady) {
+      setRemoteResults([]);
+      return;
+    }
+
     if (!activeUser || !supabase) {
       setRemoteResults([]);
       return;
@@ -1459,7 +1468,7 @@ function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame, onOpenBoa
     return () => {
       isMounted = false;
     };
-  }, [activeUser]);
+  }, [activeUser, authReady]);
 
   return (
     <main className="archive-shell">
@@ -1705,6 +1714,7 @@ function GameScreen({
   locale,
   mode,
   activeUser,
+  authReady,
   isVisible,
   puzzleDate,
   currentPuzzleDate,
@@ -1849,6 +1859,10 @@ function GameScreen({
       return;
     }
 
+    if (!authReady) {
+      return;
+    }
+
     if (!activeUser || !supabase) {
       setStreakStats({ currentStreak: 0, bestStreak: 0 });
       return;
@@ -1869,10 +1883,16 @@ function GameScreen({
     return () => {
       isMounted = false;
     };
-  }, [activeUser, isDailyMode, isVisible, puzzleDate]);
+  }, [activeUser, authReady, isDailyMode, isVisible, puzzleDate]);
 
   useEffect(() => {
     if (!isDailyMode || !isVisible) {
+      return;
+    }
+
+    if (!authReady) {
+      setDailyResultLoading(Boolean(supabase));
+      setMessage(Boolean(supabase) ? text.dailySyncLoading : text.defaultMessage);
       return;
     }
 
@@ -1951,12 +1971,12 @@ function GameScreen({
         setMessage(text.dailySyncLoaded);
       } else {
         if (!localResult) {
-        setHasLocalDailyRestore(false);
-        setCells(createEmptyCells());
-        setGuessCount(0);
-        setShowSummary(false);
-        setMessage(text.defaultMessage);
-      }
+          setHasLocalDailyRestore(false);
+          setCells(createEmptyCells());
+          setGuessCount(0);
+          setShowSummary(false);
+          setMessage(text.defaultMessage);
+        }
       }
 
       setSelectedCell(null);
@@ -1971,7 +1991,7 @@ function GameScreen({
     return () => {
       isMounted = false;
     };
-  }, [activeUser, isDailyMode, isVisible, locale, puzzleDate, text.dailyGuestNotice, text.dailySyncError, text.dailySyncLoaded, text.dailySyncLoading, text.defaultMessage]);
+  }, [activeUser, authReady, isDailyMode, isVisible, locale, puzzleDate, text.dailyGuestNotice, text.dailySyncError, text.dailySyncLoaded, text.dailySyncLoading, text.defaultMessage]);
 
   useEffect(() => {
     if (isDailyMode || !isVisible) {
@@ -2377,6 +2397,7 @@ export default function App() {
   const [authNotice, setAuthNotice] = useState('');
   const [authLoading, setAuthLoading] = useState(false);
   const [authSession, setAuthSession] = useState(null);
+  const [authReady, setAuthReady] = useState(!supabase);
   const [authForms, setAuthForms] = useState({
     login: {
       email: '',
@@ -2408,16 +2429,33 @@ export default function App() {
 
     let isMounted = true;
 
-    supabase.auth.getSession().then(({ data }) => {
-      if (isMounted) {
+    supabase.auth.getSession()
+      .then(({ data }) => {
+        if (!isMounted) {
+          return;
+        }
+
         setAuthSession(data.session ?? null);
-      }
-    });
+        setAuthReady(true);
+      })
+      .catch(() => {
+        if (!isMounted) {
+          return;
+        }
+
+        setAuthSession(null);
+        setAuthReady(true);
+      });
 
     const {
       data: { subscription },
     } = supabase.auth.onAuthStateChange((_, session) => {
+      if (!isMounted) {
+        return;
+      }
+
       setAuthSession(session ?? null);
+      setAuthReady(true);
     });
 
     return () => {
@@ -2708,7 +2746,11 @@ export default function App() {
         </nav>
 
         <div className="account-actions">
-          {activeUser ? (
+          {!authReady ? (
+            <div className="account-badge">
+              <span>{activeText.authRestoring}</span>
+            </div>
+          ) : activeUser ? (
             <>
               <div className="account-badge">
                 <span>{activeText.authLoggedInAs}</span>
@@ -2770,6 +2812,7 @@ export default function App() {
                 locale="ja"
                 mode="daily"
                 activeUser={activeUser}
+                authReady={authReady}
                 isVisible={activeLocale === 'ja' && activeMode === 'daily'}
                 puzzleDate={puzzleDate}
                 currentPuzzleDate={currentPuzzleDate}
@@ -2782,6 +2825,7 @@ export default function App() {
                 locale="ja"
                 mode="practice"
                 activeUser={activeUser}
+                authReady={authReady}
                 isVisible={activeLocale === 'ja' && activeMode === 'practice'}
                 puzzleDate={puzzleDate}
                 currentPuzzleDate={currentPuzzleDate}
@@ -2794,6 +2838,7 @@ export default function App() {
                 locale="ja"
                 mode="super-hard"
                 activeUser={activeUser}
+                authReady={authReady}
                 isVisible={activeLocale === 'ja' && activeMode === 'super-hard'}
                 puzzleDate={puzzleDate}
                 currentPuzzleDate={currentPuzzleDate}
@@ -2808,6 +2853,7 @@ export default function App() {
                 locale="en"
                 mode="daily"
                 activeUser={activeUser}
+                authReady={authReady}
                 isVisible={activeLocale === 'en' && activeMode === 'daily'}
                 puzzleDate={puzzleDate}
                 currentPuzzleDate={currentPuzzleDate}
@@ -2820,6 +2866,7 @@ export default function App() {
                 locale="en"
                 mode="practice"
                 activeUser={activeUser}
+                authReady={authReady}
                 isVisible={activeLocale === 'en' && activeMode === 'practice'}
                 puzzleDate={puzzleDate}
                 currentPuzzleDate={currentPuzzleDate}
@@ -2832,6 +2879,7 @@ export default function App() {
                 locale="en"
                 mode="super-hard"
                 activeUser={activeUser}
+                authReady={authReady}
                 isVisible={activeLocale === 'en' && activeMode === 'super-hard'}
                 puzzleDate={puzzleDate}
                 currentPuzzleDate={currentPuzzleDate}
@@ -2845,6 +2893,7 @@ export default function App() {
         <ArchiveScreen
           locale={activeLocale}
           activeUser={activeUser}
+          authReady={authReady}
           puzzleDate={currentPuzzleDate}
           onBackToGame={() => setActiveView('game')}
           onOpenBoard={openArchiveBoard}
