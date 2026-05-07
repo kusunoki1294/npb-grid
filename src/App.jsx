@@ -50,7 +50,7 @@ const PITCHING_SPECIAL_CATEGORIES = new Set([
 
 const copy = {
   en: {
-    signIn: 'Sign in',
+    signIn: 'Sign up',
     logIn: 'Log in',
     authClose: 'Close',
     authName: 'Display name',
@@ -89,7 +89,7 @@ const copy = {
     title: 'NPB Trivia Grid',
     dailyTab: 'Daily',
     practiceTab: 'Practice',
-    superHardTab: 'Super hard mode',
+    superHardTab: 'Super hard\nmode',
     score: 'Score',
     noGuesses: 'No guesses remaining.',
     guessesRemaining: (count) => `${count} guesses remaining.`,
@@ -243,7 +243,7 @@ const copy = {
     newGridMessage: '新しいランダムグリッドを読み込みました。',
     howItWorks: '遊び方',
     howText:
-      '各マスに、行と列の条件を両方満たす日本プロ野球の選手を入れてください。マスを選んで選手名を入力すると、その選手が行と列の両方の条件を満たすか判定します。各ボードは、球団、受賞、ポジション、記録の共通カテゴリープールから生成されます。なお、受賞カテゴリはまだ不完全で、現在は 2002 年以降の一部の賞のみを収録しています。予想する前に、行または列のカテゴリーボックスをクリックすると条件や球団メモを確認できます。使える予想は合計 9 回です。',
+      '各マスに、行と列の条件を両方満たす日本プロ野球の選手を入れてください。マスを選んで選手名を入力すると、その選手が行と列の両方の条件を満たすか判定します。各ボードは、球団、受賞、ポジション、記録の共通カテゴリープールから生成されます。なお、受賞カテゴリは古い年度別アーカイブまで広がりましたが、一部の賞は現在も 2002 年以降のみ完全対応です。予想する前に、行または列のカテゴリーボックスをクリックすると条件や球団メモを確認できます。使える予想は合計 9 回です。',
     close: '閉じる',
     enterPlayer: '選手を入力',
     submitGuess: '選択',
@@ -404,7 +404,7 @@ const jaCategoryDetails = {
     heading: '受賞ルール',
     subtitle: 'NPBでの受賞実績',
     note:
-      '球団カテゴリと組み合わさる場合、その球団在籍時にその賞を受賞している必要があります。球団以外のカテゴリとの組み合わせでは、どこかで両方の条件を満たしていれば構いません。なお、受賞カテゴリはまだ不完全で、現在は 2002 年以降の一部の賞のみを収録しています。',
+      '球団カテゴリと組み合わさる場合、その球団在籍時にその賞を受賞している必要があります。球団以外のカテゴリとの組み合わせでは、どこかで両方の条件を満たしていれば構いません。なお、受賞カテゴリは古い年度別アーカイブまで広がりましたが、一部の賞は現在も 2002 年以降のみ完全対応です。',
   },
   position: {
     heading: 'ポジションルール',
@@ -1679,7 +1679,6 @@ function GameScreen({
   currentPuzzleDate,
   onOpenArchive,
   onReturnToToday,
-  onCopyBoardLink,
 }) {
   const text = copy[locale];
   const [activeGrid, setActiveGrid] = useState(() =>
@@ -2146,15 +2145,6 @@ function GameScreen({
     setMessage(text.newGridMessage);
   }
 
-  async function handleCopyBoardLink() {
-    try {
-      await onCopyBoardLink(puzzleDate, locale);
-      setMessage(text.copyLinkSuccess);
-    } catch {
-      setMessage(text.copyLinkError);
-    }
-  }
-
   return (
     <main className="app-shell">
       <section className="hero-card">
@@ -2178,11 +2168,6 @@ function GameScreen({
             {isDailyMode && (
               <button className="info-button" onClick={onOpenArchive} type="button">
                 {text.archive}
-              </button>
-            )}
-            {isDailyMode && (
-              <button className="info-button" onClick={handleCopyBoardLink} type="button">
-                {text.copyLink}
               </button>
             )}
             {isViewingArchiveDate && (
@@ -2584,6 +2569,15 @@ export default function App() {
     await copyTextToClipboard(shareUrl);
   }
 
+  async function handleTopBarCopyBoardLink() {
+    try {
+      await copyBoardLink(puzzleDate, activeLocale);
+      setAuthNotice(activeText.copyLinkSuccess);
+    } catch {
+      setAuthNotice(activeText.copyLinkError);
+    }
+  }
+
   async function handleAuthSubmit(event) {
     event.preventDefault();
 
@@ -2674,7 +2668,7 @@ export default function App() {
   const leaderboardIdentity = getLeaderboardIdentity(activeUser);
 
   return (
-    <div className="page-shell">
+    <div className={activeLocale === 'ja' ? 'page-shell locale-ja' : 'page-shell'}>
       <header className="top-bar">
         <nav className="tab-bar" aria-label="Language tabs">
           <button
@@ -2701,6 +2695,11 @@ export default function App() {
               <button className="account-button secondary" onClick={handleLogout}>
                 {activeText.authLogout}
               </button>
+              {activeView === 'game' && activeMode === 'daily' && (
+                <button className="account-button secondary" onClick={handleTopBarCopyBoardLink}>
+                  {activeText.copyLink}
+                </button>
+              )}
             </>
           ) : (
             <>
@@ -2710,6 +2709,11 @@ export default function App() {
               <button className="account-button primary" onClick={() => openAuthModal('signup')}>
                 {activeText.signIn}
               </button>
+              {activeView === 'game' && activeMode === 'daily' && (
+                <button className="account-button secondary" onClick={handleTopBarCopyBoardLink}>
+                  {activeText.copyLink}
+                </button>
+              )}
             </>
           )}
         </div>
@@ -2749,7 +2753,6 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
-                onCopyBoardLink={copyBoardLink}
               />
             </div>
             <div className={activeMode === 'practice' ? 'mode-panel active' : 'mode-panel'}>
@@ -2762,7 +2765,6 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
-                onCopyBoardLink={copyBoardLink}
               />
             </div>
             <div className={activeMode === 'super-hard' ? 'mode-panel active' : 'mode-panel'}>
@@ -2775,7 +2777,6 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
-                onCopyBoardLink={copyBoardLink}
               />
             </div>
           </div>
@@ -2790,7 +2791,6 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
-                onCopyBoardLink={copyBoardLink}
               />
             </div>
             <div className={activeMode === 'practice' ? 'mode-panel active' : 'mode-panel'}>
@@ -2803,7 +2803,6 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
-                onCopyBoardLink={copyBoardLink}
               />
             </div>
             <div className={activeMode === 'super-hard' ? 'mode-panel active' : 'mode-panel'}>
@@ -2816,7 +2815,6 @@ export default function App() {
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
                 onReturnToToday={returnToTodayBoard}
-                onCopyBoardLink={copyBoardLink}
               />
             </div>
           </div>

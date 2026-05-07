@@ -41,6 +41,10 @@ button {
   padding-top: 18px;
 }
 
+.page-shell.locale-ja {
+  padding-top: 28px;
+}
+
 .top-bar {
   display: flex;
   align-items: center;
@@ -157,22 +161,33 @@ button {
 }
 
 .mode-switch {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(164px, 180px));
   gap: 12px;
   margin: 10px 0 8px;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .mode-switch-button {
-  min-width: 180px;
+  width: 100%;
   border: none;
   border-radius: 22px;
+  min-height: 80px;
   padding: 14px 22px;
   background: transparent;
   color: rgba(232, 240, 252, 0.78);
   font-size: clamp(1.05rem, 2vw, 1.4rem);
   font-weight: 700;
+  line-height: 1.15;
+  white-space: pre-line;
+  text-align: center;
   transition: transform 150ms ease, background 150ms ease, color 150ms ease;
+}
+
+.page-shell.locale-ja .mode-switch-button {
+  min-height: 80px;
 }
 
 .mode-switch-button:hover {
