@@ -1302,6 +1302,7 @@ function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame, onOpenBoa
   const categoryCounts = {};
 
   for (const result of storedResults) {
+    const grid = getSnapshotGrid(result.puzzle_date);
     const cells = result.cells ?? {};
 
     for (const [key, cell] of Object.entries(cells)) {
