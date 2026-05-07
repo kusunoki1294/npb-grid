@@ -9,6 +9,7 @@ import {
   findPlayerByName,
   formatImportedPlayerName,
   isPlayerAlreadyUsed,
+  playerMatchesNameQuery,
 } from './lib/validateAnswer';
 import { getIntersectionPlayerIds } from './lib/categoryIntersection';
 import { hasSupabaseConfig, supabase } from './lib/supabase';
@@ -1761,18 +1762,9 @@ function GameScreen({
     ),
   );
   const allPlayers = Object.values(playersById);
-  const query = draftName.trim().toLowerCase();
-  const suggestions = (query
-    ? allPlayers.filter((player) => {
-        const english = (player.name ?? '').toLowerCase();
-        const japanese = (player.nameJapanese ?? '').toLowerCase();
-        const localizedFallback = formatImportedPlayerName(player.name ?? '').toLowerCase();
-        return (
-          english.includes(query)
-          || japanese.includes(query)
-          || localizedFallback.includes(query)
-        );
-      })
+  const hasDraftQuery = Boolean(draftName.trim());
+  const suggestions = (hasDraftQuery
+    ? allPlayers.filter((player) => playerMatchesNameQuery(player, draftName))
     : allPlayers
   ).slice(0, 8);
   const leaderboardIdentity = getLeaderboardIdentity(activeUser);
@@ -2346,7 +2338,7 @@ function GameScreen({
             <div className="suggestions">
               {suggestions.map((player) => (
                 <button
-                  key={player.name}
+                  key={player.id}
                   className="suggestion-chip"
                   onClick={() => {
                     setDraftName(getPlayerDisplayName(player, locale));
