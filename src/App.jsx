@@ -20,6 +20,7 @@ import eligibility from '../data/processed/eligibility.json';
 
 const MAX_GUESSES = 9;
 const ARCHIVE_START_DATE = '2026-05-01';
+const ENABLE_PUBLIC_LEADERBOARD = false;
 const STANDARD_MODE_MIN_ELIGIBLE = 13;
 const SUPER_HARD_MIN_ELIGIBLE = 3;
 const SUPER_HARD_MAX_ELIGIBLE = 15;
@@ -126,7 +127,7 @@ const copy = {
           : 'Tough matchup today',
     summaryLeaderboard: 'Daily Leaderboard',
     leaderboardLoading: 'Loading leaderboard...',
-    leaderboardUnavailable: 'Leaderboard unavailable until Supabase is configured.',
+    leaderboardUnavailable: 'Leaderboard is temporarily disabled until server-side result verification is added.',
     leaderboardEmpty: 'No completed boards for this day yet.',
     leaderboardRank: 'Rank',
     leaderboardPlayer: 'Player',
@@ -262,7 +263,7 @@ const copy = {
           : '今日は苦戦しました',
     summaryLeaderboard: 'デイリー順位',
     leaderboardLoading: '順位を読み込んでいます...',
-    leaderboardUnavailable: 'Supabase が設定されると順位を表示できます。',
+    leaderboardUnavailable: '順位機能は、サーバー側の結果検証を追加するまで一時停止しています。',
     leaderboardEmpty: 'この日の完了ボードはまだありません。',
     leaderboardRank: '順位',
     leaderboardPlayer: 'プレイヤー',
@@ -1707,7 +1708,7 @@ function GameScreen({
   const isGameOver = guessCount >= MAX_GUESSES;
   const isDailyMode = mode === 'daily';
   const isViewingArchiveDate = isDailyMode && puzzleDate !== currentPuzzleDate;
-  const hasLeaderboardSupport = Boolean(supabase);
+  const hasLeaderboardSupport = ENABLE_PUBLIC_LEADERBOARD && Boolean(supabase);
   const localizedGrid = {
     ...activeGrid,
     rows: activeGrid.rows.map((category) => localizeCategory(category, locale)),
@@ -1778,7 +1779,7 @@ function GameScreen({
   }
 
   useEffect(() => {
-    if (!isDailyMode || !showSummary || !isGameOver) {
+    if (!ENABLE_PUBLIC_LEADERBOARD || !isDailyMode || !showSummary || !isGameOver) {
       setLeaderboardRows([]);
       setLeaderboardLoading(false);
       return;

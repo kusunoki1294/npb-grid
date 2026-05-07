@@ -69,7 +69,8 @@ Use the Supabase SQL Editor, paste the file contents, and run it once for your p
 
 This creates a `daily_results` table with row-level security so each authenticated user can only read and write their own daily rows.
 
-It also creates a `get_daily_leaderboard(date)` SQL function that powers the daily final-score leaderboard shown in the app.
+It also creates a `get_daily_leaderboard(date)` SQL function for future leaderboard use.
+The public leaderboard is currently disabled in the app until server-side result verification is added.
 
 If you later add real CSV files under `data/raw/`, rebuild processed data with:
 
