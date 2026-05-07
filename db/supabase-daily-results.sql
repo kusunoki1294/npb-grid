@@ -130,6 +130,8 @@ to authenticated
 using (auth.uid() = user_id)
 with check (auth.uid() = user_id);
 
+drop function if exists public.get_daily_leaderboard(date);
+
 create or replace function public.get_daily_leaderboard(target_puzzle_date date)
 returns table (
   user_id uuid,
