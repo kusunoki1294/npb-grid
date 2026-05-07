@@ -863,6 +863,59 @@ function getSnapshotGrid(dateString) {
   return createGridForMode('daily', dateString);
 }
 
+function normalizePuzzleDateString(value) {
+  if (typeof value !== 'string') {
+    return null;
+  }
+
+  const match = value.match(/^(\d{4}-\d{2}-\d{2})$/)
+    ?? value.match(/^(\d{4}-\d{2}-\d{2})T/);
+
+  if (!match) {
+    return null;
+  }
+
+  const normalizedDate = match[1];
+  const parsed = new Date(`${normalizedDate}T00:00:00`);
+
+  return Number.isNaN(parsed.getTime()) ? null : normalizedDate;
+}
+
+function normalizeStoredCells(value) {
+  return value && typeof value === 'object' && !Array.isArray(value) ? value : {};
+}
+
+function normalizeDailyResultRow(result) {
+  if (!result || typeof result !== 'object') {
+    return null;
+  }
+
+  const puzzleDate = normalizePuzzleDateString(result.puzzle_date);
+
+  if (!puzzleDate) {
+    return null;
+  }
+
+  const score = Number.isFinite(result.score) ? result.score : 0;
+  const guessCount = Number.isFinite(result.guess_count) ? result.guess_count : 0;
+  const rarityTotal = Number.isFinite(result.rarity_total) ? result.rarity_total : 0;
+  const rarityHits = Number.isFinite(result.rarity_hits) ? result.rarity_hits : 0;
+  const rarityAverage = Number.isFinite(result.rarity_average) ? result.rarity_average : null;
+
+  return {
+    ...result,
+    puzzle_date: puzzleDate,
+    score,
+    guess_count: guessCount,
+    cells: normalizeStoredCells(result.cells),
+    rarity_total: rarityTotal,
+    rarity_hits: rarityHits,
+    rarity_average: rarityAverage,
+    completed_at: typeof result.completed_at === 'string' ? result.completed_at : null,
+    updated_at: typeof result.updated_at === 'string' ? result.updated_at : '',
+  };
+}
+
 function getDailyStorageKey(dateString, userId) {
   return `npb-daily-result:${dateString}:${userId ?? 'guest'}`;
 }
@@ -879,7 +932,7 @@ function readStoredDailyResult(dateString, userId) {
   }
 
   try {
-    return JSON.parse(raw);
+    return normalizeDailyResultRow(JSON.parse(raw));
   } catch {
     return null;
   }
@@ -956,8 +1009,8 @@ function listStoredDailyResults(userId) {
     }
 
     try {
-      const parsed = JSON.parse(raw);
-      if (parsed?.puzzle_date) {
+      const parsed = normalizeDailyResultRow(JSON.parse(raw));
+      if (parsed) {
         results.push(parsed);
       }
     } catch {
@@ -1048,16 +1101,18 @@ function mergeDailyResultsByDate(...resultSets) {
 
   for (const results of resultSets) {
     for (const result of results ?? []) {
-      if (!result?.puzzle_date) {
+      const normalizedResult = normalizeDailyResultRow(result);
+
+      if (!normalizedResult) {
         continue;
       }
 
-      const existing = merged.get(result.puzzle_date);
-      const nextUpdatedAt = result.updated_at ?? '';
+      const existing = merged.get(normalizedResult.puzzle_date);
+      const nextUpdatedAt = normalizedResult.updated_at ?? '';
       const existingUpdatedAt = existing?.updated_at ?? '';
 
       if (!existing || nextUpdatedAt >= existingUpdatedAt) {
-        merged.set(result.puzzle_date, result);
+        merged.set(normalizedResult.puzzle_date, normalizedResult);
       }
     }
   }
@@ -1302,7 +1357,6 @@ function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame, onOpenBoa
   const categoryCounts = {};
 
   for (const result of storedResults) {
-    const grid = getSnapshotGrid(result.puzzle_date);
     const cells = result.cells ?? {};
 
     for (const [key, cell] of Object.entries(cells)) {
@@ -1325,9 +1379,15 @@ function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame, onOpenBoa
       }
     }
 
-    for (const category of [...grid.rows, ...grid.columns]) {
-      const localizedLabel = localizeCategory(category, locale).label;
-      categoryCounts[localizedLabel] = (categoryCounts[localizedLabel] ?? 0) + 1;
+    try {
+      const grid = getSnapshotGrid(result.puzzle_date);
+
+      for (const category of [...grid.rows, ...grid.columns]) {
+        const localizedLabel = localizeCategory(category, locale).label;
+        categoryCounts[localizedLabel] = (categoryCounts[localizedLabel] ?? 0) + 1;
+      }
+    } catch {
+      // Skip malformed legacy rows instead of crashing the whole archive screen.
     }
   }
 
@@ -1384,7 +1444,13 @@ function ArchiveScreen({ locale, activeUser, puzzleDate, onBackToGame, onOpenBoa
         return;
       }
 
-      setRemoteResults(Array.isArray(data) ? data : []);
+      setRemoteResults(
+        Array.isArray(data)
+          ? data
+            .map((result) => normalizeDailyResultRow(result))
+            .filter(Boolean)
+          : [],
+      );
     }
 
     loadArchiveResults();
