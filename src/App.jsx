@@ -80,7 +80,7 @@ const copy = {
     newGridMessage: 'Loaded a new random grid.',
     howItWorks: 'How it works',
     howText:
-      'Fill each square with a Nippon Professional Baseball player who matches both the row and column categories. Choose a square, enter a player name, and the game checks whether that player satisfies both categories. Each new board is generated from one shared category pool of teams, awards, positions, and milestones. Note: award-based categories are still incomplete and currently only cover some awards from 2002 onward. Click any row or column category box to view its criteria and team or franchise notes before making a guess. You get 9 total guesses for the board.',
+      'Fill each square with a Nippon Professional Baseball player who matches both the row and column categories. Choose a square, enter a player name, and the game checks whether that player satisfies both categories. Each new board is generated from one shared category pool of teams, awards, positions, and milestones. Note: award-based categories now reach the older yearly archive, but some award types are still only complete from 2002 onward. Click any row or column category box to view its criteria and team or franchise notes before making a guess. You get 9 total guesses for the board.',
     close: 'Close',
     enterPlayer: 'Enter Player',
     submitGuess: 'Submit Guess',

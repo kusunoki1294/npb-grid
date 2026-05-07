@@ -29,7 +29,7 @@ const award = (label) =>
     heading: 'Award / Honor',
     subtitle: label,
     note:
-      'If this is paired with a team, the player must have earned this award or honor while playing for that team in the dataset. If it is paired with a non-team category, the player only needs to satisfy both categories somewhere in the dataset. Note: award categories are still incomplete and currently only cover some awards from 2002 onward.',
+      'If this is paired with a team, the player must have earned this award or honor while playing for that team in the dataset. If it is paired with a non-team category, the player only needs to satisfy both categories somewhere in the dataset. Note: official award coverage now reaches the older yearly archive, but some award types are still only complete from 2002 onward.',
   });
 
 const position = (label) =>

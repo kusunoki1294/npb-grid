@@ -104,13 +104,14 @@ For the first real import pass, start with:
 - Imported players now include Japanese names from the ProEyeKyuu registry, so Japanese mode no longer falls back to English-only imported names for those players.
 
 - Historical awards are written to `data/processed/playerAwards.json`.
-  Note: only some awards are currently recorded from 2002 onward, so award-based categories are still incomplete.
+  Coverage now reaches the official yearly archive back to 1936 for MVP, Rookie of the Year, and the major batting/pitching title categories.
+  Best Nine, Golden Glove, Sawamura, Saves, and Holds still depend on the newer 2002+ award pages, and the current backfill leaves 2 archive rows unresolved because those players do not match the imported player records yet.
 
 ## Next TODO
 
-- Extend the official awards import earlier than 2002.
-  The current awards pipeline only covers the official NPB page structure that was validated for 2002 to 2025, but major awards such as MVP and Sawamura go back much further.
-  Future work: expand `scripts/fetchNpbAwards.js` and `scripts/buildOfficialAwards.js` to support older archive formats and backfill earlier seasons.
+- Backfill the remaining pre-2002 award types that are not present in the yearly archive pages.
+  The current pipeline now handles older league-leader pages, but pre-2002 Best Nine, Golden Glove, Sawamura, Saves, and Holds are still incomplete.
+  Future work: find authoritative older sources for those award pages and close the last 2 unresolved yearly-archive player matches.
 
 ## Main files
 
