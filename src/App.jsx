@@ -100,7 +100,7 @@ const copy = {
     dailySyncError: 'Could not sync your daily progress right now.',
     dailyGuestNotice: 'Log in to save your daily puzzle progress.',
     streak: 'Streak',
-    bestStreak: 'Best',
+    bestStreak: 'Best streak',
     streakDays: (count) => `${count} day${count === 1 ? '' : 's'}`,
     title: 'NPB Trivia Grid',
     dailyTab: 'Daily',
@@ -243,7 +243,7 @@ const copy = {
     dailySyncError: 'デイリー進捗を同期できませんでした。',
     dailyGuestNotice: 'デイリー進捗を保存するにはログインしてください。',
     streak: '連続記録',
-    bestStreak: '最高',
+    bestStreak: '最高記録',
     streakDays: (count) => `${count}日`,
     title: 'プロ野球グリッド',
     dailyTab: 'デイリー',
@@ -1262,12 +1262,12 @@ function computeStreakStats(completedDates, todayDate) {
   return { currentStreak, bestStreak };
 }
 
-function mergePerfectDatesWithLocal(perfectDates, userId) {
-  const localPerfectDates = listStoredDailyResults(userId)
-    .filter((result) => (result.score ?? 0) === 9)
-    .map((result) => result.puzzle_date);
+function isCompletedDailyResult(result) {
+  return (result?.guess_count ?? 0) >= MAX_GUESSES;
+}
 
-  return [...perfectDates, ...localPerfectDates];
+function computeCompletedGridCount(results) {
+  return (results ?? []).filter(isCompletedDailyResult).length;
 }
 
 function getInitialGrid(mode, dateString) {
@@ -1436,7 +1436,7 @@ function ArchiveScreen({ locale, activeUser, authReady, puzzleDate, onBackToGame
     storedResults.map((result) => [result.puzzle_date, result]),
   );
   const archiveDates = getArchiveDatesFromStart(ARCHIVE_START_DATE, puzzleDate);
-  const completedResults = storedResults.filter((result) => (result.guess_count ?? 0) >= MAX_GUESSES);
+  const completedResults = storedResults.filter(isCompletedDailyResult);
   const perfectResults = completedResults.filter((result) => (result.score ?? 0) === 9);
   const perfectDates = perfectResults.map((result) => result.puzzle_date);
   const streakStats = computeStreakStats(perfectDates, puzzleDate);
@@ -1575,7 +1575,7 @@ function ArchiveScreen({ locale, activeUser, authReady, puzzleDate, onBackToGame
             <div className="archive-stat-grid">
               <article className="archive-stat-card">
                 <span>{text.completedGrids}</span>
-                <strong>{completedResults.length}</strong>
+                <strong>{computeCompletedGridCount(storedResults)}</strong>
               </article>
               <article className="archive-stat-card">
                 <span>{text.averageScore}</span>
@@ -1820,6 +1820,7 @@ function GameScreen({
   const [dailyResultLoading, setDailyResultLoading] = useState(false);
   const [hasLocalDailyRestore, setHasLocalDailyRestore] = useState(false);
   const [streakStats, setStreakStats] = useState({ currentStreak: 0, bestStreak: 0 });
+  const [completedGridCount, setCompletedGridCount] = useState(0);
   const [showRarity, setShowRarity] = useState(true);
   const [showSummary, setShowSummary] = useState(false);
   const [leaderboardRows, setLeaderboardRows] = useState([]);
@@ -1904,33 +1905,46 @@ function GameScreen({
     : [];
   const leaderboardIdentity = getLeaderboardIdentity(activeUser);
 
-  async function refreshStreakStats(userId) {
+  async function refreshDailyStats(userId) {
+    if (!userId) {
+      setStreakStats({ currentStreak: 0, bestStreak: 0 });
+      setCompletedGridCount(0);
+      return;
+    }
+
+    const localResults = listStoredDailyResults(userId);
+
+    const applyStats = (results) => {
+      const completedResults = (results ?? []).filter(isCompletedDailyResult);
+      const perfectDates = completedResults
+        .filter((result) => (result.score ?? 0) === 9)
+        .map((result) => result.puzzle_date);
+
+      setStreakStats(computeStreakStats(perfectDates, puzzleDate));
+      setCompletedGridCount(computeCompletedGridCount(results));
+    };
+
     if (!supabase) {
-      const mergedDates = mergePerfectDatesWithLocal([], userId);
-      setStreakStats(computeStreakStats(mergedDates, puzzleDate));
+      applyStats(localResults);
       return;
     }
 
     const { data, error } = await supabase
       .from('daily_results')
-      .select('puzzle_date')
+      .select('puzzle_date, score, guess_count, updated_at')
       .eq('user_id', userId)
-      .eq('score', 9)
       .order('puzzle_date', { ascending: true });
 
     if (error) {
-      const mergedDates = mergePerfectDatesWithLocal([], userId);
-      setStreakStats(computeStreakStats(mergedDates, puzzleDate));
+      applyStats(localResults);
       return;
     }
 
-    const mergedDates = mergePerfectDatesWithLocal(
-      data.map((row) => row.puzzle_date),
-      userId,
-    );
-
-    setStreakStats(
-      computeStreakStats(mergedDates, puzzleDate),
+    applyStats(
+      mergeDailyResultsByDate(
+        localResults,
+        Array.isArray(data) ? data : [],
+      ),
     );
   }
 
@@ -2020,22 +2034,23 @@ function GameScreen({
       return;
     }
 
-    if (!activeUser || !supabase) {
+    if (!activeUser) {
       setStreakStats({ currentStreak: 0, bestStreak: 0 });
+      setCompletedGridCount(0);
       return;
     }
 
     let isMounted = true;
 
-    async function loadStreakStats() {
-      await refreshStreakStats(activeUser.id);
+    async function loadDailyStats() {
+      await refreshDailyStats(activeUser.id);
 
       if (!isMounted) {
         return;
       }
     }
 
-    loadStreakStats();
+    loadDailyStats();
 
     return () => {
       isMounted = false;
@@ -2195,7 +2210,7 @@ function GameScreen({
 
     if (nextGuessCount >= MAX_GUESSES) {
       addCompletedHistoryDate(activeUser?.id, puzzleDate);
-      void refreshStreakStats(activeUser?.id);
+      void refreshDailyStats(activeUser?.id);
     }
 
     if (!activeUser || !supabase) {
@@ -2214,7 +2229,7 @@ function GameScreen({
     }
 
     if (nextGuessCount >= MAX_GUESSES) {
-      void refreshStreakStats(activeUser.id);
+      void refreshDailyStats(activeUser.id);
     }
 
   }
@@ -2388,6 +2403,10 @@ function GameScreen({
                   <div className="daily-stat-chip">
                     <span>{text.bestStreak}</span>
                     <strong>{text.streakDays(streakStats.bestStreak)}</strong>
+                  </div>
+                  <div className="daily-stat-chip">
+                    <span>{text.completedGrids}</span>
+                    <strong>{completedGridCount}</strong>
                   </div>
                 </div>
               )}
