@@ -135,6 +135,7 @@ const copy = {
     cellIncorrectStatus: 'Try again',
     suggestionsHint: 'Start typing to see matching players.',
     suggestionsEmpty: 'No matching players found.',
+    suggestionEligible: 'Eligible',
     suggestionAlreadyUsed: 'Already used',
     summaryKicker: 'Game Complete',
     summaryHeading: 'Final Scorecard',
@@ -277,6 +278,7 @@ const copy = {
     cellIncorrectStatus: '再挑戦',
     suggestionsHint: '入力すると該当する選手候補が表示されます。',
     suggestionsEmpty: '一致する選手が見つかりません。',
+    suggestionEligible: '該当',
     suggestionAlreadyUsed: '使用済み',
     summaryKicker: 'ゲーム終了',
     summaryHeading: '最終スコアカード',
@@ -754,7 +756,11 @@ function getPlayerSuggestionDetail(player, locale) {
   return [team, position].filter(Boolean).join(' • ');
 }
 
-function compareSuggestionEntries(left, right, locale) {
+function compareSuggestionEntries(left, right, locale, preferEligibleMatches = false) {
+  if (preferEligibleMatches && left.isEligibleForSelectedCell !== right.isEligibleForSelectedCell) {
+    return Number(right.isEligibleForSelectedCell) - Number(left.isEligibleForSelectedCell);
+  }
+
   if (left.matchScore !== right.matchScore) {
     return right.matchScore - left.matchScore;
   }
@@ -1853,6 +1859,18 @@ function GameScreen({
   const selectedCellKey = selectedCell
     ? getCellKey(selectedCell.rowIndex, selectedCell.columnIndex)
     : null;
+  const eligiblePlayerIdsForSelectedCell = selectedCell && mode === 'super-easy'
+    ? new Set(
+      getIntersectionPlayerIds(
+        activeGrid.rows[selectedCell.rowIndex],
+        activeGrid.columns[selectedCell.columnIndex],
+        eligibility,
+        playerAwards,
+        battingSeasons,
+        pitchingSeasons,
+      ),
+    )
+    : null;
   const usedPlayerIds = new Set(
     Object.entries(cells).flatMap(([key, cell]) => (
       key !== selectedCellKey && cell?.result === 'correct' && cell.playerId
@@ -1875,11 +1893,13 @@ function GameScreen({
           label: getPlayerDisplayName(player, locale),
           detail: getPlayerSuggestionDetail(player, locale),
           matchScore,
+          isEligibleForSelectedCell: eligiblePlayerIdsForSelectedCell?.has(player.id) ?? false,
           isUsed: usedPlayerIds.has(player.id),
         };
       })
       .filter(Boolean)
-      .sort((left, right) => compareSuggestionEntries(left, right, locale))
+      .sort((left, right) =>
+        compareSuggestionEntries(left, right, locale, mode === 'super-easy'))
       .slice(0, 8)
     : [];
   const leaderboardIdentity = getLeaderboardIdentity(activeUser);
@@ -2511,9 +2531,14 @@ function GameScreen({
                   {suggestion.detail && (
                     <span className="suggestion-chip-meta">{suggestion.detail}</span>
                   )}
-                  {suggestion.isUsed && (
+                  {(suggestion.isEligibleForSelectedCell || suggestion.isUsed) && (
                     <span className="suggestion-chip-tags">
-                      <span className="suggestion-chip-tag muted">{text.suggestionAlreadyUsed}</span>
+                      {suggestion.isEligibleForSelectedCell && (
+                        <span className="suggestion-chip-tag success">{text.suggestionEligible}</span>
+                      )}
+                      {suggestion.isUsed && (
+                        <span className="suggestion-chip-tag muted">{text.suggestionAlreadyUsed}</span>
+                      )}
                     </span>
                   )}
                 </button>
