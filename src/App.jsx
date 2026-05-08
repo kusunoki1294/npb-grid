@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import GridBoard from './components/GridBoard';
 import {
+  buildGridFromCategoryIds,
   categoriesById,
   createDailyGridFromEligibility,
   createRandomGridFromEligibility,
@@ -27,6 +28,19 @@ const SUPER_HARD_MIN_ELIGIBLE = 3;
 const SUPER_HARD_MAX_ELIGIBLE = 15;
 const STANDARD_GRID_MAX_ATTEMPTS = 20000;
 const SUPER_HARD_GRID_MAX_ATTEMPTS = 50000;
+const SUPER_EASY_GRID_MAX_ATTEMPTS = 50000;
+const SUPER_EASY_FALLBACK_GRID = buildGridFromCategoryIds(
+  [
+    'team:chunichi-dragons',
+    'battingSeasonMilestone:20-hr-20-sb-season',
+    'team:orix-buffaloes',
+  ],
+  [
+    'battingSeasonMilestone:320-avg-season',
+    'battingSeasonMilestone:20-hr-season',
+    'battingCareerMilestone:400-career-obp',
+  ],
+);
 const eligibleIntersectionCountCache = new Map();
 const BATTING_AWARDS = new Set([
   'Batting Champion',
@@ -91,6 +105,7 @@ const copy = {
     title: 'NPB Trivia Grid',
     dailyTab: 'Daily',
     practiceTab: 'Practice',
+    superEasyTab: 'Super easy\nmode',
     superHardTab: 'Super hard\nmode',
     score: 'Score',
     noGuesses: 'No guesses remaining.',
@@ -232,6 +247,7 @@ const copy = {
     title: 'プロ野球グリッド',
     dailyTab: 'デイリー',
     practiceTab: '練習',
+    superEasyTab: '超簡単',
     superHardTab: '超難問',
     score: 'スコア',
     noGuesses: '残り回数はありません。',
@@ -250,7 +266,7 @@ const copy = {
     newGridMessage: '新しいランダムグリッドを読み込みました。',
     howItWorks: '遊び方',
     howText:
-      '各マスに、行と列の条件を両方満たす日本プロ野球の選手を入れてください。マスを選んで選手名を入力すると、その選手が行と列の両方の条件を満たすか判定します。各ボードは、球団、受賞、ポジション、記録の共通カテゴリープールから生成されます。なお、受賞カテゴリは古い年度別アーカイブまで広がりましたが、一部の賞は現在も 2002 年以降のみ完全対応です。予想する前に、行または列のカテゴリーボックスをクリックすると条件や球団メモを確認できます。使える予想は合計 9 回です。',
+      '各マスに、行と列の条件を両方満たす日本プロ野球の選手を入れてください。マスを選んで選手名を入力すると、その選手が行と列の両方の条件を満たすか判定します。各ボードは、球団、受賞、ポジション、記録の共通カテゴリープールから生成されます。なお、受賞カテゴリは古い年度別アーカイブまで広がりましたが、一部の賞は 2002 年以降のみ完全対応です。予想する前に、行または列のカテゴリーボックスをクリックすると条件や球団メモを確認できます。使える予想は合計 9 回です。',
     close: '閉じる',
     enterPlayer: '選手を入力',
     submitGuess: '選択',
@@ -416,7 +432,7 @@ const jaCategoryDetails = {
     heading: '受賞ルール',
     subtitle: 'NPBでの受賞実績',
     note:
-      '球団カテゴリと組み合わさる場合、その球団在籍時にその賞を受賞している必要があります。球団以外のカテゴリとの組み合わせでは、どこかで両方の条件を満たしていれば構いません。なお、受賞カテゴリは古い年度別アーカイブまで広がりましたが、一部の賞は現在も 2002 年以降のみ完全対応です。',
+      '球団カテゴリと組み合わさる場合、その球団在籍時にその賞を受賞している必要があります。球団以外のカテゴリとの組み合わせでは、どこかで両方の条件を満たしていれば構いません。なお、受賞カテゴリは古い年度別アーカイブまで広がりましたが、一部の賞は 2002 年以降のみ完全対応です。',
   },
   position: {
     heading: 'ポジションルール',
@@ -621,6 +637,10 @@ function isPlayableIntersectionForMode(mode, rowCategory, columnCategory, eligib
 
   const count = getEligibleIntersectionCount(rowCategory.id, columnCategory.id, eligibilityMap);
 
+  if (mode === 'super-easy') {
+    return getRarityTone(count) === 'open';
+  }
+
   if (mode === 'super-hard') {
     return count >= SUPER_HARD_MIN_ELIGIBLE && count <= SUPER_HARD_MAX_ELIGIBLE;
   }
@@ -648,13 +668,21 @@ function createGridForMode(mode, dateString) {
     );
   }
 
-  return createRandomGridFromEligibility(
+  const grid = createRandomGridFromEligibility(
     eligibility,
     hasValidIntersection,
     mode === 'super-hard'
       ? { maxAttempts: SUPER_HARD_GRID_MAX_ATTEMPTS }
-      : { maxAttempts: STANDARD_GRID_MAX_ATTEMPTS },
+      : mode === 'super-easy'
+        ? { maxAttempts: SUPER_EASY_GRID_MAX_ATTEMPTS }
+        : { maxAttempts: STANDARD_GRID_MAX_ATTEMPTS },
   );
+
+  if (mode === 'super-easy' && !gridMatchesModeConstraints(grid, mode, eligibility)) {
+    return SUPER_EASY_FALLBACK_GRID;
+  }
+
+  return grid;
 }
 
 function getRarityTone(count) {
@@ -838,7 +866,7 @@ function readUrlState(currentPuzzleDate) {
   const params = new URLSearchParams(window.location.search);
   const locale = params.get('lang') === 'en' ? 'en' : 'ja';
   const requestedMode = params.get('mode');
-  const mode = requestedMode === 'practice' || requestedMode === 'super-hard'
+  const mode = requestedMode === 'practice' || requestedMode === 'super-easy' || requestedMode === 'super-hard'
     ? requestedMode
     : 'daily';
   const view = params.get('view') === 'archive' ? 'archive' : 'game';
@@ -873,7 +901,7 @@ function buildAppUrl({
     params.set('view', 'archive');
   }
 
-  if (mode === 'practice' || mode === 'super-hard') {
+  if (mode === 'practice' || mode === 'super-easy' || mode === 'super-hard') {
     params.set('mode', mode);
   }
 
@@ -2957,6 +2985,12 @@ export default function App() {
               {copy[activeLocale].practiceTab}
             </button>
             <button
+              className={activeMode === 'super-easy' ? 'mode-switch-button active' : 'mode-switch-button'}
+              onClick={() => setActiveMode('super-easy')}
+            >
+              {copy[activeLocale].superEasyTab}
+            </button>
+            <button
               className={activeMode === 'super-hard' ? 'mode-switch-button active' : 'mode-switch-button'}
               onClick={() => setActiveMode('super-hard')}
             >
@@ -2985,6 +3019,19 @@ export default function App() {
                 activeUser={activeUser}
                 authReady={authReady}
                 isVisible={activeLocale === 'ja' && activeMode === 'practice'}
+                puzzleDate={puzzleDate}
+                currentPuzzleDate={currentPuzzleDate}
+                onOpenArchive={() => setActiveView('archive')}
+                onReturnToToday={returnToTodayBoard}
+              />
+            </div>
+            <div className={activeMode === 'super-easy' ? 'mode-panel active' : 'mode-panel'}>
+              <GameScreen
+                locale="ja"
+                mode="super-easy"
+                activeUser={activeUser}
+                authReady={authReady}
+                isVisible={activeLocale === 'ja' && activeMode === 'super-easy'}
                 puzzleDate={puzzleDate}
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
@@ -3026,6 +3073,19 @@ export default function App() {
                 activeUser={activeUser}
                 authReady={authReady}
                 isVisible={activeLocale === 'en' && activeMode === 'practice'}
+                puzzleDate={puzzleDate}
+                currentPuzzleDate={currentPuzzleDate}
+                onOpenArchive={() => setActiveView('archive')}
+                onReturnToToday={returnToTodayBoard}
+              />
+            </div>
+            <div className={activeMode === 'super-easy' ? 'mode-panel active' : 'mode-panel'}>
+              <GameScreen
+                locale="en"
+                mode="super-easy"
+                activeUser={activeUser}
+                authReady={authReady}
+                isVisible={activeLocale === 'en' && activeMode === 'super-easy'}
                 puzzleDate={puzzleDate}
                 currentPuzzleDate={currentPuzzleDate}
                 onOpenArchive={() => setActiveView('archive')}
