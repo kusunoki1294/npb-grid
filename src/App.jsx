@@ -2904,10 +2904,14 @@ export default function App() {
         setAuthNotice(text.authLoginSuccess);
         setAuthMode(null);
       } else {
+        const emailRedirectTo =
+          typeof window !== 'undefined' ? window.location.origin : undefined;
+
         const { data, error } = await supabase.auth.signUp({
           email: authForms.signup.email,
           password: authForms.signup.password,
           options: {
+            emailRedirectTo,
             data: {
               display_name: authForms.signup.name,
             },
