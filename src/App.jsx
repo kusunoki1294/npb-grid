@@ -124,7 +124,7 @@ const copy = {
     newGridMessage: 'Loaded a new random grid.',
     howItWorks: 'How it works',
     howText:
-      'Fill each square with a Nippon Professional Baseball player who matches both the row and column categories. Choose a square, enter a player name, and the game checks whether that player satisfies both categories. Each new board is generated from one shared category pool of teams, awards, positions, and milestones. Note: award-based categories now reach the older yearly archive, but some award types are still only complete from 2002 onward. Click any row or column category box to view its criteria and team or franchise notes before making a guess. You get 9 total guesses for the board.',
+      'Fill each square with a Nippon Professional Baseball player who matches both the row and column categories. All-time players are eligible, including both active and retired players. Choose a square, enter a player name, and the game checks whether that player satisfies both categories. Each new board is generated from one shared category pool of teams, awards, positions, and milestones. Note: award-based categories now reach the older yearly archive, but some award types are still only complete from 2002 onward. Click any row or column category box to view its criteria and team or franchise notes before making a guess. You get 9 total guesses for the board.',
     close: 'Close',
     enterPlayer: 'Enter Player',
     submitGuess: 'Submit Guess',
@@ -267,7 +267,7 @@ const copy = {
     newGridMessage: '新しいランダムグリッドを読み込みました。',
     howItWorks: '遊び方',
     howText:
-      '各マスに、行と列の条件を両方満たす日本プロ野球の選手を入れてください。マスを選んで選手名を入力すると、その選手が行と列の両方の条件を満たすか判定します。各ボードは、球団、受賞、ポジション、記録の共通カテゴリープールから生成されます。なお、受賞カテゴリは古い年度別アーカイブまで広がりましたが、一部の賞は 2002 年以降のみ完全対応です。予想する前に、行または列のカテゴリーボックスをクリックすると条件や球団メモを確認できます。使える予想は合計 9 回です。',
+      '各マスに、行と列の条件を両方満たす日本プロ野球の選手を入れてください。対象は現役・引退を問わない歴代すべての日本プロ野球選手です。マスを選んで選手名を入力すると、その選手が行と列の両方の条件を満たすか判定します。各ボードは、球団、受賞、ポジション、記録の共通カテゴリープールから生成されます。なお、受賞カテゴリは古い年度別アーカイブまで広がりましたが、一部の賞は 2002 年以降のみ完全対応です。予想する前に、行または列のカテゴリーボックスをクリックすると条件や球団メモを確認できます。使える予想は合計 9 回です。',
     close: '閉じる',
     enterPlayer: '選手を入力',
     submitGuess: '選択',
